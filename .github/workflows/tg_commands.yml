@@ -1,0 +1,102 @@
+# GitHub-side Telegram "listen": poll every 5 minutes for `run` / `more N`
+# (Actions cannot keep a permanent socket open; this is the hosted equivalent.)
+#
+# Secrets: TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
+# Optional: X_BEARER_TOKEN
+
+name: TG Commands
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # every 5 minutes
+  workflow_dispatch:
+
+concurrency:
+  group: tg-commands
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    outputs:
+      run: ${{ steps.poll.outputs.run }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Restore TG/digest state
+        uses: actions/cache@v4
+        with:
+          path: |
+            reports/.tg_updates_offset
+            reports/last_fs_digest.json
+          key: tg-state-${{ github.run_id }}
+          restore-keys: |
+            tg-state-
+
+      - name: Write .env
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          test -n "$TELEGRAM_BOT_TOKEN"
+          test -n "$TELEGRAM_CHAT_ID"
+          mkdir -p reports
+          {
+            echo "TELEGRAM_BOT_TOKEN=$TELEGRAM_BOT_TOKEN"
+            echo "TELEGRAM_CHAT_ID=$TELEGRAM_CHAT_ID"
+          } > .env
+
+      - name: Poll Telegram
+        id: poll
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          REPORT_DIR: reports
+        run: python scripts/tg_gha_poll.py
+
+      - name: Prepare digest config
+        if: steps.poll.outputs.run == 'true'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+        run: |
+          cp config.example.yaml config.yaml
+          python - <<'PY'
+          from pathlib import Path
+          import yaml
+          p = Path("config.yaml")
+          raw = yaml.safe_load(p.read_text(encoding="utf-8")) or {}
+          raw.setdefault("first_screen", {})
+          raw["first_screen"]["reports_dir"] = "data/first_screen"
+          raw["first_screen"]["lookback_hours"] = 8
+          raw["notify"] = {"channels": ["telegram"]}
+          p.write_text(yaml.safe_dump(raw, allow_unicode=True, sort_keys=False), encoding="utf-8")
+          PY
+          {
+            echo "TELEGRAM_BOT_TOKEN=$TELEGRAM_BOT_TOKEN"
+            echo "TELEGRAM_CHAT_ID=$TELEGRAM_CHAT_ID"
+            echo "X_BEARER_TOKEN=$X_BEARER_TOKEN"
+          } > .env
+          mkdir -p data/first_screen
+          if [ -f data/first_screen/latest_comma.txt ]; then
+            stamp=$(date -u +%Y-%m-%d_%H%M%S)
+            cp data/first_screen/latest_comma.txt "data/first_screen/FirstScreen_${stamp}_comma.txt"
+          fi
+
+      - name: Run digest on TG run
+        if: steps.poll.outputs.run == 'true'
+        run: |
+          if [ -n "${{ secrets.X_BEARER_TOKEN }}" ]; then
+            python scripts/run_fs_digest.py --x-source api --lookback-hours 8
+          else
+            python scripts/run_fs_digest.py --x-source none --lookback-hours 8
+          fi
