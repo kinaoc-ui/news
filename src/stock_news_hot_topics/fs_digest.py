@@ -91,14 +91,26 @@ def build_fs_digest(
         if candidates:
             top = candidates[0]
             tags = sorted(match_event_tags(config.event_keywords, top.text))
-            tag_zh = "、".join(_TAG_ZH.get(t, t) for t in tags) if tags else "相關消息"
-            short = f"{symbol} — {tag_zh}"
-            detail = (
-                f"{symbol}\n"
-                f"重點：{tag_zh}\n"
-                f"標題：{top.title}\n"
-                f"來源：{top.source}"
-            )
+            tag_zh = "、".join(_TAG_ZH.get(t, t) for t in tags)
+            headline = _clip(top.title, 88)
+            # Short line must carry the actual story — never bare "相關消息".
+            if tag_zh:
+                short = f"{symbol} — {tag_zh}：{headline}"
+            else:
+                short = f"{symbol} — {headline}"
+            summary_bit = _clip(top.summary, 280) if top.summary else ""
+            detail_parts = [
+                f"{symbol}",
+                f"重點：{tag_zh or '新聞'}",
+                f"標題：{top.title}",
+            ]
+            if summary_bit and summary_bit != top.title:
+                detail_parts.append(f"摘要：{summary_bit}")
+            detail_parts.append(f"來源：{top.source}")
+            if len(candidates) > 1:
+                extras = "; ".join(_clip(n.title, 60) for n in candidates[1:4])
+                detail_parts.append(f"其他：{extras}")
+            detail = "\n".join(detail_parts)
             score = 100 + len(candidates) * 5 + len(posts)
             scored.append(
                 (
@@ -116,10 +128,8 @@ def build_fs_digest(
             )
         elif posts:
             top_post = max(posts, key=lambda p: p.engagement * p.account_weight)
-            excerpt = " ".join(top_post.text.split())
-            if len(excerpt) > 120:
-                excerpt = excerpt[:117] + "…"
-            short = f"{symbol} — X @{top_post.author_username}"
+            excerpt = _clip(top_post.text, 120)
+            short = f"{symbol} — X @{top_post.author_username}：{_clip(top_post.text, 70)}"
             detail = (
                 f"{symbol}\n"
                 f"重點：X 討論（@{top_post.author_username}）\n"
@@ -165,6 +175,13 @@ def build_fs_digest(
         items=items,
         x_note=x_note,
     )
+
+
+def _clip(text: str, max_len: int) -> str:
+    cleaned = " ".join((text or "").split())
+    if len(cleaned) <= max_len:
+        return cleaned
+    return cleaned[: max_len - 1] + "…"
 
 
 def format_short_digest(
