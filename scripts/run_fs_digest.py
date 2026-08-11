@@ -56,10 +56,12 @@ def main() -> None:
     x_posts = []
     x_source = "none" if args.skip_x else args.x_source
     bearer_token = os.getenv("X_BEARER_TOKEN", "").strip()
+    x_attempted = False
     if x_source == "none":
         print("Skipping X collection.")
     elif x_source == "browser":
         print("Collecting X posts with browser...")
+        x_attempted = True
         x_posts = collect_x_with_browser(
             config,
             headless=args.browser_headless,
@@ -72,6 +74,7 @@ def main() -> None:
         print("Skipping X collection because X_BEARER_TOKEN is missing.")
     else:
         print("Collecting X posts with API...")
+        x_attempted = True
         with XApiClient(bearer_token, config.max_results_per_query) as client:
             x_posts = client.collect_posts(config)
         print(f"X posts: {len(x_posts)}")
@@ -84,6 +87,7 @@ def main() -> None:
         general_news=general_news,
         x_posts=x_posts,
         max_bullets=args.max_bullets,
+        x_attempted=x_attempted,
     )
     print(f"List: {digest.list_path.name} ({len(digest.symbols)} symbols)")
 

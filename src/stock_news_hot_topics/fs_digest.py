@@ -48,6 +48,7 @@ def build_fs_digest(
     general_news: list[NewsItem],
     x_posts: list[XPost],
     max_bullets: int = 12,
+    x_attempted: bool = False,
 ) -> DigestResult:
     list_path = latest_first_screen_comma(first_screen_dir)
     if list_path is None:
@@ -170,7 +171,7 @@ def build_fs_digest(
     x_note = ""
     if x_posts and x_matched == 0:
         x_note = "X：已掃描，但對今日 First Screen list 暫無可用訊號。"
-    elif not x_posts:
+    elif x_attempted and not x_posts:
         x_note = "X：今輪未能取得貼文（可能未登入／略過）。"
 
     now = utc_now().astimezone()
