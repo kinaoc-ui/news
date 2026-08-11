@@ -1,7 +1,7 @@
 {
-  "title": "FS新聞 08-11 16:06",
-  "list_name": "FirstScreen_2026-08-11_160629_comma.txt",
-  "created_at": "2026-08-11T16:06:39.103107+00:00",
+  "title": "FS新聞 08-11 16:12",
+  "list_name": "FirstScreen_2026-08-11_161247_comma.txt",
+  "created_at": "2026-08-11T16:12:57.347801+00:00",
   "x_note": "",
   "items": [
     {
@@ -24,6 +24,15 @@
     },
     {
       "n": 3,
+      "symbol": "GAP",
+      "short": "GAP — 業績／指引：Are Investors Undervaluing The Gap (GAP) Right Now?",
+      "detail": "GAP\n重點：業績／指引\n標題：Are Investors Undervaluing The Gap (GAP) Right Now?\n摘要：Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.\n來源：Yahoo Finance:GAP\n其他：Pacer Advisors Inc. Lowers Stock Position in The Gap, Inc. …",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-gap-gap-now-134003520.html?.tsrc=rss",
+      "source": "Yahoo Finance:GAP",
+      "kind": "news"
+    },
+    {
+      "n": 4,
       "symbol": "MRK",
       "short": "MRK — 業績／指引：Merck (MRK) Q2 2026 Earnings Call Transcript",
       "detail": "MRK\n重點：業績／指引\n標題：Merck (MRK) Q2 2026 Earnings Call Transcript\n摘要：Oncology and animal health drove $16.6B revenue growth amid upcoming patent expirations.\n來源：Yahoo Finance:MRK\n其他：MRK Stock Up 5.6% in a Month as Estimates Fall: Buy, Hold o…",
@@ -32,7 +41,7 @@
       "kind": "news"
     },
     {
-      "n": 4,
+      "n": 5,
       "symbol": "ROKU",
       "short": "ROKU — AI相關：AI Slop or Streaming’s Future? Inside Roku’s Fairground TV Gamble",
       "detail": "ROKU\n重點：AI相關\n標題：AI Slop or Streaming’s Future? Inside Roku’s Fairground TV Gamble\n摘要：Roku just launched a streaming channel where AI generates every frame of programming and every ad, around the clock, at near-zero cost. Whether that sounds like a gimmick or the future of television depends on a trajectory that has already moved faster than anyone expected.\n來源：Yahoo Finance:ROKU\n其他：“AI Slop or Streaming’s Future? Inside Roku’s Fairground TV…",
@@ -41,7 +50,7 @@
       "kind": "news"
     },
     {
-      "n": 5,
+      "n": 6,
       "symbol": "A",
       "short": "A — Cactus COO Steven Bender sells $1.69m in WHD Class A stock - Investing.com",
       "detail": "A\n重點：新聞\n標題：Cactus COO Steven Bender sells $1.69m in WHD Class A stock - Investing.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOV29kc0s3aHBZZ0tYZW9teEV0NV8xcUM2LWxNcFozZTM0akVpM3lsVWd1QVdydXM3RGZYam1wMGZzbXJMUVFlWTYwUjFrbUd0RzhmYWtPa2lzWUdubEw5MGtrWldubVIzWmpKQndwU2draGlUZ2VNVHNCUG91dFlhUW5fYWpxb05ZUWI4VzdOeE83Y3JoUzZMYzcyMVY1TjZLTFRsWC1Hd3FaR…\n來源：Google News:A",
@@ -50,7 +59,7 @@
       "kind": "news"
     },
     {
-      "n": 6,
+      "n": 7,
       "symbol": "ADT",
       "short": "ADT — 業績／指引：Are Investors Undervaluing ADT (ADT) Right Now?",
       "detail": "ADT\n重點：業績／指引\n標題：Are Investors Undervaluing ADT (ADT) Right Now?\n摘要：Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.\n來源：Yahoo Finance:ADT",
@@ -59,7 +68,7 @@
       "kind": "news"
     },
     {
-      "n": 7,
+      "n": 8,
       "symbol": "AEO",
       "short": "AEO — American Eagle Outfitters, Inc. (NYSE:AEO) Given Consensus Rating of \"Hold\" by Brokerag…",
       "detail": "AEO\n重點：新聞\n標題：American Eagle Outfitters, Inc. (NYSE:AEO) Given Consensus Rating of \"Hold\" by Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTDRGd1ZWTzA2V3Bxa0RqMWFxMkljMlhPOTFtSXNRQXdnNlR0OW1hWnh4ck5mekU2QXlVTjV2ZXFubElxWGRuTnZRaG56RjA4RVEtSkM4LWRyend5LW14SGhtaDhfR0k0STBwWEJ6ZkwtM0gtbkFYOGxFbVZQYWlYRUxEVXFIUkoyZnVSOGlrc0tBZGRNblFRb19YYXRNdkZmUFN5Yjh0UlJHT…\n來源：Google News:AEO",
@@ -68,7 +77,7 @@
       "kind": "news"
     },
     {
-      "n": 8,
+      "n": 9,
       "symbol": "ANET",
       "short": "ANET — Arista Networks, Inc. $ANET Shares Sold by Handelsbanken Fonder AB - MarketBeat",
       "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Shares Sold by Handelsbanken Fonder AB - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ1ZMUGxTQVA5VWtRbEdVSG5xMjhGQjJROXhsNFFqejhSUlo3TVZEeXlhZDRQQXIxRnhDbWJaX2ZocTNWVTRrVjl5OC16YXNrZlJVUXozT3dJSmw0SkdTLW5waVhMdzFjS3JidDlFeWtibmdhSGhEbVdvc2hHYTBGZHRMN1p6cHlMMEZWVzhDMkNJYlVGYjc4cnUzOWpoRTUxRHZzTHNKS3BIM…\n來源：Google News:ANET",
@@ -77,7 +86,7 @@
       "kind": "news"
     },
     {
-      "n": 9,
+      "n": 10,
       "symbol": "BDX",
       "short": "BDX — NewEdge Advisors LLC Acquires 11,414 Shares of Becton, Dickinson and Company $BDX - Mar…",
       "detail": "BDX\n重點：新聞\n標題：NewEdge Advisors LLC Acquires 11,414 Shares of Becton, Dickinson and Company $BDX - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdFhpOTBheVVBdWFJYVJERlhjNWRqQ0xUeHZmRDNxMHZjV1BXRG1jTmZZdGNtaDZIMGZIV3plam9OTFJRVXcyTjR6bDFkdnhKcWJXZWp4ay1XWHp0YUtOUllCT1ZWalFfZUx4WGFTMFVOVktpdkt6blM4U3FpMkRtaUFpbE1lX0Q5VHZvV0FiYlIwNzlFdkFkNHgyVjVJMXZYWFM1Wk8zRXNGO…\n來源：Google News:BDX",
@@ -86,7 +95,7 @@
       "kind": "news"
     },
     {
-      "n": 10,
+      "n": 11,
       "symbol": "CRSP",
       "short": "CRSP — CRISPR Therapeutics AG $CRSP Stock Position Raised by Quantinno Capital Management LP -…",
       "detail": "CRSP\n重點：新聞\n標題：CRISPR Therapeutics AG $CRSP Stock Position Raised by Quantinno Capital Management LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb29ZcjZscU9HdEVZcTdxc3NyLVA5aExvRlBoYzY1bWZ0LWc5eEdWeDVDdVNIX3lVTUlwVnNJaGpYWUFDRzB5Z0EydFo0anEwRVpfd0hRYUFHQ0NGNmo2V2FmaHplNV9KNDJicENrbmNoSndUMXdKVXNzMWphLXl1TjJmWFNMVlhmNU1TTlY5RUxFdVM1QlVWdTc5bHVkUUZqMXFsRk5aa2d3S…\n來源：Google News:CRSP",
@@ -95,21 +104,12 @@
       "kind": "news"
     },
     {
-      "n": 11,
+      "n": 12,
       "symbol": "DNOW",
       "short": "DNOW — 業績／指引：DNOW Stock Jumps 7% Following Massive Q2 Revenue Growth and Raised Full-Year Guidance -…",
       "detail": "DNOW\n重點：業績／指引\n標題：DNOW Stock Jumps 7% Following Massive Q2 Revenue Growth and Raised Full-Year Guidance - TIKR.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOdGFQdzhXa216SEpBTE1sX1NLWGJmZ25QaUt0QzlWeGhmcmRpYmw4RXlTbzI4WXFsdUQtOXo4SFdVWkZlQ3VsN0Z0T0tCX01NZjlkcWgxRHlZYm1tbzBCcGdybU0wSkVrOHczNWpwQU5MRC1naWp6TVpfckZ3REotMm1R?oc=5\" target=\"_blank\">DNOW Stock Jumps 7% Following …\n來源：Google News:DNOW",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdGFQdzhXa216SEpBTE1sX1NLWGJmZ25QaUt0QzlWeGhmcmRpYmw4RXlTbzI4WXFsdUQtOXo4SFdVWkZlQ3VsN0Z0T0tCX01NZjlkcWgxRHlZYm1tbzBCcGdybU0wSkVrOHczNWpwQU5MRC1naWp6TVpfckZ3REotMm1R?oc=5",
       "source": "Google News:DNOW",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "EC",
-      "short": "EC — Ecopetrol S.A. (NYSE:EC) Receives Consensus Rating of \"Reduce\" from Analysts - MarketBe…",
-      "detail": "EC\n重點：新聞\n標題：Ecopetrol S.A. (NYSE:EC) Receives Consensus Rating of \"Reduce\" from Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNWFUc0o2dHlIVE1BZl9BZ3lIbGZCNFZZczJYY2FueDFzcm9CUGFjSmZzTWxJNVpaSE5yVkZWb3kwbGpxbE5wbEY2NTBGVE1mdUlxVE4yNF9feXU1TjFITEU0ZTkwN0duZGN1SWt5SG5sTmVrSHRiZXdldDNiZl9RbXY1NXNGMXBJZGFSc1VfdzQ2V0RfOG14WW9KOVh4RzNNUjdUN3lmQW16Y…\n來源：Google News:EC",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNWFUc0o2dHlIVE1BZl9BZ3lIbGZCNFZZczJYY2FueDFzcm9CUGFjSmZzTWxJNVpaSE5yVkZWb3kwbGpxbE5wbEY2NTBGVE1mdUlxVE4yNF9feXU1TjFITEU0ZTkwN0duZGN1SWt5SG5sTmVrSHRiZXdldDNiZl9RbXY1NXNGMXBJZGFSc1VfdzQ2V0RfOG14WW9KOVh4RzNNUjdUN3lmQW16YUNmeEJqX0VSeTEwTDVxWndKdW5pZ2g?oc=5",
-      "source": "Google News:EC",
       "kind": "news"
     }
   ]
