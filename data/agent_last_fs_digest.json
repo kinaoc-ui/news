@@ -1,0 +1,116 @@
+{
+  "title": "FS新聞 08-11 16:22",
+  "list_name": "latest_comma.txt",
+  "created_at": "2026-08-11T16:22:58.144824+00:00",
+  "x_note": "",
+  "items": [
+    {
+      "n": 1,
+      "symbol": "FSM",
+      "short": "FSM — 斥資2億美元向Barrick／IAMGOLD買入塞內加爾Bambadji金礦勘探項目，毗連Diamba Sud，擴張西非金礦版圖",
+      "detail": "Fortuna Mining（FSM）8月10日宣布，以現金2億美元向Barrick與IAMGOLD子公司收購塞內加爾約190平方公里Bambadji黃金勘探項目（Barrick約1.3035億、IAMGOLD約6965萬），賣方另保留Bambadji Nord首175萬盎司產量0.5%淨冶煉權益金。項目緊貼公司可行性階段的Diamba Sud，合共覆蓋塞內加爾－馬里剪切帶約60公里走向；公司已批出2026年餘下800萬美元、約5.1萬米鑽探預算，料第三季開鑽。對投資者而言，這是明確的資產併購催化劑，補強西非儲量管道，同時消耗庫存現金。",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/fortuna-acquires-highly-prospective-bambadji-213000325.html",
+      "source": "GlobeNewswire / Yahoo Finance",
+      "kind": "deal"
+    },
+    {
+      "n": 2,
+      "symbol": "ROKU",
+      "short": "ROKU — Fox約220億美元、$160／股現金加股票收購仍待完成；同日上線全AI FAST頻道Fairground，股價已近併購套利區間",
+      "detail": "Fox於6月宣布以每股約160美元（96美元現金＋0.9693股Fox A類股）收購Roku，企業價值約220億美元，目標2027上半年交割，須過股東與監管關。近期媒體亦指DOJ要求重新提交HSR表格以延長審查。與此同時，Roku Channel上線Fairground全AI生成內容／廣告的FAST頻道，屬產品實驗但對股價影響次於交易完成機率。現價貼近對價，本質上更似合併套利而非純增長交易。",
+      "url": "https://247wallst.com/investing/2026/08/11/ai-slop-or-streamings-future-inside-rokus-fairground-tv-gamble/",
+      "source": "24/7 Wall St. / Fox press",
+      "kind": "deal"
+    },
+    {
+      "n": 3,
+      "symbol": "GAP",
+      "short": "GAP — Barclays降至Equal Weight、目標價26→20美元，指Old Navy促銷持續、Banana Republic折扣加深壓抑前景",
+      "detail": "Barclays分析師Adrienne Yih於8月11日將Gap（GAP）評級由Overweight降至Equal Weight，目標價由26美元下調至20美元。銀行自有促銷追蹤顯示Old Navy折扣維持高企、Banana Republic轉向更深折扣，雖Gap主品牌仍有支撐，但不足以抵銷Athleta與Old Navy疲弱及牛仔趨勢欠缺新意。同日亦有報道指股價受壓；此前Q1營收約35億美元僅增約1%，管理層已下調全年淨銷售指引。重點是促銷強度升溫可能進一步壓縮毛利與估值修復空間。",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-reshuffles-u-apparel-retailers-115618397.html",
+      "source": "Yahoo Finance / Barclays note",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "TGT",
+      "short": "TGT — Oppenheimer目標價140→170美元並維持Outperform，預期下周業績有機會再上調全年指引",
+      "detail": "Oppenheimer將Target（TGT）目標價由140美元上調至170美元、維持Outperform，認為新CEO Fiddelke帶領的扭轉見效，並指下周公布的財季業績有機會再上調2026全年指引。TGT今年累計漲幅逾五成，TD Cowen、UBS等近日亦上調目標價；Q1淨銷售已升約6.7%。焦點在業績會能否證明流量與可比銷售動能可持續，而非只靠估值追趕。",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/target-turnaround-gains-traction-guidance-161042153.html",
+      "source": "Yahoo Finance / Oppenheimer",
+      "kind": "earnings"
+    },
+    {
+      "n": 5,
+      "symbol": "GSAT",
+      "short": "GSAT — 與Amazon合併案HSR等待期已於7月17日屆滿，Q2更新指料2027交割，仍待FCC等監管及衛星里程碑",
+      "detail": "Globalstar（GSAT）Q2營收約6480萬美元、淨虧約2650萬；更關鍵是Amazon收購案監管進度：HSR等待期已於2026年7月17日屆滿，公司稱正與FCC及多個國際機關溝通，預期2027年交割，仍須滿足剩餘監管批准與HIBLEO-4替代衛星里程碑。因交易在途，公司暫停未來業績電話會與前瞻指引更新。對股東而言股價主要跟交易完成／條款調整風險，而非短期營運數字。",
+      "url": "https://www.stocktitan.net/news/GSAT/globalstar-announces-second-quarter-2026-financial-xl1lyezihu0z.html",
+      "source": "Globalstar / StockTitan",
+      "kind": "deal"
+    },
+    {
+      "n": 6,
+      "symbol": "MRK",
+      "short": "MRK — Q2銷售166億美元（+5%），Keytruda家族84億；惟Terns收購令季度錄得虧損，長線仍受專利懸崖牽制",
+      "detail": "Merck（MRK）公布2026年Q2全球銷售166億美元、按年增5%；Keytruda／Keytruda QLEX合計約84億美元（+5%），其中皮下劑型QLEX貢獻約4.63億。動物保健與WINREVAIR亦帶動增長，公司並上調全年收入展望。惟收購Terns帶來約57億美元費用，令GAAP／非GAAP每股錄得虧損。市場同時關注Keytruda專利到期後的銜接管線；股價近月回升但分析師估計有下調壓力。",
+      "url": "https://www.merck.com/news/merck-highlights-key-regulatory-and-clinical-milestones-across-broad-diverse-pipeline/",
+      "source": "Merck",
+      "kind": "earnings"
+    },
+    {
+      "n": 7,
+      "symbol": "FTNT",
+      "short": "FTNT — Q2收入約20.5億美元（+26%）後上調2026全年指引至80.2–81.8億、非GAAP EPS 3.41–3.47美元",
+      "detail": "Fortinet（FTNT）Q2收入約20.48億美元、按年增26%，產品收入大增約52%，賬單增長約33%；並上調2026全年收入指引至80.2–81.8億美元（約+19%），非GAAP攤薄EPS指引3.41–3.47美元，賬單指引93.5–95.5億。管理層強調SASE Firewall與AI安全需求，同時推出FortiGate 1200G等新品。焦點是硬件升級週期能否持續轉化為更高毛利的訂閱／服務收入。",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fortinet-ftnt-lifted-2026-guidance-201009350.html",
+      "source": "Yahoo Finance / Fortinet",
+      "kind": "earnings"
+    },
+    {
+      "n": 8,
+      "symbol": "ANET",
+      "short": "ANET — 首季突破30億美元收入的紀錄季，AI／雲網絡需求再被市場定價，估計上修帶動股價波動放大",
+      "detail": "Arista Networks（ANET）於8月4日公布首個單季收入逾30億美元的紀錄業績，市場解讀為AI與雲端網絡升級需求持續；翌日股價盤中一度急升逾一成後回吐。隨後估計上修令估值辯論升溫：看好者看Arista 2.0與乙太網AI後端，謹慎者則指高估值已反映樂觀情境。對First Screen名單而言，這是明確的業績＋AI基建主線催化。",
+      "url": "https://finance.yahoo.com/technology/ai/articles/arista-anet-record-quarter-reignites-181302566.html",
+      "source": "Yahoo Finance",
+      "kind": "earnings"
+    },
+    {
+      "n": 9,
+      "symbol": "OKTA",
+      "short": "OKTA — Oppenheimer指銷售執行改善，料財季收入可高於指引中位約2個百分點",
+      "detail": "Oppenheimer最新報告指Okta（OKTA）銷售執行改善，預計即將公布的財季（財政2027 Q2）收入有望較指引中位高出約2個百分點。若屬實，將強化身份安全軟件復甦敘事；惟最終仍視乎官方業績與指引。現階段屬分析師預期上修型消息，適合作為業績前瞻關注點。",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/okta-fiscal-q2-revenue-could-153751408.html",
+      "source": "Yahoo Finance / Oppenheimer",
+      "kind": "earnings"
+    },
+    {
+      "n": 10,
+      "symbol": "TXG",
+      "short": "TXG — Q2收入1.51億美元勝預期但按年跌12.6%；Atera產品線啟動，空間組學轉型成關鍵觀察",
+      "detail": "10x Genomics（TXG）Q2收入約1.51億美元，高於市場收入預期，但按年仍跌約12.6%；同時推出Atera，市場視為公司在空間組學／單細胞市場轉變期的產品過渡信號。業績後有分析師上調，股價波動加大。重點是收入下滑能否被新品與指引穩住，而非單次beat本身。",
+      "url": "https://finance.yahoo.com/healthcare/articles/txg-q2-deep-dive-atera-034122869.html",
+      "source": "Yahoo Finance",
+      "kind": "earnings"
+    },
+    {
+      "n": 11,
+      "symbol": "STRC",
+      "short": "STRC — Strategy再售約1,690枚比特幣籌約1.09億美元回購STRC優先股，凸顯該票據折價／流動性仍需母公司托底",
+      "detail": "Strategy（原MicroStrategy）披露於8月3–9日再出售約1,690枚比特幣，所得約1.09億美元（均價約64,262美元），全數用於Digital Credit Securities回購計劃下回購STRC（Variable Rate Series A Perpetual Stretch Preferred）。同期亦透過ATM出售約659萬股MSTR普通股、籌約6.53億美元，並將美元儲備提升至約46.5億。對名單上的STRC而言，這是明確的資本結構操作：價格表現仍高度依賴母公司以賣幣／發股來支撐回購與股息，而非獨立基本面改善。",
+      "url": "https://www.fxstreet.com/cryptocurrencies/news/strategy-sells-another-1-690-btc-to-fund-strc-stock-buybacks-as-bitcoin-holds-steady-202608101501",
+      "source": "FXStreet",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "HP",
+      "short": "HP — Helmerich & Payne鎖定澳洲Beetaloo盆地長期FlexRig合約，並公布Q3業績材料，國際鑽機利用率成看點",
+      "detail": "Helmerich & Payne（HP，油服鑽機商，非PC廠商HP）與Formentera Partners、Daly Waters Energy及INPEX等就澳洲Beetaloo盆地長期FlexRig合約合作，市場解讀有助支撐國際鑽機利用率與長約收入可見度；公司亦於8月10日發布Q3業績簡報。對投資者，重點是國際長約能否對沖美國陸上週期波動。",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/helmerich-payne-hp-could-11-111126452.html",
+      "source": "Yahoo Finance",
+      "kind": "news"
+    }
+  ]
+}
