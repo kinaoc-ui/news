@@ -8,6 +8,9 @@
 #      set TG_BRIDGE_URL=https://stock-news-tg-bridge.<you>.workers.dev
 #      set WEBHOOK_SECRET=你設嘅密碼
 #      python scripts\setup_telegram_webhook.py
-# 5. Telegram 打 run → 即刻觸發 GitHub FS Digest（唔使開電腦）
+# 5. Extra secret (after first deploy):
+#      npx wrangler secret put CURSOR_AUTOMATION_WEBHOOK_URL
+#    paste the Automations webhook URL
+# 6. Telegram 打 run → Cursor agent 版（中文）+ GitHub 版背景對照
 
 See deploy.bat in this folder.

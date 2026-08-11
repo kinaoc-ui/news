@@ -24,6 +24,8 @@ echo GITHUB_TOKEN ^(需要 actions:write 嘅 PAT^):
 call npx wrangler secret put GITHUB_TOKEN
 echo WEBHOOK_SECRET ^(自訂一串密碼，稍後 setWebhook 會用^):
 call npx wrangler secret put WEBHOOK_SECRET
+echo CURSOR_AUTOMATION_WEBHOOK_URL ^(Automations webhook URL^):
+call npx wrangler secret put CURSOR_AUTOMATION_WEBHOOK_URL
 
 echo [4/4] Deploy...
 call npx wrangler deploy

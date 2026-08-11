@@ -1,25 +1,32 @@
 /**
- * Free Telegram → GitHub bridge (Cloudflare Workers).
- * - run  → workflow_dispatch FS Digest
+ * Free Telegram → Cursor Automation + GitHub bridge (Cloudflare Workers).
+ * - run  → Cursor Automation webhook (agent digest) + GitHub FS Digest (git compare)
  * - more N → fetch data/last_fs_digest.json from GitHub + reply on Telegram
  *
  * Secrets (wrangler secret put):
  *   TELEGRAM_BOT_TOKEN
  *   TELEGRAM_CHAT_ID
- *   GITHUB_TOKEN   (PAT with actions:write + contents:read)
- *   WEBHOOK_SECRET (optional shared secret in URL ?key=)
+ *   GITHUB_TOKEN                 (PAT with actions:write + contents:read)
+ *   CURSOR_AUTOMATION_WEBHOOK_URL (Automations webhook URL)
+ *   WEBHOOK_SECRET               (optional shared secret in URL ?key=)
  */
 
 const REPO = "kinaoc-ui/news";
 const WORKFLOW_FILE = "fs_digest.yml";
 const DIGEST_URL = `https://raw.githubusercontent.com/${REPO}/main/data/last_fs_digest.json`;
+const AGENT_DIGEST_URL = `https://raw.githubusercontent.com/${REPO}/main/data/agent_last_fs_digest.json`;
 
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
 
     if (request.method === "GET" && url.pathname === "/") {
-      return json({ ok: true, service: "tg-bridge", repo: REPO });
+      return json({
+        ok: true,
+        service: "tg-bridge",
+        repo: REPO,
+        agent_webhook: Boolean(env.CURSOR_AUTOMATION_WEBHOOK_URL),
+      });
     }
 
     if (request.method === "POST" && url.pathname === "/telegram") {
@@ -43,9 +50,14 @@ async function handleTelegram(update, env) {
   }
 
   if (/^run$/i.test(text)) {
-    await tgSend(env, "收到 run — 即刻喺 GitHub 開跑，完成會再推。");
+    await tgSend(env, "收到 run — 開跑 agent 版（中文）；Git 版會背景對照。");
+    const agentOk = await dispatchCursorAutomation(env);
+    // Always kick git digest for background compare / fine-tune, even if agent fails.
     await dispatchWorkflow(env);
-    return json({ ok: true, action: "run" });
+    if (!agentOk) {
+      await tgSend(env, "Agent webhook 失敗；仍會出 Git 版（英文標題）。請檢查 CURSOR_AUTOMATION_WEBHOOK_URL。");
+    }
+    return json({ ok: true, action: "run", agent: agentOk });
   }
 
   const more = text.match(/^more\s+(\d+)$/i);
@@ -56,6 +68,30 @@ async function handleTelegram(update, env) {
   }
 
   return json({ ok: true, ignored: "unknown command" });
+}
+
+async function dispatchCursorAutomation(env) {
+  const hook = String(env.CURSOR_AUTOMATION_WEBHOOK_URL || "").trim();
+  if (!hook) return false;
+  const res = await fetch(hook, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "User-Agent": "tg-bridge-worker",
+    },
+    body: JSON.stringify({
+      source: "telegram",
+      command: "run",
+      repo: REPO,
+      requested_at: new Date().toISOString(),
+    }),
+  });
+  if (!res.ok) {
+    const body = await res.text();
+    console.error(`cursor webhook failed: ${res.status} ${body}`);
+    return false;
+  }
+  return true;
 }
 
 async function dispatchWorkflow(env) {
@@ -74,20 +110,18 @@ async function dispatchWorkflow(env) {
   );
   if (!res.ok) {
     const body = await res.text();
-    await tgSend(env, `GitHub 開跑失敗（${res.status}）。可能係 GITHUB_TOKEN 權限唔夠。`);
+    await tgSend(env, `GitHub 對照版開跑失敗（${res.status}）。可能係 GITHUB_TOKEN 權限唔夠。`);
     throw new Error(`dispatch failed: ${res.status} ${body}`);
   }
 }
 
 async function replyMore(env, n) {
-  const res = await fetch(`${DIGEST_URL}?t=${Date.now()}`, {
-    headers: { "User-Agent": "tg-bridge-worker", Accept: "application/json" },
-  });
-  if (!res.ok) {
+  // Prefer agent digest when present; fall back to git digest.
+  const data = (await fetchDigestJson(AGENT_DIGEST_URL)) || (await fetchDigestJson(DIGEST_URL));
+  if (!data) {
     await tgSend(env, "未有上次摘要（可能未跑過 digest）。先打 run。");
     return;
   }
-  const data = await res.json();
   const items = Object.fromEntries((data.items || []).map((it) => [Number(it.n), it]));
   const item = items[n];
   if (!item) {
@@ -99,6 +133,18 @@ async function replyMore(env, n) {
   if (item.source) lines.push(`來源名：${item.source}`);
   if (item.url) lines.push(`連結：${item.url}`);
   await tgSend(env, lines.filter(Boolean).join("\n"));
+}
+
+async function fetchDigestJson(url) {
+  const res = await fetch(`${url}?t=${Date.now()}`, {
+    headers: { "User-Agent": "tg-bridge-worker", Accept: "application/json" },
+  });
+  if (!res.ok) return null;
+  try {
+    return await res.json();
+  } catch {
+    return null;
+  }
 }
 
 async function tgSend(env, text) {
