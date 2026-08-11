@@ -1,0 +1,143 @@
+lookback_hours: 24
+max_results_per_query: 25
+max_browser_accounts: 10
+report_dir: reports
+
+tickers:
+  - symbol: NVDA
+    names:
+      - Nvidia
+      - NVIDIA
+    aliases:
+      - "$NVDA"
+  - symbol: TSLA
+    names:
+      - Tesla
+    aliases:
+      - "$TSLA"
+  - symbol: AAPL
+    names:
+      - Apple
+    aliases:
+      - "$AAPL"
+  - symbol: MSFT
+    names:
+      - Microsoft
+    aliases:
+      - "$MSFT"
+  - symbol: 0700.HK
+    names:
+      - Tencent
+      - 騰訊
+    aliases:
+      - "700.HK"
+      - "0700"
+
+x_accounts:
+  - name: Bill Ackman
+    username: BillAckman
+    category: Activist / Long
+    weight: 1.5
+    signal_profile: Deep-dive threads on specific names; activist campaigns and public letters can move targets.
+  - name: Michael Burry
+    username: michaeljburry
+    category: Contrarian / Macro
+    weight: 1.4
+    signal_profile: Cryptic, high-signal macro and single-name posts; low frequency but high attention.
+  - name: Muddy Waters Research
+    username: muddydirtywater
+    category: Short Seller
+    weight: 1.5
+    signal_profile: Short reports and fraud allegations can move targets sharply.
+  - name: Hindenburg Research
+    username: HindenburgRes
+    category: Short Seller
+    weight: 1.5
+    signal_profile: Major short reports and investigative research; verify account activity before relying on it.
+  - name: Citron Research
+    username: CitronResearch
+    category: Short Seller
+    weight: 1.3
+    signal_profile: Market-moving short and long calls, especially in high-retail-attention names.
+  - name: Chamath Palihapitiya
+    username: chamath
+    category: Venture / Growth
+    weight: 1.2
+    signal_profile: Growth, venture, SPAC and technology commentary with large retail reach.
+  - name: Cathie Wood / ARK
+    username: CathieDWood
+    category: Growth / Innovation
+    weight: 1.3
+    signal_profile: Innovation sector commentary and ARK-related conviction posts.
+  - name: Carl Icahn
+    username: Carl_C_Icahn
+    category: Activist
+    weight: 1.4
+    signal_profile: Activist positions and corporate governance comments; low frequency, high impact.
+  - name: David Einhorn
+    username: davidein
+    category: Value / Activist
+    weight: 1.3
+    signal_profile: Greenlight Capital ideas and value/short thesis commentary.
+  - name: Keith Gill / Roaring Kitty
+    username: TheRoaringKitty
+    category: Retail Catalyst
+    weight: 1.5
+    signal_profile: Meme-stock catalyst account; any return to posting can be immediate market attention.
+  - name: Ray Dalio
+    username: RayDalio
+    category: Macro
+    weight: 1.2
+    signal_profile: Macro, debt cycle and policy commentary.
+  - name: Mohamed El-Erian
+    username: elerianm
+    category: Macro
+    weight: 1.2
+    signal_profile: Rates, Fed, inflation and macro policy commentary.
+  - name: Ross Gerber
+    username: gerberkawasaki
+    category: Growth / Tesla
+    weight: 1.1
+    signal_profile: Tesla and growth-stock commentary with active retail following.
+
+news_feeds:
+  - name: Yahoo Finance
+    url: https://finance.yahoo.com/news/rssindex
+  - name: CNBC Markets
+    url: https://www.cnbc.com/id/100003114/device/rss/rss.html
+  - name: MarketWatch
+    url: https://feeds.marketwatch.com/marketwatch/topstories/
+
+event_keywords:
+  earnings:
+    - earnings
+    - guidance
+    - revenue
+    - profit
+  ai:
+    - AI
+    - artificial intelligence
+    - chips
+    - GPU
+  macro:
+    - Fed
+    - rate cut
+    - inflation
+    - CPI
+  deal:
+    - merger
+    - acquisition
+    - buyout
+    - takeover
+
+# Local First Screen digest (no Cursor required)
+first_screen:
+  # Local: path to screening First Screen exports
+  reports_dir: ../screening/reports/first_screen
+  # GitHub Actions: use data/first_screen (commit latest_comma.txt there)
+  # reports_dir: data/first_screen
+  lookback_hours: 8
+
+notify:
+  # Pick any: telegram, ntfy, email, sms, whatsapp — then fill .env
+  channels: []

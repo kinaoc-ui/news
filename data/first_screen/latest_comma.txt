@@ -1,0 +1,217 @@
+### Commercial services — Miscellaneous commercial services
+
+NYSE:ADT
+ADYEY
+NASDAQ:PYPL
+
+### Communications — Specialty telecommunications
+
+NASDAQ:IRDM
+
+### Communications — Wireless telecommunications
+
+NASDAQ:GSAT
+
+### Consumer durables — Motor vehicles
+
+NYSE:HMC
+
+### Consumer non-durables — Apparel/Footwear
+
+NASDAQ:LULU
+
+### Consumer non-durables — Beverages: alcoholic
+
+NYSE:DEO
+
+### Consumer non-durables — Food: meat/fish/dairy
+
+NYSE:MICC
+
+### Consumer non-durables — Food: specialty/candy
+
+NYSE:LW
+
+### Consumer non-durables — Household/Personal care
+
+NYSE:EL
+
+### Consumer services — Other consumer services
+
+NASDAQ:BKNG
+
+### Consumer services — Publishing: newspapers
+
+NASDAQ:NWS
+
+### Distribution services — Wholesale distributors
+
+NYSE:DNOW
+NYSE:GPC
+
+### Electronic technology — Computer peripherals
+
+NYSE:ANET
+
+### Energy minerals — Integrated oil
+
+NYSE:OXY
+NYSE:EC
+NYSE:PR
+NYSE:TTE
+
+### Energy minerals — Oil & gas production
+
+NYSE:NOG
+
+### Finance — Financial conglomerates
+
+NYSE:OBDC
+NASDAQ:ARCC
+
+### Finance — Investment banks/Brokers
+
+NYSE:BNY
+NASDAQ:FUTU
+NYSE:STT
+
+### Finance — Major banks
+
+NYSE:COF
+
+### Finance — Real estate investment trusts
+
+NYSE:RITM
+NYSE:SLG
+
+### Health services — Hospital/Nursing management
+
+NYSE:HCA
+NYSE:THC
+
+### Health services — Services to the health industry
+
+NYSE:DGX
+
+### Health technology — Biotechnology
+
+NASDAQ:CRSP
+NASDAQ:EWTX
+NYSE:IQV
+NASDAQ:TXG
+NASDAQ:DNLI
+
+### Health technology — Medical specialties
+
+NYSE:BDX
+NASDAQ:COO
+NASDAQ:GH
+NYSE:MDT
+NASDAQ:NVCR
+NYSE:A
+
+### Health technology — Pharmaceuticals: major
+
+NYSE:MRK
+NASDAQ:TARS
+NASDAQ:LQDA
+
+### Industrial services — Contract drilling
+
+NYSE:HP
+NYSE:SLB
+
+### Industrial services — Oil & gas pipelines
+
+NYSE:LNG
+
+### Industrial services — Oilfield services/Equipment
+
+NASDAQ:NESR
+NASDAQ:WFRD
+
+### Miscellaneous — Investment trusts
+
+NYSE:BXSL
+NYSE:FSK
+
+### Non-energy minerals — Precious metals
+
+AMEX:BTG
+NYSE:FSM
+
+### Non-energy minerals — Steel
+
+NYSE:BHP
+NYSE:GGB
+
+### Process industries — Chemicals: specialty
+
+NYSE:ECL
+
+### Process industries — Containers/Packaging
+
+NYSE:CCK
+
+### Producer manufacturing — Auto parts: OEM
+
+NYSE:ALSN
+
+### Producer manufacturing — Electrical products
+
+BYDDY
+
+### Producer manufacturing — Industrial machinery
+
+NYSE:VLTO
+
+### Producer manufacturing — Miscellaneous manufacturing
+
+NYSE:YETI
+
+### Retail trade — Apparel/Footwear retail
+
+NYSE:AEO
+NASDAQ:URBN
+NYSE:GAP
+NASDAQ:ROST
+
+### Retail trade — Department stores
+
+NYSE:KSS
+NASDAQ:PDD
+
+### Retail trade — Internet retail
+
+NASDAQ:JD
+
+### Retail trade — Specialty stores
+
+NYSE:TGT
+
+### Technology services — Information technology services
+
+NASDAQ:FTNT
+
+### Technology services — Internet software/Services
+
+NASDAQ:CARG
+NASDAQ:STRC
+
+### Technology services — Packaged software
+
+NASDAQ:INTU
+NASDAQ:OKTA
+NASDAQ:TRMB
+NASDAQ:BILI
+NYSE:BILL
+NYSE:CRM
+NASDAQ:FRSH
+NASDAQ:GEN
+NASDAQ:NTNX
+NASDAQ:ROKU
+NYSE:YMM
+
+### Transportation — Air freight/Couriers
+
+NYSE:FDX
