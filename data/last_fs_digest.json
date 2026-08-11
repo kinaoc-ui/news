@@ -1,115 +1,115 @@
 {
-  "title": "FS新聞 08-11 15:48",
-  "list_name": "FirstScreen_2026-08-11_154809_comma.txt",
-  "created_at": "2026-08-11T15:48:21.628333+00:00",
+  "title": "FS新聞 08-11 15:57",
+  "list_name": "FirstScreen_2026-08-11_155733_comma.txt",
+  "created_at": "2026-08-11T15:57:43.509250+00:00",
   "x_note": "X：今輪未能取得貼文（可能未登入／略過）。",
   "items": [
     {
       "n": 1,
       "symbol": "GAP",
-      "short": "GAP — 相關消息",
-      "detail": "GAP\n重點：相關消息\n標題：SEA (NYSE:SE) Shares Gap Up - Should You Buy? - MarketBeat\n來源：Google News:GAP",
+      "short": "GAP — SEA (NYSE:SE) Shares Gap Up - Should You Buy? - MarketBeat",
+      "detail": "GAP\n重點：新聞\n標題：SEA (NYSE:SE) Shares Gap Up - Should You Buy? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQWTdIUFZyajVBLW5SQXI2aWRfeFc5UE1Mc0tFZDJ1cFJSN0hYZ01zNmUzRkNJaVFUeHZOUG5ycTRKUVltUU9BUEhZSWQxZGdnYTZBZFVCQVB1cUdYajVCWEVwMUI2VFc0UG1rV1lMOTQ1ZTlxTnlyM21lc2EyUnAzR0xPUHBybWs0WUY3T3JNeFVPc1V4QkFxRw?oc=5\" target=\"_blank\">…\n來源：Google News:GAP\n其他：Are Investors Undervaluing The Gap (GAP) Right Now?; Barclays reshuffles U.S. apparel retailers, cuts Under Armo…; Barclays reshuffles U.S. apparel retailers, cuts Under Armo…",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWTdIUFZyajVBLW5SQXI2aWRfeFc5UE1Mc0tFZDJ1cFJSN0hYZ01zNmUzRkNJaVFUeHZOUG5ycTRKUVltUU9BUEhZSWQxZGdnYTZBZFVCQVB1cUdYajVCWEVwMUI2VFc0UG1rV1lMOTQ1ZTlxTnlyM21lc2EyUnAzR0xPUHBybWs0WUY3T3JNeFVPc1V4QkFxRw?oc=5",
       "source": "Google News:GAP",
       "kind": "news"
     },
     {
       "n": 2,
+      "symbol": "BILL",
+      "short": "BILL — 業績／指引：NVIDIA's Falling Multiple Is A Bill, Not A Bargain",
+      "detail": "BILL\n重點：業績／指引\n標題：NVIDIA's Falling Multiple Is A Bill, Not A Bargain\n摘要：Analysts have the earnings growing into the price, so what a holder is really underwriting is the build-out that has to produce them.\n來源：Yahoo Finance:BILL\n其他：ILiAD Biotechnologies Expands Board of Directors and Appoin…; Versa Vascular Appoints Bill Shields as Chief Executive Off…; HCA Healthcare’s former CFO on the role of partnerships in …",
+      "url": "https://www.trefis.com/articles/611017/nvidias-falling-multiple-is-a-bill-not-a-bargain/2026-08-11?.tsrc=rss",
+      "source": "Yahoo Finance:BILL",
+      "kind": "news"
+    },
+    {
+      "n": 3,
       "symbol": "MDT",
-      "short": "MDT — 相關消息",
-      "detail": "MDT\n重點：相關消息\n標題：Stock Traders Buy High Volume of Medtronic Call Options (NYSE:MDT) - MarketBeat\n來源：Google News:MDT",
+      "short": "MDT — Stock Traders Buy High Volume of Medtronic Call Options (NYSE:MDT) - MarketBeat",
+      "detail": "MDT\n重點：新聞\n標題：Stock Traders Buy High Volume of Medtronic Call Options (NYSE:MDT) - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQW54QldKRmY2cFlrM2k1X1JaTlVfSnFyNEZfTE91YkNEaEh0cF9EQlN2SWFBUkNmcjZiM0FPLVpLSlJZSzdDcFgyQ0NjWG02ZEtfRVgwVzY4XzVSQWF0bXhjVEZSay0zSDA0RVR5cHN5cDl2Q1dQQ1BXVEtZcF9TbzktTjB5M0FzMHhhYk1LbmNfVm5sRl91Yzg2R1liYy1wM1YwcWZBZFZOT…\n來源：Google News:MDT\n其他：Versa Vascular Appoints Bill Shields as Chief Executive Off…; Perkins Coie Trust Co Lowers Stock Position in Medtronic PL…; Pulsed Field Ablation Global Market Report 2026 Now Availab…",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQW54QldKRmY2cFlrM2k1X1JaTlVfSnFyNEZfTE91YkNEaEh0cF9EQlN2SWFBUkNmcjZiM0FPLVpLSlJZSzdDcFgyQ0NjWG02ZEtfRVgwVzY4XzVSQWF0bXhjVEZSay0zSDA0RVR5cHN5cDl2Q1dQQ1BXVEtZcF9TbzktTjB5M0FzMHhhYk1LbmNfVm5sRl91Yzg2R1liYy1wM1YwcWZBZFZOTy0zeXd2SDhhUTY3cHA2?oc=5",
       "source": "Google News:MDT",
       "kind": "news"
     },
     {
-      "n": 3,
-      "symbol": "BILL",
-      "short": "BILL — 併購／交易",
-      "detail": "BILL\n重點：併購／交易\n標題：ILiAD Biotechnologies Expands Board of Directors and Appoints Chief Business Officer\n來源：Yahoo Finance:MRK",
-      "url": "https://finance.yahoo.com/healthcare/articles/iliad-biotechnologies-expands-board-directors-123000980.html?.tsrc=rss",
-      "source": "Yahoo Finance:MRK",
-      "kind": "news"
-    },
-    {
       "n": 4,
-      "symbol": "MRK",
-      "short": "MRK — 業績／指引",
-      "detail": "MRK\n重點：業績／指引\n標題：Eli Lilly Beat Big and Raised Guidance. Wall Street Sees More Room to Run\n來源：Yahoo Finance:MRK",
-      "url": "https://247wallst.com/investing/2026/08/11/eli-lilly-beat-big-and-raised-guidance-wall-street-sees-more-room-to-run/?.tsrc=rss",
-      "source": "Yahoo Finance:MRK",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "A",
-      "short": "A — 相關消息",
-      "detail": "A\n重點：相關消息\n標題：Arista Networks, Inc. $ANET Shares Sold by Handelsbanken Fonder AB - MarketBeat\n來源：Google News:ANET",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ1ZMUGxTQVA5VWtRbEdVSG5xMjhGQjJROXhsNFFqejhSUlo3TVZEeXlhZDRQQXIxRnhDbWJaX2ZocTNWVTRrVjl5OC16YXNrZlJVUXozT3dJSmw0SkdTLW5waVhMdzFjS3JidDlFeWtibmdhSGhEbVdvc2hHYTBGZHRMN1p6cHlMMEZWVzhDMkNJYlVGYjc4cnUzOWpoRTUxRHZzTHNKS3BIMkZxTVR4RDhBUzVXNzlISkVZUTdTSkRVQQ?oc=5",
-      "source": "Google News:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "ANET",
-      "short": "ANET — AI相關",
-      "detail": "ANET\n重點：AI相關\n標題：EVER Enhances AI-Powered P&C Insurance Solutions With Waniwani\n來源：Yahoo Finance:ANET",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ever-enhances-ai-powered-p-143300883.html?.tsrc=rss",
-      "source": "Yahoo Finance:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 7,
       "symbol": "BKNG",
-      "short": "BKNG — 相關消息",
-      "detail": "BKNG\n重點：相關消息\n標題：Booking vs. Celsius: Which Consumer Stock Is a Better Buy in 2026?\n來源：Yahoo Finance:BKNG",
+      "short": "BKNG — Booking vs. Celsius: Which Consumer Stock Is a Better Buy in 2026?",
+      "detail": "BKNG\n重點：新聞\n標題：Booking vs. Celsius: Which Consumer Stock Is a Better Buy in 2026?\n摘要：Booking generates strong free cash flow, while Celsius is rapidly growing sales through a partnership with PepsiCo.\n來源：Yahoo Finance:BKNG\n其他：Salvus Wealth Management LLC Buys 21,943 Shares of Booking …; Valeo Financial Advisors LLC Increases Stock Position in Bo…",
       "url": "https://www.fool.com/coverage/better-buy/2026/08/11/booking-vs-celsius-which-consumer-stock-is-a-better-buy-in-2026/?.tsrc=rss",
       "source": "Yahoo Finance:BKNG",
       "kind": "news"
     },
     {
+      "n": 5,
+      "symbol": "MRK",
+      "short": "MRK — 業績／指引：Eli Lilly Beat Big and Raised Guidance. Wall Street Sees More Room to Run",
+      "detail": "MRK\n重點：業績／指引\n標題：Eli Lilly Beat Big and Raised Guidance. Wall Street Sees More Room to Run\n摘要：Eli Lilly just posted its fourth straight earnings beat and raised guidance again, but the real question is whether a next-generation obesity drug still sitting below Wall Street's radar could push the stock well past current targets.\n來源：Yahoo Finance:MRK\n其他：MRK Stock Up 5.6% in a Month as Estimates Fall: Buy, Hold o…; ILiAD Biotechnologies Expands Board of Directors and Appoin…",
+      "url": "https://247wallst.com/investing/2026/08/11/eli-lilly-beat-big-and-raised-guidance-wall-street-sees-more-room-to-run/?.tsrc=rss",
+      "source": "Yahoo Finance:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "A",
+      "short": "A — Arista Networks, Inc. $ANET Shares Sold by Handelsbanken Fonder AB - MarketBeat",
+      "detail": "A\n重點：新聞\n標題：Arista Networks, Inc. $ANET Shares Sold by Handelsbanken Fonder AB - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ1ZMUGxTQVA5VWtRbEdVSG5xMjhGQjJROXhsNFFqejhSUlo3TVZEeXlhZDRQQXIxRnhDbWJaX2ZocTNWVTRrVjl5OC16YXNrZlJVUXozT3dJSmw0SkdTLW5waVhMdzFjS3JidDlFeWtibmdhSGhEbVdvc2hHYTBGZHRMN1p6cHlMMEZWVzhDMkNJYlVGYjc4cnUzOWpoRTUxRHZzTHNKS3BIM…\n來源：Google News:ANET\n其他：American Eagle Outfitters, Inc. (NYSE:AEO) Given Consensus …",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ1ZMUGxTQVA5VWtRbEdVSG5xMjhGQjJROXhsNFFqejhSUlo3TVZEeXlhZDRQQXIxRnhDbWJaX2ZocTNWVTRrVjl5OC16YXNrZlJVUXozT3dJSmw0SkdTLW5waVhMdzFjS3JidDlFeWtibmdhSGhEbVdvc2hHYTBGZHRMN1p6cHlMMEZWVzhDMkNJYlVGYjc4cnUzOWpoRTUxRHZzTHNKS3BIMkZxTVR4RDhBUzVXNzlISkVZUTdTSkRVQQ?oc=5",
+      "source": "Google News:ANET",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "ANET",
+      "short": "ANET — AI相關：EVER Enhances AI-Powered P&C Insurance Solutions With Waniwani",
+      "detail": "ANET\n重點：AI相關\n標題：EVER Enhances AI-Powered P&C Insurance Solutions With Waniwani\n摘要：EverQuote's Waniwani partnership expands its AI solutions for P&amp;C insurers, targeting growing AI-driven insurance discovery, engagement and conversion.\n來源：Yahoo Finance:ANET\n其他：Arista Networks, Inc. $ANET Shares Sold by Handelsbanken Fo…",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ever-enhances-ai-powered-p-143300883.html?.tsrc=rss",
+      "source": "Yahoo Finance:ANET",
+      "kind": "news"
+    },
+    {
       "n": 8,
       "symbol": "BTG",
-      "short": "BTG — 相關消息",
-      "detail": "BTG\n重點：相關消息\n標題：REG - Bytes Technology Grp - Admission to Trading - TradingView\n來源：Google News:BTG",
+      "short": "BTG — REG - Bytes Technology Grp - Admission to Trading - TradingView",
+      "detail": "BTG\n重點：新聞\n標題：REG - Bytes Technology Grp - Admission to Trading - TradingView\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmZoMUZpejhJZkkxRDFSeUcyd1U5Q1BRZG9McUp4ZUplV3F6aEFRWU5YbzhXWFZSNnU2N3hyeC01dlV1WE1Uck9YbGtGbG5OanZkRGpnRG5nQzRwNG8zUGtTdVpEZlFhQ1M5RXR0XzAxM1hDdngzWmhJTnFCWnFvM3FkcEZ6N2poMi1rWWZ1ak13dmNxeGZNSHdoRmtTemdXSmJWdFhFNFlLc…\n來源：Google News:BTG\n其他：B2Gold (NYSEAMERICAN:BTG) Rating Increased to Strong-Buy at…",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmZoMUZpejhJZkkxRDFSeUcyd1U5Q1BRZG9McUp4ZUplV3F6aEFRWU5YbzhXWFZSNnU2N3hyeC01dlV1WE1Uck9YbGtGbG5OanZkRGpnRG5nQzRwNG8zUGtTdVpEZlFhQ1M5RXR0XzAxM1hDdngzWmhJTnFCWnFvM3FkcEZ6N2poMi1rWWZ1ak13dmNxeGZNSHdoRmtTemdXSmJWdFhFNFlLcEpOdlhVbVg4X295T0RJUW5NMFZn?oc=5",
       "source": "Google News:BTG",
       "kind": "news"
     },
     {
       "n": 9,
-      "symbol": "COO",
-      "short": "COO — 相關消息",
-      "detail": "COO\n重點：相關消息\n標題：SEA (NYSE:SE) COO Sells $2,291,800.00 in Stock - MarketBeat\n來源：Google News:COO",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc1Jrek5GclVlVURSalpXdjBkMGhUaF94SzVOc1dyaXFTdE5jQkNGazY0RjVTUi1zQkZ2OW5HeW9NYl85VVQ5UkhWYnVLbF9sMWNrd2tVYnhvaGpXUWo3cDZrS2NaUjNWYUtwUHo2dDVmdFFUS3YxSXJaY21tcHpULURpZlEtV05SZGh4UDE3TWdUV0tFQUJ3Tw?oc=5",
-      "source": "Google News:COO",
-      "kind": "news"
-    },
-    {
-      "n": 10,
       "symbol": "CRM",
-      "short": "CRM — AI相關",
-      "detail": "CRM\n重點：AI相關\n標題：Exclusive: Curative Ditches $600,000 Salesforce Contract Says 'AI Changes the Economics of Building Software,' But CRM Warns of Security Risks\n來源：Yahoo Finance:CRM",
+      "short": "CRM — AI相關：Exclusive: Curative Ditches $600,000 Salesforce Contract Says 'AI Changes the Economics…",
+      "detail": "CRM\n重點：AI相關\n標題：Exclusive: Curative Ditches $600,000 Salesforce Contract Says 'AI Changes the Economics of Building Software,' But CRM Warns of Security Risks\n摘要：Curative expanded its AI-built software strategy beyond CRM after dropping a roughly $600,000-a-year Salesforce, Inc. contract, saying internally developed systems cut administrative costs, while Salesforce warned that running secure and compliant software at scale remained a ma…\n來源：Yahoo Finance:CRM\n其他：Generali Investments Management Co LLC Reduces Stock Holdin…",
       "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-curative-ditches-600-000-120109906.html?.tsrc=rss",
       "source": "Yahoo Finance:CRM",
       "kind": "news"
     },
     {
-      "n": 11,
+      "n": 10,
       "symbol": "DNLI",
-      "short": "DNLI — 業績／指引",
-      "detail": "DNLI\n重點：業績／指引\n標題：Equities Analysts Set Expectations for DNLI Q3 Earnings - MarketBeat\n來源：Google News:DNLI",
+      "short": "DNLI — 業績／指引：Equities Analysts Set Expectations for DNLI Q3 Earnings - MarketBeat",
+      "detail": "DNLI\n重點：業績／指引\n標題：Equities Analysts Set Expectations for DNLI Q3 Earnings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNTElMVE9yTW5ZVzlJejlDYWRPUFhpb1IxWTMzNWtEdkZ0UkVPTEFBUGdLSk1kbWRlbW1OQ1pMZU50QXFzVjNEX1BtekltdENDNGRpOHI4T20xcGdGeWIxS3dtSDlDWHVzQ0stR3dmWW5yUHA1U3FrVXNrRzBkemU3OWw0TjcybW9NaThUWVJkTWtaVkMtNlAzNnBpX2xkZmpJWUhoeldDcUNPW…\n來源：Google News:DNLI\n其他：E. Ohman J or Asset Management AB Acquires New Shares in De…",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTElMVE9yTW5ZVzlJejlDYWRPUFhpb1IxWTMzNWtEdkZ0UkVPTEFBUGdLSk1kbWRlbW1OQ1pMZU50QXFzVjNEX1BtekltdENDNGRpOHI4T20xcGdGeWIxS3dtSDlDWHVzQ0stR3dmWW5yUHA1U3FrVXNrRzBkemU3OWw0TjcybW9NaThUWVJkTWtaVkMtNlAzNnBpX2xkZmpJWUhoeldDcUNPWno3a0E?oc=5",
       "source": "Google News:DNLI",
       "kind": "news"
     },
     {
-      "n": 12,
+      "n": 11,
       "symbol": "FUTU",
-      "short": "FUTU — 相關消息",
-      "detail": "FUTU\n重點：相關消息\n標題：FUTU Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in Futu Holdings Limited Securities Lawsuit - Contact The Gross Law Firm - Morningstar\n來源：Google News:FUTU",
+      "short": "FUTU — FUTU Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in Futu…",
+      "detail": "FUTU\n重點：新聞\n標題：FUTU Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in Futu Holdings Limited Securities Lawsuit - Contact The Gross Law Firm - Morningstar\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxNR1hoQS11ZGJEZWNCSkZLQmRzWTcwQWl6Slh3aWl0bjhzWFIzWHhqWlNBN3hLMGxlQzZ4M01ET0JrWk9lODNpRXRBQ2QzWEYzaEhJcVpqRGc3MGlVNFQ1eXBKUS1scVg4cG9RVVJ0ZEFnZVAtNTQ0WW94YkM5Nk1yODN3WTg3d0YxSTNlVEFmb0s2M2JkRFBmRTJuai1jdHJkMHQ4bTZFRWZnV…\n來源：Google News:FUTU\n其他：Futu Holdings Limited Sponsored ADR $FUTU Shares Sold by Se…",
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNR1hoQS11ZGJEZWNCSkZLQmRzWTcwQWl6Slh3aWl0bjhzWFIzWHhqWlNBN3hLMGxlQzZ4M01ET0JrWk9lODNpRXRBQ2QzWEYzaEhJcVpqRGc3MGlVNFQ1eXBKUS1scVg4cG9RVVJ0ZEFnZVAtNTQ0WW94YkM5Nk1yODN3WTg3d0YxSTNlVEFmb0s2M2JkRFBmRTJuai1jdHJkMHQ4bTZFRWZnVjlvbWNSMzRRNUc1bGRmZmY5UVFyNWZXOU5NRGhMT0JrOXpUNGJoNkhRakVzSTA2d193Snd0dHFKRVYzeXVfUUNVZTZsNDZ6M0lFbHR3VE1KbWlxSmdNaFZsNmloUzBHOWpGQ2ZHZWh3NnBudGlGaV9SaDVBRTVNaVdydlVFYTVEWGVwRVN5RF9FVw?oc=5",
       "source": "Google News:FUTU",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "IRDM",
+      "short": "IRDM — 業績／指引：SpaceX Rivals Report Mixed Earnings; Rocket Lab Sinks On Possible Neutron Delays",
+      "detail": "IRDM\n重點：業績／指引\n標題：SpaceX Rivals Report Mixed Earnings; Rocket Lab Sinks On Possible Neutron Delays\n摘要：SpaceX rivals Rocket Lab and AST SpaceMobile reported mixed-to-weak second-quarter results late Monday, though both guided higher. AST SpaceMobile ticked up Tuesday morning, while Rocket Lab sank. The two hit historic highs earlier in Q2, as the broader space industry experience…\n來源：Yahoo Finance:IRDM\n其他：Iridium (IRDM) to be acquired by Rocket Lab in bid for spac…",
+      "url": "https://finance.yahoo.com/m/70e99d36-b3b8-3dd4-8d5a-c0024adb997e/spacex-rivals-report-mixed.html?.tsrc=rss",
+      "source": "Yahoo Finance:IRDM",
       "kind": "news"
     }
   ]
