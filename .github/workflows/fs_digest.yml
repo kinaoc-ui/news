@@ -1,11 +1,6 @@
 # Scheduled First Screen digest → Telegram (GitHub-hosted)
 # Times: 08:30 / 13:00 / 18:00 Hong Kong = 00:30 / 05:00 / 10:00 UTC
-#
-# Prerequisites:
-# 1. Push this news project to a GitHub repo
-# 2. Repo Secrets: TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
-# 3. Keep a First Screen list at data/first_screen/latest_comma.txt (commit after daily FS)
-# 4. Optional Secret: X_BEARER_TOKEN (browser X will NOT work on Actions)
+# Also triggered instantly by Cloudflare Telegram webhook (workflow_dispatch)
 
 name: FS Digest
 
@@ -14,7 +9,11 @@ on:
     - cron: "30 0 * * *"   # 08:30 HKT
     - cron: "0 5 * * *"    # 13:00 HKT
     - cron: "0 10 * * *"   # 18:00 HKT
-  workflow_dispatch:        # manual "Run workflow" button / TG bridge target
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
 
 jobs:
   digest:
@@ -55,8 +54,7 @@ jobs:
             echo "TELEGRAM_CHAT_ID=$TELEGRAM_CHAT_ID"
             echo "X_BEARER_TOKEN=$X_BEARER_TOKEN"
           } > .env
-          # Prefer committed latest_comma.txt; also accept any FirstScreen_*_comma.txt
-          mkdir -p data/first_screen
+          mkdir -p data/first_screen reports
           if [ -f data/first_screen/latest_comma.txt ]; then
             stamp=$(date -u +%Y-%m-%d_%H%M%S)
             cp data/first_screen/latest_comma.txt "data/first_screen/FirstScreen_${stamp}_comma.txt"
@@ -64,12 +62,28 @@ jobs:
           ls -la data/first_screen || true
 
       - name: Run digest (news + optional X API)
-        # Use api if X_BEARER_TOKEN set; otherwise news-only
         run: |
           if [ -n "${{ secrets.X_BEARER_TOKEN }}" ]; then
             python scripts/run_fs_digest.py --x-source api --lookback-hours 8
           else
             python scripts/run_fs_digest.py --x-source none --lookback-hours 8
+          fi
+
+      - name: Publish last digest for Telegram more N
+        if: success()
+        run: |
+          if [ -f reports/last_fs_digest.json ]; then
+            mkdir -p data
+            cp reports/last_fs_digest.json data/last_fs_digest.json
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/last_fs_digest.json
+            if git diff --cached --quiet; then
+              echo "no digest state change"
+            else
+              git commit -m "chore: update last_fs_digest for more N"
+              git push
+            fi
           fi
 
       - name: Upload digest artifact
