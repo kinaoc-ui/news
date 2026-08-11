@@ -1,7 +1,7 @@
 {
-  "title": "FS新聞 08-11 15:45",
-  "list_name": "FirstScreen_2026-08-11_154540_comma.txt",
-  "created_at": "2026-08-11T15:45:51.538204+00:00",
+  "title": "FS新聞 08-11 15:48",
+  "list_name": "FirstScreen_2026-08-11_154809_comma.txt",
+  "created_at": "2026-08-11T15:48:21.628333+00:00",
   "x_note": "X：今輪未能取得貼文（可能未登入／略過）。",
   "items": [
     {
@@ -33,15 +33,6 @@
     },
     {
       "n": 4,
-      "symbol": "CRM",
-      "short": "CRM — AI相關",
-      "detail": "CRM\n重點：AI相關\n標題：Exclusive: Curative Ditches $600,000 Salesforce Contract Says 'AI Changes the Economics of Building Software,' But CRM Warns of Security Risks\n來源：Yahoo Finance:CRM",
-      "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-curative-ditches-600-000-120109906.html?.tsrc=rss",
-      "source": "Yahoo Finance:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 5,
       "symbol": "MRK",
       "short": "MRK — 業績／指引",
       "detail": "MRK\n重點：業績／指引\n標題：Eli Lilly Beat Big and Raised Guidance. Wall Street Sees More Room to Run\n來源：Yahoo Finance:MRK",
@@ -50,7 +41,7 @@
       "kind": "news"
     },
     {
-      "n": 6,
+      "n": 5,
       "symbol": "A",
       "short": "A — 相關消息",
       "detail": "A\n重點：相關消息\n標題：Arista Networks, Inc. $ANET Shares Sold by Handelsbanken Fonder AB - MarketBeat\n來源：Google News:ANET",
@@ -59,7 +50,7 @@
       "kind": "news"
     },
     {
-      "n": 7,
+      "n": 6,
       "symbol": "ANET",
       "short": "ANET — AI相關",
       "detail": "ANET\n重點：AI相關\n標題：EVER Enhances AI-Powered P&C Insurance Solutions With Waniwani\n來源：Yahoo Finance:ANET",
@@ -68,7 +59,7 @@
       "kind": "news"
     },
     {
-      "n": 8,
+      "n": 7,
       "symbol": "BKNG",
       "short": "BKNG — 相關消息",
       "detail": "BKNG\n重點：相關消息\n標題：Booking vs. Celsius: Which Consumer Stock Is a Better Buy in 2026?\n來源：Yahoo Finance:BKNG",
@@ -77,7 +68,7 @@
       "kind": "news"
     },
     {
-      "n": 9,
+      "n": 8,
       "symbol": "BTG",
       "short": "BTG — 相關消息",
       "detail": "BTG\n重點：相關消息\n標題：REG - Bytes Technology Grp - Admission to Trading - TradingView\n來源：Google News:BTG",
@@ -86,7 +77,25 @@
       "kind": "news"
     },
     {
+      "n": 9,
+      "symbol": "COO",
+      "short": "COO — 相關消息",
+      "detail": "COO\n重點：相關消息\n標題：SEA (NYSE:SE) COO Sells $2,291,800.00 in Stock - MarketBeat\n來源：Google News:COO",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc1Jrek5GclVlVURSalpXdjBkMGhUaF94SzVOc1dyaXFTdE5jQkNGazY0RjVTUi1zQkZ2OW5HeW9NYl85VVQ5UkhWYnVLbF9sMWNrd2tVYnhvaGpXUWo3cDZrS2NaUjNWYUtwUHo2dDVmdFFUS3YxSXJaY21tcHpULURpZlEtV05SZGh4UDE3TWdUV0tFQUJ3Tw?oc=5",
+      "source": "Google News:COO",
+      "kind": "news"
+    },
+    {
       "n": 10,
+      "symbol": "CRM",
+      "short": "CRM — AI相關",
+      "detail": "CRM\n重點：AI相關\n標題：Exclusive: Curative Ditches $600,000 Salesforce Contract Says 'AI Changes the Economics of Building Software,' But CRM Warns of Security Risks\n來源：Yahoo Finance:CRM",
+      "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-curative-ditches-600-000-120109906.html?.tsrc=rss",
+      "source": "Yahoo Finance:CRM",
+      "kind": "news"
+    },
+    {
+      "n": 11,
       "symbol": "DNLI",
       "short": "DNLI — 業績／指引",
       "detail": "DNLI\n重點：業績／指引\n標題：Equities Analysts Set Expectations for DNLI Q3 Earnings - MarketBeat\n來源：Google News:DNLI",
@@ -95,21 +104,12 @@
       "kind": "news"
     },
     {
-      "n": 11,
+      "n": 12,
       "symbol": "FUTU",
       "short": "FUTU — 相關消息",
       "detail": "FUTU\n重點：相關消息\n標題：FUTU Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in Futu Holdings Limited Securities Lawsuit - Contact The Gross Law Firm - Morningstar\n來源：Google News:FUTU",
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNR1hoQS11ZGJEZWNCSkZLQmRzWTcwQWl6Slh3aWl0bjhzWFIzWHhqWlNBN3hLMGxlQzZ4M01ET0JrWk9lODNpRXRBQ2QzWEYzaEhJcVpqRGc3MGlVNFQ1eXBKUS1scVg4cG9RVVJ0ZEFnZVAtNTQ0WW94YkM5Nk1yODN3WTg3d0YxSTNlVEFmb0s2M2JkRFBmRTJuai1jdHJkMHQ4bTZFRWZnVjlvbWNSMzRRNUc1bGRmZmY5UVFyNWZXOU5NRGhMT0JrOXpUNGJoNkhRakVzSTA2d193Snd0dHFKRVYzeXVfUUNVZTZsNDZ6M0lFbHR3VE1KbWlxSmdNaFZsNmloUzBHOWpGQ2ZHZWh3NnBudGlGaV9SaDVBRTVNaVdydlVFYTVEWGVwRVN5RF9FVw?oc=5",
       "source": "Google News:FUTU",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "IRDM",
-      "short": "IRDM — 業績／指引",
-      "detail": "IRDM\n重點：業績／指引\n標題：SpaceX Rivals Report Mixed Earnings; Rocket Lab Sinks On Possible Neutron Delays\n來源：Yahoo Finance:IRDM",
-      "url": "https://finance.yahoo.com/m/70e99d36-b3b8-3dd4-8d5a-c0024adb997e/spacex-rivals-report-mixed.html?.tsrc=rss",
-      "source": "Yahoo Finance:IRDM",
       "kind": "news"
     }
   ]
