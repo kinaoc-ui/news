@@ -6,7 +6,7 @@ from dataclasses import asdict, dataclass, field
 from datetime import datetime
 from pathlib import Path
 
-from .analyzer import match_event_tags, match_tickers
+from .analyzer import match_event_tags, match_tickers, news_belongs_to_symbol
 from .first_screen_list import latest_first_screen_comma, parse_first_screen_symbols, tickers_from_symbols
 from .models import AppConfig, NewsItem, XPost, utc_now
 from .symbol_news import collect_symbol_news, is_noteworthy
@@ -61,11 +61,20 @@ def build_fs_digest(
     symbol_news = collect_symbol_news(symbols, lookback_hours)
     all_news = _dedupe_news([*general_news, *symbol_news])
 
+    symbol_set = {t.symbol for t in tickers}
     by_symbol: dict[str, list[NewsItem]] = defaultdict(list)
     for news in all_news:
-        matched = match_tickers(tickers, news.text)
+        matched = {
+            symbol
+            for symbol in match_tickers(tickers, news.text)
+            if news_belongs_to_symbol(symbol, news.text, source=news.source)
+        }
         source_sym = _source_symbol(news.source)
-        if source_sym and source_sym in {t.symbol for t in tickers}:
+        if (
+            source_sym
+            and source_sym in symbol_set
+            and news_belongs_to_symbol(source_sym, news.text, source=news.source)
+        ):
             matched.add(source_sym)
         for symbol in matched:
             by_symbol[symbol].append(news)

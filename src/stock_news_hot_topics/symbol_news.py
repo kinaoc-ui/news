@@ -46,7 +46,8 @@ def yahoo_headline_feed(symbol: str) -> str:
 
 
 def google_news_feed(symbol: str) -> str:
-    q = quote_plus(f"{symbol} stock")
+    # Prefer equity markers so "GAP stock" does not mean "shares gap up".
+    q = quote_plus(f'${symbol} OR "{symbol} stock" OR "NYSE:{symbol}" OR "NASDAQ:{symbol}"')
     return f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
 
 
@@ -115,6 +116,13 @@ _SKIP_NOISE = (
     "insider selling",
     "issues positive forecast",
     "price target",
+    "shares gap up",
+    "shares gap down",
+    "gap up - should you buy",
+    "gap down - should you buy",
+    "call options",
+    "put options",
+    "high volume of",
 )
 
 

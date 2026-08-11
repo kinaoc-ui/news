@@ -53,32 +53,169 @@ def analyze_attention(config: AppConfig, news_items: list[NewsItem], x_posts: li
     return sorted(ranked, key=lambda item: item.score, reverse=True)
 
 
+# Common English / phrase collisions (GAP up, a bill, …) — never bare-word match.
+_AMBIGUOUS_TICKERS = frozenset(
+    {
+        "GAP",
+        "BILL",
+        "REAL",
+        "LOVE",
+        "CARE",
+        "OPEN",
+        "FAST",
+        "FISH",
+        "PLAY",
+        "MOVE",
+        "SAFE",
+        "GAIN",
+        "FOLD",
+        "SHOP",
+        "COST",
+        "BEST",
+        "NEXT",
+        "WELL",
+        "GOOD",
+        "TRUE",
+        "FREE",
+        "LIVE",
+        "PACK",
+        "POST",
+        "UNIT",
+        "SPOT",
+        "ROCK",
+        "GOLD",
+        "IRON",
+        "AIR",
+        "RUN",
+        "APP",
+        "ANY",
+        "ALL",
+        "ARE",
+        "CAN",
+        "FOR",
+        "HAS",
+        "HER",
+        "HIS",
+        "HOW",
+        "MAN",
+        "NEW",
+        "NOW",
+        "OLD",
+        "ONE",
+        "OUR",
+        "OUT",
+        "OWN",
+        "SEE",
+        "TWO",
+        "WAY",
+        "WHO",
+        "YOU",
+        "BIG",
+        "LOW",
+        "KEY",
+        "NET",
+        "AGO",
+        "CUBE",
+        "TREE",
+        "LEAF",
+        "SNOW",
+        "WIND",
+        "FIRE",
+        "LAND",
+        "MAIN",
+        "MARK",
+        "MASS",
+        "PLUS",
+        "STAY",
+        "TURN",
+        "VIEW",
+        "FORM",
+        "FUND",
+        "DATA",
+        "EDIT",
+        "TECH",
+        "TEAM",
+        "HOME",
+        "HOPE",
+        "JOBS",
+        "LIFE",
+        "LONG",
+        "MAKE",
+        "CEO",
+        "CFO",
+        "COO",
+    }
+)
+
+
+def has_clear_ticker_ref(symbol: str, text: str) -> bool:
+    """True only when the ticker is marked as an equity, not a common word."""
+    s = re.escape(symbol.upper())
+    patterns = (
+        rf"\${s}\b",
+        rf"\b(?:NYSE|NASDAQ|AMEX|OTC|NYSEARCA)\s*:\s*{s}\b",
+        rf"\(\s*(?:NYSE|NASDAQ|AMEX|OTC)?\s*:?\s*{s}\s*\)",
+        rf"\b{s}\s+(?:stock|shares|equity|inc\.?|corp\.?|ltd\.?)\b",
+    )
+    return any(re.search(p, text, flags=re.IGNORECASE) for p in patterns)
+
+
+def extract_clear_tickers(text: str) -> set[str]:
+    found: set[str] = set()
+    for match in re.finditer(
+        r"\$([A-Za-z]{1,5})\b"
+        r"|\b(?:NYSE|NASDAQ|AMEX|OTC|NYSEARCA)\s*:\s*([A-Za-z]{1,5})\b"
+        r"|\(\s*(?:NYSE|NASDAQ|AMEX|OTC)?\s*:?\s*([A-Za-z]{1,5})\s*\)",
+        text,
+        flags=re.IGNORECASE,
+    ):
+        sym = next((g for g in match.groups() if g), None)
+        if sym:
+            found.add(sym.upper())
+    return found
+
+
+def is_ambiguous_ticker(symbol: str) -> bool:
+    return len(symbol) <= 2 or symbol.upper() in _AMBIGUOUS_TICKERS
+
+
+def news_belongs_to_symbol(symbol: str, text: str, *, source: str = "") -> bool:
+    """Decide whether a headline/body is actually about this ticker."""
+    sym = symbol.upper()
+    if has_clear_ticker_ref(sym, text):
+        return True
+
+    others = extract_clear_tickers(text) - {sym}
+    if others:
+        return False
+
+    source_sym = ""
+    if ":" in source:
+        source_sym = source.rsplit(":", 1)[-1].upper()
+
+    # Cross-article word matches (BILL in "a bill", GAP in "gap up") are rejected.
+    if source_sym != sym:
+        return False
+
+    if is_ambiguous_ticker(sym):
+        return False
+
+    # Non-ambiguous symbol-specific feed: require the ticker token somewhere.
+    return _wordish_match(sym, text)
+
+
 def match_tickers(tickers: list[TickerConfig], text: str) -> set[str]:
     lowered = text.lower()
     matches: set[str] = set()
 
     for ticker in tickers:
-        # Short tickers (A, T, …) false-positive easily — require $TICKER or exchange:TICKER
-        if len(ticker.symbol) <= 2:
-            if (
-                f"${ticker.symbol.lower()}" in lowered
-                or f":{ticker.symbol.lower()}" in lowered
-                or f"({ticker.symbol.lower()})" in lowered
-                or f"nyse:{ticker.symbol.lower()}" in lowered
-                or f"nasdaq:{ticker.symbol.lower()}" in lowered
-            ):
+        symbol = ticker.symbol.upper()
+
+        # Short / English-word tickers: only clear equity refs
+        if is_ambiguous_ticker(symbol):
+            if has_clear_ticker_ref(symbol, text):
                 matches.add(ticker.symbol)
             continue
-
-        # Job-title collision: COO/CEO/CFO as standalone words in headlines
-        if ticker.symbol in {"COO", "CEO", "CFO"} and not (
-            f"${ticker.symbol.lower()}" in lowered
-            or f":{ticker.symbol.lower()}" in lowered
-            or f"({ticker.symbol.lower()})" in lowered
-        ):
-            # still allow clear equity phrasing
-            if not re.search(rf"\b{re.escape(ticker.symbol)}\b.*\b(stock|shares|nyse|nasdaq)\b", text, re.I):
-                continue
 
         terms = [ticker.symbol, ticker.symbol.split(".")[0], *ticker.names, *ticker.aliases]
         for term in terms:
