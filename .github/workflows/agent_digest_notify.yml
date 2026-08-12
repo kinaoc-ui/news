@@ -1,0 +1,67 @@
+# When Cursor Automation opens/updates a PR with agent digest JSON,
+# push the Chinese short digest to Telegram and merge into main for more N.
+
+name: Agent Digest Notify
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - "data/agent_last_fs_digest.json"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  notify:
+    if: github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout PR head
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Send agent digest to Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          test -n "$TELEGRAM_BOT_TOKEN"
+          test -n "$TELEGRAM_CHAT_ID"
+          test -f data/agent_last_fs_digest.json
+          {
+            echo "TELEGRAM_BOT_TOKEN=$TELEGRAM_BOT_TOKEN"
+            echo "TELEGRAM_CHAT_ID=$TELEGRAM_CHAT_ID"
+          } > .env
+          python scripts/send_agent_digest_tg.py data/agent_last_fs_digest.json
+
+      - name: Merge agent digest into main
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git checkout main
+          git pull origin main
+          git checkout "${{ github.event.pull_request.head.sha }}" -- data/agent_last_fs_digest.json
+          git add data/agent_last_fs_digest.json
+          if git diff --cached --quiet; then
+            echo "agent digest already on main"
+          else
+            git commit -m "chore: publish agent_last_fs_digest for Telegram more N"
+            git push origin main
+          fi
+          gh pr close "${{ github.event.pull_request.number }}" --comment "Agent digest posted to Telegram and published to main." || true

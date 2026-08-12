@@ -46,7 +46,7 @@ jobs:
           raw.setdefault("first_screen", {})
           raw["first_screen"]["reports_dir"] = "data/first_screen"
           raw["first_screen"]["lookback_hours"] = 8
-          raw["notify"] = {"channels": ["telegram"]}
+          raw["notify"] = {"channels": []}  # temporary: agent Automation owns Telegram; git digest is compare-only
           p.write_text(yaml.safe_dump(raw, allow_unicode=True, sort_keys=False), encoding="utf-8")
           PY
           {
@@ -61,12 +61,12 @@ jobs:
           fi
           ls -la data/first_screen || true
 
-      - name: Run digest (news + optional X API)
+      - name: Run digest (news + optional X API; no Telegram while agent path is primary)
         run: |
           if [ -n "${{ secrets.X_BEARER_TOKEN }}" ]; then
-            python scripts/run_fs_digest.py --x-source api --lookback-hours 8
+            python scripts/run_fs_digest.py --x-source api --lookback-hours 8 --dry-run
           else
-            python scripts/run_fs_digest.py --x-source none --lookback-hours 8
+            python scripts/run_fs_digest.py --x-source none --lookback-hours 8 --dry-run
           fi
 
       - name: Publish last digest for Telegram more N
