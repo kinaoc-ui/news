@@ -1,0 +1,81 @@
+{
+  "title": "FS新聞 08-12 22:15",
+  "list_name": "latest_comma.txt",
+  "created_at": "2026-08-12T14:13:07.000724+00:00",
+  "x_note": "",
+  "body": "FS新聞 08-12 22:15\n列表: latest_comma.txt\n1. TRMB — Q2收入9.72億、非GAAP EPS $0.86勝預期，上調全年指引並批10億回購；運輸物流商譽減值拖累GAAP虧損\n2. LQDA — YUTREPIA放量帶動Q2收入1.717億、淨利7470萬，連續擴張盈利\n3. NESR — Q2收入5.21億同比+59%大勝預期，上調全年收入下限超20億；股價曾急升約23%\n4. LNG — 再上調全年Adj. EBITDA至79–84億、可分配現金流53–58億，產量指引收窄至5300–5400萬噸\n5. DNOW — Q2收入13.07億、Adj. EBITDA環比大增，全年收入指引上調至50–51億\n6. MRK — FDA／EMA受理Enflonsia擴大適應症（高風險幼童第二季RSV），FDA PDUFA定2027-03-22\n7. HCA — 約2.2萬SEIU員工全國示威，爭取最低時薪路徑至$25同強制人手比例\n8. FRSH — Q2收入2.374億同比+16%，錄得年內首季GAAP盈利，提前達標\n回覆 more 1 可睇詳情",
+  "items": [
+    {
+      "n": 1,
+      "symbol": "TRMB",
+      "short": "TRMB — Q2收入9.72億、非GAAP EPS $0.86勝預期，上調全年指引並批10億回購；運輸物流商譽減值拖累GAAP虧損",
+      "detail": "Trimble（NASDAQ:TRMB）公布2026年第二季業績：收入9.72億美元（同比+11%），非GAAP每股盈利0.86美元，兩者均勝預期；全年經常性收入（ARR）約25.1億美元。公司上調2026全年收入指引至39–39.5億美元、非GAAP EPS至3.60–3.70美元，董事會並批准新一輪10億美元回購授權。惟運輸與物流（T&L）分部錄得約5.62億美元商譽減值，令GAAP淨虧損約4.72億美元。核心營運現金流仍偏強，上半年自由現金流約5.02億美元。",
+      "url": "https://news.trimble.com/2026-08-12-Trimble-Announces-Second-Quarter-2026-Results-and-Raises-Full-Year-Guidance",
+      "source": "Trimble IR",
+      "kind": "earnings"
+    },
+    {
+      "n": 2,
+      "symbol": "LQDA",
+      "short": "LQDA — YUTREPIA放量帶動Q2收入1.717億、淨利7470萬，連續擴張盈利",
+      "detail": "Liquidia（NASDAQ:LQDA）Q2收入1.717億美元（上年同期約880萬），主要由吸入性肺動脈高壓藥YUTREPIA商業放量帶動，並小幅勝街預期；淨利約7470萬美元、Adjusted EBITDA約9630萬美元，為連續多季盈利改善。期末現金約2.842億美元。管理層強調需求仍在增長，業績顯示商業化節奏已成為估值核心變量。",
+      "url": "https://www.stocktitan.net/sec-filings/LQDA/8-k-liquidia-corp-reports-material-event-17f39336e46e.html",
+      "source": "Liquidia 8-K / StockTitan",
+      "kind": "earnings"
+    },
+    {
+      "n": 3,
+      "symbol": "NESR",
+      "short": "NESR — Q2收入5.21億同比+59%大勝預期，上調全年收入下限超20億；股價曾急升約23%",
+      "detail": "National Energy Services Reunited（NASDAQ:NESR）Q2創紀錄收入約5.208億美元（同比+59.1%），大幅高於約4.48億共識；調整後EPS 0.44美元勝預期0.35美元，Adjusted EBITDA約1.062億美元。經營現金流約1.74億，淨槓桿降至約0.3倍。公司上調2026全年收入下限至逾20億美元，並推進「3B3」三年跑出30億年化收入目標。此前亦公布科威特約3億美元／五年服務與技術合約（含Master Technology Agreement）。業績公布後股價單日急升約23%。",
+      "url": "https://www.tikr.com/blog/nesr-stock-jumped-23-after-reporting-q2-earnings-monday-heres-what-the-print-says",
+      "source": "TIKR / company results",
+      "kind": "earnings"
+    },
+    {
+      "n": 4,
+      "symbol": "LNG",
+      "short": "LNG — 再上調全年Adj. EBITDA至79–84億、可分配現金流53–58億，產量指引收窄至5300–5400萬噸",
+      "detail": "Cheniere Energy（NYSE:LNG）公布Q2並再度上調2026全年財務指引：Consolidated Adjusted EBITDA由72.5–77.5億上調至79–84億美元；可分配現金流（DCF）由47.5–52.5億上調至53–58億美元（新低端已高於舊高端）。全年產量預測收窄上調至5300–5400萬噸。Corpus Christi Stage 3 Midscale Train 6已完工，Train 7即將出首船LNG；FERC亦批准相關產能上調約500萬噸／年。資本配置方面季度回購約5.5億美元股份。",
+      "url": "https://lngir.cheniere.com/news-events/press-releases/detail/343/cheniere-reports-second-quarter-2026-results-and-raises",
+      "source": "Cheniere IR",
+      "kind": "earnings"
+    },
+    {
+      "n": 5,
+      "symbol": "DNOW",
+      "short": "DNOW — Q2收入13.07億、Adj. EBITDA環比大增，全年收入指引上調至50–51億",
+      "detail": "DNOW（NYSE:DNOW）Q2收入13.07億美元（環比+10%），Adjusted EBITDA 6000萬美元（環比+54%）。美國中游年化收入首度突破10億美元規模。公司上調2026全年收入展望至約50–51億美元，並預期Adj. EBITDA利潤率接近4.5%；Q3收入料環比再增低至中單位數。上半年回購已達7500萬美元，現金流與整合（含MRC Global）進度是本次上調關鍵。",
+      "url": "https://ir.dnow.com/news-releases/news-release-details/dnow-reports-second-quarter-2026-results",
+      "source": "DNOW IR",
+      "kind": "earnings"
+    },
+    {
+      "n": 6,
+      "symbol": "MRK",
+      "short": "MRK — FDA／EMA受理Enflonsia擴大適應症（高風險幼童第二季RSV），FDA PDUFA定2027-03-22",
+      "detail": "Merck（NYSE:MRK）宣布FDA已受理RSV預防單抗Enflonsia（clesrovimab）的補充生物製品許可申請（sBLA），擬擴大至兩歲以下高風險幼童第二個RSV季節的下呼吸道疾病預防；PDUFA目標日期為2027年3月22日。EMA亦已受理歐盟同類擴大申請。申請依據Phase 3 SMART試驗。現有適應症已涵蓋首個RSV季節嬰兒；此次若過關，可擴大可及人群與商業潛力。",
+      "url": "https://www.merck.com/news/u-s-fda-accepts-sbla-for-enflonsia-clesrovimab-cfor-to-update-its-respiratory-syncytial-virus-rsv-lower-respiratory-tract-disease-indication-to-include-children-under-two-years-at-increa/",
+      "source": "Merck",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "HCA",
+      "short": "HCA — 約2.2萬SEIU員工全國示威，爭取最低時薪路徑至$25同強制人手比例",
+      "detail": "HCA Healthcare（NYSE:HCA）約2.2萬名SEIU代表員工在加州、德州、內華達、佛羅里達等多地醫院舉行資訊性糾察／示威，要求在新合約中設最低時薪通往25美元路徑、生活成本加薪，以及可執行護士對病人人手比例。工會指公司2025年盈利約68億美元並授權百億回購，與一線薪酬／人手緊張形成對比；公司回應稱少數附屬醫院仍在地方談判，強調善意協商。事件屬營運與勞資風險，而非財務數字本身。",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest",
+      "source": "The Guardian",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "FRSH",
+      "short": "FRSH — Q2收入2.374億同比+16%，錄得年內首季GAAP盈利，提前達標",
+      "detail": "Freshworks（NASDAQ:FRSH）Q2收入2.374億美元（同比+16%），非GAAP營運利潤5590萬美元（利潤率23.6%），GAAP淨利320萬美元（每股0.01美元），為2026年首季GAAP盈利並早於原定年底達標時間表。全年收入指引約9.635–9.665億美元；Q3收入指引2.445–2.455億。EX業務仍是主要增長引擎（EX ARR約5.67億、同比約+23%）。",
+      "url": "https://ir.freshworks.com/news/news-details/2026/Freshworks-Reports-Record-Second-Quarter-2026-Results/default.aspx",
+      "source": "Freshworks IR",
+      "kind": "earnings"
+    }
+  ]
+}
