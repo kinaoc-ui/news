@@ -1,14 +1,15 @@
 /**
  * Free Telegram → Cursor Automation + GitHub bridge (Cloudflare Workers).
  * - run  → Cursor Automation webhook (agent digest) + GitHub FS Digest (git compare)
- * - more N → fetch data/last_fs_digest.json from GitHub + reply on Telegram
+ * - more N → prefer agent digest, else git digest
  *
  * Secrets (wrangler secret put):
  *   TELEGRAM_BOT_TOKEN
  *   TELEGRAM_CHAT_ID
- *   GITHUB_TOKEN                 (PAT with actions:write + contents:read)
+ *   GITHUB_TOKEN                  (PAT with actions:write + contents:read)
  *   CURSOR_AUTOMATION_WEBHOOK_URL (Automations webhook URL)
- *   WEBHOOK_SECRET               (optional shared secret in URL ?key=)
+ *   CURSOR_AUTOMATION_AUTH        (full header value, e.g. "Bearer crsr_...")
+ *   WEBHOOK_SECRET                (optional shared secret in URL ?key=)
  */
 
 const REPO = "kinaoc-ui/news";
@@ -26,6 +27,7 @@ export default {
         service: "tg-bridge",
         repo: REPO,
         agent_webhook: Boolean(env.CURSOR_AUTOMATION_WEBHOOK_URL),
+        agent_auth: Boolean(env.CURSOR_AUTOMATION_AUTH),
       });
     }
 
@@ -51,13 +53,15 @@ async function handleTelegram(update, env) {
 
   if (/^run$/i.test(text)) {
     await tgSend(env, "收到 run — 開跑 agent 版（中文）；Git 版會背景對照。");
-    const agentOk = await dispatchCursorAutomation(env);
-    // Always kick git digest for background compare / fine-tune, even if agent fails.
+    const agent = await dispatchCursorAutomation(env);
     await dispatchWorkflow(env);
-    if (!agentOk) {
-      await tgSend(env, "Agent webhook 失敗；仍會出 Git 版（英文標題）。請檢查 CURSOR_AUTOMATION_WEBHOOK_URL。");
+    if (!agent.ok) {
+      await tgSend(
+        env,
+        `Agent webhook 失敗（${agent.status || "no-auth"}）。請檢查 CURSOR_AUTOMATION_WEBHOOK_URL + CURSOR_AUTOMATION_AUTH（Bearer crsr_…）。仍會出 Git 版。`
+      );
     }
-    return json({ ok: true, action: "run", agent: agentOk });
+    return json({ ok: true, action: "run", agent: agent.ok, agentStatus: agent.status });
   }
 
   const more = text.match(/^more\s+(\d+)$/i);
@@ -72,10 +76,15 @@ async function handleTelegram(update, env) {
 
 async function dispatchCursorAutomation(env) {
   const hook = String(env.CURSOR_AUTOMATION_WEBHOOK_URL || "").trim();
-  if (!hook) return false;
+  const auth = String(env.CURSOR_AUTOMATION_AUTH || "").trim();
+  if (!hook) return { ok: false, status: "missing-url" };
+  if (!auth) return { ok: false, status: "missing-auth" };
+
+  const authorization = auth.toLowerCase().startsWith("bearer ") ? auth : `Bearer ${auth}`;
   const res = await fetch(hook, {
     method: "POST",
     headers: {
+      Authorization: authorization,
       "Content-Type": "application/json",
       "User-Agent": "tg-bridge-worker",
     },
@@ -89,9 +98,9 @@ async function dispatchCursorAutomation(env) {
   if (!res.ok) {
     const body = await res.text();
     console.error(`cursor webhook failed: ${res.status} ${body}`);
-    return false;
+    return { ok: false, status: res.status };
   }
-  return true;
+  return { ok: true, status: res.status };
 }
 
 async function dispatchWorkflow(env) {
@@ -116,7 +125,6 @@ async function dispatchWorkflow(env) {
 }
 
 async function replyMore(env, n) {
-  // Prefer agent digest when present; fall back to git digest.
   const data = (await fetchDigestJson(AGENT_DIGEST_URL)) || (await fetchDigestJson(DIGEST_URL));
   if (!data) {
     await tgSend(env, "未有上次摘要（可能未跑過 digest）。先打 run。");
