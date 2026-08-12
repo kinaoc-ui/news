@@ -1,115 +1,115 @@
 {
-  "title": "FS新聞 08-12 22:16",
+  "title": "FS新聞 08-12 22:39",
   "list_name": "latest_comma.txt",
-  "created_at": "2026-08-12T14:16:49.877455+00:00",
+  "created_at": "2026-08-12T14:39:14.002781+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
       "symbol": "TRMB",
-      "short": "TRMB — Q2收入$972M（+11%）勝預期，上調全年收入中位至$3.93B、調整EPS中位$3.65",
-      "detail": "Trimble公布2026年第二季業績：收入$972M（按年+11%），高過市場預期約2.2%；非GAAP每股盈利$0.86，勝預期約7.2%。管理層將全年收入指引中位由$3.88B上調至$3.93B，全年調整EPS中位上調約2.7%至$3.65；年化經常性收入創紀錄$2.509B。市場關注點係成長重新加速同埋指引上調幅度。",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trimble-nasdaq-trmb-q2-cy2026-112050022.html",
-      "source": "Yahoo Finance / StockStory",
+      "short": "TRMB — Q2收入$972M（+11%）勝預期，全年收入上調至$3.90–3.95B、非GAAP EPS中位約$3.65；另批$10億回購，但T&L商譽減值$5.62億拖累GAAP虧損",
+      "detail": "Trimble公布2026年第二季：收入$972.0M（按年+11%）、ARR創紀錄$2.509B（+14%）、非GAAP每股盈利$0.86。董事會批准新$10億股份回購授權（取代剩餘約$6.08億舊額度）。全年指引上調至收入$3.90–3.95B、非GAAP EPS $3.60–3.70；惟GAAP因運輸物流（T&L）分部$562M商譽減值錄得淨虧約$4.72億。焦點係經常性收入加速同指引上調能否蓋過減值訊號。",
+      "url": "https://news.trimble.com/2026-08-12-Trimble-Announces-Second-Quarter-2026-Results-and-Raises-Full-Year-Guidance",
+      "source": "Trimble IR",
       "kind": "earnings"
     },
     {
       "n": 2,
+      "symbol": "LQDA",
+      "short": "LQDA — Q2 Yutrepia淨銷售$1.704億（按季+31%），總收入$1.717億、淨利$7470萬，連續四季盈利",
+      "detail": "Liquidia第二季總收入約$171.7M（去年約$8.8M），其中YUTREPIA淨產品銷售約$170.4M，較第一季再升約31%；淨利約$74.7M、調整EBITDA約$96.3M，現金約$284.2M。自2025年6月上市至2026年7月底約有5900張獨立處方、逾5000名患者開藥。收入勝街預期，市場仍緊盯對United Therapeutics競爭同持續放量節奏。",
+      "url": "https://www.stocktitan.net/sec-filings/LQDA/8-k-liquidia-corp-reports-material-event-17f39336e46e.html",
+      "source": "Liquidia 8-K / StockTitan",
+      "kind": "earnings"
+    },
+    {
+      "n": 3,
       "symbol": "DNOW",
-      "short": "DNOW — Q2收入$1.31B勝預期，上調全年收入指引至$5.0–5.1B，股價曾急升約7%",
-      "detail": "DNOW（工業管道／分銷）第二季收入$1.307B，按季+10%，調整EPS $0.12勝預期；調整EBITDA $60M（按季+54%），經營現金流$133M創同期高。受惠MRC Global整合，美國中游年化收入首度破$10億。公司將2026全年收入展望上調至$5.0–5.1B，經營現金流預測上調至$125–200M，調整EBITDA利潤率目標接近4.5%。",
+      "short": "DNOW — Q2收入$1.31B（按季+10%）、調整EBITDA $60M，全年收入上調至$5.0–5.1B，MRC整合協同超預期",
+      "detail": "DNOW第二季銷售約$1.31B（按季+10%），調整EBITDA約$60M（按季+54%），經營現金流$133M創同期高；淨虧收窄。公司將2026全年收入展望上調至$5.0–5.1B，調整EBITDA利潤率目標接近4.5%，經營現金流預測$125–200M；MRC整合年終協同跑速上調至約$3000萬（原目標約$1700萬）。股價曾急升約7%，市場睇緊ERP修復同市佔回補。",
       "url": "https://ir.dnow.com/news-releases/news-release-details/dnow-reports-second-quarter-2026-results",
       "source": "DNOW IR",
       "kind": "earnings"
     },
     {
-      "n": 3,
-      "symbol": "NESR",
-      "short": "NESR — Q2收入$5.21億、淨利$4400萬勝預期，再奪科威特約$3億／5年合約，啟動股息同回購",
-      "detail": "National Energy Services Reunited第二季銷售約$520.75M、淨利約$44.02M，勝分析師預期，並宣布科威特新合約約$3億（5年）。公司指年化收入跑速已過$20億，同時引入季度股息同股份回購；Jafura項目爬坡亦支持積壓訂單。股價近段急升約25%，估值溢價下執行同地緣風險成為主要觀察點。",
-      "url": "https://finance.yahoo.com/energy/articles/national-energy-services-reunited-nesr-061347541.html",
-      "source": "Yahoo Finance / Simply Wall St",
-      "kind": "earnings"
-    },
-    {
       "n": 4,
-      "symbol": "LQDA",
-      "short": "LQDA — Q2 Yutrepia產品銷售急升至$1.704億（去年$650萬），收入勝預期但股價因盈利解讀分歧回落",
-      "detail": "Liquidia第二季淨產品銷售急升至約$170.4M（去年同期約$6.5M），主要受吸入性肺病藥Yutrepia放量帶動；部分報道指收入／盈利勝預期，亦有指每股盈利未及預期令股價盤前回落約4–5%。CEO強調需求持續增長，同United Therapeutics競爭格局仍係核心定價因素。",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/liquidia-corporation-lqda-q2-earnings-114001269.html",
-      "source": "Yahoo Finance / Zacks",
+      "symbol": "LNG",
+      "short": "LNG — 再上調全年Adj. EBITDA至$7.90–8.40B、可分配現金流至$5.30–5.80B，CCL Stage 3 Train 6落成",
+      "detail": "Cheniere公布第二季收入約$57億，並再度上調2026全年綜合調整EBITDA指引至$7.90–8.40B（前為$7.25–7.75B），可分配現金流至$5.30–5.80B。管理層指Corpus Christi Stage 3 Midscale Train 6已實質完工，並推進SPL擴建第一期FID準備。對LNG名而言，指引連升同產能爬坡係主要估值催化。",
+      "url": "https://lngir.cheniere.com/sec-filings/all-sec-filings/content/0000003570-26-000030/cei20262ndqtrerex991.htm",
+      "source": "Cheniere IR",
       "kind": "earnings"
     },
     {
       "n": 5,
-      "symbol": "MRK",
-      "short": "MRK — FDA同EMA受理擴大ENFLONSIA用於高風險幼兒RSV預防，FDA PDUFA約2027-03-22",
-      "detail": "默沙東表示FDA同EMA已受理補充申請，擬將RSV預防藥物ENFLONSIA適應症擴大至高風險幼兒群體。雙邊監管里程碑有助公司在Keytruda專利壓力下搭建傳染病／疫苗第二增長柱；關鍵觀察係FDA約2027年3月22日PDUFA決定，以及最終商業化能否轉化為有規模的兒科RSV業務。",
-      "url": "https://finance.yahoo.com/healthcare/articles/merck-mrk-wins-fda-ema-181430790.html",
-      "source": "Yahoo Finance / Simply Wall St",
-      "kind": "news"
+      "symbol": "NESR",
+      "short": "NESR — Q2收入$5.208億（+59%）、淨利$4400萬；全年收入目標至少$20億，Q4起派息$0.10並維持回購",
+      "detail": "National Energy Services Reunited第二季收入約$520.8M（按年+59.1%）、淨利約$44.0M（攤薄EPS $0.43）。公司將2026全年收入目標視為至少$20億，並計劃2026年第四季起派季度股息$0.10／股，同時維持$5000萬回購。早前另奪科威特約$3億／5年服務同技術合約（含Ahmadi Innovation Valley）。MENA活動同現金回報政策成主線。",
+      "url": "https://www.stocktitan.net/sec-filings/NESR/8-k-national-energy-services-reunited-corp-reports-material-event-f6368e9953f0.html",
+      "source": "NESR 8-K / StockTitan",
+      "kind": "earnings"
     },
     {
       "n": 6,
+      "symbol": "FSM",
+      "short": "FSM — 以現金$2億向Barrick／IAMGOLD收購塞內加爾Bambadji金礦勘探項目，毗鄰Diamba Sud",
+      "detail": "Fortuna Mining以庫存現金$2億完成收購190平方公里Bambadji黃金勘探項目（Barrick約$1.3035億、IAMGOLD約$6965萬），另授予賣方首175萬盎司產量0.5% NSR。項目毗鄰可行性階段Diamba Sud，整合塞內加爾－馬里剪切帶約60公里走向；公司批出2026年餘下約$800萬勘探預算、擬第三季開鑽。屬大型周邊併購，需睇現金消耗同勘探轉化。",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/fortuna-acquires-highly-prospective-bambadji-213000325.html",
+      "source": "Fortuna / GlobeNewswire via Yahoo",
+      "kind": "deal"
+    },
+    {
+      "n": 7,
+      "symbol": "ALSN",
+      "short": "ALSN — Q2銷售$15.66億（+92%，含Off-Highway），全年銷售上調至$58–60億",
+      "detail": "Allison Transmission第二季淨銷售約$1.566B（按年+92%），受Off-Highway業務併入同原有變速箱增長帶動；調整EBITDA約$4.04億。公司上調2026全年綜合淨銷售至$58–60億、調整EBITDA約$14.65–15.75億；淨利指引含約$1.4億一次性整合／重組費用，但仍預期收購對2026淨利同EPS具攤薄後增益。市場睇緊協同$1.2億目標落地節奏。",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/10/allison-transmission-alsn-q2-2026-earnings-call-transcript/",
+      "source": "Allison / Motley Fool transcript",
+      "kind": "earnings"
+    },
+    {
+      "n": 8,
+      "symbol": "MRK",
+      "short": "MRK — FDA同EMA受理擴大ENFLONSIA用於高風險幼兒第二個RSV季，FDA PDUFA約2027-03-22",
+      "detail": "默沙東宣布FDA已受理ENFLONSIA（clesrovimab）補充生物製品許可申請，擬將適應症擴大至兩歲以下高風險兒童第二個RSV季預防；PDUFA目標日約2027年3月22日。EMA亦於2026年7月受理歐盟同類申請。現有適應症覆蓋首個RSV季嬰兒。對MRK而言，屬Keytruda專利壓力下傳染病／疫苗增長柱嘅監管里程碑，最終商業化規模仍待審批。",
+      "url": "https://www.merck.com/news/u-s-fda-accepts-sbla-for-enflonsia-clesrovimab-cfor-to-update-its-respiratory-syncytial-virus-rsv-lower-respiratory-tract-disease-indication-to-include-children-under-two-years-at-increa/",
+      "source": "Merck",
+      "kind": "news"
+    },
+    {
+      "n": 9,
       "symbol": "GAP",
-      "short": "GAP — Jefferies由Buy降至Hold，指Old Navy購買意向按年跌13%，下半年同比基數轉難",
-      "detail": "Jefferies將Gap評級由Buy降至Hold，目標價由$29降至$23，指投資者焦點已由「翻身是否真實」轉為「能維持幾耐」。其數據顯示Old Navy購買意向按年跌13%且連續數月走弱，Banana Republic亦跌約10%；第二季係全年最易同比，第三季將面對約6%同店銷售高基數。品牌聯乘同美妝推出被指短期財務貢獻或細過預期。",
+      "short": "GAP — Jefferies由Buy降至Hold、目標價$29→$23，指Old Navy購買意向按年跌13%",
+      "detail": "Jefferies將Gap評級由Buy降至Hold，目標價由$29降至$23，指投資者焦點已由翻身真實性轉為可持續性。其追蹤顯示Old Navy購買意向按年跌13%且連續數月走弱，Banana Republic約跌10%；第三季將面對更高同店銷售基數。屬分析師觀點，非公司業績公告，但對GAP情緒同估值敏感。",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-cuts-gap-hold-old-120309158.html",
       "source": "Investing.com via Yahoo Finance",
       "kind": "news"
     },
     {
-      "n": 7,
-      "symbol": "BKNG",
-      "short": "BKNG — Q2銷售$73.5億（+8.1%）勝預期，AI Connected Trip策略帶動增長",
-      "detail": "Booking Holdings第二季銷售約$7.35B（按年+8.1%）勝過街預期；非GAAP每股盈利約$2.54，高過共識約4.5%。公司強調AI同Connected Trip策略在地緣波動下仍推動增長，線上旅行需求同定價能力係後續焦點。",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bkng-q2-deep-dive-ai-162922732.html",
-      "source": "Yahoo Finance / StockStory",
-      "kind": "earnings"
-    },
-    {
-      "n": 8,
-      "symbol": "ANET",
-      "short": "ANET — Q2銷售$30.4億（+37.7%）首季破$30億，展望上調但供應部件仍係瓶頸",
-      "detail": "Arista Networks第二季總銷售約$3.04B，按年+37.7%，高出街預期約$2.1億，係首個季度收入破$30億。管理層持續上調收入展望，但市場討論焦點已由訂單轉向關鍵部件供應同交付節奏；AI網絡基建需求仍支持估值敘事。",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-arista-networks-180524380.html",
-      "source": "Yahoo Finance",
-      "kind": "earnings"
-    },
-    {
-      "n": 9,
+      "n": 10,
       "symbol": "OKTA",
-      "short": "OKTA — Citizens JMP升至Outperform，睇中AI代理帶動企業身份安全需求",
-      "detail": "Citizens JMP將Okta評級上調至Outperform，理由係企業部署AI代理時對身份／存取控制需求上升，Okta被視為受惠身份安全擴張。另有Oppenheimer指本財季收入中位有機會高出指引約2個百分點，反映銷售執行改善；屬分析師觀點，需對照即將公布嘅實際業績。",
+      "short": "OKTA — Citizens JMP升至Outperform，睇中AI代理帶動企業身份安全；Oppenheimer指本季收入或勝指引",
+      "detail": "Citizens JMP將Okta評級上調至Outperform，理由係企業部署AI代理時對身份／存取控制需求上升。另有Oppenheimer指本財季收入中位有機會高出指引約2個百分點，反映銷售執行改善。屬分析師觀點，需對照即將公布嘅實際業績同指引。",
       "url": "https://finance.yahoo.com/technology/ai/articles/okta-upgraded-ai-security-opportunity-132920472.html",
       "source": "Investing.com via Yahoo Finance",
       "kind": "news"
     },
     {
-      "n": 10,
-      "symbol": "FRSH",
-      "short": "FRSH — Q2首度達GAAP盈利，AI產品採用加速成業績主軸",
-      "detail": "Freshworks第二季業績電話會議重點：公司首次實現GAAP盈利，並指平台上AI功能採用加快。對SaaS估值而言，由增長故事轉入可證明盈利能力係重要轉折，後續要睇利潤率可否持續同埋新客獲取成本。",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/11/freshworks-frsh-q2-2026-earnings-call-transcript/",
-      "source": "The Motley Fool",
+      "n": 11,
+      "symbol": "BKNG",
+      "short": "BKNG — Q2銷售約$73.5億（+8.1%）勝預期，強調AI／Connected Trip帶動增長",
+      "detail": "Booking Holdings第二季銷售約$7.35B（按年+8.1%）勝過街預期；非GAAP每股盈利亦勝共識。公司強調AI同Connected Trip策略在地緣波動下仍推動增長，線上旅行需求同定價能力係後續焦點。",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bkng-q2-deep-dive-ai-162922732.html",
+      "source": "Yahoo Finance / StockStory",
       "kind": "earnings"
     },
     {
-      "n": 11,
+      "n": 12,
       "symbol": "INTU",
       "short": "INTU — 推出面向中市嘅AI原生Enterprise Suite／ERP，夥會計師行拓工作流",
-      "detail": "Intuit宣布推進中市平台，推出AI驅動Enterprise Suite，並與Citrin Cooperman Advisors合作，瞄準中型企業ERP轉型同會計師行工作流。產品覆蓋對話式AI、行業流程同CFO場景，意在把TurboTax／QuickBooks生態向上擴至更高客單價市場。",
+      "detail": "Intuit宣布推進中市平台，推出AI驅動Enterprise Suite，並與會計師行合作，瞄準中型企業ERP轉型同CFO場景工作流。產品覆蓋對話式AI同行業流程，意在把TurboTax／QuickBooks生態向上擴至更高客單價市場。股價近段波動下，產品擴張係中期敘事，短線仍受業績預期同估值主導。",
       "url": "https://finance.yahoo.com/technology/ai/articles/intuit-advances-mid-market-platform-123000366.html",
       "source": "Intuit via Yahoo Finance",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "HCA",
-      "short": "HCA — 全國多院區工會示威爭加薪同人手；同時重整臨床／門診管理架構",
-      "detail": "HCA Healthcare面對全國性工會主導示威，員工要求加薪同改善人手配置，談判仍在進行，可能推高人力成本同影響營運。另一方面公司委任新首席臨床官，並成立門診營運組整合臨床服務管理，屬組織架構調整。勞動成本壓力同門診擴張執行係兩條並存主線。",
-      "url": "https://finance.yahoo.com/healthcare/articles/could-hca-healthcare-hca-union-120923364.html",
-      "source": "Yahoo Finance",
       "kind": "news"
     }
   ]
