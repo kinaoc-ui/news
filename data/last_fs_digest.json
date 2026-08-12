@@ -1,11 +1,47 @@
 {
-  "title": "FS新聞 08-12 11:02",
-  "list_name": "FirstScreen_2026-08-12_110225_comma.txt",
-  "created_at": "2026-08-12T11:02:34.001270+00:00",
+  "title": "FS新聞 08-12 13:05",
+  "list_name": "FirstScreen_2026-08-12_130540_comma.txt",
+  "created_at": "2026-08-12T13:05:50.617098+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "TRMB",
+      "short": "TRMB — 業績／指引：Trimble (NASDAQ:TRMB) Updates FY 2026 Earnings Guidance - MarketBeat",
+      "detail": "TRMB\n重點：業績／指引\n標題：Trimble (NASDAQ:TRMB) Updates FY 2026 Earnings Guidance - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXd6WHZ4Q1FyQmVsaG1OSy1lSW1PVmI0NmMxVWdqSHJOdDc4dUFHZDdyVzRjQk81WllhMkFRai1iRDZCZDk2cmFzTjN1NGozZEVFdVI5LXFPUkh0blpSYVlPdXNkLUV5ZklZX0dlcHlYOW83NG5LTGRxZTZCLUNxMlNnN1RKWVNIcUF4cWlONHYxcGhfVXpBbThFMEowSEI3SW9fN3l3c2ZnU…\n來源：Google News:TRMB\n其他：Trimble (NASDAQ:TRMB) Updates Q3 2026 Earnings Guidance - M…; Trimble’s (NASDAQ:TRMB) Q2 CY2026: Beats On Revenue, Full-Y…; Trimble’s (NASDAQ:TRMB) Q2 CY2026: Beats On Revenue, Full-Y…",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXd6WHZ4Q1FyQmVsaG1OSy1lSW1PVmI0NmMxVWdqSHJOdDc4dUFHZDdyVzRjQk81WllhMkFRai1iRDZCZDk2cmFzTjN1NGozZEVFdVI5LXFPUkh0blpSYVlPdXNkLUV5ZklZX0dlcHlYOW83NG5LTGRxZTZCLUNxMlNnN1RKWVNIcUF4cWlONHYxcGhfVXpBbThFMEowSEI3SW9fN3l3c2ZnUQ?oc=5",
+      "source": "Google News:TRMB",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "LQDA",
+      "short": "LQDA — 業績／指引：Liquidia Corporation (LQDA) Q2 Earnings and Revenues Beat Estimates",
+      "detail": "LQDA\n重點：業績／指引\n標題：Liquidia Corporation (LQDA) Q2 Earnings and Revenues Beat Estimates\n摘要：Liquidia Corporation (LQDA) delivered earnings and revenue surprises of +5.71% and +3.89%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?\n來源：Yahoo Finance:LQDA\n其他：Liquidia shares fall after second-quarter earnings miss des…; Insight Wealth Strategies LLC Decreases Stock Position in L…; Liquidia Corporation $LQDA Shares Bought by Sei Investments…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/liquidia-corporation-lqda-q2-earnings-114001269.html?.tsrc=rss",
+      "source": "Yahoo Finance:LQDA",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "ALSN",
+      "short": "ALSN — Allison Transmission Holdings, Inc. $ALSN Shares Bought by Wedge Capital Management L L…",
+      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission Holdings, Inc. $ALSN Shares Bought by Wedge Capital Management L L P NC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVTd5NTNOWUozWTlqRzBzUGJNaG16Zm9RSGJKLVQ0R1JhanN4a0lKVllxN1NEdUxKZGJBZy1JYjdYTVJvTGd0b0VGTmd4X2NncldqZ0szNTlNcUktaXVmeWZlY0hLMWQ3d0RUU0N3ZjZaSkl2ZUpLS3o0VnpkazNGM08wd0ZWUUdNZFU2c3NmS3gwNTNyV1ZnUFdjM2ZxSGRqWW5uSG9tTmxpU…\n來源：Google News:ALSN\n其他：Allison Transmission Holdings, Inc. $ALSN Shares Acquired b…; Amundi Sells 296,664 Shares of Allison Transmission Holding…",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVTd5NTNOWUozWTlqRzBzUGJNaG16Zm9RSGJKLVQ0R1JhanN4a0lKVllxN1NEdUxKZGJBZy1JYjdYTVJvTGd0b0VGTmd4X2NncldqZ0szNTlNcUktaXVmeWZlY0hLMWQ3d0RUU0N3ZjZaSkl2ZUpLS3o0VnpkazNGM08wd0ZWUUdNZFU2c3NmS3gwNTNyV1ZnUFdjM2ZxSGRqWW5uSG9tTmxpUkl0T0M5NTM4d3JsemxLb3c1bk9QODJhUTlQWURfYW9NLU16LW04XzJoRHBMS1NiWGdSX09CVDZ5QnU?oc=5",
+      "source": "Google News:ALSN",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "HCA",
+      "short": "HCA — What Could HCA Healthcare (HCA) Union Protests Mean For Pay And Staffing?",
+      "detail": "HCA\n重點：新聞\n標題：What Could HCA Healthcare (HCA) Union Protests Mean For Pay And Staffing?\n摘要：HCA Healthcare (NYSE:HCA) is facing nationwide union led protests as workers press for higher wages and improved staffing during ongoing contract negotiations. Union organizers say demonstrations span multiple HCA Healthcare facilities across the US and focus on pay, staffing ra…\n來源：Yahoo Finance:HCA\n其他：NewEdge Advisors LLC Buys 3,025 Shares of HCA Healthcare, I…; Assenagon Asset Management S.A. Sells 63,779 Shares of HCA …",
+      "url": "https://finance.yahoo.com/healthcare/articles/could-hca-healthcare-hca-union-120923364.html?.tsrc=rss",
+      "source": "Yahoo Finance:HCA",
+      "kind": "news"
+    },
+    {
+      "n": 5,
       "symbol": "OKTA",
       "short": "OKTA — Handelsbanken Fonder AB Increases Position in Okta, Inc. $OKTA - MarketBeat",
       "detail": "OKTA\n重點：新聞\n標題：Handelsbanken Fonder AB Increases Position in Okta, Inc. $OKTA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVBqaG9QUVcxZDRRSFVtS0FSWkQ1MnJpTzN2TmNkdmdaXzd5Q25mcDM5dnBHVWtVYi1SNmFndGZCY3RXUktVYldKUDdmc0hkUWpZYzgtX010d2wxY0plUFZ5bjNTUVFGRFRtQll0VDJSRS1vczdrZ01XQmJPNG14bklqZE5XaFJQSzh3T1hpa3Y3a0Iya0xzb1pYTktYSnhJWnV0ZTdGRlFaT…\n來源：Google News:OKTA\n其他：Citizens upgrades Okta stock rating on AI security position…; Okta, Inc. (NASDAQ:OKTA) Given Average Recommendation of \"M…",
@@ -14,25 +50,34 @@
       "kind": "news"
     },
     {
-      "n": 2,
-      "symbol": "ALSN",
-      "short": "ALSN — Allison Transmission Holdings, Inc. $ALSN Shares Acquired by Wasatch Advisors LP - Mark…",
-      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission Holdings, Inc. $ALSN Shares Acquired by Wasatch Advisors LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFBQUVF5US1fUlZCVzdXTmxPN21RWjIzNkVpNzktRGN6TW5uOWpmQWdFM2ZvbkVCdHRHS1Faekc2R2IzSnduQW9nRlI5bWcxRDc2bGFXbVR6dW9hSHBPU01CZUstZGNaTHd4WE8wdU4yZnBCcTVJazkxSWxmQ0hlcVFHVktUM19XV0ZUY3cxR3lqS3RKbkVjY0xSemhlbmNkU1lqTEYyM3R0c…\n來源：Google News:ALSN\n其他：Amundi Sells 296,664 Shares of Allison Transmission Holding…",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFBQUVF5US1fUlZCVzdXTmxPN21RWjIzNkVpNzktRGN6TW5uOWpmQWdFM2ZvbkVCdHRHS1Faekc2R2IzSnduQW9nRlI5bWcxRDc2bGFXbVR6dW9hSHBPU01CZUstZGNaTHd4WE8wdU4yZnBCcTVJazkxSWxmQ0hlcVFHVktUM19XV0ZUY3cxR3lqS3RKbkVjY0xSemhlbmNkU1lqTEYyM3R0cy1MR0tOWURTZlVkdElWcGNZVFJGRHZkc1NnUVFVV19CdDlBRzVGMFJsdQ?oc=5",
-      "source": "Google News:ALSN",
+      "n": 6,
+      "symbol": "ADT",
+      "short": "ADT — Wedge Capital Management L L P NC Buys 373,000 Shares of ADT Inc. $ADT - MarketBeat",
+      "detail": "ADT\n重點：新聞\n標題：Wedge Capital Management L L P NC Buys 373,000 Shares of ADT Inc. $ADT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQLTV4WHRGaTNiVzBQTW5XU25IZDQ4VjFLb2dyci1MVHUyTnFvMXAzVFpUT19ubDV3ZzFPSU9ZX0l5YlJFeW5GNEg3TExVYmtFWGF6b2M3TldWa2lBZXVxSXFXQUlVbVlpSkdiZk9WOWpUMEE3QUZwZlJFQlVpdXB6Znp1SGU4ZlpESnRsSmlNVDRjamJIR3VEbHlQRkF0TWw5VlR0S1ZWY3BCb…\n來源：Google News:ADT\n其他：ADT Inc. $ADT Shares Bought by Wasatch Advisors LP - Market…",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLTV4WHRGaTNiVzBQTW5XU25IZDQ4VjFLb2dyci1MVHUyTnFvMXAzVFpUT19ubDV3ZzFPSU9ZX0l5YlJFeW5GNEg3TExVYmtFWGF6b2M3TldWa2lBZXVxSXFXQUlVbVlpSkdiZk9WOWpUMEE3QUZwZlJFQlVpdXB6Znp1SGU4ZlpESnRsSmlNVDRjamJIR3VEbHlQRkF0TWw5VlR0S1ZWY3BCbUU0cUJ6azg1OVoyZDdLUHFVRXJfemU4RlN4ejVZ?oc=5",
+      "source": "Google News:ADT",
       "kind": "news"
     },
     {
-      "n": 3,
+      "n": 7,
+      "symbol": "ANET",
+      "short": "ANET — Arista Networks, Inc. $ANET Stock Holdings Raised by Wedge Capital Management L L P NC …",
+      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Stock Holdings Raised by Wedge Capital Management L L P NC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ21wYTRTR01OQXozSGxMVVdUTHZwX0Q1ZkFoSHg2OElCejJaWjB6UjhhYVVjeGotd0dtajlheVFCQmx2UEt1SkhWT29jMUZBZUxkTDlUS0hhNzNlbXNSeS12ZEV4N3pjSmlYVHB5YU5NajZ0X3BNMEFIclZEUWpPY1hxX3JyN0JWeHpNUGd1TzN4LTMzd2owVlNwMng4NEM1OVk2YVlqT2hLL…\n來源：Google News:ANET\n其他：Arista Networks (NYSE:ANET) Raised to \"Strong-Buy\" at Zacks…",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ21wYTRTR01OQXozSGxMVVdUTHZwX0Q1ZkFoSHg2OElCejJaWjB6UjhhYVVjeGotd0dtajlheVFCQmx2UEt1SkhWT29jMUZBZUxkTDlUS0hhNzNlbXNSeS12ZEV4N3pjSmlYVHB5YU5NajZ0X3BNMEFIclZEUWpPY1hxX3JyN0JWeHpNUGd1TzN4LTMzd2owVlNwMng4NEM1OVk2YVlqT2hLLUdLWFA0T3F6aEhQNllUbEx0N1o3VnVLRFZXTFhETU5KYTVLNkFTRm1UaUJRdEpFRDhs?oc=5",
+      "source": "Google News:ANET",
+      "kind": "news"
+    },
+    {
+      "n": 8,
       "symbol": "BKNG",
       "short": "BKNG — Booking Holdings Inc. $BKNG Shares Bought by Fulton Bank N.A. - MarketBeat",
-      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Shares Bought by Fulton Bank N.A. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOYkRqSkF4SWhkeWEyY281SG9kWGcwdXdyRllMLUcwZ2JlM09rZUlNWkZXSWlJYWstb3hhdE1GdDJpQTkyWUxkUHRSaFVZbXdMeUlCb0dPaVFJbHhyemJzZFJDX0FRa1ljUmNGX29JS09nMnZQMUM5cnJkVFVPbUtPQTFqNWxjNko4NXQ2Tk5QcHY0b2RQSlJvODhDWTVxMnJaYWxDUnRlTGwyT…\n來源：Google News:BKNG\n其他：Booking Holdings Inc. $BKNG Shares Bought by Cardinal Capit…",
+      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Shares Bought by Fulton Bank N.A. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOYkRqSkF4SWhkeWEyY281SG9kWGcwdXdyRllMLUcwZ2JlM09rZUlNWkZXSWlJYWstb3hhdE1GdDJpQTkyWUxkUHRSaFVZbXdMeUlCb0dPaVFJbHhyemJzZFJDX0FRa1ljUmNGX29JS09nMnZQMUM5cnJkVFVPbUtPQTFqNWxjNko4NXQ2Tk5QcHY0b2RQSlJvODhDWTVxMnJaYWxDUnRlTGwyT…\n來源：Google News:BKNG\n其他：Focus Financial Network Inc. Acquires 4,888 Shares of Booki…",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYkRqSkF4SWhkeWEyY281SG9kWGcwdXdyRllMLUcwZ2JlM09rZUlNWkZXSWlJYWstb3hhdE1GdDJpQTkyWUxkUHRSaFVZbXdMeUlCb0dPaVFJbHhyemJzZFJDX0FRa1ljUmNGX29JS09nMnZQMUM5cnJkVFVPbUtPQTFqNWxjNko4NXQ2Tk5QcHY0b2RQSlJvODhDWTVxMnJaYWxDUnRlTGwyT2JBcUFvQ0VSa2RLLXJZTXc?oc=5",
       "source": "Google News:BKNG",
       "kind": "news"
     },
     {
-      "n": 4,
+      "n": 9,
       "symbol": "CCK",
       "short": "CCK — Crown Holdings, Inc. $CCK Holdings Raised by Handelsbanken Fonder AB - MarketBeat",
       "detail": "CCK\n重點：新聞\n標題：Crown Holdings, Inc. $CCK Holdings Raised by Handelsbanken Fonder AB - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQcUlnV2J6eThKUHl4alA4eklLTVU0NTF6MXl4VENWRkI5ZldZeEROZzd4WGR2MzBiOUhGcHJWYWZoeTNXNlItTEJnWHotR0VxbGdYa0ZJLW9zMmgwdW1GRnZRRXo1bGpFV0R3VkRoOGZkdkszVk96WTRITmVHTFA4aGtoTHVCdy0xWlZKdUp4VUpjclhKMnNvNENnY0xrTEQ2ZUdyV1RfSVYwO…\n來源：Google News:CCK\n其他：Crown Holdings (CCK) Margin Improvement Narrative Keeps Fai…",
@@ -41,7 +86,7 @@
       "kind": "news"
     },
     {
-      "n": 5,
+      "n": 10,
       "symbol": "FDX",
       "short": "FDX — Handelsbanken Fonder AB Acquires 9,783 Shares of FedEx Corporation $FDX - MarketBeat",
       "detail": "FDX\n重點：新聞\n標題：Handelsbanken Fonder AB Acquires 9,783 Shares of FedEx Corporation $FDX - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPbUZyTVB1UlVyV3I3dUxxamU2Z1d3bm5IT09CaGU1aGFXekRoWXBta3hQVVg3M1BwNGJvalVPM25aR3pnejcyeDlVQjBGcmpKVFd6UVkyRXVTWGtsTTdoTjNLOVd0TVFIcTgtaHVTLTJqejhqaEVpalBLbVROYm0tbXVYTExOdHJKY0x5V0phTUhpaE4zOGM1OWRvWGxKRjBHbTAzMklsZHAtZ…\n來源：Google News:FDX\n其他：Assenagon Asset Management S.A. Sells 128,740 Shares of Fed…",
@@ -50,7 +95,7 @@
       "kind": "news"
     },
     {
-      "n": 6,
+      "n": 11,
       "symbol": "FTNT",
       "short": "FTNT — Handelsbanken Fonder AB Trims Stock Position in Fortinet, Inc. $FTNT - MarketBeat",
       "detail": "FTNT\n重點：新聞\n標題：Handelsbanken Fonder AB Trims Stock Position in Fortinet, Inc. $FTNT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNWXhTRjhsQWZaRFhEZVE5Yzhtc3hwUFZ5Y2REVzFPazFTMEM5b0QyaGRnQlpZZ0s4NW1uRkZxTGx3MXlQWFBRN1FuMmdYd2VzcFM1c0FiYmRQczB6dms1R0tBOWlNRnJPYWU0U3hZS2VBM0xSS21WMTdJa3FldWd1ZTZtR3Q2UmxMMmtTTlpCZVRYa29PcXRvOXRPSHhiOHNqanpwOXpzMG11W…\n來源：Google News:FTNT\n其他：Fortinet, Inc. (NASDAQ:FTNT) Receives Consensus Rating of \"…",
@@ -59,57 +104,12 @@
       "kind": "news"
     },
     {
-      "n": 7,
+      "n": 12,
       "symbol": "GAP",
       "short": "GAP — GAP (NYSE:GAP) Lowered to Hold Rating by Barclays - MarketBeat",
       "detail": "GAP\n重點：新聞\n標題：GAP (NYSE:GAP) Lowered to Hold Rating by Barclays - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQbHBZVmdxd1hFYVh0LVNmSmZPT3Y2MWI1bXJfMzJRaHNYc2JIcWotamwta0czVm4zUGhpRjdtbXRKckJYV05BZmxPdXh3X3hocmtFNVhMSWxOMHpwUnBnYXNlVjdld2NwQndwOHpDbHBVdXY3Rl9sVy1tcFZLNldjLV96ejJIZWxjODZ6aEdjWTA1R2tHUzEzVm91bTRGVjB2b0E?oc=5\" tar…\n來源：Google News:GAP\n其他：Jefferies downgrades Gap stock rating on Old Navy concerns …",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbHBZVmdxd1hFYVh0LVNmSmZPT3Y2MWI1bXJfMzJRaHNYc2JIcWotamwta0czVm4zUGhpRjdtbXRKckJYV05BZmxPdXh3X3hocmtFNVhMSWxOMHpwUnBnYXNlVjdld2NwQndwOHpDbHBVdXY3Rl9sVy1tcFZLNldjLV96ejJIZWxjODZ6aEdjWTA1R2tHUzEzVm91bTRGVjB2b0E?oc=5",
       "source": "Google News:GAP",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "HCA",
-      "short": "HCA — NewEdge Advisors LLC Buys 3,025 Shares of HCA Healthcare, Inc. $HCA - MarketBeat",
-      "detail": "HCA\n重點：新聞\n標題：NewEdge Advisors LLC Buys 3,025 Shares of HCA Healthcare, Inc. $HCA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdEoxRnhwSmxnakJZVzg3LVduY2x6UUJub0l2bF9KOVkzZEJDb0phNnFKUFRmZ2FELXRsOVM4WHozS3Z3emRyQlExRWluS19LRk5xSU9UMlhKMFhpQnhESVhtR2pJSHN6cjk0MTdwOXdpajNidlJrZDdjcGpJMzBMb3FlMnRGUk5QN1RvMnBBUmtFOTFvMWJmTFcxcUo4R3JzakRidW92YVBzV…\n來源：Google News:HCA\n其他：Assenagon Asset Management S.A. Sells 63,779 Shares of HCA …",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdEoxRnhwSmxnakJZVzg3LVduY2x6UUJub0l2bF9KOVkzZEJDb0phNnFKUFRmZ2FELXRsOVM4WHozS3Z3emRyQlExRWluS19LRk5xSU9UMlhKMFhpQnhESVhtR2pJSHN6cjk0MTdwOXdpajNidlJrZDdjcGpJMzBMb3FlMnRGUk5QN1RvMnBBUmtFOTFvMWJmTFcxcUo4R3JzakRidW92YVBzVkNGMGs4Ty1GS0JnMmpkUWZ2SU5MZFlzZw?oc=5",
-      "source": "Google News:HCA",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "LQDA",
-      "short": "LQDA — Insight Wealth Strategies LLC Decreases Stock Position in Liquidia Corporation $LQDA - …",
-      "detail": "LQDA\n重點：新聞\n標題：Insight Wealth Strategies LLC Decreases Stock Position in Liquidia Corporation $LQDA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQemkyU0xkSW0zaXFELUxrZi1xS3I0a0pRbUJCLUhuZG9EVXpmXzB0cnpHaTBSMHZ2VzE5VV9meTdlVWktSWdZcnBhMjZ3RkNwbjl6R1ZWRWQya251aWdDZlM0emhOOUd0S28yZnBkLVFUelkzVGxWMkhoZ3RfSEhSdGZOZXVDbUZXN0tuMUg2VTc2ckpWdVlZSnJQTjIwc0xmRzRFMDJneC1zM…\n來源：Google News:LQDA\n其他：Liquidia Corporation $LQDA Shares Bought by Sei Investments…",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQemkyU0xkSW0zaXFELUxrZi1xS3I0a0pRbUJCLUhuZG9EVXpmXzB0cnpHaTBSMHZ2VzE5VV9meTdlVWktSWdZcnBhMjZ3RkNwbjl6R1ZWRWQya251aWdDZlM0emhOOUd0S28yZnBkLVFUelkzVGxWMkhoZ3RfSEhSdGZOZXVDbUZXN0tuMUg2VTc2ckpWdVlZSnJQTjIwc0xmRzRFMDJneC1zMlZTZDUzRkVPbDVrNkFFTS1GTTBzYnpBZ3RCRG1jZFhUY3JxcHYzdG41MDFZNmFtOGlv?oc=5",
-      "source": "Google News:LQDA",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "NESR",
-      "short": "NESR — 業績／指引：Earnings To Watch: NESR (NESR) Reports Q2 Results Tomorrow",
-      "detail": "NESR\n重點：業績／指引\n標題：Earnings To Watch: NESR (NESR) Reports Q2 Results Tomorrow\n摘要：Oilfield services provider NESR (NASDAQ:NESR) will be reporting earnings tomorrow before market open. Here’s what to look for.\n來源：Yahoo Finance:NESR\n其他：National Energy Services Reunited (NESR) Is Up 25.2% After …",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-nesr-nesr-reports-090922306.html?.tsrc=rss",
-      "source": "Yahoo Finance:NESR",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "ROST",
-      "short": "ROST — 3 Reasons We’re Fans of Ross Stores (ROST)",
-      "detail": "ROST\n重點：新聞\n標題：3 Reasons We’re Fans of Ross Stores (ROST)\n摘要：Over the past six months, Ross Stores has been a great trade, beating the S&amp;P 500 by 21.6%. Its stock price has climbed to $255.10, representing a healthy 32.6% increase. This was partly due to its solid quarterly results, and the performance may have investors wondering how…\n來源：Yahoo Finance:ROST\n其他：Ross Stores, Inc. $ROST Shares Purchased by Handelsbanken F…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-fans-ross-stores-102122834.html?.tsrc=rss",
-      "source": "Yahoo Finance:ROST",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "A",
-      "short": "A — Why SpaceX Is Getting a Stock Bounce After Starlink Satellite Launch - Barron's",
-      "detail": "A\n重點：新聞\n標題：Why SpaceX Is Getting a Stock Bounce After Starlink Satellite Launch - Barron's\n摘要：<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxOVWFYd09wSzAzQ19GLS1EaEpqWTNKRVFWSWdvSDhRcUZPS1JMc1plRW44YUdrVFZYbjQxWE1DY2Yzb21JYjdmUXpjalNZT24zdTBYcTJTSG12LWFhQS1NekdVOTFfZEItaDJuVVJoM1A4OUFtQWxYckc5amg2RkFoUS1fakpLaXlRTC1HdlltTW05Sjd3bWxBZDZTV0RZaTM4cFo4Z2M5dkx6X…\n來源：Google News:A",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOVWFYd09wSzAzQ19GLS1EaEpqWTNKRVFWSWdvSDhRcUZPS1JMc1plRW44YUdrVFZYbjQxWE1DY2Yzb21JYjdmUXpjalNZT24zdTBYcTJTSG12LWFhQS1NekdVOTFfZEItaDJuVVJoM1A4OUFtQWxYckc5amg2RkFoUS1fakpLaXlRTC1HdlltTW05Sjd3bWxBZDZTV0RZaTM4cFo4Z2M5dkx6X0ZoUGVpY2d0X0hzcXkyZkhaazBXUGRteFoyV2FXbjM0bUxjVGhTZFZMei01ZDdNaDNwVTRIX1NfNXhDYnpZNkhDR1FzLTRiOUZvcUJ4X29sMi1rY1djR2lRVGh2MGFVTGlfWmJ6WW9iWQ?oc=5",
-      "source": "Google News:A",
       "kind": "news"
     }
   ]
