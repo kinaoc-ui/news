@@ -56,9 +56,10 @@ async function handleTelegram(update, env) {
     const agent = await dispatchCursorAutomation(env);
     await dispatchWorkflow(env);
     if (!agent.ok) {
+      const detail = agent.detail ? `\n${agent.detail}` : "";
       await tgSend(
         env,
-        `Agent webhook 失敗（${agent.status || "no-auth"}）。請檢查 CURSOR_AUTOMATION_WEBHOOK_URL + CURSOR_AUTOMATION_AUTH（Bearer crsr_…）。仍會出 Git 版。`
+        `Agent webhook 失敗（HTTP ${agent.status || "?"}）。仍會出 Git 版。\n若係 401：去 Automations 重新 Generate auth header，再 wrangler secret put CURSOR_AUTOMATION_AUTH。${detail}`
       );
     }
     return json({ ok: true, action: "run", agent: agent.ok, agentStatus: agent.status });
@@ -76,16 +77,23 @@ async function handleTelegram(update, env) {
 
 async function dispatchCursorAutomation(env) {
   const hook = String(env.CURSOR_AUTOMATION_WEBHOOK_URL || "").trim();
-  const auth = String(env.CURSOR_AUTOMATION_AUTH || "").trim();
-  if (!hook) return { ok: false, status: "missing-url" };
-  if (!auth) return { ok: false, status: "missing-auth" };
+  let auth = String(env.CURSOR_AUTOMATION_AUTH || "").trim();
+  if (!hook) return { ok: false, status: "missing-url", detail: "" };
+  if (!auth) return { ok: false, status: "missing-auth", detail: "" };
 
-  const authorization = auth.toLowerCase().startsWith("bearer ") ? auth : `Bearer ${auth}`;
+  // Accept pasted forms:
+  //   Bearer crsr_...
+  //   crsr_...
+  //   Authorization: Bearer crsr_...
+  auth = auth.replace(/^authorization\s*:\s*/i, "").trim();
+  const authorization = /^bearer\s+/i.test(auth) ? auth : `Bearer ${auth}`;
+
   const res = await fetch(hook, {
     method: "POST",
     headers: {
       Authorization: authorization,
       "Content-Type": "application/json",
+      Accept: "application/json",
       "User-Agent": "tg-bridge-worker",
     },
     body: JSON.stringify({
@@ -96,11 +104,11 @@ async function dispatchCursorAutomation(env) {
     }),
   });
   if (!res.ok) {
-    const body = await res.text();
+    const body = (await res.text()).slice(0, 240);
     console.error(`cursor webhook failed: ${res.status} ${body}`);
-    return { ok: false, status: res.status };
+    return { ok: false, status: res.status, detail: body };
   }
-  return { ok: true, status: res.status };
+  return { ok: true, status: res.status, detail: "" };
 }
 
 async function dispatchWorkflow(env) {
