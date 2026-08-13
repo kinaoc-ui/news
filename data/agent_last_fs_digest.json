@@ -1,116 +1,98 @@
 {
-  "title": "FS新聞 08-12 22:39",
+  "title": "FS新聞 08-13 10:01",
   "list_name": "latest_comma.txt",
-  "created_at": "2026-08-12T14:39:14.002781+00:00",
+  "created_at": "2026-08-13T02:01:50+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "TRMB",
-      "short": "TRMB — Q2收入$972M（+11%）勝預期，全年收入上調至$3.90–3.95B、非GAAP EPS中位約$3.65；另批$10億回購，但T&L商譽減值$5.62億拖累GAAP虧損",
-      "detail": "Trimble公布2026年第二季：收入$972.0M（按年+11%）、ARR創紀錄$2.509B（+14%）、非GAAP每股盈利$0.86。董事會批准新$10億股份回購授權（取代剩餘約$6.08億舊額度）。全年指引上調至收入$3.90–3.95B、非GAAP EPS $3.60–3.70；惟GAAP因運輸物流（T&L）分部$562M商譽減值錄得淨虧約$4.72億。焦點係經常性收入加速同指引上調能否蓋過減值訊號。",
-      "url": "https://news.trimble.com/2026-08-12-Trimble-Announces-Second-Quarter-2026-Results-and-Raises-Full-Year-Guidance",
-      "source": "Trimble IR",
-      "kind": "earnings"
+      "symbol": "SLG",
+      "short": "SLG — Midtown約200萬呎Worldwide Plaza法拍接管中轉交Cushman管理；接收人稱六月出租率僅約51%、月度NOI約-$48.4萬",
+      "detail": "SL Green同RXR持有嘅Worldwide Plaza（約200萬呎、49層）喺法院監督接管下，物業管理權由SL Green轉交Cushman & Wakefield。接收人報告指六月出租率約51%（公司口徑曾報約61%）、月度淨營運收入約負$48.4萬；大租戶Cravath早前撤離約61.7萬呎後空置同估值壓力擴大。資產另面對約$9.4億CMBS按揭法拍同Extellmezzanine UCC程序；對SLG而言屬大型受壓辦公室資產再資本化同控制權風險。",
+      "url": "https://www.credaily.com/briefs/worldwide-plaza-loses-sl-green-as-manager-amid-foreclosure/",
+      "source": "CRE Daily / Bisnow",
+      "kind": "deal"
     },
     {
       "n": 2,
-      "symbol": "LQDA",
-      "short": "LQDA — Q2 Yutrepia淨銷售$1.704億（按季+31%），總收入$1.717億、淨利$7470萬，連續四季盈利",
-      "detail": "Liquidia第二季總收入約$171.7M（去年約$8.8M），其中YUTREPIA淨產品銷售約$170.4M，較第一季再升約31%；淨利約$74.7M、調整EBITDA約$96.3M，現金約$284.2M。自2025年6月上市至2026年7月底約有5900張獨立處方、逾5000名患者開藥。收入勝街預期，市場仍緊盯對United Therapeutics競爭同持續放量節奏。",
-      "url": "https://www.stocktitan.net/sec-filings/LQDA/8-k-liquidia-corp-reports-material-event-17f39336e46e.html",
-      "source": "Liquidia 8-K / StockTitan",
+      "symbol": "PR",
+      "short": "PR — Q2調整EPS $0.69（勝$0.56）、油氣銷售約$18.6億；全年原油產量目標上調至約199 MBbls/d",
+      "detail": "Permian Resources第二季調整每股盈利$0.69（共識約$0.56），油氣銷售約$18.6億（共識約$16.4億），主要受原油同NGL實現價帶動；原油產量約198.1 MBbls/d。公司將2026原油產量目標上調至約199 MBbls/d（較二月初指引高約10 MBbls/d），下半年原油產量料逾200 MBbls/d，同時將全年現金資本開支指引上調至約$19–20億（含Ward County併購相關約$2500萬）。焦點係產量上修同資本開支同步上升下嘅自由現金流可持續性。",
+      "url": "https://finance.yahoo.com/energy/articles/permian-resources-beats-q2-earnings-155400675.html",
+      "source": "Zacks via Yahoo Finance",
       "kind": "earnings"
     },
     {
       "n": 3,
-      "symbol": "DNOW",
-      "short": "DNOW — Q2收入$1.31B（按季+10%）、調整EBITDA $60M，全年收入上調至$5.0–5.1B，MRC整合協同超預期",
-      "detail": "DNOW第二季銷售約$1.31B（按季+10%），調整EBITDA約$60M（按季+54%），經營現金流$133M創同期高；淨虧收窄。公司將2026全年收入展望上調至$5.0–5.1B，調整EBITDA利潤率目標接近4.5%，經營現金流預測$125–200M；MRC整合年終協同跑速上調至約$3000萬（原目標約$1700萬）。股價曾急升約7%，市場睇緊ERP修復同市佔回補。",
-      "url": "https://ir.dnow.com/news-releases/news-release-details/dnow-reports-second-quarter-2026-results",
-      "source": "DNOW IR",
-      "kind": "earnings"
+      "symbol": "BDX",
+      "short": "BDX — PREVENT試驗完成入組477人／32站點，評估Phasix Mesh預防高危切口疝，擬作FDA提交證據",
+      "detail": "BD宣布PREVENT臨床試驗完成患者入組：共477人、橫跨美國同歐洲32個站點，評估可吸收網片Phasix Mesh用於高危患者擇期開腹中線手術後切口疝預防——目前該預防適應症尚無獲批產品。主要終點隨訪24個月，並計劃最長五年安全同結果追蹤；完成主要終點評估後，數據預期用於支持向FDA提交該適應症路徑。屬組織再生策略里程碑，惟商業化仍視乎療效同監管結果。",
+      "url": "https://www.prnewswire.com/news-releases/bd-accelerates-advanced-tissue-regeneration-strategy-with-landmark-prevent-trial-302848604.html",
+      "source": "BD / PR Newswire",
+      "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "LNG",
-      "short": "LNG — 再上調全年Adj. EBITDA至$7.90–8.40B、可分配現金流至$5.30–5.80B，CCL Stage 3 Train 6落成",
-      "detail": "Cheniere公布第二季收入約$57億，並再度上調2026全年綜合調整EBITDA指引至$7.90–8.40B（前為$7.25–7.75B），可分配現金流至$5.30–5.80B。管理層指Corpus Christi Stage 3 Midscale Train 6已實質完工，並推進SPL擴建第一期FID準備。對LNG名而言，指引連升同產能爬坡係主要估值催化。",
-      "url": "https://lngir.cheniere.com/sec-filings/all-sec-filings/content/0000003570-26-000030/cei20262ndqtrerex991.htm",
-      "source": "Cheniere IR",
+      "symbol": "FRSH",
+      "short": "FRSH — Q2收入$2.374億（+16%）並錄得GAAP淨利$320萬，全年收入指引上調至$9.635–9.665億",
+      "detail": "Freshworks公布2026年第二季收入$237.4M（按年+16%），GAAP經營溢利約$6.1M、GAAP淨利約$3.2M（攤薄EPS $0.01），係2026年首個GAAP盈利季度；非GAAP經營利潤率約23.6%。公司上調全年收入指引至$963.5–966.5M，並維持Rule of 40連續八季。現金及有價證券約$6.65億。市場仍睇緊AI產品轉化同增長放緩下利潤率可持續性。",
+      "url": "https://ir.freshworks.com/news/news-details/2026/Freshworks-Reports-Record-Second-Quarter-2026-Results/default.aspx",
+      "source": "Freshworks IR",
       "kind": "earnings"
     },
     {
       "n": 5,
-      "symbol": "NESR",
-      "short": "NESR — Q2收入$5.208億（+59%）、淨利$4400萬；全年收入目標至少$20億，Q4起派息$0.10並維持回購",
-      "detail": "National Energy Services Reunited第二季收入約$520.8M（按年+59.1%）、淨利約$44.0M（攤薄EPS $0.43）。公司將2026全年收入目標視為至少$20億，並計劃2026年第四季起派季度股息$0.10／股，同時維持$5000萬回購。早前另奪科威特約$3億／5年服務同技術合約（含Ahmadi Innovation Valley）。MENA活動同現金回報政策成主線。",
-      "url": "https://www.stocktitan.net/sec-filings/NESR/8-k-national-energy-services-reunited-corp-reports-material-event-f6368e9953f0.html",
-      "source": "NESR 8-K / StockTitan",
+      "symbol": "OXY",
+      "short": "OXY — 管理層勾畫2030年前每年可額外創造約$40億可持續現金流（較2025約+95%），約85%就算油價更低亦可達",
+      "detail": "Occidental喺第二季業績會強調多年度現金流框架：目標到2030年較2025年每年額外創造逾$40億可持續現金流（約+95%），驅動因素包括更低維持性資本、成本效率同資產負債表節省，並指約85%改善就算喺更低油價、無需增產下亦有望實現；2026年未計油價上升前自由現金流改善目標逾$12億。Q2調整EPS約$2.40、收入約$83.3億均勝共識。焦點係債務下降節奏同維持性資本能否按計劃降至約$45億。",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/occidental-oxy-q2-2026-earnings-call-transcript/",
+      "source": "Occidental / Motley Fool transcript",
       "kind": "earnings"
     },
     {
       "n": 6,
-      "symbol": "FSM",
-      "short": "FSM — 以現金$2億向Barrick／IAMGOLD收購塞內加爾Bambadji金礦勘探項目，毗鄰Diamba Sud",
-      "detail": "Fortuna Mining以庫存現金$2億完成收購190平方公里Bambadji黃金勘探項目（Barrick約$1.3035億、IAMGOLD約$6965萬），另授予賣方首175萬盎司產量0.5% NSR。項目毗鄰可行性階段Diamba Sud，整合塞內加爾－馬里剪切帶約60公里走向；公司批出2026年餘下約$800萬勘探預算、擬第三季開鑽。屬大型周邊併購，需睇現金消耗同勘探轉化。",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/fortuna-acquires-highly-prospective-bambadji-213000325.html",
-      "source": "Fortuna / GlobeNewswire via Yahoo",
-      "kind": "deal"
+      "symbol": "TGT",
+      "short": "TGT — 任命首位首席AI官Chandhu Nair（前Lowe's）8月24日履新，配合翻身同科技投資敘事",
+      "detail": "Target宣布任命Chandhu Nair為高級副總裁兼首位首席AI官，8月24日到任；Nair來自Lowe's，負責門店數據、AI同創新。此舉配合新CEO Michael Fiddelke任內提出約$20億四階段投資（含科技同購物體驗），以及公司把全年銷售增長展望上調至約4%後嘅翻身敘事。屬組織同產品信號，短線仍要睇可比店銷同流量能否延續。",
+      "url": "https://www.fool.com/investing/2026/08/12/this-dividend-king-is-up-56-this-year-and-it-just/",
+      "source": "Motley Fool",
+      "kind": "news"
     },
     {
       "n": 7,
-      "symbol": "ALSN",
-      "short": "ALSN — Q2銷售$15.66億（+92%，含Off-Highway），全年銷售上調至$58–60億",
-      "detail": "Allison Transmission第二季淨銷售約$1.566B（按年+92%），受Off-Highway業務併入同原有變速箱增長帶動；調整EBITDA約$4.04億。公司上調2026全年綜合淨銷售至$58–60億、調整EBITDA約$14.65–15.75億；淨利指引含約$1.4億一次性整合／重組費用，但仍預期收購對2026淨利同EPS具攤薄後增益。市場睇緊協同$1.2億目標落地節奏。",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/10/allison-transmission-alsn-q2-2026-earnings-call-transcript/",
-      "source": "Allison / Motley Fool transcript",
-      "kind": "earnings"
+      "symbol": "NTNX",
+      "short": "NTNX — 推出開源MCP Server技術預覽，讓AI助手經Prism V4 API操作雲基建（逾1000項操作）",
+      "detail": "Nutanix發布面向Nutanix Cloud Platform嘅Model Context Protocol（MCP）伺服器技術預覽（開源），令GitHub Copilot、Claude Code、Cursor等AI助手可以自然語言呼叫Prism V4 API，覆蓋逾1000項操作，用於健康診斷、腳本生成同自動化準備，同時保留既有權限同審計控制。目前標示為非生產用途技術預覽。屬混合雲運維AI化產品信號，商業化貢獻仍早期。",
+      "url": "https://www.nutanix.com/blog/nutanix-api-mcp-server-announcement",
+      "source": "Nutanix",
+      "kind": "news"
     },
     {
       "n": 8,
-      "symbol": "MRK",
-      "short": "MRK — FDA同EMA受理擴大ENFLONSIA用於高風險幼兒第二個RSV季，FDA PDUFA約2027-03-22",
-      "detail": "默沙東宣布FDA已受理ENFLONSIA（clesrovimab）補充生物製品許可申請，擬將適應症擴大至兩歲以下高風險兒童第二個RSV季預防；PDUFA目標日約2027年3月22日。EMA亦於2026年7月受理歐盟同類申請。現有適應症覆蓋首個RSV季嬰兒。對MRK而言，屬Keytruda專利壓力下傳染病／疫苗增長柱嘅監管里程碑，最終商業化規模仍待審批。",
-      "url": "https://www.merck.com/news/u-s-fda-accepts-sbla-for-enflonsia-clesrovimab-cfor-to-update-its-respiratory-syncytial-virus-rsv-lower-respiratory-tract-disease-indication-to-include-children-under-two-years-at-increa/",
-      "source": "Merck",
+      "symbol": "HMC",
+      "short": "HMC — Honda Xcelerator投資量子計算公司Quemix，深化材料科學合作服務2050碳中和",
+      "detail": "Honda透過Honda Xcelerator Ventures宣布投資Quemix，加強雙方喺量子計算演算法同下一代材料開發嘅合作。公司指雙方已有2025年量子態讀出同2026年加速DFT計算等里程碑，目標把量子技術由研究推向實際材料開發，支援Honda 2050碳中和路線。屬長期研發佈局，短線對盈利影響有限，但強化電動化／新材料敘事。",
+      "url": "https://www.just-auto.com/news/honda-deepens-relationship-with-quantum-computing-firm/",
+      "source": "Just Auto / Honda",
       "kind": "news"
     },
     {
       "n": 9,
-      "symbol": "GAP",
-      "short": "GAP — Jefferies由Buy降至Hold、目標價$29→$23，指Old Navy購買意向按年跌13%",
-      "detail": "Jefferies將Gap評級由Buy降至Hold，目標價由$29降至$23，指投資者焦點已由翻身真實性轉為可持續性。其追蹤顯示Old Navy購買意向按年跌13%且連續數月走弱，Banana Republic約跌10%；第三季將面對更高同店銷售基數。屬分析師觀點，非公司業績公告，但對GAP情緒同估值敏感。",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-cuts-gap-hold-old-120309158.html",
-      "source": "Investing.com via Yahoo Finance",
+      "symbol": "CRM",
+      "short": "CRM — UBS指下半年收入增速或難再加速（客戶需求參差），股價收跌約2%",
+      "detail": "UBS指出Salesforce或需淡化下半年收入增長再加速嘅預期，理由係客戶需求表現參差。消息前後CRM股價收跌約2%。屬分析師觀點而非公司正式下修指引，但觸及市場對AI變現同核心雲增速可持續性嘅敏感點；後續需對照公司本身訂單、RPO同下一次正式指引。",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-poised-temper-revenue-growth-194749621.html",
+      "source": "MT Newswires via Yahoo Finance",
       "kind": "news"
     },
     {
       "n": 10,
-      "symbol": "OKTA",
-      "short": "OKTA — Citizens JMP升至Outperform，睇中AI代理帶動企業身份安全；Oppenheimer指本季收入或勝指引",
-      "detail": "Citizens JMP將Okta評級上調至Outperform，理由係企業部署AI代理時對身份／存取控制需求上升。另有Oppenheimer指本財季收入中位有機會高出指引約2個百分點，反映銷售執行改善。屬分析師觀點，需對照即將公布嘅實際業績同指引。",
-      "url": "https://finance.yahoo.com/technology/ai/articles/okta-upgraded-ai-security-opportunity-132920472.html",
-      "source": "Investing.com via Yahoo Finance",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "BKNG",
-      "short": "BKNG — Q2銷售約$73.5億（+8.1%）勝預期，強調AI／Connected Trip帶動增長",
-      "detail": "Booking Holdings第二季銷售約$7.35B（按年+8.1%）勝過街預期；非GAAP每股盈利亦勝共識。公司強調AI同Connected Trip策略在地緣波動下仍推動增長，線上旅行需求同定價能力係後續焦點。",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bkng-q2-deep-dive-ai-162922732.html",
-      "source": "Yahoo Finance / StockStory",
-      "kind": "earnings"
-    },
-    {
-      "n": 12,
-      "symbol": "INTU",
-      "short": "INTU — 推出面向中市嘅AI原生Enterprise Suite／ERP，夥會計師行拓工作流",
-      "detail": "Intuit宣布推進中市平台，推出AI驅動Enterprise Suite，並與會計師行合作，瞄準中型企業ERP轉型同CFO場景工作流。產品覆蓋對話式AI同行業流程，意在把TurboTax／QuickBooks生態向上擴至更高客單價市場。股價近段波動下，產品擴張係中期敘事，短線仍受業績預期同估值主導。",
-      "url": "https://finance.yahoo.com/technology/ai/articles/intuit-advances-mid-market-platform-123000366.html",
-      "source": "Intuit via Yahoo Finance",
-      "kind": "news"
+      "symbol": "IRDM",
+      "short": "IRDM — Rocket Lab CEO再談擬約$80億收購Iridium：主攻太空服務、避開消費寬頻同SpaceX／Amazon正面碰撞",
+      "detail": "Rocket Lab行政總裁Peter Beck就擬收購Iridium通訊網絡再作說明，指交易旨在把Iridium衛星通訊能力同自家發射／衛星製造結合，開拓太空服務機會，並強調路線大致避開消費級寬頻賽道，減少同SpaceX、Amazon正面競爭。對IRDM股東而言，交易條款、監管同整合執行仍係主要變數；屬進行中大型併購敘事更新。",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-iridium-communications-irdm-stand-191218649.html",
+      "source": "Yahoo Finance",
+      "kind": "deal"
     }
   ]
 }
