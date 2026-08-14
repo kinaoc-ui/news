@@ -1,98 +1,98 @@
 {
-  "title": "FS新聞 08-13 10:01",
+  "title": "FS新聞 08-14 13:30",
   "list_name": "latest_comma.txt",
-  "created_at": "2026-08-13T02:01:50+00:00",
+  "created_at": "2026-08-14T05:30:00+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "SLG",
-      "short": "SLG — Midtown約200萬呎Worldwide Plaza法拍接管中轉交Cushman管理；接收人稱六月出租率僅約51%、月度NOI約-$48.4萬",
-      "detail": "SL Green同RXR持有嘅Worldwide Plaza（約200萬呎、49層）喺法院監督接管下，物業管理權由SL Green轉交Cushman & Wakefield。接收人報告指六月出租率約51%（公司口徑曾報約61%）、月度淨營運收入約負$48.4萬；大租戶Cravath早前撤離約61.7萬呎後空置同估值壓力擴大。資產另面對約$9.4億CMBS按揭法拍同Extellmezzanine UCC程序；對SLG而言屬大型受壓辦公室資產再資本化同控制權風險。",
-      "url": "https://www.credaily.com/briefs/worldwide-plaza-loses-sl-green-as-manager-amid-foreclosure/",
-      "source": "CRE Daily / Bisnow",
-      "kind": "deal"
+      "symbol": "JD",
+      "short": "JD — Q2收入RMB3464億（-2.9%）創上市以來首季倒退；經營溢利扭虧至約RMB45億，非GAAP淨利約+21%",
+      "detail": "京東公布2026年第二季淨收入約RMB3464億（約US$511億），按年跌2.9%，係上市以來首次季度收入倒退，主要受去年高基數同電子／家電補貼退潮拖累；產品收入跌約5.4%，服務收入仍升約6.8%。儘管頂線轉負，經營溢利由上年同期虧損扭虧至約RMB45億（經營利潤率約1.3%），非GAAP淨利約RMB89億（按年約+20%），淨利約RMB71億（約+15%）；廣告／市場推廣開支大減同核心零售利潤率、外賣虧損收窄係主要動力。管理層指下半年電子品類同比壓力有望紓緩，但需求同定價仍要觀察；股價早段曾跌約6%。",
+      "url": "https://ir.jd.com/news-releases/news-release-details/jdcom-announces-second-quarter-and-interim-2026-results",
+      "source": "JD.com IR",
+      "kind": "earnings"
     },
     {
       "n": 2,
-      "symbol": "PR",
-      "short": "PR — Q2調整EPS $0.69（勝$0.56）、油氣銷售約$18.6億；全年原油產量目標上調至約199 MBbls/d",
-      "detail": "Permian Resources第二季調整每股盈利$0.69（共識約$0.56），油氣銷售約$18.6億（共識約$16.4億），主要受原油同NGL實現價帶動；原油產量約198.1 MBbls/d。公司將2026原油產量目標上調至約199 MBbls/d（較二月初指引高約10 MBbls/d），下半年原油產量料逾200 MBbls/d，同時將全年現金資本開支指引上調至約$19–20億（含Ward County併購相關約$2500萬）。焦點係產量上修同資本開支同步上升下嘅自由現金流可持續性。",
-      "url": "https://finance.yahoo.com/energy/articles/permian-resources-beats-q2-earnings-155400675.html",
-      "source": "Zacks via Yahoo Finance",
+      "symbol": "YETI",
+      "short": "YETI — Q2銷售$4.839億（+9%）；全年調整EPS上調至$2.94–3.00，美國Drinkware仍受英雄SKU週期拖累",
+      "detail": "YETI第二季銷售$483.9M（+9%），Coolers & Equipment $232.4M（+16%）帶動，Drinkware僅+2%至$241.4M（國際補美國部分英雄SKU換代拖累）；批發+10%、DTC+7%，國際銷售+19%。公司維持全年銷售增長7%–8%，但上調調整經營利潤率至約14.9%、調整EPS至$2.94–3.00（前$2.83–2.89）。毛利率受IEEPA關稅退稅一次性抬高，調整後經營溢利仍按年略降，反映品牌投放同國際擴張投資。焦點係美國Drinkware基數重置後2027再加速能否兌現，以及關稅假設（下半年約20%）敏感度。",
+      "url": "https://www.financialcontent.com/article/gnwcq-2026-8-13-yeti-reports-second-quarter-2026-results",
+      "source": "YETI / Business Wire",
       "kind": "earnings"
     },
     {
       "n": 3,
-      "symbol": "BDX",
-      "short": "BDX — PREVENT試驗完成入組477人／32站點，評估Phasix Mesh預防高危切口疝，擬作FDA提交證據",
-      "detail": "BD宣布PREVENT臨床試驗完成患者入組：共477人、橫跨美國同歐洲32個站點，評估可吸收網片Phasix Mesh用於高危患者擇期開腹中線手術後切口疝預防——目前該預防適應症尚無獲批產品。主要終點隨訪24個月，並計劃最長五年安全同結果追蹤；完成主要終點評估後，數據預期用於支持向FDA提交該適應症路徑。屬組織再生策略里程碑，惟商業化仍視乎療效同監管結果。",
-      "url": "https://www.prnewswire.com/news-releases/bd-accelerates-advanced-tissue-regeneration-strategy-with-landmark-prevent-trial-302848604.html",
-      "source": "BD / PR Newswire",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "FRSH",
-      "short": "FRSH — Q2收入$2.374億（+16%）並錄得GAAP淨利$320萬，全年收入指引上調至$9.635–9.665億",
-      "detail": "Freshworks公布2026年第二季收入$237.4M（按年+16%），GAAP經營溢利約$6.1M、GAAP淨利約$3.2M（攤薄EPS $0.01），係2026年首個GAAP盈利季度；非GAAP經營利潤率約23.6%。公司上調全年收入指引至$963.5–966.5M，並維持Rule of 40連續八季。現金及有價證券約$6.65億。市場仍睇緊AI產品轉化同增長放緩下利潤率可持續性。",
-      "url": "https://ir.freshworks.com/news/news-details/2026/Freshworks-Reports-Record-Second-Quarter-2026-Results/default.aspx",
-      "source": "Freshworks IR",
+      "symbol": "ADYEY",
+      "short": "ADYEY — H1淨收入€13億（+19%，不變匯率+21%）；全年指引不變匯率增長21%–23%，收購令EBITDA利潤率稀釋約1pt",
+      "detail": "Adyen上半年淨收入約€13億（+19%，不變匯率+21%），處理量約€8040億；EBITDA約€6.42億（+18%），EBITDA利潤率約49%（撇除一次性交易成本約50%）。全年淨收入不變匯率增長指引維持21%–23%，並預期因Talon.One同Orb收購令全年EBITDA利潤率較2025低約1個百分點；CapEx指引升至淨收入約7%，因提前鎖定算力同儲存。管理層強調OpenAI等AI原生客戶同Agentic產品，但EMEA增速放緩至約15%、平台take rate受大客戶階梯定價拖累。屬增長同利潤率取捨更新，短線睇收購整合同美國動能能否延續。",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adyen-nv-adyyf-h1-2026-230458278.html",
+      "source": "GuruFocus / Adyen call",
       "kind": "earnings"
     },
     {
+      "n": 4,
+      "symbol": "IRDM",
+      "short": "IRDM — Rocket Lab指收購Iridium嘅HSR等候期已屆滿，美國反壟斷審查過關；融資橋貸$36億＋ATM最多約$19.4億",
+      "detail": "Rocket Lab披露擬收購Iridium Communications交易嘅Hart-Scott-Rodino等候期已屆滿，清除美國反壟斷關卡。融資方面，公司持有Deutsche Bank同Wells Fargo承諾嘅約$36億364日優先有抵押橋貸，並計劃以永久債同股權取代；同時申請讓Iridium現有約$17.75億定期貸款（截至6月30日）交易後保留，並設最多約$19.4億ATM股權融資額度（承接5月計劃未售餘額）。對IRDM股東而言，監管進度向前但最終條款、同意函同融資稀釋仍係變數；屬大型併購敘事實質進展。",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-clears-major-hurdle-185807458.html",
+      "source": "GuruFocus via Yahoo Finance",
+      "kind": "deal"
+    },
+    {
       "n": 5,
-      "symbol": "OXY",
-      "short": "OXY — 管理層勾畫2030年前每年可額外創造約$40億可持續現金流（較2025約+95%），約85%就算油價更低亦可達",
-      "detail": "Occidental喺第二季業績會強調多年度現金流框架：目標到2030年較2025年每年額外創造逾$40億可持續現金流（約+95%），驅動因素包括更低維持性資本、成本效率同資產負債表節省，並指約85%改善就算喺更低油價、無需增產下亦有望實現；2026年未計油價上升前自由現金流改善目標逾$12億。Q2調整EPS約$2.40、收入約$83.3億均勝共識。焦點係債務下降節奏同維持性資本能否按計劃降至約$45億。",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/occidental-oxy-q2-2026-earnings-call-transcript/",
-      "source": "Occidental / Motley Fool transcript",
+      "symbol": "LQDA",
+      "short": "LQDA — YUTREPIA Q2淨銷售約$1.704億（按季+31%），淨利$7470萬；管理層重申2027淨收入逾$10億目標",
+      "detail": "Liquidia第二季YUTREPIA吸入粉劑淨產品銷售約$170.4M（按季+31%），總收入約$171.7M，錄得淨利約$74.7M、調整EBITDA約$96.3M，連續第四季盈利改善；截至6月30日現金約$2.842億。自2025年6月上市至2026年7月底累計約5900張獨特處方、逾5000名患者用藥，管理層指吸入市場份額約30%，並重申按現行轉介／開藥軌跡有望於2027年達逾$10億淨收入。下半年R&D料倍增以推進Re-Spire等約10項臨床，股價對銷售斜率同研發開支敏感。",
+      "url": "https://finance.yahoo.com/healthcare/articles/liquidia-corporation-reports-second-quarter-103000568.html",
+      "source": "Liquidia / GlobeNewswire",
       "kind": "earnings"
     },
     {
       "n": 6,
-      "symbol": "TGT",
-      "short": "TGT — 任命首位首席AI官Chandhu Nair（前Lowe's）8月24日履新，配合翻身同科技投資敘事",
-      "detail": "Target宣布任命Chandhu Nair為高級副總裁兼首位首席AI官，8月24日到任；Nair來自Lowe's，負責門店數據、AI同創新。此舉配合新CEO Michael Fiddelke任內提出約$20億四階段投資（含科技同購物體驗），以及公司把全年銷售增長展望上調至約4%後嘅翻身敘事。屬組織同產品信號，短線仍要睇可比店銷同流量能否延續。",
-      "url": "https://www.fool.com/investing/2026/08/12/this-dividend-king-is-up-56-this-year-and-it-just/",
-      "source": "Motley Fool",
-      "kind": "news"
+      "symbol": "TRMB",
+      "short": "TRMB — Q2收入$9.72億（有機+10%）、非GAAP EPS $0.86勝預期；上調全年並啟動T&L業務戰略檢討",
+      "detail": "Trimble第二季收入約$972M（有機約+10%），非GAAP EPS $0.86；ARR創新高約$25.1億（有機約+12%）。公司上調全年收入至約$39.0–39.5億、非GAAP EPS至$3.60–3.70，並授權新一輪約$10億回購；同時披露運輸物流（T&L）業務接獲可信入站意向，正聯同Goldman Sachs做戰略檢討（無預定結果同時間表）。Field Systems則因以自研方案取代低毛利白牌產品，預期未來數季ARR增速有約400–500bp逆風，但管理層指有利中期利潤率。屬業績上修同潛在資產重組雙催化。",
+      "url": "https://www.prnewswire.com/news-releases/trimble-announces-second-quarter-2026-results-and-raises-full-year-guidance-302849103.html",
+      "source": "Trimble / PR Newswire",
+      "kind": "earnings"
     },
     {
       "n": 7,
-      "symbol": "NTNX",
-      "short": "NTNX — 推出開源MCP Server技術預覽，讓AI助手經Prism V4 API操作雲基建（逾1000項操作）",
-      "detail": "Nutanix發布面向Nutanix Cloud Platform嘅Model Context Protocol（MCP）伺服器技術預覽（開源），令GitHub Copilot、Claude Code、Cursor等AI助手可以自然語言呼叫Prism V4 API，覆蓋逾1000項操作，用於健康診斷、腳本生成同自動化準備，同時保留既有權限同審計控制。目前標示為非生產用途技術預覽。屬混合雲運維AI化產品信號，商業化貢獻仍早期。",
-      "url": "https://www.nutanix.com/blog/nutanix-api-mcp-server-announcement",
-      "source": "Nutanix",
-      "kind": "news"
+      "symbol": "GAP",
+      "short": "GAP — 聯同Chalhoub進軍GCC：Gap／Banana Republic／Athleta今年內網上登陸阿聯酋、沙特、科威特，2027開實體店",
+      "detail": "Gap Inc.宣布同中東零售商Chalhoub Group達成戰略合作，將Gap、Banana Republic同Athleta以全渠道方式擴展至海灣合作委員會（GCC）市場。計劃今年餘下時間先喺阿聯酋、沙特阿拉伯同科威特分階段上線電商，2027年再開設實體店；雙方未披露店數同資本承諾。合作旨在結合Gap品牌組合同Chalhoub本地零售／數碼能力，屬中東擴張實質一步，短線對北美可比店銷影響有限，但強化國際化敘事。已核實為服飾零售商Gap Inc.，非「shares gap up」誤配。",
+      "url": "https://www.zawya.com/en/press-release/companies-news/chalhoub-group-and-gap-inc.-announce-strategic-partnership-421710",
+      "source": "Zawya / Gap Inc. & Chalhoub",
+      "kind": "deal"
     },
     {
       "n": 8,
-      "symbol": "HMC",
-      "short": "HMC — Honda Xcelerator投資量子計算公司Quemix，深化材料科學合作服務2050碳中和",
-      "detail": "Honda透過Honda Xcelerator Ventures宣布投資Quemix，加強雙方喺量子計算演算法同下一代材料開發嘅合作。公司指雙方已有2025年量子態讀出同2026年加速DFT計算等里程碑，目標把量子技術由研究推向實際材料開發，支援Honda 2050碳中和路線。屬長期研發佈局，短線對盈利影響有限，但強化電動化／新材料敘事。",
-      "url": "https://www.just-auto.com/news/honda-deepens-relationship-with-quantum-computing-firm/",
-      "source": "Just Auto / Honda",
-      "kind": "news"
+      "symbol": "LNG",
+      "short": "LNG — Q2收入約$57.3億、調整EBITDA約$18億；全年調整EBITDA指引上調至$79–84億，DCF至$53–58億",
+      "detail": "Cheniere第二季收入約$57.3億，綜合調整EBITDA約$18億、可分配現金流約$12億；LNG出口量約672 TBtu（按年約+22%），受Corpus Christi Stage 3新產能同較少大修帶動。公司將2026全年綜合調整EBITDA指引由$72.5–77.5億上調至$79–84億，可分配現金流由$47.5–52.5億上調至$53–58億，並指CCL Stage 3 Midscale Train 6實質完工、SPL擴建Phase 1邁向FID。盈利受長期IPM衍生工具公允值波動影響大，投資者更睇重現金流指引同擴建節奏。",
+      "url": "https://lngir.cheniere.com/news-events/press-releases/detail/343/cheniere-reports-second-quarter-2026-results-and-raises",
+      "source": "Cheniere IR",
+      "kind": "earnings"
     },
     {
       "n": 9,
-      "symbol": "CRM",
-      "short": "CRM — UBS指下半年收入增速或難再加速（客戶需求參差），股價收跌約2%",
-      "detail": "UBS指出Salesforce或需淡化下半年收入增長再加速嘅預期，理由係客戶需求表現參差。消息前後CRM股價收跌約2%。屬分析師觀點而非公司正式下修指引，但觸及市場對AI變現同核心雲增速可持續性嘅敏感點；後續需對照公司本身訂單、RPO同下一次正式指引。",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-poised-temper-revenue-growth-194749621.html",
-      "source": "MT Newswires via Yahoo Finance",
-      "kind": "news"
+      "symbol": "DNLI",
+      "short": "DNLI — AVLAYAH首個完整銷售季收入$360萬；賣出優先審評券後備現金pro forma逾$11億，Q3收入指引$1000–1200萬",
+      "detail": "Denali公布第二季AVLAYAH（Hunter症）美國商業化首個完整季度淨產品收入$3.6M（勝部分共識約$2.2M），淨虧損約$1.276億；研發開支約$9700萬略降，銷售行政開支因商業團隊升至約$3630萬。6月底現金及有價證券約$9.4億，加上7月出售罕見小兒疾病優先審評券（PRV）所得毛額約$1.95億後，pro forma現金逾$11億。管理層指引第三季產品收入約$1000–1200萬，並指支付覆蓋已逾半數受保人群。屬商業啟動早期斜率同現金跑道更新，規模仍細但驗證平台變現。",
+      "url": "https://investors.denalitherapeutics.com/news-releases/news-release-details/denali-therapeutics-reports-second-quarter-2026-financial",
+      "source": "Denali Therapeutics IR",
+      "kind": "earnings"
     },
     {
       "n": 10,
-      "symbol": "IRDM",
-      "short": "IRDM — Rocket Lab CEO再談擬約$80億收購Iridium：主攻太空服務、避開消費寬頻同SpaceX／Amazon正面碰撞",
-      "detail": "Rocket Lab行政總裁Peter Beck就擬收購Iridium通訊網絡再作說明，指交易旨在把Iridium衛星通訊能力同自家發射／衛星製造結合，開拓太空服務機會，並強調路線大致避開消費級寬頻賽道，減少同SpaceX、Amazon正面競爭。對IRDM股東而言，交易條款、監管同整合執行仍係主要變數；屬進行中大型併購敘事更新。",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-iridium-communications-irdm-stand-191218649.html",
-      "source": "Yahoo Finance",
-      "kind": "deal"
+      "symbol": "HP",
+      "short": "HP — Helmerich & Payne財季Q3收入$10.35億、調整EBITDA $2.36億；北美增10部鑽機，全年活躍機數指引上調",
+      "detail": "Helmerich & Payne（油田服務，非HP Inc.）財年第三季綜合收入約$10.35億，調整EBITDA約$2.36億；GAAP每股盈利$0.74，但撇除出售Utica Square等項目後調整虧損約$0.11。北美Solutions直接利潤約$2.41億、日均約$18,669，季內多部署約10部鑽機回應私營作業者需求；阿根廷再簽約5部FlexRig（含3部擬由美國出口），挪威離岸合約續約令離岸積壓訂單約$36億。公司提早償還$4億定期貸款，並計劃至2027年底削減約$4000萬年化企業成本。屬鑽機週期回暖同去槓桿並行更新。",
+      "url": "https://ir.hpinc.com/news/press-releases/news-details/2026/Helmerich--Payne-Inc--Announces-Fiscal-Third-Quarter-Results/default.aspx",
+      "source": "Helmerich & Payne IR",
+      "kind": "earnings"
     }
   ]
 }
