@@ -1,115 +1,79 @@
 {
-  "title": "FS新聞 08-14 11:00",
-  "list_name": "FirstScreen_2026-08-14_110029_comma.txt",
-  "created_at": "2026-08-14T11:00:39.558011+00:00",
+  "title": "FS新聞 08-15 01:54",
+  "list_name": "FirstScreen_2026-08-15_015441_comma.txt",
+  "created_at": "2026-08-15T01:54:52.166778+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "SLB",
-      "short": "SLB — Reliant Investment Management LLC Increases Stock Position in SLB Limited $SLB - Market…",
-      "detail": "SLB\n重點：新聞\n標題：Reliant Investment Management LLC Increases Stock Position in SLB Limited $SLB - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdDJRZmJTeEtqa25vTlFHd2RoMGhQVk1ScFZOVlZCT2JPb1lDc2xRaVFUUG9NMXpHdnN1Mm8tV1VDNnEtNW05emxDSm9aWG9zTGs4czJWR09mZkxOMWxRX0dITklqMWVQUkUxb25MVVlTSGtGcDlXS0h3WnJELWxmUWZuMGhUN2FyeERVelJfQXp3NnhfV2tndzV3MHNNNWhxblVyY1N3VDBCR…\n來源：Google News:SLB\n其他：Prospera Financial Services Inc Purchases 21,086 Shares of …; SLB (SLB) Stock May Trade At A Discount On Cash Flow But Fa…; SLB (SLB) Stock May Trade At A Discount On Cash Flow But Fa…",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdDJRZmJTeEtqa25vTlFHd2RoMGhQVk1ScFZOVlZCT2JPb1lDc2xRaVFUUG9NMXpHdnN1Mm8tV1VDNnEtNW05emxDSm9aWG9zTGs4czJWR09mZkxOMWxRX0dITklqMWVQUkUxb25MVVlTSGtGcDlXS0h3WnJELWxmUWZuMGhUN2FyeERVelJfQXp3NnhfV2tndzV3MHNNNWhxblVyY1N3VDBCRGtYUGNsankxX2Vzcm5TdjFtbmkweHR2STRWNFhlM2FvQjlGRi1aU2FuRw?oc=5",
-      "source": "Google News:SLB",
+      "symbol": "PYPL",
+      "short": "PYPL — 併購／交易：PayPal (PYPL) Is In Acquisition Talks At $53 Billion",
+      "detail": "PYPL\n重點：併購／交易\n標題：PayPal (PYPL) Is In Acquisition Talks At $53 Billion\n摘要：PayPal Holdings (NasdaqGS: PYPL) is in active talks over a potential acquisition by Stripe and Advent International, following an earlier offer that PayPal rejected. The proposed deal would bring together a major listed digital payments company and a large private fintech group,…\n來源：Yahoo Finance:PYPL\n其他：PayPal (NASDAQ:PYPL) Trading Up 1.8% - What's Next? - Marke…; A PayPal sale is back on the table: What we know about Stri…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-pypl-acquisition-talks-53-231154194.html?.tsrc=rss",
+      "source": "Yahoo Finance:PYPL",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "BKNG",
-      "short": "BKNG — Booking Holdings Inc. $BKNG Shares Acquired by North Growth Management Ltd. - MarketBeat",
-      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Shares Acquired by North Growth Management Ltd. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQbTZVZUFCbjlielVjUG16RzNlYzhqdENxd19BQUhycmh6VTFyR240dHVFdUJJSmlCRDZLMUlZWHJKTHRyWnNfakd3ZmFhWmU1SDJ4dnpCOVdXaTNpcmF5UEJZM1BwMmpmc1loUHhUTkFnWVg5X0ktNk5RWDJNc1Z0RVlCUzMySmFlS2RiYXNwcWUzc28zMFRZa1AyeFJ5MFZ4Rm5XQUtod1hUT…\n來源：Google News:BKNG\n其他：Gibraltar Capital Management Inc. Purchases 43,822 Shares o…; Booking Holdings Inc. $BKNG Position Increased by Schaper B…",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbTZVZUFCbjlielVjUG16RzNlYzhqdENxd19BQUhycmh6VTFyR240dHVFdUJJSmlCRDZLMUlZWHJKTHRyWnNfakd3ZmFhWmU1SDJ4dnpCOVdXaTNpcmF5UEJZM1BwMmpmc1loUHhUTkFnWVg5X0ktNk5RWDJNc1Z0RVlCUzMySmFlS2RiYXNwcWUzc28zMFRZa1AyeFJ5MFZ4Rm5XQUtod1hUTDUzWWpHejVBRHpuWlV1VUdUdURjMlRLeUdlVWkySW5oSUZSUQ?oc=5",
-      "source": "Google News:BKNG",
+      "symbol": "CARG",
+      "short": "CARG — CarGurus (NASDAQ:CARG) Director Sells 10,000 Shares of Stock - MarketBeat",
+      "detail": "CARG\n重點：新聞\n標題：CarGurus (NASDAQ:CARG) Director Sells 10,000 Shares of Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNajBwbWZtNjBZajE4aWJpNVN5ZWZVTnhBdGEyNlpJTWhPZWhyRS1aUHBuTmxKUGF5OFo3clNfcHZUQkZnSEpyMjNrMnVrbEplUm0wOGhmaVlIY1U5ay03YmNqV0JaYmVxWW5IUkxBYWxUWGxrVzVCWGc0aElCbmJxMVZmT25SMlk1TG5qdjhmRjYzdm1KYWVjTm9keW9wRjl3T2JXT3hXZENOa…\n來源：Google News:CARG\n其他：Dafna Sarnoff Sells 17,151 Shares of CarGurus (NASDAQ:CARG)…",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNajBwbWZtNjBZajE4aWJpNVN5ZWZVTnhBdGEyNlpJTWhPZWhyRS1aUHBuTmxKUGF5OFo3clNfcHZUQkZnSEpyMjNrMnVrbEplUm0wOGhmaVlIY1U5ay03YmNqV0JaYmVxWW5IUkxBYWxUWGxrVzVCWGc0aElCbmJxMVZmT25SMlk1TG5qdjhmRjYzdm1KYWVjTm9keW9wRjl3T2JXT3hXZENOanFxN19F?oc=5",
+      "source": "Google News:CARG",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "LULU",
-      "short": "LULU — 業績／指引：A Look Back at Apparel Retailer Stocks’ Q1 Earnings: Lululemon (NASDAQ:LULU) Vs The Res…",
-      "detail": "LULU\n重點：業績／指引\n標題：A Look Back at Apparel Retailer Stocks’ Q1 Earnings: Lululemon (NASDAQ:LULU) Vs The Rest Of The Pack - StockStory\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNajRqQkRkN3g1ajlZOVA0SElwODJMMVNOcnVEaE4wNDVwUFNuYS03X3A0ZzZHY0xHWG5qeHZRcUhoSEFMZ05sLVNqcjFjOF9HTHBjdXFkNGxaV2UtSmJxOTBVN0JfZXJrNE1maHR0dUZUVVpaOHlsTHlwT3NYcGdfQ0JmUjVSanE4cWRoWVEzcF9wSDNEQnItWkFmcDZYYlJvT3NsVGtkR21jd…\n來源：Google News:LULU\n其他：Exchange Traded Concepts LLC Raises Position in lululemon a…; LULU Stock Stares At Worst Week Since June: Lululemon’s AI …",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNajRqQkRkN3g1ajlZOVA0SElwODJMMVNOcnVEaE4wNDVwUFNuYS03X3A0ZzZHY0xHWG5qeHZRcUhoSEFMZ05sLVNqcjFjOF9HTHBjdXFkNGxaV2UtSmJxOTBVN0JfZXJrNE1maHR0dUZUVVpaOHlsTHlwT3NYcGdfQ0JmUjVSanE4cWRoWVEzcF9wSDNEQnItWkFmcDZYYlJvT3NsVGtkR21jdmRJV3ZPaGtpWl9CYjl0eUNjdzlCR2twcWxTM2ZoM3BPTVlJeVNlcmtrMTZ4c2s5R2o5Q2dNNWtuOWFJNkVoZVE?oc=5",
-      "source": "Google News:LULU",
+      "symbol": "EWTX",
+      "short": "EWTX — Edgewise Therapeutics (NASDAQ:EWTX) General Counsel Sells $219,801.12 in Stock - Market…",
+      "detail": "EWTX\n重點：新聞\n標題：Edgewise Therapeutics (NASDAQ:EWTX) General Counsel Sells $219,801.12 in Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPY1F4QXNtZGpjSFE5dGdDcXpHTlFudXl2VWtmQXR0U3BRSHFOTmNQZTB1ZWpEaC15U1NzLU0xTEVmSUZlLXBlc29ZR1dzeS1uamplMThITXN3Z2FSZThEeWkwLU5fSUs2UGJmU3l5ZmtLd3lKNnZCSlBENl96UDhhMENtUHlEbVQtRFlUR2toM2VycHN3R0RRU3FvdGw1RGUyU3dvWVF3QTc4R…\n來源：Google News:EWTX\n其他：Edgewise Therapeutics (NASDAQ:EWTX) CMO Sells 6,522 Shares …",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY1F4QXNtZGpjSFE5dGdDcXpHTlFudXl2VWtmQXR0U3BRSHFOTmNQZTB1ZWpEaC15U1NzLU0xTEVmSUZlLXBlc29ZR1dzeS1uamplMThITXN3Z2FSZThEeWkwLU5fSUs2UGJmU3l5ZmtLd3lKNnZCSlBENl96UDhhMENtUHlEbVQtRFlUR2toM2VycHN3R0RRU3FvdGw1RGUyU3dvWVF3QTc4RnlwbjNueWtHM0tWejNBR3Q5UDVDdG1LODBE?oc=5",
+      "source": "Google News:EWTX",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "MDT",
-      "short": "MDT — Medtronic PLC $MDT Shares Acquired by Verity & Verity LLC - MarketBeat",
-      "detail": "MDT\n重點：新聞\n標題：Medtronic PLC $MDT Shares Acquired by Verity & Verity LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPMklsZWt0RUVNYlFPQmpldXJYQW9CNUFmeG5Ga2hlOGNpNFFCOFc5Q2kwZGxTNjBKS01rdzQ4bXVjN2pOVFZGVVhZd3dxNmp3RWVwckJxeGpodlA4bnh6WUV4bDB5ZVBSSy1ESE0wYl9Tak8xbExWYmpGT1c4X3FaOVRUN1U1LTFZaXhzcm9pNnhnbk1mZXBJZnJFa09BdUR4TXJ5LVZ6VmxDN…\n來源：Google News:MDT\n其他：28,448 Shares in Medtronic PLC $MDT Purchased by Sciencast …; Medtronic (NYSE:MDT) Combines Dividend Quality with a Susta…",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMklsZWt0RUVNYlFPQmpldXJYQW9CNUFmeG5Ga2hlOGNpNFFCOFc5Q2kwZGxTNjBKS01rdzQ4bXVjN2pOVFZGVVhZd3dxNmp3RWVwckJxeGpodlA4bnh6WUV4bDB5ZVBSSy1ESE0wYl9Tak8xbExWYmpGT1c4X3FaOVRUN1U1LTFZaXhzcm9pNnhnbk1mZXBJZnJFa09BdUR4TXJ5LVZ6VmxDNGRfQ2YyaGpsc3RNUQ?oc=5",
-      "source": "Google News:MDT",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "MRK",
-      "short": "MRK — Merck & Co., Inc. $MRK Shares Purchased by Merit Financial Group LLC - MarketBeat",
-      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Shares Purchased by Merit Financial Group LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNakhUeDNaV1N2OWpVcVY2d21yek55U0dIZGN5UXJzV3V0YXM3azRxWFV5Y1JodHJMc25ERWpJWUlMVF9HLXJvODBxZ1JqLWlvbkxyT3VIR3BMQXQ4YVlhbFRCVDBwQ1lCaGMybGdIc0NFVzZrVGRwZnFDTmpTTDBMbE5sOVlhNFlfUy1sSjk3bkRjblR2Y2RoRWVQM2hDMzNVSUlYX2czQmh0O…\n來源：Google News:MRK\n其他：Merck & Co., Inc. $MRK Shares Sold by Gateway Investment Ad…; Thomasville National Bank Invests $5.49 Million in Merck & …",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNakhUeDNaV1N2OWpVcVY2d21yek55U0dIZGN5UXJzV3V0YXM3azRxWFV5Y1JodHJMc25ERWpJWUlMVF9HLXJvODBxZ1JqLWlvbkxyT3VIR3BMQXQ4YVlhbFRCVDBwQ1lCaGMybGdIc0NFVzZrVGRwZnFDTmpTTDBMbE5sOVlhNFlfUy1sSjk3bkRjblR2Y2RoRWVQM2hDMzNVSUlYX2czQmh0OS1pTXRBS0JTVmZyTXN1SHpSVVRLZUY?oc=5",
-      "source": "Google News:MRK",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "JD",
-      "short": "JD — Handelsbanken Fonder AB Increases Holdings in JD.com, Inc. $JD - MarketBeat",
-      "detail": "JD\n重點：新聞\n標題：Handelsbanken Fonder AB Increases Holdings in JD.com, Inc. $JD - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYnFoTzJYZWpzY0ZfSFdWTmdCQ2FON25OMzhiOTBjY00tWFpPZnlJVGRvU2ZwV3pKMTc4MVNpU3pIMjA3c0ZjVVFqd0ZVcXVEZnlyXzFGZENHUHZEV29Zb1QyOGExNzVKVW5rbDJjQUdOVHlUUHN3TzE1UzRtVzZYMFVjVzc1dnZLT2NzSEJVemZ2WWZnNzc5YVM2RHp5eDQ0Y0Y0YU9uTnNSa…\n來源：Google News:JD\n其他：JD.com (JD) Stock Analysis: Q2 Earnings Reveal Mixed Result…",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYnFoTzJYZWpzY0ZfSFdWTmdCQ2FON25OMzhiOTBjY00tWFpPZnlJVGRvU2ZwV3pKMTc4MVNpU3pIMjA3c0ZjVVFqd0ZVcXVEZnlyXzFGZENHUHZEV29Zb1QyOGExNzVKVW5rbDJjQUdOVHlUUHN3TzE1UzRtVzZYMFVjVzc1dnZLT2NzSEJVemZ2WWZnNzc5YVM2RHp5eDQ0Y0Y0YU9uTnNSaWs3dU1DU3k1RUJVclp3MjlR?oc=5",
-      "source": "Google News:JD",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "LQDA",
-      "short": "LQDA — 業績／指引：Liquidia (LQDA) Stock May Trade At A Premium On Earnings But A Discount On Broader Chec…",
-      "detail": "LQDA\n重點：業績／指引\n標題：Liquidia (LQDA) Stock May Trade At A Premium On Earnings But A Discount On Broader Checks\n摘要：Liquidia stock has delivered an extremely strong run over the past few years, yet the valuation checks now suggest investors are dealing with a mixed picture rather than a clear bargain or clear overvaluation. After such a sharp move, the recent pullback raises the question of h…\n來源：Yahoo Finance:LQDA\n其他：Liquidia (LQDA) Stock May Trade At A Premium On Earnings Bu…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/liquidia-lqda-stock-may-trade-031622814.html?.tsrc=rss",
-      "source": "Yahoo Finance:LQDA",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "TRMB",
-      "short": "TRMB — Trimble Inc. (NASDAQ:TRMB) Given Average Rating of \"Moderate Buy\" by Brokerages - Marke…",
-      "detail": "TRMB\n重點：新聞\n標題：Trimble Inc. (NASDAQ:TRMB) Given Average Rating of \"Moderate Buy\" by Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPaHRqVFRKTng4Y1FMS250YWgtZXFkV0ZpUTNJUHdMTk9OdXpoeThZOE81blBNSGgtd3VURnZQUGxhbGdld1pOVTVLWmtwS085RFc0YzZvUDNVLXRBaXZRMGJIQ1RjWXBQa1lqSzNXNVU2WVdHOGhhWlRackU0cERMR3doUWd4WUtPOUctVW0xVzRVSUVCLVNucU9oN2NxNXhhTTZaRDhVSlFqS…\n來源：Google News:TRMB\n其他：Should Trimble’s Q2 Impairment, Raised Outlook and New Buyb…",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaHRqVFRKTng4Y1FMS250YWgtZXFkV0ZpUTNJUHdMTk9OdXpoeThZOE81blBNSGgtd3VURnZQUGxhbGdld1pOVTVLWmtwS085RFc0YzZvUDNVLXRBaXZRMGJIQ1RjWXBQa1lqSzNXNVU2WVdHOGhhWlRackU0cERMR3doUWd4WUtPOUctVW0xVzRVSUVCLVNucU9oN2NxNXhhTTZaRDhVSlFqS0lGQzh0S3dGMVpLb2pzVkc3S0FGZkpsVlN6UVE?oc=5",
-      "source": "Google News:TRMB",
-      "kind": "news"
-    },
-    {
-      "n": 9,
       "symbol": "A",
-      "short": "A — 業績／指引：Yamanashi Chuo BankLtd (TSE:8360) Lifted Guidance And Approved A Stock Split, Is It Ove…",
-      "detail": "A\n重點：業績／指引\n標題：Yamanashi Chuo BankLtd (TSE:8360) Lifted Guidance And Approved A Stock Split, Is It Overvalued? - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaUFNTF94QU5ESWJsMzhTaUl3TEp2cmpRWHZGZGxMYUNKa3BCZFRwRW5Dc3NDczNQVVRibTlJVTJzMFNrV2lmdDlmM0s2N21USEV3NGt5d01ndlNPN29PaFYxZjdWSlItR3M4elprdU5YNFJhWnRKeHA3T1lrSEl2YUFQN1lzY0hwVEZxeGJDNFBtd2NrWmtORHAtYWFQUXRBOTNFUDEtZURuV…\n來源：Google News:A",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaUFNTF94QU5ESWJsMzhTaUl3TEp2cmpRWHZGZGxMYUNKa3BCZFRwRW5Dc3NDczNQVVRibTlJVTJzMFNrV2lmdDlmM0s2N21USEV3NGt5d01ndlNPN29PaFYxZjdWSlItR3M4elprdU5YNFJhWnRKeHA3T1lrSEl2YUFQN1lzY0hwVEZxeGJDNFBtd2NrWmtORHAtYWFQUXRBOTNFUDEtZURuVnNZbF9PT3AtdmxhcTFNVkVCQXZLOWF1NktmTDhmNzNlblZ0ZlRRNHlGTWxEMFnSAd4BQVVfeXFMTW5TTjV5bVQ3ek9kLUV4RG55NEFPWnctN0NlVmpTM2d5Znp2NWtYc2xoU0Npb1hCZFE2eW1Zc2cxQi12d3FGdkdnVklEcFRwc3FLLWoybzU0Q25MZ0pvLXM5VU82cER0R0xTTHVlck9zMzNVSThnVjhOZEFLclZoTk9OSTZkNDFiOFhseFl0S0YzRWZacWY5dXZnZ1lqTzZ3ODViTUt1c3VlTGV4emQ0bEpoN3UzSzJPejdJajUwY0NaRFZ1WUFnOU9zRTQ4YVg3d21iRmpuS0txaHlRTXBR?oc=5",
-      "source": "Google News:A",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "ADT",
-      "short": "ADT — ADT (ADT) Dividend And Buyback Update Keeps The Undervalued Narrative In Play - simplyw…",
-      "detail": "ADT\n重點：新聞\n標題：ADT (ADT) Dividend And Buyback Update Keeps The Undervalued Narrative In Play - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOdlh6bkhSREFDTzh0MUFuNWtneWUxdUFEZ1JkZFd0TnBaSFRCV1F4bnZDS1g1N250a1J2aEtZX0VIeFZIUnl6ZURlYnc0QkFDSDRVb2xxWFZEd01MTHl6eUxlMjR0Uko5MTh1R3BfV3dNSDFYWjFQckpIUzdzUndpd0g2OVJ4UkhzTF9RYTNoNVJ4Yks3dzhoUm5vR0JxSkxDZF81bHF0M3Qxb…\n來源：Google News:ADT",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdlh6bkhSREFDTzh0MUFuNWtneWUxdUFEZ1JkZFd0TnBaSFRCV1F4bnZDS1g1N250a1J2aEtZX0VIeFZIUnl6ZURlYnc0QkFDSDRVb2xxWFZEd01MTHl6eUxlMjR0Uko5MTh1R3BfV3dNSDFYWjFQckpIUzdzUndpd0g2OVJ4UkhzTF9RYTNoNVJ4Yks3dzhoUm5vR0JxSkxDZF81bHF0M3QxbV85a2dGTDBVMERaV2QtVnZELWFMMktBcGtWeEdz0gHMAUFVX3lxTE1aZnhqTXVSMG9uTXJTZVBidi1MX05CU256UEVMUFhrNDdEX2lMSHBNYXA5SWR3VDNxU2R3QkxrN1NaLXdqVURBeTQ4cy1PVjRxT2hRcU1NWVRrTkdWZmpPVWRvRmxjV0JUQmdvUHVRY0Q1aTNTa0E5ak11Nm1QTVZ3OThDcWxIUXlBUGhnWFpJQ0s5RjJ3R2JlalFWZEoySHlrcGMzajJUbkF0ajdvY0lHeUVjeXg2OVhFR2NjdTNGX01mSU5UVklOR2tMVQ?oc=5",
-      "source": "Google News:ADT",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "ANET",
-      "short": "ANET — Jim Cramer Said Arista Networks, Inc. (NYSE:ANET) and Snowflake Inc. (NYSE:SNOW) Were W…",
-      "detail": "ANET\n重點：新聞\n標題：Jim Cramer Said Arista Networks, Inc. (NYSE:ANET) and Snowflake Inc. (NYSE:SNOW) Were Worth It\n摘要：Networking equipment and software provider Arista Networks, Inc. (NYSE:ANET) is one of Cramer’s favorite stocks. In fact, as far back as February 2025, the CNBC TV host remarked that going against Arista Networks, Inc. (NYSE:ANET) and its CEO meant an “invitation to your funeral…\n來源：Yahoo Finance:ANET",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-arista-networks-080905333.html?.tsrc=rss",
+      "short": "A — AI相關、業績／指引：Cisco Beat On Every Line, Then Fell On What AI Costs To Ship",
+      "detail": "A\n重點：AI相關、業績／指引\n標題：Cisco Beat On Every Line, Then Fell On What AI Costs To Ship\n摘要：Record revenue, a guide above Wall Street, and a stock down anyway, because the growth now arrives as hardware and the mix shift is what compresses the margin.\n來源：Yahoo Finance:ANET",
+      "url": "https://www.trefis.com/articles/611552/cisco-beat-on-every-line-then-fell-on-what-ai-costs-to-ship/2026-08-14?.tsrc=rss",
       "source": "Yahoo Finance:ANET",
       "kind": "news"
     },
     {
-      "n": 12,
-      "symbol": "BTG",
-      "short": "BTG — 業績／指引：B2Gold (BTG) Q2 2026 Earnings Call Transcript",
-      "detail": "BTG\n重點：業績／指引\n標題：B2Gold (BTG) Q2 2026 Earnings Call Transcript\n摘要：Mali's Menankoto permit unlocks 150,000+ annual ounces starting 2028.\n來源：Yahoo Finance:BTG",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/14/b2gold-btg-q2-2026-earnings-call-transcript/?.tsrc=rss",
-      "source": "Yahoo Finance:BTG",
+      "n": 5,
+      "symbol": "ANET",
+      "short": "ANET — AI相關、業績／指引：Arista Networks (ANET) Is Up 5.9% After AI-Fueled Q3 Revenue Guidance Upgrade - Has The…",
+      "detail": "ANET\n重點：AI相關、業績／指引\n標題：Arista Networks (ANET) Is Up 5.9% After AI-Fueled Q3 Revenue Guidance Upgrade - Has The Bull Case Changed?\n摘要：In the past week, Arista Networks reported second-quarter 2026 results showing revenue of US$3.04 billion and net income of US$1.21 billion, alongside guidance for roughly US$3.30 billion in third-quarter revenue. Management linked this stronger outlook to accelerating demand fo…\n來源：Yahoo Finance:ANET",
+      "url": "https://finance.yahoo.com/technology/ai/articles/arista-networks-anet-5-9-211332057.html?.tsrc=rss",
+      "source": "Yahoo Finance:ANET",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "CRM",
+      "short": "CRM — Salesforce (NYSE:CRM) Shares Down 2.7% - Should You Sell? - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Shares Down 2.7% - Should You Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQdlgzdmE4Q1V6MXhYNXhGQU1OMEp1RTNuUUJFOFNxMXo3WnFEOVkwVUQ5SDNSZ0QzazBIVEtrRTd5OTBETlpRaXk3OWhQQWxmX0sxQzRjX0JrMG5SOG1malpEYVEyR0JicmNxRkU5TWFwcWptNnRvRGNIV3pIeU9TOHhhUmNQWVNzcjJrM2RCU1didWhpNWhBOFR0emowQTRPdW5Rclh3?oc=5…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdlgzdmE4Q1V6MXhYNXhGQU1OMEp1RTNuUUJFOFNxMXo3WnFEOVkwVUQ5SDNSZ0QzazBIVEtrRTd5OTBETlpRaXk3OWhQQWxmX0sxQzRjX0JrMG5SOG1malpEYVEyR0JicmNxRkU5TWFwcWptNnRvRGNIV3pIeU9TOHhhUmNQWVNzcjJrM2RCU1didWhpNWhBOFR0emowQTRPdW5Rclh3?oc=5",
+      "source": "Google News:CRM",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "OKTA",
+      "short": "OKTA — Citizens Just Upgraded OKTA Ahead of Upcoming Catalysts. How to View OKTA Stock Now.",
+      "detail": "OKTA\n重點：新聞\n標題：Citizens Just Upgraded OKTA Ahead of Upcoming Catalysts. How to View OKTA Stock Now.\n來源：Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citizens-just-upgraded-okta-ahead-191027332.html",
+      "source": "Yahoo Finance",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "ROKU",
+      "short": "ROKU — Roku (NASDAQ:ROKU) Shares Up 2.3% - Here's What Happened - MarketBeat",
+      "detail": "ROKU\n重點：新聞\n標題：Roku (NASDAQ:ROKU) Shares Up 2.3% - Here's What Happened - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOdEEzeXZHZG1EU3RTZHlaaU92Z3NpM19LZ0tKRW5lYXlVUlp2QWN4ajJCNE5mTzBRNDFxUl9ydk16N2JHMmY2aFNsYXpuSWxDQW9CMVhqRVM3MlJDRzQ1YXRXMVFySk9ybVpMd2paWDg3V0c4aC1lYU1DY0lKQzNMQ2x2Wl9IakRhLVpkVW1lQkJCdnVQWmFfWW5Qd0FYMUZJNlo3aA?oc=5\" …\n來源：Google News:ROKU",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdEEzeXZHZG1EU3RTZHlaaU92Z3NpM19LZ0tKRW5lYXlVUlp2QWN4ajJCNE5mTzBRNDFxUl9ydk16N2JHMmY2aFNsYXpuSWxDQW9CMVhqRVM3MlJDRzQ1YXRXMVFySk9ybVpMd2paWDg3V0c4aC1lYU1DY0lKQzNMQ2x2Wl9IakRhLVpkVW1lQkJCdnVQWmFfWW5Qd0FYMUZJNlo3aA?oc=5",
+      "source": "Google News:ROKU",
       "kind": "news"
     }
   ]
