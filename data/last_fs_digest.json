@@ -1,56 +1,20 @@
 {
-  "title": "FS新聞 08-15 01:54",
-  "list_name": "FirstScreen_2026-08-15_015441_comma.txt",
-  "created_at": "2026-08-15T01:54:52.166778+00:00",
+  "title": "FS新聞 08-15 05:22",
+  "list_name": "FirstScreen_2026-08-15_052203_comma.txt",
+  "created_at": "2026-08-15T05:22:14.101039+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
       "symbol": "PYPL",
       "short": "PYPL — 併購／交易：PayPal (PYPL) Is In Acquisition Talks At $53 Billion",
-      "detail": "PYPL\n重點：併購／交易\n標題：PayPal (PYPL) Is In Acquisition Talks At $53 Billion\n摘要：PayPal Holdings (NasdaqGS: PYPL) is in active talks over a potential acquisition by Stripe and Advent International, following an earlier offer that PayPal rejected. The proposed deal would bring together a major listed digital payments company and a large private fintech group,…\n來源：Yahoo Finance:PYPL\n其他：PayPal (NASDAQ:PYPL) Trading Up 1.8% - What's Next? - Marke…; A PayPal sale is back on the table: What we know about Stri…",
+      "detail": "PYPL\n重點：併購／交易\n標題：PayPal (PYPL) Is In Acquisition Talks At $53 Billion\n摘要：PayPal Holdings (NasdaqGS: PYPL) is in active talks over a potential acquisition by Stripe and Advent International, following an earlier offer that PayPal rejected. The proposed deal would bring together a major listed digital payments company and a large private fintech group,…\n來源：Yahoo Finance:PYPL\n其他：PayPal (NASDAQ:PYPL) Trading Up 1.8% - What's Next? - Marke…",
       "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-pypl-acquisition-talks-53-231154194.html?.tsrc=rss",
       "source": "Yahoo Finance:PYPL",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "CARG",
-      "short": "CARG — CarGurus (NASDAQ:CARG) Director Sells 10,000 Shares of Stock - MarketBeat",
-      "detail": "CARG\n重點：新聞\n標題：CarGurus (NASDAQ:CARG) Director Sells 10,000 Shares of Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNajBwbWZtNjBZajE4aWJpNVN5ZWZVTnhBdGEyNlpJTWhPZWhyRS1aUHBuTmxKUGF5OFo3clNfcHZUQkZnSEpyMjNrMnVrbEplUm0wOGhmaVlIY1U5ay03YmNqV0JaYmVxWW5IUkxBYWxUWGxrVzVCWGc0aElCbmJxMVZmT25SMlk1TG5qdjhmRjYzdm1KYWVjTm9keW9wRjl3T2JXT3hXZENOa…\n來源：Google News:CARG\n其他：Dafna Sarnoff Sells 17,151 Shares of CarGurus (NASDAQ:CARG)…",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNajBwbWZtNjBZajE4aWJpNVN5ZWZVTnhBdGEyNlpJTWhPZWhyRS1aUHBuTmxKUGF5OFo3clNfcHZUQkZnSEpyMjNrMnVrbEplUm0wOGhmaVlIY1U5ay03YmNqV0JaYmVxWW5IUkxBYWxUWGxrVzVCWGc0aElCbmJxMVZmT25SMlk1TG5qdjhmRjYzdm1KYWVjTm9keW9wRjl3T2JXT3hXZENOanFxN19F?oc=5",
-      "source": "Google News:CARG",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "EWTX",
-      "short": "EWTX — Edgewise Therapeutics (NASDAQ:EWTX) General Counsel Sells $219,801.12 in Stock - Market…",
-      "detail": "EWTX\n重點：新聞\n標題：Edgewise Therapeutics (NASDAQ:EWTX) General Counsel Sells $219,801.12 in Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPY1F4QXNtZGpjSFE5dGdDcXpHTlFudXl2VWtmQXR0U3BRSHFOTmNQZTB1ZWpEaC15U1NzLU0xTEVmSUZlLXBlc29ZR1dzeS1uamplMThITXN3Z2FSZThEeWkwLU5fSUs2UGJmU3l5ZmtLd3lKNnZCSlBENl96UDhhMENtUHlEbVQtRFlUR2toM2VycHN3R0RRU3FvdGw1RGUyU3dvWVF3QTc4R…\n來源：Google News:EWTX\n其他：Edgewise Therapeutics (NASDAQ:EWTX) CMO Sells 6,522 Shares …",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY1F4QXNtZGpjSFE5dGdDcXpHTlFudXl2VWtmQXR0U3BRSHFOTmNQZTB1ZWpEaC15U1NzLU0xTEVmSUZlLXBlc29ZR1dzeS1uamplMThITXN3Z2FSZThEeWkwLU5fSUs2UGJmU3l5ZmtLd3lKNnZCSlBENl96UDhhMENtUHlEbVQtRFlUR2toM2VycHN3R0RRU3FvdGw1RGUyU3dvWVF3QTc4RnlwbjNueWtHM0tWejNBR3Q5UDVDdG1LODBE?oc=5",
-      "source": "Google News:EWTX",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "A",
-      "short": "A — AI相關、業績／指引：Cisco Beat On Every Line, Then Fell On What AI Costs To Ship",
-      "detail": "A\n重點：AI相關、業績／指引\n標題：Cisco Beat On Every Line, Then Fell On What AI Costs To Ship\n摘要：Record revenue, a guide above Wall Street, and a stock down anyway, because the growth now arrives as hardware and the mix shift is what compresses the margin.\n來源：Yahoo Finance:ANET",
-      "url": "https://www.trefis.com/articles/611552/cisco-beat-on-every-line-then-fell-on-what-ai-costs-to-ship/2026-08-14?.tsrc=rss",
-      "source": "Yahoo Finance:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "ANET",
-      "short": "ANET — AI相關、業績／指引：Arista Networks (ANET) Is Up 5.9% After AI-Fueled Q3 Revenue Guidance Upgrade - Has The…",
-      "detail": "ANET\n重點：AI相關、業績／指引\n標題：Arista Networks (ANET) Is Up 5.9% After AI-Fueled Q3 Revenue Guidance Upgrade - Has The Bull Case Changed?\n摘要：In the past week, Arista Networks reported second-quarter 2026 results showing revenue of US$3.04 billion and net income of US$1.21 billion, alongside guidance for roughly US$3.30 billion in third-quarter revenue. Management linked this stronger outlook to accelerating demand fo…\n來源：Yahoo Finance:ANET",
-      "url": "https://finance.yahoo.com/technology/ai/articles/arista-networks-anet-5-9-211332057.html?.tsrc=rss",
-      "source": "Yahoo Finance:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 6,
       "symbol": "CRM",
       "short": "CRM — Salesforce (NYSE:CRM) Shares Down 2.7% - Should You Sell? - MarketBeat",
       "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Shares Down 2.7% - Should You Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQdlgzdmE4Q1V6MXhYNXhGQU1OMEp1RTNuUUJFOFNxMXo3WnFEOVkwVUQ5SDNSZ0QzazBIVEtrRTd5OTBETlpRaXk3OWhQQWxmX0sxQzRjX0JrMG5SOG1malpEYVEyR0JicmNxRkU5TWFwcWptNnRvRGNIV3pIeU9TOHhhUmNQWVNzcjJrM2RCU1didWhpNWhBOFR0emowQTRPdW5Rclh3?oc=5…\n來源：Google News:CRM",
@@ -59,16 +23,25 @@
       "kind": "news"
     },
     {
-      "n": 7,
-      "symbol": "OKTA",
-      "short": "OKTA — Citizens Just Upgraded OKTA Ahead of Upcoming Catalysts. How to View OKTA Stock Now.",
-      "detail": "OKTA\n重點：新聞\n標題：Citizens Just Upgraded OKTA Ahead of Upcoming Catalysts. How to View OKTA Stock Now.\n來源：Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/citizens-just-upgraded-okta-ahead-191027332.html",
+      "n": 3,
+      "symbol": "HCA",
+      "short": "HCA — 業績／指引：Could HCA Healthcare, Inc. (HCA) Stock Rebound After Guidance Cuts and Payer Pressure?",
+      "detail": "HCA\n重點：業績／指引\n標題：Could HCA Healthcare, Inc. (HCA) Stock Rebound After Guidance Cuts and Payer Pressure?\n來源：Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/could-hca-healthcare-inc-hca-221733771.html",
       "source": "Yahoo Finance",
       "kind": "news"
     },
     {
-      "n": 8,
+      "n": 4,
+      "symbol": "MRK",
+      "short": "MRK — Could Merck & Co., Inc. (MRK) and Gilead Sciences, Inc. (GILD)’s Partnership Create the…",
+      "detail": "MRK\n重點：新聞\n標題：Could Merck & Co., Inc. (MRK) and Gilead Sciences, Inc. (GILD)’s Partnership Create the Next Big Pharma Growth Engine\n來源：Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/could-merck-co-inc-mrk-214608790.html",
+      "source": "Yahoo Finance",
+      "kind": "news"
+    },
+    {
+      "n": 5,
       "symbol": "ROKU",
       "short": "ROKU — Roku (NASDAQ:ROKU) Shares Up 2.3% - Here's What Happened - MarketBeat",
       "detail": "ROKU\n重點：新聞\n標題：Roku (NASDAQ:ROKU) Shares Up 2.3% - Here's What Happened - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOdEEzeXZHZG1EU3RTZHlaaU92Z3NpM19LZ0tKRW5lYXlVUlp2QWN4ajJCNE5mTzBRNDFxUl9ydk16N2JHMmY2aFNsYXpuSWxDQW9CMVhqRVM3MlJDRzQ1YXRXMVFySk9ybVpMd2paWDg3V0c4aC1lYU1DY0lKQzNMQ2x2Wl9IakRhLVpkVW1lQkJCdnVQWmFfWW5Qd0FYMUZJNlo3aA?oc=5\" …\n來源：Google News:ROKU",
