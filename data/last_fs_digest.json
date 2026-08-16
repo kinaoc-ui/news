@@ -1,115 +1,43 @@
 {
-  "title": "FS新聞 08-15 10:27",
-  "list_name": "FirstScreen_2026-08-15_102710_comma.txt",
-  "created_at": "2026-08-15T10:27:20.847965+00:00",
+  "title": "FS新聞 08-16 02:02",
+  "list_name": "FirstScreen_2026-08-16_020206_comma.txt",
+  "created_at": "2026-08-16T02:02:17.367516+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "BKNG",
-      "short": "BKNG — Booking Holdings Inc. $BKNG Shares Bought by Leonard Rickey Investment Advisors P.L.L.C…",
-      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Shares Bought by Leonard Rickey Investment Advisors P.L.L.C. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYXQxa1c4VjVfZjlUY1NyWktHQ19QN2F1STJlOEN6dTk0RWZrX3dCYXFLVnAyU09zbVRCREJhTzZMdDRDalc2LW5adV9CRm9tZUphWE81blI3cW1mS28takI0THp2OXkzdUpsVnlaQWRZTkRTaXlvZVdMTmdJUGJWWHI4SXdrekRmcG4weTFRU1RuV0RUSEJkM21JcFlKUURCeThxQWJMSUVRU…\n來源：Google News:BKNG\n其他：Trust Co of Kansas Purchases 28,980 Shares of Booking Holdi…; Securian Asset Management Inc. Increases Stock Position in …; Booking Holdings Inc. $BKNG Stake Boosted by Exchange Trade…",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYXQxa1c4VjVfZjlUY1NyWktHQ19QN2F1STJlOEN6dTk0RWZrX3dCYXFLVnAyU09zbVRCREJhTzZMdDRDalc2LW5adV9CRm9tZUphWE81blI3cW1mS28takI0THp2OXkzdUpsVnlaQWRZTkRTaXlvZVdMTmdJUGJWWHI4SXdrekRmcG4weTFRU1RuV0RUSEJkM21JcFlKUURCeThxQWJMSUVRUUZOZnFaeVNSV29vSW94Unl1QVp0LTU2MW43TlZlRkZMLW9McE15N09TcElaWGpUMWM?oc=5",
-      "source": "Google News:BKNG",
+      "symbol": "AEO",
+      "short": "AEO — 業績／指引：American Eagle (AEO) Stock Trades At A Discount On Earnings While Cash Flow Points To F…",
+      "detail": "AEO\n重點：業績／指引\n標題：American Eagle (AEO) Stock Trades At A Discount On Earnings While Cash Flow Points To Fair Value\n摘要：American Eagle Outfitters stock is coming off a mixed five year stretch, with a steep decline over that window set against recent gains, while its current checks suggest the shares no longer look obviously cheap or clearly expensive. Over the past 5 years, American Eagle Outfitt…\n來源：Yahoo Finance:AEO\n其他：American Eagle (AEO) Stock Trades At A Discount On Earnings…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/american-eagle-aeo-stock-trades-200831966.html?.tsrc=rss",
+      "source": "Yahoo Finance:AEO",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "ECL",
-      "short": "ECL — Dockside LLC Invests $1.80 Million in Ecolab Inc. $ECL - MarketBeat",
-      "detail": "ECL\n重點：新聞\n標題：Dockside LLC Invests $1.80 Million in Ecolab Inc. $ECL - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXo5RzdlTjVTQl9wR0RMT1RRNThTZ2R2Vm9kZzY5Q2FXaGpPb0JsMzFENERhWXkxMlZPYmtsVEpOd0JrdG5Zb29HM1Z1bFhPSmFtWGRGNkFVeHQtaE03Q1dVZFMtLTBfYzVfNS12QjV6UmVMZk5uaEwyMHUzRGxLSGQwMVJQMFdpbVBod2VlWmt2ZTFiY3RwTGtKSWZYdGN2TGx4YjN2M0ZQV…\n來源：Google News:ECL\n其他：Everett Harris & Co. CA Invests $20.57 Million in Ecolab In…; Bryn Mawr Trust Advisors LLC Purchases New Position in Ecol…",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXo5RzdlTjVTQl9wR0RMT1RRNThTZ2R2Vm9kZzY5Q2FXaGpPb0JsMzFENERhWXkxMlZPYmtsVEpOd0JrdG5Zb29HM1Z1bFhPSmFtWGRGNkFVeHQtaE03Q1dVZFMtLTBfYzVfNS12QjV6UmVMZk5uaEwyMHUzRGxLSGQwMVJQMFdpbVBod2VlWmt2ZTFiY3RwTGtKSWZYdGN2TGx4YjN2M0ZQV3BUb0xtbg?oc=5",
-      "source": "Google News:ECL",
+      "symbol": "MDT",
+      "short": "MDT — How Record Hernia Mesh Verdict and New Cardiac System Approval Will Impact Medtronic (M…",
+      "detail": "MDT\n重點：新聞\n標題：How Record Hernia Mesh Verdict and New Cardiac System Approval Will Impact Medtronic (MDT) Investors\n摘要：In August 2026, a federal jury ordered Medtronic to pay US$88,000,000 in compensatory damages over injuries linked to Covidien hernia mesh, while Medtronic Canada received Health Canada approval for its Affera Integrated Mapping and Ablation System for treating atrial fibrillati…\n來源：Yahoo Finance:MDT\n其他：Medtronic (MDT) Wins Health Canada Nod For Affera Heart Rhy…",
+      "url": "https://finance.yahoo.com/healthcare/articles/record-hernia-mesh-verdict-cardiac-001533288.html?.tsrc=rss",
+      "source": "Yahoo Finance:MDT",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "MDT",
-      "short": "MDT — Oregon Public Employees Retirement Fund Boosts Stock Position in Medtronic PLC $MDT - M…",
-      "detail": "MDT\n重點：新聞\n標題：Oregon Public Employees Retirement Fund Boosts Stock Position in Medtronic PLC $MDT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWVZnUENuZGVnRTZoc2JuUGUybkdhUW02aEJnbGw4b2lfNXZzb2x1WWdlR3N3dC1sUkFjT0J4bnZhdTNoSkNQc2k4a0phZFVmeHhZdmRKY01pc0kwY25DY2tIY1NrTXBxaVBLTEhJU0YzOEpnNXVmRTBqYkpaTld2ZXRzYmlEN1ZFUGtkWHBQOUw3d0JjM1paOW9Eanh3VFNOckNDb2JuYTZLe…\n來源：Google News:MDT\n其他：Ethic Inc. Increases Stock Holdings in Medtronic PLC $MDT -…; Medtronic PLC $MDT Shares Bought by Chicago Partners Invest…",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWVZnUENuZGVnRTZoc2JuUGUybkdhUW02aEJnbGw4b2lfNXZzb2x1WWdlR3N3dC1sUkFjT0J4bnZhdTNoSkNQc2k4a0phZFVmeHhZdmRKY01pc0kwY25DY2tIY1NrTXBxaVBLTEhJU0YzOEpnNXVmRTBqYkpaTld2ZXRzYmlEN1ZFUGtkWHBQOUw3d0JjM1paOW9Eanh3VFNOckNDb2JuYTZLeG1rTFhhQmlWYW1Kc0ZWcjlPb1E1N2F1NzNoQnBONXFDV3B5QktYcl9oSmJfWlpWY2c?oc=5",
-      "source": "Google News:MDT",
+      "symbol": "PR",
+      "short": "PR — 業績／指引：Permian Resources (PR) On Q2 Earnings And Higher Guidance Looks Cheap But Is It Priced …",
+      "detail": "PR\n重點：業績／指引\n標題：Permian Resources (PR) On Q2 Earnings And Higher Guidance Looks Cheap But Is It Priced In\n摘要：Why Permian Resources stock is back in focus after Q2 earnings Permian Resources (PR) is drawing attention after reporting Q2 2026 net income of US$792.46 million, sharply higher than a year earlier, alongside updated production guidance and a reaffirmed cash dividend. See our l…\n來源：Yahoo Finance:PR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-q2-earnings-011453269.html?.tsrc=rss",
+      "source": "Yahoo Finance:PR",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "ANET",
-      "short": "ANET — Arista Networks, Inc. $ANET Stock Holdings Lowered by DSM Capital Partners LLC - Market…",
-      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Stock Holdings Lowered by DSM Capital Partners LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbTRSRnowSUZBTzAweE1IWUxnd3BxT2J3cXp4T0k0d1c5ZWVra2JmT3RfZmt5bDR6NlNaVEZmeW9QUVJ2SWdkMlh2TVpQS1pVNS1TUlhoM0ZvWTYyTm5VeXNKamh2SVF4TDIyX1RIYXFyU2hfQ2Q4bW5WcTlsNllERXZDUTdVU3h5VUFwNXBFdGpZVEpxd1QybC1ubDJGamdnSTZ5cTJuRU5GO…\n來源：Google News:ANET\n其他：Crew Capital Management Ltd Takes Position in Arista Networ…",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbTRSRnowSUZBTzAweE1IWUxnd3BxT2J3cXp4T0k0d1c5ZWVra2JmT3RfZmt5bDR6NlNaVEZmeW9QUVJ2SWdkMlh2TVpQS1pVNS1TUlhoM0ZvWTYyTm5VeXNKamh2SVF4TDIyX1RIYXFyU2hfQ2Q4bW5WcTlsNllERXZDUTdVU3h5VUFwNXBFdGpZVEpxd1QybC1ubDJGamdnSTZ5cTJuRU5GOHJVMHFack9uR24zUWEwR3RnUXZ0QkhqNS1TYjBEOFY1ZTB3bGZ6Vnc?oc=5",
-      "source": "Google News:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "CRM",
-      "short": "CRM — Cornerstone Capital Inc. Buys New Position in Salesforce Inc. $CRM - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Cornerstone Capital Inc. Buys New Position in Salesforce Inc. $CRM - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU3Z2VTN3M2x6SmtRdmdoTm1DeXg2d3pBLVJlUlp6MEd1S1o2OGE3Nzl6anUzSVhRVzlsTGRZYTA5QXoyaC1nM2dVYng2ZHo3WGtjaVpxRXFXX2RnVkx3aHQyc0tRYVdxMG4xR2hBNEt4YmlTR2syYXl3emdkZFZHTzAtNERTMmw1T2UwdC0zRWVQc3JHMEJGOFFVXzZ5QllPSzhNcURyWmUxb…\n來源：Google News:CRM\n其他：4,363 Shares in Salesforce Inc. $CRM Purchased by BIP Wealt…",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU3Z2VTN3M2x6SmtRdmdoTm1DeXg2d3pBLVJlUlp6MEd1S1o2OGE3Nzl6anUzSVhRVzlsTGRZYTA5QXoyaC1nM2dVYng2ZHo3WGtjaVpxRXFXX2RnVkx3aHQyc0tRYVdxMG4xR2hBNEt4YmlTR2syYXl3emdkZFZHTzAtNERTMmw1T2UwdC0zRWVQc3JHMEJGOFFVXzZ5QllPSzhNcURyWmUxbkxkWDFPcW8wczk5THRNMlpGVmw0RG8wZw?oc=5",
-      "source": "Google News:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 6,
       "symbol": "TRMB",
-      "short": "TRMB — Cornerstone Capital Inc. Invests $12.17 Million in Trimble Inc. $TRMB - MarketBeat",
-      "detail": "TRMB\n重點：新聞\n標題：Cornerstone Capital Inc. Invests $12.17 Million in Trimble Inc. $TRMB - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPejlKS2QwbkVMMkdEZUpjSV9VbGtfdUlFTjY2c2JfNHZkWGFiX2x6SjB2Nm1mSVc4bll0UVNCTV9HXzBsNF9qeWJFbTQwZTh4SXhSZlI5cHo3dWVJdkZJNDNaQ09RMnMzbWlMYllkWWl6eTQzUEpLTlpMakVHUmNOU3dSNlJIMVI0cG1SWl9DVGl1UVdBU21UM2trTEtMY3NNNDF3U0hRMXNsR…\n來源：Google News:TRMB\n其他：Trimble (NASDAQ:TRMB) Lowered to Hold Rating by Wall Street…",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPejlKS2QwbkVMMkdEZUpjSV9VbGtfdUlFTjY2c2JfNHZkWGFiX2x6SjB2Nm1mSVc4bll0UVNCTV9HXzBsNF9qeWJFbTQwZTh4SXhSZlI5cHo3dWVJdkZJNDNaQ09RMnMzbWlMYllkWWl6eTQzUEpLTlpMakVHUmNOU3dSNlJIMVI0cG1SWl9DVGl1UVdBU21UM2trTEtMY3NNNDF3U0hRMXNsRTBKT08zTmdObXJjRlFyMXprX3VaY09UQVE?oc=5",
-      "source": "Google News:TRMB",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "A",
-      "short": "A — 業績／指引：Agilent (A) Stock Looks Below Fair Value But Above Fair Value On Earnings - simplywall.…",
-      "detail": "A\n重點：業績／指引\n標題：Agilent (A) Stock Looks Below Fair Value But Above Fair Value On Earnings - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXBBVkw4V0tTa2xTRFI2bTFQREZ0eVdoUmwxUnFveU5jSnhjSndleHJlYVJHUGJXTWNYdnRsSEp2cGR6WW5pdV9taEV5U3NEamNNVmo2NG5pMDdVVUJxT2hEeWt6SGhaY09qQjVyc1YwT3lBTTZ1WDY1NHBqWE1zblNsN0JIc0w0alZUbnFwbm9EcElsWjhVNjNXRWRSY3RCci1NNkRHM3puS…\n來源：Google News:A",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXBBVkw4V0tTa2xTRFI2bTFQREZ0eVdoUmwxUnFveU5jSnhjSndleHJlYVJHUGJXTWNYdnRsSEp2cGR6WW5pdV9taEV5U3NEamNNVmo2NG5pMDdVVUJxT2hEeWt6SGhaY09qQjVyc1YwT3lBTTZ1WDY1NHBqWE1zblNsN0JIc0w0alZUbnFwbm9EcElsWjhVNjNXRWRSY3RCci1NNkRHM3puSXBPUmNsY3hyLTY4Y1FrM003R2FBSHRwU1lxaktMbW5UQlFuN1AtNW9MbG1NczlGYXNpcmlCSy130gHnAUFVX3lxTE5YRWhPc1JnbFdWYnpNY3VWb0JtUmFSUDNxQ0wzaFRsWG9wblBNZnBQcEtOTjBQbDdXa2hjU09GOGQ5TGVTNnRWMWt3Tk5rS21DLVl2VGpwOVdTZWp0X21kR0lPUU9zb1FEVC1GMnE2NTNybkJuczBBSl9WZVQyYy1VczZKeW9COVV4WWRyanhGd0xNNmNmX1RHZU5XLUNzR3NrQkxCZGVLSEVrXzdFd1NWMzR2a1BzemRETVZRRW5RNUZNRllQSmdXNUVycE9UbVAxd1F1ZDdxMkczU2lYZGoyYkdUQWRKNA?oc=5",
-      "source": "Google News:A",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "AEO",
-      "short": "AEO — Wall Street Zen Downgrades American Eagle Outfitters (NYSE:AEO) to Hold - MarketBeat",
-      "detail": "AEO\n重點：新聞\n標題：Wall Street Zen Downgrades American Eagle Outfitters (NYSE:AEO) to Hold - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNR1pLaktMeUo4cTFKUk5QdVltTkQ2dzVWRWNxaVA3RF9Gam50OWNlbVNOaXlWbVdkQkhpaTFJdTExLVhNaXROTGVnTkRwWWR5RFNwdWk1bjdnVDFWZkRwcTUzRi13Qmx1UG5yQUprbkxDc3Q1eURLQThYS0VYRHBObDFHWDBzczRmbTRvN3JFZ3AxM1pjamh2aEdkbXBCdzhObG9HUEpwbFIxN…\n來源：Google News:AEO",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR1pLaktMeUo4cTFKUk5QdVltTkQ2dzVWRWNxaVA3RF9Gam50OWNlbVNOaXlWbVdkQkhpaTFJdTExLVhNaXROTGVnTkRwWWR5RFNwdWk1bjdnVDFWZkRwcTUzRi13Qmx1UG5yQUprbkxDc3Q1eURLQThYS0VYRHBObDFHWDBzczRmbTRvN3JFZ3AxM1pjamh2aEdkbXBCdzhObG9HUEpwbFIxN1FmLVRYS0ZzdUEzOGQtNjB5N0RETQ?oc=5",
-      "source": "Google News:AEO",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "BDX",
-      "short": "BDX — 555,953 Shares in Becton, Dickinson and Company $BDX Bought by Everett Harris & Co. CA …",
-      "detail": "BDX\n重點：新聞\n標題：555,953 Shares in Becton, Dickinson and Company $BDX Bought by Everett Harris & Co. CA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdTJVYVh4dWlaS19wUThHbjV0TkhfcmdkU0JwUUlKTVdTcHR0N1dhN2hOZ08tYUNWTWlQMC1LVjVmaXlhX3lseC1YZGh2Zm1CWWxrMXBJRi1MaFZxSW9vUzA2WVZjaFdBdDVsMWMxLTVacDVSb0lsd3d5OTVzR3JUcG10XzJaT2pBRVpBSnNXbUctdGJoeUZZeTU5dEt6WDdfZUhkSVRFQW0yb…\n來源：Google News:BDX",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdTJVYVh4dWlaS19wUThHbjV0TkhfcmdkU0JwUUlKTVdTcHR0N1dhN2hOZ08tYUNWTWlQMC1LVjVmaXlhX3lseC1YZGh2Zm1CWWxrMXBJRi1MaFZxSW9vUzA2WVZjaFdBdDVsMWMxLTVacDVSb0lsd3d5OTVzR3JUcG10XzJaT2pBRVpBSnNXbUctdGJoeUZZeTU5dEt6WDdfZUhkSVRFQW0yblU3ZTBqUWU3emN0S0dUNHJnbWhxeUpTWlQ3S1Y0OWV0NnVhZVZlM0tBM2lzcWU?oc=5",
-      "source": "Google News:BDX",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "COF",
-      "short": "COF — Ascent Group LLC Sells 6,918 Shares of Capital One Financial Corporation $COF - MarketB…",
-      "detail": "COF\n重點：新聞\n標題：Ascent Group LLC Sells 6,918 Shares of Capital One Financial Corporation $COF - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMGF5Rm1NV2t2SUllTnpmSGR4eFN4UFNNZC1laEdKUk02cHA5eDUyRDNudHBQbjVPWXFCOExydlRfdUpXSExYZTJhLVZCb2g1WDN0ZjFiSjRHdm1jNkliODd2UVVNUi1adFQxalJhM3dzV2ZXRk1iYjdMWUNCYU1uZjZLY0FOMXFOZm1leEc5cnZwdjdKMVpGN19kNzFIanpGRk5FaGc2c2lRd…\n來源：Google News:COF",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMGF5Rm1NV2t2SUllTnpmSGR4eFN4UFNNZC1laEdKUk02cHA5eDUyRDNudHBQbjVPWXFCOExydlRfdUpXSExYZTJhLVZCb2g1WDN0ZjFiSjRHdm1jNkliODd2UVVNUi1adFQxalJhM3dzV2ZXRk1iYjdMWUNCYU1uZjZLY0FOMXFOZm1leEc5cnZwdjdKMVpGN19kNzFIanpGRk5FaGc2c2lRdGc2akd0RWwyRFRMc0IyczlENDl2UmJKc1lndm82QUMxaGtRbWxjdmc?oc=5",
-      "source": "Google News:COF",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "FDX",
-      "short": "FDX — Everett Harris & Co. CA Takes Position in FedEx Corporation $FDX - MarketBeat",
-      "detail": "FDX\n重點：新聞\n標題：Everett Harris & Co. CA Takes Position in FedEx Corporation $FDX - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxObDRmakwzcnEyaGtMMzRSMy11azBxcENvZ21DeHNwXzBZTGZIYzBWMWd1d2R4SEdPRi0tTzl1aEVtdnMtTnRqeHcyNV82NDUwT0IyZElLSXZpRi1DYjI1OXNGX2E0LS1kZU5tRkRoc0VYNU9YNVBrYWlVcERRSTNZZEx2aTdUb2hIMmNXcVdRajczSXdBc3B2T003WXpoR3VteEpaUzQ5cUhlR…\n來源：Google News:FDX",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDRmakwzcnEyaGtMMzRSMy11azBxcENvZ21DeHNwXzBZTGZIYzBWMWd1d2R4SEdPRi0tTzl1aEVtdnMtTnRqeHcyNV82NDUwT0IyZElLSXZpRi1DYjI1OXNGX2E0LS1kZU5tRkRoc0VYNU9YNVBrYWlVcERRSTNZZEx2aTdUb2hIMmNXcVdRajczSXdBc3B2T003WXpoR3VteEpaUzQ5cUhlRjhSMHd3LUNmN3FBZG1SY0FfX1ZB?oc=5",
-      "source": "Google News:FDX",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "FRSH",
-      "short": "FRSH — Freshworks Inc. (NASDAQ:FRSH) Given Average Rating of \"Hold\" by Brokerages - MarketBeat",
-      "detail": "FRSH\n重點：新聞\n標題：Freshworks Inc. (NASDAQ:FRSH) Given Average Rating of \"Hold\" by Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxONnRHX21CNVNvaTJuck1ZaWdLcHhDT09XTHp0T3R1azY1a2JKS1JnbTg5dk03dnBTUlNUUmJxMy1Nd2xQcmtsMm14Y2V6eUlPWUl0dngwTG5WQ19GbExOZTNmV0NpazJTbFlReHZLNG0wa1ZwYW9Zb3pYT2tYU1dfWllBU0xIeTNOMk5XWEc1d2U5MFpoeEVPaU5DSlh2dFN3MXN5TFUxT1Jae…\n來源：Google News:FRSH",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnRHX21CNVNvaTJuck1ZaWdLcHhDT09XTHp0T3R1azY1a2JKS1JnbTg5dk03dnBTUlNUUmJxMy1Nd2xQcmtsMm14Y2V6eUlPWUl0dngwTG5WQ19GbExOZTNmV0NpazJTbFlReHZLNG0wa1ZwYW9Zb3pYT2tYU1dfWllBU0xIeTNOMk5XWEc1d2U5MFpoeEVPaU5DSlh2dFN3MXN5TFUxT1JaeTNwbkpWYVBUUHE2Nm4tN0RsUW4yaw?oc=5",
-      "source": "Google News:FRSH",
+      "short": "TRMB — AI相關、業績／指引：TRMB Q2 Deep Dive: AI Momentum and Strategic Portfolio Review Shape Outlook",
+      "detail": "TRMB\n重點：AI相關、業績／指引\n標題：TRMB Q2 Deep Dive: AI Momentum and Strategic Portfolio Review Shape Outlook\n摘要：Geospatial technology provider Trimble (NASDAQ:TRMB) beat Wall Street’s revenue expectations in Q2 CY2026, with sales up 11% year on year to $972 million. The company expects next quarter’s revenue to be around $965.5 million, close to analysts’ estimates. Its non-GAAP profit of…\n來源：Yahoo Finance:TRMB",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trmb-q2-deep-dive-ai-215700799.html?.tsrc=rss",
+      "source": "Yahoo Finance:TRMB",
       "kind": "news"
     }
   ]
