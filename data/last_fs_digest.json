@@ -1,34 +1,115 @@
 {
-  "title": "FS新聞 08-16 05:25",
-  "list_name": "FirstScreen_2026-08-16_052502_comma.txt",
-  "created_at": "2026-08-16T05:25:11.618920+00:00",
+  "title": "FS新聞 08-16 10:27",
+  "list_name": "FirstScreen_2026-08-16_102735_comma.txt",
+  "created_at": "2026-08-16T10:27:44.669068+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "MDT",
-      "short": "MDT — How Record Hernia Mesh Verdict and New Cardiac System Approval Will Impact Medtronic (M…",
-      "detail": "MDT\n重點：新聞\n標題：How Record Hernia Mesh Verdict and New Cardiac System Approval Will Impact Medtronic (MDT) Investors\n摘要：In August 2026, a federal jury ordered Medtronic to pay US$88,000,000 in compensatory damages over injuries linked to Covidien hernia mesh, while Medtronic Canada received Health Canada approval for its Affera Integrated Mapping and Ablation System for treating atrial fibrillati…\n來源：Yahoo Finance:MDT",
-      "url": "https://finance.yahoo.com/healthcare/articles/record-hernia-mesh-verdict-cardiac-001533288.html?.tsrc=rss",
-      "source": "Yahoo Finance:MDT",
+      "symbol": "BKNG",
+      "short": "BKNG — Sivia Capital Partners LLC Acquires 6,858 Shares of Booking Holdings Inc. $BKNG - Marke…",
+      "detail": "BKNG\n重點：新聞\n標題：Sivia Capital Partners LLC Acquires 6,858 Shares of Booking Holdings Inc. $BKNG - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR3dhR0VNeVJOYmNKT2JhSlVlRTN3UXBPMFoxZWVqWVNuU2JLZjI4cjdkdEw4U1FBeWxxZFNtemRTb2lJbEFDVjN4M1dLc011TElTWW9zd2tKeHZWWHp6WS1tM1RSWFJNbGNpNWw2czZlbUtBUkZTV3lMUXM1WFZxLTB3dENONzFTalVqb2RjNHpmUFJuczlXcXZVOUc0dXBiWnUyaXpHV1J4R…\n來源：Google News:BKNG\n其他：Booking Holdings Inc. $BKNG Shares Acquired by Signaturefd …; Vest Financial LLC Grows Stock Position in Booking Holdings…",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR3dhR0VNeVJOYmNKT2JhSlVlRTN3UXBPMFoxZWVqWVNuU2JLZjI4cjdkdEw4U1FBeWxxZFNtemRTb2lJbEFDVjN4M1dLc011TElTWW9zd2tKeHZWWHp6WS1tM1RSWFJNbGNpNWw2czZlbUtBUkZTV3lMUXM1WFZxLTB3dENONzFTalVqb2RjNHpmUFJuczlXcXZVOUc0dXBiWnUyaXpHV1J4RVJSN2prcW9SbmJmR3dEQXhVNEh1emZzTGczSDZDVk5RZUJpRmVheV84?oc=5",
+      "source": "Google News:BKNG",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "PR",
-      "short": "PR — 業績／指引：Permian Resources (PR) On Q2 Earnings And Higher Guidance Looks Cheap But Is It Priced …",
-      "detail": "PR\n重點：業績／指引\n標題：Permian Resources (PR) On Q2 Earnings And Higher Guidance Looks Cheap But Is It Priced In\n摘要：Why Permian Resources stock is back in focus after Q2 earnings Permian Resources (PR) is drawing attention after reporting Q2 2026 net income of US$792.46 million, sharply higher than a year earlier, alongside updated production guidance and a reaffirmed cash dividend. See our l…\n來源：Yahoo Finance:PR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-q2-earnings-011453269.html?.tsrc=rss",
-      "source": "Yahoo Finance:PR",
+      "symbol": "MDT",
+      "short": "MDT — Zhang Financial LLC Buys 12,259 Shares of Medtronic PLC $MDT - MarketBeat",
+      "detail": "MDT\n重點：新聞\n標題：Zhang Financial LLC Buys 12,259 Shares of Medtronic PLC $MDT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNckZJRkJPVzRHRVFGZVR2WFJEMnc0X2sweG9BSnVaTkdMNTRST3pLZ0d2VHpleXhUeFppaGNYRlc2NzlwSmpWYXdVY2RmLWswdXVaUHNpNmZJRVlKSVQ4VnJrd1o3eGllaWt5bTFGX04teWc4MmNyR3ZrNlZ5TTdja2wzSXI4V0xkZUUxZkpVbndzMEJ4MUlxbU53azNiOW5fUGtJczZmT24yM…\n來源：Google News:MDT\n其他：Pictet Asset Management Holding SA Sells 83,154 Shares of M…; Lecap Asset Management Ltd. Invests $1.13 Million in Medtro…",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNckZJRkJPVzRHRVFGZVR2WFJEMnc0X2sweG9BSnVaTkdMNTRST3pLZ0d2VHpleXhUeFppaGNYRlc2NzlwSmpWYXdVY2RmLWswdXVaUHNpNmZJRVlKSVQ4VnJrd1o3eGllaWt5bTFGX04teWc4MmNyR3ZrNlZ5TTdja2wzSXI4V0xkZUUxZkpVbndzMEJ4MUlxbU53azNiOW5fUGtJczZmT24yMkxUVE55R08waXNZeGx0Y2kw?oc=5",
+      "source": "Google News:MDT",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "TRMB",
-      "short": "TRMB — AI相關、業績／指引：TRMB Q2 Deep Dive: AI Momentum and Strategic Portfolio Review Shape Outlook",
-      "detail": "TRMB\n重點：AI相關、業績／指引\n標題：TRMB Q2 Deep Dive: AI Momentum and Strategic Portfolio Review Shape Outlook\n摘要：Geospatial technology provider Trimble (NASDAQ:TRMB) beat Wall Street’s revenue expectations in Q2 CY2026, with sales up 11% year on year to $972 million. The company expects next quarter’s revenue to be around $965.5 million, close to analysts’ estimates. Its non-GAAP profit of…\n來源：Yahoo Finance:TRMB",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trmb-q2-deep-dive-ai-215700799.html?.tsrc=rss",
-      "source": "Yahoo Finance:TRMB",
+      "symbol": "A",
+      "short": "A — VCI Wealth Management LLC Buys 9,105 Shares of Agilent Technologies, Inc. $A - MarketBe…",
+      "detail": "A\n重點：新聞\n標題：VCI Wealth Management LLC Buys 9,105 Shares of Agilent Technologies, Inc. $A - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNQU1XU1NudEg4czN2aVpLZTB4OVNUWVBUVG0wVEptbmpnaGZxT2N1cjNLMmtRckZVYjZIcmRNcER6Y0hSWktUY09yVUZmbTVWYm9CUHNkSERBTWFBaHJoZ1FZV0hBLVpXcmZ2YmtXa1RFRjhJWWpaMm5uOEY0a0w0MW9ic1Jfck0yLWttRmI2ODZNdS1vUndNQm51NEp4NW05V0JWQXgwenpoM…\n來源：Google News:A\n其他：LFG Wealth Partners LLC Invests $1.75 Million in Agilent Te…",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQU1XU1NudEg4czN2aVpLZTB4OVNUWVBUVG0wVEptbmpnaGZxT2N1cjNLMmtRckZVYjZIcmRNcER6Y0hSWktUY09yVUZmbTVWYm9CUHNkSERBTWFBaHJoZ1FZV0hBLVpXcmZ2YmtXa1RFRjhJWWpaMm5uOEY0a0w0MW9ic1Jfck0yLWttRmI2ODZNdS1vUndNQm51NEp4NW05V0JWQXgwenpoMThIR3RtYnFDYjNpYzR6cmNzeEx3R3pyTjBWVXVsYWdMNlc4QQ?oc=5",
+      "source": "Google News:A",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "ANET",
+      "short": "ANET — TD Asset Management Inc Sells 446,481 Shares of Arista Networks, Inc. $ANET - MarketBeat",
+      "detail": "ANET\n重點：新聞\n標題：TD Asset Management Inc Sells 446,481 Shares of Arista Networks, Inc. $ANET - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQMXdjSlRETk1aY3ZjQU9zQUxfMVlieUEwXzN6NFA4U0dtSTB3ZzhUNDdwUHlySlliTExaX0I0NzFKVm8zY2g4OFlFeDZuRE5SdEJfREZnM2hwc2l6RWU3Q1JDVUdBM2dBM2FBRHZlTmpBWG05U0dGanF1NjJnRU9CSjhSUGlEUHd2QnFNd1p1aEUzdjhlZG80NFdIdGp0SVdKQTJJQkdHNUl5U…\n來源：Google News:ANET\n其他：Principal Financial Group Inc. Sells 149,619 Shares of Aris…",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMXdjSlRETk1aY3ZjQU9zQUxfMVlieUEwXzN6NFA4U0dtSTB3ZzhUNDdwUHlySlliTExaX0I0NzFKVm8zY2g4OFlFeDZuRE5SdEJfREZnM2hwc2l6RWU3Q1JDVUdBM2dBM2FBRHZlTmpBWG05U0dGanF1NjJnRU9CSjhSUGlEUHd2QnFNd1p1aEUzdjhlZG80NFdIdGp0SVdKQTJJQkdHNUl5U3NZeDgyUV9MZzE1QUhkQlJKOGg0WFNfbW9pOUxWNHA5RTA?oc=5",
+      "source": "Google News:ANET",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "COF",
+      "short": "COF — Midwest Trust Co Grows Stock Position in Capital One Financial Corporation $COF - Marke…",
+      "detail": "COF\n重點：新聞\n標題：Midwest Trust Co Grows Stock Position in Capital One Financial Corporation $COF - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ0pwWmNFSXRZYVMzRjBQV3ZTNzhhZUYwMjFPZ2N1TWJ5SGpaa2RRMUs0R3Y4YlMxdHN0cV9CMlFUMHcwTWhsRGdoRTRyc0tMNS1VQ014VVlUNFd0SDQxaXhpVlJia3NPZkVGcEliMGZZbGgxY3NEenh4OXVZRWVqazhXcUZtNFVUemQ4UHpXVGQ2bURVcWpKd1BzeTVJVWZfSm1VZUktS21hR…\n來源：Google News:COF\n其他：HighTower Advisors LLC Raises Stock Position in Capital One…",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ0pwWmNFSXRZYVMzRjBQV3ZTNzhhZUYwMjFPZ2N1TWJ5SGpaa2RRMUs0R3Y4YlMxdHN0cV9CMlFUMHcwTWhsRGdoRTRyc0tMNS1VQ014VVlUNFd0SDQxaXhpVlJia3NPZkVGcEliMGZZbGgxY3NEenh4OXVZRWVqazhXcUZtNFVUemQ4UHpXVGQ2bURVcWpKd1BzeTVJVWZfSm1VZUktS21hRGlicVBhMUVvNl8tM1czQjFiMDRJblR5cUVEdWpDV2c3ZDJsb1hLMUx4N0h3?oc=5",
+      "source": "Google News:COF",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "CRM",
+      "short": "CRM — SFE Investment Counsel Makes New Investment in Salesforce Inc. $CRM - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：SFE Investment Counsel Makes New Investment in Salesforce Inc. $CRM - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQR2xyZzFsaEJvR25OS3k3Qm5CTkdzUGh6UE1RVmVMR2FNZEZWZ0hlLXpKTWdTTWZydjZ5WFBzaGtHTzVnaTJCMkhyZzFUUzRHWXNYRE5EQ29aallBemlqcFhoTlFFYjJYOHBodXJ4Wk9ROFRKOUc0ZmN5akJtQUdraTBWZWlmTFRLWEVibjl6ODRWVi16TUZjN3VSdHo4cEhKRGZkeFhMY3dVY…\n來源：Google News:CRM\n其他：5,920 Shares in Salesforce Inc. $CRM Bought by Bridgewater …",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR2xyZzFsaEJvR25OS3k3Qm5CTkdzUGh6UE1RVmVMR2FNZEZWZ0hlLXpKTWdTTWZydjZ5WFBzaGtHTzVnaTJCMkhyZzFUUzRHWXNYRE5EQ29aallBemlqcFhoTlFFYjJYOHBodXJ4Wk9ROFRKOUc0ZmN5akJtQUdraTBWZWlmTFRLWEVibjl6ODRWVi16TUZjN3VSdHo4cEhKRGZkeFhMY3dVYXlKSzVvbEFBeTduell0OW9uVDhtTDFEMWsx?oc=5",
+      "source": "Google News:CRM",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "GEN",
+      "short": "GEN — ABN AMRO Bank N.V. Acquires New Shares in Gen Digital Inc. $GEN - MarketBeat",
+      "detail": "GEN\n重點：新聞\n標題：ABN AMRO Bank N.V. Acquires New Shares in Gen Digital Inc. $GEN - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOSGE2VjZveUZmWl9lN0E4UU5DVWE2VUJTZDlPNGZDdHJTWFYxdFhwSGFYeFdSSzlUcjlWMmFaeGl5dk0xMWZWb0dBa2Uzc3Q4b1RkdHEyZ2gtYWZSdXJJSnF2aHIwdjQ4c2FGYXVwOVdCRlJJdGFaamExUW95WXdWUTFMbG5DYXBoZVlPb2VYaFFtMmM2ek55TTMyY1ZqWmRPcVMxWHduSkpzV…\n來源：Google News:GEN\n其他：Gen Digital (NASDAQ:GEN) Downgraded by Wall Street Zen to H…",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSGE2VjZveUZmWl9lN0E4UU5DVWE2VUJTZDlPNGZDdHJTWFYxdFhwSGFYeFdSSzlUcjlWMmFaeGl5dk0xMWZWb0dBa2Uzc3Q4b1RkdHEyZ2gtYWZSdXJJSnF2aHIwdjQ4c2FGYXVwOVdCRlJJdGFaamExUW95WXdWUTFMbG5DYXBoZVlPb2VYaFFtMmM2ek55TTMyY1ZqWmRPcVMxWHduSkpzVlpnYVJ5TUNEM29RMjlNTlNqNQ?oc=5",
+      "source": "Google News:GEN",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "ROST",
+      "short": "ROST — USA Financial Formulas Invests $1.34 Million in Ross Stores, Inc. $ROST - MarketBeat",
+      "detail": "ROST\n重點：新聞\n標題：USA Financial Formulas Invests $1.34 Million in Ross Stores, Inc. $ROST - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPZk1JOEpDbzNlSkJ5Nlc4ZGVaY29ROEJrREZtdS1NS3kzX09yVDNTWHY2bkhSeFNiTi1xNGdxcXNmaHltTE9MYVBaT2RsUjVUdU1Dc2VwVGhORHJUeHZLankyU2czSVNTNDd3eU1WdFp1LU40VnVoZGpVVFVybmItcFlrWHVsUFNUOTU4V09qTFNJLWJ4dFVDMDBaeG1waS1LbXhnMTZmVFhwZ…\n來源：Google News:ROST\n其他：GSA Capital Partners LLP Purchases Shares of 11,057 Ross St…",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZk1JOEpDbzNlSkJ5Nlc4ZGVaY29ROEJrREZtdS1NS3kzX09yVDNTWHY2bkhSeFNiTi1xNGdxcXNmaHltTE9MYVBaT2RsUjVUdU1Dc2VwVGhORHJUeHZLankyU2czSVNTNDd3eU1WdFp1LU40VnVoZGpVVFVybmItcFlrWHVsUFNUOTU4V09qTFNJLWJ4dFVDMDBaeG1waS1LbXhnMTZmVFhwZGlwbnRpbEJsOFdvSnZMQmNqREdxeFpHd1d3NVE?oc=5",
+      "source": "Google News:ROST",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "YETI",
+      "short": "YETI — 業績／指引：YETI Q2 Deep Dive: Brand Expansion and Margin Gains Tempered by Cautious Guidance",
+      "detail": "YETI\n重點：業績／指引\n標題：YETI Q2 Deep Dive: Brand Expansion and Margin Gains Tempered by Cautious Guidance\n摘要：Outdoor lifestyle products brand (NYSE:YETI) met Wall Street’s revenue expectations in Q2 CY2026, with sales up 8.5% year on year to $483.9 million. Its non-GAAP profit of $0.67 per share was 22.9% above analysts’ consensus estimates.\n來源：Yahoo Finance:YETI\n其他：Why YETI (YETI) Stock Is Down Today",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/yeti-q2-deep-dive-brand-094100256.html?.tsrc=rss",
+      "source": "Yahoo Finance:YETI",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "ECL",
+      "short": "ECL — ABN AMRO Bank N.V. Buys New Shares in Ecolab Inc. $ECL - MarketBeat",
+      "detail": "ECL\n重點：新聞\n標題：ABN AMRO Bank N.V. Buys New Shares in Ecolab Inc. $ECL - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHlwZ0x6eC01R19qajBRbXFIbHM1TC0wdi1oZ0lSTzdhSjgzVEpNd0p1dDQwblhyWVpEcks1dkQzbDdBZEFfVzNvT0xWenhKeEo4bThYMHp0eHJiSVlMUHMtZFB6Qk5uMlRsX3lNb2lqemUwY3N6aElOcllzZzFINjJrN3FYNEJoODNWOFJhQXI2TU1vcklhOXlfQVJ6eUVJdFJLcHRQb20xN…\n來源：Google News:ECL",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHlwZ0x6eC01R19qajBRbXFIbHM1TC0wdi1oZ0lSTzdhSjgzVEpNd0p1dDQwblhyWVpEcks1dkQzbDdBZEFfVzNvT0xWenhKeEo4bThYMHp0eHJiSVlMUHMtZFB6Qk5uMlRsX3lNb2lqemUwY3N6aElOcllzZzFINjJrN3FYNEJoODNWOFJhQXI2TU1vcklhOXlfQVJ6eUVJdFJLcHRQb20xNm5xWFk2ag?oc=5",
+      "source": "Google News:ECL",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "FDX",
+      "short": "FDX — Focus Partners Advisor Solutions LLC Takes Position in FedEx Corporation $FDX - MarketB…",
+      "detail": "FDX\n重點：新聞\n標題：Focus Partners Advisor Solutions LLC Takes Position in FedEx Corporation $FDX - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZUFYbEFHaTJrWk1zZEowVzJOYmIwcEF0Vzc2cVp2MHg1VG9yRU5ad3dOLW5za1ZPWktqYkJiX3FuLXVuY09aNUx0b1NuVFFiV2twY0VNeFRXU1VRbE8wdlI2VUFFWGxhcWg3VVJtc0VHYUo4c2R6OE1WV2VhOFpiZ1d0b3BLTnM2QWJDY0dkSVBxSkVJVzR4cHl4dDdBWndHUlJJVG52Wm5wV…\n來源：Google News:FDX",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZUFYbEFHaTJrWk1zZEowVzJOYmIwcEF0Vzc2cVp2MHg1VG9yRU5ad3dOLW5za1ZPWktqYkJiX3FuLXVuY09aNUx0b1NuVFFiV2twY0VNeFRXU1VRbE8wdlI2VUFFWGxhcWg3VVJtc0VHYUo4c2R6OE1WV2VhOFpiZ1d0b3BLTnM2QWJDY0dkSVBxSkVJVzR4cHl4dDdBWndHUlJJVG52Wm5wVXU5VmhUM1pGUmJ3eUVaWXpmbjZzVlFSUkY3M1p0REVpZlFDNUdRVWkw?oc=5",
+      "source": "Google News:FDX",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "FTNT",
+      "short": "FTNT — Focus Partners Advisor Solutions LLC Takes Position in Fortinet, Inc. $FTNT - MarketBeat",
+      "detail": "FTNT\n重點：新聞\n標題：Focus Partners Advisor Solutions LLC Takes Position in Fortinet, Inc. $FTNT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjMwM2UwSE9KbVkyNzVKYjUzbDg1Tlp6UmpFMHhPVGtlX1RoWUduYXhfVXhSXzU3X0lmbWFZQWx2MXN3YzBsRF9WcEEwejkzUko5djN2M3BRWjRObjFWOE9iSXBBZnpDczZUUUhGUm9DX29abURsZXBIZWNqZDEwM0FBNDVBaDBmaGExbUx1VmxvdTZzTHY4VjFpNk1tSTlhUVZ0T0R6VFhlb…\n來源：Google News:FTNT",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjMwM2UwSE9KbVkyNzVKYjUzbDg1Tlp6UmpFMHhPVGtlX1RoWUduYXhfVXhSXzU3X0lmbWFZQWx2MXN3YzBsRF9WcEEwejkzUko5djN2M3BRWjRObjFWOE9iSXBBZnpDczZUUUhGUm9DX29abURsZXBIZWNqZDEwM0FBNDVBaDBmaGExbUx1VmxvdTZzTHY4VjFpNk1tSTlhUVZ0T0R6VFhlbk03VjNIdjI4TkJYTVpTVzA2X3FvT2V1Tjc0NVpOSmxpNkVfZw?oc=5",
+      "source": "Google News:FTNT",
       "kind": "news"
     }
   ]
