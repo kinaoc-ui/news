@@ -1,29 +1,20 @@
 {
-  "title": "FS新聞 08-16 02:02",
-  "list_name": "FirstScreen_2026-08-16_020206_comma.txt",
-  "created_at": "2026-08-16T02:02:17.367516+00:00",
+  "title": "FS新聞 08-16 05:25",
+  "list_name": "FirstScreen_2026-08-16_052502_comma.txt",
+  "created_at": "2026-08-16T05:25:11.618920+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "AEO",
-      "short": "AEO — 業績／指引：American Eagle (AEO) Stock Trades At A Discount On Earnings While Cash Flow Points To F…",
-      "detail": "AEO\n重點：業績／指引\n標題：American Eagle (AEO) Stock Trades At A Discount On Earnings While Cash Flow Points To Fair Value\n摘要：American Eagle Outfitters stock is coming off a mixed five year stretch, with a steep decline over that window set against recent gains, while its current checks suggest the shares no longer look obviously cheap or clearly expensive. Over the past 5 years, American Eagle Outfitt…\n來源：Yahoo Finance:AEO\n其他：American Eagle (AEO) Stock Trades At A Discount On Earnings…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/american-eagle-aeo-stock-trades-200831966.html?.tsrc=rss",
-      "source": "Yahoo Finance:AEO",
-      "kind": "news"
-    },
-    {
-      "n": 2,
       "symbol": "MDT",
       "short": "MDT — How Record Hernia Mesh Verdict and New Cardiac System Approval Will Impact Medtronic (M…",
-      "detail": "MDT\n重點：新聞\n標題：How Record Hernia Mesh Verdict and New Cardiac System Approval Will Impact Medtronic (MDT) Investors\n摘要：In August 2026, a federal jury ordered Medtronic to pay US$88,000,000 in compensatory damages over injuries linked to Covidien hernia mesh, while Medtronic Canada received Health Canada approval for its Affera Integrated Mapping and Ablation System for treating atrial fibrillati…\n來源：Yahoo Finance:MDT\n其他：Medtronic (MDT) Wins Health Canada Nod For Affera Heart Rhy…",
+      "detail": "MDT\n重點：新聞\n標題：How Record Hernia Mesh Verdict and New Cardiac System Approval Will Impact Medtronic (MDT) Investors\n摘要：In August 2026, a federal jury ordered Medtronic to pay US$88,000,000 in compensatory damages over injuries linked to Covidien hernia mesh, while Medtronic Canada received Health Canada approval for its Affera Integrated Mapping and Ablation System for treating atrial fibrillati…\n來源：Yahoo Finance:MDT",
       "url": "https://finance.yahoo.com/healthcare/articles/record-hernia-mesh-verdict-cardiac-001533288.html?.tsrc=rss",
       "source": "Yahoo Finance:MDT",
       "kind": "news"
     },
     {
-      "n": 3,
+      "n": 2,
       "symbol": "PR",
       "short": "PR — 業績／指引：Permian Resources (PR) On Q2 Earnings And Higher Guidance Looks Cheap But Is It Priced …",
       "detail": "PR\n重點：業績／指引\n標題：Permian Resources (PR) On Q2 Earnings And Higher Guidance Looks Cheap But Is It Priced In\n摘要：Why Permian Resources stock is back in focus after Q2 earnings Permian Resources (PR) is drawing attention after reporting Q2 2026 net income of US$792.46 million, sharply higher than a year earlier, alongside updated production guidance and a reaffirmed cash dividend. See our l…\n來源：Yahoo Finance:PR",
@@ -32,7 +23,7 @@
       "kind": "news"
     },
     {
-      "n": 4,
+      "n": 3,
       "symbol": "TRMB",
       "short": "TRMB — AI相關、業績／指引：TRMB Q2 Deep Dive: AI Momentum and Strategic Portfolio Review Shape Outlook",
       "detail": "TRMB\n重點：AI相關、業績／指引\n標題：TRMB Q2 Deep Dive: AI Momentum and Strategic Portfolio Review Shape Outlook\n摘要：Geospatial technology provider Trimble (NASDAQ:TRMB) beat Wall Street’s revenue expectations in Q2 CY2026, with sales up 11% year on year to $972 million. The company expects next quarter’s revenue to be around $965.5 million, close to analysts’ estimates. Its non-GAAP profit of…\n來源：Yahoo Finance:TRMB",
