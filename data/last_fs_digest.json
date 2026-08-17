@@ -1,7 +1,7 @@
 {
-  "title": "FS新聞 08-17 01:59",
-  "list_name": "FirstScreen_2026-08-17_015932_comma.txt",
-  "created_at": "2026-08-17T01:59:42.179854+00:00",
+  "title": "FS新聞 08-17 05:33",
+  "list_name": "FirstScreen_2026-08-17_053257_comma.txt",
+  "created_at": "2026-08-17T05:33:08.409411+00:00",
   "x_note": "",
   "items": [
     {
@@ -20,6 +20,15 @@
       "detail": "PR\n重點：業績／指引\n標題：U.S. Shale E&P Stocks Q2 Results: Benchmarking Permian Resources (NYSE:PR)\n摘要：The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let’s take a look at how Permian Resources (NYSE:PR) and the rest of the u.s. shale e&amp;p stocks fared in Q2.\n來源：Yahoo Finance:PR",
       "url": "https://finance.yahoo.com/markets/stocks/articles/u-shale-e-p-stocks-002900661.html?.tsrc=rss",
       "source": "Yahoo Finance:PR",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "TGT",
+      "short": "TGT — 業績／指引：TGT Stock Rises Overnight: Target Analysts Turn More Bullish, But The Turnaround Faces …",
+      "detail": "TGT\n重點：業績／指引\n標題：TGT Stock Rises Overnight: Target Analysts Turn More Bullish, But The Turnaround Faces A Tough Test\n摘要：Telsey, Truist, and Deutsche Bank raised Target’s price targets ahead of fiscal second-quarter 2026 earnings.\n來源：Yahoo Finance:TGT",
+      "url": "https://stocktwits.com/news-articles/markets/equity/tgt-stock-rises-overnight-target-analysts-turn-more-bullish-but-the-turnaround-faces-a-tough-test/cZo6qePRJKj?.tsrc=rss",
+      "source": "Yahoo Finance:TGT",
       "kind": "news"
     }
   ]
