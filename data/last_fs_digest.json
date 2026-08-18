@@ -1,115 +1,79 @@
 {
-  "title": "FS新聞 08-17 10:36",
-  "list_name": "FirstScreen_2026-08-17_103623_comma.txt",
-  "created_at": "2026-08-17T10:36:33.927329+00:00",
+  "title": "FS新聞 08-18 01:56",
+  "list_name": "FirstScreen_2026-08-18_015555_comma.txt",
+  "created_at": "2026-08-18T01:56:06.303188+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "BKNG",
-      "short": "BKNG — Mill Capital Management LLC Invests $25.61 Million in Booking Holdings Inc. $BKNG - Mar…",
-      "detail": "BKNG\n重點：新聞\n標題：Mill Capital Management LLC Invests $25.61 Million in Booking Holdings Inc. $BKNG - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOHRUWWIxa2p4eG9pVEJ2aEZNcG9HOHZ2V09xUXEzOXZON19oRk50RkhRbDhGa2dGM1ZhUHNDTWtJU2h6TmdTSldNRmRqZ2Y2TFBDMjF4V2c3c0xlZXVjVGRtWmZKVzhqVGdmaDBrb0VOdlBoZ3RpanE3V1pwRDE1OXA5bHUwbDMtN295cWhIOHhldlBpem9ONzUtSlRIeF9wdFExdXFTajVHY…\n來源：Google News:BKNG\n其他：Northstar Group Inc. Makes New Investment in Booking Holdin…; 10,270 Shares in Booking Holdings Inc. $BKNG Bought by Hard…; Focus Partners Advisor Solutions LLC Takes Position in Book…",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOHRUWWIxa2p4eG9pVEJ2aEZNcG9HOHZ2V09xUXEzOXZON19oRk50RkhRbDhGa2dGM1ZhUHNDTWtJU2h6TmdTSldNRmRqZ2Y2TFBDMjF4V2c3c0xlZXVjVGRtWmZKVzhqVGdmaDBrb0VOdlBoZ3RpanE3V1pwRDE1OXA5bHUwbDMtN295cWhIOHhldlBpem9ONzUtSlRIeF9wdFExdXFTajVHYngtVGd6cUY2ZnhXRDJVUW5lYlBQaFprOE52RnJlby1QcTFWbWhQSUFQdQ?oc=5",
-      "source": "Google News:BKNG",
+      "symbol": "LQDA",
+      "short": "LQDA — 業績／指引：LQDA Stock Down Post Q2 Earnings Release: What Should Investors Do Now?",
+      "detail": "LQDA\n重點：業績／指引\n標題：LQDA Stock Down Post Q2 Earnings Release: What Should Investors Do Now?\n摘要：Liquidia's Yutrepia is fueling rapid growth, but patent litigation, competition and heavy product dependence weigh on its outlook.\n來源：Yahoo Finance:LQDA\n其他：LQDA Stock Down Post Q2 Earnings Release: What Should Inves…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lqda-stock-down-post-q2-190500223.html?.tsrc=rss",
+      "source": "Yahoo Finance:LQDA",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "MDT",
-      "short": "MDT — Oppenheimer & Co. Inc. Reduces Stock Holdings in Medtronic PLC $MDT - MarketBeat",
-      "detail": "MDT\n重點：新聞\n標題：Oppenheimer & Co. Inc. Reduces Stock Holdings in Medtronic PLC $MDT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYU8yTm5KX2JkbGNad093bk9aRE9WRW5lbGIxdlB1czhkZUotS25CaWxXS3dKSXQ5dTUyMVZIOU5TcmxOOFJXUFFXdVpSS1lDRVNfMFhrenkyXzIwSC1KT2hJb2UwZWVmX3E2S3FPV3ZEQkJ6T0M0MGZ4QWFwUXlBSEpFU1RJSUltS2FjdkRMWnJzQkxHM3pZZUlpcDNjTGgtMUdENlZKcTRGW…\n來源：Google News:MDT\n其他：Medtronic PLC $MDT Shares Sold by Spectrum Asset Management…; Miller Howard Investments Inc. NY Grows Holdings in Medtron…; Daymark Wealth Partners LLC Sells 35,341 Shares of Medtroni…",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYU8yTm5KX2JkbGNad093bk9aRE9WRW5lbGIxdlB1czhkZUotS25CaWxXS3dKSXQ5dTUyMVZIOU5TcmxOOFJXUFFXdVpSS1lDRVNfMFhrenkyXzIwSC1KT2hJb2UwZWVmX3E2S3FPV3ZEQkJ6T0M0MGZ4QWFwUXlBSEpFU1RJSUltS2FjdkRMWnJzQkxHM3pZZUlpcDNjTGgtMUdENlZKcTRGWkppNEpOYWhYRHRxX3NCREQ3RFpsblA?oc=5",
-      "source": "Google News:MDT",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "ROST",
-      "short": "ROST — 8,793 Shares in Ross Stores, Inc. $ROST Purchased by Simplicity Wealth LLC - MarketBeat",
-      "detail": "ROST\n重點：新聞\n標題：8,793 Shares in Ross Stores, Inc. $ROST Purchased by Simplicity Wealth LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQT0UtZVBQTXJqa2ZKRlRKc0MtQzhpMzY4MVZReDg2MXNYQldmc2ltT0JKUzFXTW54eUVWSlgzLVN5cWVIT18tOW5GUmc3dzRsLVlMTXEzdC1Eb2VCUkZUQmxkWC1za2Zpek1QSExLdU80d2xvSGJyNEFpdkpGaUxTeFZ0SkpEVUxMaXQ4V0xxQ3FERVQwakhpVkFzSmUxLTZ6NXpBNnN2ZV9qd…\n來源：Google News:ROST\n其他：13,192 Shares in Ross Stores, Inc. $ROST Acquired by HBK So…; Ross Stores (ROST) Stock Looks Stretched On Earnings Yet St…; Ross Stores (ROST) Stock Looks Stretched On Earnings Yet St…",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT0UtZVBQTXJqa2ZKRlRKc0MtQzhpMzY4MVZReDg2MXNYQldmc2ltT0JKUzFXTW54eUVWSlgzLVN5cWVIT18tOW5GUmc3dzRsLVlMTXEzdC1Eb2VCUkZUQmxkWC1za2Zpek1QSExLdU80d2xvSGJyNEFpdkpGaUxTeFZ0SkpEVUxMaXQ4V0xxQ3FERVQwakhpVkFzSmUxLTZ6NXpBNnN2ZV9qdnBuMmNCcDdvY3BTNFlSLUd5ek1jMl9VMVBPZlpjR0JBTQ?oc=5",
-      "source": "Google News:ROST",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "CRM",
-      "short": "CRM — Trivium Point Advisory LLC Takes $1.46 Million Position in Salesforce Inc. $CRM - Marke…",
-      "detail": "CRM\n重點：新聞\n標題：Trivium Point Advisory LLC Takes $1.46 Million Position in Salesforce Inc. $CRM - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa0gtcjMxSDZxcVFxTG9TMGU0UEpLOXBRU2xzdGFPOVlTN001YjhFVFpwX1U5R1dPR3ZwV2I4UE1uSXFvM1pTRko3bmpDOFlqR29haWRZT1BOdUpyT0VoTlA0QkZBU2ZQRmEyR0MyRjNHWGRMWUkyQzdPSUZVYW9vaXVFbzZ5LVdmSzh2bEo0VXFIcnlHVEZfM1Vhczc1NVVEMTZQSFZ4WUNYV…\n來源：Google News:CRM\n其他：6,722 Shares in Salesforce Inc. $CRM Bought by HBK Sorce Ad…; State of Wyoming Purchases Shares of 3,917 Salesforce Inc. …",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa0gtcjMxSDZxcVFxTG9TMGU0UEpLOXBRU2xzdGFPOVlTN001YjhFVFpwX1U5R1dPR3ZwV2I4UE1uSXFvM1pTRko3bmpDOFlqR29haWRZT1BOdUpyT0VoTlA0QkZBU2ZQRmEyR0MyRjNHWGRMWUkyQzdPSUZVYW9vaXVFbzZ5LVdmSzh2bEo0VXFIcnlHVEZfM1Vhczc1NVVEMTZQSFZ4WUNYVXAtY1JrOHpGNzZTejhkbHZhRkZvaFloTzZEV0MtejkyQ3FOYmJ0ZGc?oc=5",
-      "source": "Google News:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 5,
       "symbol": "ANET",
-      "short": "ANET — Spirepoint Private Client LLC Purchases 66,141 Shares of Arista Networks, Inc. $ANET - …",
-      "detail": "ANET\n重點：新聞\n標題：Spirepoint Private Client LLC Purchases 66,141 Shares of Arista Networks, Inc. $ANET - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX2NkekJ2cW5UQ29XRXh1OExTNjJnVDlsNlBKMkFmOFJUcGV1R2I1UUt4UTJ3Vms4b0NLUDI0VkhZWVMwZ0g1Ym9kUE11V1V3T21yZFh5Nk5fZmJCaEQ5aHhTb1FZeTd6QWM4SVRaSlZUS25DbTRHM2lwZjg5c0l4bldNX01OMXc2OTFDeEp5MEk3NnoxeU5PWEVaUDFvdzZVTzUyRkh1RDFDS…\n來源：Google News:ANET\n其他：KBC Group NV Sells 19,804 Shares of Arista Networks, Inc. $…",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX2NkekJ2cW5UQ29XRXh1OExTNjJnVDlsNlBKMkFmOFJUcGV1R2I1UUt4UTJ3Vms4b0NLUDI0VkhZWVMwZ0g1Ym9kUE11V1V3T21yZFh5Nk5fZmJCaEQ5aHhTb1FZeTd6QWM4SVRaSlZUS25DbTRHM2lwZjg5c0l4bldNX01OMXc2OTFDeEp5MEk3NnoxeU5PWEVaUDFvdzZVTzUyRkh1RDFDSEdLcWZFV00zeTRRZ0RremE4U2M2dmUtTThPSFVzTF9RRWJoSHpqS19rMkNrbjA?oc=5",
+      "short": "ANET — Arista Networks (NYSE:ANET) Trading Up 1.6% - Should You Buy? - MarketBeat",
+      "detail": "ANET\n重點：新聞\n標題：Arista Networks (NYSE:ANET) Trading Up 1.6% - Should You Buy? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYks0NmtDbWcxWW1oOE5zeklra3loNWJMUFl0RVFaQ0FYWVFUZUpEUWtzbjFfaEJldG9DT0dwN2V4b2FHOTRUOERyUzJ4SVh6T1hfdmlWakNMUDg4RHRXODh3a19nZFY5UzhMdmppN0NTamtxN1VOMzNvSUZYVXczSWRwX3czWlBiRVZ6ZUFTalhhYmRfQzNUOEJGOU1MbHpUUjhoandFVmNwd…\n來源：Google News:ANET",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYks0NmtDbWcxWW1oOE5zeklra3loNWJMUFl0RVFaQ0FYWVFUZUpEUWtzbjFfaEJldG9DT0dwN2V4b2FHOTRUOERyUzJ4SVh6T1hfdmlWakNMUDg4RHRXODh3a19nZFY5UzhMdmppN0NTamtxN1VOMzNvSUZYVXczSWRwX3czWlBiRVZ6ZUFTalhhYmRfQzNUOEJGOU1MbHpUUjhoandFVmNwdVE?oc=5",
       "source": "Google News:ANET",
       "kind": "news"
     },
     {
+      "n": 3,
+      "symbol": "BHP",
+      "short": "BHP — 業績／指引：BHP Group H2 Earnings Call Highlights",
+      "detail": "BHP\n重點：業績／指引\n標題：BHP Group H2 Earnings Call Highlights\n摘要：BHP Group (NYSE:BHP) reported what Chief Executive Officer Brandon Craig described as a strong financial year, supported by record production in Western Australia iron ore, strong performance at the Escondida copper mine in Chile, resilient iron ore prices and high copper prices…\n來源：Yahoo Finance:BHP",
+      "url": "https://www.marketbeat.com/instant-alerts/bhp-group-h2-earnings-call-highlights-2026-08-17/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance:BHP",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "FDX",
+      "short": "FDX — FEDEX CORP ($FDX) CEO 2026 Pay Revealed - quiverquant.com",
+      "detail": "FDX\n重點：新聞\n標題：FEDEX CORP ($FDX) CEO 2026 Pay Revealed - quiverquant.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUxiWmVHSEZzc3NYekJld2hzT2xiUEdpOFpsMHlTckZ0VUdzQk5sUHgzdnpua1JNUmVlbUpBandNems2djNaNnFvYnhYaGtwaF9MRXFBbXpCSzVfS09jRkRoSURjWDdlYzA4T0pxcDItQkJXRDhkU2lmY0s3eC1tekF0QUw?oc=5\" target=\"_blank\">FEDEX CORP ($FDX) CEO 2026 …\n來源：Google News:FDX",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUxiWmVHSEZzc3NYekJld2hzT2xiUEdpOFpsMHlTckZ0VUdzQk5sUHgzdnpua1JNUmVlbUpBandNems2djNaNnFvYnhYaGtwaF9MRXFBbXpCSzVfS09jRkRoSURjWDdlYzA4T0pxcDItQkJXRDhkU2lmY0s3eC1tekF0QUw?oc=5",
+      "source": "Google News:FDX",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "GH",
+      "short": "GH — AI相關：Guardant Health (GH) Surges on FDA Approval and Cancer Screening Momentum",
+      "detail": "GH\n重點：AI相關\n標題：Guardant Health (GH) Surges on FDA Approval and Cancer Screening Momentum\n摘要：Aristotle Capital Management, LLC, an investment management company, released its “Core Equity Fund” Q2 2026 investor letter. A copy of the letter can be downloaded here. The fund returned 14.69% in the second quarter of 2026, slightly trailing the 15.20% gain of the S&amp;P 500…\n來源：Yahoo Finance:GH",
+      "url": "https://finance.yahoo.com/healthcare/articles/guardant-health-gh-surges-fda-194840110.html?.tsrc=rss",
+      "source": "Yahoo Finance:GH",
+      "kind": "news"
+    },
+    {
       "n": 6,
-      "symbol": "COF",
-      "short": "COF — Capital One Financial Corporation $COF Stock Position Cut by Trivium Point Advisory LLC…",
-      "detail": "COF\n重點：新聞\n標題：Capital One Financial Corporation $COF Stock Position Cut by Trivium Point Advisory LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxObnNpc3RacHQ0QVE3Ynl6UEtnVWpfQm44UVFkX3RTVVQ5UkN5MS1DMjFBZUFLaGFMSUJUU1B3TDlvcXFkakQ4cGZySDl3UU9lS2t3SzZObUh4cXR1aG1HRVJiSmVVVmswaWQ2U2tUZF9UeEtpb3dyLV9vT0lZWTludmxVRXRod1hERlEzRFpyS2dDeGRKQ01kRzBjYXc1UGFUVVJubXJoajZGZ…\n來源：Google News:COF\n其他：Capital One Financial Corporation $COF is ANTIPODES PARTNER…",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObnNpc3RacHQ0QVE3Ynl6UEtnVWpfQm44UVFkX3RTVVQ5UkN5MS1DMjFBZUFLaGFMSUJUU1B3TDlvcXFkakQ4cGZySDl3UU9lS2t3SzZObUh4cXR1aG1HRVJiSmVVVmswaWQ2U2tUZF9UeEtpb3dyLV9vT0lZWTludmxVRXRod1hERlEzRFpyS2dDeGRKQ01kRzBjYXc1UGFUVVJubXJoajZGZFZueUg3eXFnbk1nYzJ4U0g4UUJFSDY3YTVQOTYwZXY3X1dkZ3VDQmNBb3J2QVUwQ3BER1VsWQ?oc=5",
-      "source": "Google News:COF",
+      "symbol": "GSAT",
+      "short": "GSAT — Rebecca Clary Sells 24,100 Shares of Globalstar (NASDAQ:GSAT) Stock - MarketBeat",
+      "detail": "GSAT\n重點：新聞\n標題：Rebecca Clary Sells 24,100 Shares of Globalstar (NASDAQ:GSAT) Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNVpEMEVzV09SaDVBNmVBbUJEY3RKSV9oZEpCWFFXRW1lcXczMmpKVFU2elQzWGxjejVMRnpvdlJMbk1ZMk9CR2ZHTlVQUVU3ZWplaTFaU2RuU2JvejRPekZfOGwxOWtQdlF1ZmRVWE40MnlNekV3SXNvNk90UGVXYlU1aHY0SXd3M1dEa0E2R2pWb3JuVHhLVjRkdk44bVhXUG1YWXgyMHY5T…\n來源：Google News:GSAT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNVpEMEVzV09SaDVBNmVBbUJEY3RKSV9oZEpCWFFXRW1lcXczMmpKVFU2elQzWGxjejVMRnpvdlJMbk1ZMk9CR2ZHTlVQUVU3ZWplaTFaU2RuU2JvejRPekZfOGwxOWtQdlF1ZmRVWE40MnlNekV3SXNvNk90UGVXYlU1aHY0SXd3M1dEa0E2R2pWb3JuVHhLVjRkdk44bVhXUG1YWXgyMHY5TnhDVjVKSzYyZTBwZ3Uy?oc=5",
+      "source": "Google News:GSAT",
       "kind": "news"
     },
     {
       "n": 7,
-      "symbol": "FTNT",
-      "short": "FTNT — HBK Sorce Advisory LLC Purchases New Shares in Fortinet, Inc. $FTNT - MarketBeat",
-      "detail": "FTNT\n重點：新聞\n標題：HBK Sorce Advisory LLC Purchases New Shares in Fortinet, Inc. $FTNT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOWY5THNweW8yTnBVWC1vcGR5aHJ0bUxMdmJNUHlKXzU5dmZKbVJING9oVlRyeG9zVWx3V0NyVUhJU0xmVjRDcFJnamxDdGtzbnV0cWlicHM5ZVh4a29YczNHMkt5OHJKVWhTNzBqeXBNMTZsQUY3MGJZRFc5aThqaTI3bDBMeEJyb0J0OTFmOWVoNUMxU2ZkRG5tQkFZWU1wRmM0aWhQc0p2Z…\n來源：Google News:FTNT\n其他：Global Retirement Partners LLC Makes New Investment in Fort…",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOWY5THNweW8yTnBVWC1vcGR5aHJ0bUxMdmJNUHlKXzU5dmZKbVJING9oVlRyeG9zVWx3V0NyVUhJU0xmVjRDcFJnamxDdGtzbnV0cWlicHM5ZVh4a29YczNHMkt5OHJKVWhTNzBqeXBNMTZsQUY3MGJZRFc5aThqaTI3bDBMeEJyb0J0OTFmOWVoNUMxU2ZkRG5tQkFZWU1wRmM0aWhQc0p2ZDd3SEQ4TE95UUZXQTM5Y1UwUEJCOUdyR00?oc=5",
-      "source": "Google News:FTNT",
+      "symbol": "LULU",
+      "short": "LULU — 業績／指引：Apparel Retailer Q1 Earnings Roundup: Lululemon (NASDAQ: LULU) Lags While Tilly's (NYSE…",
+      "detail": "LULU\n重點：業績／指引\n標題：Apparel Retailer Q1 Earnings Roundup: Lululemon (NASDAQ: LULU) Lags While Tilly's (NYSE: TLYS) Leads The Pack - foreignpolicyjournal.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOHhQWExhOU8yZVBMUy1rempXdVhPaFRVVllTSDg0ZUl6bF9seDl5ZWQ5NEJ2NzNFWUxkck9vcEF5TFUwZmY3djJVX0VrSVZXMFpmRlExVkoyT1RoUUw2Yi02U0ppemx0SEhod3g1dE5JT1kxZkxOT3pxb212ZXMzVVY3LVNGSlBYRFFXTnZOSlMwWWI2X19XV1ZIdUxoSWsyTWFsT3R6b05aZ…\n來源：Google News:LULU",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOHhQWExhOU8yZVBMUy1rempXdVhPaFRVVllTSDg0ZUl6bF9seDl5ZWQ5NEJ2NzNFWUxkck9vcEF5TFUwZmY3djJVX0VrSVZXMFpmRlExVkoyT1RoUUw2Yi02U0ppemx0SEhod3g1dE5JT1kxZkxOT3pxb212ZXMzVVY3LVNGSlBYRFFXTnZOSlMwWWI2X19XV1ZIdUxoSWsyTWFsT3R6b05aZ0YyU2hIMi05cGpHd1kwR1Z4SEVCN19GdWxZWWVUSkJnNnBZWjZfa0JyT1JPWFR0SmROZkpqMFlWUFo?oc=5",
+      "source": "Google News:LULU",
       "kind": "news"
     },
     {
       "n": 8,
-      "symbol": "HCA",
-      "short": "HCA — Plato Investment Management Ltd Purchases Shares of 6,919 HCA Healthcare, Inc. $HCA - M…",
-      "detail": "HCA\n重點：新聞\n標題：Plato Investment Management Ltd Purchases Shares of 6,919 HCA Healthcare, Inc. $HCA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOW0xX09jZXkzSTIweU44Qk9zeG5tYlpWRW1jYkh0RktHYjhpczI0V1BDb1gxZkJveWJweU1BTHRqN0t5eV96cmlwdzlUaFp4YnhodVVfdWlyOF92MjEyRjZoZEtPZkp2WDZBcGVadWQxdHp2ZTlhZ0ZmT0JQLWhxUFF5S2pscnVmZFZjcVc0QmZyRy1LRHRiaERocE4wMjgwd3M0MEpMck1rT…\n來源：Google News:HCA\n其他：1ST Source Bank Invests $3.38 Million in HCA Healthcare, In…",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOW0xX09jZXkzSTIweU44Qk9zeG5tYlpWRW1jYkh0RktHYjhpczI0V1BDb1gxZkJveWJweU1BTHRqN0t5eV96cmlwdzlUaFp4YnhodVVfdWlyOF92MjEyRjZoZEtPZkp2WDZBcGVadWQxdHp2ZTlhZ0ZmT0JQLWhxUFF5S2pscnVmZFZjcVc0QmZyRy1LRHRiaERocE4wMjgwd3M0MEpMck1rTF9ZMUI0RmEtX2lSb09CcVVHNkFncHJJYWg5N0xYWURTQTBLU3JldS1QNkZXRQ?oc=5",
-      "source": "Google News:HCA",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "INTU",
-      "short": "INTU — 6,095 Shares in Intuit Inc. $INTU Purchased by GSA Capital Partners LLP - MarketBeat",
-      "detail": "INTU\n重點：新聞\n標題：6,095 Shares in Intuit Inc. $INTU Purchased by GSA Capital Partners LLP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUUxiemJzUWhwV0REZDBfRVBuc0lnTFRHZW9tZU9acDJMZGVIWmlKV2tXUEpGM2dhTHk2Tl9LYkZjaTFRVnlqVzlJX2JtNHJ2bzBURUgzaVh2R0piX0doRk1VaV93OG8zenNKZC05UEc4R05sdjk2bjFrdENhRWxRVlRTSGZfOXpBSnJqeXJZc19Cd2xab2xqOXN5YzA2VTJWSm1YSmZJT21yU…\n來源：Google News:INTU\n其他：Flputnam Investment Management Co. Purchases Shares of 15,0…",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUUxiemJzUWhwV0REZDBfRVBuc0lnTFRHZW9tZU9acDJMZGVIWmlKV2tXUEpGM2dhTHk2Tl9LYkZjaTFRVnlqVzlJX2JtNHJ2bzBURUgzaVh2R0piX0doRk1VaV93OG8zenNKZC05UEc4R05sdjk2bjFrdENhRWxRVlRTSGZfOXpBSnJqeXJZc19Cd2xab2xqOXN5YzA2VTJWSm1YSmZJT21yUlBfY1k5QjZjbGpxU1ZOb1VEOEI3UEltaUEzNGZGSA?oc=5",
-      "source": "Google News:INTU",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "PDD",
-      "short": "PDD — 業績／指引：PDD Holdings (PDD) Stock May Be Below Fair Value After Earnings Pressure Concerns",
-      "detail": "PDD\n重點：業績／指引\n標題：PDD Holdings (PDD) Stock May Be Below Fair Value After Earnings Pressure Concerns\n摘要：PDD Holdings has delivered a steep share price decline over the past year while its valuation checks still lean on the cheap side. That mix of weaker recent returns and relatively low multiples is putting the focus on whether the stock offers value or simply reflects growing con…\n來源：Yahoo Finance:PDD\n其他：PDD Holdings (PDD) Stock May Be Below Fair Value After Earn…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-pdd-stock-may-091027258.html?.tsrc=rss",
-      "source": "Yahoo Finance:PDD",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "SLB",
-      "short": "SLB — Plato Investment Management Ltd Acquires New Holdings in SLB Limited $SLB - MarketBeat",
-      "detail": "SLB\n重點：新聞\n標題：Plato Investment Management Ltd Acquires New Holdings in SLB Limited $SLB - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPcFlzTnpfZUVkS2JvdmJBMFlwRGxfbEE1enRsc3ZMeXhSbmZtNGFueDJYREJNQkRkdTFwMkZzS3B2bm9qZEo3WXNTUmZGRHpLZ2RERm5wc3dILUV2QWVPOW5kaFhxVGpkaTkzQkh0TDg5S1kzaUpLS0NUU2p6Q0NsOFQ0X1B0R1R4NHRxbkw3NHZfdDIwV0dEek53blhPc0VNSUllb0xPVUpKN…\n來源：Google News:SLB\n其他：SLB Limited (NYSE:SLB) Given Consensus Recommendation of \"M…",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcFlzTnpfZUVkS2JvdmJBMFlwRGxfbEE1enRsc3ZMeXhSbmZtNGFueDJYREJNQkRkdTFwMkZzS3B2bm9qZEo3WXNTUmZGRHpLZ2RERm5wc3dILUV2QWVPOW5kaFhxVGpkaTkzQkh0TDg5S1kzaUpLS0NUU2p6Q0NsOFQ0X1B0R1R4NHRxbkw3NHZfdDIwV0dEek53blhPc0VNSUllb0xPVUpKNTJ0Nl9VcmV6ZmZzeW13bzdXWDEyVmp0WDhaNW1zVHd0VEtjQQ?oc=5",
-      "source": "Google News:SLB",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "TGT",
-      "short": "TGT — Flputnam Investment Management Co. Takes Position in Target Corporation $TGT - MarketBe…",
-      "detail": "TGT\n重點：新聞\n標題：Flputnam Investment Management Co. Takes Position in Target Corporation $TGT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUzBfNGtjZW01cUVpWnRid3RMcGpzWDZsT3VDOTlueUZZZ3pHRGdxQU5XQkpxZXVZbjg3LXNzVWpBQ2VCdWp5NTczLXF1RUM2MW1ERUx1MFZnaHdyTTQ4YkIyeGhiZk9lZS1RWXJySm9ZWWNaNURrVk5iWFNEM0hXcDlqRUluNE82MEFxamo1eUl0eDg0cGZaa3VSaGFOZDVzendqTS1jQ2NRY…\n來源：Google News:TGT\n其他：Q1 Large-format Grocery & General Merchandise Retailer Earn…",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUzBfNGtjZW01cUVpWnRid3RMcGpzWDZsT3VDOTlueUZZZ3pHRGdxQU5XQkpxZXVZbjg3LXNzVWpBQ2VCdWp5NTczLXF1RUM2MW1ERUx1MFZnaHdyTTQ4YkIyeGhiZk9lZS1RWXJySm9ZWWNaNURrVk5iWFNEM0hXcDlqRUluNE82MEFxamo1eUl0eDg0cGZaa3VSaGFOZDVzendqTS1jQ2NRYW5jeWZvZTNXNW1xUFlhTm5WVHQxd2ItaU5GUEROS0VVQTdVLXct?oc=5",
-      "source": "Google News:TGT",
+      "symbol": "PYPL",
+      "short": "PYPL — PayPal (NASDAQ:PYPL) Shares Down 1.9% - Time to Sell? - MarketBeat",
+      "detail": "PYPL\n重點：新聞\n標題：PayPal (NASDAQ:PYPL) Shares Down 1.9% - Time to Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQWEpKdlFzeWRYc0U4U0p0NWh1LUdMNTlVTkxaQ3ZCMTZsVXlYTUEtMlNtNUVqS28yS0dEUHJPblhzcXlCaUlOU1F4NVQxOUdsMl84M0d3NWlzOUtvWEViTmNrUkJMbm5KbU9JeGlsRlY5dFpaYjFwTFdqMkdXaE1leVRfNFJnSGpOOTl2dXdYYy1sRWstdWRScm80amt3ay0w?oc=5\" target…\n來源：Google News:PYPL",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWEpKdlFzeWRYc0U4U0p0NWh1LUdMNTlVTkxaQ3ZCMTZsVXlYTUEtMlNtNUVqS28yS0dEUHJPblhzcXlCaUlOU1F4NVQxOUdsMl84M0d3NWlzOUtvWEViTmNrUkJMbm5KbU9JeGlsRlY5dFpaYjFwTFdqMkdXaE1leVRfNFJnSGpOOTl2dXdYYy1sRWstdWRScm80amt3ay0w?oc=5",
+      "source": "Google News:PYPL",
       "kind": "news"
     }
   ]
