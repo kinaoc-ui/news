@@ -1,20 +1,29 @@
 {
-  "title": "FS新聞 08-18 01:56",
-  "list_name": "FirstScreen_2026-08-18_015555_comma.txt",
-  "created_at": "2026-08-18T01:56:06.303188+00:00",
+  "title": "FS新聞 08-18 05:26",
+  "list_name": "FirstScreen_2026-08-18_052556_comma.txt",
+  "created_at": "2026-08-18T05:26:08.695719+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "LQDA",
-      "short": "LQDA — 業績／指引：LQDA Stock Down Post Q2 Earnings Release: What Should Investors Do Now?",
-      "detail": "LQDA\n重點：業績／指引\n標題：LQDA Stock Down Post Q2 Earnings Release: What Should Investors Do Now?\n摘要：Liquidia's Yutrepia is fueling rapid growth, but patent litigation, competition and heavy product dependence weigh on its outlook.\n來源：Yahoo Finance:LQDA\n其他：LQDA Stock Down Post Q2 Earnings Release: What Should Inves…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lqda-stock-down-post-q2-190500223.html?.tsrc=rss",
-      "source": "Yahoo Finance:LQDA",
+      "symbol": "BHP",
+      "short": "BHP — 業績／指引：BHP Profit Jumps as Copper Drives Record Earnings",
+      "detail": "BHP\n重點：業績／指引\n標題：BHP Profit Jumps as Copper Drives Record Earnings\n摘要：Strong copper prices and record operational performance lifted BHP’s earnings and cash flow while the miner accelerated investment in copper growth.\n來源：Yahoo Finance:BHP\n其他：BHP Group H2 Earnings Call Highlights",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/bhp-profit-jumps-copper-drives-030000742.html?.tsrc=rss",
+      "source": "Yahoo Finance:BHP",
       "kind": "news"
     },
     {
       "n": 2,
+      "symbol": "FDX",
+      "short": "FDX — Should FedEx’s (FDX) Automation and Cost Cuts Strategy Require Action From Investors? -…",
+      "detail": "FDX\n重點：新聞\n標題：Should FedEx’s (FDX) Automation and Cost Cuts Strategy Require Action From Investors? - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPaEJVVC1HYW9NYVlxVnVNQTI3Y3lOU0JtQWQyeUJhbDZMdW1rVjRxTWVqWjRjc0FSWXQ1bmJiSk5aQTBmTjJqTW9pNUh0WkIzMXhQck45TmJOV2RMRnc0RHVRNlpIbTBCNWhXNzZHeVYxYVBKdmd4SFh1MTRuZWxuTGpqVlkzamtGWHdzeFNtdVJNd2ZWNjlIM1NEMUlfS2UzbTNoRG9EQ2ZVR…\n來源：Google News:FDX\n其他：FEDEX CORP ($FDX) CEO 2026 Pay Revealed - Quiver Quantitati…",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaEJVVC1HYW9NYVlxVnVNQTI3Y3lOU0JtQWQyeUJhbDZMdW1rVjRxTWVqWjRjc0FSWXQ1bmJiSk5aQTBmTjJqTW9pNUh0WkIzMXhQck45TmJOV2RMRnc0RHVRNlpIbTBCNWhXNzZHeVYxYVBKdmd4SFh1MTRuZWxuTGpqVlkzamtGWHdzeFNtdVJNd2ZWNjlIM1NEMUlfS2UzbTNoRG9EQ2ZVR3JKZ1NzVFZSRnJQU3N0SU92b3lUYnJWSl9p0gHKAUFVX3lxTE9Jbk9ycGEtWDdRd3JxRWlmejhQLXFGVkEwbUs3NWRhUTZKcHI0ekg3Mm93dkR0bE1JaVFjY1hPYm1kUkZ2b2psZC1VR0FJOVpBelp4dHoxamVpTmVGTHFzdlFyTnRnVjlVYzdrTlJDdVppak5kRnRZdmQxTnJwNTVEaHFxN21FVmhnRFZ2N1NsZHhFdEh4aDFwZXZ1N05fTkVCVFZ1ZTZGUWkyN3dkZ1JkY2Z0NlRNa212SmlqcXMzM3pPWms5MlJiNmc?oc=5",
+      "source": "Google News:FDX",
+      "kind": "news"
+    },
+    {
+      "n": 3,
       "symbol": "ANET",
       "short": "ANET — Arista Networks (NYSE:ANET) Trading Up 1.6% - Should You Buy? - MarketBeat",
       "detail": "ANET\n重點：新聞\n標題：Arista Networks (NYSE:ANET) Trading Up 1.6% - Should You Buy? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYks0NmtDbWcxWW1oOE5zeklra3loNWJMUFl0RVFaQ0FYWVFUZUpEUWtzbjFfaEJldG9DT0dwN2V4b2FHOTRUOERyUzJ4SVh6T1hfdmlWakNMUDg4RHRXODh3a19nZFY5UzhMdmppN0NTamtxN1VOMzNvSUZYVXczSWRwX3czWlBiRVZ6ZUFTalhhYmRfQzNUOEJGOU1MbHpUUjhoandFVmNwd…\n來源：Google News:ANET",
@@ -23,34 +32,43 @@
       "kind": "news"
     },
     {
-      "n": 3,
-      "symbol": "BHP",
-      "short": "BHP — 業績／指引：BHP Group H2 Earnings Call Highlights",
-      "detail": "BHP\n重點：業績／指引\n標題：BHP Group H2 Earnings Call Highlights\n摘要：BHP Group (NYSE:BHP) reported what Chief Executive Officer Brandon Craig described as a strong financial year, supported by record production in Western Australia iron ore, strong performance at the Escondida copper mine in Chile, resilient iron ore prices and high copper prices…\n來源：Yahoo Finance:BHP",
-      "url": "https://www.marketbeat.com/instant-alerts/bhp-group-h2-earnings-call-highlights-2026-08-17/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "Yahoo Finance:BHP",
-      "kind": "news"
-    },
-    {
       "n": 4,
-      "symbol": "FDX",
-      "short": "FDX — FEDEX CORP ($FDX) CEO 2026 Pay Revealed - quiverquant.com",
-      "detail": "FDX\n重點：新聞\n標題：FEDEX CORP ($FDX) CEO 2026 Pay Revealed - quiverquant.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUxiWmVHSEZzc3NYekJld2hzT2xiUEdpOFpsMHlTckZ0VUdzQk5sUHgzdnpua1JNUmVlbUpBandNems2djNaNnFvYnhYaGtwaF9MRXFBbXpCSzVfS09jRkRoSURjWDdlYzA4T0pxcDItQkJXRDhkU2lmY0s3eC1tekF0QUw?oc=5\" target=\"_blank\">FEDEX CORP ($FDX) CEO 2026 …\n來源：Google News:FDX",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUxiWmVHSEZzc3NYekJld2hzT2xiUEdpOFpsMHlTckZ0VUdzQk5sUHgzdnpua1JNUmVlbUpBandNems2djNaNnFvYnhYaGtwaF9MRXFBbXpCSzVfS09jRkRoSURjWDdlYzA4T0pxcDItQkJXRDhkU2lmY0s3eC1tekF0QUw?oc=5",
-      "source": "Google News:FDX",
+      "symbol": "BILL",
+      "short": "BILL — 業績／指引：BILL (BILL) Q2 Earnings: What To Expect",
+      "detail": "BILL\n重點：業績／指引\n標題：BILL (BILL) Q2 Earnings: What To Expect\n摘要：Financial automation platform BILL (NYSE:BILL) will be reporting results this Wednesday after market close. Here’s what you need to know.\n來源：Yahoo Finance:BILL",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-bill-q2-earnings-expect-031650619.html?.tsrc=rss",
+      "source": "Yahoo Finance:BILL",
       "kind": "news"
     },
     {
       "n": 5,
-      "symbol": "GH",
-      "short": "GH — AI相關：Guardant Health (GH) Surges on FDA Approval and Cancer Screening Momentum",
-      "detail": "GH\n重點：AI相關\n標題：Guardant Health (GH) Surges on FDA Approval and Cancer Screening Momentum\n摘要：Aristotle Capital Management, LLC, an investment management company, released its “Core Equity Fund” Q2 2026 investor letter. A copy of the letter can be downloaded here. The fund returned 14.69% in the second quarter of 2026, slightly trailing the 15.20% gain of the S&amp;P 500…\n來源：Yahoo Finance:GH",
-      "url": "https://finance.yahoo.com/healthcare/articles/guardant-health-gh-surges-fda-194840110.html?.tsrc=rss",
-      "source": "Yahoo Finance:GH",
+      "symbol": "CRM",
+      "short": "CRM — AI相關：Salesforce (CRM) CEO Marc Benioff To Open 2026 AI Unleashed Summit",
+      "detail": "CRM\n重點：AI相關\n標題：Salesforce (CRM) CEO Marc Benioff To Open 2026 AI Unleashed Summit\n摘要：Salesforce (NYSE:CRM) CEO Marc Benioff is set to deliver the opening keynote at the 2026 Six Five Summit: AI Unleashed, focusing on enterprise AI. The keynote will highlight Salesforce's role in the broader AI ecosystem and its approach to AI for large businesses. The appearance…\n來源：Yahoo Finance:CRM",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-ceo-marc-benioff-043334086.html?.tsrc=rss",
+      "source": "Yahoo Finance:CRM",
       "kind": "news"
     },
     {
       "n": 6,
+      "symbol": "EC",
+      "short": "EC — 併購／交易：Ecopetrol Completes Acquisition of a Controlling 51% Stake in Brava Energia S.A. and St…",
+      "detail": "EC\n重點：併購／交易\n標題：Ecopetrol Completes Acquisition of a Controlling 51% Stake in Brava Energia S.A. and Strengthens Its Growth Platform in Brazil\n摘要：Ecopetrol S.A. (\"Ecopetrol\" or the \"Company\") (BVC: ECOPETROL; NYSE: EC) announces that, through its wholly owned subsidiary Ecopetrol Investimentos do Brasil Ltda. (\"Ecopetrol Investimentos\"), it has completed the acquisition of a controlling interest equivalent to approximatel…\n來源：Yahoo Finance:EC",
+      "url": "https://finance.yahoo.com/energy/articles/ecopetrol-completes-acquisition-controlling-51-042000791.html?.tsrc=rss",
+      "source": "Yahoo Finance:EC",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "EL",
+      "short": "EL — 業績／指引：Estée Lauder (EL) Reports Earnings Tomorrow: What To Expect",
+      "detail": "EL\n重點：業績／指引\n標題：Estée Lauder (EL) Reports Earnings Tomorrow: What To Expect\n摘要：Beauty products company Estée Lauder (NYSE:EL) will be announcing earnings results this Wednesday before the bell. Here’s what to expect.\n來源：Yahoo Finance:EL",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/est-e-lauder-el-reports-030850571.html?.tsrc=rss",
+      "source": "Yahoo Finance:EL",
+      "kind": "news"
+    },
+    {
+      "n": 8,
       "symbol": "GSAT",
       "short": "GSAT — Rebecca Clary Sells 24,100 Shares of Globalstar (NASDAQ:GSAT) Stock - MarketBeat",
       "detail": "GSAT\n重點：新聞\n標題：Rebecca Clary Sells 24,100 Shares of Globalstar (NASDAQ:GSAT) Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNVpEMEVzV09SaDVBNmVBbUJEY3RKSV9oZEpCWFFXRW1lcXczMmpKVFU2elQzWGxjejVMRnpvdlJMbk1ZMk9CR2ZHTlVQUVU3ZWplaTFaU2RuU2JvejRPekZfOGwxOWtQdlF1ZmRVWE40MnlNekV3SXNvNk90UGVXYlU1aHY0SXd3M1dEa0E2R2pWb3JuVHhLVjRkdk44bVhXUG1YWXgyMHY5T…\n來源：Google News:GSAT",
@@ -59,21 +77,30 @@
       "kind": "news"
     },
     {
-      "n": 7,
-      "symbol": "LULU",
-      "short": "LULU — 業績／指引：Apparel Retailer Q1 Earnings Roundup: Lululemon (NASDAQ: LULU) Lags While Tilly's (NYSE…",
-      "detail": "LULU\n重點：業績／指引\n標題：Apparel Retailer Q1 Earnings Roundup: Lululemon (NASDAQ: LULU) Lags While Tilly's (NYSE: TLYS) Leads The Pack - foreignpolicyjournal.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOHhQWExhOU8yZVBMUy1rempXdVhPaFRVVllTSDg0ZUl6bF9seDl5ZWQ5NEJ2NzNFWUxkck9vcEF5TFUwZmY3djJVX0VrSVZXMFpmRlExVkoyT1RoUUw2Yi02U0ppemx0SEhod3g1dE5JT1kxZkxOT3pxb212ZXMzVVY3LVNGSlBYRFFXTnZOSlMwWWI2X19XV1ZIdUxoSWsyTWFsT3R6b05aZ…\n來源：Google News:LULU",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOHhQWExhOU8yZVBMUy1rempXdVhPaFRVVllTSDg0ZUl6bF9seDl5ZWQ5NEJ2NzNFWUxkck9vcEF5TFUwZmY3djJVX0VrSVZXMFpmRlExVkoyT1RoUUw2Yi02U0ppemx0SEhod3g1dE5JT1kxZkxOT3pxb212ZXMzVVY3LVNGSlBYRFFXTnZOSlMwWWI2X19XV1ZIdUxoSWsyTWFsT3R6b05aZ0YyU2hIMi05cGpHd1kwR1Z4SEVCN19GdWxZWWVUSkJnNnBZWjZfa0JyT1JPWFR0SmROZkpqMFlWUFo?oc=5",
-      "source": "Google News:LULU",
+      "n": 9,
+      "symbol": "MRK",
+      "short": "MRK — 業績／指引：Why Did ROKU, MRK, SCHW Stocks Jump To 52-Week Highs?",
+      "detail": "MRK\n重點：業績／指引\n標題：Why Did ROKU, MRK, SCHW Stocks Jump To 52-Week Highs?\n摘要：Roku, Merck & Co and Charles Schwab shares jumped to 52-week highs, extending strong earnings momentum, as well as gaining from company-specific analysts.\n來源：Yahoo Finance:MRK",
+      "url": "https://stocktwits.com/news-articles/markets/equity/why-did-roku-mrk-schw-stocks-jump-to-52-week-highs/cZYTyTbRJS0?.tsrc=rss",
+      "source": "Yahoo Finance:MRK",
       "kind": "news"
     },
     {
-      "n": 8,
+      "n": 10,
       "symbol": "PYPL",
       "short": "PYPL — PayPal (NASDAQ:PYPL) Shares Down 1.9% - Time to Sell? - MarketBeat",
       "detail": "PYPL\n重點：新聞\n標題：PayPal (NASDAQ:PYPL) Shares Down 1.9% - Time to Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQWEpKdlFzeWRYc0U4U0p0NWh1LUdMNTlVTkxaQ3ZCMTZsVXlYTUEtMlNtNUVqS28yS0dEUHJPblhzcXlCaUlOU1F4NVQxOUdsMl84M0d3NWlzOUtvWEViTmNrUkJMbm5KbU9JeGlsRlY5dFpaYjFwTFdqMkdXaE1leVRfNFJnSGpOOTl2dXdYYy1sRWstdWRScm80amt3ay0w?oc=5\" target…\n來源：Google News:PYPL",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWEpKdlFzeWRYc0U4U0p0NWh1LUdMNTlVTkxaQ3ZCMTZsVXlYTUEtMlNtNUVqS28yS0dEUHJPblhzcXlCaUlOU1F4NVQxOUdsMl84M0d3NWlzOUtvWEViTmNrUkJMbm5KbU9JeGlsRlY5dFpaYjFwTFdqMkdXaE1leVRfNFJnSGpOOTl2dXdYYy1sRWstdWRScm80amt3ay0w?oc=5",
       "source": "Google News:PYPL",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "TGT",
+      "short": "TGT — 業績／指引：Target (TGT) Q2 Earnings: What To Expect",
+      "detail": "TGT\n重點：業績／指引\n標題：Target (TGT) Q2 Earnings: What To Expect\n摘要：General merchandise retailer Target (NYSE:TGT) will be reporting earnings this Wednesday morning. Here’s what to look for.\n來源：Yahoo Finance:TGT",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/target-tgt-q2-earnings-expect-032450224.html?.tsrc=rss",
+      "source": "Yahoo Finance:TGT",
       "kind": "news"
     }
   ]
