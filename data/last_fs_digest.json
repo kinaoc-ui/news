@@ -1,38 +1,20 @@
 {
-  "title": "FS新聞 08-19 01:57",
-  "list_name": "FirstScreen_2026-08-19_015730_comma.txt",
-  "created_at": "2026-08-19T01:57:42.706053+00:00",
+  "title": "FS新聞 08-19 05:27",
+  "list_name": "FirstScreen_2026-08-19_052652_comma.txt",
+  "created_at": "2026-08-19T05:27:03.315461+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "TGT",
-      "short": "TGT — 業績／指引：Target Earnings Face Steep Expectations After TGT Stock's 56% Rally",
-      "detail": "TGT\n重點：業績／指引\n標題：Target Earnings Face Steep Expectations After TGT Stock's 56% Rally\n摘要：Wall Street applauds signs of Target earnings transformation after a few tough years. But is the good news baked into TGT stock?\n來源：Yahoo Finance:ROST\n其他：Target Earnings Face Steep Expectations After TGT Stock's 5…; Target Earnings Prediction Market Preview: What Will Michae…; Target Earnings: What Prediction Markets Expect - Target (N…",
-      "url": "https://finance.yahoo.com/m/d5dcf58a-1963-3b95-8d82-2743f8685079/target-earnings-face-steep.html?.tsrc=rss",
-      "source": "Yahoo Finance:ROST",
+      "symbol": "CRM",
+      "short": "CRM — AI相關、業績／指引：Salesforce (CRM) Just Climbed, So What Is Driving Attention Now?",
+      "detail": "CRM\n重點：AI相關、業績／指引\n標題：Salesforce (CRM) Just Climbed, So What Is Driving Attention Now?\n摘要：Salesforce (CRM) has moved back into focus for investors after a sector rotation into software stocks, renewed attention on its Agentforce AI platform, and rising interest ahead of the upcoming earnings report. See our latest analysis for Salesforce. Salesforce’s recent 1-day sh…\n來源：Yahoo Finance:CRM\n其他：Salesforce Inc. (NYSE:CRM) Sees Large Drop in Short Interes…; Salesforce (NYSE:CRM) Trading Up 2.8% - What's Next? - Mark…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-just-climbed-driving-021238447.html?.tsrc=rss",
+      "source": "Yahoo Finance:CRM",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "ECL",
-      "short": "ECL — AI相關：Ecolab's CoolIT Deal Raises AI Upside but Also Debt and Cost Risks",
-      "detail": "ECL\n重點：AI相關\n標題：Ecolab's CoolIT Deal Raises AI Upside but Also Debt and Cost Risks\n摘要：ECL's $4.75B CoolIT deal expands its AI data-center cooling opportunity, but higher debt and financing costs raise execution risks.\n來源：Yahoo Finance:ECL\n其他：Is Ecolab Stock Worth Buying as Growth Rises but Debt Risk …; Ecolab Rallies 12.2% in 3 Months as High-Tech Growth Gains …",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ecolabs-coolit-deal-raises-ai-183400141.html?.tsrc=rss",
-      "source": "Yahoo Finance:ECL",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce Inc. (NYSE:CRM) Sees Large Drop in Short Interest - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. (NYSE:CRM) Sees Large Drop in Short Interest - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOTjRpRThuSkc0bmJNVWxZOHhhLTZFaTl6aXNZWkdRMV9RUEtsamhDMjdYTzVaWHpudng5alktZEYwS0s5YzY0TVhhakt4bU9ycE1PdmFXUkkxRU5aXzI3dm0xVHFMN19QNGZ5NHpfanpXR1RPcnRIdHZ1STd1MVVVSkE2WE5Wb2p1OEJENTVHSm4xa3FtWjNjRmg1Y0NLYmR1Wm5nSlJZOTNaL…\n來源：Google News:CRM\n其他：Salesforce (NYSE:CRM) Trading Up 2.8% - What's Next? - Mark…",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTjRpRThuSkc0bmJNVWxZOHhhLTZFaTl6aXNZWkdRMV9RUEtsamhDMjdYTzVaWHpudng5alktZEYwS0s5YzY0TVhhakt4bU9ycE1PdmFXUkkxRU5aXzI3dm0xVHFMN19QNGZ5NHpfanpXR1RPcnRIdHZ1STd1MVVVSkE2WE5Wb2p1OEJENTVHSm4xa3FtWjNjRmg1Y0NLYmR1Wm5nSlJZOTNaLVdZNU9F?oc=5",
-      "source": "Google News:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 4,
       "symbol": "MDT",
       "short": "MDT — Medtronic plc (MDT) is Closing in on Dividend King Status",
       "detail": "MDT\n重點：新聞\n標題：Medtronic plc (MDT) is Closing in on Dividend King Status\n摘要：Medtronic plc (NYSE:MDT) is now just one dividend increase away from becoming a Dividend King. It has raised its payout for 49 straight years, putting the company right at the doorstep of the 50-year milestone. Medtronic raised its quarterly dividend to $0.72 per share in June 2…\n來源：Yahoo Finance:MDT\n其他：Medtronic plc ($MDT) CEO 2026 Pay Revealed - Quiver Quantit…",
@@ -41,25 +23,7 @@
       "kind": "news"
     },
     {
-      "n": 5,
-      "symbol": "ANET",
-      "short": "ANET — Arista Networks (NYSE:ANET) Stock Price Down 4.6% - What's Next? - MarketBeat",
-      "detail": "ANET\n重點：新聞\n標題：Arista Networks (NYSE:ANET) Stock Price Down 4.6% - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOUURaYlhLSEZTS2h5ZjRua3J0d2R0T050bFRtQUYyYjhnVDdvYTZKYjd0aWgwZ1NFMEYxX1g5X1duTmdjRjV4TlR4WVNzNDQ5bm8wYXYydkswSWFNS0RqWTVxWWtCWnJSNElyMHQyR0QyTC1FclR1NWVuMWx4MnZUTjloMWdPSk5EX0lwNFdyMmNGdUx3dHV2QVdTbHRDWXpwLVV0dHVSQmJzW…\n來源：Google News:ANET",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUURaYlhLSEZTS2h5ZjRua3J0d2R0T050bFRtQUYyYjhnVDdvYTZKYjd0aWgwZ1NFMEYxX1g5X1duTmdjRjV4TlR4WVNzNDQ5bm8wYXYydkswSWFNS0RqWTVxWWtCWnJSNElyMHQyR0QyTC1FclR1NWVuMWx4MnZUTjloMWdPSk5EX0lwNFdyMmNGdUx3dHV2QVdTbHRDWXpwLVV0dHVSQmJzWlMyTWc?oc=5",
-      "source": "Google News:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "BHP",
-      "short": "BHP — 業績／指引：The Bull Case For BHP Group (ASX:BHP) Could Change Following Copper Overtaking Iron Ore…",
-      "detail": "BHP\n重點：業績／指引\n標題：The Bull Case For BHP Group (ASX:BHP) Could Change Following Copper Overtaking Iron Ore In Earnings\n摘要：BHP Group Limited recently reported full-year 2026 results, with sales rising to US$58,760 million and net income reaching US$9,833 million, and declared an ordinary dividend of US$0.99 per security for the six months to June 30, 2026. For the first time, copper overtook iron or…\n來源：Yahoo Finance:BHP",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bull-case-bhp-group-asx-181539432.html?.tsrc=rss",
-      "source": "Yahoo Finance:BHP",
-      "kind": "news"
-    },
-    {
-      "n": 7,
+      "n": 3,
       "symbol": "BKNG",
       "short": "BKNG — Booking (NASDAQ:BKNG) Director Sells 375 Shares of Stock - MarketBeat",
       "detail": "BKNG\n重點：新聞\n標題：Booking (NASDAQ:BKNG) Director Sells 375 Shares of Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0ZXUXJOV3RrOTRvWDEydE1id08wNmZfTGNQZ00tbWN2WWczU2kteU5pTjc0UjZPZ2l5dGk3bldVQ3pESmtmQTN2YkJzaXByV21oRllPZ3JGOEd6M0syWXdGZkhVMldmLVBtZ295M1dVejJtQkhhd0RIT2U1cHFId3JqVXFCc2RhdmhHZlNEbF9rMmZWdEJOOEIxWWJHWVRiOV9leGZpQmQ3M…\n來源：Google News:BKNG",
@@ -68,7 +32,7 @@
       "kind": "news"
     },
     {
-      "n": 8,
+      "n": 4,
       "symbol": "BNY",
       "short": "BNY — Bank of New York Mellon Sees Unusually Large Options Volume (NYSE:BNY) - MarketBeat",
       "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon Sees Unusually Large Options Volume (NYSE:BNY) - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNeWp0d0pKMU1OYVFSay1tUllrcW10c2JoN0NUbWMwWHAxcnRNbzdzQkxXTmVGalRBWS1CaFptSDJWUjlRejJzUFFmRDFnUEdFcFh2TExDalRubWo3NXBJUTAyZ2NHMmtxTDlWMVdZLWF1UVE3bnAxS3NsSEZMcndWZ1B0MXZiOVgySTJ3a3UwbWd0NzljZ3NXMDhfbUk0WHBFOFhPemcxRGNvQ…\n來源：Google News:BNY",
@@ -77,7 +41,7 @@
       "kind": "news"
     },
     {
-      "n": 9,
+      "n": 5,
       "symbol": "COF",
       "short": "COF — Capital One Financial (NYSE:COF) Insider Celia Karam Sells 1,888 Shares of Stock - Mark…",
       "detail": "COF\n重點：新聞\n標題：Capital One Financial (NYSE:COF) Insider Celia Karam Sells 1,888 Shares of Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNbVl4eDgyYV9IaUtsb1ZPdGphSUZFdUdpNldFM0FaOWFMMWRSVlBuOW9DSDQzYlRmb2ZYbm9fcGNsR3BycUlKUWRTdEFMUnMzTjBDdVJIUUxTRXc4d283bXRDRDc0ZTFMQk1TQWdFdlI2X0xlbjhDaEJLMWNkdkxkbF9jZzFWbkdxaUJuSXRzMnN4b1A4ZU1LNG5QbW51RElNcHNzSlVzYjdFS…\n來源：Google News:COF",
@@ -86,7 +50,7 @@
       "kind": "news"
     },
     {
-      "n": 10,
+      "n": 6,
       "symbol": "GH",
       "short": "GH — Guardant Health (NASDAQ:GH) Director Musa Tariq Sells 116 Shares of Stock - MarketBeat",
       "detail": "GH\n重點：新聞\n標題：Guardant Health (NASDAQ:GH) Director Musa Tariq Sells 116 Shares of Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNFhoNE9aRncwVnNmOXlkQUpxc0dtZ1VadzdLQ25aTU9OblQydWZnbEthR3BGVU5POXFBb0x3ZWd5ZXd2U2luZllnZGg5QVduRk5ZT2haUU1qc0J1aGZOUEZmMnQwLXZzU3hNTENDSE5QNlloRE1va3dYaE1iWWZLd28xMjNZQWJIU1gwdVNDZFpMbktBcmpCMlp3QWNNQk0tVUdWWnprWnFxe…\n來源：Google News:GH",
@@ -95,21 +59,21 @@
       "kind": "news"
     },
     {
-      "n": 11,
-      "symbol": "HP",
-      "short": "HP — Helmerich & Payne (NYSE:HP) SVP Sells $493,566.23 in Stock - MarketBeat",
-      "detail": "HP\n重點：新聞\n標題：Helmerich & Payne (NYSE:HP) SVP Sells $493,566.23 in Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPdFhrR0o0RVRER2dEd1hnRHpFR2czR2Fvd3Vtd01fRzl1dEt4NE1DN0hhaWJrdTVGT0tLSTRHSHI0QWNDRFhUT3lMOGVfRy13MzBQcHRKUVBHNV9TZWVOWmx1QlFVTXU3SjNkUTFuMHNXTmdhcWtvS0lCbE5wTU1MSDdpTk44SE84WW9IUVdsZjdWZjI2T3I3X0dweFEzVW9tUHZBWUk0bw?oc…\n來源：Google News:HP",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdFhrR0o0RVRER2dEd1hnRHpFR2czR2Fvd3Vtd01fRzl1dEt4NE1DN0hhaWJrdTVGT0tLSTRHSHI0QWNDRFhUT3lMOGVfRy13MzBQcHRKUVBHNV9TZWVOWmx1QlFVTXU3SjNkUTFuMHNXTmdhcWtvS0lCbE5wTU1MSDdpTk44SE84WW9IUVdsZjdWZjI2T3I3X0dweFEzVW9tUHZBWUk0bw?oc=5",
-      "source": "Google News:HP",
-      "kind": "news"
-    },
-    {
-      "n": 12,
+      "n": 7,
       "symbol": "LULU",
       "short": "LULU — 業績／指引：lululemon athletica (LULU) Is Down 5.3% After Softer Outlook And Legal Strains Has The …",
       "detail": "LULU\n重點：業績／指引\n標題：lululemon athletica (LULU) Is Down 5.3% After Softer Outlook And Legal Strains Has The Bull Case Changed?\n摘要：Lululemon athletica recently reported weaker full-year earnings guidance, rising internal operational challenges, and legal pressures, even as it expanded its Like New resale program into Canada and continued to beat revenue expectations. These developments highlight a tension b…\n來源：Yahoo Finance:LULU",
       "url": "https://finance.yahoo.com/markets/stocks/articles/lululemon-athletica-lulu-down-5-221240108.html?.tsrc=rss",
       "source": "Yahoo Finance:LULU",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "ROST",
+      "short": "ROST — 業績／指引：What To Expect From Ross Stores’s (ROST) Q2 Earnings",
+      "detail": "ROST\n重點：業績／指引\n標題：What To Expect From Ross Stores’s (ROST) Q2 Earnings\n摘要：Off-price retail company Ross Stores (NASDAQ:ROST) will be reporting results this Thursday afternoon. Here’s what you need to know.\n來源：Yahoo Finance:ROST",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-ross-stores-rost-q2-034056122.html?.tsrc=rss",
+      "source": "Yahoo Finance:ROST",
       "kind": "news"
     }
   ]
