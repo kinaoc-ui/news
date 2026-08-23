@@ -1,20 +1,11 @@
 {
-  "title": "FS新聞 08-23 02:07",
-  "list_name": "FirstScreen_2026-08-23_020711_comma.txt",
-  "created_at": "2026-08-23T02:07:20.400843+00:00",
+  "title": "FS新聞 08-23 05:31",
+  "list_name": "FirstScreen_2026-08-23_053107_comma.txt",
+  "created_at": "2026-08-23T05:31:16.049589+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "BKNG",
-      "short": "BKNG — Airbnb (ABNB) Hits a 4-Year High While Booking Holdings (BKNG) Trims its Outlook",
-      "detail": "BKNG\n重點：新聞\n標題：Airbnb (ABNB) Hits a 4-Year High While Booking Holdings (BKNG) Trims its Outlook\n來源：Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-abnb-hits-4-high-194009767.html",
-      "source": "Yahoo Finance",
-      "kind": "news"
-    },
-    {
-      "n": 2,
       "symbol": "LULU",
       "short": "LULU — 業績／指引：Lululemon (NASDAQ: LULU) Stock Price Sits 49% Below Its Peak As Investors Brace For Sep…",
       "detail": "LULU\n重點：業績／指引\n標題：Lululemon (NASDAQ: LULU) Stock Price Sits 49% Below Its Peak As Investors Brace For September Earnings Test - foreignpolicyjournal.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQ0c5SUZvSDE4QnNoQkZWR2pVMzR2Nm5ZdUl0NzBpZ1Ztd2s5bnNsZlJreUF1Y2s4RUUwUFVtVF9JRUpQNlBNY2lPNkp6SlJMQUpBSlZTcFdMdDJQaUJMcGxfN3RZVWxIZl9VNk1hcmw2ajFETkdPLV9CQVJMb3dVT25EelJveTc1by1udkdEZmVKTWZCamxNcU43VVpfQjBFYVVKTVNLVW1hc…\n來源：Google News:LULU",
@@ -23,12 +14,30 @@
       "kind": "news"
     },
     {
-      "n": 3,
+      "n": 2,
       "symbol": "PYPL",
       "short": "PYPL — 併購／交易：Here’s What You Should Buy Over PayPal Holdings, Inc. (NASDAQ:PYPL) According To Jim Cr…",
       "detail": "PYPL\n重點：併購／交易\n標題：Here’s What You Should Buy Over PayPal Holdings, Inc. (NASDAQ:PYPL) According To Jim Cramer\n摘要：Financial technology firms’ SoFi Technologies, Inc. (NASDAQ:SOFI) and PayPal Holdings, Inc. (NASDAQ:PYPL)’s shares have diverged in performance in 2026. SOFI is down by 31% year-to-date while PYPL is up by 5.9%. PayPal Holdings, Inc. (NASDAQ:PYPL)’s stock has gained primarily on…\n來源：Yahoo Finance:PYPL",
       "url": "https://finance.yahoo.com/markets/stocks/articles/buy-over-paypal-holdings-inc-235243531.html?.tsrc=rss",
       "source": "Yahoo Finance:PYPL",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "TTE",
+      "short": "TTE — TotalEnergies (NYSE:TTE) Stock Rating Lowered by Wall Street Zen - MarketBeat",
+      "detail": "TTE\n重點：新聞\n標題：TotalEnergies (NYSE:TTE) Stock Rating Lowered by Wall Street Zen - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNdWJUS3Z1R3h5al9xaFk4OFpGUk5NV2Y0SlRnMHVQeG8yaXlZM0JLd1lKdTktcjRFdnByZFBWZ0hfLWZodVFfaGNOanFqSDFYRWk2VWZpM1NHZ3ZFMjFsWWVrVUFkRFFjZE02TGluZ29ISjdQSXhzclZFVEZ4NTJyM0F1T1RWX1NoQ0ZTSW1HdDROa3AwbXhiMXVoV0M5ejJNdXdnN2YyNjNnX…\n來源：Google News:TTE",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdWJUS3Z1R3h5al9xaFk4OFpGUk5NV2Y0SlRnMHVQeG8yaXlZM0JLd1lKdTktcjRFdnByZFBWZ0hfLWZodVFfaGNOanFqSDFYRWk2VWZpM1NHZ3ZFMjFsWWVrVUFkRFFjZE02TGluZ29ISjdQSXhzclZFVEZ4NTJyM0F1T1RWX1NoQ0ZTSW1HdDROa3AwbXhiMXVoV0M5ejJNdXdnN2YyNjNnX3llRllnelBWdmdMUQ?oc=5",
+      "source": "Google News:TTE",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "URBN",
+      "short": "URBN — Urban Outfitters (NASDAQ:URBN) Upgraded by Wall Street Zen to Buy Rating - MarketBeat",
+      "detail": "URBN\n重點：新聞\n標題：Urban Outfitters (NASDAQ:URBN) Upgraded by Wall Street Zen to Buy Rating - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbk43cEt6RXczcDFBU29LS3lSSFlWLWJEeFRxcE56dHl0WExZb2YtWDM1ZWI2S25vSkU0bXdxNlVUVVd6V0lfdW13UmU1Ni1mQ3Q4SVd3OHRER3RpdUU2d3lrQjVCZ19YTkp1Rnd0dzgzTnAtbVROdGxFbGxTemRjaV84ZTlSNm9BNjl1MW94Zjc2RlBOa1pZSnJScVRpU1hrN2dNcEhoRVV1V…\n來源：Google News:URBN",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbk43cEt6RXczcDFBU29LS3lSSFlWLWJEeFRxcE56dHl0WExZb2YtWDM1ZWI2S25vSkU0bXdxNlVUVVd6V0lfdW13UmU1Ni1mQ3Q4SVd3OHRER3RpdUU2d3lrQjVCZ19YTkp1Rnd0dzgzTnAtbVROdGxFbGxTemRjaV84ZTlSNm9BNjl1MW94Zjc2RlBOa1pZSnJScVRpU1hrN2dNcEhoRVV1VmFTOWllQzNPXzFuMC1lMDg3cVZRNVg?oc=5",
+      "source": "Google News:URBN",
       "kind": "news"
     }
   ]
