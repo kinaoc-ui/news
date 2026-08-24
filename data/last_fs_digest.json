@@ -1,25 +1,115 @@
 {
-  "title": "FS新聞 08-24 05:36",
-  "list_name": "FirstScreen_2026-08-24_053603_comma.txt",
-  "created_at": "2026-08-24T05:36:12.403737+00:00",
+  "title": "FS新聞 08-24 10:41",
+  "list_name": "FirstScreen_2026-08-24_104119_comma.txt",
+  "created_at": "2026-08-24T10:41:29.207426+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
       "symbol": "INTU",
-      "short": "INTU — 業績／指引：Intuit (INTU) Reports Earnings Tomorrow: What To Expect",
-      "detail": "INTU\n重點：業績／指引\n標題：Intuit (INTU) Reports Earnings Tomorrow: What To Expect\n摘要：Financial technology platform Intuit (NASDAQ:INTU) will be announcing earnings results this Tuesday after the bell. Here’s what investors should know.\n來源：Yahoo Finance:INTU",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intuit-intu-reports-earnings-tomorrow-033259346.html?.tsrc=rss",
-      "source": "Yahoo Finance:INTU",
+      "short": "INTU — Saranac Partners Ltd Acquires New Holdings in Intuit Inc. $INTU - MarketBeat",
+      "detail": "INTU\n重點：新聞\n標題：Saranac Partners Ltd Acquires New Holdings in Intuit Inc. $INTU - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmptSHdfdHVUZFdEdzlCa3FnOTR6bDJXYXU3eFdfRXo3dUJCdWUxbDNjVTloMmJxeDZSbUJaZkZvOGQtLVJUQnpaNEFDWDJvcmlmNXYzZ3NGbFNuNm9yVnF0YnVoQ0ZwLTZjU09ER2pLVkd0eFN4MHdHMjFWampzdXJPUzdINXBDeTVfZkJJV1k5TkJQdmxwaWlQdTlsV1VnTVBaOEY5bDQ4Z…\n來源：Google News:INTU\n其他：INTU Stock In Focus: Jefferies Sees Recovery Opportunity De…; INTU Stock In Focus: Jefferies Sees Recovery Opportunity De…; INTU Stock In Focus: Jefferies Sees Recovery Opportunity De…",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmptSHdfdHVUZFdEdzlCa3FnOTR6bDJXYXU3eFdfRXo3dUJCdWUxbDNjVTloMmJxeDZSbUJaZkZvOGQtLVJUQnpaNEFDWDJvcmlmNXYzZ3NGbFNuNm9yVnF0YnVoQ0ZwLTZjU09ER2pLVkd0eFN4MHdHMjFWampzdXJPUzdINXBDeTVfZkJJV1k5TkJQdmxwaWlQdTlsV1VnTVBaOEY5bDQ4ZGFhT0FTcF94RGJYR2U5Zmc5WXFuTQ?oc=5",
+      "source": "Google News:INTU",
       "kind": "news"
     },
     {
       "n": 2,
+      "symbol": "HCA",
+      "short": "HCA — 13,092 Shares in HCA Healthcare, Inc. $HCA Bought by Te Ahumairangi Investment Manageme…",
+      "detail": "HCA\n重點：新聞\n標題：13,092 Shares in HCA Healthcare, Inc. $HCA Bought by Te Ahumairangi Investment Management Ltd - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVmxTUlRZMkFVbXJUWmhJeE9waUE0d18xN1BVeUxMa1ByLWlfRmZRQ3gwSDNiUHZDQzJyMmFBV094N0RCVEtHSFJrX2I0MEV2eXVXWTBScWxEWG4tZWVqNV81U25hY1BJTEl3VXBDcG90bGpoamdXcEZQUGpfOGIxaHA5YkdpQTdiajdZN01ieVVrbzlKUTJUZ0tMNlFWSVlRUmt0SldoU19aU…\n來源：Google News:HCA\n其他：Quantbot Technologies LP Purchases New Position in HCA Heal…; Callan Family Office LLC Invests $1.76 Million in HCA Healt…; Bank of Nova Scotia Invests $18.47 Million in HCA Healthcar…",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVmxTUlRZMkFVbXJUWmhJeE9waUE0d18xN1BVeUxMa1ByLWlfRmZRQ3gwSDNiUHZDQzJyMmFBV094N0RCVEtHSFJrX2I0MEV2eXVXWTBScWxEWG4tZWVqNV81U25hY1BJTEl3VXBDcG90bGpoamdXcEZQUGpfOGIxaHA5YkdpQTdiajdZN01ieVVrbzlKUTJUZ0tMNlFWSVlRUmt0SldoU19aUFRvcFI1MXFMMDF3ZjY0cnVTdDY3b3dEQjZRVEZJQ1V2QUducWp0T1pIdk1IMnhKVEc2SHRiOTloelI?oc=5",
+      "source": "Google News:HCA",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "CRM",
+      "short": "CRM — 241,415 Shares in Salesforce Inc. $CRM Purchased by Cibc World Market Inc. - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：241,415 Shares in Salesforce Inc. $CRM Purchased by Cibc World Market Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2E4aThzb0ExQzcybHJzcEtvb0tMWW5GZ3d3ZW9lWVN1akNKWTlDblBmSFlkd1NlUERBMl9teTZvc0FHclhFZXpZMmY4LVJUWlhFamM0ejEwSWpxX2hwbWdRSDFoRFM2U2ZRbWRkV2xLRWN6TXh5aUo0T0RORzIzaWdhSlk0V2R3UjZqSlJfYk95OGZiMVRfV2dwZFFVb3JjTUpYMHVNb3RCM…\n來源：Google News:CRM\n其他：63,062 Shares in Salesforce Inc. $CRM Purchased by Commerce…",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2E4aThzb0ExQzcybHJzcEtvb0tMWW5GZ3d3ZW9lWVN1akNKWTlDblBmSFlkd1NlUERBMl9teTZvc0FHclhFZXpZMmY4LVJUWlhFamM0ejEwSWpxX2hwbWdRSDFoRFM2U2ZRbWRkV2xLRWN6TXh5aUo0T0RORzIzaWdhSlk0V2R3UjZqSlJfYk95OGZiMVRfV2dwZFFVb3JjTUpYMHVNb3RCMUZuTkJ5YWNreTA4UUt3T2txbkVkRHRHUlJYT2Y4UGxqRQ?oc=5",
+      "source": "Google News:CRM",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "LULU",
+      "short": "LULU — 355,981 Shares in lululemon athletica inc. $LULU Bought by Cibc World Market Inc. - Mar…",
+      "detail": "LULU\n重點：新聞\n標題：355,981 Shares in lululemon athletica inc. $LULU Bought by Cibc World Market Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbFVDc3dTUjVHQVh2TE8tZHlvMzhFRkNmTWczSGhJZkNQMUNsd3BRUm1WeU1uTDNka2psM0JjcGFsLXZ0YW03U3FvdjluRk0xczNBMUpTRW1kbWlzSUd6TDdxTkJfS2dXbEozRzF6TW1GU3ZyY2Z0aTJqUXpraExKQnRCQlBQWEZIYWEycHFOVGI5Vy14STVOam1GTGptRzlGUjYweDlLTk9lQ…\n來源：Google News:LULU\n其他：lululemon athletica inc. (NASDAQ:LULU) Given Consensus Rati…",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbFVDc3dTUjVHQVh2TE8tZHlvMzhFRkNmTWczSGhJZkNQMUNsd3BRUm1WeU1uTDNka2psM0JjcGFsLXZ0YW03U3FvdjluRk0xczNBMUpTRW1kbWlzSUd6TDdxTkJfS2dXbEozRzF6TW1GU3ZyY2Z0aTJqUXpraExKQnRCQlBQWEZIYWEycHFOVGI5Vy14STVOam1GTGptRzlGUjYweDlLTk9lQlBDbURvUUI5TGV0SWFiQUlrTzh6RFN4Zi1HUGt1bDR3aVc3NTFKOFFBbw?oc=5",
+      "source": "Google News:LULU",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "MDT",
+      "short": "MDT — Medtronic (NYSE: MDT): Why Is A newly approved quarterly cash distribution in Focus Now…",
+      "detail": "MDT\n重點：新聞\n標題：Medtronic (NYSE: MDT): Why Is A newly approved quarterly cash distribution in Focus Now? - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQajNUODdvVG1PV1AtZ1JoQ3UtTEJ0Mnd3MTh6dkRWQ2doeWdnb2lSdnJzMVVmOTZtRmJjcm5PNnRuR2JHQllxblE0cHdBU0d3dHlaWlE3bUJjRHZXcTN6alVNdHpBeVNaWDhqRDBoVFljV3U1SG1mNGc3WkJvWGRqZHRROENYZklFTUxOVzBUdVFEcVhhREJMUWhHV1I0M0RsSUNRLTFZSEJRU…\n來源：Google News:MDT\n其他：Ally Financial Inc. Acquires New Shares in Medtronic PLC $M…",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajNUODdvVG1PV1AtZ1JoQ3UtTEJ0Mnd3MTh6dkRWQ2doeWdnb2lSdnJzMVVmOTZtRmJjcm5PNnRuR2JHQllxblE0cHdBU0d3dHlaWlE3bUJjRHZXcTN6alVNdHpBeVNaWDhqRDBoVFljV3U1SG1mNGc3WkJvWGRqZHRROENYZklFTUxOVzBUdVFEcVhhREJMUWhHV1I0M0RsSUNRLTFZSEJRUzdhOGRVY2kwY0hjNnNheFZRZVhncE8tVnBVc1E?oc=5",
+      "source": "Google News:MDT",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "PYPL",
+      "short": "PYPL — OMERS ADMINISTRATION Corp Takes Position in PayPal Holdings, Inc. $PYPL - MarketBeat",
+      "detail": "PYPL\n重點：新聞\n標題：OMERS ADMINISTRATION Corp Takes Position in PayPal Holdings, Inc. $PYPL - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYnZ5SklKX3lRMkhPNklLMDFDR1dZeGJUbEpTUFVoOHpmQ05YSmZucFd1TDhQSmVtQmNKOGl3dlFDNXFldjlqcU8wMHJpMWxuUnFTUVdoMDc4ZVNpR2tTOG5mR2V1cWZqZjVNQm9mSUZpRXB0a3F6ZThRVzR4aUREdDhHdlJNQkZ3WGl5UUNuTkdxMGJvRGNjUnRwbmw3Mm5yQl85T1hHS3Bqd…\n來源：Google News:PYPL\n其他：PayPal Holdings, Inc. (NASDAQ:PYPL) Receives Average Recomm…",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYnZ5SklKX3lRMkhPNklLMDFDR1dZeGJUbEpTUFVoOHpmQ05YSmZucFd1TDhQSmVtQmNKOGl3dlFDNXFldjlqcU8wMHJpMWxuUnFTUVdoMDc4ZVNpR2tTOG5mR2V1cWZqZjVNQm9mSUZpRXB0a3F6ZThRVzR4aUREdDhHdlJNQkZ3WGl5UUNuTkdxMGJvRGNjUnRwbmw3Mm5yQl85T1hHS3BqdTdEV3p2TkJfY0FQOWNCcjJlUjZnODFsaUcwdnMxOQ?oc=5",
+      "source": "Google News:PYPL",
+      "kind": "news"
+    },
+    {
+      "n": 7,
       "symbol": "TGT",
-      "short": "TGT — 業績／指引：Target (TGT) Stock Still Looks Like A Bargain After Rally",
-      "detail": "TGT\n重點：業績／指引\n標題：Target (TGT) Stock Still Looks Like A Bargain After Rally\n摘要：Target stock has delivered a strong 77.2% return over the past year, and current valuation checks suggest the shares may still be pricing in less than the intrinsic value indicated by discounted cash flow and earnings based approaches. The 77.2% 1 year return signals investors h…\n來源：Yahoo Finance:TGT",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/target-tgt-stock-still-looks-050716506.html?.tsrc=rss",
-      "source": "Yahoo Finance:TGT",
+      "short": "TGT — Target Corporation $TGT Shares Sold by Allstate Corp - MarketBeat",
+      "detail": "TGT\n重點：新聞\n標題：Target Corporation $TGT Shares Sold by Allstate Corp - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNWxPU3VyZ2pSUjVKeWF2aXpzdWEyNVBYc1FTWkppbEJqdDFidmRCa2J2aE1qRmJIMnJqUEpLVXNXV1J2bHY4WV81aDhBT1lYaU5rc1lUQlM0QzVBVWJXSXpwYjZBeFV2V3ZrMU93V212a21qTDdKT0FiR3hQd2pXSkRpSmVQdnBxNjFPRzVTLXBiQVNINGZuWllENmF2SEZzVFBrUS00My1Kd…\n來源：Google News:TGT\n其他：Target (TGT) Stock Still Looks Like A Bargain After Rally",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNWxPU3VyZ2pSUjVKeWF2aXpzdWEyNVBYc1FTWkppbEJqdDFidmRCa2J2aE1qRmJIMnJqUEpLVXNXV1J2bHY4WV81aDhBT1lYaU5rc1lUQlM0QzVBVWJXSXpwYjZBeFV2V3ZrMU93V212a21qTDdKT0FiR3hQd2pXSkRpSmVQdnBxNjFPRzVTLXBiQVNINGZuWllENmF2SEZzVFBrUS00My1KdHpJQ3J3NlB3?oc=5",
+      "source": "Google News:TGT",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "ADT",
+      "short": "ADT — ADT Inc. $ADT Shares Sold by Bank of America Corp DE - MarketBeat",
+      "detail": "ADT\n重點：新聞\n標題：ADT Inc. $ADT Shares Sold by Bank of America Corp DE - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPU01Hdzk5Z3RpY3NSbUxhOTcta2doNzh0YVFaandrcFFsV3VWMzI2bHhXdXlpM29zUE5KcFJkU1dSeGNrYi1pSFg5bXNYOEFlRGYwZXV2aUdGNE5McU54VVBqOUZncDNkNElHRjVIcHVfcmZuTkVmM01HSzJUWnFGV25YamdmWFJYaUdtYXkxT1g2MS1lUzk4MF9WWld6dFAxVFFXZVFLTU1Qb…\n來源：Google News:ADT",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU01Hdzk5Z3RpY3NSbUxhOTcta2doNzh0YVFaandrcFFsV3VWMzI2bHhXdXlpM29zUE5KcFJkU1dSeGNrYi1pSFg5bXNYOEFlRGYwZXV2aUdGNE5McU54VVBqOUZncDNkNElHRjVIcHVfcmZuTkVmM01HSzJUWnFGV25YamdmWFJYaUdtYXkxT1g2MS1lUzk4MF9WWld6dFAxVFFXZVFLTU1QbXRJajZOdg?oc=5",
+      "source": "Google News:ADT",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "BNY",
+      "short": "BNY — 120,199 Shares in Bank of New York Mellon Corporation $BNY Bought by Bank of Nova Scoti…",
+      "detail": "BNY\n重點：新聞\n標題：120,199 Shares in Bank of New York Mellon Corporation $BNY Bought by Bank of Nova Scotia - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQlJvWEtzZ01nNDJveXFjZFpUd2ZoNTV0TmN2ajVsZ09QSHgtcEJwX0xJcmRLU29nN21RS0oyZ2gzWkptQXNLQlpmVEZYY3Z5emxySUtxTDBiQU16aWJKRk9ORXB1RXpJZFMwaThsYTk5QmowdHBESm9OOE1jMXQ1dWxfRHd0OFMzOE1fUnVRSi13aExJeUVUM0xIQk5FMzI0MUxhZGROMWdaO…\n來源：Google News:BNY",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQlJvWEtzZ01nNDJveXFjZFpUd2ZoNTV0TmN2ajVsZ09QSHgtcEJwX0xJcmRLU29nN21RS0oyZ2gzWkptQXNLQlpmVEZYY3Z5emxySUtxTDBiQU16aWJKRk9ORXB1RXpJZFMwaThsYTk5QmowdHBESm9OOE1jMXQ1dWxfRHd0OFMzOE1fUnVRSi13aExJeUVUM0xIQk5FMzI0MUxhZGROMWdaOFBJZlpsT3pZU3dLcjB4SHBPZDZ0WGc2clNQUVZxN0l4VExQRlF3MUxqYy1kbzVGVU5BS1hQbg?oc=5",
+      "source": "Google News:BNY",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "GPC",
+      "short": "GPC — Genuine Parts (GPC) Declares Its Quarterly Dividend, Is The Stock Still Undervalued? - …",
+      "detail": "GPC\n重點：新聞\n標題：Genuine Parts (GPC) Declares Its Quarterly Dividend, Is The Stock Still Undervalued? - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOVm1Jd2NHd2RENzU1NlNHSXNMYzRpYkN5S1ljMEN3Nmp5b1c1MTdPTEJ1UEhpN2hURnBBR2tOMnFoUzhfalJqd2xHeWZZbWE0OVBrTkt2eFNXVEw1MlI3ZjNKdXM5ck5ReUhDVVJMOEhjWG9wUmN0X1JlYWxRTXZ6OEJJeUJuOGZzRHRiRWJ6bUdMeEN1MXVSblhFRzdhRXdITGVRYlJKaG03M…\n來源：Google News:GPC",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVm1Jd2NHd2RENzU1NlNHSXNMYzRpYkN5S1ljMEN3Nmp5b1c1MTdPTEJ1UEhpN2hURnBBR2tOMnFoUzhfalJqd2xHeWZZbWE0OVBrTkt2eFNXVEw1MlI3ZjNKdXM5ck5ReUhDVVJMOEhjWG9wUmN0X1JlYWxRTXZ6OEJJeUJuOGZzRHRiRWJ6bUdMeEN1MXVSblhFRzdhRXdITGVRYlJKaG03MEY4b3d3RHZLazBxMmlNUlRPZFFoNFhuVjlWclHSAcsBQVVfeXFMTmhkdFpxYVJNR0hHcnlxMERVckN0OFgtaG9KTTFNc2hYLVFkZXJBSnRsRVYzYjhYX0FyYnpVMWVPY2pMWHdrblB0bHFnc3FrMzJ6TWFZNGxYb2hHRkJWeVhjTWRsR0FENlR5VkJQUmsxU25FU0lLb3h0azFMLXdYdW5vTjQ5d2J1emxBbEZCSThnNGlEM2VoTW1sR3U3bG03bG1ZY205bFh5dmJReTl3Y0x5S0lMV19Qajd3Qm5JWkhuQ2ptZUttQ2VxM1k?oc=5",
+      "source": "Google News:GPC",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "MRK",
+      "short": "MRK — Merck & Co., Inc. $MRK Shares Sold by ANTIPODES PARTNERS Ltd - MarketBeat",
+      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Shares Sold by ANTIPODES PARTNERS Ltd - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQUHdHWmw4aWoybWFidU1jUkl2NGlad2RZdG12eHBjUWliVDRzX240QnM2eGVFSjYyQm5ZcEIyVTNqUzA1ejRMQXZGVndVSG1TemJzUy1Jc1Z3bTJ5aHh0Sm1UMlIzUFFvOXFKTnlxaVZSbDI5QzFFRXVlaW1Yb0R3TGp0YzlFbDhzS0xTaHN3MjV0dEdpbU43a1Blb05USEpCWDhYSWRrVWxlc…\n來源：Google News:MRK",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUHdHWmw4aWoybWFidU1jUkl2NGlad2RZdG12eHBjUWliVDRzX240QnM2eGVFSjYyQm5ZcEIyVTNqUzA1ejRMQXZGVndVSG1TemJzUy1Jc1Z3bTJ5aHh0Sm1UMlIzUFFvOXFKTnlxaVZSbDI5QzFFRXVlaW1Yb0R3TGp0YzlFbDhzS0xTaHN3MjV0dEdpbU43a1Blb05USEpCWDhYSWRrVWxlcm5hbkxSYklHSXZiQQ?oc=5",
+      "source": "Google News:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "OXY",
+      "short": "OXY — EP Wealth Advisors LLC Acquires New Shares in Occidental Petroleum Corporation $OXY - M…",
+      "detail": "OXY\n重點：新聞\n標題：EP Wealth Advisors LLC Acquires New Shares in Occidental Petroleum Corporation $OXY - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOG9pSF9aLUxfekNaOXZLVWppTWgtR3lYc3FqaXE2UzFCbXVWc3V1ZVJab1ljVXRVQUlxMjRrVlk3OWlEUFRiTHFCZVhlR1ROR2dkUUI4S3kwcmlmd1IwaE1qYTducVpaMkJaUHlfZ09sem5zTjRkdm1OZEJCcXpRNEh3SEk0QzVUWjQ4aGdYVUxHbGZkOHJJOXJkNmJ2Q0h3MHdRUkhjc2laM…\n來源：Google News:OXY",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOG9pSF9aLUxfekNaOXZLVWppTWgtR3lYc3FqaXE2UzFCbXVWc3V1ZVJab1ljVXRVQUlxMjRrVlk3OWlEUFRiTHFCZVhlR1ROR2dkUUI4S3kwcmlmd1IwaE1qYTducVpaMkJaUHlfZ09sem5zTjRkdm1OZEJCcXpRNEh3SEk0QzVUWjQ4aGdYVUxHbGZkOHJJOXJkNmJ2Q0h3MHdRUkhjc2laM0dySVpQYzFqNmljTk5GOV9KNzNBWGh0UzQ0MlhqSWdQSGphWFhwbHIyY0JMOHIyMFE?oc=5",
+      "source": "Google News:OXY",
       "kind": "news"
     }
   ]
