@@ -1,34 +1,25 @@
 {
-  "title": "FS新聞 08-24 02:04",
-  "list_name": "FirstScreen_2026-08-24_020341_comma.txt",
-  "created_at": "2026-08-24T02:04:00.543453+00:00",
+  "title": "FS新聞 08-24 05:36",
+  "list_name": "FirstScreen_2026-08-24_053603_comma.txt",
+  "created_at": "2026-08-24T05:36:12.403737+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "MDT",
-      "short": "MDT — 業績／指引：Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?",
-      "detail": "MDT\n重點：業績／指引\n標題：Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?\n摘要：Medtronic plc (NYSE:MDT) and Tenet Healthcare Corporation (NYSE:THC) offer investors two very different healthcare growth stories. Medtronic’s (NYSE:MDT) thesis rests on whether a new generation of medical devices can produce a durable turnaround across its enormous portfolio. T…\n來源：Yahoo Finance:THC",
-      "url": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-tenet-healthcare-healthcare-194303713.html?.tsrc=rss",
-      "source": "Yahoo Finance:THC",
+      "symbol": "INTU",
+      "short": "INTU — 業績／指引：Intuit (INTU) Reports Earnings Tomorrow: What To Expect",
+      "detail": "INTU\n重點：業績／指引\n標題：Intuit (INTU) Reports Earnings Tomorrow: What To Expect\n摘要：Financial technology platform Intuit (NASDAQ:INTU) will be announcing earnings results this Tuesday after the bell. Here’s what investors should know.\n來源：Yahoo Finance:INTU",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intuit-intu-reports-earnings-tomorrow-033259346.html?.tsrc=rss",
+      "source": "Yahoo Finance:INTU",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "MRK",
-      "short": "MRK — AI相關：Merck (MRK) Takes An AI Vaccine Stake And Expands Its Discovery Playbook",
-      "detail": "MRK\n重點：AI相關\n標題：Merck (MRK) Takes An AI Vaccine Stake And Expands Its Discovery Playbook\n摘要：Merck (NYSE: MRK) disclosed an equity stake in Evaxion A/S tied to an AI powered vaccine program centered on candidate EVX-B3. The company in licensed EVX-B3, an AI guided vaccine candidate, as part of its push into AI driven vaccine discovery. The move extends Merck's use of ar…\n來源：Yahoo Finance:MRK",
-      "url": "https://finance.yahoo.com/healthcare/articles/merck-mrk-takes-ai-vaccine-190704509.html?.tsrc=rss",
-      "source": "Yahoo Finance:MRK",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "THC",
-      "short": "THC — 業績／指引：Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?",
-      "detail": "THC\n重點：業績／指引\n標題：Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?\n摘要：Medtronic plc (NYSE:MDT) and Tenet Healthcare Corporation (NYSE:THC) offer investors two very different healthcare growth stories. Medtronic’s (NYSE:MDT) thesis rests on whether a new generation of medical devices can produce a durable turnaround across its enormous portfolio. T…\n來源：Yahoo Finance:THC",
-      "url": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-tenet-healthcare-healthcare-194303713.html?.tsrc=rss",
-      "source": "Yahoo Finance:THC",
+      "symbol": "TGT",
+      "short": "TGT — 業績／指引：Target (TGT) Stock Still Looks Like A Bargain After Rally",
+      "detail": "TGT\n重點：業績／指引\n標題：Target (TGT) Stock Still Looks Like A Bargain After Rally\n摘要：Target stock has delivered a strong 77.2% return over the past year, and current valuation checks suggest the shares may still be pricing in less than the intrinsic value indicated by discounted cash flow and earnings based approaches. The 77.2% 1 year return signals investors h…\n來源：Yahoo Finance:TGT",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/target-tgt-stock-still-looks-050716506.html?.tsrc=rss",
+      "source": "Yahoo Finance:TGT",
       "kind": "news"
     }
   ]
