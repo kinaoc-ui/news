@@ -1,97 +1,115 @@
 {
-  "title": "FS新聞 08-26 05:31",
-  "list_name": "FirstScreen_2026-08-26_053130_comma.txt",
-  "created_at": "2026-08-26T05:31:38.986496+00:00",
+  "title": "FS新聞 08-26 10:39",
+  "list_name": "FirstScreen_2026-08-26_103917_comma.txt",
+  "created_at": "2026-08-26T10:39:27.234740+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "INTU",
-      "short": "INTU — 業績／指引：Intuit Q4 Earnings Call Highlights",
-      "detail": "INTU\n重點：業績／指引\n標題：Intuit Q4 Earnings Call Highlights\n摘要：Intuit (NASDAQ:INTU) reported fiscal 2026 revenue growth of 14% and said it is shifting investment and execution in fiscal 2027 toward acquiring more new customers, after results showed slower growth in parts of its QuickBooks and TurboTax businesses. For the full year, GAAP and…\n來源：Yahoo Finance:INTU\n其他：Intuit Inc. Q4 2026 Earnings: Live Updates from $INTU Earni…; Intuit Inc. Q4 2026 Earnings: Recap of $INTU Earnings Call,…; INTU Stock Is Tumbling Despite Earnings Beat — Weak 2027 Gu…",
-      "url": "https://www.marketbeat.com/instant-alerts/transcript-intuit-q4-earnings-call-highlights-2026-08-25/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "Yahoo Finance:INTU",
-      "kind": "news"
-    },
-    {
-      "n": 2,
-      "symbol": "JD",
-      "short": "JD — JD.com (JD) Forms Hong Kong Northern Metropolis Joint Venture",
-      "detail": "JD\n重點：新聞\n標題：JD.com (JD) Forms Hong Kong Northern Metropolis Joint Venture\n摘要：JD.com (NasdaqGS:JD) has agreed to form a joint venture with Chinese state-owned firms to invest in a large logistics and mixed-use project in Hong Kong's Northern Metropolis. The partnership focuses on building logistics infrastructure alongside commercial and residential space…\n來源：Yahoo Finance:JD\n其他：JD.com (JD) Q2 Profit Improved, Is The Stock Still Cheap?",
-      "url": "https://finance.yahoo.com/real-estate/articles/jd-com-jd-forms-hong-043611341.html?.tsrc=rss",
-      "source": "Yahoo Finance:JD",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "NTNX",
-      "short": "NTNX — 業績／指引：Nutanix (NTNX) Stock Looks Reasonable On Cash Flow But Rich On Earnings",
-      "detail": "NTNX\n重點：業績／指引\n標題：Nutanix (NTNX) Stock Looks Reasonable On Cash Flow But Rich On Earnings\n摘要：Nutanix stock has delivered a strong 3 year gain, yet its current market price screens as expensive on most checks while an intrinsic value estimate based on a Discounted Cash Flow (DCF) approach suggests the shares trade at a discount of about 17% to that model. Nutanix has ret…\n來源：Yahoo Finance:NTNX\n其他：Nutanix (NTNX) Stock Looks Reasonable On Cash Flow But Rich…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nutanix-ntnx-stock-looks-reasonable-021556245.html?.tsrc=rss",
-      "source": "Yahoo Finance:NTNX",
-      "kind": "news"
-    },
-    {
-      "n": 4,
       "symbol": "ALSN",
-      "short": "ALSN — Allison Transmission (NYSE:ALSN) CEO David Graziosi Sells 26,708 Shares of Stock - Mark…",
-      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission (NYSE:ALSN) CEO David Graziosi Sells 26,708 Shares of Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHBXZ283Wm1lVzY2Q3F1SGM2QXRadV94aGdTOUdFd19URUluZmdSc2d3RGVxWmh6RkY2R3doRTB4ZGtxd3JLT1hrUHhIUnZkSVgwUG96dVB3cGlRRFZIYW0wVDBneHpDem8yTTZfWjd1MGpfcGthYkFIR1hISUZ0dzR0NHVJazZublBuV0t5MXp1RFJiSXdjZm9pTXJ2NDllMVk1V0tRRmdKd…\n來源：Google News:ALSN",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHBXZ283Wm1lVzY2Q3F1SGM2QXRadV94aGdTOUdFd19URUluZmdSc2d3RGVxWmh6RkY2R3doRTB4ZGtxd3JLT1hrUHhIUnZkSVgwUG96dVB3cGlRRFZIYW0wVDBneHpDem8yTTZfWjd1MGpfcGthYkFIR1hISUZ0dzR0NHVJazZublBuV0t5MXp1RFJiSXdjZm9pTXJ2NDllMVk1V0tRRmdKd3F3eEpqMENNTFozeVhvUjBINnRJM0JLaGxhWWw3YnU4UC1QNUNBRmxLSU1n?oc=5",
+      "short": "ALSN — Heavy Transportation Equipment Stocks Q2 In Review: Allison Transmission (NYSE:ALSN) Vs…",
+      "detail": "ALSN\n重點：新聞\n標題：Heavy Transportation Equipment Stocks Q2 In Review: Allison Transmission (NYSE:ALSN) Vs Peers - StockStory\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRG1XYy1NX2laYWlWTnNPT01NWHkyVExjX3k1am9OMllPMXl1UzE1Q0gxT1JEMGVKRkJRMFhmSmtUWWZCT0VSQ00tdVloUkJzRFUwNFpPWFAyd1ZGc0QyN0gzeHBid0cyZy1FekZnUGRSUENNb2g5dXZEejVueTJZR2s3WXFYTmoyekU5bm82ejcyc3ZYUkJ2Rnk0UExEZVluVHVNN3BnNFhpa…\n來源：Google News:ALSN\n其他：64,910 Shares in Allison Transmission Holdings, Inc. $ALSN …; Allison Transmission (NYSE:ALSN) CEO David Graziosi Sells 2…",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRG1XYy1NX2laYWlWTnNPT01NWHkyVExjX3k1am9OMllPMXl1UzE1Q0gxT1JEMGVKRkJRMFhmSmtUWWZCT0VSQ00tdVloUkJzRFUwNFpPWFAyd1ZGc0QyN0gzeHBid0cyZy1FekZnUGRSUENNb2g5dXZEejVueTJZR2s3WXFYTmoyekU5bm82ejcyc3ZYUkJ2Rnk0UExEZVluVHVNN3BnNFhpanhvblhQc3JkMFRleENpNkZtTW9lUEd0cVdQcWE4VVpLWmpKbG5CR3poWXlwdl9zTEdvLWVJ?oc=5",
       "source": "Google News:ALSN",
       "kind": "news"
     },
     {
-      "n": 5,
+      "n": 2,
+      "symbol": "BNY",
+      "short": "BNY — 821,058 Shares in Bank of New York Mellon Corporation $BNY Purchased by Man Group plc -…",
+      "detail": "BNY\n重點：新聞\n標題：821,058 Shares in Bank of New York Mellon Corporation $BNY Purchased by Man Group plc - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbUFvZHhqM3gxak5sU2RUOVBNZFR0LVZ4b3lvTTFIXzYwemNCRWlnMFVINmxWd2V5dzlCQnU4MnFCNXZ0ZUFRSTFmd2NBR2llSXlhVFpoQk5jNWptRGZRMmszTWJnOHA5SGhQRnFZT1hIaXFraXQ0Z3lRU283WVRQR0pnV0hUV0YwMjIzUWNkaVRldGs3RzhwUGxXZnI2QjdoV252QjRuOXlte…\n來源：Google News:BNY\n其他：25,779 Shares in Bank of New York Mellon Corporation $BNY P…; 22,987 Shares in Bank of New York Mellon Corporation $BNY A…",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbUFvZHhqM3gxak5sU2RUOVBNZFR0LVZ4b3lvTTFIXzYwemNCRWlnMFVINmxWd2V5dzlCQnU4MnFCNXZ0ZUFRSTFmd2NBR2llSXlhVFpoQk5jNWptRGZRMmszTWJnOHA5SGhQRnFZT1hIaXFraXQ0Z3lRU283WVRQR0pnV0hUV0YwMjIzUWNkaVRldGs3RzhwUGxXZnI2QjdoV252QjRuOXlteXdaLV9Gd0pWMjJRSy1faTlfOTc1OG9VMGd1V0FiOEx0NThaNkdWcFMyaEhYWHlUd2Jj?oc=5",
+      "source": "Google News:BNY",
+      "kind": "news"
+    },
+    {
+      "n": 3,
       "symbol": "CRM",
-      "short": "CRM — Salesforce (NYSE:CRM) Shares Down 1.6% - Here's Why - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Shares Down 1.6% - Here's Why - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQWEZGOVNibnVtY1F3enpwdm9BZXZBODJFRm51Z2UyS0Z2U0s2RU9rdjd0ZkJ1YlFiaExFTkdDZG9FYlp4dFh5aWVsZlRFeUZkd3d4N3liTmtlZXFHR0pDT2ZKdldJa2lPaUo3c1hXcWRUanFvSUlYQ1RYcS1YSTRsM2pSd2s5NVBnOC1pN3U1QTl3eVFQa3hBa1p4VHpTOVhYN1FvZlh3OA?oc…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWEZGOVNibnVtY1F3enpwdm9BZXZBODJFRm51Z2UyS0Z2U0s2RU9rdjd0ZkJ1YlFiaExFTkdDZG9FYlp4dFh5aWVsZlRFeUZkd3d4N3liTmtlZXFHR0pDT2ZKdldJa2lPaUo3c1hXcWRUanFvSUlYQ1RYcS1YSTRsM2pSd2s5NVBnOC1pN3U1QTl3eVFQa3hBa1p4VHpTOVhYN1FvZlh3OA?oc=5",
+      "short": "CRM — 業績／指引：Salesforce (CRM) Stock Still Looks Below Fair Value With Cash Flow And Earnings Aligned…",
+      "detail": "CRM\n重點：業績／指引\n標題：Salesforce (CRM) Stock Still Looks Below Fair Value With Cash Flow And Earnings Aligned - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN1RBOVhWS3V1SUhXdlZtaVVXbzB1WTNmemgzMkpzeF9fTmlyVXlnN1g5RksydUVRdHcxNVBWY3RyTHlYWlAtTE9rVG9ZUjhmU2pNX3d0ZUxpbXJRMjFma0s0dk81cVZod0NOQTZBbHlYdHk3MjdCTTNCNGNjb0c4QUE4UGpaeTkzcEJ1VnZBR3NhaEFWZE8xeFNTR2RzTGZhSXBxODUtMnMwZ…\n來源：Google News:CRM\n其他：40,021 Shares in Salesforce Inc. $CRM Bought by EFG Interna…; Salesforce Q2 Earnings Preview: Can Agentforce Lift CRM Sto…",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN1RBOVhWS3V1SUhXdlZtaVVXbzB1WTNmemgzMkpzeF9fTmlyVXlnN1g5RksydUVRdHcxNVBWY3RyTHlYWlAtTE9rVG9ZUjhmU2pNX3d0ZUxpbXJRMjFma0s0dk81cVZod0NOQTZBbHlYdHk3MjdCTTNCNGNjb0c4QUE4UGpaeTkzcEJ1VnZBR3NhaEFWZE8xeFNTR2RzTGZhSXBxODUtMnMwZGlvMlZ0blhPQl9ocXVYMEd0SkFseDR4M2_SAcgBQVVfeXFMTmlYc0NfTVNaZ1h0Xy12bi1oV0cwWm9jZXNUUGVoMUkyNE5Cb2VDOFJ1YzhtSnM5bHpieHpSS2k1ZXVwVzQyUnN4eFNtMUJnR1ZUT090NFM2bXVHWHRNMmdNdml0NmpKVTQxWlo1UXBLMUxZVUZFclJzeVdRQml1WEpzckRVeWJDbU5iWVdQTnFRNnQ2UXBwaUtOS0l3cGQzanlUMllPVzg4UGJmdjVMeWtxSFRfZC1jZEZQMm4yRTNNY1VLV0dkRGw?oc=5",
       "source": "Google News:CRM",
       "kind": "news"
     },
     {
+      "n": 4,
+      "symbol": "INTU",
+      "short": "INTU — PDT Partners LLC Purchases Shares of 46,200 Intuit Inc. $INTU - MarketBeat",
+      "detail": "INTU\n重點：新聞\n標題：PDT Partners LLC Purchases Shares of 46,200 Intuit Inc. $INTU - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb2ZoTWc0NWRoRGdzSzFTSWNkMnFNa1p1UlFZSFVka1VwUndXT1RvU21LdFNNT19YcEFqMDM4M0d6Y0tSc2tOaGR6TzVscGdVc3R2ZlRzRm5kWndRNWVUTlZCTDd6VWQwZGhuTGpZeF9JWlo1ejViRHBNWlhkLUxWUzZvZUl0T01EMnUwQVhQZVExaEQ4UUF1MTI3bGNSMnlrWHFmS2NjTkdFR…\n來源：Google News:INTU\n其他：Update: Intuit Shares Drop Pre-Bell as Fiscal 2027 Guidance…; Intuit's earnings miss is largely an accounting illusion, b…",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb2ZoTWc0NWRoRGdzSzFTSWNkMnFNa1p1UlFZSFVka1VwUndXT1RvU21LdFNNT19YcEFqMDM4M0d6Y0tSc2tOaGR6TzVscGdVc3R2ZlRzRm5kWndRNWVUTlZCTDd6VWQwZGhuTGpZeF9JWlo1ejViRHBNWlhkLUxWUzZvZUl0T01EMnUwQVhQZVExaEQ4UUF1MTI3bGNSMnlrWHFmS2NjTkdFRGcwclh4NkI2UXJRVTM1R2g4?oc=5",
+      "source": "Google News:INTU",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "SLB",
+      "short": "SLB — SLB Limited $SLB Shares Sold by Legal & General Group Plc - MarketBeat",
+      "detail": "SLB\n重點：新聞\n標題：SLB Limited $SLB Shares Sold by Legal & General Group Plc - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaS03OVV2ZXNSS05RRzB4b2ExTUZFNzFBR1VmNDBmRDd1cUdJSmFwUFZhU2N0UHE1MHVPQ2UxYWZDc01MNVVVNFNHek9oSGhPM2VNS2p0WWpUQmhUNFFJanRXSDhOMEs5b3hsRGZQTm1CQlQ0d1FkdHNpZ0Z1blRlQUg5REIwQzZJSGZPdG5vdmFnNUdybDdLRXBMUVVLSEFrVl9qVnBSc1J3d…\n來源：Google News:SLB\n其他：Hsbc Holdings PLC Purchases 586,358 Shares of SLB Limited $…; Expect Equity LLC Makes New $1.67 Million Investment in SLB…",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaS03OVV2ZXNSS05RRzB4b2ExTUZFNzFBR1VmNDBmRDd1cUdJSmFwUFZhU2N0UHE1MHVPQ2UxYWZDc01MNVVVNFNHek9oSGhPM2VNS2p0WWpUQmhUNFFJanRXSDhOMEs5b3hsRGZQTm1CQlQ0d1FkdHNpZ0Z1blRlQUg5REIwQzZJSGZPdG5vdmFnNUdybDdLRXBMUVVLSEFrVl9qVnBSc1J3dTQyVjZnaEhSN1ZTdw?oc=5",
+      "source": "Google News:SLB",
+      "kind": "news"
+    },
+    {
       "n": 6,
-      "symbol": "EC",
-      "short": "EC — 併購／交易：Ecopetrol Takes Control of Brava Energia in $1.2B Brazil Growth Bet",
-      "detail": "EC\n重點：併購／交易\n標題：Ecopetrol Takes Control of Brava Energia in $1.2B Brazil Growth Bet\n摘要：Ecopetrol (NYSE:EC) said it has completed the acquisition of a 51% controlling stake in Brazilian independent oil and gas company Brava Energia for approximately $1.2 billion, establishing an operating platform in Brazil that the company said will add production, reserves and ca…\n來源：Yahoo Finance:EC",
-      "url": "https://www.marketbeat.com/instant-alerts/event-ecopetrol-takes-control-of-brava-energia-in-12b-brazil-growth-bet-2026-08-25/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "Yahoo Finance:EC",
+      "symbol": "GAP",
+      "short": "GAP — BlackRock Inc. Takes Position in The Gap, Inc. $GAP - MarketBeat",
+      "detail": "GAP\n重點：新聞\n標題：BlackRock Inc. Takes Position in The Gap, Inc. $GAP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQLW5wSnpYZm1sS0NVWW1BSkM3TDl3eFB3RF9kSVRqbzdILTRhUVJBbDlLRUFIN3NPdmxvVHZ2NzBfQXVqeGNFb25ic2FJbDYxWF82MTlBSEI1NTA1NGtZZ1BrbWpCVHlwSWlBcUFFd0xaRmhIX3Vad0tzM25IREdRcEtSc19zdk14MUhnaHhLWXhHN2hER3JtZmJwdkJfVWpHWVZFM2cyLUhEc…\n來源：Google News:GAP\n其他：The Gap, Inc. $GAP Position Boosted by Algert Global LLC - …",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLW5wSnpYZm1sS0NVWW1BSkM3TDl3eFB3RF9kSVRqbzdILTRhUVJBbDlLRUFIN3NPdmxvVHZ2NzBfQXVqeGNFb25ic2FJbDYxWF82MTlBSEI1NTA1NGtZZ1BrbWpCVHlwSWlBcUFFd0xaRmhIX3Vad0tzM25IREdRcEtSc19zdk14MUhnaHhLWXhHN2hER3JtZmJwdkJfVWpHWVZFM2cyLUhEcDNL?oc=5",
+      "source": "Google News:GAP",
       "kind": "news"
     },
     {
       "n": 7,
-      "symbol": "FDX",
-      "short": "FDX — FedEx (FDX) Stock May Be 34% Undervalued As Job Cuts Begin - simplywall.st",
-      "detail": "FDX\n重點：新聞\n標題：FedEx (FDX) Stock May Be 34% Undervalued As Job Cuts Begin - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOR192MmxGNTI0QU5zTWt3NDBLRmpaci1OVkVPdDRVYTZ3Y1FTVkF3ODlPdjlzRG4zUExKWjFuWTA1UElXVktWdUVyZE1zT0tKNDdmWHZZVmhrZlEtWFNNOHBvazhhSVdwZVhhYjR6c1RfT3RYUk1fSlBEVFRrcVI3SGRWdXZzNVpMampUdy11NWY5QWpWQ0ZiYS1QU0pSWlItQVBYN2J4U1lIM…\n來源：Google News:FDX",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR192MmxGNTI0QU5zTWt3NDBLRmpaci1OVkVPdDRVYTZ3Y1FTVkF3ODlPdjlzRG4zUExKWjFuWTA1UElXVktWdUVyZE1zT0tKNDdmWHZZVmhrZlEtWFNNOHBvazhhSVdwZVhhYjR6c1RfT3RYUk1fSlBEVFRrcVI3SGRWdXZzNVpMampUdy11NWY5QWpWQ0ZiYS1QU0pSWlItQVBYN2J4U1lIMlR2UzFMR0J1LUxLdWtZaXg4bUJIUdIBxAFBVV95cUxPLWdOcnQtZVN3NF9ZSzN2WDNlbkt1YjVzb2N1ZnhxcDhHOXdDUXhFaE01bW9mVjBCTTNuQ2t1ME5RSlNpeU9ad0xTTFJlUEVfd3BVZTBhTTd6bnI5OWx1ek15b0ktVG1kYV9VUEVZNEh2V1B0eWtxM1RmU2szenBwMFNTYmRYU2J3c3oxeVBnTUwxZ09EczVnMlVUUnNvNldaZWphWUhraUZETDk0THZ0VEZHU3FrREVwSDNPUS1rd2t4dVBS?oc=5",
-      "source": "Google News:FDX",
+      "symbol": "HCA",
+      "short": "HCA — 16,582 Shares in HCA Healthcare, Inc. $HCA Acquired by Palisade Capital Management LP -…",
+      "detail": "HCA\n重點：新聞\n標題：16,582 Shares in HCA Healthcare, Inc. $HCA Acquired by Palisade Capital Management LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVWFETFNGS0R4TTlubmIxaXRvVkQtZTlfSm1pZWxGX1dlUS1uSGNQeGhZMHFibmpERXJLaFk0YWtoQ0JhRC1odk1pSnExNWNEanpRN2lEanlhRVlQeTdyTTJpYWdqY1lGNjJyTEswQmlaTnllZzlsRjZkdXJHWGl0WnRTU29EOXBYeVMzV1hxRlJvMWpmVGw2UnJiX1VKSXJNTl9XeWZFSTBvN…\n來源：Google News:HCA\n其他：12,900 Shares in HCA Healthcare, Inc. $HCA Acquired by Elem…",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVWFETFNGS0R4TTlubmIxaXRvVkQtZTlfSm1pZWxGX1dlUS1uSGNQeGhZMHFibmpERXJLaFk0YWtoQ0JhRC1odk1pSnExNWNEanpRN2lEanlhRVlQeTdyTTJpYWdqY1lGNjJyTEswQmlaTnllZzlsRjZkdXJHWGl0WnRTU29EOXBYeVMzV1hxRlJvMWpmVGw2UnJiX1VKSXJNTl9XeWZFSTBvNWtwMVRWTHc0STZUcWt0VDA4Q2c1ckZKaG4ySjcyaExueHdvSkVXMW9ucld5WFByZw?oc=5",
+      "source": "Google News:HCA",
       "kind": "news"
     },
     {
       "n": 8,
-      "symbol": "GEN",
-      "short": "GEN — Gen Digital (NASDAQ:GEN) Director Ondrej Vlcek Sells 47,462 Shares of Stock - MarketBeat",
-      "detail": "GEN\n重點：新聞\n標題：Gen Digital (NASDAQ:GEN) Director Ondrej Vlcek Sells 47,462 Shares of Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOUWROaE9fd2dJYThNVzFuWjFhZ2stRHNGRlI5M1BRSXpyYUxyNF9Vc1lPalVzRGp3XzFpenVwQjlzcXlTNy1aNjhlSUFLLVd6cC1RankydUpaeVhObmEteTY1c3NaNXd4clBxQmFiUlZMUEV4RmlQb1V3MVlBQkc1WlE3WFlYazViWFcyZEstVFFBSE1GMXNzV0pUT0h5MWZNU2NIZ193Qjh3O…\n來源：Google News:GEN",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUWROaE9fd2dJYThNVzFuWjFhZ2stRHNGRlI5M1BRSXpyYUxyNF9Vc1lPalVzRGp3XzFpenVwQjlzcXlTNy1aNjhlSUFLLVd6cC1RankydUpaeVhObmEteTY1c3NaNXd4clBxQmFiUlZMUEV4RmlQb1V3MVlBQkc1WlE3WFlYazViWFcyZEstVFFBSE1GMXNzV0pUT0h5MWZNU2NIZ193Qjh3OVhDdVIyVF9UMzNUSjZUX3J3c09Pb19RYW1qUGZxY1dDYUZ4SG8?oc=5",
-      "source": "Google News:GEN",
+      "symbol": "LW",
+      "short": "LW — 34,331 Shares in Lamb Weston $LW Purchased by Kintayl Capital LP - MarketBeat",
+      "detail": "LW\n重點：新聞\n標題：34,331 Shares in Lamb Weston $LW Purchased by Kintayl Capital LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTFB6NVNmY0FIbzlZRU9yTXFqVFBUNEhJVVFRVU1vQzNZZ3VsdDBLSTYxYVFNcjN6d05KTDNKbDd6VkFRQmJqcjFoejNaLUFlVGNwUFFGVEVKbzFfRllWUGlMaXRWSlJPNUlvdnREWVpuTGtKSlNOVkJWanRfSWtJUlNZN1lyaFRfekNaNnd0NEhjMnNWWFZETWJqdTVuRzJxWjNoLWVyVEVGW…\n來源：Google News:LW\n其他：Expect Equity LLC Makes New Investment in Lamb Weston $LW -…",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTFB6NVNmY0FIbzlZRU9yTXFqVFBUNEhJVVFRVU1vQzNZZ3VsdDBLSTYxYVFNcjN6d05KTDNKbDd6VkFRQmJqcjFoejNaLUFlVGNwUFFGVEVKbzFfRllWUGlMaXRWSlJPNUlvdnREWVpuTGtKSlNOVkJWanRfSWtJUlNZN1lyaFRfekNaNnd0NEhjMnNWWFZETWJqdTVuRzJxWjNoLWVyVEVGWHhrZjBUamlCMDhHQTRjZkFoNGUwQng?oc=5",
+      "source": "Google News:LW",
       "kind": "news"
     },
     {
       "n": 9,
-      "symbol": "LNG",
-      "short": "LNG — Cheniere Energy (LNG) Following Fresh LNG Capacity Outlook And The Valuation Debate",
-      "detail": "LNG\n重點：新聞\n標題：Cheniere Energy (LNG) Following Fresh LNG Capacity Outlook And The Valuation Debate\n摘要：Why Cheniere Energy Matters After Fresh Capacity Outlook Cheniere Energy (LNG) is back in focus after investment firm commentary highlighted expectations for steady cash flow growth as new liquefied natural gas capacity starts up and additional export volumes become available to…\n來源：Yahoo Finance:LNG",
-      "url": "https://finance.yahoo.com/energy/articles/cheniere-energy-lng-following-fresh-221930250.html?.tsrc=rss",
-      "source": "Yahoo Finance:LNG",
+      "symbol": "MRK",
+      "short": "MRK — Deutsche Bank AG Sells 576,594 Shares of Merck & Co., Inc. $MRK - MarketBeat",
+      "detail": "MRK\n重點：新聞\n標題：Deutsche Bank AG Sells 576,594 Shares of Merck & Co., Inc. $MRK - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeUl3dUhHMTZybElqaXJaa21nc1NzVUptVm1tRWJPVHBLUmN6Z3FYRUFycDVMVWVpeGFMLW9uQ0VpR3hieU9XV1lmR2xNcUoteVg2QklUd1FfTVVKNF9fN2JCMjVOOXpacXo3QXZTZlh4VlZBU3dvb0RnVC05OTBfRF9XRUYwbFdvZ080WnVQN0R3YXlPMGozM3FEbHl5SUpIQXF2R3EwR1gtW…\n來源：Google News:MRK\n其他：Merck & Co., Inc. $MRK Shares Acquired by BlackRock Inc. - …",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeUl3dUhHMTZybElqaXJaa21nc1NzVUptVm1tRWJPVHBLUmN6Z3FYRUFycDVMVWVpeGFMLW9uQ0VpR3hieU9XV1lmR2xNcUoteVg2QklUd1FfTVVKNF9fN2JCMjVOOXpacXo3QXZTZlh4VlZBU3dvb0RnVC05OTBfRF9XRUYwbFdvZ080WnVQN0R3YXlPMGozM3FEbHl5SUpIQXF2R3EwR1gtWVpabWg3OXRqdzNtcWNN?oc=5",
+      "source": "Google News:MRK",
       "kind": "news"
     },
     {
       "n": 10,
-      "symbol": "PDD",
-      "short": "PDD — 業績／指引：PDD Holdings (PDD) Stock Faces Margin Pressure Despite Revenue Growth - simplywall.st",
-      "detail": "PDD\n重點：業績／指引\n標題：PDD Holdings (PDD) Stock Faces Margin Pressure Despite Revenue Growth - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNVWR1ei16VGZZNF80U25ITVJpYzZJVHVhU2hwOGt4MUV4cG1waFBhd043NVozTWNld3EtZ1dEYVM0QVdxYnVPMkRLNzZPTFptWV9JczBrSUx2bTg4VEVyeVVoLVJhOWdSYWdfOVBIRE4tb3ZQeWtLZ241V2l4MW0tY3FoQjhieGtQaEFJY2FhTEkzTThFQ3VucHVjUkhUTVJDSUhEZEhReFVza…\n來源：Google News:PDD",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVWR1ei16VGZZNF80U25ITVJpYzZJVHVhU2hwOGt4MUV4cG1waFBhd043NVozTWNld3EtZ1dEYVM0QVdxYnVPMkRLNzZPTFptWV9JczBrSUx2bTg4VEVyeVVoLVJhOWdSYWdfOVBIRE4tb3ZQeWtLZ241V2l4MW0tY3FoQjhieGtQaEFJY2FhTEkzTThFQ3VucHVjUkhUTVJDSUhEZEhReFVzaG5MRjhmTWc1ZjRGTW1TYUI1R0ltU3p6U19VU1BJVXlNbVHSAcwBQVVfeXFMTVVkdXotelRmWTRfNFNuSE1SaWM2SVR1YVNocDhreDFFeHBtcGhQYXdONzVaM01jZXdxLWdXRGFTNEFXcWJ1TzJESzc2T0xabVlfSXMwa0lMdm04OFRFcnlVaC1SYTlnUmFnXzlQSEROLW92UHlrS2duNVdpeDFtLWNxaEI4YnhrUGhBSWNhYUxJM004RUN1bnB1Y1JIVE1SQ0lIRGRIUXhVc2huTEY4Zk1nNWY0Rk1tU2FCNUdJbVN6elNfVVNQSVV5TW1R?oc=5",
-      "source": "Google News:PDD",
+      "symbol": "OXY",
+      "short": "OXY — PDT Partners LLC Buys New Position in Occidental Petroleum Corporation $OXY - MarketBeat",
+      "detail": "OXY\n重點：新聞\n標題：PDT Partners LLC Buys New Position in Occidental Petroleum Corporation $OXY - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRHFWN2xBTlZfaVpDMDBOS1g4cnotLWFGVld2ei1fQjllZHZBTUR6THNJM1VCdmxJb19aa0tXVzFJQ0hmTWlGNmFFSXB4RG9hd3FiTGdpRFpQcXpIcTNFMjF5ZXBTNF9LT2FpQ0lUQUMzc3Y4OHVaX3RScHZCQkEwS0Mwci1TQUI4OVVKcTNfQldkTnZBaGtGS3A4OWZHdTNwYUY4UWJ6LWtXc…\n來源：Google News:OXY\n其他：86,662 Shares in Occidental Petroleum Corporation $OXY Acqu…",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRHFWN2xBTlZfaVpDMDBOS1g4cnotLWFGVld2ei1fQjllZHZBTUR6THNJM1VCdmxJb19aa0tXVzFJQ0hmTWlGNmFFSXB4RG9hd3FiTGdpRFpQcXpIcTNFMjF5ZXBTNF9LT2FpQ0lUQUMzc3Y4OHVaX3RScHZCQkEwS0Mwci1TQUI4OVVKcTNfQldkTnZBaGtGS3A4OWZHdTNwYUY4UWJ6LWtXc05TQzF3MUhnMWZBems3bE82NEhMT1NBX3laZklsVGpvdHloSnZY?oc=5",
+      "source": "Google News:OXY",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "PYPL",
+      "short": "PYPL — Legal & General Group Plc Takes Position in PayPal Holdings, Inc. $PYPL - MarketBeat",
+      "detail": "PYPL\n重點：新聞\n標題：Legal & General Group Plc Takes Position in PayPal Holdings, Inc. $PYPL - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQS2o0bjRneFU0ckRxRF8tcXM5T29BUFNmM0tMdkZQRVlBbGZCUUJCNmdiNUxlRzZjdnQ5VGJyc0l6Rk1VQWtnVkItZ3ZEN3diT1dVSGdXNEhZR0ZxZUdZRW11Sjc4cjVTb3ZFQWFNdmFlQVlFeERvYWI3X1N2aHdTRjZOcVhaenFXdl9kSnFTSUlRLUpOaTY4czlOLUN2cjM0Nl80Q1Q1NTU5U…\n來源：Google News:PYPL\n其他：Cibc World Market Inc. Takes Position in PayPal Holdings, I…",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS2o0bjRneFU0ckRxRF8tcXM5T29BUFNmM0tMdkZQRVlBbGZCUUJCNmdiNUxlRzZjdnQ5VGJyc0l6Rk1VQWtnVkItZ3ZEN3diT1dVSGdXNEhZR0ZxZUdZRW11Sjc4cjVTb3ZFQWFNdmFlQVlFeERvYWI3X1N2aHdTRjZOcVhaenFXdl9kSnFTSUlRLUpOaTY4czlOLUN2cjM0Nl80Q1Q1NTU5U0pXVlhPTEpVM1R0UHI5bXZCMVN5NDhqUWlWQ1E?oc=5",
+      "source": "Google News:PYPL",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "URBN",
+      "short": "URBN — PDT Partners LLC Purchases Shares of 63,800 Urban Outfitters, Inc. $URBN - MarketBeat",
+      "detail": "URBN\n重點：新聞\n標題：PDT Partners LLC Purchases Shares of 63,800 Urban Outfitters, Inc. $URBN - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZllUWHoyLVRJNTNicS00Y2ZubXlocGFubjFzNUtFSmttYkVuWTBFYWVma3BvT0kzV1BaWmNvWTVxYkk1TXVCZm9VX1Z1ejh4VjlGVW4xaTBzR3Y3VzlPYkZUNUF5UHFxNjB2ZDVZa0RhYW5CQTdfM1ZkQ0p2WEtxMGZiMDlCV0loeG9WLXVHeGlkMjBfTFlmdEFzSVc0LWk4dFN6QXhzd3dIU…\n來源：Google News:URBN\n其他：III Capital Management Invests $2.71 Million in Urban Outfi…",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZllUWHoyLVRJNTNicS00Y2ZubXlocGFubjFzNUtFSmttYkVuWTBFYWVma3BvT0kzV1BaWmNvWTVxYkk1TXVCZm9VX1Z1ejh4VjlGVW4xaTBzR3Y3VzlPYkZUNUF5UHFxNjB2ZDVZa0RhYW5CQTdfM1ZkQ0p2WEtxMGZiMDlCV0loeG9WLXVHeGlkMjBfTFlmdEFzSVc0LWk4dFN6QXhzd3dIUFZfODhvX3lEb1hWSHJZVVRuenIyQU0yaGhNS2FJbA?oc=5",
+      "source": "Google News:URBN",
       "kind": "news"
     }
   ]
