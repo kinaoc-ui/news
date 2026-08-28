@@ -1,92 +1,83 @@
 {
-  "title": "FS新聞 08-28 11:34",
-  "list_name": "FirstScreen_2026-08-28_113402_comma.txt",
-  "created_at": "2026-08-28T11:34:11.041159+00:00",
+  "title": "FS新聞 08-28 17:08",
+  "list_name": "FirstScreen_2026-08-28_170838_comma.txt",
+  "created_at": "2026-08-28T17:08:48.788362+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "CRM",
-      "short": "CRM — MASTERINVEST Kapitalanlage GmbH Acquires New Shares in Salesforce Inc. $CRM - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：MASTERINVEST Kapitalanlage GmbH Acquires New Shares in Salesforce Inc. $CRM - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNSkhlYmszM2VWUC1qdUh3VDZzRjZWY19vRmNPamJIMzgxOVJ2SUxrTzliNXFURHdpbHlDSG52R2M2NjVXM3EwcGJKSDVYS2FZODJjbTBLZUlmcnA4ZlhZQU5CWkI3YzhwTUdHdjM1TlViUHBBSDc2c1B5cTJKdTRQQkR0WFpYWTNpOGh3dGZGWXZna1NFM2p6bEhUa3ZfUXoybG4xOVEzX1FpU…\n來源：Google News:CRM\n其他：Harvey Capital Management Inc. Takes Position in Salesforce…; Jim Cramer Explained Why Salesforce Inc. (NYSE:CRM)’s Share…",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSkhlYmszM2VWUC1qdUh3VDZzRjZWY19vRmNPamJIMzgxOVJ2SUxrTzliNXFURHdpbHlDSG52R2M2NjVXM3EwcGJKSDVYS2FZODJjbTBLZUlmcnA4ZlhZQU5CWkI3YzhwTUdHdjM1TlViUHBBSDc2c1B5cTJKdTRQQkR0WFpYWTNpOGh3dGZGWXZna1NFM2p6bEhUa3ZfUXoybG4xOVEzX1FpUTlEb3hoLUtubXRVUGJORE5fVXd3RDRqTjE1THF3YjVTZU9rZlk?oc=5",
-      "source": "Google News:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 2,
       "symbol": "GAP",
-      "short": "GAP — 業績／指引：Gap shares rise after Q2 earnings beat and higher full-year guidance",
-      "detail": "GAP\n重點：業績／指引\n標題：Gap shares rise after Q2 earnings beat and higher full-year guidance\n摘要：Gap Inc (NYSE:GAP) shares rose more than 13% in pre-market trading on Friday after the retailer reported second-quarter adjusted earnings above analyst expectations and raised its full-year earnings guidance. Adjusted earnings per share came in at $0.\n來源：Yahoo Finance:GAP\n其他：Gap Stock Jumps After Strong Earnings, Upbeat Guidance and …; Gap Inc (GAP) (Q2 2026) Earnings Call Highlights: Gap Brand…",
-      "url": "https://investorshub.advfn.com/market-news/article/35298/gap-shares-rise-after-q2-earnings-beat-and-higher-full-year-guidance?.tsrc=rss",
+      "short": "GAP — 業績／指引：Gap's EPS Growth Seen Accelerating on Brand Momentum, Buybacks, UBS Says",
+      "detail": "GAP\n重點：業績／指引\n標題：Gap's EPS Growth Seen Accelerating on Brand Momentum, Buybacks, UBS Says\n摘要：Gap (GAP) is expected to see stronger earnings per share growth, driven by sustained momentum at the\n來源：Yahoo Finance:GAP\n其他：Gap (GAP) Stock May Be A Bargain On Raised Profit Outlook -…; Shuffle Board: Old Navy Names CEO; Kohl’s Creates Customer …; Gap Stock Jumps After Strong Earnings, Upbeat Guidance, and…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gap-apos-eps-growth-seen-163257802.html?.tsrc=rss",
       "source": "Yahoo Finance:GAP",
       "kind": "news"
     },
     {
+      "n": 2,
+      "symbol": "CRM",
+      "short": "CRM — Salesforce (NYSE:CRM) Rating Increased to Strong-Buy at Wolfe Research - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Rating Increased to Strong-Buy at Wolfe Research - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPUG9ReGNNTFRxamNCUTUwTHBEdXFQb1oySzJDekk3RE1tZmtZT3hGZUZPam53QkhfdjYzQ1RpZEg2djhRbl9pU1NhNW8tY1BGUVlkYWJIUHpFd3pnbHhONkgxLU9WX2dYTkFuWnF1M3pId25CUm1sQUhBZTFZTEU5WkhRQjJFSWdXcUZJd0g4OVZxOUQyeWROLW81ZFJnWGt5YlNNaTBZYWp4R…\n來源：Google News:CRM\n其他：MASTERINVEST Kapitalanlage GmbH Acquires New Shares in Sale…; Jim Cramer Explained Why Salesforce Inc. (NYSE:CRM)’s Share…",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUG9ReGNNTFRxamNCUTUwTHBEdXFQb1oySzJDekk3RE1tZmtZT3hGZUZPam53QkhfdjYzQ1RpZEg2djhRbl9pU1NhNW8tY1BGUVlkYWJIUHpFd3pnbHhONkgxLU9WX2dYTkFuWnF1M3pId25CUm1sQUhBZTFZTEU5WkhRQjJFSWdXcUZJd0g4OVZxOUQyeWROLW81ZFJnWGt5YlNNaTBZYWp4R0M1Q19EUFBzYnR3bFprUFE4cmN4b1dNU0t5TThBMzJR?oc=5",
+      "source": "Google News:CRM",
+      "kind": "news"
+    },
+    {
       "n": 3,
-      "symbol": "HCA",
-      "short": "HCA — Jefferies Financial Group Inc. Purchases New Position in HCA Healthcare, Inc. $HCA - Ma…",
-      "detail": "HCA\n重點：新聞\n標題：Jefferies Financial Group Inc. Purchases New Position in HCA Healthcare, Inc. $HCA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNjZBODEzRC0wY0pYUlY4aGFwRDZ3NUhuQVdKTXNZdm5wNFVWSHFwR3BOSHRiN0EyOXMzOVlRQzY1SWZGYXpJb0ZmdTNqRVFDTlcxc2hqbzZkV2NhRkZTSmJudkhkazFEZmx2dF9SV0J3c2RwZDRGc3RTRlhVR09xZ0ZiR0h5MWR5MDFXbV9fS3FoZTd5eDVSZDQ2NFZVRXhJMVhLblpWa2M2d…\n來源：Google News:HCA\n其他：Formula Growth Ltd. Invests $1.95 Million in HCA Healthcare…; Corient Private Wealth LP Acquires New Shares in HCA Health…",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNjZBODEzRC0wY0pYUlY4aGFwRDZ3NUhuQVdKTXNZdm5wNFVWSHFwR3BOSHRiN0EyOXMzOVlRQzY1SWZGYXpJb0ZmdTNqRVFDTlcxc2hqbzZkV2NhRkZTSmJudkhkazFEZmx2dF9SV0J3c2RwZDRGc3RTRlhVR09xZ0ZiR0h5MWR5MDFXbV9fS3FoZTd5eDVSZDQ2NFZVRXhJMVhLblpWa2M2dXhLNk54N0wxLWVFZ1NBUmh2N0JJWEo1NEZwZ2s5d0dtdXI1WGFTWXZpYmpB?oc=5",
-      "source": "Google News:HCA",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "PYPL",
-      "short": "PYPL — 併購／交易：PayPal shares fall after reported acquisition plan is abandoned",
-      "detail": "PYPL\n重點：併購／交易\n標題：PayPal shares fall after reported acquisition plan is abandoned\n摘要：PayPal (NASDAQ:PYPL) shares fell 14. 6% in pre-market trading to $52.\n來源：Yahoo Finance:PYPL\n其他：Centaurus Financial Inc. Purchases Shares of 36,977 PayPal …; PayPal Drops 12% Overnight on Dead Stripe Deal: Portfolio M…",
-      "url": "https://investorshub.advfn.com/market-news/article/35278/paypal-shares-fall-after-reported-acquisition-plan-is-abandoned?.tsrc=rss",
-      "source": "Yahoo Finance:PYPL",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "SLB",
-      "short": "SLB — SLB N.V. (NYSE:SLB) Passed Our Checks, And It's About To Pay A US$0.295 Dividend - simp…",
-      "detail": "SLB\n重點：新聞\n標題：SLB N.V. (NYSE:SLB) Passed Our Checks, And It's About To Pay A US$0.295 Dividend - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRXJjXzZwV3NhUUt1VG4xdUVRdVJJNUdpaGVtb3pwaHo5RUJweGhJRThVM20yQmNlbUdkSlZQc1FQaGFSMnJfUVJnZ3NQTXA1YlI4UllXSVU2a3JxaTFGZDRXbXhxRXNQV0diYnQwTEljSUMwRVZvYWppcWlneldWcFdfZVUwdm1yZ1Z2R1FUZ1Fsal90Vk0wRUFiVTFBdS01M0NibGZLTFlKR…\n來源：Google News:SLB\n其他：Man Group plc Cuts Position in SLB Limited $SLB - MarketBeat; SLB Limited $SLB Shares Acquired by Corient Private Wealth …",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRXJjXzZwV3NhUUt1VG4xdUVRdVJJNUdpaGVtb3pwaHo5RUJweGhJRThVM20yQmNlbUdkSlZQc1FQaGFSMnJfUVJnZ3NQTXA1YlI4UllXSVU2a3JxaTFGZDRXbXhxRXNQV0diYnQwTEljSUMwRVZvYWppcWlneldWcFdfZVUwdm1yZ1Z2R1FUZ1Fsal90Vk0wRUFiVTFBdS01M0NibGZLTFlKRXdPOGtSWi1lQ0RvS19f0gG-AUFVX3lxTFAxbE9uMENiejl3bkdXemw3R253UE9lclhFSFpkOWRZZGtLMTM1eGpkWTNMUWZWSE84QWJOdUFtYXBTMWFmWUx4VXBqTV91bGl2LThIa1lJWGs0V2FoUzBYUUdYOVpiMUkyc296QjQwZWZwUUZzTWxsaWpBYzU1bXVjVXZYQ240VDY4YzFmVEZ5ejB6d05KQVlDVWw1aU1FZ0lvUU0xNFV2b2ZPWUEyYnRNME1lVjE2WTdocnVlMVE?oc=5",
-      "source": "Google News:SLB",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "BNY",
-      "short": "BNY — 43,924 Shares in Bank of New York Mellon Corporation $BNY Purchased by United Capital F…",
-      "detail": "BNY\n重點：新聞\n標題：43,924 Shares in Bank of New York Mellon Corporation $BNY Purchased by United Capital Financial Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWEs3Q1ZMWFJ6OThkU0pIMmZydElDREh5cXNNOUVDZWdvMzRWMzM2Qng0TFFGZWlMdm9oUE44WEZ1UUJvak5oc3ZMLTRjS25CYnhBVjhLR3FJZmg4Skt0VURPYjJHcUx1OWdULTllclRCZ3BLb3B5dzF4Tkw0V3BDeVZmdEFhaGJNM0phaWNJOHg4NlpOSnF2QnhkM3prWDFZY3JIVzlzSHlvZ…\n來源：Google News:BNY\n其他：6,786 Shares in Bank of New York Mellon Corporation $BNY Ac…",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWEs3Q1ZMWFJ6OThkU0pIMmZydElDREh5cXNNOUVDZWdvMzRWMzM2Qng0TFFGZWlMdm9oUE44WEZ1UUJvak5oc3ZMLTRjS25CYnhBVjhLR3FJZmg4Skt0VURPYjJHcUx1OWdULTllclRCZ3BLb3B5dzF4Tkw0V3BDeVZmdEFhaGJNM0phaWNJOHg4NlpOSnF2QnhkM3prWDFZY3JIVzlzSHlvZFNMZTBVWnVHNDdmV3NiLVlmZjl2LVZQOG5KQXNIaFhXSVZpcUY4dWNQaXRXTGdaTlQ2SDV0REprelV0bDlPOGc2ck9XTTgxX2RMbHdNQ1Q4SQ?oc=5",
-      "source": "Google News:BNY",
-      "kind": "news"
-    },
-    {
-      "n": 7,
       "symbol": "GPC",
       "short": "GPC — Redwood Investment Management LLC Purchases Shares of 8,200 Genuine Parts Company $GPC …",
-      "detail": "GPC\n重點：新聞\n標題：Redwood Investment Management LLC Purchases Shares of 8,200 Genuine Parts Company $GPC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY1JkRkkwTHhiYWVYS0JRRGZIUXktOFRKaWNjVno3a0wtTzBJME9odnRqUzZGdnh2ZWlLQ3p6bXhiYk4xbmVScUdOWXZUSjQ3Mlo5RUtIY3E0c0RHRzFvaXF4NzdJb3BTN3hBc0IyNFVnYnpaY2t5U0VuekVPOV96N3lwRHVSMmhQX0NWbXJFUGpOYVlxbEdHOGtVVXp4ajdYWlN5QTE5ekdvU…\n來源：Google News:GPC\n其他：OMERS ADMINISTRATION Corp Takes Position in Genuine Parts C…",
+      "detail": "GPC\n重點：新聞\n標題：Redwood Investment Management LLC Purchases Shares of 8,200 Genuine Parts Company $GPC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY1JkRkkwTHhiYWVYS0JRRGZIUXktOFRKaWNjVno3a0wtTzBJME9odnRqUzZGdnh2ZWlLQ3p6bXhiYk4xbmVScUdOWXZUSjQ3Mlo5RUtIY3E0c0RHRzFvaXF4NzdJb3BTN3hBc0IyNFVnYnpaY2t5U0VuekVPOV96N3lwRHVSMmhQX0NWbXJFUGpOYVlxbEdHOGtVVXp4ajdYWlN5QTE5ekdvU…\n來源：Google News:GPC\n其他：Man Group plc Takes Position in Genuine Parts Company $GPC …; OMERS ADMINISTRATION Corp Takes Position in Genuine Parts C…",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY1JkRkkwTHhiYWVYS0JRRGZIUXktOFRKaWNjVno3a0wtTzBJME9odnRqUzZGdnh2ZWlLQ3p6bXhiYk4xbmVScUdOWXZUSjQ3Mlo5RUtIY3E0c0RHRzFvaXF4NzdJb3BTN3hBc0IyNFVnYnpaY2t5U0VuekVPOV96N3lwRHVSMmhQX0NWbXJFUGpOYVlxbEdHOGtVVXp4ajdYWlN5QTE5ekdvUWZOUUZxLU5XdDZPdW9aY0R1eXhNNEt1bzVQck1KZXF4VkVHWmZvcnZ6Mk5GTkkxazlYQUE?oc=5",
       "source": "Google News:GPC",
       "kind": "news"
     },
     {
+      "n": 4,
+      "symbol": "A",
+      "short": "A — 宏觀：The biggest risk to retirement plans may no longer be a stock market crash or inflation",
+      "detail": "A\n重點：宏觀\n標題：The biggest risk to retirement plans may no longer be a stock market crash or inflation\n摘要：An obsolete datapoint may be sabotaging your retirement outcome\n來源：MarketWatch\n其他：Opinion: The biggest risk to retirement plans may no longer…",
+      "url": "https://www.marketwatch.com/story/your-portfolio-can-recover-from-a-bear-market-but-can-it-survive-you-living-to-110-cc6d344c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "PYPL",
+      "short": "PYPL — 業績／指引：PayPal Drops on Deal News; Gap Soars on Earnings | Stock Movers",
+      "detail": "PYPL\n重點：業績／指引\n標題：PayPal Drops on Deal News; Gap Soars on Earnings | Stock Movers\n摘要：On this episode of Stock Movers: - PayPal (PYPL) shares are declining after a consortium of Advent and Stripe has decided to abandon its pursuit of PayPal, according to people familiar with the matter. - Marvell Technology (MRVL) shares are lower following its second-quarter fis…\n來源：Yahoo Finance:GAP\n其他：PayPal (PYPL) Stock Looks Reasonable On Earnings While Grow…",
+      "url": "https://finance.yahoo.com/video/paypal-drops-deal-news-gap-134213979.html?.tsrc=rss",
+      "source": "Yahoo Finance:GAP",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "ROST",
+      "short": "ROST — 業績／指引：Ross Stores (ROST) Upgraded to Buy: Here's Why",
+      "detail": "ROST\n重點：業績／指引\n標題：Ross Stores (ROST) Upgraded to Buy: Here's Why\n摘要：Ross Stores (ROST) has been upgraded to a Zacks Rank #2 (Buy), reflecting growing optimism about the company's earnings prospects. This might drive the stock higher in the near term.\n來源：Yahoo Finance:ROST\n其他：Jefferies Financial Group Inc. Makes New Investment in Ross…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-rost-upgraded-buy-160003836.html?.tsrc=rss",
+      "source": "Yahoo Finance:ROST",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "SLB",
+      "short": "SLB — SLB N.V. (NYSE:SLB) Passed Our Checks, And It's About To Pay A US$0.295 Dividend - simp…",
+      "detail": "SLB\n重點：新聞\n標題：SLB N.V. (NYSE:SLB) Passed Our Checks, And It's About To Pay A US$0.295 Dividend - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRXJjXzZwV3NhUUt1VG4xdUVRdVJJNUdpaGVtb3pwaHo5RUJweGhJRThVM20yQmNlbUdkSlZQc1FQaGFSMnJfUVJnZ3NQTXA1YlI4UllXSVU2a3JxaTFGZDRXbXhxRXNQV0diYnQwTEljSUMwRVZvYWppcWlneldWcFdfZVUwdm1yZ1Z2R1FUZ1Fsal90Vk0wRUFiVTFBdS01M0NibGZLTFlKR…\n來源：Google News:SLB\n其他：Man Group plc Cuts Position in SLB Limited $SLB - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRXJjXzZwV3NhUUt1VG4xdUVRdVJJNUdpaGVtb3pwaHo5RUJweGhJRThVM20yQmNlbUdkSlZQc1FQaGFSMnJfUVJnZ3NQTXA1YlI4UllXSVU2a3JxaTFGZDRXbXhxRXNQV0diYnQwTEljSUMwRVZvYWppcWlneldWcFdfZVUwdm1yZ1Z2R1FUZ1Fsal90Vk0wRUFiVTFBdS01M0NibGZLTFlKRXdPOGtSWi1lQ0RvS19f0gG-AUFVX3lxTFAxbE9uMENiejl3bkdXemw3R253UE9lclhFSFpkOWRZZGtLMTM1eGpkWTNMUWZWSE84QWJOdUFtYXBTMWFmWUx4VXBqTV91bGl2LThIa1lJWGs0V2FoUzBYUUdYOVpiMUkyc296QjQwZWZwUUZzTWxsaWpBYzU1bXVjVXZYQ240VDY4YzFmVEZ5ejB6d05KQVlDVWw1aU1FZ0lvUU0xNFV2b2ZPWUEyYnRNME1lVjE2WTdocnVlMVE?oc=5",
+      "source": "Google News:SLB",
+      "kind": "news"
+    },
+    {
       "n": 8,
-      "symbol": "LW",
-      "short": "LW — Freestone Grove Partners LP Acquires New Holdings in Lamb Weston $LW - MarketBeat",
-      "detail": "LW\n重點：新聞\n標題：Freestone Grove Partners LP Acquires New Holdings in Lamb Weston $LW - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOSHA4RTBOM0tLWFhYZW55VXBCNVJMTElTN09DM2JuNzNxeHEzdjBGZHhXalNYbFBmN3EzWUVQTzktM2NLU0h0NTl0M2lKY1E0cWl2Rmt1d01Zei1PV0FNUmFkUnhaVVJZcHNxdTM3SWd6MXBKZndHTVNXTE1mOWdMOC1Rb3J2SFh1Vm5OR1VjOUgza1NDUWRXeF9VWmN2MTRadEV1OWVpWkJrV…\n來源：Google News:LW\n其他：Lamb Weston $LW Shares Sold by Algert Global LLC - MarketBe…",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSHA4RTBOM0tLWFhYZW55VXBCNVJMTElTN09DM2JuNzNxeHEzdjBGZHhXalNYbFBmN3EzWUVQTzktM2NLU0h0NTl0M2lKY1E0cWl2Rmt1d01Zei1PV0FNUmFkUnhaVVJZcHNxdTM3SWd6MXBKZndHTVNXTE1mOWdMOC1Rb3J2SFh1Vm5OR1VjOUgza1NDUWRXeF9VWmN2MTRadEV1OWVpWkJrVzIxSWVXYkpCd0lSMFVxRjMtR0F4VmJKZVZQT1c0?oc=5",
-      "source": "Google News:LW",
+      "symbol": "TGT",
+      "short": "TGT — 業績／指引：Target (TGT)’s Comeback Quarter had Nearly $1 Billion in Help From Trump’s Tariff Refun…",
+      "detail": "TGT\n重點：業績／指引\n標題：Target (TGT)’s Comeback Quarter had Nearly $1 Billion in Help From Trump’s Tariff Refunds\n摘要：On August 20, 2026, Target Corporation (NYSE:TGT) reported its second straight quarter of comparable sales gains, with a $994 million tariff refund contributing meaningfully to a profit beat. It happened after the US Supreme Court ruled earlier this year that President Trump ove…\n來源：Yahoo Finance:TGT\n其他：The Manufacturers Life Insurance Company Decreases Stock Ho…",
+      "url": "https://finance.yahoo.com/economy/policy/articles/target-tgt-comeback-quarter-had-142849138.html?.tsrc=rss",
+      "source": "Yahoo Finance:TGT",
       "kind": "news"
     },
     {
       "n": 9,
-      "symbol": "ROST",
-      "short": "ROST — Empowered Funds LLC Takes $23.45 Million Position in Ross Stores, Inc. $ROST - MarketBe…",
-      "detail": "ROST\n重點：新聞\n標題：Empowered Funds LLC Takes $23.45 Million Position in Ross Stores, Inc. $ROST - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPVUltX20wVjA5MXNYaGVpWktvYi14WjhvT1NfMjNxSmVsMlBHYjNoZ1YwcGhvT1Q1RXhLTHlla1dfM3BSbE1wVHRBNzJOMTNYaTctX0doZFRZbUZyXzRaUFZUdWRrR2dfSWVLdC13SXVFcjVoODRkRmJyRTIzdktneGR4OVhoNXZKcWQ5bi1xTlV0a0xQUGVoTV9kZ2xTOXAxT2JBZjJ5VnhHd…\n來源：Google News:ROST\n其他：Corient Private Wealth LP Acquires New Shares in Ross Store…",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVUltX20wVjA5MXNYaGVpWktvYi14WjhvT1NfMjNxSmVsMlBHYjNoZ1YwcGhvT1Q1RXhLTHlla1dfM3BSbE1wVHRBNzJOMTNYaTctX0doZFRZbUZyXzRaUFZUdWRrR2dfSWVLdC13SXVFcjVoODRkRmJyRTIzdktneGR4OVhoNXZKcWQ5bi1xTlV0a0xQUGVoTV9kZ2xTOXAxT2JBZjJ5VnhHdGdkNlU1eUFZbWw3X2l5dEdmNmswR2hMd0tuUC1ocVZPRU8?oc=5",
-      "source": "Google News:ROST",
-      "kind": "news"
-    },
-    {
-      "n": 10,
       "symbol": "ALSN",
       "short": "ALSN — 31,650 Shares in Allison Transmission Holdings, Inc. $ALSN Bought by Stonehage Fleming …",
       "detail": "ALSN\n重點：新聞\n標題：31,650 Shares in Allison Transmission Holdings, Inc. $ALSN Bought by Stonehage Fleming Financial Services Holdings Ltd - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxQRk5tNm11SnlvVFJXeWpVci1RZ2oxanNMeW5qYklEOUxmVzhyUUVSR3FLdlV6SlI3UW1Ubkh0Ni10OThjbkhqTnlERkhVQ1JPYjMxeFgzOVluSXlhMXJsOV8xcVAxN0djTXdYN0tuSWlYcE9QOGtQUmFUN1RZNFRDNFZBRDBCVGc2RXNBdEFrWGlERnFRS0xKZTdhMGZRTmFmTFp3dGhWaEJOM…\n來源：Google News:ALSN",
@@ -95,21 +86,30 @@
       "kind": "news"
     },
     {
+      "n": 10,
+      "symbol": "BNY",
+      "short": "BNY — 43,924 Shares in Bank of New York Mellon Corporation $BNY Purchased by United Capital F…",
+      "detail": "BNY\n重點：新聞\n標題：43,924 Shares in Bank of New York Mellon Corporation $BNY Purchased by United Capital Financial Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWEs3Q1ZMWFJ6OThkU0pIMmZydElDREh5cXNNOUVDZWdvMzRWMzM2Qng0TFFGZWlMdm9oUE44WEZ1UUJvak5oc3ZMLTRjS25CYnhBVjhLR3FJZmg4Skt0VURPYjJHcUx1OWdULTllclRCZ3BLb3B5dzF4Tkw0V3BDeVZmdEFhaGJNM0phaWNJOHg4NlpOSnF2QnhkM3prWDFZY3JIVzlzSHlvZ…\n來源：Google News:BNY",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWEs3Q1ZMWFJ6OThkU0pIMmZydElDREh5cXNNOUVDZWdvMzRWMzM2Qng0TFFGZWlMdm9oUE44WEZ1UUJvak5oc3ZMLTRjS25CYnhBVjhLR3FJZmg4Skt0VURPYjJHcUx1OWdULTllclRCZ3BLb3B5dzF4Tkw0V3BDeVZmdEFhaGJNM0phaWNJOHg4NlpOSnF2QnhkM3prWDFZY3JIVzlzSHlvZFNMZTBVWnVHNDdmV3NiLVlmZjl2LVZQOG5KQXNIaFhXSVZpcUY4dWNQaXRXTGdaTlQ2SDV0REprelV0bDlPOGc2ck9XTTgxX2RMbHdNQ1Q4SQ?oc=5",
+      "source": "Google News:BNY",
+      "kind": "news"
+    },
+    {
       "n": 11,
-      "symbol": "CARG",
-      "short": "CARG — CarGurus, Inc. (NASDAQ:CARG) Given Average Recommendation of \"Moderate Buy\" by Analysts…",
-      "detail": "CARG\n重點：新聞\n標題：CarGurus, Inc. (NASDAQ:CARG) Given Average Recommendation of \"Moderate Buy\" by Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS1hiWFpsa1FuZ2cybVpDdG9GcE8tck1Ca09DeTNWclB3SVlMVG80VHM0dGo0a2JHNS0zWnFpa041Z0lMdnp0elVPeHBMeXVZVUoydFZjSWY5V0dLN0ZtdHhPUWhfSWlkb1RJWUJ6eXdzUkpPTDBUR3ZnZFd6TzVEU2xuUzNTRlFVb0ZGdmFhMXZxcm84QmFZNm9yZzRKVkc2emNndHloWHphN…\n來源：Google News:CARG",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS1hiWFpsa1FuZ2cybVpDdG9GcE8tck1Ca09DeTNWclB3SVlMVG80VHM0dGo0a2JHNS0zWnFpa041Z0lMdnp0elVPeHBMeXVZVUoydFZjSWY5V0dLN0ZtdHhPUWhfSWlkb1RJWUJ6eXdzUkpPTDBUR3ZnZFd6TzVEU2xuUzNTRlFVb0ZGdmFhMXZxcm84QmFZNm9yZzRKVkc2emNndHloWHphNUpKVXJqdkVuSnY1MjJGTkdJeUhiZGJSYVNWdmJjaXdqN21rSGpWM0F4Nzh0UnRfV3dNWkE?oc=5",
-      "source": "Google News:CARG",
+      "symbol": "CCK",
+      "short": "CCK — 業績／指引：Are Investors Undervaluing Crown Holdings (CCK) Right Now?",
+      "detail": "CCK\n重點：業績／指引\n標題：Are Investors Undervaluing Crown Holdings (CCK) Right Now?\n摘要：Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.\n來源：Yahoo Finance:CCK",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-crown-holdings-cck-134003914.html?.tsrc=rss",
+      "source": "Yahoo Finance:CCK",
       "kind": "news"
     },
     {
       "n": 12,
-      "symbol": "FUTU",
-      "short": "FUTU — All Eyes on Hong Kong! Futu Teams Up with LPGA to Bring Ladies Golf World Championship …",
-      "detail": "FUTU\n重點：新聞\n標題：All Eyes on Hong Kong! Futu Teams Up with LPGA to Bring Ladies Golf World Championship to the City for the First Time\n摘要：Futu Holdings Limited (Nasdaq: FUTU, \"Futu\"), a leading tech-driven digitalized brokerage and wealth management platform, announced that the Ladies Professional Golf Association (\"LPGA\") has partnered with Futu for the Hong Kong stop of the LPGA Tour's Spring Asia Swing, introdu…\n來源：Yahoo Finance:FUTU",
-      "url": "https://finance.yahoo.com/media-advertising/articles/eyes-hong-kong-futu-teams-072100479.html?.tsrc=rss",
-      "source": "Yahoo Finance:FUTU",
+      "symbol": "EL",
+      "short": "EL — 業績／指引：Estée Lauder (EL)’s China Bet Just Paid Off. Its Makeup Business Still Hasn’t Caught Up",
+      "detail": "EL\n重點：業績／指引\n標題：Estée Lauder (EL)’s China Bet Just Paid Off. Its Makeup Business Still Hasn’t Caught Up\n摘要：The Estée Lauder Companies Inc. (NYSE:EL) forecast fiscal 2027 adjusted earnings per share of $3.10 to $3.35, above analyst estimates, after fourth-quarter net sales rose 6.3% to $3.63 billion on strong demand for its luxury fragrance and skincare brands. It sent shares up 11% i…\n來源：Yahoo Finance:EL",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/est-e-lauder-el-china-143114789.html?.tsrc=rss",
+      "source": "Yahoo Finance:EL",
       "kind": "news"
     }
   ]
