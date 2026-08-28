@@ -1,101 +1,83 @@
 {
-  "title": "FS新聞 08-28 17:08",
-  "list_name": "FirstScreen_2026-08-28_170838_comma.txt",
-  "created_at": "2026-08-28T17:08:48.788362+00:00",
+  "title": "FS新聞 08-28 21:08",
+  "list_name": "FirstScreen_2026-08-28_210822_comma.txt",
+  "created_at": "2026-08-28T21:08:31.760859+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "GAP",
-      "short": "GAP — 業績／指引：Gap's EPS Growth Seen Accelerating on Brand Momentum, Buybacks, UBS Says",
-      "detail": "GAP\n重點：業績／指引\n標題：Gap's EPS Growth Seen Accelerating on Brand Momentum, Buybacks, UBS Says\n摘要：Gap (GAP) is expected to see stronger earnings per share growth, driven by sustained momentum at the\n來源：Yahoo Finance:GAP\n其他：Gap (GAP) Stock May Be A Bargain On Raised Profit Outlook -…; Shuffle Board: Old Navy Names CEO; Kohl’s Creates Customer …; Gap Stock Jumps After Strong Earnings, Upbeat Guidance, and…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gap-apos-eps-growth-seen-163257802.html?.tsrc=rss",
-      "source": "Yahoo Finance:GAP",
-      "kind": "news"
-    },
-    {
-      "n": 2,
       "symbol": "CRM",
-      "short": "CRM — Salesforce (NYSE:CRM) Rating Increased to Strong-Buy at Wolfe Research - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Rating Increased to Strong-Buy at Wolfe Research - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPUG9ReGNNTFRxamNCUTUwTHBEdXFQb1oySzJDekk3RE1tZmtZT3hGZUZPam53QkhfdjYzQ1RpZEg2djhRbl9pU1NhNW8tY1BGUVlkYWJIUHpFd3pnbHhONkgxLU9WX2dYTkFuWnF1M3pId25CUm1sQUhBZTFZTEU5WkhRQjJFSWdXcUZJd0g4OVZxOUQyeWROLW81ZFJnWGt5YlNNaTBZYWp4R…\n來源：Google News:CRM\n其他：MASTERINVEST Kapitalanlage GmbH Acquires New Shares in Sale…; Jim Cramer Explained Why Salesforce Inc. (NYSE:CRM)’s Share…",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUG9ReGNNTFRxamNCUTUwTHBEdXFQb1oySzJDekk3RE1tZmtZT3hGZUZPam53QkhfdjYzQ1RpZEg2djhRbl9pU1NhNW8tY1BGUVlkYWJIUHpFd3pnbHhONkgxLU9WX2dYTkFuWnF1M3pId25CUm1sQUhBZTFZTEU5WkhRQjJFSWdXcUZJd0g4OVZxOUQyeWROLW81ZFJnWGt5YlNNaTBZYWp4R0M1Q19EUFBzYnR3bFprUFE4cmN4b1dNU0t5TThBMzJR?oc=5",
+      "short": "CRM — Salesforce (NYSE:CRM) Trading Up 1.8% on Analyst Upgrade - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Trading Up 1.8% on Analyst Upgrade - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOa1l3THBMR3Rfblk2SjdNS3BGd2R0UGJ6ZUpQekxhSzlFMUc4eHJ3S0pMUEhRczVWcF9YMEVGYmw5d0pnZVhGblNtRENSc1VjcEhEblVOUmlwcUgwemNCZFI5ekJOdnVSejVBRWNPRGdkd245THFkOWU3V1dGLWFUbENPcHAzZnVReVRoRUZxeUVUU25YbkcyQjNTVHhacy1kVTNHamJOZHJkV…\n來源：Google News:CRM\n其他：Jim Cramer Says Salesforce’s (CRM) Anthropic Partnership Si…; Salesforce (CRM) Stock Soars on Q2 Earnings: Is It Too Late…; Salesforce (CRM) Stock Soars on Q2 Earnings: Is It Too Late…",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa1l3THBMR3Rfblk2SjdNS3BGd2R0UGJ6ZUpQekxhSzlFMUc4eHJ3S0pMUEhRczVWcF9YMEVGYmw5d0pnZVhGblNtRENSc1VjcEhEblVOUmlwcUgwemNCZFI5ekJOdnVSejVBRWNPRGdkd245THFkOWU3V1dGLWFUbENPcHAzZnVReVRoRUZxeUVUU25YbkcyQjNTVHhacy1kVTNHamJOZHJkVUdSa3haQVRn?oc=5",
       "source": "Google News:CRM",
       "kind": "news"
     },
     {
+      "n": 2,
+      "symbol": "GAP",
+      "short": "GAP — How Gap Inc. Plans to Reverse Old Navy’s Slump",
+      "detail": "GAP\n重點：新聞\n標題：How Gap Inc. Plans to Reverse Old Navy’s Slump\n摘要：CEO Richard Dickson spells out strategies in place and upcoming at the value-oriented family brand.\n來源：Yahoo Finance:GAP\n其他：Gap's EPS Growth Seen Accelerating on Brand Momentum, Buyba…; Gap (GAP) Stock May Be A Bargain On Raised Profit Outlook -…; Shuffle Board: Old Navy Names CEO; Kohl’s Creates Customer …",
+      "url": "https://wwd.com/business-news/retail/old-navy-strategies-to-reverse-negative-sales-1239173904/?.tsrc=rss",
+      "source": "Yahoo Finance:GAP",
+      "kind": "news"
+    },
+    {
       "n": 3,
-      "symbol": "GPC",
-      "short": "GPC — Redwood Investment Management LLC Purchases Shares of 8,200 Genuine Parts Company $GPC …",
-      "detail": "GPC\n重點：新聞\n標題：Redwood Investment Management LLC Purchases Shares of 8,200 Genuine Parts Company $GPC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY1JkRkkwTHhiYWVYS0JRRGZIUXktOFRKaWNjVno3a0wtTzBJME9odnRqUzZGdnh2ZWlLQ3p6bXhiYk4xbmVScUdOWXZUSjQ3Mlo5RUtIY3E0c0RHRzFvaXF4NzdJb3BTN3hBc0IyNFVnYnpaY2t5U0VuekVPOV96N3lwRHVSMmhQX0NWbXJFUGpOYVlxbEdHOGtVVXp4ajdYWlN5QTE5ekdvU…\n來源：Google News:GPC\n其他：Man Group plc Takes Position in Genuine Parts Company $GPC …; OMERS ADMINISTRATION Corp Takes Position in Genuine Parts C…",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY1JkRkkwTHhiYWVYS0JRRGZIUXktOFRKaWNjVno3a0wtTzBJME9odnRqUzZGdnh2ZWlLQ3p6bXhiYk4xbmVScUdOWXZUSjQ3Mlo5RUtIY3E0c0RHRzFvaXF4NzdJb3BTN3hBc0IyNFVnYnpaY2t5U0VuekVPOV96N3lwRHVSMmhQX0NWbXJFUGpOYVlxbEdHOGtVVXp4ajdYWlN5QTE5ekdvUWZOUUZxLU5XdDZPdW9aY0R1eXhNNEt1bzVQck1KZXF4VkVHWmZvcnZ6Mk5GTkkxazlYQUE?oc=5",
-      "source": "Google News:GPC",
+      "symbol": "LULU",
+      "short": "LULU — AI相關、業績／指引：6 things investors need to watch in the week ahead",
+      "detail": "LULU\n重點：AI相關、業績／指引\n標題：6 things investors need to watch in the week ahead\n摘要：Asking for a Trend Host, Josh Lipton, tees up the key events investors should watch in the week ahead, starting Monday, August 31, with earnings from Dell (DELL), Palo Alto Networks (PANW), Lululemon (LULU), and Snowflake. (SNOW) On Wednesday, Broadcom's (AVGO) results will offe…\n來源：Yahoo Finance:CRM\n其他：LULU Stock In Focus As Earnings, Downgrades Tighten Pressur…; LULU Stock Steadies As Wall Street Cuts Targets Before Earn…; lululemon athletica (NASDAQ:LULU) Trading 4.4% Higher - Her…",
+      "url": "https://finance.yahoo.com/video/6-things-investors-watch-week-210300637.html?.tsrc=rss",
+      "source": "Yahoo Finance:CRM",
       "kind": "news"
     },
     {
       "n": 4,
+      "symbol": "BTG",
+      "short": "BTG — B2Gold Reports Fatality at the Masbate Gold Project",
+      "detail": "BTG\n重點：新聞\n標題：B2Gold Reports Fatality at the Masbate Gold Project\n摘要：VANCOUVER, British Columbia, Aug. 28, 2026 (GLOBE NEWSWIRE) -- B2Gold Corp. (TSX: BTO, NYSE AMERICAN: BTG, NSX: B2G) (“B2Gold” or the “Company”) regrets to report that a fatality occurred at the Masbate Gold Project in the Philippines on Friday, August 28, 2026. The employee was…\n來源：Yahoo Finance:BTG\n其他：BTG Stock Edges Higher After Mixed Q2 Earnings - timothysyk…; BTG Stock Firms As Earnings Miss But Dividend Holds - Stock…",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/b2gold-reports-fatality-masbate-gold-203200091.html?.tsrc=rss",
+      "source": "Yahoo Finance:BTG",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "OKTA",
+      "short": "OKTA — AI相關、業績／指引：Okta Stock Surges 29% Post Q2 Earnings: Should You Buy?",
+      "detail": "OKTA\n重點：AI相關、業績／指引\n標題：Okta Stock Surges 29% Post Q2 Earnings: Should You Buy?\n摘要：OKTA shares jump 28.63% after Q2 results beat estimates, as stronger bookings, enterprise demand and AI-agent security boosted its outlook.\n來源：Yahoo Finance:OKTA\n其他：Okta Stock Surges 29% Post Q2 Earnings: Should You Buy? - T…; Okta Stock Surges 29%—Is $200 the Next Stop? - MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/okta-stock-surges-29-post-182000214.html?.tsrc=rss",
+      "source": "Yahoo Finance:OKTA",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "BNY",
+      "short": "BNY — 業績／指引：Q2 Earnings Highs And Lows: BNY (NYSE:BNY) Vs The Rest Of The Custody Bank Stocks",
+      "detail": "BNY\n重點：業績／指引\n標題：Q2 Earnings Highs And Lows: BNY (NYSE:BNY) Vs The Rest Of The Custody Bank Stocks\n摘要：As the Q2 earnings season wraps, let’s dig into this quarter’s best and worst performers in the custody bank industry, including BNY (NYSE:BNY) and its peers.\n來源：Yahoo Finance:BNY\n其他：Q2 Earnings Highs And Lows: BNY (NYSE:BNY) Vs The Rest Of T…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-highs-lows-bny-175252620.html?.tsrc=rss",
+      "source": "Yahoo Finance:BNY",
+      "kind": "news"
+    },
+    {
+      "n": 7,
       "symbol": "A",
       "short": "A — 宏觀：The biggest risk to retirement plans may no longer be a stock market crash or inflation",
-      "detail": "A\n重點：宏觀\n標題：The biggest risk to retirement plans may no longer be a stock market crash or inflation\n摘要：An obsolete datapoint may be sabotaging your retirement outcome\n來源：MarketWatch\n其他：Opinion: The biggest risk to retirement plans may no longer…",
+      "detail": "A\n重點：宏觀\n標題：The biggest risk to retirement plans may no longer be a stock market crash or inflation\n摘要：An obsolete datapoint may be sabotaging your retirement outcome\n來源：MarketWatch",
       "url": "https://www.marketwatch.com/story/your-portfolio-can-recover-from-a-bear-market-but-can-it-survive-you-living-to-110-cc6d344c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "kind": "news"
     },
     {
-      "n": 5,
-      "symbol": "PYPL",
-      "short": "PYPL — 業績／指引：PayPal Drops on Deal News; Gap Soars on Earnings | Stock Movers",
-      "detail": "PYPL\n重點：業績／指引\n標題：PayPal Drops on Deal News; Gap Soars on Earnings | Stock Movers\n摘要：On this episode of Stock Movers: - PayPal (PYPL) shares are declining after a consortium of Advent and Stripe has decided to abandon its pursuit of PayPal, according to people familiar with the matter. - Marvell Technology (MRVL) shares are lower following its second-quarter fis…\n來源：Yahoo Finance:GAP\n其他：PayPal (PYPL) Stock Looks Reasonable On Earnings While Grow…",
-      "url": "https://finance.yahoo.com/video/paypal-drops-deal-news-gap-134213979.html?.tsrc=rss",
-      "source": "Yahoo Finance:GAP",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "ROST",
-      "short": "ROST — 業績／指引：Ross Stores (ROST) Upgraded to Buy: Here's Why",
-      "detail": "ROST\n重點：業績／指引\n標題：Ross Stores (ROST) Upgraded to Buy: Here's Why\n摘要：Ross Stores (ROST) has been upgraded to a Zacks Rank #2 (Buy), reflecting growing optimism about the company's earnings prospects. This might drive the stock higher in the near term.\n來源：Yahoo Finance:ROST\n其他：Jefferies Financial Group Inc. Makes New Investment in Ross…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-rost-upgraded-buy-160003836.html?.tsrc=rss",
-      "source": "Yahoo Finance:ROST",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "SLB",
-      "short": "SLB — SLB N.V. (NYSE:SLB) Passed Our Checks, And It's About To Pay A US$0.295 Dividend - simp…",
-      "detail": "SLB\n重點：新聞\n標題：SLB N.V. (NYSE:SLB) Passed Our Checks, And It's About To Pay A US$0.295 Dividend - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRXJjXzZwV3NhUUt1VG4xdUVRdVJJNUdpaGVtb3pwaHo5RUJweGhJRThVM20yQmNlbUdkSlZQc1FQaGFSMnJfUVJnZ3NQTXA1YlI4UllXSVU2a3JxaTFGZDRXbXhxRXNQV0diYnQwTEljSUMwRVZvYWppcWlneldWcFdfZVUwdm1yZ1Z2R1FUZ1Fsal90Vk0wRUFiVTFBdS01M0NibGZLTFlKR…\n來源：Google News:SLB\n其他：Man Group plc Cuts Position in SLB Limited $SLB - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRXJjXzZwV3NhUUt1VG4xdUVRdVJJNUdpaGVtb3pwaHo5RUJweGhJRThVM20yQmNlbUdkSlZQc1FQaGFSMnJfUVJnZ3NQTXA1YlI4UllXSVU2a3JxaTFGZDRXbXhxRXNQV0diYnQwTEljSUMwRVZvYWppcWlneldWcFdfZVUwdm1yZ1Z2R1FUZ1Fsal90Vk0wRUFiVTFBdS01M0NibGZLTFlKRXdPOGtSWi1lQ0RvS19f0gG-AUFVX3lxTFAxbE9uMENiejl3bkdXemw3R253UE9lclhFSFpkOWRZZGtLMTM1eGpkWTNMUWZWSE84QWJOdUFtYXBTMWFmWUx4VXBqTV91bGl2LThIa1lJWGs0V2FoUzBYUUdYOVpiMUkyc296QjQwZWZwUUZzTWxsaWpBYzU1bXVjVXZYQ240VDY4YzFmVEZ5ejB6d05KQVlDVWw1aU1FZ0lvUU0xNFV2b2ZPWUEyYnRNME1lVjE2WTdocnVlMVE?oc=5",
-      "source": "Google News:SLB",
-      "kind": "news"
-    },
-    {
       "n": 8,
-      "symbol": "TGT",
-      "short": "TGT — 業績／指引：Target (TGT)’s Comeback Quarter had Nearly $1 Billion in Help From Trump’s Tariff Refun…",
-      "detail": "TGT\n重點：業績／指引\n標題：Target (TGT)’s Comeback Quarter had Nearly $1 Billion in Help From Trump’s Tariff Refunds\n摘要：On August 20, 2026, Target Corporation (NYSE:TGT) reported its second straight quarter of comparable sales gains, with a $994 million tariff refund contributing meaningfully to a profit beat. It happened after the US Supreme Court ruled earlier this year that President Trump ove…\n來源：Yahoo Finance:TGT\n其他：The Manufacturers Life Insurance Company Decreases Stock Ho…",
-      "url": "https://finance.yahoo.com/economy/policy/articles/target-tgt-comeback-quarter-had-142849138.html?.tsrc=rss",
-      "source": "Yahoo Finance:TGT",
+      "symbol": "BHP",
+      "short": "BHP — Is BHP Group (BHP) the Missing Piece in NexGen Energy (NXE)’s $1 Billion Financing Plan?",
+      "detail": "BHP\n重點：新聞\n標題：Is BHP Group (BHP) the Missing Piece in NexGen Energy (NXE)’s $1 Billion Financing Plan?\n摘要：NexGen Energy Ltd. (NYSE:NXE) is making waves after CEO Leigh Curyer revealed active talks with mining giant BHP Group Limited (NYSE:BHP) on August 17 regarding a potential equity stake and financing for its flagship Rook I project in Saskatchewan. Having just broken ground on c…\n來源：Yahoo Finance:BHP",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bhp-group-bhp-missing-piece-202645157.html?.tsrc=rss",
+      "source": "Yahoo Finance:BHP",
       "kind": "news"
     },
     {
       "n": 9,
-      "symbol": "ALSN",
-      "short": "ALSN — 31,650 Shares in Allison Transmission Holdings, Inc. $ALSN Bought by Stonehage Fleming …",
-      "detail": "ALSN\n重點：新聞\n標題：31,650 Shares in Allison Transmission Holdings, Inc. $ALSN Bought by Stonehage Fleming Financial Services Holdings Ltd - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxQRk5tNm11SnlvVFJXeWpVci1RZ2oxanNMeW5qYklEOUxmVzhyUUVSR3FLdlV6SlI3UW1Ubkh0Ni10OThjbkhqTnlERkhVQ1JPYjMxeFgzOVluSXlhMXJsOV8xcVAxN0djTXdYN0tuSWlYcE9QOGtQUmFUN1RZNFRDNFZBRDBCVGc2RXNBdEFrWGlERnFRS0xKZTdhMGZRTmFmTFp3dGhWaEJOM…\n來源：Google News:ALSN",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQRk5tNm11SnlvVFJXeWpVci1RZ2oxanNMeW5qYklEOUxmVzhyUUVSR3FLdlV6SlI3UW1Ubkh0Ni10OThjbkhqTnlERkhVQ1JPYjMxeFgzOVluSXlhMXJsOV8xcVAxN0djTXdYN0tuSWlYcE9QOGtQUmFUN1RZNFRDNFZBRDBCVGc2RXNBdEFrWGlERnFRS0xKZTdhMGZRTmFmTFp3dGhWaEJOMzZOeEhfbnlNUGV6V1hldEplQnVCTG5fNmJ0SmhTd000cDBCbnl5bE1UdzBHMmhqRVVBQzVRTE9sTmlCNjNMZTlOM3dSY3NlaXg5R0xqNkJZaGpWWHZpSjhycFBn?oc=5",
-      "source": "Google News:ALSN",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "BNY",
-      "short": "BNY — 43,924 Shares in Bank of New York Mellon Corporation $BNY Purchased by United Capital F…",
-      "detail": "BNY\n重點：新聞\n標題：43,924 Shares in Bank of New York Mellon Corporation $BNY Purchased by United Capital Financial Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWEs3Q1ZMWFJ6OThkU0pIMmZydElDREh5cXNNOUVDZWdvMzRWMzM2Qng0TFFGZWlMdm9oUE44WEZ1UUJvak5oc3ZMLTRjS25CYnhBVjhLR3FJZmg4Skt0VURPYjJHcUx1OWdULTllclRCZ3BLb3B5dzF4Tkw0V3BDeVZmdEFhaGJNM0phaWNJOHg4NlpOSnF2QnhkM3prWDFZY3JIVzlzSHlvZ…\n來源：Google News:BNY",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWEs3Q1ZMWFJ6OThkU0pIMmZydElDREh5cXNNOUVDZWdvMzRWMzM2Qng0TFFGZWlMdm9oUE44WEZ1UUJvak5oc3ZMLTRjS25CYnhBVjhLR3FJZmg4Skt0VURPYjJHcUx1OWdULTllclRCZ3BLb3B5dzF4Tkw0V3BDeVZmdEFhaGJNM0phaWNJOHg4NlpOSnF2QnhkM3prWDFZY3JIVzlzSHlvZFNMZTBVWnVHNDdmV3NiLVlmZjl2LVZQOG5KQXNIaFhXSVZpcUY4dWNQaXRXTGdaTlQ2SDV0REprelV0bDlPOGc2ck9XTTgxX2RMbHdNQ1Q4SQ?oc=5",
-      "source": "Google News:BNY",
-      "kind": "news"
-    },
-    {
-      "n": 11,
       "symbol": "CCK",
       "short": "CCK — 業績／指引：Are Investors Undervaluing Crown Holdings (CCK) Right Now?",
       "detail": "CCK\n重點：業績／指引\n標題：Are Investors Undervaluing Crown Holdings (CCK) Right Now?\n摘要：Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.\n來源：Yahoo Finance:CCK",
@@ -104,12 +86,30 @@
       "kind": "news"
     },
     {
-      "n": 12,
+      "n": 10,
       "symbol": "EL",
       "short": "EL — 業績／指引：Estée Lauder (EL)’s China Bet Just Paid Off. Its Makeup Business Still Hasn’t Caught Up",
       "detail": "EL\n重點：業績／指引\n標題：Estée Lauder (EL)’s China Bet Just Paid Off. Its Makeup Business Still Hasn’t Caught Up\n摘要：The Estée Lauder Companies Inc. (NYSE:EL) forecast fiscal 2027 adjusted earnings per share of $3.10 to $3.35, above analyst estimates, after fourth-quarter net sales rose 6.3% to $3.63 billion on strong demand for its luxury fragrance and skincare brands. It sent shares up 11% i…\n來源：Yahoo Finance:EL",
       "url": "https://finance.yahoo.com/markets/stocks/articles/est-e-lauder-el-china-143114789.html?.tsrc=rss",
       "source": "Yahoo Finance:EL",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "FDX",
+      "short": "FDX — FedEx Corporation (FDX) is Growing Faster, but Could United Parcel (UPS) Have More Marg…",
+      "detail": "FDX\n重點：新聞\n標題：FedEx Corporation (FDX) is Growing Faster, but Could United Parcel (UPS) Have More Margin Upside?\n摘要：Logistics rivals FedEx Corporation (NYSE:FDX) and United Parcel Service, Inc. (NYSE:UPS) shared the spotlight on August 20, when the U.S. Transportation Command awarded both giants modified defense contracts worth an estimated $2.72 billion each under the Next Generation Deliver…\n來源：Yahoo Finance:FDX",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fedex-corporation-fdx-growing-faster-205403027.html?.tsrc=rss",
+      "source": "Yahoo Finance:FDX",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "FTNT",
+      "short": "FTNT — 業績／指引：Why Is Fortinet (FTNT) Up 12% Since Last Earnings Report?",
+      "detail": "FTNT\n重點：業績／指引\n標題：Why Is Fortinet (FTNT) Up 12% Since Last Earnings Report?\n摘要：Fortinet (FTNT) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.\n來源：Yahoo Finance:FTNT",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-fortinet-ftnt-12-since-153028351.html?.tsrc=rss",
+      "source": "Yahoo Finance:FTNT",
       "kind": "news"
     }
   ]
