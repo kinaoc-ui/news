@@ -1,16 +1,16 @@
 {
-  "title": "FS新聞 08-29 11:28",
-  "list_name": "FirstScreen_2026-08-29_112759_comma.txt",
-  "created_at": "2026-08-29T11:28:08.019701+00:00",
+  "title": "FS新聞 08-29 14:58",
+  "list_name": "FirstScreen_2026-08-29_145833_comma.txt",
+  "created_at": "2026-08-29T14:58:42.910982+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "CRM",
-      "short": "CRM — 業績／指引：Jim Cramer Explained Why Salesforce Inc. (NYSE:CRM)’s Shares Rose Ahead Of Earnings",
-      "detail": "CRM\n重點：業績／指引\n標題：Jim Cramer Explained Why Salesforce Inc. (NYSE:CRM)’s Shares Rose Ahead Of Earnings\n來源：Yahoo Finance\n其他：New Mexico Educational Retirement Board Purchases 2,600 Sha…; Salesforce Inc. $CRM Shares Sold by Northstar Asset Managem…; Salesforce Just Jumped 23%. Did the “SaaSpocalypse” Trade F…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explained-why-salesforce-091412869.html",
-      "source": "Yahoo Finance",
+      "symbol": "HCA",
+      "short": "HCA — Wellington Management Group LLP Purchases 799,761 Shares of HCA Healthcare, Inc. $HCA -…",
+      "detail": "HCA\n重點：新聞\n標題：Wellington Management Group LLP Purchases 799,761 Shares of HCA Healthcare, Inc. $HCA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdWY0cFNHWHlUSU9zQkltcnF1NFVNbWRoWGEyMlhRa3dIRGY4aVRIbFZpVGhDMjdXa2pRY0U2aWtSMWRPZkZuTElobXhZQmRQd0VhLVNrSFdQWkREZnF4RllGMHNHaTFQVnFEODMtZ0Q5ZmcxdXdDWEFyZWZWTDliRGtkWHpySkxoRFhnYVlpQWNrNUFYQ014czhkQ1pQWGlQczFPUHV2Ni1ta…\n來源：Google News:HCA\n其他：HCA Healthcare, Inc. $HCA Shares Acquired by Royal London A…; Livforsakringsbolaget Skandia Omsesidigt Invests $9.45 Mill…",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdWY0cFNHWHlUSU9zQkltcnF1NFVNbWRoWGEyMlhRa3dIRGY4aVRIbFZpVGhDMjdXa2pRY0U2aWtSMWRPZkZuTElobXhZQmRQd0VhLVNrSFdQWkREZnF4RllGMHNHaTFQVnFEODMtZ0Q5ZmcxdXdDWEFyZWZWTDliRGtkWHpySkxoRFhnYVlpQWNrNUFYQ014czhkQ1pQWGlQczFPUHV2Ni1tamtzUFBQaFg1REJwS3dEOWdUNFRYNXdpaWVETjZ2QXFOcFhPSW5jc2dpWllqdTRfZw?oc=5",
+      "source": "Google News:HCA",
       "kind": "news"
     },
     {
@@ -24,24 +24,6 @@
     },
     {
       "n": 3,
-      "symbol": "PYPL",
-      "short": "PYPL — Corient Private Wealth LP Purchases Shares of 9,664,262 PayPal Holdings, Inc. $PYPL - M…",
-      "detail": "PYPL\n重點：新聞\n標題：Corient Private Wealth LP Purchases Shares of 9,664,262 PayPal Holdings, Inc. $PYPL - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdnJGSFU3TnhPeXNMaGFMVlpZWlQ5UlQtRFIyLUdpNWx5S0Q5M1ZWSTdJMGNMMWoyY0hWQ2hPTGtGMFBFbkpESWtxYUgxMUtwN2dzV2V6d1V0YW9WLXBPYzdhZUpKRnl6eEtFd2FySE12Wkd1TDdOTjR6Zk5SMUprcHpIVUI3Q3FZd1VxZjhScnF2Uk41VXhDMlRRUXFlck4ydVVseWZpaFFmU…\n來源：Google News:PYPL\n其他：PayPal (PYPL) Hit After Stripe, Advent Drop $53B Planned Ta…; Here’s What Jim Cramer Thinks Is In Store For PayPal Holdin…",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdnJGSFU3TnhPeXNMaGFMVlpZWlQ5UlQtRFIyLUdpNWx5S0Q5M1ZWSTdJMGNMMWoyY0hWQ2hPTGtGMFBFbkpESWtxYUgxMUtwN2dzV2V6d1V0YW9WLXBPYzdhZUpKRnl6eEtFd2FySE12Wkd1TDdOTjR6Zk5SMUprcHpIVUI3Q3FZd1VxZjhScnF2Uk41VXhDMlRRUXFlck4ydVVseWZpaFFmUW8zUl9ObkdjZk90YTRrYnYydDVWRlJyU2pyemxVZzBhYm5EbGE4Q1Z5Y3pR?oc=5",
-      "source": "Google News:PYPL",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "HCA",
-      "short": "HCA — HCA Healthcare, Inc. $HCA Shares Acquired by Royal London Asset Management Ltd. - Marke…",
-      "detail": "HCA\n重點：新聞\n標題：HCA Healthcare, Inc. $HCA Shares Acquired by Royal London Asset Management Ltd. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlgtdWtFQTBRQXB2TUZFTUdWang3QTJIUHlCaEI5YkNiM01iMm5IN3VQMUktaXdmY3JSWDROM3lrSFZweks3bDRlMWNKOTJ4U2xSR19hVmFyaFcxQlFNX3lWZFliQ0tBa05FN1pGTkh5UmpOWlhPbXgwNGlJTVR3WUZFYVQwMWhhXzZtNWNUNlFudi1JTEdkckRCRm1WUXFHYjdwRmxpeGE3W…\n來源：Google News:HCA\n其他：Livforsakringsbolaget Skandia Omsesidigt Invests $9.45 Mill…",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlgtdWtFQTBRQXB2TUZFTUdWang3QTJIUHlCaEI5YkNiM01iMm5IN3VQMUktaXdmY3JSWDROM3lrSFZweks3bDRlMWNKOTJ4U2xSR19hVmFyaFcxQlFNX3lWZFliQ0tBa05FN1pGTkh5UmpOWlhPbXgwNGlJTVR3WUZFYVQwMWhhXzZtNWNUNlFudi1JTEdkckRCRm1WUXFHYjdwRmxpeGE3WEUxN1VrWjQzajd2Tkw5VmxDNGFWd3pCVmJyZjkwTnV3UWJVaVJVZWc?oc=5",
-      "source": "Google News:HCA",
-      "kind": "news"
-    },
-    {
-      "n": 5,
       "symbol": "LW",
       "short": "LW — Lamb Weston $LW Stock Position Lessened by Kingsview Wealth Management LLC - MarketBeat",
       "detail": "LW\n重點：新聞\n標題：Lamb Weston $LW Stock Position Lessened by Kingsview Wealth Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQbzlVcVFyU0VXSUtaMXVVMHd3OXpGR3dNZ3FvSDlpVVoxYkMyOGZmN0FEa0pkQVptSmV6dzBXTV94TWVRRHQ1NjlZbUFNUzNOOTlOal80NzhoZlp3Tm1yMFZlYVQyeC1PU0NEUlJ4anhBdEY0N3FYZG82SlBHS1ZqYXJlNFE3ZGxubUh2UWtXS2NXaVdIVm1aNEhMSW1VVmw1LV91bWhMQllyN…\n來源：Google News:LW\n其他：Hsbc Holdings PLC Purchases New Shares in Lamb Weston $LW -…",
@@ -50,7 +32,7 @@
       "kind": "news"
     },
     {
-      "n": 6,
+      "n": 4,
       "symbol": "MDT",
       "short": "MDT — Toth Financial Advisory Corp Sells 22,666 Shares of Medtronic PLC $MDT - MarketBeat",
       "detail": "MDT\n重點：新聞\n標題：Toth Financial Advisory Corp Sells 22,666 Shares of Medtronic PLC $MDT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSlFrQkI3Vmo3d0xBaExKX1IzeVFVcG1JeWlLYy1hVHVDc2dHRnJGZVVrRkQ5TjJtTDZqZDN6ZnF5SDNTWnRTbzVEQ3BpVzN3UHU0S0lSZWZPVHYyTzZ2WVhqUWlqN1htNTBFQ05jSW9tVlVhYVJtczJOeGw4dEdOUEF2bHF3aFEycW5ZM3Ewd3JKQ1hFUEctajlUVjZYWTFXT0xHRG4wX3p1e…\n來源：Google News:MDT\n其他：Archer Investment Corp Invests $1.04 Million in Medtronic P…",
@@ -59,7 +41,7 @@
       "kind": "news"
     },
     {
-      "n": 7,
+      "n": 5,
       "symbol": "ROST",
       "short": "ROST — Wellington Management Group LLP Acquires 3,118,591 Shares of Ross Stores, Inc. $ROST - …",
       "detail": "ROST\n重點：新聞\n標題：Wellington Management Group LLP Acquires 3,118,591 Shares of Ross Stores, Inc. $ROST - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMkZDZm96OVE5eXNPMTVtb3JHMU5ucVdYZ0pKVTZ4ZmQ4N3EwLWl2bmxDZTdKM3Ezbk5Yajk2SDdQdUdXcWVmbDBWek5YSDRDSmp5TUd3VzZGMUV2TjFXdEY0T1c3RlkyMF8ya1l3VWZGQzltUEZrdHdzM1YzT2Q4XzJrb2tibzdVZW9OQWtWbHdMX2sxMS1WUzhJRkk1d0tyZksxYmE3d3JCe…\n來源：Google News:ROST\n其他：Livforsakringsbolaget Skandia Omsesidigt Invests $6.74 Mill…",
@@ -68,7 +50,7 @@
       "kind": "news"
     },
     {
-      "n": 8,
+      "n": 6,
       "symbol": "SLB",
       "short": "SLB — Van ECK Associates Corp Sells 398,423 Shares of SLB Limited $SLB - MarketBeat",
       "detail": "SLB\n重點：新聞\n標題：Van ECK Associates Corp Sells 398,423 Shares of SLB Limited $SLB - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1RTS3gxOVhNQTdQQWJ4QzlJRnB2Zk1rRzBZMTdjQVFqbFlYa3J6RFVFRzdFVl9ybXhjdW1XMURKN0duU1h6TnlOTTZWMEpqUHZ0d3liblFyVl9fV3poSlZudjhvZU9qWUxtOVdoeFJuZFo2QmVZMGI3TnpBMVVFOFExT3ZuZ1dXY0VMdXRrcUVnNS1nVkZYdlluMzJLSDF5UEFzOHcxVHp6U…\n來源：Google News:SLB\n其他：Public Employees Retirement System of Ohio Takes Position i…",
@@ -77,16 +59,7 @@
       "kind": "news"
     },
     {
-      "n": 9,
-      "symbol": "TGT",
-      "short": "TGT — Public Employees Retirement System of Ohio Decreases Holdings in Target Corporation $TG…",
-      "detail": "TGT\n重點：新聞\n標題：Public Employees Retirement System of Ohio Decreases Holdings in Target Corporation $TGT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc1U5MW8zSTdBTFcxZVhaZ3pMT3BsMGduOEg4WU9lZmRLMjN6VjI0SDdmVThiR2NkZDFzeWJYTVNXTFFXeTI3eHp2MWgwajVWeVFkdXBNVTlVcmFwUUdybjVUeXVFMmducUhvS1FjQTVGSEpjQTJTWklzNWZQZHBaYkN2VW0xT3VCcnIwdnE1eEZiRzJlQlZScm12eFUtZzFiN3dHakpnZ0FOd…\n來源：Google News:TGT\n其他：Equitable Holdings Inc. Sells 8,134 Shares of Target Corpor…",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc1U5MW8zSTdBTFcxZVhaZ3pMT3BsMGduOEg4WU9lZmRLMjN6VjI0SDdmVThiR2NkZDFzeWJYTVNXTFFXeTI3eHp2MWgwajVWeVFkdXBNVTlVcmFwUUdybjVUeXVFMmducUhvS1FjQTVGSEpjQTJTWklzNWZQZHBaYkN2VW0xT3VCcnIwdnE1eEZiRzJlQlZScm12eFUtZzFiN3dHakpnZ0FOdURFdHBUc056YnhUWndvWVBMZk5LRVdUWmVvWldvQjJfQjB3WmVMRnAwLVk2N1doU3c4Rk5PTW9n?oc=5",
-      "source": "Google News:TGT",
-      "kind": "news"
-    },
-    {
-      "n": 10,
+      "n": 7,
       "symbol": "URBN",
       "short": "URBN — Livforsakringsbolaget Skandia Omsesidigt Takes Position in Urban Outfitters, Inc. $URBN…",
       "detail": "URBN\n重點：新聞\n標題：Livforsakringsbolaget Skandia Omsesidigt Takes Position in Urban Outfitters, Inc. $URBN - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZzRHWEpoSnJnRHVvbzhKa0tnb0Z0QkdmVnplazFBa1pTMDE2WExyS2dLcWJjUC1WbFJuT1BsSTNXWUxyUU5kUU85M2t2dVFXZ3NYdXdsV243VUdLaTZBMzNMVkdKcVhSNTdCOUthSjNHV1IxS3VmZllJejF4LXNHU1IwazJvNGQxS2pCNW5CcnJ2LWVnNkxDWFlLY0ZvbVoxTjBqX3RwalphN…\n來源：Google News:URBN\n其他：Urban Outfitters, Inc. $URBN Shares Sold by Braun Stacey As…",
@@ -95,7 +68,7 @@
       "kind": "news"
     },
     {
-      "n": 11,
+      "n": 8,
       "symbol": "BNY",
       "short": "BNY — 112,295 Shares in Bank of New York Mellon Corporation $BNY Acquired by Rakuten Investme…",
       "detail": "BNY\n重點：新聞\n標題：112,295 Shares in Bank of New York Mellon Corporation $BNY Acquired by Rakuten Investment Management Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUng0ZHR0WmVRWHg2NVdZY0ZEM0w4eEpKWkVhUHoyb2U5V2wwLUN4VjBjVE5ZZGNLTnBaTTRMQ1hTS0NVVi1aR1lxLVR1bTF6VXhWRlFJNk9QdkdUb19iQ09DNzlIV2dFR2hFNkxjenJreVFlSGJxNEtFeG9aQ2x4SktnSHNZSUtZZ3lwcFRZNFdTYmdneGV4Y1UxamU5MGQ2QnUyOEVVdG50V…\n來源：Google News:BNY",
@@ -104,12 +77,39 @@
       "kind": "news"
     },
     {
-      "n": 12,
+      "n": 9,
+      "symbol": "CRM",
+      "short": "CRM — New Mexico Educational Retirement Board Purchases 2,600 Shares of Salesforce Inc. $CRM …",
+      "detail": "CRM\n重點：新聞\n標題：New Mexico Educational Retirement Board Purchases 2,600 Shares of Salesforce Inc. $CRM - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU2FEUm43WHdxSHFJV21FYUdKRElBNE83MmJOdmtUQlVTNTlMVUludWhnc0pzaXd2VlVlY2ozM3RKbklWckM4S1lNOVhFSUIxRmNPTElfaWFMQmhWVks2YmNjclpHUENNcENjZklRMXEyOU5XMTBZTTZmWEl0X1dqQ1hoYVdBOHBnWS1rLVFPT3Q2M2Nhb2E4LXJIbld4NU5YdGEycXFwSVlme…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU2FEUm43WHdxSHFJV21FYUdKRElBNE83MmJOdmtUQlVTNTlMVUludWhnc0pzaXd2VlVlY2ozM3RKbklWckM4S1lNOVhFSUIxRmNPTElfaWFMQmhWVks2YmNjclpHUENNcENjZklRMXEyOU5XMTBZTTZmWEl0X1dqQ1hoYVdBOHBnWS1rLVFPT3Q2M2Nhb2E4LXJIbld4NU5YdGEycXFwSVlmeTdINjJkTklwcjJIQURhMVFMcVdsbDlzZW1LN2FNS1RCWUx2NHNELVBmeUx0RjJnT0tv?oc=5",
+      "source": "Google News:CRM",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "FUTU",
+      "short": "FUTU — 業績／指引：The Bull Case For Futu Holdings (FUTU) Could Change Following Record Q2 2026 Results An…",
+      "detail": "FUTU\n重點：業績／指引\n標題：The Bull Case For Futu Holdings (FUTU) Could Change Following Record Q2 2026 Results And LPGA Deal\n摘要：Futu Holdings reported second-quarter 2026 revenue of HK$7,200.21 million and net income of HK$3,646.78 million, both higher than a year earlier, alongside record trading volumes above HK$6 trillion and growing international licenses, including a new securities license in Thaila…\n來源：Yahoo Finance:FUTU",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bull-case-futu-holdings-futu-121147052.html?.tsrc=rss",
+      "source": "Yahoo Finance:FUTU",
+      "kind": "news"
+    },
+    {
+      "n": 11,
       "symbol": "GAP",
       "short": "GAP — 業績／指引：Here’s Why Gap Stock Surged 13% Yesterday After Reporting Q2 2027 Earnings. - TIKR.com",
-      "detail": "GAP\n重點：業績／指引\n標題：Here’s Why Gap Stock Surged 13% Yesterday After Reporting Q2 2027 Earnings. - TIKR.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPekF4Z2syTU43WGFxTUZKNlJ4TnlVMVlIem5GQ3FDdDk3amtzZW9qd2NpdnlfSFZsQUZrZlNJVDVFbHluUkxBWGd3Y1JmRlloSmRsYU82NEhtcm8yZUMwX1hoczlOWDItVy1lNGVjenJtakZQcDllM1J0cVh5N1FJalFMWDlRTTh0cXhjRy1IZFItWDhVVU0zVG9YOWJkY2s?oc=5\" target=…\n來源：Google News:GAP",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPekF4Z2syTU43WGFxTUZKNlJ4TnlVMVlIem5GQ3FDdDk3amtzZW9qd2NpdnlfSFZsQUZrZlNJVDVFbHluUkxBWGd3Y1JmRlloSmRsYU82NEhtcm8yZUMwX1hoczlOWDItVy1lNGVjenJtakZQcDllM1J0cVh5N1FJalFMWDlRTTh0cXhjRy1IZFItWDhVVU0zVG9YOWJkY2s?oc=5",
+      "detail": "GAP\n重點：業績／指引\n標題：Here’s Why Gap Stock Surged 13% Yesterday After Reporting Q2 2027 Earnings. - TIKR.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNX29mdTh4MVdLbVByc0REaXFqcklqTVZNNlFtQl9TUUtINko1dnppS0E4T1pTejlrX2RDVjFYR3k0M1M4T3RRa2lKakl1MlRfRUptUm0zeTdpV1p2QkV1VkhlVkhRSGZiVFFidnJKdWN1bmFnc0dfaGljR2R3MzJQSE5ldmF2TWlYazFKUEItMXcyZkdKd0o2X2drRGdxaWFw?oc=5\" target…\n來源：Google News:GAP",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX29mdTh4MVdLbVByc0REaXFqcklqTVZNNlFtQl9TUUtINko1dnppS0E4T1pTejlrX2RDVjFYR3k0M1M4T3RRa2lKakl1MlRfRUptUm0zeTdpV1p2QkV1VkhlVkhRSGZiVFFidnJKdWN1bmFnc0dfaGljR2R3MzJQSE5ldmF2TWlYazFKUEItMXcyZkdKd0o2X2drRGdxaWFw?oc=5",
       "source": "Google News:GAP",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "GEN",
+      "short": "GEN — 510,452 Shares in Gen Digital Inc. $GEN Bought by Empowered Funds LLC - MarketBeat",
+      "detail": "GEN\n重點：新聞\n標題：510,452 Shares in Gen Digital Inc. $GEN Bought by Empowered Funds LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQSG1oM0tmT1JFdzR5blNoaHo1SWhEUUtHNHVTZ3FWZEJGNXFFZTYzTVB0cjZfbVA2Nk1tM3VfQzAxaHlRRVlOeHliOFRwd25lV3hLVy1xbk9McnBjbXlKbmtSS0s1UElLWkdfZHN2N3JlOGlHV19hbUxITzZ3SkZmU2RMQ29TUUJxVGlQR2FoY1BvdUFZMloycDZmem00MHFaOUtZclV2YVNXe…\n來源：Google News:GEN",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSG1oM0tmT1JFdzR5blNoaHo1SWhEUUtHNHVTZ3FWZEJGNXFFZTYzTVB0cjZfbVA2Nk1tM3VfQzAxaHlRRVlOeHliOFRwd25lV3hLVy1xbk9McnBjbXlKbmtSS0s1UElLWkdfZHN2N3JlOGlHV19hbUxITzZ3SkZmU2RMQ29TUUJxVGlQR2FoY1BvdUFZMloycDZmem00MHFaOUtZclV2YVNXeU5JSlpNMFVEYzhGdG5OQkYzZThQTGVJVy1ZV2c?oc=5",
+      "source": "Google News:GEN",
       "kind": "news"
     }
   ]
