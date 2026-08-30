@@ -1,34 +1,115 @@
 {
-  "title": "FS新聞 08-30 05:34",
-  "list_name": "FirstScreen_2026-08-30_053428_comma.txt",
-  "created_at": "2026-08-30T05:34:37.293044+00:00",
+  "title": "FS新聞 08-30 10:15",
+  "list_name": "FirstScreen_2026-08-30_101538_comma.txt",
+  "created_at": "2026-08-30T10:15:47.659512+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "BILL",
-      "short": "BILL — AI相關：Bill Holdings (BILL) Leans On AI To Power Its Next Chapter",
-      "detail": "BILL\n重點：AI相關\n標題：Bill Holdings (BILL) Leans On AI To Power Its Next Chapter\n來源：Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bill-holdings-bill-leans-ai-215100156.html",
-      "source": "Yahoo Finance",
+      "symbol": "GEN",
+      "short": "GEN — Man Group plc Takes Position in Gen Digital Inc. $GEN - MarketBeat",
+      "detail": "GEN\n重點：新聞\n標題：Man Group plc Takes Position in Gen Digital Inc. $GEN - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPeEVBaFVoY0FTOHlDNG9UYjQtTGJPNUtzQW0ycjAzeXYteVVyMm5Dc1BsX2NNZENoUC1ldGFJLVFDRFVPMWN6UTNYOEVEZE50b2NlU2tqNmd4SFV2MVV0ci0xRmczdVBhUU82ZU50LUt2eDdwb215cGU2Y3ZZbEUwdTdWM2FnRWxwYTVRSlduOTM0ekpkdnVYLWI4VmFveG5kTGFMcTZ2aHUxW…\n來源：Google News:GEN\n其他：Jupiter Topco LLC Invests $18.06 Million in Gen Digital Inc…; 361,310 Shares in Gen Digital Inc. $GEN Purchased by The Ma…; Greenwood Capital Associates LLC Makes New Investment in Ge…",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeEVBaFVoY0FTOHlDNG9UYjQtTGJPNUtzQW0ycjAzeXYteVVyMm5Dc1BsX2NNZENoUC1ldGFJLVFDRFVPMWN6UTNYOEVEZE50b2NlU2tqNmd4SFV2MVV0ci0xRmczdVBhUU82ZU50LUt2eDdwb215cGU2Y3ZZbEUwdTdWM2FnRWxwYTVRSlduOTM0ekpkdnVYLWI4VmFveG5kTGFMcTZ2aHUxWDkwZmdOOEJn?oc=5",
+      "source": "Google News:GEN",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "NTNX",
-      "short": "NTNX — AI相關：Nutanix (NTNX) Stock May Trade At A Discount After New Enterprise AI Launch - simplywal…",
-      "detail": "NTNX\n重點：AI相關\n標題：Nutanix (NTNX) Stock May Trade At A Discount After New Enterprise AI Launch - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNdVd0bktOeElGbmdnRERZdHN4RDRFcERvd2ZJejljOXVRRXJ0TlRTSGJNZGVuRXM2eFZXZFg4MlpGa0FuVmxqM2tseXVqQnBaQ1YzUTdIWTdDejdmYUJSNl9YVTRKSFlqSnd2akRDVWd0TkRnNGVqUDFYVGk3WHdTVVp2aWI5WWdfRGJKOHVjc2RISVNZMlp1NWRHMmI1bGE0M2pSRVlOMGFLQ…\n來源：Google News:NTNX",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdVd0bktOeElGbmdnRERZdHN4RDRFcERvd2ZJejljOXVRRXJ0TlRTSGJNZGVuRXM2eFZXZFg4MlpGa0FuVmxqM2tseXVqQnBaQ1YzUTdIWTdDejdmYUJSNl9YVTRKSFlqSnd2akRDVWd0TkRnNGVqUDFYVGk3WHdTVVp2aWI5WWdfRGJKOHVjc2RISVNZMlp1NWRHMmI1bGE0M2pSRVlOMGFLQ3Z0and2WDFPcndNQjZhSVJyOXdEU1JjaXB40gHKAUFVX3lxTE1NbXoyakdPZVQyRHphenhlQjlfOVBmeXI0S3BTWkFxUC1KcjJkNzdfUXR3SXZXc3J1amF1Z25ZeUlRRmR2Ykdja2NRbldpNzU4TGYxaDU0bEJkSENHLXZBcDZ2ajVMdnVKTURSMkxjRUx4WER0YzU2UlNHSWF1OV9xS3lUaGJPWTNYUmQzb01COWk2bERSOW92blBZWTJoUlJlR1phMEFuZGFSS0R2RjJSc2poYlB5ZllNdXkzeVhfbDgwdTZGTng1S1E?oc=5",
-      "source": "Google News:NTNX",
+      "symbol": "MDT",
+      "short": "MDT — Wellington Management Group LLP Sells 1,051,096 Shares of Medtronic PLC $MDT - MarketBe…",
+      "detail": "MDT\n重點：新聞\n標題：Wellington Management Group LLP Sells 1,051,096 Shares of Medtronic PLC $MDT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNdlRBVUg4cTJpRTlWUmVBN0FEYnBRenJXUkcwSzBuTjBXTnY5V2lXa0cxemhmTk5uWE9HdjhTS0RNb3Q5NzBQTk92MlV5Z1FNQVJDUnYybWo2WDNqcVFnczdxUkVKNEZwaE5HZ2NqbzZpM0thbE1jVDBQdy1iWXNyUE1JbmM1Tmh1Zm5qbGJWNnhYSzJzMFJlYXRXU2pMcDdDVGxBbDY4NFpLQ…\n來源：Google News:MDT\n其他：Medtronic PLC $MDT Shares Purchased by Greenwood Capital As…; Capital Advisors Inc. OK Raises Stock Position in Medtronic…",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdlRBVUg4cTJpRTlWUmVBN0FEYnBRenJXUkcwSzBuTjBXTnY5V2lXa0cxemhmTk5uWE9HdjhTS0RNb3Q5NzBQTk92MlV5Z1FNQVJDUnYybWo2WDNqcVFnczdxUkVKNEZwaE5HZ2NqbzZpM0thbE1jVDBQdy1iWXNyUE1JbmM1Tmh1Zm5qbGJWNnhYSzJzMFJlYXRXU2pMcDdDVGxBbDY4NFpLQmgxYXBERU9tUU8zalA0RUg5OEp1QWpGODg0V3ZueHNreGxlQkU?oc=5",
+      "source": "Google News:MDT",
       "kind": "news"
     },
     {
       "n": 3,
+      "symbol": "OXY",
+      "short": "OXY — Rakuten Investment Management Inc. Purchases New Holdings in Occidental Petroleum Corpo…",
+      "detail": "OXY\n重點：新聞\n標題：Rakuten Investment Management Inc. Purchases New Holdings in Occidental Petroleum Corporation $OXY - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMVo3ODhQb0hJLVNJSUtabFhzeHdGallYcHlFR1FpWGQwWjNQSWd6TjFQeXktZ0RaNDdKOGxEUm0xcEpWSko5VVRFWWdkdDFtTnRzaVh6ZndSUlY2VU1sVUNSTUVGb1ZLNUFsSE1oMWxWN2oxS2FRMEJESExpV09iRzVXQ2N2SmNHOG9lWWZ0ZXBDa3MzZHB1cExmajRBV1hQQmpGcDFZRENDR…\n來源：Google News:OXY\n其他：227,318 Shares in Occidental Petroleum Corporation $OXY Bou…; Alyeska Investment Group L.P. Purchases 1,331,774 Shares of…",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMVo3ODhQb0hJLVNJSUtabFhzeHdGallYcHlFR1FpWGQwWjNQSWd6TjFQeXktZ0RaNDdKOGxEUm0xcEpWSko5VVRFWWdkdDFtTnRzaVh6ZndSUlY2VU1sVUNSTUVGb1ZLNUFsSE1oMWxWN2oxS2FRMEJESExpV09iRzVXQ2N2SmNHOG9lWWZ0ZXBDa3MzZHB1cExmajRBV1hQQmpGcDFZRENDRU5FMC1DOXB2eUxhSWlBdkxVekhfcmJ3T2JfM3dROXZxQXFXZllLaE8wc2VNbjNOSVZzeXRKN3pZQlgtWmRyVEVweFpn?oc=5",
+      "source": "Google News:OXY",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "BNY",
+      "short": "BNY — 92,524 Shares in Bank of New York Mellon Corporation $BNY Purchased by Nissay Asset Man…",
+      "detail": "BNY\n重點：新聞\n標題：92,524 Shares in Bank of New York Mellon Corporation $BNY Purchased by Nissay Asset Management Corp Japan - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbWNFRmVsOGJxSGxvU1JkWVRuU1ZNNjdKdmpnUDlRdHVSdm9BdTExemdPN3NiUU9JYWJSQ1BfS05abWJTZFZKQkNjNy1FamZyRmRXcEVQRmVzaFRHNmZfaWpaVVA3NlRpdko4TWprU2lnMzBfMjFGMkRGZkwzVjVyVDBCd210OUNqelg0Y25nV1E2aGlfbkNUZ3p6b1U4dWd3RjJxQWtBTEpjS…\n來源：Google News:BNY\n其他：216,681 Shares in Bank of New York Mellon Corporation $BNY …",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbWNFRmVsOGJxSGxvU1JkWVRuU1ZNNjdKdmpnUDlRdHVSdm9BdTExemdPN3NiUU9JYWJSQ1BfS05abWJTZFZKQkNjNy1FamZyRmRXcEVQRmVzaFRHNmZfaWpaVVA3NlRpdko4TWprU2lnMzBfMjFGMkRGZkwzVjVyVDBCd210OUNqelg0Y25nV1E2aGlfbkNUZ3p6b1U4dWd3RjJxQWtBTEpjSGpKem9hNGFfenVUdkZ4bHRqb0Jvems2M3Z3cXh6akVWUXdkdkxVd1dNdFBDQ19QbUZWOXVaZGNHOWZ5VVB2MDAwT1NUMDUtTlN0b05r?oc=5",
+      "source": "Google News:BNY",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "FSK",
+      "short": "FSK — Van ECK Associates Corp Increases Position in FS KKR Capital Corp. $FSK - MarketBeat",
+      "detail": "FSK\n重點：新聞\n標題：Van ECK Associates Corp Increases Position in FS KKR Capital Corp. $FSK - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3o3aVlpTlpqNWpSSGJPNmpIX3ozcUlzZko0SjlaSEwzRWczMXY4TGl4RE42Q2xCb1lwV19QNFBNeVpRbkNZY2hlZGdTWUpoOFBJRmRHVEJQT09STEZqT1lxSmNiY2ZZdTcyMHUtRGRodF9ma1ZkSFpIYUFIS3cxUFAzclpaMEJXanhkUUdvcUR0VGRIWi1DZ2FEMFlselRNTXE2blg0X3J2L…\n來源：Google News:FSK\n其他：2,735,984 Shares in FS KKR Capital Corp. $FSK Bought by Leg…",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3o3aVlpTlpqNWpSSGJPNmpIX3ozcUlzZko0SjlaSEwzRWczMXY4TGl4RE42Q2xCb1lwV19QNFBNeVpRbkNZY2hlZGdTWUpoOFBJRmRHVEJQT09STEZqT1lxSmNiY2ZZdTcyMHUtRGRodF9ma1ZkSFpIYUFIS3cxUFAzclpaMEJXanhkUUdvcUR0VGRIWi1DZ2FEMFlselRNTXE2blg0X3J2LVA5ZzVBX3ZjcllISXZSU0phR2h4cVU3dnNCTG42OHZn?oc=5",
+      "source": "Google News:FSK",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "HCA",
+      "short": "HCA — Rakuten Investment Management Inc. Buys New Position in HCA Healthcare, Inc. $HCA - Mar…",
+      "detail": "HCA\n重點：新聞\n標題：Rakuten Investment Management Inc. Buys New Position in HCA Healthcare, Inc. $HCA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaGd1Q3BzOFp4VUQzMUNTOHk0N2ZiZFgyVzM5ampUdFhPY3NmYVV5QnFMX2hRb0dHR1hVcHUxTFRkNXVVVk43V3U2NlpVV1o5Q2o5MzNodTBoUnR4R0NscW9kVzFzQWRPWWd4TjhRNHRFVU9CeWZoT3QxZUdDTGw3MDVwbkxlX1JTSU5sQ0pWV1pveXI3TlFTcXpSRFVidGxlOWw4Z1c2VGppa…\n來源：Google News:HCA\n其他：Cookson Peirce & Co. Inc. Boosts Holdings in HCA Healthcare…",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaGd1Q3BzOFp4VUQzMUNTOHk0N2ZiZFgyVzM5ampUdFhPY3NmYVV5QnFMX2hRb0dHR1hVcHUxTFRkNXVVVk43V3U2NlpVV1o5Q2o5MzNodTBoUnR4R0NscW9kVzFzQWRPWWd4TjhRNHRFVU9CeWZoT3QxZUdDTGw3MDVwbkxlX1JTSU5sQ0pWV1pveXI3TlFTcXpSRFVidGxlOWw4Z1c2VGppa2Zyam1VRTEtOVJ3allUdHk0Tkw4U1NNRmdobFFuZGhVaWxmN3dOWGFpVA?oc=5",
+      "source": "Google News:HCA",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "LNG",
+      "short": "LNG — Flputnam Investment Management Co. Sells 3,776 Shares of Cheniere Energy, Inc. $LNG - M…",
+      "detail": "LNG\n重點：新聞\n標題：Flputnam Investment Management Co. Sells 3,776 Shares of Cheniere Energy, Inc. $LNG - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxORkpqVEhadDBFWl9GSm1yNFdfa1U2cjlkLVdpSE13SEFaX3dCWG5LMm93TjZDXzB1dGhIWHUxdGhIdWR4dXkyek1qOEJKMkVUMmN4Q2JKeHh2ODZLSG9xNXRMQ0RTNFRSR0tJSE1SSDA5Y0ZOeExkVGhEVXNyUmhiZVZJSjlLcjA0R2dncG1YUV9nSGhGeHVvSlY1Ry0wYmo4MFc3bktCWXNJc…\n來源：Google News:LNG\n其他：Cheniere Energy, Inc. $LNG Shares Acquired by Corient Priva…",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORkpqVEhadDBFWl9GSm1yNFdfa1U2cjlkLVdpSE13SEFaX3dCWG5LMm93TjZDXzB1dGhIWHUxdGhIdWR4dXkyek1qOEJKMkVUMmN4Q2JKeHh2ODZLSG9xNXRMQ0RTNFRSR0tJSE1SSDA5Y0ZOeExkVGhEVXNyUmhiZVZJSjlLcjA0R2dncG1YUV9nSGhGeHVvSlY1Ry0wYmo4MFc3bktCWXNJcGMzYkRTelBiQ3VhT094S2hteXFSc01IZFFnWjF6U3FYYmtBTjZ4STQ1RlNB?oc=5",
+      "source": "Google News:LNG",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "MRK",
+      "short": "MRK — Merck & Co., Inc. $MRK Shares Bought by Benjamin Edwards Inc. - MarketBeat",
+      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Shares Bought by Benjamin Edwards Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0RGY1hTc0o4dzdhcXJFbFhQQmhqVFdOdk80Mmp6OURPbHNlTTFjMnpQWEl2NUpqN2VWeVFxeVZqbVNBeVZiSVFjYWo1X2FYT0pnemszdWFfaEJROGV2Y0Z0ZWNXdU9TY1lRdHQxQko2Y1VSUEVzY0hDc0pQS3Jvb05vTjg1TnYzT2xzd1hTYXRGVkdHTERUdWxibnczYWF0UG15Wm1DMEhVT…\n來源：Google News:MRK\n其他：Merck & Co., Inc. $MRK Shares Purchased by Alyeska Investme…",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0RGY1hTc0o4dzdhcXJFbFhQQmhqVFdOdk80Mmp6OURPbHNlTTFjMnpQWEl2NUpqN2VWeVFxeVZqbVNBeVZiSVFjYWo1X2FYT0pnemszdWFfaEJROGV2Y0Z0ZWNXdU9TY1lRdHQxQko2Y1VSUEVzY0hDc0pQS3Jvb05vTjg1TnYzT2xzd1hTYXRGVkdHTERUdWxibnczYWF0UG15Wm1DMEhVT1ZSdklCMUxWcEJhQQ?oc=5",
+      "source": "Google News:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "OKTA",
+      "short": "OKTA — Cullinan Associates Inc. Sells 7,500 Shares of Okta, Inc. $OKTA - MarketBeat",
+      "detail": "OKTA\n重點：新聞\n標題：Cullinan Associates Inc. Sells 7,500 Shares of Okta, Inc. $OKTA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeVN4b3UtQjNjT1diLWtlYWQyYTBuWjRyYUNhYnEzdm5lV2JPeXJNSjhCLTNmZVJ1d1NQd3ZDQmRVYldZZXVkdDk5ek5RaHQyUXZaa0NaYVpXcTBqdld1ZHh6VEtOaFFCb1dyWlJJNGkxc2NINENkajh0OHZQaTZKNl9Ta0xYMFRXSTg1RURadjBxOVhFc0RQaEZxNkpGaFliemR2QmluY1ZTN…\n來源：Google News:OKTA\n其他：Okta (OKTA) Stock May Be 5% Undervalued After AI Outlook Bo…",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeVN4b3UtQjNjT1diLWtlYWQyYTBuWjRyYUNhYnEzdm5lV2JPeXJNSjhCLTNmZVJ1d1NQd3ZDQmRVYldZZXVkdDk5ek5RaHQyUXZaa0NaYVpXcTBqdld1ZHh6VEtOaFFCb1dyWlJJNGkxc2NINENkajh0OHZQaTZKNl9Ta0xYMFRXSTg1RURadjBxOVhFc0RQaEZxNkpGaFliemR2QmluY1ZTNXZLNl9qM2YwNDFYN2ZBbnVn?oc=5",
+      "source": "Google News:OKTA",
+      "kind": "news"
+    },
+    {
+      "n": 10,
       "symbol": "TGT",
-      "short": "TGT — 業績／指引：Cautious Consumers Force Trade-Offs Across Retail Sector As Earnings Season Reveals Win…",
-      "detail": "TGT\n重點：業績／指引\n標題：Cautious Consumers Force Trade-Offs Across Retail Sector As Earnings Season Reveals Winners And Losers (NYSE: WMT, NYSE: TGT, NYSE: DG) - foreignpolicyjournal.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNc3liLVZoSnh3UWh2VnNzR053Q3ZjSjRRckpkeWw3ZzR3U19RNFBJeUlsTmQ1cUpKQkJGUFJLbFFhXy1rZVcyLXM2UkxPN2lxWjQ0R2dWWFp4dXc0U091MXZOUGdnZ29xNWZpLVZBMS1kblZfVTBPVFRTbkxwdVFnNGJhakZrOUdWZlBrYmJaZlJVdW9rSHZzaDMyeU42eEc1VUd3QWpxV3ZpN…\n來源：Google News:TGT",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNc3liLVZoSnh3UWh2VnNzR053Q3ZjSjRRckpkeWw3ZzR3U19RNFBJeUlsTmQ1cUpKQkJGUFJLbFFhXy1rZVcyLXM2UkxPN2lxWjQ0R2dWWFp4dXc0U091MXZOUGdnZ29xNWZpLVZBMS1kblZfVTBPVFRTbkxwdVFnNGJhakZrOUdWZlBrYmJaZlJVdW9rSHZzaDMyeU42eEc1VUd3QWpxV3ZpNlBzT0lmbUQ5dmFjcDRJY1JhVUFLTjhfWkdMdUZHZkR2WmlyMVM4THNsZVZZV2k5N2lmZldCVzVLaHlGU01OMjZrSjNQcDJCa1htSjdLc3ZKa1JoZHRSajZQdmw2Si0?oc=5",
+      "short": "TGT — Target Corporation $TGT Shares Sold by Empowered Funds LLC - MarketBeat",
+      "detail": "TGT\n重點：新聞\n標題：Target Corporation $TGT Shares Sold by Empowered Funds LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNd0hERlZiYjJvMU9jX3RMcFNDSWlVVENvU3pHOFJrVFZtUWswX2pOZ1lnSWNrQWRJSG85QzdjU0F6Q1duY3ZKbV84NE8tYld2Z0FnUVBBNG1hYTFaR0Jza19Tc2FrdmlBWVVyLUNRNy0ydFV5cXZsWWlQc3J6c2FzSy1lTlF1MGU0V2E5amc3TVh5WFhwX1lUQ2Rabld4XzluZ3RGWklnblJnW…\n來源：Google News:TGT\n其他：Algert Global LLC Takes $1.16 Million Position in Target Co…",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd0hERlZiYjJvMU9jX3RMcFNDSWlVVENvU3pHOFJrVFZtUWswX2pOZ1lnSWNrQWRJSG85QzdjU0F6Q1duY3ZKbV84NE8tYld2Z0FnUVBBNG1hYTFaR0Jza19Tc2FrdmlBWVVyLUNRNy0ydFV5cXZsWWlQc3J6c2FzSy1lTlF1MGU0V2E5amc3TVh5WFhwX1lUQ2Rabld4XzluZ3RGWklnblJnWkMwQURMZF9UcW9aUnpvUHc?oc=5",
       "source": "Google News:TGT",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "AEO",
+      "short": "AEO — Empowered Funds LLC Purchases New Shares in American Eagle Outfitters, Inc. $AEO - Mark…",
+      "detail": "AEO\n重點：新聞\n標題：Empowered Funds LLC Purchases New Shares in American Eagle Outfitters, Inc. $AEO - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdTJzY3BjQ2RKV1BTd0k3eGYweTc4cXJ0QWpzUjZsYjZLUS05akh4aklFeFRLemt4RmU3alZfUVhDMVdJaUxLQ0p3RVUzMzVwNkh5R0dtN1FLeTlWaHJFLUU2VDlLTlptck81Rk5LbUVaRWd4b3k1T1JhNXlpOTlhU3VMd2JYNVd3dVNGdGQtNzIxeXRENF9WNmhWQnU0REZsVnpHMjRISEFHa…\n來源：Google News:AEO",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdTJzY3BjQ2RKV1BTd0k3eGYweTc4cXJ0QWpzUjZsYjZLUS05akh4aklFeFRLemt4RmU3alZfUVhDMVdJaUxLQ0p3RVUzMzVwNkh5R0dtN1FLeTlWaHJFLUU2VDlLTlptck81Rk5LbUVaRWd4b3k1T1JhNXlpOTlhU3VMd2JYNVd3dVNGdGQtNzIxeXRENF9WNmhWQnU0REZsVnpHMjRISEFHaFpDSXNNVEpHWldwM2pia1pIX21BZGgwUHQ3amFBTXMyZXphWUhldzNKLQ?oc=5",
+      "source": "Google News:AEO",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "ALSN",
+      "short": "ALSN — 120,600 Shares in Allison Transmission Holdings, Inc. $ALSN Purchased by Canada Pension…",
+      "detail": "ALSN\n重點：新聞\n標題：120,600 Shares in Allison Transmission Holdings, Inc. $ALSN Purchased by Canada Pension Plan Investment Board - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQR1ptazd2X2NKdGFPaldRamd5NW1faktTdEg3NjdwdnNtd3NOdGxsdXZsdXBCMDQ1bmNPVGpfMjZsSXFRQWkxMHlTWnZMRW4tTUJrNFR4UWNKOFk4OEc4SnFBR2dlUXcyME5OWWNvakc1SVRtd0FuU0IzeW9iQ1pwRFlvODNJblhMdFpPQnA3b1haZmVaSnBQSkFocGRRZWxBOTJzZTZ1OXZZU…\n來源：Google News:ALSN",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQR1ptazd2X2NKdGFPaldRamd5NW1faktTdEg3NjdwdnNtd3NOdGxsdXZsdXBCMDQ1bmNPVGpfMjZsSXFRQWkxMHlTWnZMRW4tTUJrNFR4UWNKOFk4OEc4SnFBR2dlUXcyME5OWWNvakc1SVRtd0FuU0IzeW9iQ1pwRFlvODNJblhMdFpPQnA3b1haZmVaSnBQSkFocGRRZWxBOTJzZTZ1OXZZUFJncGdXSWlfTDhjalU3b3RhVXFuajM4LXRWT0F4bW9TMDZRcFlOU3NGM1A1djQ5RWlVNDJlbXBYM0dyakpfek9QUWplR3N6VDhfQzBHUENB?oc=5",
+      "source": "Google News:ALSN",
       "kind": "news"
     }
   ]
