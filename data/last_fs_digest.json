@@ -1,115 +1,34 @@
 {
-  "title": "FS新聞 08-29 14:58",
-  "list_name": "FirstScreen_2026-08-29_145833_comma.txt",
-  "created_at": "2026-08-29T14:58:42.910982+00:00",
+  "title": "FS新聞 08-30 05:34",
+  "list_name": "FirstScreen_2026-08-30_053428_comma.txt",
+  "created_at": "2026-08-30T05:34:37.293044+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "HCA",
-      "short": "HCA — Wellington Management Group LLP Purchases 799,761 Shares of HCA Healthcare, Inc. $HCA -…",
-      "detail": "HCA\n重點：新聞\n標題：Wellington Management Group LLP Purchases 799,761 Shares of HCA Healthcare, Inc. $HCA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdWY0cFNHWHlUSU9zQkltcnF1NFVNbWRoWGEyMlhRa3dIRGY4aVRIbFZpVGhDMjdXa2pRY0U2aWtSMWRPZkZuTElobXhZQmRQd0VhLVNrSFdQWkREZnF4RllGMHNHaTFQVnFEODMtZ0Q5ZmcxdXdDWEFyZWZWTDliRGtkWHpySkxoRFhnYVlpQWNrNUFYQ014czhkQ1pQWGlQczFPUHV2Ni1ta…\n來源：Google News:HCA\n其他：HCA Healthcare, Inc. $HCA Shares Acquired by Royal London A…; Livforsakringsbolaget Skandia Omsesidigt Invests $9.45 Mill…",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdWY0cFNHWHlUSU9zQkltcnF1NFVNbWRoWGEyMlhRa3dIRGY4aVRIbFZpVGhDMjdXa2pRY0U2aWtSMWRPZkZuTElobXhZQmRQd0VhLVNrSFdQWkREZnF4RllGMHNHaTFQVnFEODMtZ0Q5ZmcxdXdDWEFyZWZWTDliRGtkWHpySkxoRFhnYVlpQWNrNUFYQ014czhkQ1pQWGlQczFPUHV2Ni1tamtzUFBQaFg1REJwS3dEOWdUNFRYNXdpaWVETjZ2QXFOcFhPSW5jc2dpWllqdTRfZw?oc=5",
-      "source": "Google News:HCA",
+      "symbol": "BILL",
+      "short": "BILL — AI相關：Bill Holdings (BILL) Leans On AI To Power Its Next Chapter",
+      "detail": "BILL\n重點：AI相關\n標題：Bill Holdings (BILL) Leans On AI To Power Its Next Chapter\n來源：Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bill-holdings-bill-leans-ai-215100156.html",
+      "source": "Yahoo Finance",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "OXY",
-      "short": "OXY — Kingsview Wealth Management LLC Takes Position in Occidental Petroleum Corporation $OXY…",
-      "detail": "OXY\n重點：新聞\n標題：Kingsview Wealth Management LLC Takes Position in Occidental Petroleum Corporation $OXY - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVVdVUUx2VGNJb1dsT3FPRmpWRzY4UjFzV250MnM5RjJQVG93NWNHZDVuYWlENE9IelVvR1JwREZoZ1RXTjQyMW5EYWUwY3V6TEpVbXZrYkk0cmFRd2NBTU50bnFKUkc5X1BlODZYNFFSQXUzNzhfMUs5U0F0RVV6Mnd0V2RBVHZYZnlibW5NSktjdWhYNDdKYjZJbDV2Rjd4dGNwMnhRNk5Fb…\n來源：Google News:OXY\n其他：Prosperitas Financial LLC Invests $3.66 Million in Occident…; Equitable Holdings Inc. Invests $2.33 Million in Occidental…",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVVdVUUx2VGNJb1dsT3FPRmpWRzY4UjFzV250MnM5RjJQVG93NWNHZDVuYWlENE9IelVvR1JwREZoZ1RXTjQyMW5EYWUwY3V6TEpVbXZrYkk0cmFRd2NBTU50bnFKUkc5X1BlODZYNFFSQXUzNzhfMUs5U0F0RVV6Mnd0V2RBVHZYZnlibW5NSktjdWhYNDdKYjZJbDV2Rjd4dGNwMnhRNk5FbHRST2M5bmxwbXpBbzkxeklIMFhQbHpFVkRCZllzeVBpUjI5SFkyMGlKSlM4Q3p6U25GNHpJTA?oc=5",
-      "source": "Google News:OXY",
+      "symbol": "NTNX",
+      "short": "NTNX — AI相關：Nutanix (NTNX) Stock May Trade At A Discount After New Enterprise AI Launch - simplywal…",
+      "detail": "NTNX\n重點：AI相關\n標題：Nutanix (NTNX) Stock May Trade At A Discount After New Enterprise AI Launch - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNdVd0bktOeElGbmdnRERZdHN4RDRFcERvd2ZJejljOXVRRXJ0TlRTSGJNZGVuRXM2eFZXZFg4MlpGa0FuVmxqM2tseXVqQnBaQ1YzUTdIWTdDejdmYUJSNl9YVTRKSFlqSnd2akRDVWd0TkRnNGVqUDFYVGk3WHdTVVp2aWI5WWdfRGJKOHVjc2RISVNZMlp1NWRHMmI1bGE0M2pSRVlOMGFLQ…\n來源：Google News:NTNX",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdVd0bktOeElGbmdnRERZdHN4RDRFcERvd2ZJejljOXVRRXJ0TlRTSGJNZGVuRXM2eFZXZFg4MlpGa0FuVmxqM2tseXVqQnBaQ1YzUTdIWTdDejdmYUJSNl9YVTRKSFlqSnd2akRDVWd0TkRnNGVqUDFYVGk3WHdTVVp2aWI5WWdfRGJKOHVjc2RISVNZMlp1NWRHMmI1bGE0M2pSRVlOMGFLQ3Z0and2WDFPcndNQjZhSVJyOXdEU1JjaXB40gHKAUFVX3lxTE1NbXoyakdPZVQyRHphenhlQjlfOVBmeXI0S3BTWkFxUC1KcjJkNzdfUXR3SXZXc3J1amF1Z25ZeUlRRmR2Ykdja2NRbldpNzU4TGYxaDU0bEJkSENHLXZBcDZ2ajVMdnVKTURSMkxjRUx4WER0YzU2UlNHSWF1OV9xS3lUaGJPWTNYUmQzb01COWk2bERSOW92blBZWTJoUlJlR1phMEFuZGFSS0R2RjJSc2poYlB5ZllNdXkzeVhfbDgwdTZGTng1S1E?oc=5",
+      "source": "Google News:NTNX",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "LW",
-      "short": "LW — Lamb Weston $LW Stock Position Lessened by Kingsview Wealth Management LLC - MarketBeat",
-      "detail": "LW\n重點：新聞\n標題：Lamb Weston $LW Stock Position Lessened by Kingsview Wealth Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQbzlVcVFyU0VXSUtaMXVVMHd3OXpGR3dNZ3FvSDlpVVoxYkMyOGZmN0FEa0pkQVptSmV6dzBXTV94TWVRRHQ1NjlZbUFNUzNOOTlOal80NzhoZlp3Tm1yMFZlYVQyeC1PU0NEUlJ4anhBdEY0N3FYZG82SlBHS1ZqYXJlNFE3ZGxubUh2UWtXS2NXaVdIVm1aNEhMSW1VVmw1LV91bWhMQllyN…\n來源：Google News:LW\n其他：Hsbc Holdings PLC Purchases New Shares in Lamb Weston $LW -…",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbzlVcVFyU0VXSUtaMXVVMHd3OXpGR3dNZ3FvSDlpVVoxYkMyOGZmN0FEa0pkQVptSmV6dzBXTV94TWVRRHQ1NjlZbUFNUzNOOTlOal80NzhoZlp3Tm1yMFZlYVQyeC1PU0NEUlJ4anhBdEY0N3FYZG82SlBHS1ZqYXJlNFE3ZGxubUh2UWtXS2NXaVdIVm1aNEhMSW1VVmw1LV91bWhMQllyNF9JZEVXMDkxNTExaUxiY2dCeEF0MDVGUlFLYzZ5elV0TmdFTVk?oc=5",
-      "source": "Google News:LW",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "MDT",
-      "short": "MDT — Toth Financial Advisory Corp Sells 22,666 Shares of Medtronic PLC $MDT - MarketBeat",
-      "detail": "MDT\n重點：新聞\n標題：Toth Financial Advisory Corp Sells 22,666 Shares of Medtronic PLC $MDT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSlFrQkI3Vmo3d0xBaExKX1IzeVFVcG1JeWlLYy1hVHVDc2dHRnJGZVVrRkQ5TjJtTDZqZDN6ZnF5SDNTWnRTbzVEQ3BpVzN3UHU0S0lSZWZPVHYyTzZ2WVhqUWlqN1htNTBFQ05jSW9tVlVhYVJtczJOeGw4dEdOUEF2bHF3aFEycW5ZM3Ewd3JKQ1hFUEctajlUVjZYWTFXT0xHRG4wX3p1e…\n來源：Google News:MDT\n其他：Archer Investment Corp Invests $1.04 Million in Medtronic P…",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSlFrQkI3Vmo3d0xBaExKX1IzeVFVcG1JeWlLYy1hVHVDc2dHRnJGZVVrRkQ5TjJtTDZqZDN6ZnF5SDNTWnRTbzVEQ3BpVzN3UHU0S0lSZWZPVHYyTzZ2WVhqUWlqN1htNTBFQ05jSW9tVlVhYVJtczJOeGw4dEdOUEF2bHF3aFEycW5ZM3Ewd3JKQ1hFUEctajlUVjZYWTFXT0xHRG4wX3p1em5YeDI5M0tUZ0FDNTc5aVVnNFhOQ01nOVFudjhJRw?oc=5",
-      "source": "Google News:MDT",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "ROST",
-      "short": "ROST — Wellington Management Group LLP Acquires 3,118,591 Shares of Ross Stores, Inc. $ROST - …",
-      "detail": "ROST\n重點：新聞\n標題：Wellington Management Group LLP Acquires 3,118,591 Shares of Ross Stores, Inc. $ROST - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMkZDZm96OVE5eXNPMTVtb3JHMU5ucVdYZ0pKVTZ4ZmQ4N3EwLWl2bmxDZTdKM3Ezbk5Yajk2SDdQdUdXcWVmbDBWek5YSDRDSmp5TUd3VzZGMUV2TjFXdEY0T1c3RlkyMF8ya1l3VWZGQzltUEZrdHdzM1YzT2Q4XzJrb2tibzdVZW9OQWtWbHdMX2sxMS1WUzhJRkk1d0tyZksxYmE3d3JCe…\n來源：Google News:ROST\n其他：Livforsakringsbolaget Skandia Omsesidigt Invests $6.74 Mill…",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMkZDZm96OVE5eXNPMTVtb3JHMU5ucVdYZ0pKVTZ4ZmQ4N3EwLWl2bmxDZTdKM3Ezbk5Yajk2SDdQdUdXcWVmbDBWek5YSDRDSmp5TUd3VzZGMUV2TjFXdEY0T1c3RlkyMF8ya1l3VWZGQzltUEZrdHdzM1YzT2Q4XzJrb2tibzdVZW9OQWtWbHdMX2sxMS1WUzhJRkk1d0tyZksxYmE3d3JCejM5clJvU1o4V0NidXhUYjhaOENRN3YxSFlzbDdzOThxdFVwZTRtczh2Vzl5OA?oc=5",
-      "source": "Google News:ROST",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "SLB",
-      "short": "SLB — Van ECK Associates Corp Sells 398,423 Shares of SLB Limited $SLB - MarketBeat",
-      "detail": "SLB\n重點：新聞\n標題：Van ECK Associates Corp Sells 398,423 Shares of SLB Limited $SLB - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1RTS3gxOVhNQTdQQWJ4QzlJRnB2Zk1rRzBZMTdjQVFqbFlYa3J6RFVFRzdFVl9ybXhjdW1XMURKN0duU1h6TnlOTTZWMEpqUHZ0d3liblFyVl9fV3poSlZudjhvZU9qWUxtOVdoeFJuZFo2QmVZMGI3TnpBMVVFOFExT3ZuZ1dXY0VMdXRrcUVnNS1nVkZYdlluMzJLSDF5UEFzOHcxVHp6U…\n來源：Google News:SLB\n其他：Public Employees Retirement System of Ohio Takes Position i…",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1RTS3gxOVhNQTdQQWJ4QzlJRnB2Zk1rRzBZMTdjQVFqbFlYa3J6RFVFRzdFVl9ybXhjdW1XMURKN0duU1h6TnlOTTZWMEpqUHZ0d3liblFyVl9fV3poSlZudjhvZU9qWUxtOVdoeFJuZFo2QmVZMGI3TnpBMVVFOFExT3ZuZ1dXY0VMdXRrcUVnNS1nVkZYdlluMzJLSDF5UEFzOHcxVHp6UEJfaXI1cTY5OXZHZ2dSQk04clZzSkQ?oc=5",
-      "source": "Google News:SLB",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "URBN",
-      "short": "URBN — Livforsakringsbolaget Skandia Omsesidigt Takes Position in Urban Outfitters, Inc. $URBN…",
-      "detail": "URBN\n重點：新聞\n標題：Livforsakringsbolaget Skandia Omsesidigt Takes Position in Urban Outfitters, Inc. $URBN - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZzRHWEpoSnJnRHVvbzhKa0tnb0Z0QkdmVnplazFBa1pTMDE2WExyS2dLcWJjUC1WbFJuT1BsSTNXWUxyUU5kUU85M2t2dVFXZ3NYdXdsV243VUdLaTZBMzNMVkdKcVhSNTdCOUthSjNHV1IxS3VmZllJejF4LXNHU1IwazJvNGQxS2pCNW5CcnJ2LWVnNkxDWFlLY0ZvbVoxTjBqX3RwalphN…\n來源：Google News:URBN\n其他：Urban Outfitters, Inc. $URBN Shares Sold by Braun Stacey As…",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZzRHWEpoSnJnRHVvbzhKa0tnb0Z0QkdmVnplazFBa1pTMDE2WExyS2dLcWJjUC1WbFJuT1BsSTNXWUxyUU5kUU85M2t2dVFXZ3NYdXdsV243VUdLaTZBMzNMVkdKcVhSNTdCOUthSjNHV1IxS3VmZllJejF4LXNHU1IwazJvNGQxS2pCNW5CcnJ2LWVnNkxDWFlLY0ZvbVoxTjBqX3RwalphNTlacGJNMUY2Nmh6QTFJMGxJNnItOFA1cmM2NHdNdkFGbW9JNGtRUW1uRjdJcjBaN1hQU1E?oc=5",
-      "source": "Google News:URBN",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "BNY",
-      "short": "BNY — 112,295 Shares in Bank of New York Mellon Corporation $BNY Acquired by Rakuten Investme…",
-      "detail": "BNY\n重點：新聞\n標題：112,295 Shares in Bank of New York Mellon Corporation $BNY Acquired by Rakuten Investment Management Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUng0ZHR0WmVRWHg2NVdZY0ZEM0w4eEpKWkVhUHoyb2U5V2wwLUN4VjBjVE5ZZGNLTnBaTTRMQ1hTS0NVVi1aR1lxLVR1bTF6VXhWRlFJNk9QdkdUb19iQ09DNzlIV2dFR2hFNkxjenJreVFlSGJxNEtFeG9aQ2x4SktnSHNZSUtZZ3lwcFRZNFdTYmdneGV4Y1UxamU5MGQ2QnUyOEVVdG50V…\n來源：Google News:BNY",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUng0ZHR0WmVRWHg2NVdZY0ZEM0w4eEpKWkVhUHoyb2U5V2wwLUN4VjBjVE5ZZGNLTnBaTTRMQ1hTS0NVVi1aR1lxLVR1bTF6VXhWRlFJNk9QdkdUb19iQ09DNzlIV2dFR2hFNkxjenJreVFlSGJxNEtFeG9aQ2x4SktnSHNZSUtZZ3lwcFRZNFdTYmdneGV4Y1UxamU5MGQ2QnUyOEVVdG50VHp6RTNWRjZaUVhoM09FNGFOZlduOHZwb1c5S0xUZDFBMDMtcEpqU3VlazNCTVhWRHlmb1VnUUMxd0ctQUZaakhIdDZmbWZPMXNyYnc?oc=5",
-      "source": "Google News:BNY",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "CRM",
-      "short": "CRM — New Mexico Educational Retirement Board Purchases 2,600 Shares of Salesforce Inc. $CRM …",
-      "detail": "CRM\n重點：新聞\n標題：New Mexico Educational Retirement Board Purchases 2,600 Shares of Salesforce Inc. $CRM - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU2FEUm43WHdxSHFJV21FYUdKRElBNE83MmJOdmtUQlVTNTlMVUludWhnc0pzaXd2VlVlY2ozM3RKbklWckM4S1lNOVhFSUIxRmNPTElfaWFMQmhWVks2YmNjclpHUENNcENjZklRMXEyOU5XMTBZTTZmWEl0X1dqQ1hoYVdBOHBnWS1rLVFPT3Q2M2Nhb2E4LXJIbld4NU5YdGEycXFwSVlme…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU2FEUm43WHdxSHFJV21FYUdKRElBNE83MmJOdmtUQlVTNTlMVUludWhnc0pzaXd2VlVlY2ozM3RKbklWckM4S1lNOVhFSUIxRmNPTElfaWFMQmhWVks2YmNjclpHUENNcENjZklRMXEyOU5XMTBZTTZmWEl0X1dqQ1hoYVdBOHBnWS1rLVFPT3Q2M2Nhb2E4LXJIbld4NU5YdGEycXFwSVlmeTdINjJkTklwcjJIQURhMVFMcVdsbDlzZW1LN2FNS1RCWUx2NHNELVBmeUx0RjJnT0tv?oc=5",
-      "source": "Google News:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "FUTU",
-      "short": "FUTU — 業績／指引：The Bull Case For Futu Holdings (FUTU) Could Change Following Record Q2 2026 Results An…",
-      "detail": "FUTU\n重點：業績／指引\n標題：The Bull Case For Futu Holdings (FUTU) Could Change Following Record Q2 2026 Results And LPGA Deal\n摘要：Futu Holdings reported second-quarter 2026 revenue of HK$7,200.21 million and net income of HK$3,646.78 million, both higher than a year earlier, alongside record trading volumes above HK$6 trillion and growing international licenses, including a new securities license in Thaila…\n來源：Yahoo Finance:FUTU",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bull-case-futu-holdings-futu-121147052.html?.tsrc=rss",
-      "source": "Yahoo Finance:FUTU",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "GAP",
-      "short": "GAP — 業績／指引：Here’s Why Gap Stock Surged 13% Yesterday After Reporting Q2 2027 Earnings. - TIKR.com",
-      "detail": "GAP\n重點：業績／指引\n標題：Here’s Why Gap Stock Surged 13% Yesterday After Reporting Q2 2027 Earnings. - TIKR.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNX29mdTh4MVdLbVByc0REaXFqcklqTVZNNlFtQl9TUUtINko1dnppS0E4T1pTejlrX2RDVjFYR3k0M1M4T3RRa2lKakl1MlRfRUptUm0zeTdpV1p2QkV1VkhlVkhRSGZiVFFidnJKdWN1bmFnc0dfaGljR2R3MzJQSE5ldmF2TWlYazFKUEItMXcyZkdKd0o2X2drRGdxaWFw?oc=5\" target…\n來源：Google News:GAP",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX29mdTh4MVdLbVByc0REaXFqcklqTVZNNlFtQl9TUUtINko1dnppS0E4T1pTejlrX2RDVjFYR3k0M1M4T3RRa2lKakl1MlRfRUptUm0zeTdpV1p2QkV1VkhlVkhRSGZiVFFidnJKdWN1bmFnc0dfaGljR2R3MzJQSE5ldmF2TWlYazFKUEItMXcyZkdKd0o2X2drRGdxaWFw?oc=5",
-      "source": "Google News:GAP",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "GEN",
-      "short": "GEN — 510,452 Shares in Gen Digital Inc. $GEN Bought by Empowered Funds LLC - MarketBeat",
-      "detail": "GEN\n重點：新聞\n標題：510,452 Shares in Gen Digital Inc. $GEN Bought by Empowered Funds LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQSG1oM0tmT1JFdzR5blNoaHo1SWhEUUtHNHVTZ3FWZEJGNXFFZTYzTVB0cjZfbVA2Nk1tM3VfQzAxaHlRRVlOeHliOFRwd25lV3hLVy1xbk9McnBjbXlKbmtSS0s1UElLWkdfZHN2N3JlOGlHV19hbUxITzZ3SkZmU2RMQ29TUUJxVGlQR2FoY1BvdUFZMloycDZmem00MHFaOUtZclV2YVNXe…\n來源：Google News:GEN",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSG1oM0tmT1JFdzR5blNoaHo1SWhEUUtHNHVTZ3FWZEJGNXFFZTYzTVB0cjZfbVA2Nk1tM3VfQzAxaHlRRVlOeHliOFRwd25lV3hLVy1xbk9McnBjbXlKbmtSS0s1UElLWkdfZHN2N3JlOGlHV19hbUxITzZ3SkZmU2RMQ29TUUJxVGlQR2FoY1BvdUFZMloycDZmem00MHFaOUtZclV2YVNXeU5JSlpNMFVEYzhGdG5OQkYzZThQTGVJVy1ZV2c?oc=5",
-      "source": "Google News:GEN",
+      "symbol": "TGT",
+      "short": "TGT — 業績／指引：Cautious Consumers Force Trade-Offs Across Retail Sector As Earnings Season Reveals Win…",
+      "detail": "TGT\n重點：業績／指引\n標題：Cautious Consumers Force Trade-Offs Across Retail Sector As Earnings Season Reveals Winners And Losers (NYSE: WMT, NYSE: TGT, NYSE: DG) - foreignpolicyjournal.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNc3liLVZoSnh3UWh2VnNzR053Q3ZjSjRRckpkeWw3ZzR3U19RNFBJeUlsTmQ1cUpKQkJGUFJLbFFhXy1rZVcyLXM2UkxPN2lxWjQ0R2dWWFp4dXc0U091MXZOUGdnZ29xNWZpLVZBMS1kblZfVTBPVFRTbkxwdVFnNGJhakZrOUdWZlBrYmJaZlJVdW9rSHZzaDMyeU42eEc1VUd3QWpxV3ZpN…\n來源：Google News:TGT",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNc3liLVZoSnh3UWh2VnNzR053Q3ZjSjRRckpkeWw3ZzR3U19RNFBJeUlsTmQ1cUpKQkJGUFJLbFFhXy1rZVcyLXM2UkxPN2lxWjQ0R2dWWFp4dXc0U091MXZOUGdnZ29xNWZpLVZBMS1kblZfVTBPVFRTbkxwdVFnNGJhakZrOUdWZlBrYmJaZlJVdW9rSHZzaDMyeU42eEc1VUd3QWpxV3ZpNlBzT0lmbUQ5dmFjcDRJY1JhVUFLTjhfWkdMdUZHZkR2WmlyMVM4THNsZVZZV2k5N2lmZldCVzVLaHlGU01OMjZrSjNQcDJCa1htSjdLc3ZKa1JoZHRSajZQdmw2Si0?oc=5",
+      "source": "Google News:TGT",
       "kind": "news"
     }
   ]
