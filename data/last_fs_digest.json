@@ -1,38 +1,56 @@
 {
-  "title": "FS新聞 09-01 05:22",
-  "list_name": "FirstScreen_2026-09-01_052234_comma.txt",
-  "created_at": "2026-09-01T05:22:42.824712+00:00",
+  "title": "FS新聞 09-01 09:44",
+  "list_name": "FirstScreen_2026-09-01_094419_comma.txt",
+  "created_at": "2026-09-01T09:44:27.134021+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "INTU",
-      "short": "INTU — AI相關：Intuit (INTU) Faces Class Action Over AI And Investor Disclosure Claims",
-      "detail": "INTU\n重點：AI相關\n標題：Intuit (INTU) Faces Class Action Over AI And Investor Disclosure Claims\n摘要：Intuit (NasdaqGS:INTU) faces a new class action lawsuit alleging the company misled investors about generative AI risks to its core businesses and the growth of Mailchimp. The complaint claims Intuit understated potential threats that generative AI could pose to its tax business…\n來源：Yahoo Finance:INTU\n其他：Can Intuit (INTU) Justify Its Valuation As Guidance And Div…; INTU Stock In Focus: Jefferies Sees Recovery Opportunity De…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intuit-intu-faces-class-action-021536165.html?.tsrc=rss",
-      "source": "Yahoo Finance:INTU",
+      "symbol": "GAP",
+      "short": "GAP — Gap Inc. (GAP) Raises Its Outlook Even As Old Navy Stumbles",
+      "detail": "GAP\n重點：新聞\n標題：Gap Inc. (GAP) Raises Its Outlook Even As Old Navy Stumbles\n來源：Yahoo Finance\n其他：Gap Inc. (GAP) Raises Its Outlook Even As Old Navy Stumbles; Beacon Pointe Advisors LLC Invests $887,000 in The Gap, Inc…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gap-inc-gap-raises-outlook-073906168.html",
+      "source": "Yahoo Finance",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "GPC",
-      "short": "GPC — 業績／指引：Genuine Parts (GPC) Stock Could Be 45% Undervalued Despite E Commerce Deal",
-      "detail": "GPC\n重點：業績／指引\n標題：Genuine Parts (GPC) Stock Could Be 45% Undervalued Despite E Commerce Deal\n摘要：Genuine Parts stock has delivered a 27.3% total return over the past 5 years, yet current valuation checks suggest the market price may still sit below what its cash flows imply. With both the Discounted Cash Flow (DCF) intrinsic value estimate and earnings based multiples point…\n來源：Yahoo Finance:GPC\n其他：Genuine Parts (GPC): A Dividend King Worth Watching",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/genuine-parts-gpc-stock-could-021514315.html?.tsrc=rss",
-      "source": "Yahoo Finance:GPC",
+      "symbol": "INTU",
+      "short": "INTU — Headlands Technologies LLC Makes New $1.37 Million Investment in Intuit Inc. $INTU - ma…",
+      "detail": "INTU\n重點：新聞\n標題：Headlands Technologies LLC Makes New $1.37 Million Investment in Intuit Inc. $INTU - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV09BOXJwTWtuQkJVc1dFMlFwcDZVa25QZXNsWEpxbW1yT2xzc2ZfXzRmNGp2N2x3VjhHRGZGZlJrVVRoTl91azd0bUxZdUtRVnplWDJ4Z3ZpLXhLR244SkFzSlRtRFZPWk14b095Wnl6RG11TU9QVFh4WndhUFV2RHhwM05HSnlWamhpajVzYjE0ZjRJUG5iaEtQam5MR2E4cXQxWFFuVXlrU…\n來源：Google News:INTU\n其他：Intuit (INTU) Faces Class Action Over AI And Investor Discl…",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV09BOXJwTWtuQkJVc1dFMlFwcDZVa25QZXNsWEpxbW1yT2xzc2ZfXzRmNGp2N2x3VjhHRGZGZlJrVVRoTl91azd0bUxZdUtRVnplWDJ4Z3ZpLXhLR244SkFzSlRtRFZPWk14b095Wnl6RG11TU9QVFh4WndhUFV2RHhwM05HSnlWamhpajVzYjE0ZjRJUG5iaEtQam5MR2E4cXQxWFFuVXlrUDRoSmxhdUZ1VGhLaUVIRWhwZHFjNm95QzhZdjVNWEhXdndSOVZ4T2dxc3ZR?oc=5",
+      "source": "Google News:INTU",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "PYPL",
-      "short": "PYPL — 併購／交易：PYPL Stock Hit With Price-Target Cuts As Stripe Takeover Hopes Fade: Analyst Sees Possi…",
-      "detail": "PYPL\n重點：併購／交易\n標題：PYPL Stock Hit With Price-Target Cuts As Stripe Takeover Hopes Fade: Analyst Sees Possible Negotiating Tactic\n摘要：Truist said that Stripe and Advent’s decision to back out of a takeover could be a strategy to lower the potential purchase price.\n來源：Yahoo Finance:PYPL\n其他：PYPL Stock Hit With Price-Target Cuts As Stripe Takeover Ho…",
-      "url": "https://stocktwits.com/news-articles/markets/equity/pypl-stock-hit-with-price-target-cuts-as-stripe-takeover-hopes-fade-analyst-sees-possible-negotiating-tactic/cZsoTKgRJtc?.tsrc=rss",
-      "source": "Yahoo Finance:PYPL",
+      "symbol": "LULU",
+      "short": "LULU — Headlands Technologies LLC Purchases Shares of 10,668 lululemon athletica inc. $LULU - …",
+      "detail": "LULU\n重點：新聞\n標題：Headlands Technologies LLC Purchases Shares of 10,668 lululemon athletica inc. $LULU - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdW9lNTI1TXJ6V1pLSEdKaHlIV0FESGdMSE03eEwyM1hTN0g3V0FzYk5TVTV5cmtHNXVJRmVkY0pub0pTaFczcWFGdDVvanpUZkIxUkxJejBMSklsblY4anpOa2ZiV01Qbk9Pd0YzVTNxUUZVeUVJTW5haUkyWEI2VWtvLVRvZUE0c1ltQkRVekJPT19vclZ0eW5jbW5iVGtLaURvQVZDODJWe…\n來源：Google News:LULU\n其他：LULU: A Cash Gusher At A Marked-Down Price",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdW9lNTI1TXJ6V1pLSEdKaHlIV0FESGdMSE03eEwyM1hTN0g3V0FzYk5TVTV5cmtHNXVJRmVkY0pub0pTaFczcWFGdDVvanpUZkIxUkxJejBMSklsblY4anpOa2ZiV01Qbk9Pd0YzVTNxUUZVeUVJTW5haUkyWEI2VWtvLVRvZUE0c1ltQkRVekJPT19vclZ0eW5jbW5iVGtLaURvQVZDODJWemFaa1lQcF9LWUN0WWRnTm93d0dTR1VFaDUxWW5lRGxRNi1Jb1NuT2tTYmF6NXo5dw?oc=5",
+      "source": "Google News:LULU",
       "kind": "news"
     },
     {
       "n": 4,
+      "symbol": "OKTA",
+      "short": "OKTA — Wellington Management Group LLP Cuts Stock Position in Okta, Inc. $OKTA - marketbeat.com",
+      "detail": "OKTA\n重點：新聞\n標題：Wellington Management Group LLP Cuts Stock Position in Okta, Inc. $OKTA - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEZOWTg1S01XLUtPc1NaaGNBQXVBM05PSmRNcVl0WTlJeGxLT1ROVTcyZlJoRW1JSWhRcTlMbGNTQWNMdmxuY3E1T0dscmp3eGtLRmFXYkJJbEhsbURyU1dUalhsTWlCMjNUT01YYXFTSzVteS1fQjR0YXpMVXNjTEdQQnJCalU4Z001V2s0M0ExT2dKd1QtYkxuLVMxMU1XSUduQVJRTjRkY…\n來源：Google News:OKTA\n其他：Okta stock jumps 19% on AI agent security demand and a blow…",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEZOWTg1S01XLUtPc1NaaGNBQXVBM05PSmRNcVl0WTlJeGxLT1ROVTcyZlJoRW1JSWhRcTlMbGNTQWNMdmxuY3E1T0dscmp3eGtLRmFXYkJJbEhsbURyU1dUalhsTWlCMjNUT01YYXFTSzVteS1fQjR0YXpMVXNjTEdQQnJCalU4Z001V2s0M0ExT2dKd1QtYkxuLVMxMU1XSUduQVJRTjRkY3NJMGFHanNOcHE4Mjg1OVBrdjEybzNiWndvczRUZA?oc=5",
+      "source": "Google News:OKTA",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "BILI",
+      "short": "BILI — 業績／指引：Bilibili’s (BILI) Ad Engine And Margins Outrun Its Slumping Game Unit",
+      "detail": "BILI\n重點：業績／指引\n標題：Bilibili’s (BILI) Ad Engine And Margins Outrun Its Slumping Game Unit\n摘要：Bilibili (NASDAQ:BILI) just delivered its 16th straight quarter of gross margin improvement, and the numbers behind it are hard to ignore. Advertising revenue jumped 28% year over year in the quarter ended June 30, 2026, marking the 14th consecutive quarter of at least 20% growt…\n來源：Yahoo Finance:BILI",
+      "url": "https://finance.yahoo.com/media-advertising/articles/bilibili-bili-ad-engine-margins-092735917.html?.tsrc=rss",
+      "source": "Yahoo Finance:BILI",
+      "kind": "news"
+    },
+    {
+      "n": 6,
       "symbol": "CRM",
       "short": "CRM — 業績／指引：Is Salesforce (CRM) Undervalued Following Strong Earnings, Higher Guidance And The Clau…",
       "detail": "CRM\n重點：業績／指引\n標題：Is Salesforce (CRM) Undervalued Following Strong Earnings, Higher Guidance And The Claudeforce Launch? - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2w0OFRjUnlYOW1PSTVhdnlLVjhSbksyV29KbDZ1TE9UaVdSb3k5dnhDd0xTZ0FNdUpiWlZoa2hsYUZzMmxnb2x4NUJCQUxYdWlCOWNkU2liT2lYWVlfMlFpS2lZR29INnJ3SlFHYUdVVEJiM2JzdzJGU1hBU1pQcU9VcHJ3V285ajB3Y21oeUdwTVVBUmNlUEk5bFRpUk5kUG9QaVpRU0tKa…\n來源：Google News:CRM",
@@ -41,39 +59,57 @@
       "kind": "news"
     },
     {
-      "n": 5,
-      "symbol": "LNG",
-      "short": "LNG — Cheniere Energy: Corpus Christi Expansion Strengthens Its LNG Growth Outlook",
-      "detail": "LNG\n重點：新聞\n標題：Cheniere Energy: Corpus Christi Expansion Strengthens Its LNG Growth Outlook\n摘要：Cheniere Energy, Inc. (NYSE:LNG) is substantially completing the Corpus Christi Stage 3 expansion, with contractor Bechtel handing over the seventh and final liquefaction train. The project adds more than 10 million tonnes per annum (mtpa) of LNG capacity, lifting Cheniere’s ove…\n來源：Yahoo Finance:LNG",
-      "url": "https://finance.yahoo.com/energy/articles/cheniere-energy-corpus-christi-expansion-234831212.html?.tsrc=rss",
-      "source": "Yahoo Finance:LNG",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "LULU",
-      "short": "LULU — LULU: A Cash Gusher At A Marked-Down Price",
-      "detail": "LULU\n重點：新聞\n標題：LULU: A Cash Gusher At A Marked-Down Price\n摘要：The market is offering a premium athletic apparel brand at a deep discount to its cash-generating power, forcing investors to decide if the company's recent stumbles are temporary or terminal.\n來源：Yahoo Finance:LULU",
-      "url": "https://www.trefis.com/articles/613693/lulu-a-cash-gusher-at-a-marked-down-price/2026-08-31?.tsrc=rss",
-      "source": "Yahoo Finance:LULU",
-      "kind": "news"
-    },
-    {
       "n": 7,
-      "symbol": "LW",
-      "short": "LW — Lamb Weston Isn't Tasty Enough For An Upgrade (NYSE:LW) - Seeking Alpha",
-      "detail": "LW\n重點：新聞\n標題：Lamb Weston Isn't Tasty Enough For An Upgrade (NYSE:LW) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0NmVDlOQXRSRXkwMkQ1cFFJVXdZWWpxNGhoemdtNXNrYVoxRUlmWkRNVkNidGdjYVhMOXRuU0x0VW1UbHM5SXpveG5PZWR0QmdtYlR2UWJ3QS1PRWFsQXJydEhUVktnel9DMm41UkJTdGdrQnk1TWhVRlY1Q0NfMW1nQWZsNEpOanVFOUR3?oc=5\" target=\"_blank\">Lamb Weston Is…\n來源：Google News:LW",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0NmVDlOQXRSRXkwMkQ1cFFJVXdZWWpxNGhoemdtNXNrYVoxRUlmWkRNVkNidGdjYVhMOXRuU0x0VW1UbHM5SXpveG5PZWR0QmdtYlR2UWJ3QS1PRWFsQXJydEhUVktnel9DMm41UkJTdGdrQnk1TWhVRlY1Q0NfMW1nQWZsNEpOanVFOUR3?oc=5",
-      "source": "Google News:LW",
+      "symbol": "DEO",
+      "short": "DEO — CMH Wealth Management LLC Sells 11,413 Shares of Diageo plc $DEO - marketbeat.com",
+      "detail": "DEO\n重點：新聞\n標題：CMH Wealth Management LLC Sells 11,413 Shares of Diageo plc $DEO - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbXd5RXVYdlJzbHZGbTVVV2I4TExWTDJnLVFBU1MzMkdmSVhrME5Lb2puQUt0bUh2TXlTdjBIbW1ERkdfYTJJeHVhRUtQeXpwTzJJemV5N2JnX0piRkJJQ1p2Z0swNVRGSUZzQlBFRVNTLV9hTzREMEsteVVtWGNPam0talJFTjJ0d2VSRkg5WG9Ic2dKY1Z1S3BqN1NScjlsSGFRb3NaOW9zN…\n來源：Google News:DEO",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbXd5RXVYdlJzbHZGbTVVV2I4TExWTDJnLVFBU1MzMkdmSVhrME5Lb2puQUt0bUh2TXlTdjBIbW1ERkdfYTJJeHVhRUtQeXpwTzJJemV5N2JnX0piRkJJQ1p2Z0swNVRGSUZzQlBFRVNTLV9hTzREMEsteVVtWGNPam0talJFTjJ0d2VSRkg5WG9Ic2dKY1Z1S3BqN1NScjlsSGFRb3NaOW9zNDhKa1BhdEJHVkhGMzBKcmZtMERsLUM?oc=5",
+      "source": "Google News:DEO",
       "kind": "news"
     },
     {
       "n": 8,
-      "symbol": "OBDC",
-      "short": "OBDC — Blue Owl Capital (NYSE:OBDC) Director Acquires $11,340.00 in Stock - MarketBeat",
-      "detail": "OBDC\n重點：新聞\n標題：Blue Owl Capital (NYSE:OBDC) Director Acquires $11,340.00 in Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa0I4dzZDNlB3eEhGOG03VTJyNDctSDlEemVLS1Vpby14RDdmY2JIODJoT2F4bnFXNUpFcnZuSGxSbGNDb0dmemRIVWFpT3ZYcnBUVURTRTVFRVN4Q2w2TlRia25UUW1EcFduNzFpdmxsV2JFU1lwY0NJSFZFUjEydlNYSlB5QXFJRmRjUFlBUEZjRjlnR2tlSGxpRXlJaEZaMjc5WEFwdi1KY…\n來源：Google News:OBDC",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa0I4dzZDNlB3eEhGOG03VTJyNDctSDlEemVLS1Vpby14RDdmY2JIODJoT2F4bnFXNUpFcnZuSGxSbGNDb0dmemRIVWFpT3ZYcnBUVURTRTVFRVN4Q2w2TlRia25UUW1EcFduNzFpdmxsV2JFU1lwY0NJSFZFUjEydlNYSlB5QXFJRmRjUFlBUEZjRjlnR2tlSGxpRXlJaEZaMjc5WEFwdi1KYl9wdTRtRzVLVnFsMWlUMzNfdUw3OFc?oc=5",
-      "source": "Google News:OBDC",
+      "symbol": "GPC",
+      "short": "GPC — 業績／指引：Genuine Parts (GPC) Stock Could Be 45% Undervalued Despite E Commerce Deal",
+      "detail": "GPC\n重點：業績／指引\n標題：Genuine Parts (GPC) Stock Could Be 45% Undervalued Despite E Commerce Deal\n摘要：Genuine Parts stock has delivered a 27.3% total return over the past 5 years, yet current valuation checks suggest the market price may still sit below what its cash flows imply. With both the Discounted Cash Flow (DCF) intrinsic value estimate and earnings based multiples point…\n來源：Yahoo Finance:GPC",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/genuine-parts-gpc-stock-could-021514315.html?.tsrc=rss",
+      "source": "Yahoo Finance:GPC",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "HCA",
+      "short": "HCA — 業績／指引：HCA Healthcare (HCA) Stock Still Looks Cheap Given Its Earnings Power - simplywall.st",
+      "detail": "HCA\n重點：業績／指引\n標題：HCA Healthcare (HCA) Stock Still Looks Cheap Given Its Earnings Power - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDlRUFM5cldhNzRERFVXU0tIYlFXb3BXdnRvN0syMXpKTnQtaHhYZkE4MFdkQUY5SFFqS2Zwc05rZ0JfOC03clM4NFllZGItM0YyanFIUGFETWZxVkx4REJqa1JlX2doWm5mNkh4M1BHVS1MWmRYU0ZYM1MzWm5saGI1QnRCSFJXQktzQWVOV0NVaU9LcWIzS1ZQc04yYXB5cjRRZXcwOHRwa…\n來源：Google News:HCA",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDlRUFM5cldhNzRERFVXU0tIYlFXb3BXdnRvN0syMXpKTnQtaHhYZkE4MFdkQUY5SFFqS2Zwc05rZ0JfOC03clM4NFllZGItM0YyanFIUGFETWZxVkx4REJqa1JlX2doWm5mNkh4M1BHVS1MWmRYU0ZYM1MzWm5saGI1QnRCSFJXQktzQWVOV0NVaU9LcWIzS1ZQc04yYXB5cjRRZXcwOHRwaDB3SlZDekRMM1Mza3VxYjZncGF1OExkZkpNYTJjeWYzcFjSAdIBQVVfeXFMT0ZBYnpsRlo1eEk1VVBtbTNOejNMb2VkM21rcFNuVWdCVDljUjFUY0loNi03c0xuc01FX0I4SDVNaE9tZFlaYV9TbWFleTZXeHZ3T2JuNjlLQkNpQ0ZhcVdPMkhVTVhYazVJbXJhN0hQdU5vQW92azJsRTIwcFpqZUF6WXJqZTY0MGNRQzhBa0hDQ0FrRldPWktvaTIxSXoyVzRJRjZhWVpRLUJXTDJrNG9rdUJkaFR2WUhTU0VHbHdsUU81VmFObDFNTmVaamE3clRB?oc=5",
+      "source": "Google News:HCA",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "KSS",
+      "short": "KSS — Alyeska Investment Group L.P. Invests $13.49 Million in Kohl's Corporation $KSS - marke…",
+      "detail": "KSS\n重點：新聞\n標題：Alyeska Investment Group L.P. Invests $13.49 Million in Kohl's Corporation $KSS - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPUmpIN3NneDRZeG5pX2xfT3FUNWtDSzlEYmhLU0JVTFdGZ0ZIMVVPdkdtblI4eS0wQVowNm5nR0Y4YmZVTTVsUkxBTEFXYjM1YkJaQUNobms0aVFuY0RJMkgzeDQ0YTc1MXpUaTkwam4yV2s3bnQxd3cybW1nOTVhbm1USW9mM0lkc25iWHlPNVN4eHpBSS1CVjhzR2JwQVBaX0dkYWVrdW5ic…\n來源：Google News:KSS",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUmpIN3NneDRZeG5pX2xfT3FUNWtDSzlEYmhLU0JVTFdGZ0ZIMVVPdkdtblI4eS0wQVowNm5nR0Y4YmZVTTVsUkxBTEFXYjM1YkJaQUNobms0aVFuY0RJMkgzeDQ0YTc1MXpUaTkwam4yV2s3bnQxd3cybW1nOTVhbm1USW9mM0lkc25iWHlPNVN4eHpBSS1CVjhzR2JwQVBaX0dkYWVrdW5icnhEZVFYX0g4MjhKRUNiNmozVkdFLXNzMDBlTWcxaEdkTnoyWGs?oc=5",
+      "source": "Google News:KSS",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "OXY",
+      "short": "OXY — 206,728 Shares in Occidental Petroleum Corporation $OXY Acquired by Public Employees Re…",
+      "detail": "OXY\n重點：新聞\n標題：206,728 Shares in Occidental Petroleum Corporation $OXY Acquired by Public Employees Retirement System of Ohio - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNT3o2UWY3NWlNMFBuZUZFdXBsNjJvdkJCNGFlVWVVeGpWYWpRT3FrN2JKZ29oU0VOYVFLMGM3WUZEYUJjajEtLVF0MnVNd0pBcmNfTjNPTE81QWV1ZzhTN3hROEF5U0FtRk81MFVuQVQ2WXBwd2lpbVNhRVJfcGhScGxzWlFHRkhiU2dTNUY0eWpkMU80MUtkbWQ4THZtMzF5SDNMSEt6a21wQ…\n來源：Google News:OXY",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNT3o2UWY3NWlNMFBuZUZFdXBsNjJvdkJCNGFlVWVVeGpWYWpRT3FrN2JKZ29oU0VOYVFLMGM3WUZEYUJjajEtLVF0MnVNd0pBcmNfTjNPTE81QWV1ZzhTN3hROEF5U0FtRk81MFVuQVQ2WXBwd2lpbVNhRVJfcGhScGxzWlFHRkhiU2dTNUY0eWpkMU80MUtkbWQ4THZtMzF5SDNMSEt6a21wQzhrQzdEemVPOGQtamxSTFpiOEF0ZnVRbG9GZENEOE9LSEJta1ZxNHdsY1pOTkFuWjZnSTNKQWtCQWR5RUlGUGxRYy1OY2hjQTNHdjVqNzY3aU5Gdw?oc=5",
+      "source": "Google News:OXY",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "PYPL",
+      "short": "PYPL — Benjamin Edwards Inc. Buys 35,119 Shares of PayPal Holdings, Inc. $PYPL - marketbeat.com",
+      "detail": "PYPL\n重點：新聞\n標題：Benjamin Edwards Inc. Buys 35,119 Shares of PayPal Holdings, Inc. $PYPL - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPWkpfOWJZZHMzanltNjl2RXpQMFE5U2ViNUV1WUVCV3g0QWt5QkZKRHN1N2Z1Zk9sa0w2Rkkzckt0ME9HcF9ZaW8yTm8xT1ozXzVWNm15SHEtRzhMZ25vazZ4N3d0aWtmX29yZ01uY2Zoa1dHVWJUYWZOdXhqU0d2WWlvUWN0ci1VQ29PdTRUWUJRT014OHVjTDhfamZHNU1zWi13dW1PeFlvM…\n來源：Google News:PYPL",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWkpfOWJZZHMzanltNjl2RXpQMFE5U2ViNUV1WUVCV3g0QWt5QkZKRHN1N2Z1Zk9sa0w2Rkkzckt0ME9HcF9ZaW8yTm8xT1ozXzVWNm15SHEtRzhMZ25vazZ4N3d0aWtmX29yZ01uY2Zoa1dHVWJUYWZOdXhqU0d2WWlvUWN0ci1VQ29PdTRUWUJRT014OHVjTDhfamZHNU1zWi13dW1PeFlvMVB1ZDNWU21ad2x6UUFjck5ialAyczFLQ3UwY2c?oc=5",
+      "source": "Google News:PYPL",
       "kind": "news"
     }
   ]
