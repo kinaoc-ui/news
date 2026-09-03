@@ -1,11 +1,56 @@
 {
-  "title": "FS新聞 09-03 09:26",
-  "list_name": "FirstScreen_2026-09-03_092629_comma.txt",
-  "created_at": "2026-09-03T09:26:37.463017+00:00",
+  "title": "FS新聞 09-03 14:16",
+  "list_name": "FirstScreen_2026-09-03_141634_comma.txt",
+  "created_at": "2026-09-03T14:16:41.361055+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "AEO",
+      "short": "AEO — Nykredit A S Takes $46.02 Million Position in American Eagle Outfitters, Inc. $AEO - Ma…",
+      "detail": "AEO\n重點：新聞\n標題：Nykredit A S Takes $46.02 Million Position in American Eagle Outfitters, Inc. $AEO - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOblFSSUprdllNX3lEckhVWEwtWGMxRWt5M0pYNVg1SGpBWjBnSFdUdFA2X1lNNnpibEF1dkttV2xZMmYxamR4N2ZxZGZzNlR2TE9CNEpDbmFQYk5TZjdBOGphRFFmSnVsYndNZVVneTE2UjF5VGtkSExmX3ZMR3lJUUlDdEZUazRUM0FjRWVaS2lKdG43QTVacW90eUVhYl9tZG12LXVDLUhCS…\n來源：Google News:AEO\n其他：American Eagle Outfitters, Inc. $AEO Shares Sold by Quantit…",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOblFSSUprdllNX3lEckhVWEwtWGMxRWt5M0pYNVg1SGpBWjBnSFdUdFA2X1lNNnpibEF1dkttV2xZMmYxamR4N2ZxZGZzNlR2TE9CNEpDbmFQYk5TZjdBOGphRFFmSnVsYndNZVVneTE2UjF5VGtkSExmX3ZMR3lJUUlDdEZUazRUM0FjRWVaS2lKdG43QTVacW90eUVhYl9tZG12LXVDLUhCS2E0RnFpcWNZV3pMYlFTTHJxekpabFB0UWJQNl9BeXlMQ1BCdG9oa1lfbQ?oc=5",
+      "source": "Google News:AEO",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "LULU",
+      "short": "LULU — 業績／指引：Lululemon & DocuSign earnings, weekly jobless claims: What to Watch",
+      "detail": "LULU\n重點：業績／指引\n標題：Lululemon & DocuSign earnings, weekly jobless claims: What to Watch\n摘要：Yahoo Finance's Josh Lipton takes a closer look at the top stories for investors to watch on Thursday, Sept. 3, including weekly initial jobless claims data and quarterly earnings results from Lululemon (LULU) and DocuSign (DOCU).\n來源：Yahoo Finance:LULU\n其他：LULU Stock Rises Overnight: Michael Burry Says Lululemon's …",
+      "url": "https://finance.yahoo.com/video/lululemon-docusign-earnings-weekly-jobless-120000277.html?.tsrc=rss",
+      "source": "Yahoo Finance:LULU",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "CARG",
+      "short": "CARG — CarGurus Appoints Matthew Mandel as Chief Financial Officer",
+      "detail": "CARG\n重點：新聞\n標題：CarGurus Appoints Matthew Mandel as Chief Financial Officer\n摘要：Finance and operations leader brings deep marketplace and software experience, scaling consumer and B2B brands BOSTON, Sept. 03, 2026 (GLOBE NEWSWIRE) -- CarGurus (Nasdaq: CARG), the No. 1 most visited automotive shopping site in the U.S.1, today announced it has appointed Matth…\n來源：Yahoo Finance:CARG",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cargurus-appoints-matthew-mandel-chief-125000587.html?.tsrc=rss",
+      "source": "Yahoo Finance:CARG",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "COO",
+      "short": "COO — 業績／指引：Countdown to The Cooper Companies (COO) Q3 Earnings: Wall Street Forecasts for Key Metr…",
+      "detail": "COO\n重點：業績／指引\n標題：Countdown to The Cooper Companies (COO) Q3 Earnings: Wall Street Forecasts for Key Metrics\n摘要：Looking beyond Wall Street's top-and-bottom-line estimate forecasts for The Cooper Companies (COO), delve into some of its key metrics to gain a deeper insight into the company's potential performance for the quarter ended July 2026.\n來源：Yahoo Finance:COO",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/countdown-cooper-companies-coo-q3-131502182.html?.tsrc=rss",
+      "source": "Yahoo Finance:COO",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "CRM",
+      "short": "CRM — 業績／指引：Salesforce Stock Up 22% in a Week After Anthropic Deal, Breaking 20-Month Downtrend",
+      "detail": "CRM\n重點：業績／指引\n標題：Salesforce Stock Up 22% in a Week After Anthropic Deal, Breaking 20-Month Downtrend\n摘要：Salesforce stock jumped 22% on record earnings and the Claudeforce deal. CRM now tests $256 with $282 in view.\n來源：Yahoo Finance:CRM",
+      "url": "https://beincrypto.com/salesforce-stock-claudeforce-breakout-analysis/?.tsrc=rss",
+      "source": "Yahoo Finance:CRM",
+      "kind": "news"
+    },
+    {
+      "n": 6,
       "symbol": "FUTU",
       "short": "FUTU — Futu Holdings Limited Sponsored ADR $FUTU Stock Position Raised by Greenwoods Asset Man…",
       "detail": "FUTU\n重點：新聞\n標題：Futu Holdings Limited Sponsored ADR $FUTU Stock Position Raised by Greenwoods Asset Management Hong Kong Ltd. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVUlVWmxwMFdVUHZkbWFqYUhTc3g5UEhpUzRjYTR0cWI3bGc5RHlWcUxJM0hENy0tMVRKeXZuUlhVUHBSYkl4OUgwY1ZRcklsa3p5NjE5THpkbDBTcktieTRIX1NUU1IyQWlzVV95Wk43cG1yRy16MUQ3MnRNMFkwR3lPRV94MlNJWkptWTJTVmVJd2tKSlhqRHhHMFd1MlRHMHBCNjE1MGxYR…\n來源：Google News:FUTU",
@@ -14,25 +59,16 @@
       "kind": "news"
     },
     {
-      "n": 2,
-      "symbol": "GAP",
-      "short": "GAP — GAP (NYSE:GAP) Stock Sold Off Rep. Kevin Hern - MarketBeat",
-      "detail": "GAP\n重點：新聞\n標題：GAP (NYSE:GAP) Stock Sold Off Rep. Kevin Hern - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1pSa2R4R0tjMVhZRng5cTRwZHR1VUFjOG0xTlYtbG94cmR2Z2JOVHFxcHN1LXZMVk5RMjZPWHliUVRtTUFGcDI4Tm56LWF3TjFUbk11b3lwQ25tYkZVLVZ2QWdScjZXbDN6Z1hiNVlSQUlpbjgtZEFSY2llQjRyOTJqbGhTNmsyYVcyYVViX3dUeGVUeDhmSWk4UFE5b1dUQ1RQZFJseHo?o…\n來源：Google News:GAP",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1pSa2R4R0tjMVhZRng5cTRwZHR1VUFjOG0xTlYtbG94cmR2Z2JOVHFxcHN1LXZMVk5RMjZPWHliUVRtTUFGcDI4Tm56LWF3TjFUbk11b3lwQ25tYkZVLVZ2QWdScjZXbDN6Z1hiNVlSQUlpbjgtZEFSY2llQjRyOTJqbGhTNmsyYVcyYVViX3dUeGVUeDhmSWk4UFE5b1dUQ1RQZFJseHo?oc=5",
-      "source": "Google News:GAP",
+      "n": 7,
+      "symbol": "INTU",
+      "short": "INTU — Continuum Advisory LLC Invests $5.72 Million in Intuit Inc. $INTU - MarketBeat",
+      "detail": "INTU\n重點：新聞\n標題：Continuum Advisory LLC Invests $5.72 Million in Intuit Inc. $INTU - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNX2lyTVBwTmp6M0p2T1luV2hKMjVtSGd1OFdpbW9IME9xR0VzYTFPbUhQSW9OS05vdm16VTNWYWE3S3JvMnZjZHRlWXRTSlB3T2puQ1doWGgtNGZudFROeTBlaW9oT1pMaHFUWW1zZUFlWjZUUFdsYnlETXZLc1RHbGNKcXlzVEFZWkoxM1NfLTNuaVVzWl9xamZ5bWRGRktZQzV2d3V0eFlkW…\n來源：Google News:INTU",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX2lyTVBwTmp6M0p2T1luV2hKMjVtSGd1OFdpbW9IME9xR0VzYTFPbUhQSW9OS05vdm16VTNWYWE3S3JvMnZjZHRlWXRTSlB3T2puQ1doWGgtNGZudFROeTBlaW9oT1pMaHFUWW1zZUFlWjZUUFdsYnlETXZLc1RHbGNKcXlzVEFZWkoxM1NfLTNuaVVzWl9xamZ5bWRGRktZQzV2d3V0eFlkWldFT3RPYXptb2hHMW5URTVUNmJ2Yw?oc=5",
+      "source": "Google News:INTU",
       "kind": "news"
     },
     {
-      "n": 3,
-      "symbol": "HP",
-      "short": "HP — 業績／指引：Unpacking Q2 Earnings: Helmerich & Payne (NYSE:HP) In The Context Of Other Oilfield Ser…",
-      "detail": "HP\n重點：業績／指引\n標題：Unpacking Q2 Earnings: Helmerich & Payne (NYSE:HP) In The Context Of Other Oilfield Services Stocks - Yahoo Finance\n摘要：<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUpha29rMmZVbGo5aFRUaTh0bjBEcHlaendtWGM3N01TOWE0M2dxMVFLRTFySFg0V1F2aDF4V1NNWDdtUHBVRHNYeUpYRHJrWURhdTVXdVRGZml5Qjl4X0ZOZUxTTG8tOGFxeHI2RlJOd3JYc2VVRC10cHJTRjNESDN6OTluNFl4bXhJcU5sRWlnbHJzS28yM0hGYkx1cFhvVVZ1UA?oc=5\" …\n來源：Google News:HP",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUpha29rMmZVbGo5aFRUaTh0bjBEcHlaendtWGM3N01TOWE0M2dxMVFLRTFySFg0V1F2aDF4V1NNWDdtUHBVRHNYeUpYRHJrWURhdTVXdVRGZml5Qjl4X0ZOZUxTTG8tOGFxeHI2RlJOd3JYc2VVRC10cHJTRjNESDN6OTluNFl4bXhJcU5sRWlnbHJzS28yM0hGYkx1cFhvVVZ1UA?oc=5",
-      "source": "Google News:HP",
-      "kind": "news"
-    },
-    {
-      "n": 4,
+      "n": 8,
       "symbol": "LQDA",
       "short": "LQDA — Liquidia Corporation (NASDAQ:LQDA) Given Consensus Recommendation of \"Hold\" by Analysts…",
       "detail": "LQDA\n重點：新聞\n標題：Liquidia Corporation (NASDAQ:LQDA) Given Consensus Recommendation of \"Hold\" by Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ0VYdEs4M282TlZscmVEdHZhN3ZNTy11NlZ1a1N6Y2pCVkQzTm9YTnE0UmVyazJDVjZwa2h0bzVoVXFsLUZhSFBfSk1VdWx3Q2YzdnZmMTJESEo4Q0ZvME04NEwtU2c1TGRZVzdySWpQUVdoWFpCSlk1eWE4ZkZqZGVydWdfMk9MU1J6Szc5RTNwR1pYRWtyb0dZZ3lhVUwxd29jMDBpc0ZCZ…\n來源：Google News:LQDA",
@@ -41,12 +77,21 @@
       "kind": "news"
     },
     {
-      "n": 5,
-      "symbol": "LULU",
-      "short": "LULU — 業績／指引：LULU Stock Rises Overnight: Michael Burry Says Lululemon's Shareholder Base Has 'Comple…",
-      "detail": "LULU\n重點：業績／指引\n標題：LULU Stock Rises Overnight: Michael Burry Says Lululemon's Shareholder Base Has 'Completely Turned Over' Ahead Of Earnings\n摘要：Burry supports LULU despite Wall Street’s concerns, while analysts expect weaker demand and a possible cut to the company’s guidance.\n來源：Yahoo Finance:LULU",
-      "url": "https://stocktwits.com/news-articles/markets/equity/lulu-stock-rises-overnight-michael-burry-says-lululemon-s-shareholder-base-has-completely-turned-over-ahead-of-earnings/cZsMYLGRJHD?.tsrc=rss",
-      "source": "Yahoo Finance:LULU",
+      "n": 9,
+      "symbol": "PYPL",
+      "short": "PYPL — PayPal Cuts Around 600 Jobs in India, Moneycontrol Reports",
+      "detail": "PYPL\n重點：新聞\n標題：PayPal Cuts Around 600 Jobs in India, Moneycontrol Reports\n摘要：PayPal (NASDAQ:PYPL) has cut around 600 jobs in India, equivalent to approximately 10% of its workforce in the country, as part of a broader global restructuring, Moneycontrol reported on Thursday. According to people familiar with the matter cited by Moneycontrol, the reduction…\n來源：Yahoo Finance:PYPL",
+      "url": "https://investorshub.advfn.com/market-news/article/35564/paypal-cuts-around-600-jobs-in-india-moneycontrol-reports?.tsrc=rss",
+      "source": "Yahoo Finance:PYPL",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "SLB",
+      "short": "SLB — SLB’s Kelvion Deal Could Change How Investors Value the Oilfield Giant - MarketBeat",
+      "detail": "SLB\n重點：新聞\n標題：SLB’s Kelvion Deal Could Change How Investors Value the Oilfield Giant - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeU0xbkIxUHVjQWhmQ2FsSXZrTE1fMXhMTDJNZEFzYkdJVndDRlI3MFdLb1pldGI1UXhUNS1Vd3ZPd2dHS1ZhaWtjdHpobXBSVmQ4UjNqTTdWSVdGdkk5OFVtczhCNFMwcm93R1RFMnBjOXJkcUpieXZuWEVUdWIxc1JEcWZUaGNlUWxkQnpZQUVKckZnNWVZaXlGNWxXazlBejU2QVBxZXM4Z…\n來源：Google News:SLB",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeU0xbkIxUHVjQWhmQ2FsSXZrTE1fMXhMTDJNZEFzYkdJVndDRlI3MFdLb1pldGI1UXhUNS1Vd3ZPd2dHS1ZhaWtjdHpobXBSVmQ4UjNqTTdWSVdGdkk5OFVtczhCNFMwcm93R1RFMnBjOXJkcUpieXZuWEVUdWIxc1JEcWZUaGNlUWxkQnpZQUVKckZnNWVZaXlGNWxXazlBejU2QVBxZXM4Zw?oc=5",
+      "source": "Google News:SLB",
       "kind": "news"
     }
   ]
