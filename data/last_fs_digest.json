@@ -1,115 +1,25 @@
 {
-  "title": "FS新聞 09-06 13:29",
-  "list_name": "FirstScreen_2026-09-06_132917_comma.txt",
-  "created_at": "2026-09-06T13:29:27.638713+00:00",
+  "title": "FS新聞 09-07 04:58",
+  "list_name": "FirstScreen_2026-09-07_045756_comma.txt",
+  "created_at": "2026-09-07T04:58:04.414634+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "URBN",
-      "short": "URBN — 業績／指引：Does Strong Q2 Results And Nuuly Logistics Spend Change The Bull Case For Urban Outfitt…",
-      "detail": "URBN\n重點：業績／指引\n標題：Does Strong Q2 Results And Nuuly Logistics Spend Change The Bull Case For Urban Outfitters (URBN)?\n摘要：In August 2026, Urban Outfitters, Inc. reported second-quarter sales of US$1,661.92 million and net income of US$240.65 million, alongside stronger earnings per share and completion of a multi-year US$524.44 million share repurchase program covering 9,990,599 shares. At the same…\n來源：Yahoo Finance:URBN\n其他：Wellington Management Group LLP Sells 22,780 Shares of Urba…; Urban Outfitters, Inc. (NASDAQ:URBN) Receives Average Ratin…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-strong-q2-results-nuuly-110650812.html?.tsrc=rss",
-      "source": "Yahoo Finance:URBN",
+      "symbol": "GAP",
+      "short": "GAP — Gap Taps New Old Navy CEO to Turn Around Sluggish Sales",
+      "detail": "GAP\n重點：新聞\n標題：Gap Taps New Old Navy CEO to Turn Around Sluggish Sales\n摘要：CNBC and Reuters reported that The Gap, Inc. (NYSE:GAP) named retail veteran Michael Francis as president and CEO of Old Navy, effective November 2, succeeding Haio Barbeito, who will move into an advisory role. The announcement came alongside second-quarter results showing Old …\n來源：Yahoo Finance:GAP",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gap-taps-old-navy-ceo-221935372.html?.tsrc=rss",
+      "source": "Yahoo Finance:GAP",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "CRM",
-      "short": "CRM — Saudi Central Bank Buys 21,246 Shares of Salesforce Inc. $CRM - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Saudi Central Bank Buys 21,246 Shares of Salesforce Inc. $CRM - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVpqYTFleWRHb1ZSU3pneG5WX0hhbHMwbFc3V0JJS1lXSm4zbThBRmNZeFVYTTNxNy1sZG5taHhubHRDWG5uN0RlbUpZZzcyMVVFRjRaYVBfOWJJMnRvc2cyakVReGl1MzJVRjF1ZWRySGZfZGQ1VVBzaWIwcTgzREdxUUdzTnhnNFBlRi1tRndHV281Q2xELWdoVFlFR1hPeGd0WXhZZkJCN…\n來源：Google News:CRM\n其他：Salesforce Inc. $CRM Shares Acquired by Riverview Capital A…",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVpqYTFleWRHb1ZSU3pneG5WX0hhbHMwbFc3V0JJS1lXSm4zbThBRmNZeFVYTTNxNy1sZG5taHhubHRDWG5uN0RlbUpZZzcyMVVFRjRaYVBfOWJJMnRvc2cyakVReGl1MzJVRjF1ZWRySGZfZGQ1VVBzaWIwcTgzREdxUUdzTnhnNFBlRi1tRndHV281Q2xELWdoVFlFR1hPeGd0WXhZZkJCNEhVeXM4WUlRSmxEeURvalZN?oc=5",
-      "source": "Google News:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "HCA",
-      "short": "HCA — NEOS Investment Management LLC Increases Holdings in HCA Healthcare, Inc. $HCA - Market…",
-      "detail": "HCA\n重點：新聞\n標題：NEOS Investment Management LLC Increases Holdings in HCA Healthcare, Inc. $HCA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM0Fodm83S2VleWtMX3F2WmNyMWhXa1M3ak9VTGYtV0lGZ1ZMYXBLY2RqLUNsN3VrU2JpdWxZQUtGOVkyWG1RVTJxb3NpMW5DMGo1eWhpdFlDWWxlWlhEMWxaNVh0d01nYkpmbXd2T0hCdHdLT01KRDNSWWt6bG90QVJjMnozbWRZdlFwc3haM3BuOHR0RGN6SGxoMndWdmYwWUoyZlJXU3FsT…\n來源：Google News:HCA\n其他：Fund 1 Investments LLC Invests $975,000 in HCA Healthcare, …",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM0Fodm83S2VleWtMX3F2WmNyMWhXa1M3ak9VTGYtV0lGZ1ZMYXBLY2RqLUNsN3VrU2JpdWxZQUtGOVkyWG1RVTJxb3NpMW5DMGo1eWhpdFlDWWxlWlhEMWxaNVh0d01nYkpmbXd2T0hCdHdLT01KRDNSWWt6bG90QVJjMnozbWRZdlFwc3haM3BuOHR0RGN6SGxoMndWdmYwWUoyZlJXU3FsTlJwcnZCRWRhcDdKTTc2YndLdnl5RlZnVDBnRl93eWhWODB2TWl0SWc?oc=5",
-      "source": "Google News:HCA",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "INTU",
-      "short": "INTU — Sapient Capital LLC Cuts Position in Intuit Inc. $INTU - MarketBeat",
-      "detail": "INTU\n重點：新聞\n標題：Sapient Capital LLC Cuts Position in Intuit Inc. $INTU - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPUzlmLWowcUVLVkVkT1Jhc3ltOTU5OUI1SWhicG1BVEJTQ3pCdklwNER6SloyU1pzcy1mMzZtbzlidGhxdTRsdmlDR19wVlY5dEZsQlZmdERXajkxX3R0bmc1OFJRa3A2eXVjeXdSZGxlMFRZVndTMk0zWVBoSldvZ3NaYUlBc3drNjZrd0NTb1BMVldPT3RVOEpkb1JJa3VKUGxDN1AxMDNFU…\n來源：Google News:INTU\n其他：Intuit Inc. (NASDAQ:INTU) Receives Average Rating of \"Hold\"…",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUzlmLWowcUVLVkVkT1Jhc3ltOTU5OUI1SWhicG1BVEJTQ3pCdklwNER6SloyU1pzcy1mMzZtbzlidGhxdTRsdmlDR19wVlY5dEZsQlZmdERXajkxX3R0bmc1OFJRa3A2eXVjeXdSZGxlMFRZVndTMk0zWVBoSldvZ3NaYUlBc3drNjZrd0NTb1BMVldPT3RVOEpkb1JJa3VKUGxDN1AxMDNFUkJWUmRlUVYxMA?oc=5",
-      "source": "Google News:INTU",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "PYPL",
-      "short": "PYPL — PayPal Holdings, Inc. $PYPL Shares Purchased by Saudi Central Bank - MarketBeat",
-      "detail": "PYPL\n重點：新聞\n標題：PayPal Holdings, Inc. $PYPL Shares Purchased by Saudi Central Bank - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS2tyMlpBUTcxakdZWjRWMGdwLWZOMEozYnNiRGpTS3JTZFVmeExVMUkyMkc4XzBVTE5TVk1jekFodnRZSjlEWWRqOTNJa0JzODhWMXppTzh6XzZraC1YVWo5eXp0YUtzQUg4cUllS254ZE5JYk5iT2FKRW5ZUzZlQlFmN2Z5dmxXSmZnaFd5ajdlNzhob0hWUVdWbDRsbHlnbUhwQW4waEtfM…\n來源：Google News:PYPL\n其他：Nykredit A S Makes New $11.20 Million Investment in PayPal …",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS2tyMlpBUTcxakdZWjRWMGdwLWZOMEozYnNiRGpTS3JTZFVmeExVMUkyMkc4XzBVTE5TVk1jekFodnRZSjlEWWRqOTNJa0JzODhWMXppTzh6XzZraC1YVWo5eXp0YUtzQUg4cUllS254ZE5JYk5iT2FKRW5ZUzZlQlFmN2Z5dmxXSmZnaFd5ajdlNzhob0hWUVdWbDRsbHlnbUhwQW4waEtfMWVPS0RUTlBoUXhvMnV6M3IyMHFtNS1QUQ?oc=5",
-      "source": "Google News:PYPL",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "TGT",
-      "short": "TGT — NEOS Investment Management LLC Grows Stock Holdings in Target Corporation $TGT - Market…",
-      "detail": "TGT\n重點：新聞\n標題：NEOS Investment Management LLC Grows Stock Holdings in Target Corporation $TGT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejd3MzB1bzFqY3VVLTVJTTlsdzZyZ3pMd0tLMmRxQ1VKemdabmkyVnQtcExnajdLbmxhb09LdnZHUHYxS1drRnRKd2VjVG5DRGRnaWVaYVp2NFVvWkFoQWRtczRhbUpxSVoxMmdOMm9QcmNHRGRiTWloOFJaYVplV28wWDB4czJxaDgweHNncl8zSVBSMFFsMkdtVTNsZVV6Z0pOTnI0OHpta…\n來源：Google News:TGT\n其他：Wellington Management Group LLP Buys 29,204 Shares of Targe…",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejd3MzB1bzFqY3VVLTVJTTlsdzZyZ3pMd0tLMmRxQ1VKemdabmkyVnQtcExnajdLbmxhb09LdnZHUHYxS1drRnRKd2VjVG5DRGRnaWVaYVp2NFVvWkFoQWRtczRhbUpxSVoxMmdOMm9QcmNHRGRiTWloOFJaYVplV28wWDB4czJxaDgweHNncl8zSVBSMFFsMkdtVTNsZVV6Z0pOTnI0OHptaXRJdzVvV213UnVEX0NxdXpaeFU1MU1DRFRETlhYYnhtOU1GUnNBc0VIcg?oc=5",
-      "source": "Google News:TGT",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "EL",
-      "short": "EL — Nykredit A S Invests $7.33 Million in The Estee Lauder Companies Inc. $EL - MarketBeat",
-      "detail": "EL\n重點：新聞\n標題：Nykredit A S Invests $7.33 Million in The Estee Lauder Companies Inc. $EL - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPYjhpWll3TWtSbU92Y3E3bzFQVmxySHd4MlYwc3FkanRqZmE3TkdValhNVFhXZWlNNTVCRjlsWVd1eloxWHFqeXR1T0xPdjBOa3B0ajlBR0I0dmpPdE1ZM1FtOHpfUGtJQmUzQnhPSzUzOXJCT1dFYkkwdDQyTXI4LTlmQUdHNG1PQllnd2hPczNuNWw2SEowNW92Q2c3Um5zcGFDbWlkNTlEa…\n來源：Google News:EL",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYjhpWll3TWtSbU92Y3E3bzFQVmxySHd4MlYwc3FkanRqZmE3TkdValhNVFhXZWlNNTVCRjlsWVd1eloxWHFqeXR1T0xPdjBOa3B0ajlBR0I0dmpPdE1ZM1FtOHpfUGtJQmUzQnhPSzUzOXJCT1dFYkkwdDQyTXI4LTlmQUdHNG1PQllnd2hPczNuNWw2SEowNW92Q2c3Um5zcGFDbWlkNTlEal9PV0t2dk9rNzVkOGhDMzVpeFE2blQ4RU1kS1lnd0Vn?oc=5",
-      "source": "Google News:EL",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "GEN",
-      "short": "GEN — Wellington Management Group LLP Purchases 478,886 Shares of Gen Digital Inc. $GEN - Mar…",
-      "detail": "GEN\n重點：新聞\n標題：Wellington Management Group LLP Purchases 478,886 Shares of Gen Digital Inc. $GEN - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZW5QNnBUSFJnTjIyRHRuT3hJUXFQYllSUHFqYl9ianJDOUYxb3hzVTNOSHJfeHhLdjRoczJoNmdBZnk1OHdjdG9jSGh0QjNLbEJyWkhpS29wRkNTdXZKdTFUdjBBU3ljWDlnenRoQmhjMElULWJGTWw2LVEwLXNndUdYLUxkUlZ6OXVuUkpwMXFKLXdQVGROa2lWN0otc0JyM3JVLThMSHFqb…\n來源：Google News:GEN",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZW5QNnBUSFJnTjIyRHRuT3hJUXFQYllSUHFqYl9ianJDOUYxb3hzVTNOSHJfeHhLdjRoczJoNmdBZnk1OHdjdG9jSGh0QjNLbEJyWkhpS29wRkNTdXZKdTFUdjBBU3ljWDlnenRoQmhjMElULWJGTWw2LVEwLXNndUdYLUxkUlZ6OXVuUkpwMXFKLXdQVGROa2lWN0otc0JyM3JVLThMSHFqbGxTX0RLNHVkWUFIQ2loQ0RIMDJoTm0xUEx4V2FKQUxrN2tya0VzaTJraXVB?oc=5",
-      "source": "Google News:GEN",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "MRK",
-      "short": "MRK — Merck & Co., Inc. $MRK Shares Bought by Saudi Central Bank - MarketBeat",
-      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Shares Bought by Saudi Central Bank - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNYUNDelFJQkFjWjUzNzUtUmJMbzdfekVtTC1naTJmQjNjSndnZHQ2eEI4dGtWRnFzOTBaZE5lSmhDeEh5ZHBleEstclI0LWxqTjJOR2x2ZWVMOGtjMzltNzFKWFQ4U1JfazJUYjY0YWplSllaZHNlcXdVLUtTMWFXb1gyUk0zNEJfZ2VabkRGQ0dyc0ZTNnVJRzNxcTNHOVlxcDFzNlN5LTFpM…\n來源：Google News:MRK",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYUNDelFJQkFjWjUzNzUtUmJMbzdfekVtTC1naTJmQjNjSndnZHQ2eEI4dGtWRnFzOTBaZE5lSmhDeEh5ZHBleEstclI0LWxqTjJOR2x2ZWVMOGtjMzltNzFKWFQ4U1JfazJUYjY0YWplSllaZHNlcXdVLUtTMWFXb1gyUk0zNEJfZ2VabkRGQ0dyc0ZTNnVJRzNxcTNHOVlxcDFzNlN5LTFpMzNJZy1KdDZIUQ?oc=5",
-      "source": "Google News:MRK",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "NWS",
-      "short": "NWS — 30,912 Shares in News Corporation $NWS Bought by AXQ Capital LP - MarketBeat",
-      "detail": "NWS\n重點：新聞\n標題：30,912 Shares in News Corporation $NWS Bought by AXQ Capital LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOR2djUTYwMDNaQlhhZXVhbEJnSUdYc3RGR1ZVZDIzLUk0azdGTkpMNm81YURCRkFjOF9KUklveFZhTjRXMzFtNDhfcGVwSEtNUGl1ZEJveTBOVFVBclR5LU0xZGw3dElVMHNiUThkZmVtVlM1c3dVY0RkX1ItYV9keUR0d3NlLW1qdy1aZ3RITXFrR1VhWFl3Y044MDJYbTJiazkzSHhRTzhVU…\n來源：Google News:NWS",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR2djUTYwMDNaQlhhZXVhbEJnSUdYc3RGR1ZVZDIzLUk0azdGTkpMNm81YURCRkFjOF9KUklveFZhTjRXMzFtNDhfcGVwSEtNUGl1ZEJveTBOVFVBclR5LU0xZGw3dElVMHNiUThkZmVtVlM1c3dVY0RkX1ItYV9keUR0d3NlLW1qdy1aZ3RITXFrR1VhWFl3Y044MDJYbTJiazkzSHhRTzhVUzMwX1U3RDZSNHZEXzBBVlFxUEZZSQ?oc=5",
-      "source": "Google News:NWS",
-      "kind": "news"
-    },
-    {
-      "n": 11,
       "symbol": "OKTA",
-      "short": "OKTA — Okta, Inc. (NASDAQ:OKTA) Receives Average Rating of \"Moderate Buy\" from Brokerages - Ma…",
-      "detail": "OKTA\n重點：新聞\n標題：Okta, Inc. (NASDAQ:OKTA) Receives Average Rating of \"Moderate Buy\" from Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc01Nd25iVzE5N3U3ZHJ6RXh0WktUd2hYQ1BPcXRVRFdraWJQX2l1WGhJTElwR1JYMVN4dUdqUlNzSWVlcko4eHk2MzllX1RkaTloUS00eTBaRklCOTJHR1ZJSmNFTlpET281V213YzM3Sm0tUXFJNlloMFNlR3RIdFJBMldSb05EallDLWdjMENvamp2TEJpQXhNTERZRVdULUxJSU85OEJDR…\n來源：Google News:OKTA",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc01Nd25iVzE5N3U3ZHJ6RXh0WktUd2hYQ1BPcXRVRFdraWJQX2l1WGhJTElwR1JYMVN4dUdqUlNzSWVlcko4eHk2MzllX1RkaTloUS00eTBaRklCOTJHR1ZJSmNFTlpET281V213YzM3Sm0tUXFJNlloMFNlR3RIdFJBMldSb05EallDLWdjMENvamp2TEJpQXhNTERZRVdULUxJSU85OEJDR2tMT0lvanBBMjRydERCcW1wME9TMVo1OEV3bl84cGVYbE5tSURxcWkwbllDWQ?oc=5",
-      "source": "Google News:OKTA",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "ROKU",
-      "short": "ROKU — Azimuth Capital Investment Management LLC Purchases Shares of 145,768 Roku, Inc. $ROKU …",
-      "detail": "ROKU\n重點：新聞\n標題：Azimuth Capital Investment Management LLC Purchases Shares of 145,768 Roku, Inc. $ROKU - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQnhFeC1tX3N3bmQ0YjczNVAycEYySWxVbjJ6a19sV2JGRGpKX2JzcllnWExTUW5ieENCZjhXbFNXTUV1a2lWaE5qREY2MVZXYlJkRmxYbWl4NVVHbWpRNlg2NGkwN3lLMzIwZ1ZuVEpfZjFFQ3R5Q09uVVlteXRnT09IM281UEhiQUdjcWxEdXZYdzhaYmlnWV9WTVR0djBPbTVCdDNIQ3drc…\n來源：Google News:ROKU",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQnhFeC1tX3N3bmQ0YjczNVAycEYySWxVbjJ6a19sV2JGRGpKX2JzcllnWExTUW5ieENCZjhXbFNXTUV1a2lWaE5qREY2MVZXYlJkRmxYbWl4NVVHbWpRNlg2NGkwN3lLMzIwZ1ZuVEpfZjFFQ3R5Q09uVVlteXRnT09IM281UEhiQUdjcWxEdXZYdzhaYmlnWV9WTVR0djBPbTVCdDNIQ3drczJlTVFCc3dRZEtOWFoxLVh4ejUxdlEtYnl0bnBFZzNDamFGWlZZNDlDdnRKaVZ0NW8?oc=5",
-      "source": "Google News:ROKU",
+      "short": "OKTA — Okta CFO Dumps 80,000 Company Shares Worth $12.9 Million After the Stock Hit a 52-Week …",
+      "detail": "OKTA\n重點：新聞\n標題：Okta CFO Dumps 80,000 Company Shares Worth $12.9 Million After the Stock Hit a 52-Week High\n摘要：This sale represented nearly half of the insider's total equity stake.\n來源：Yahoo Finance:OKTA",
+      "url": "https://www.fool.com/coverage/filings/2026/09/06/okta-cfo-dumps-80-000-company-shares-worth-usd12-9-million-after-the-stock-hit-a-52-week-high/?.tsrc=rss",
+      "source": "Yahoo Finance:OKTA",
       "kind": "news"
     }
   ]
