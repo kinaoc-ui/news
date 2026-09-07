@@ -1,25 +1,115 @@
 {
-  "title": "FS新聞 09-07 04:58",
-  "list_name": "FirstScreen_2026-09-07_045756_comma.txt",
-  "created_at": "2026-09-07T04:58:04.414634+00:00",
+  "title": "FS新聞 09-07 09:56",
+  "list_name": "FirstScreen_2026-09-07_095625_comma.txt",
+  "created_at": "2026-09-07T09:56:34.403256+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "GAP",
-      "short": "GAP — Gap Taps New Old Navy CEO to Turn Around Sluggish Sales",
-      "detail": "GAP\n重點：新聞\n標題：Gap Taps New Old Navy CEO to Turn Around Sluggish Sales\n摘要：CNBC and Reuters reported that The Gap, Inc. (NYSE:GAP) named retail veteran Michael Francis as president and CEO of Old Navy, effective November 2, succeeding Haio Barbeito, who will move into an advisory role. The announcement came alongside second-quarter results showing Old …\n來源：Yahoo Finance:GAP",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gap-taps-old-navy-ceo-221935372.html?.tsrc=rss",
-      "source": "Yahoo Finance:GAP",
+      "symbol": "GEN",
+      "short": "GEN — Gen Digital Inc. $GEN Shares Sold by TD Waterhouse Canada Inc. - MarketBeat",
+      "detail": "GEN\n重點：新聞\n標題：Gen Digital Inc. $GEN Shares Sold by TD Waterhouse Canada Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOcUF4MXdGNU5LdGQ1QnJwa2FOMWRQTjJBYmVxOHlMMWtwNnZmQ2hvaDFBem1UY1BVdmJyZUtPbkt6VHFUY0RNOGljTXY2UmJ5MnZLN0hIcEJ3M1Z5YS1ZaTZVTGNZM2xnWnQ1c2YzYko3cUVYRGZUUVdVVVg0aW1WU2lkYVd1TWx4WjVadHc4X290VzFIU01uZTVaZGlUS1o5dks1dVBpZjNue…\n來源：Google News:GEN\n其他：Nykredit A S Makes New $2.70 Million Investment in Gen Digi…",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcUF4MXdGNU5LdGQ1QnJwa2FOMWRQTjJBYmVxOHlMMWtwNnZmQ2hvaDFBem1UY1BVdmJyZUtPbkt6VHFUY0RNOGljTXY2UmJ5MnZLN0hIcEJ3M1Z5YS1ZaTZVTGNZM2xnWnQ1c2YzYko3cUVYRGZUUVdVVVg0aW1WU2lkYVd1TWx4WjVadHc4X290VzFIU01uZTVaZGlUS1o5dks1dVBpZjNueWpEUDItWDFTOHFVeURfSG83Rw?oc=5",
+      "source": "Google News:GEN",
       "kind": "news"
     },
     {
       "n": 2,
+      "symbol": "GPC",
+      "short": "GPC — 45,670 Shares in Genuine Parts Company $GPC Purchased by Nykredit A S - MarketBeat",
+      "detail": "GPC\n重點：新聞\n標題：45,670 Shares in Genuine Parts Company $GPC Purchased by Nykredit A S - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOSFNOVzgwMXh5WG5hc1d1RWg1bVVEekZKNHZuSkJGbUN4Y0NQQkxlOHJ1bzBPTU9CUFZnSXFZUnNid3U1ZF9nRjFGQTBRR2lsaE9hME82ZjJKdGF6dE1GQkJoVFV3akR6THRtNXdmWTVyLVA2WVltcV96b1ZVNzUzMnBFZ2ZhRUQ4bjd1cmFjanFFR1U2YU1WeHpUeUZhckFpeld4NUpEUG9UO…\n來源：Google News:GPC\n其他：Genuine Parts Company $GPC Stake Lessened by HB Wealth Mana…",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSFNOVzgwMXh5WG5hc1d1RWg1bVVEekZKNHZuSkJGbUN4Y0NQQkxlOHJ1bzBPTU9CUFZnSXFZUnNid3U1ZF9nRjFGQTBRR2lsaE9hME82ZjJKdGF6dE1GQkJoVFV3akR6THRtNXdmWTVyLVA2WVltcV96b1ZVNzUzMnBFZ2ZhRUQ4bjd1cmFjanFFR1U2YU1WeHpUeUZhckFpeld4NUpEUG9UOGowQ0ZaNExNbDlXMjgtYm9adGRGejVPcWVJd01Z?oc=5",
+      "source": "Google News:GPC",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "MRK",
+      "short": "MRK — Merck & Co., Inc. $MRK Shares Bought by Groupe la Francaise - MarketBeat",
+      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Shares Bought by Groupe la Francaise - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0NpRHV4bnpPTlNmVXp5cUNBUmFLY2UzWWtoWnpZbVZNUXNsX19MQktRSk1FbktIODBnWGU3RFJoSUVRWlVMc19jWnl6RUpjeGJLTmx3TG03UnZBa1c5TTkxYmcxMVNwQlQxRXBPT2tjV1V4TXRZLXRnRjc3ZDhaV1BpbzJrQXliSjBDN0JDNllaSXBhM3NRY292VFEyLW9jR3hMdF9Vamc3b…\n來源：Google News:MRK\n其他：HighTower Advisors LLC Grows Stock Holdings in Merck & Co.,…",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0NpRHV4bnpPTlNmVXp5cUNBUmFLY2UzWWtoWnpZbVZNUXNsX19MQktRSk1FbktIODBnWGU3RFJoSUVRWlVMc19jWnl6RUpjeGJLTmx3TG03UnZBa1c5TTkxYmcxMVNwQlQxRXBPT2tjV1V4TXRZLXRnRjc3ZDhaV1BpbzJrQXliSjBDN0JDNllaSXBhM3NRY292VFEyLW9jR3hMdF9Vamc3bVN0WHBGbENnQzc?oc=5",
+      "source": "Google News:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "OBDC",
+      "short": "OBDC — Blue Owl Capital Corporation $OBDC is Caz Investments LP's 5th Largest Position - Marke…",
+      "detail": "OBDC\n重點：新聞\n標題：Blue Owl Capital Corporation $OBDC is Caz Investments LP's 5th Largest Position - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN0x0M0txSTRhcWtIVVgzMm42bkIzM2xZNjl0aE43aWEtcGVkS18tbWxGd1NRVjRIbGtZUHpsNlNWMnJIS0JOTUdhTkxBU3lnZFVLTmhzc0VZZ2dzNWZyUENkX2tMamZ1Rm1nVnRGZDZDc2dMVnoyV3MyZmRaM3dTNkpNSS0wX2hsOW8yTTdxRXBFbS1pT2VPVjlNa1ZCUTF3cDBUZGNEczJoL…\n來源：Google News:OBDC\n其他：Blue Owl Capital Corporation (NYSE:OBDC) Receives Average R…",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN0x0M0txSTRhcWtIVVgzMm42bkIzM2xZNjl0aE43aWEtcGVkS18tbWxGd1NRVjRIbGtZUHpsNlNWMnJIS0JOTUdhTkxBU3lnZFVLTmhzc0VZZ2dzNWZyUENkX2tMamZ1Rm1nVnRGZDZDc2dMVnoyV3MyZmRaM3dTNkpNSS0wX2hsOW8yTTdxRXBFbS1pT2VPVjlNa1ZCUTF3cDBUZGNEczJoLWVBTDhLMzlpMTNZNE9UeHJURmZBR3RUZWtBb3paVy1SWld2UWF5UjRMNw?oc=5",
+      "source": "Google News:OBDC",
+      "kind": "news"
+    },
+    {
+      "n": 5,
       "symbol": "OKTA",
-      "short": "OKTA — Okta CFO Dumps 80,000 Company Shares Worth $12.9 Million After the Stock Hit a 52-Week …",
-      "detail": "OKTA\n重點：新聞\n標題：Okta CFO Dumps 80,000 Company Shares Worth $12.9 Million After the Stock Hit a 52-Week High\n摘要：This sale represented nearly half of the insider's total equity stake.\n來源：Yahoo Finance:OKTA",
-      "url": "https://www.fool.com/coverage/filings/2026/09/06/okta-cfo-dumps-80-000-company-shares-worth-usd12-9-million-after-the-stock-hit-a-52-week-high/?.tsrc=rss",
-      "source": "Yahoo Finance:OKTA",
+      "short": "OKTA — Raiffeisen Bank International AG Lowers Stock Holdings in Okta, Inc. $OKTA - MarketBeat",
+      "detail": "OKTA\n重點：新聞\n標題：Raiffeisen Bank International AG Lowers Stock Holdings in Okta, Inc. $OKTA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQaUxBcEJ3MzdTeTdfUXVXdEtBVXNlNVNiYXlvMWNwenppZU9Yb0lQYURCUmJQWDNVTGRvY0JVeV9Nd3JYMXhldW9fMS1HRW5Lck1PYW54eE9OVGFWSDJkME94b1VxSWpuNE1aelZBdGVXUVlBZEQ4SWpYRXJrMGZXU29FTzNEdlVsd1RSYlM2V1ZGU040YTJCa2d4Q2hsSnNEM29QQUNqcHpBR…\n來源：Google News:OKTA\n其他：Okta CFO Dumps 80,000 Company Shares Worth $12.9 Million Af…",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaUxBcEJ3MzdTeTdfUXVXdEtBVXNlNVNiYXlvMWNwenppZU9Yb0lQYURCUmJQWDNVTGRvY0JVeV9Nd3JYMXhldW9fMS1HRW5Lck1PYW54eE9OVGFWSDJkME94b1VxSWpuNE1aelZBdGVXUVlBZEQ4SWpYRXJrMGZXU29FTzNEdlVsd1RSYlM2V1ZGU040YTJCa2d4Q2hsSnNEM29QQUNqcHpBRE9xblBHT180ZXBOTW9NOUxVU2ttYmNBbTRWdDhIeWE3aVQ?oc=5",
+      "source": "Google News:OKTA",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "PDD",
+      "short": "PDD — 12,412 Shares in PDD Holdings Inc. Sponsored ADR $PDD Purchased by Formuepleje A S - Ma…",
+      "detail": "PDD\n重點：新聞\n標題：12,412 Shares in PDD Holdings Inc. Sponsored ADR $PDD Purchased by Formuepleje A S - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPREpUWXdPSm81Wi1JZ1RkV0QzTG13REVTZV9sZFpYajNOdUxQeW9HQmVqOVpya09lUmJsSkRzalBKTmVZRmllWGFiU2xCZmx1emRac21XdUNrM1dqNUl4bXdTdVN2SGVrREUzVXJfVlc4R1QtdFFKR3NGTHhuYzJPbjBVNC1BSmY1LW8wdnJhZmJkWEhheGdjMGNTa3cxdjRTUV96TGdJcmp2R…\n來源：Google News:PDD\n其他：PDD Holdings Inc. Sponsored ADR $PDD Shares Sold by B. Metz…",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPREpUWXdPSm81Wi1JZ1RkV0QzTG13REVTZV9sZFpYajNOdUxQeW9HQmVqOVpya09lUmJsSkRzalBKTmVZRmllWGFiU2xCZmx1emRac21XdUNrM1dqNUl4bXdTdVN2SGVrREUzVXJfVlc4R1QtdFFKR3NGTHhuYzJPbjBVNC1BSmY1LW8wdnJhZmJkWEhheGdjMGNTa3cxdjRTUV96TGdJcmp2RUd0VWM5ZWJ6bXVqVFY0V3R1aDVvMkJNb0k3OUpkaTZfUkdLMzkzM3RNVjJGYw?oc=5",
+      "source": "Google News:PDD",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "ROST",
+      "short": "ROST — Saudi Central Bank Boosts Holdings in Ross Stores, Inc. $ROST - MarketBeat",
+      "detail": "ROST\n重點：新聞\n標題：Saudi Central Bank Boosts Holdings in Ross Stores, Inc. $ROST - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSXIyVlM2bDVvanREa2RCOWRKZUhCMlpMNUo3S1I2RlR6R192b2FoaTVkNWRkeUVWVGhQU3hsanM3NG5yaF8zQ3FuajhEMTJCRXg2NUZEMGxXaVhiNzFLelMwZ0JLZHZZSk94bU5VOWV0Vl92TFRlTkR0amJDMlRuU1g3d012YVctdkJxaUpaSUVCV0s1SVdIUWlJNEt2RVZVT3NYSGdkRTFLe…\n來源：Google News:ROST\n其他：Concurrent Investment Advisors LLC Purchases 6,586 Shares o…",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSXIyVlM2bDVvanREa2RCOWRKZUhCMlpMNUo3S1I2RlR6R192b2FoaTVkNWRkeUVWVGhQU3hsanM3NG5yaF8zQ3FuajhEMTJCRXg2NUZEMGxXaVhiNzFLelMwZ0JLZHZZSk94bU5VOWV0Vl92TFRlTkR0amJDMlRuU1g3d012YVctdkJxaUpaSUVCV0s1SVdIUWlJNEt2RVZVT3NYSGdkRTFLekdNOWpKR2FEWjBGRDl6MU53?oc=5",
+      "source": "Google News:ROST",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "SLB",
+      "short": "SLB — SLB Limited $SLB Shares Bought by Saudi Central Bank - MarketBeat",
+      "detail": "SLB\n重點：新聞\n標題：SLB Limited $SLB Shares Bought by Saudi Central Bank - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUdzV1lYVWh4ekNSZ3RPVFpWQ254VldPVWwtNzRCTy1tQ1pKY3hNMVlUTkx2dlA1U0VkV2dYWkEwTVJ6MDdPaVFVd3ZNME9OMUlYMUNRSFZoU0NsS3diTllxY1hpazJMazMyb1hja0s4anVydU9xUjh4ZnlBLS0zTFJVazd1LXZVLTdXaEdYWVVlNDZrd1MtWXBKTUNtbEltM0JnSXFUeE1UN…\n來源：Google News:SLB\n其他：SLB Limited $SLB Shares Bought by Concurrent Investment Adv…",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUdzV1lYVWh4ekNSZ3RPVFpWQ254VldPVWwtNzRCTy1tQ1pKY3hNMVlUTkx2dlA1U0VkV2dYWkEwTVJ6MDdPaVFVd3ZNME9OMUlYMUNRSFZoU0NsS3diTllxY1hpazJMazMyb1hja0s4anVydU9xUjh4ZnlBLS0zTFJVazd1LXZVLTdXaEdYWVVlNDZrd1MtWXBKTUNtbEltM0JnSXFUeE1UNVVudUdyTTVn?oc=5",
+      "source": "Google News:SLB",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "TTE",
+      "short": "TTE — TotalEnergies SE Sponsored ADR $TTE Shares Sold by Groupe la Francaise - MarketBeat",
+      "detail": "TTE\n重點：新聞\n標題：TotalEnergies SE Sponsored ADR $TTE Shares Sold by Groupe la Francaise - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZTZtdFUxdUJPQ01zcllDd1N6WlB2OFp5aEl4dFBsV2RWb3loZ2FLS0lZR19vSFAzaVRmdWxpRmtlYWxxd1FRRzFhYWlERTNyYVFpcmlIbkczN3V3ZjNfWGgtcDdMX3ZpT0U5cG9lQlAxTWJxZi1vTWJiOFV5a0EzSXVhZXJWVmE0M0w1Ukl4OGhhM3ZBWHJCTmUxNWhQYXE0VzI5M256dUNKa…\n來源：Google News:TTE\n其他：Papua New Guinea: TotalEnergies Takes Decisive Steps Toward…",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZTZtdFUxdUJPQ01zcllDd1N6WlB2OFp5aEl4dFBsV2RWb3loZ2FLS0lZR19vSFAzaVRmdWxpRmtlYWxxd1FRRzFhYWlERTNyYVFpcmlIbkczN3V3ZjNfWGgtcDdMX3ZpT0U5cG9lQlAxTWJxZi1vTWJiOFV5a0EzSXVhZXJWVmE0M0w1Ukl4OGhhM3ZBWHJCTmUxNWhQYXE0VzI5M256dUNKazBlQzNPc2FLal92YU9LUjJEdm50cDRMdXh0WFhhMldR?oc=5",
+      "source": "Google News:TTE",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "A",
+      "short": "A — Worried About a Stock Market Crash? History Says This Mistake Could Cost You Tens of Th…",
+      "detail": "A\n重點：新聞\n標題：Worried About a Stock Market Crash? History Says This Mistake Could Cost You Tens of Thousands of Dollars. - The Motley Fool\n摘要：<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNYTZsZzJnekFCWVRyRHhIOUswTG5pVlA0UkpzdGlETGppLUJDTEEwUGMzU016QkxqMTZRazBad2cyV2R2SHZfUi1xaDFtZGJBU1pGOExzdDlnWVRaSVFoaC11VkVvdWF4ZThQeFdadmxHSFptYjFROUNjdjZVRy1iVlhLUU5MUTNJMHVORGtaYVp5QlpK?oc=5\" target=\"_blank\">Worrie…\n來源：Google News:A",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYTZsZzJnekFCWVRyRHhIOUswTG5pVlA0UkpzdGlETGppLUJDTEEwUGMzU016QkxqMTZRazBad2cyV2R2SHZfUi1xaDFtZGJBU1pGOExzdDlnWVRaSVFoaC11VkVvdWF4ZThQeFdadmxHSFptYjFROUNjdjZVRy1iVlhLUU5MUTNJMHVORGtaYVp5QlpK?oc=5",
+      "source": "Google News:A",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "BNY",
+      "short": "BNY — Amundi Makes New Investment in Bank of New York Mellon Corporation $BNY - MarketBeat",
+      "detail": "BNY\n重點：新聞\n標題：Amundi Makes New Investment in Bank of New York Mellon Corporation $BNY - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPcml2ZExHVzNPUzJSTWpLVlI2YmNMT0NSelpqWENpSWNadm1Rb25YTG1FUk5ta0FiQU81RGNEbkNLNjd6bTV4RWhscUNzNTJRWGFoclhGUmxXbHdCNzJDNC0zWnpYU0lhakR2TlFZdFgxalpQbTdHX3JQcDBEaUlmNkRwVDRpdGFlV2JCVmxvWGtaOGQwT3d1Y2JhTHd2dXNhYnZFSXpkLTNUS…\n來源：Google News:BNY",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcml2ZExHVzNPUzJSTWpLVlI2YmNMT0NSelpqWENpSWNadm1Rb25YTG1FUk5ta0FiQU81RGNEbkNLNjd6bTV4RWhscUNzNTJRWGFoclhGUmxXbHdCNzJDNC0zWnpYU0lhakR2TlFZdFgxalpQbTdHX3JQcDBEaUlmNkRwVDRpdGFlV2JCVmxvWGtaOGQwT3d1Y2JhTHd2dXNhYnZFSXpkLTNUSnNCMHV0UGljaVBnSmt5WVA1OXJqSk5aMlpPVXNYSVFtcw?oc=5",
+      "source": "Google News:BNY",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "CRM",
+      "short": "CRM — 2,731 Shares in Salesforce Inc. $CRM Purchased by AlphaGrep UK Ltd - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：2,731 Shares in Salesforce Inc. $CRM Purchased by AlphaGrep UK Ltd - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS1ZUcU03bmpSVzhkZVg1LWhUSlpGaUc2Y0FHNWNqaDZWLWJWemdhdlA2T25zSTRId2h1ZjFWU3haSXN4WUlWS3MwMWtVMElYalhLYXRQVHZ4aGRLbE5HbUNTdVM0N28tN0VaNkxuaTUzR2s0V3V2cnpnNXpIalpqUC1kOUpnbTBBZ0h5RFVUbjR5WUZwS2tOLUhKYnkzckFHcE9jd2ZOTHAyN…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS1ZUcU03bmpSVzhkZVg1LWhUSlpGaUc2Y0FHNWNqaDZWLWJWemdhdlA2T25zSTRId2h1ZjFWU3haSXN4WUlWS3MwMWtVMElYalhLYXRQVHZ4aGRLbE5HbUNTdVM0N28tN0VaNkxuaTUzR2s0V3V2cnpnNXpIalpqUC1kOUpnbTBBZ0h5RFVUbjR5WUZwS2tOLUhKYnkzckFHcE9jd2ZOTHAyNGNvYmRmcEM0T3NsOUNxRE9IN2s0R2lKQQ?oc=5",
+      "source": "Google News:CRM",
       "kind": "news"
     }
   ]
