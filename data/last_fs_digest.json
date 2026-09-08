@@ -1,20 +1,56 @@
 {
-  "title": "FS新聞 09-08 04:54",
-  "list_name": "FirstScreen_2026-09-08_045427_comma.txt",
-  "created_at": "2026-09-08T04:54:35.548704+00:00",
+  "title": "FS新聞 09-08 09:21",
+  "list_name": "FirstScreen_2026-09-08_092054_comma.txt",
+  "created_at": "2026-09-08T09:21:03.633850+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
       "symbol": "A",
-      "short": "A — The Four Things Matt Sweeney Looks for in a Stock - The Acquirer's Multiple",
-      "detail": "A\n重點：新聞\n標題：The Four Things Matt Sweeney Looks for in a Stock - The Acquirer's Multiple\n摘要：<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNLTJ3MmM5YXVXU3hrSWl6Y2xoQlV6a3VBLTNrVUpWWVF3R2gtSkFiTEN0eVNHRE9ERENPdVM2am5DSVd3OHpHUXdaVDlTMWQxTGFoU0JuVGNDR0dfTDhyMk1SeXA1NUtBVkxyRUEza2V3MlJ0eUk3WW14REVoZ01VLXFzWXB6dndOWHhCTk9lZmxjdw?oc=5\" target=\"_blank\">The Four…\n來源：Google News:A",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLTJ3MmM5YXVXU3hrSWl6Y2xoQlV6a3VBLTNrVUpWWVF3R2gtSkFiTEN0eVNHRE9ERENPdVM2am5DSVd3OHpHUXdaVDlTMWQxTGFoU0JuVGNDR0dfTDhyMk1SeXA1NUtBVkxyRUEza2V3MlJ0eUk3WW14REVoZ01VLXFzWXB6dndOWHhCTk9lZmxjdw?oc=5",
-      "source": "Google News:A",
+      "short": "A — Cholesterol drug setback casts doubt over multibillion-dollar race",
+      "detail": "A\n重點：新聞\n標題：Cholesterol drug setback casts doubt over multibillion-dollar race\n摘要：Novartis’ failure raises the stakes for Amgen and Eli Lilly in the race to turn lower Lp(a) levels into fewer heart attacks and strokes.\n來源：CNBC Markets\n其他：We Ran A Stock Scan For Earnings Growth And DEE Development…",
+      "url": "https://www.cnbc.com/2026/09/08/novartis-cholesterol-setback-drug-race-eli-lilly-amgen.html",
+      "source": "CNBC Markets",
       "kind": "news"
     },
     {
       "n": 2,
+      "symbol": "BNY",
+      "short": "BNY — 8,886 Shares in Bank of New York Mellon Corporation $BNY Acquired by Wedmont Private Ca…",
+      "detail": "BNY\n重點：新聞\n標題：8,886 Shares in Bank of New York Mellon Corporation $BNY Acquired by Wedmont Private Capital - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMS1zZlFLek82TzNMRnhhdnRRRm5qUTRoaHpJM18yYTNGVWE5Z3lfeUJScWhGMHVaMXZJS2l5S2wxTmdxckhKdWkxWm9PcGZVU1FPaXFJdXFzWlVVd3UtQ1p6RzBvNUhhM1NpeGo5N1lFcnNadVNYMnJBamZVa09oYi1jS2ZDanRfOVR3ZF8zSDNJNlk3SHZiaWVvSnRKNEs4UUNYZXhUank1M…\n來源：Google News:BNY\n其他：352,843 Shares in Bank of New York Mellon Corporation $BNY …",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMS1zZlFLek82TzNMRnhhdnRRRm5qUTRoaHpJM18yYTNGVWE5Z3lfeUJScWhGMHVaMXZJS2l5S2wxTmdxckhKdWkxWm9PcGZVU1FPaXFJdXFzWlVVd3UtQ1p6RzBvNUhhM1NpeGo5N1lFcnNadVNYMnJBamZVa09oYi1jS2ZDanRfOVR3ZF8zSDNJNlk3SHZiaWVvSnRKNEs4UUNYZXhUank1MmRUX1B2UGxaX0x1ZEN3U2JIMjVlbFdYSk9vZWtiMkRyT3l3WkFJY1lPVGtKOS04Y0tEQXM3dHVuUHdxQQ?oc=5",
+      "source": "Google News:BNY",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "INTU",
+      "short": "INTU — Cygnus Capital Advisors LLC Makes New Investment in Intuit Inc. $INTU - MarketBeat",
+      "detail": "INTU\n重點：新聞\n標題：Cygnus Capital Advisors LLC Makes New Investment in Intuit Inc. $INTU - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPVUp0X1hEWTdqMWk3TzNCU1c0cE5oYndnaEoxNEI2M3IzMWZnTkFHcko1M0ZfSkhIZkVwd0Q2cUhHS3IzRXJKb2lHZjZOdXRYTkc3N1RjalhjdHZXaGlwWS1ReEY5aUNYN2VNUnI3Z2E3azZIbDZwYjE2RGR3X2REQm1fSDRSeTJzdEJQTGthS081R3lwUGZMSG1VcXI3Sm5VbVpleHIxazJka…\n來源：Google News:INTU\n其他：Intuit Inc. $INTU Stake Lifted by California State Teachers…",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVUp0X1hEWTdqMWk3TzNCU1c0cE5oYndnaEoxNEI2M3IzMWZnTkFHcko1M0ZfSkhIZkVwd0Q2cUhHS3IzRXJKb2lHZjZOdXRYTkc3N1RjalhjdHZXaGlwWS1ReEY5aUNYN2VNUnI3Z2E3azZIbDZwYjE2RGR3X2REQm1fSDRSeTJzdEJQTGthS081R3lwUGZMSG1VcXI3Sm5VbVpleHIxazJkajdXYk51TGxqRmtwcG8wZ1ZmN00zR3g3M0locjhZ?oc=5",
+      "source": "Google News:INTU",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "LNG",
+      "short": "LNG — Saudi Central Bank Boosts Stock Holdings in Cheniere Energy, Inc. $LNG - MarketBeat",
+      "detail": "LNG\n重點：新聞\n標題：Saudi Central Bank Boosts Stock Holdings in Cheniere Energy, Inc. $LNG - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNSm5VUm9yUUgzaEFKdUowVVRQSnkxR2swcmZiSWJXQTB0QjVuemgtS21xeF81VkdGdnRUS09VZi00b2dyOFNucW1fYTBqQS03Q3l1WWQ2UHEzMk54U0Itam9JTlZSVWt1RHZYNmxKTGFMQ2Y3RENVbHZHM1NWd000WHhBZnJ2Q0h1VjdReDJUYWt4c1hLTGFST0ZrMWd4V2JhN2RGeHhVV1E1Y…\n來源：Google News:LNG\n其他：Groupe la Francaise Purchases Shares of 18,805 Cheniere Ene…",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSm5VUm9yUUgzaEFKdUowVVRQSnkxR2swcmZiSWJXQTB0QjVuemgtS21xeF81VkdGdnRUS09VZi00b2dyOFNucW1fYTBqQS03Q3l1WWQ2UHEzMk54U0Itam9JTlZSVWt1RHZYNmxKTGFMQ2Y3RENVbHZHM1NWd000WHhBZnJ2Q0h1VjdReDJUYWt4c1hLTGFST0ZrMWd4V2JhN2RGeHhVV1E1Y2hxVW8yUzN5eHdXNjg0cnFlVHVGTUlzbXlVRFFr?oc=5",
+      "source": "Google News:LNG",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "TGT",
+      "short": "TGT — Target Corporation $TGT Shares Sold by Cygnus Capital Advisors LLC - MarketBeat",
+      "detail": "TGT\n重點：新聞\n標題：Target Corporation $TGT Shares Sold by Cygnus Capital Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZVEzOG1KWmZTanBXWjhtVzNIZER6c010aXJpenBSamtQd0pWUE4yQlFyYlREeExsQWZlX2gzX1VGcUJHdDVjQmRBZUFkMERWYW82U1BMOWdQRWI1cGVSX0hDT0pzRWFJb3M4aDR4Tk9rOXI1LXpqMXljNnJkR2lqYTg3TGhIWjlLMEVLWHRkTnY0YjdrbG9ja0xqaVEwUjl5Nzg3NTFMVTdJZ…\n來源：Google News:TGT\n其他：Amundi Trims Position in Target Corporation $TGT - MarketBe…",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZVEzOG1KWmZTanBXWjhtVzNIZER6c010aXJpenBSamtQd0pWUE4yQlFyYlREeExsQWZlX2gzX1VGcUJHdDVjQmRBZUFkMERWYW82U1BMOWdQRWI1cGVSX0hDT0pzRWFJb3M4aDR4Tk9rOXI1LXpqMXljNnJkR2lqYTg3TGhIWjlLMEVLWHRkTnY0YjdrbG9ja0xqaVEwUjl5Nzg3NTFMVTdJZVNXeHFVenlSSFBCTnJiUmVxM1R4c0lqZlgz?oc=5",
+      "source": "Google News:TGT",
+      "kind": "news"
+    },
+    {
+      "n": 6,
       "symbol": "AEO",
       "short": "AEO — 業績／指引：American Eagle (AEO) Q2 Earnings Report Preview: What To Look For",
       "detail": "AEO\n重點：業績／指引\n標題：American Eagle (AEO) Q2 Earnings Report Preview: What To Look For\n摘要：Young adult apparel retailer American Eagle Outfitters (NYSE:AEO) will be reporting earnings this Wednesday after the bell. Here’s what you need to know.\n來源：Yahoo Finance:AEO",
@@ -23,7 +59,7 @@
       "kind": "news"
     },
     {
-      "n": 3,
+      "n": 7,
       "symbol": "COO",
       "short": "COO — 業績／指引：CooperCompanies (COO) To Report Earnings Tomorrow: Here Is What To Expect",
       "detail": "COO\n重點：業績／指引\n標題：CooperCompanies (COO) To Report Earnings Tomorrow: Here Is What To Expect\n摘要：Medical device company CooperCompanies (NASDAQ:COO) will be reporting earnings this Wednesday after market close. Here’s what to expect.\n來源：Yahoo Finance:COO",
@@ -32,25 +68,43 @@
       "kind": "news"
     },
     {
-      "n": 4,
+      "n": 8,
       "symbol": "CRM",
-      "short": "CRM — AI相關：Salesforce (CRM)’s AI Numbers Just Gave Benioff His Swagger Back",
-      "detail": "CRM\n重點：AI相關\n標題：Salesforce (CRM)’s AI Numbers Just Gave Benioff His Swagger Back\n來源：Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-ai-numbers-just-205654689.html",
-      "source": "Yahoo Finance",
+      "short": "CRM — HighTower Advisors LLC Reduces Holdings in Salesforce Inc. $CRM - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：HighTower Advisors LLC Reduces Holdings in Salesforce Inc. $CRM - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQd1F5WDVFLW9JUjBPbzkxMTItdF9ZNmRyd1poTHpqNTVIaXlGMnF5eVBGUmZtVDBOdW1KcG1GcDYxeHpJdXVOZzBNbHVCWE9pRHpCQWlacXVXYlhUdGt4T241ZnlkZ0xPaFphSmprREU4VnpsemRhblJCcWRoNGU3cmt4Y2dqWFlkaWY5V0hoMExQMzg1cmJKVkFFNWNwaW00OGZHYmFfTVNuM…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd1F5WDVFLW9JUjBPbzkxMTItdF9ZNmRyd1poTHpqNTVIaXlGMnF5eVBGUmZtVDBOdW1KcG1GcDYxeHpJdXVOZzBNbHVCWE9pRHpCQWlacXVXYlhUdGt4T241ZnlkZ0xPaFphSmprREU4VnpsemRhblJCcWRoNGU3cmt4Y2dqWFlkaWY5V0hoMExQMzg1cmJKVkFFNWNwaW00OGZHYmFfTVNuM0pScEFndkE4cVpOM0NudlkwX0xtQQ?oc=5",
+      "source": "Google News:CRM",
       "kind": "news"
     },
     {
-      "n": 5,
-      "symbol": "FRSH",
-      "short": "FRSH — 宏觀：Freshworks (NASDAQ:FRSH): Is Inflation the Next Test for Growth? - Kalkine Media",
-      "detail": "FRSH\n重點：宏觀\n標題：Freshworks (NASDAQ:FRSH): Is Inflation the Next Test for Growth? - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOZk9ZVVhJT1Y4UXFxazI2bFotWlVCYU1pRDBtMXlfS3F4VWRKcU56UWFpSnBQdFl2M2NqNGdlSjk5ZjR1ZURsb2ZtbTgweFYzX1RpMWxkZ3BzTHh5MmpKczYza0pVQmpNd3o2TUxHQ2pMRHdxNmJMTWs2Nk15WG4zMFJTdENhWlNZUVZGaXZmbWM4bVVHbHg0cmp2QUFHZF9sek5z?oc=5\" ta…\n來源：Google News:FRSH",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZk9ZVVhJT1Y4UXFxazI2bFotWlVCYU1pRDBtMXlfS3F4VWRKcU56UWFpSnBQdFl2M2NqNGdlSjk5ZjR1ZURsb2ZtbTgweFYzX1RpMWxkZ3BzTHh5MmpKczYza0pVQmpNd3o2TUxHQ2pMRHdxNmJMTWs2Nk15WG4zMFJTdENhWlNZUVZGaXZmbWM4bVVHbHg0cmp2QUFHZF9sek5z?oc=5",
-      "source": "Google News:FRSH",
+      "n": 9,
+      "symbol": "FUTU",
+      "short": "FUTU — Nykredit A S Purchases Shares of 22,415 Futu Holdings Limited Sponsored ADR $FUTU - Mar…",
+      "detail": "FUTU\n重點：新聞\n標題：Nykredit A S Purchases Shares of 22,415 Futu Holdings Limited Sponsored ADR $FUTU - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTFUwczFPb1dZa2ltSEFWR1pjMzRKNGdBMmx2UlMtNFU1X0tjT0dhSktOcnhrbGxjSjRSWmFPQzd6MzdYdXF0Z0ZvZzAydWZnS3FJSnRtc1YxNkx0eFZMaVJFcHVFc0JQUURDSkE5QXp2V204WWduWG1jV2g3TzFscGl5eW5JbU5pWnc0U0FkRkNMQ3RkSk0xd1dDWFZrTVdCMENhMGRfX3Jnc…\n來源：Google News:FUTU",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTFUwczFPb1dZa2ltSEFWR1pjMzRKNGdBMmx2UlMtNFU1X0tjT0dhSktOcnhrbGxjSjRSWmFPQzd6MzdYdXF0Z0ZvZzAydWZnS3FJSnRtc1YxNkx0eFZMaVJFcHVFc0JQUURDSkE5QXp2V204WWduWG1jV2g3TzFscGl5eW5JbU5pWnc0U0FkRkNMQ3RkSk0xd1dDWFZrTVdCMENhMGRfX3Jnc01selZzQWQtVUZwQmw2UmpaVVd2OE1Yc0N3MXNsUUEzMUJsSkF1RlVVd1hScw?oc=5",
+      "source": "Google News:FUTU",
       "kind": "news"
     },
     {
-      "n": 6,
+      "n": 10,
+      "symbol": "GPC",
+      "short": "GPC — Genuine Parts Company $GPC Shares Sold by Hsbc Holdings PLC - MarketBeat",
+      "detail": "GPC\n重點：新聞\n標題：Genuine Parts Company $GPC Shares Sold by Hsbc Holdings PLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMU90UHh4c2dVaVdIeE5MSXFZSktYWEE3MVJqbi1FNjNLcmdqdXFMUmRHMlVrUmZWOVdJZmw3ZnlMclc1LTFZQmFHd28xbnB0Uzhkc3FzdnVvTkpjcnZyZlJOdFN3dHctejdQMUEzZHhITW43cXV3anRoZVROQzZodHlMUFhOZE5jWDFKMjZuZ2E4VkhnZWlwQlNaSUhuSG02ampPYVlLQUZxc…\n來源：Google News:GPC",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMU90UHh4c2dVaVdIeE5MSXFZSktYWEE3MVJqbi1FNjNLcmdqdXFMUmRHMlVrUmZWOVdJZmw3ZnlMclc1LTFZQmFHd28xbnB0Uzhkc3FzdnVvTkpjcnZyZlJOdFN3dHctejdQMUEzZHhITW43cXV3anRoZVROQzZodHlMUFhOZE5jWDFKMjZuZ2E4VkhnZWlwQlNaSUhuSG02ampPYVlLQUZxcVpPYjI2cFJjYXhCakludkJ3?oc=5",
+      "source": "Google News:GPC",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "LQDA",
+      "short": "LQDA — Wellington Management Group LLP Sells 22,925 Shares of Liquidia Corporation $LQDA - Mar…",
+      "detail": "LQDA\n重點：新聞\n標題：Wellington Management Group LLP Sells 22,925 Shares of Liquidia Corporation $LQDA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQckl0c0RXYzlnRWN0VURiamZDbFZORDFHRFlJQ1daTGFUSWxhZ3BzbGQ5eFJfSlVkelFuZ2syMWhpUGloYzFwd3Y0SFRiVktQZmhQTlQzNzBtVjlNSmVQSzBlMlRxWEdOOWpPUXJBLXItWEhwVEFpbjNVaVY1ODdlY25DdmRBWGVsVDZVTWZudk1SUzRpX1hXTVdjSFhWS05CYXhwZHZPNnlqT…\n來源：Google News:LQDA",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQckl0c0RXYzlnRWN0VURiamZDbFZORDFHRFlJQ1daTGFUSWxhZ3BzbGQ5eFJfSlVkelFuZ2syMWhpUGloYzFwd3Y0SFRiVktQZmhQTlQzNzBtVjlNSmVQSzBlMlRxWEdOOWpPUXJBLXItWEhwVEFpbjNVaVY1ODdlY25DdmRBWGVsVDZVTWZudk1SUzRpX1hXTVdjSFhWS05CYXhwZHZPNnlqTWtxQXdfbm5hVTRINzBVNi1kMGtidmN0UUNhc1pBaG9PQkI4d2ctN0hJZ2lYSQ?oc=5",
+      "source": "Google News:LQDA",
+      "kind": "news"
+    },
+    {
+      "n": 12,
       "symbol": "LULU",
       "short": "LULU — LULU Stock Is Down Over 50% YTD As Heidi O’Neill Takes Over: What Wall Street Wants Fix…",
       "detail": "LULU\n重點：新聞\n標題：LULU Stock Is Down Over 50% YTD As Heidi O’Neill Takes Over: What Wall Street Wants Fixed First\n摘要：The new Lululemon CEO faces weakening sales, global pressures, and investor skepticism.\n來源：Yahoo Finance:LULU",
