@@ -1,115 +1,61 @@
 {
-  "title": "FS新聞 09-07 15:39",
-  "list_name": "FirstScreen_2026-09-07_153921_comma.txt",
-  "created_at": "2026-09-07T15:39:29.634580+00:00",
+  "title": "FS新聞 09-08 04:54",
+  "list_name": "FirstScreen_2026-09-08_045427_comma.txt",
+  "created_at": "2026-09-08T04:54:35.548704+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "GEN",
-      "short": "GEN — Gen Digital Inc. $GEN Shares Sold by TD Waterhouse Canada Inc. - marketbeat.com",
-      "detail": "GEN\n重點：新聞\n標題：Gen Digital Inc. $GEN Shares Sold by TD Waterhouse Canada Inc. - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOcUF4MXdGNU5LdGQ1QnJwa2FOMWRQTjJBYmVxOHlMMWtwNnZmQ2hvaDFBem1UY1BVdmJyZUtPbkt6VHFUY0RNOGljTXY2UmJ5MnZLN0hIcEJ3M1Z5YS1ZaTZVTGNZM2xnWnQ1c2YzYko3cUVYRGZUUVdVVVg0aW1WU2lkYVd1TWx4WjVadHc4X290VzFIU01uZTVaZGlUS1o5dks1dVBpZjNue…\n來源：Google News:GEN\n其他：Nykredit A S Makes New $2.70 Million Investment in Gen Digi…",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcUF4MXdGNU5LdGQ1QnJwa2FOMWRQTjJBYmVxOHlMMWtwNnZmQ2hvaDFBem1UY1BVdmJyZUtPbkt6VHFUY0RNOGljTXY2UmJ5MnZLN0hIcEJ3M1Z5YS1ZaTZVTGNZM2xnWnQ1c2YzYko3cUVYRGZUUVdVVVg0aW1WU2lkYVd1TWx4WjVadHc4X290VzFIU01uZTVaZGlUS1o5dks1dVBpZjNueWpEUDItWDFTOHFVeURfSG83Rw?oc=5",
-      "source": "Google News:GEN",
-      "kind": "news"
-    },
-    {
-      "n": 2,
-      "symbol": "GPC",
-      "short": "GPC — 45,670 Shares in Genuine Parts Company $GPC Purchased by Nykredit A S - marketbeat.com",
-      "detail": "GPC\n重點：新聞\n標題：45,670 Shares in Genuine Parts Company $GPC Purchased by Nykredit A S - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOSFNOVzgwMXh5WG5hc1d1RWg1bVVEekZKNHZuSkJGbUN4Y0NQQkxlOHJ1bzBPTU9CUFZnSXFZUnNid3U1ZF9nRjFGQTBRR2lsaE9hME82ZjJKdGF6dE1GQkJoVFV3akR6THRtNXdmWTVyLVA2WVltcV96b1ZVNzUzMnBFZ2ZhRUQ4bjd1cmFjanFFR1U2YU1WeHpUeUZhckFpeld4NUpEUG9UO…\n來源：Google News:GPC\n其他：Genuine Parts Company $GPC Stake Lessened by HB Wealth Mana…",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSFNOVzgwMXh5WG5hc1d1RWg1bVVEekZKNHZuSkJGbUN4Y0NQQkxlOHJ1bzBPTU9CUFZnSXFZUnNid3U1ZF9nRjFGQTBRR2lsaE9hME82ZjJKdGF6dE1GQkJoVFV3akR6THRtNXdmWTVyLVA2WVltcV96b1ZVNzUzMnBFZ2ZhRUQ4bjd1cmFjanFFR1U2YU1WeHpUeUZhckFpeld4NUpEUG9UOGowQ0ZaNExNbDlXMjgtYm9adGRGejVPcWVJd01Z?oc=5",
-      "source": "Google News:GPC",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "HCA",
-      "short": "HCA — 185,804 Shares in HCA Healthcare, Inc. $HCA Bought by VIRGINIA RETIREMENT SYSTEMS ET Al…",
-      "detail": "HCA\n重點：新聞\n標題：185,804 Shares in HCA Healthcare, Inc. $HCA Bought by VIRGINIA RETIREMENT SYSTEMS ET Al - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxObnBoTmc2OWkyejdfRzlpWVhJOTJtckZKOG1DMEJ0LTJycXAyZVprWmdoa2pHM3pPcmkzQU9vZjk3MndUWmowUHVUcTVtb1RYUi1MQTFhWWcxUVhaRXdiWEYtR3dUXzRaVlRTS09oRG96aFRSeGdrc214aDJ1aHFuMHZWam8xNXcxZkVjZDFZS1VxTllscFdtSkJMZVNmUUdsajNiaTBRaWZnW…\n來源：Google News:HCA\n其他：Saudi Central Bank Purchases 5,059 Shares of HCA Healthcare…",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObnBoTmc2OWkyejdfRzlpWVhJOTJtckZKOG1DMEJ0LTJycXAyZVprWmdoa2pHM3pPcmkzQU9vZjk3MndUWmowUHVUcTVtb1RYUi1MQTFhWWcxUVhaRXdiWEYtR3dUXzRaVlRTS09oRG96aFRSeGdrc214aDJ1aHFuMHZWam8xNXcxZkVjZDFZS1VxTllscFdtSkJMZVNmUUdsajNiaTBRaWZnWmh3SXRFeHNadS02SXEwM1lXekpKYlkzRzJTUm9JeFZ3dUs2VkExTGZldEx2WEdaenYw?oc=5",
-      "source": "Google News:HCA",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "MRK",
-      "short": "MRK — Merck & Co., Inc. $MRK Shares Bought by Groupe la Francaise - marketbeat.com",
-      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Shares Bought by Groupe la Francaise - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0NpRHV4bnpPTlNmVXp5cUNBUmFLY2UzWWtoWnpZbVZNUXNsX19MQktRSk1FbktIODBnWGU3RFJoSUVRWlVMc19jWnl6RUpjeGJLTmx3TG03UnZBa1c5TTkxYmcxMVNwQlQxRXBPT2tjV1V4TXRZLXRnRjc3ZDhaV1BpbzJrQXliSjBDN0JDNllaSXBhM3NRY292VFEyLW9jR3hMdF9Vamc3b…\n來源：Google News:MRK\n其他：HighTower Advisors LLC Grows Stock Holdings in Merck & Co.,…",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0NpRHV4bnpPTlNmVXp5cUNBUmFLY2UzWWtoWnpZbVZNUXNsX19MQktRSk1FbktIODBnWGU3RFJoSUVRWlVMc19jWnl6RUpjeGJLTmx3TG03UnZBa1c5TTkxYmcxMVNwQlQxRXBPT2tjV1V4TXRZLXRnRjc3ZDhaV1BpbzJrQXliSjBDN0JDNllaSXBhM3NRY292VFEyLW9jR3hMdF9Vamc3bVN0WHBGbENnQzc?oc=5",
-      "source": "Google News:MRK",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "PYPL",
-      "short": "PYPL — Readystate Asset Management LP Decreases Stock Position in PayPal Holdings, Inc. $PYPL …",
-      "detail": "PYPL\n重點：新聞\n標題：Readystate Asset Management LP Decreases Stock Position in PayPal Holdings, Inc. $PYPL - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVHVZV1R3T1NmZ1ByZG81OU9fcm84X3BkZmdmSENfc3hHTmlEdzVYY2NNbHo1ZGtBcV8zeVk2LURERXpTUGFQS2VlRmVzazJuQjU1YVY2UzJ3cnA4eV8xU3dpTGlQVS13enBPTmYzbDRjWURyakx4aWM2VkpXZXBaVWVDWkdCNWxIeUZvV0dtTHdaSTRIbUFXbDhvYUlPYUhRalQxYUtmMGdyZ…\n來源：Google News:PYPL\n其他：PYPL Stock Jumps 4% — PayPal’s $60.50 Buyout Offer Has Wall…",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVHVZV1R3T1NmZ1ByZG81OU9fcm84X3BkZmdmSENfc3hHTmlEdzVYY2NNbHo1ZGtBcV8zeVk2LURERXpTUGFQS2VlRmVzazJuQjU1YVY2UzJ3cnA4eV8xU3dpTGlQVS13enBPTmYzbDRjWURyakx4aWM2VkpXZXBaVWVDWkdCNWxIeUZvV0dtTHdaSTRIbUFXbDhvYUlPYUhRalQxYUtmMGdyZ3VONldhZVkxQzBtbEs1b2xMZGhuYjhFeHRySXNpVWZ4Wnhjcnhza1F3eFhrdVREanFU?oc=5",
-      "source": "Google News:PYPL",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "ROST",
-      "short": "ROST — Saudi Central Bank Boosts Holdings in Ross Stores, Inc. $ROST - marketbeat.com",
-      "detail": "ROST\n重點：新聞\n標題：Saudi Central Bank Boosts Holdings in Ross Stores, Inc. $ROST - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSXIyVlM2bDVvanREa2RCOWRKZUhCMlpMNUo3S1I2RlR6R192b2FoaTVkNWRkeUVWVGhQU3hsanM3NG5yaF8zQ3FuajhEMTJCRXg2NUZEMGxXaVhiNzFLelMwZ0JLZHZZSk94bU5VOWV0Vl92TFRlTkR0amJDMlRuU1g3d012YVctdkJxaUpaSUVCV0s1SVdIUWlJNEt2RVZVT3NYSGdkRTFLe…\n來源：Google News:ROST\n其他：Varenne Capital Partners Invests $3.98 Million in Ross Stor…",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSXIyVlM2bDVvanREa2RCOWRKZUhCMlpMNUo3S1I2RlR6R192b2FoaTVkNWRkeUVWVGhQU3hsanM3NG5yaF8zQ3FuajhEMTJCRXg2NUZEMGxXaVhiNzFLelMwZ0JLZHZZSk94bU5VOWV0Vl92TFRlTkR0amJDMlRuU1g3d012YVctdkJxaUpaSUVCV0s1SVdIUWlJNEt2RVZVT3NYSGdkRTFLekdNOWpKR2FEWjBGRDl6MU53?oc=5",
-      "source": "Google News:ROST",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "SLB",
-      "short": "SLB — SLB Limited $SLB Shares Bought by Saudi Central Bank - marketbeat.com",
-      "detail": "SLB\n重點：新聞\n標題：SLB Limited $SLB Shares Bought by Saudi Central Bank - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUdzV1lYVWh4ekNSZ3RPVFpWQ254VldPVWwtNzRCTy1tQ1pKY3hNMVlUTkx2dlA1U0VkV2dYWkEwTVJ6MDdPaVFVd3ZNME9OMUlYMUNRSFZoU0NsS3diTllxY1hpazJMazMyb1hja0s4anVydU9xUjh4ZnlBLS0zTFJVazd1LXZVLTdXaEdYWVVlNDZrd1MtWXBKTUNtbEltM0JnSXFUeE1UN…\n來源：Google News:SLB\n其他：SLB Limited $SLB Shares Bought by Concurrent Investment Adv…",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUdzV1lYVWh4ekNSZ3RPVFpWQ254VldPVWwtNzRCTy1tQ1pKY3hNMVlUTkx2dlA1U0VkV2dYWkEwTVJ6MDdPaVFVd3ZNME9OMUlYMUNRSFZoU0NsS3diTllxY1hpazJMazMyb1hja0s4anVydU9xUjh4ZnlBLS0zTFJVazd1LXZVLTdXaEdYWVVlNDZrd1MtWXBKTUNtbEltM0JnSXFUeE1UNVVudUdyTTVn?oc=5",
-      "source": "Google News:SLB",
-      "kind": "news"
-    },
-    {
-      "n": 8,
       "symbol": "A",
-      "short": "A — Worried About a Stock Market Crash? History Says This Mistake Could Cost You Tens of Th…",
-      "detail": "A\n重點：新聞\n標題：Worried About a Stock Market Crash? History Says This Mistake Could Cost You Tens of Thousands of Dollars. - The Motley Fool\n摘要：<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNYTZsZzJnekFCWVRyRHhIOUswTG5pVlA0UkpzdGlETGppLUJDTEEwUGMzU016QkxqMTZRazBad2cyV2R2SHZfUi1xaDFtZGJBU1pGOExzdDlnWVRaSVFoaC11VkVvdWF4ZThQeFdadmxHSFptYjFROUNjdjZVRy1iVlhLUU5MUTNJMHVORGtaYVp5QlpK?oc=5\" target=\"_blank\">Worrie…\n來源：Google News:A",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYTZsZzJnekFCWVRyRHhIOUswTG5pVlA0UkpzdGlETGppLUJDTEEwUGMzU016QkxqMTZRazBad2cyV2R2SHZfUi1xaDFtZGJBU1pGOExzdDlnWVRaSVFoaC11VkVvdWF4ZThQeFdadmxHSFptYjFROUNjdjZVRy1iVlhLUU5MUTNJMHVORGtaYVp5QlpK?oc=5",
+      "short": "A — The Four Things Matt Sweeney Looks for in a Stock - The Acquirer's Multiple",
+      "detail": "A\n重點：新聞\n標題：The Four Things Matt Sweeney Looks for in a Stock - The Acquirer's Multiple\n摘要：<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNLTJ3MmM5YXVXU3hrSWl6Y2xoQlV6a3VBLTNrVUpWWVF3R2gtSkFiTEN0eVNHRE9ERENPdVM2am5DSVd3OHpHUXdaVDlTMWQxTGFoU0JuVGNDR0dfTDhyMk1SeXA1NUtBVkxyRUEza2V3MlJ0eUk3WW14REVoZ01VLXFzWXB6dndOWHhCTk9lZmxjdw?oc=5\" target=\"_blank\">The Four…\n來源：Google News:A",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLTJ3MmM5YXVXU3hrSWl6Y2xoQlV6a3VBLTNrVUpWWVF3R2gtSkFiTEN0eVNHRE9ERENPdVM2am5DSVd3OHpHUXdaVDlTMWQxTGFoU0JuVGNDR0dfTDhyMk1SeXA1NUtBVkxyRUEza2V3MlJ0eUk3WW14REVoZ01VLXFzWXB6dndOWHhCTk9lZmxjdw?oc=5",
       "source": "Google News:A",
       "kind": "news"
     },
     {
-      "n": 9,
+      "n": 2,
       "symbol": "AEO",
-      "short": "AEO — 業績／指引：Are Investors Undervaluing American Eagle Outfitters (AEO) Right Now?",
-      "detail": "AEO\n重點：業績／指引\n標題：Are Investors Undervaluing American Eagle Outfitters (AEO) Right Now?\n摘要：Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.\n來源：Yahoo Finance:AEO",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-american-eagle-outfitters-134004827.html?.tsrc=rss",
+      "short": "AEO — 業績／指引：American Eagle (AEO) Q2 Earnings Report Preview: What To Look For",
+      "detail": "AEO\n重點：業績／指引\n標題：American Eagle (AEO) Q2 Earnings Report Preview: What To Look For\n摘要：Young adult apparel retailer American Eagle Outfitters (NYSE:AEO) will be reporting earnings this Wednesday after the bell. Here’s what you need to know.\n來源：Yahoo Finance:AEO",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/american-eagle-aeo-q2-earnings-030051736.html?.tsrc=rss",
       "source": "Yahoo Finance:AEO",
       "kind": "news"
     },
     {
-      "n": 10,
+      "n": 3,
+      "symbol": "COO",
+      "short": "COO — 業績／指引：CooperCompanies (COO) To Report Earnings Tomorrow: Here Is What To Expect",
+      "detail": "COO\n重點：業績／指引\n標題：CooperCompanies (COO) To Report Earnings Tomorrow: Here Is What To Expect\n摘要：Medical device company CooperCompanies (NASDAQ:COO) will be reporting earnings this Wednesday after market close. Here’s what to expect.\n來源：Yahoo Finance:COO",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coopercompanies-coo-report-earnings-tomorrow-032451499.html?.tsrc=rss",
+      "source": "Yahoo Finance:COO",
+      "kind": "news"
+    },
+    {
+      "n": 4,
       "symbol": "CRM",
-      "short": "CRM — 2,731 Shares in Salesforce Inc. $CRM Purchased by AlphaGrep UK Ltd - marketbeat.com",
-      "detail": "CRM\n重點：新聞\n標題：2,731 Shares in Salesforce Inc. $CRM Purchased by AlphaGrep UK Ltd - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS1ZUcU03bmpSVzhkZVg1LWhUSlpGaUc2Y0FHNWNqaDZWLWJWemdhdlA2T25zSTRId2h1ZjFWU3haSXN4WUlWS3MwMWtVMElYalhLYXRQVHZ4aGRLbE5HbUNTdVM0N28tN0VaNkxuaTUzR2s0V3V2cnpnNXpIalpqUC1kOUpnbTBBZ0h5RFVUbjR5WUZwS2tOLUhKYnkzckFHcE9jd2ZOTHAyN…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS1ZUcU03bmpSVzhkZVg1LWhUSlpGaUc2Y0FHNWNqaDZWLWJWemdhdlA2T25zSTRId2h1ZjFWU3haSXN4WUlWS3MwMWtVMElYalhLYXRQVHZ4aGRLbE5HbUNTdVM0N28tN0VaNkxuaTUzR2s0V3V2cnpnNXpIalpqUC1kOUpnbTBBZ0h5RFVUbjR5WUZwS2tOLUhKYnkzckFHcE9jd2ZOTHAyNGNvYmRmcEM0T3NsOUNxRE9IN2s0R2lKQQ?oc=5",
-      "source": "Google News:CRM",
+      "short": "CRM — AI相關：Salesforce (CRM)’s AI Numbers Just Gave Benioff His Swagger Back",
+      "detail": "CRM\n重點：AI相關\n標題：Salesforce (CRM)’s AI Numbers Just Gave Benioff His Swagger Back\n來源：Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-ai-numbers-just-205654689.html",
+      "source": "Yahoo Finance",
       "kind": "news"
     },
     {
-      "n": 11,
-      "symbol": "EL",
-      "short": "EL — 355,673 Shares in The Estee Lauder Companies Inc. $EL Purchased by Varenne Capital Part…",
-      "detail": "EL\n重點：新聞\n標題：355,673 Shares in The Estee Lauder Companies Inc. $EL Purchased by Varenne Capital Partners - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOd3BnSnRibW5fZ1VGcUp1Ml9Xc1BiTmplNVQwZjhfYTA4elh6SkZmQkNSSmxXY0syTVBqZFkwanZybUE4SVhkR3FnUEhvc3FNTXFxeGRMcDZtZ01hVXQ3S05JczlpejcyZUxqOHlmVU51bEtWZVRaZTdSa0xkM1ZYelMyQXRFVVBnRXUzbnlxOE5yRHNESi05Z1RsY3phMXIxYUpxR2prWll3Q…\n來源：Google News:EL",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOd3BnSnRibW5fZ1VGcUp1Ml9Xc1BiTmplNVQwZjhfYTA4elh6SkZmQkNSSmxXY0syTVBqZFkwanZybUE4SVhkR3FnUEhvc3FNTXFxeGRMcDZtZ01hVXQ3S05JczlpejcyZUxqOHlmVU51bEtWZVRaZTdSa0xkM1ZYelMyQXRFVVBnRXUzbnlxOE5yRHNESi05Z1RsY3phMXIxYUpxR2prWll3QVo5M2w4QTRBZF8zZU14djZXS2U4THlfYzI0OUFweFktbzFONmc3NHl6ZWhpVlFRaWE1Y3BxZEpNOA?oc=5",
-      "source": "Google News:EL",
+      "n": 5,
+      "symbol": "FRSH",
+      "short": "FRSH — 宏觀：Freshworks (NASDAQ:FRSH): Is Inflation the Next Test for Growth? - Kalkine Media",
+      "detail": "FRSH\n重點：宏觀\n標題：Freshworks (NASDAQ:FRSH): Is Inflation the Next Test for Growth? - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOZk9ZVVhJT1Y4UXFxazI2bFotWlVCYU1pRDBtMXlfS3F4VWRKcU56UWFpSnBQdFl2M2NqNGdlSjk5ZjR1ZURsb2ZtbTgweFYzX1RpMWxkZ3BzTHh5MmpKczYza0pVQmpNd3o2TUxHQ2pMRHdxNmJMTWs2Nk15WG4zMFJTdENhWlNZUVZGaXZmbWM4bVVHbHg0cmp2QUFHZF9sek5z?oc=5\" ta…\n來源：Google News:FRSH",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZk9ZVVhJT1Y4UXFxazI2bFotWlVCYU1pRDBtMXlfS3F4VWRKcU56UWFpSnBQdFl2M2NqNGdlSjk5ZjR1ZURsb2ZtbTgweFYzX1RpMWxkZ3BzTHh5MmpKczYza0pVQmpNd3o2TUxHQ2pMRHdxNmJMTWs2Nk15WG4zMFJTdENhWlNZUVZGaXZmbWM4bVVHbHg0cmp2QUFHZF9sek5z?oc=5",
+      "source": "Google News:FRSH",
       "kind": "news"
     },
     {
-      "n": 12,
-      "symbol": "INTU",
-      "short": "INTU — Intuit Inc. $INTU Stock Position Decreased by Wellington Management Group LLP - marketb…",
-      "detail": "INTU\n重點：新聞\n標題：Intuit Inc. $INTU Stock Position Decreased by Wellington Management Group LLP - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxONFF2ZC1MaC1WbzdMdjdPUnU1aERqMTVSVnpQY21NYnhDVjNMQTFXSENoWFJqWXlZNUx1dzZfNzVfdDJWLWhYdXVBLWxGX1pFSC1oYTF6UGlaWEVxZkxIeUNDTUpFMG1hTjVHcnZmMG5Tekp2dlhZelRoUGJHRnJUZVJnYjhMa185dG1Va0ZteFZUT0tFRTVtdU9HZGl5NGg2Q1FzNVJJS2NQV…\n來源：Google News:INTU",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONFF2ZC1MaC1WbzdMdjdPUnU1aERqMTVSVnpQY21NYnhDVjNMQTFXSENoWFJqWXlZNUx1dzZfNzVfdDJWLWhYdXVBLWxGX1pFSC1oYTF6UGlaWEVxZkxIeUNDTUpFMG1hTjVHcnZmMG5Tekp2dlhZelRoUGJHRnJUZVJnYjhMa185dG1Va0ZteFZUT0tFRTVtdU9HZGl5NGg2Q1FzNVJJS2NQVmJyMEhkQ21EN3paQXo3VlhnX3ZvSDlRMFRXcUc5dnhtazhKX3JuYVE?oc=5",
-      "source": "Google News:INTU",
+      "n": 6,
+      "symbol": "LULU",
+      "short": "LULU — LULU Stock Is Down Over 50% YTD As Heidi O’Neill Takes Over: What Wall Street Wants Fix…",
+      "detail": "LULU\n重點：新聞\n標題：LULU Stock Is Down Over 50% YTD As Heidi O’Neill Takes Over: What Wall Street Wants Fixed First\n摘要：The new Lululemon CEO faces weakening sales, global pressures, and investor skepticism.\n來源：Yahoo Finance:LULU",
+      "url": "https://stocktwits.com/news-articles/markets/equity/lulu-stock-is-down-over-50-ytd-as-heidi-o-neill-takes-over-what-wall-street-wants-fixed-first/cZt3Sa1RJxq?.tsrc=rss",
+      "source": "Yahoo Finance:LULU",
       "kind": "news"
     }
   ]
