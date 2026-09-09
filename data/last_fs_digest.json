@@ -1,115 +1,106 @@
 {
-  "title": "FS新聞 09-08 14:16",
-  "list_name": "FirstScreen_2026-09-08_141647_comma.txt",
-  "created_at": "2026-09-08T14:16:57.123896+00:00",
+  "title": "FS新聞 09-09 04:55",
+  "list_name": "FirstScreen_2026-09-09_045515_comma.txt",
+  "created_at": "2026-09-09T04:55:25.356385+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "TGT",
-      "short": "TGT — 3 Reasons to Sell TGT and 1 Stock to Buy Instead",
-      "detail": "TGT\n重點：新聞\n標題：3 Reasons to Sell TGT and 1 Stock to Buy Instead\n摘要：Over the past six months, Target has been a great trade, beating the S&amp;P 500 by 22.7%. Its stock price has climbed to $163.73, representing a healthy 36.3% increase. This was partly due to its solid quarterly results, and the run-up might have investors contemplating their n…\n來源：Yahoo Finance:TGT\n其他：Jim Cramer Backs Walmart (NASDAQ: WMT) While Target (NYSE: …; VIRGINIA RETIREMENT SYSTEMS ET Al Takes Position in Target …; Target Corporation $TGT Shares Sold by Cygnus Capital Advis…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-tgt-1-131918850.html?.tsrc=rss",
-      "source": "Yahoo Finance:TGT",
-      "kind": "news"
-    },
-    {
-      "n": 2,
-      "symbol": "MDT",
-      "short": "MDT — 業績／指引：Is Medtronic Worth Buying as Growth Improves but Risks Stay Elevated?",
-      "detail": "MDT\n重點：業績／指引\n標題：Is Medtronic Worth Buying as Growth Improves but Risks Stay Elevated?\n摘要：MDT's stronger growth and earnings outlook improve its case, but margin, currency and execution risks keep investors selective.\n來源：Yahoo Finance:MDT\n其他：Medtronic (MDT) Q1 2027 Earnings Call Transcript; Medtronic (NYSE:MDT): A Dividend Quality Play for Income In…",
-      "url": "https://finance.yahoo.com/healthcare/articles/medtronic-worth-buying-growth-improves-125800041.html?.tsrc=rss",
-      "source": "Yahoo Finance:MDT",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "BNY",
-      "short": "BNY — 8,886 Shares in Bank of New York Mellon Corporation $BNY Acquired by Wedmont Private Ca…",
-      "detail": "BNY\n重點：新聞\n標題：8,886 Shares in Bank of New York Mellon Corporation $BNY Acquired by Wedmont Private Capital - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMS1zZlFLek82TzNMRnhhdnRRRm5qUTRoaHpJM18yYTNGVWE5Z3lfeUJScWhGMHVaMXZJS2l5S2wxTmdxckhKdWkxWm9PcGZVU1FPaXFJdXFzWlVVd3UtQ1p6RzBvNUhhM1NpeGo5N1lFcnNadVNYMnJBamZVa09oYi1jS2ZDanRfOVR3ZF8zSDNJNlk3SHZiaWVvSnRKNEs4UUNYZXhUank1M…\n來源：Google News:BNY\n其他：352,843 Shares in Bank of New York Mellon Corporation $BNY …",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMS1zZlFLek82TzNMRnhhdnRRRm5qUTRoaHpJM18yYTNGVWE5Z3lfeUJScWhGMHVaMXZJS2l5S2wxTmdxckhKdWkxWm9PcGZVU1FPaXFJdXFzWlVVd3UtQ1p6RzBvNUhhM1NpeGo5N1lFcnNadVNYMnJBamZVa09oYi1jS2ZDanRfOVR3ZF8zSDNJNlk3SHZiaWVvSnRKNEs4UUNYZXhUank1MmRUX1B2UGxaX0x1ZEN3U2JIMjVlbFdYSk9vZWtiMkRyT3l3WkFJY1lPVGtKOS04Y0tEQXM3dHVuUHdxQQ?oc=5",
-      "source": "Google News:BNY",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "LNG",
-      "short": "LNG — Saudi Central Bank Boosts Stock Holdings in Cheniere Energy, Inc. $LNG - marketbeat.com",
-      "detail": "LNG\n重點：新聞\n標題：Saudi Central Bank Boosts Stock Holdings in Cheniere Energy, Inc. $LNG - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNSm5VUm9yUUgzaEFKdUowVVRQSnkxR2swcmZiSWJXQTB0QjVuemgtS21xeF81VkdGdnRUS09VZi00b2dyOFNucW1fYTBqQS03Q3l1WWQ2UHEzMk54U0Itam9JTlZSVWt1RHZYNmxKTGFMQ2Y3RENVbHZHM1NWd000WHhBZnJ2Q0h1VjdReDJUYWt4c1hLTGFST0ZrMWd4V2JhN2RGeHhVV1E1Y…\n來源：Google News:LNG\n其他：Groupe la Francaise Purchases Shares of 18,805 Cheniere Ene…",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSm5VUm9yUUgzaEFKdUowVVRQSnkxR2swcmZiSWJXQTB0QjVuemgtS21xeF81VkdGdnRUS09VZi00b2dyOFNucW1fYTBqQS03Q3l1WWQ2UHEzMk54U0Itam9JTlZSVWt1RHZYNmxKTGFMQ2Y3RENVbHZHM1NWd000WHhBZnJ2Q0h1VjdReDJUYWt4c1hLTGFST0ZrMWd4V2JhN2RGeHhVV1E1Y2hxVW8yUzN5eHdXNjg0cnFlVHVGTUlzbXlVRFFr?oc=5",
-      "source": "Google News:LNG",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "LULU",
-      "short": "LULU — lululemon: From Bad To Worse (NASDAQ:LULU) - Seeking Alpha",
-      "detail": "LULU\n重點：新聞\n標題：lululemon: From Bad To Worse (NASDAQ:LULU) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNSUFDajRTVGRJRGNlNDZ0LXhWWmVHNFMyWGRqdU9PNlA0LTlteFRZZ2dsMk9KbmU4S1FGOHplUl96d1g1c2xmXzYxT3F6QWNNQUlpQk5TTlZvRlpJTl9Val9BbkVzSS1kUUxmemZ6QVVVNE0tcVBwdlo1c0FtRnIyNWJ6VElkQkgyaFBwWExrRzBmUQ?oc=5\" target=\"_blank\">lululemo…\n來源：Google News:LULU\n其他：TD Waterhouse Canada Inc. Buys 14,389 Shares of lululemon a…",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSUFDajRTVGRJRGNlNDZ0LXhWWmVHNFMyWGRqdU9PNlA0LTlteFRZZ2dsMk9KbmU4S1FGOHplUl96d1g1c2xmXzYxT3F6QWNNQUlpQk5TTlZvRlpJTl9Val9BbkVzSS1kUUxmemZ6QVVVNE0tcVBwdlo1c0FtRnIyNWJ6VElkQkgyaFBwWExrRzBmUQ?oc=5",
-      "source": "Google News:LULU",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "OXY",
-      "short": "OXY — Occidental Petroleum Corporation $OXY Shares Bought by Saudi Central Bank - marketbeat.…",
-      "detail": "OXY\n重點：新聞\n標題：Occidental Petroleum Corporation $OXY Shares Bought by Saudi Central Bank - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOYmxmeXI3Z1oxZFpJdlRVR0l4YmotaG55WVRpRFdiR0N4TGZQdXowb1JjZVVNSzliSERnb3Nnbm44NGpNYlRhckRRMXBhdnY1ZmNMaDNzdmdIR2h3b3BsaWZyNXo3b1Z5NF9IZEF3bGREYU1IMk5GLWdmTmd0bnYxSEpGQ3M4TWNYWmZQM0NienNtQmFWZnh5ZmV2bHJHYUVlMUROUXNzeU5YU…\n來源：Google News:OXY\n其他：Nykredit A S Purchases Shares of 53,475 Occidental Petroleu…",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYmxmeXI3Z1oxZFpJdlRVR0l4YmotaG55WVRpRFdiR0N4TGZQdXowb1JjZVVNSzliSERnb3Nnbm44NGpNYlRhckRRMXBhdnY1ZmNMaDNzdmdIR2h3b3BsaWZyNXo3b1Z5NF9IZEF3bGREYU1IMk5GLWdmTmd0bnYxSEpGQ3M4TWNYWmZQM0NienNtQmFWZnh5ZmV2bHJHYUVlMUROUXNzeU5YUzFtWFkwVDFKRjRQYVdpa0xMV1BGQ2Voa0l0aUExVTlxZ2JXdw?oc=5",
-      "source": "Google News:OXY",
-      "kind": "news"
-    },
-    {
-      "n": 7,
       "symbol": "A",
-      "short": "A — If a Stock Market Crash Is Coming, Investors Will Want to Own This Dividend King - The …",
-      "detail": "A\n重點：新聞\n標題：If a Stock Market Crash Is Coming, Investors Will Want to Own This Dividend King - The Motley Fool\n摘要：<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQY2luUVNZY080R3hONzdjZ1JiUnQtbGtaanphcWtoYktXX2lqeEZvRGF4VUtRVHotMUJrcHlUV09lVU00R1FTWXUxbG1qdWZKZUk3azdRZW1TTHFSa1lSdE8yQ3U2aEpJbm16eHlFU2liYjg1NnRsTDdvbmhfMXRENnRrTEc5ekJlYTFReWVfekNhR1JYR25mNw?oc=5\" target=\"_blank\">…\n來源：Google News:A",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY2luUVNZY080R3hONzdjZ1JiUnQtbGtaanphcWtoYktXX2lqeEZvRGF4VUtRVHotMUJrcHlUV09lVU00R1FTWXUxbG1qdWZKZUk3azdRZW1TTHFSa1lSdE8yQ3U2aEpJbm16eHlFU2liYjg1NnRsTDdvbmhfMXRENnRrTEc5ekJlYTFReWVfekNhR1JYR25mNw?oc=5",
+      "short": "A — 業績／指引：We Ran A Stock Scan For Earnings Growth And South West Pinnacle Exploration (NSE:SOUTHW…",
+      "detail": "A\n重點：業績／指引\n標題：We Ran A Stock Scan For Earnings Growth And South West Pinnacle Exploration (NSE:SOUTHWEST) Passed With Ease - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRTFaaE9EVmRTYUJZbnNTZHFNSk9aaXVJaU5NanlYZkcyTE1JMVBLcTgzVktVbGZJUHVJNmk5OEtqaWx5bXJ4SUc2bFp6eGFoVUJtemR6U0VoTTVvRTVFVlVfdmpRaURuMVc5d3kxUjJHa19MbWdPY0QzeHhFUUlkSy1tb0RuOW5VV0FzNzFucjhBaXV4aUVPaExSN1V3RUhEa3BING56c3gyM…\n來源：Google News:A",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRTFaaE9EVmRTYUJZbnNTZHFNSk9aaXVJaU5NanlYZkcyTE1JMVBLcTgzVktVbGZJUHVJNmk5OEtqaWx5bXJ4SUc2bFp6eGFoVUJtemR6U0VoTTVvRTVFVlVfdmpRaURuMVc5d3kxUjJHa19MbWdPY0QzeHhFUUlkSy1tb0RuOW5VV0FzNzFucjhBaXV4aUVPaExSN1V3RUhEa3BING56c3gyMG14QWJzNzJ1ZUZGU0w3Wm5xVnRIR2FNbWZ1cmRuVHg0cGpUczA0TW5mZ0JiNFBsY0pvT1pNS1dDSTh2T3pRYWI3YVlpM2Vfd9IB9wFBVV95cUxPLUpBdVdhaHZ5aXRiUzd1YVhLZm56RE9tRVd2OERvaU5qYmlJSVFXdF9YcUVtcGNHd1VpbHIzcmxCNk15dGhuM044QkE4MnhxNEo2emhYWUF0Q213QU5acFYyelRBQ3R5RHBrcTd3ekk2Z09pd0dHYWZsZFVhVlFmTEE4TUFFUFZNQms3UGIyUlZmOHc4dnRFZ0pmaUdLdkxfMG50TTNhc2JieWtxWWtWV0pMam1DUHNBNmRkSjFNY1lfYmYyMlpQLUFfQnU2STNfV0tXVGZsZ1ZWRnFybm50bExoN3I4VEdqZTl1UkVEeWhQd2k5MENN?oc=5",
       "source": "Google News:A",
       "kind": "news"
     },
     {
-      "n": 8,
+      "n": 2,
+      "symbol": "BNY",
+      "short": "BNY — 36,896 Shares in Bank of New York Mellon Corporation $BNY Purchased by Murphy Pohlad As…",
+      "detail": "BNY\n重點：新聞\n標題：36,896 Shares in Bank of New York Mellon Corporation $BNY Purchased by Murphy Pohlad Asset Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdjJ0WHIyZkhaWjlFTGpobzhxY2RMWGJxVF9GeXVRTDMxUXpUdF9YTkZTRGpQWnM1Rl9XZ2xiRlpRbjZRMzRyZExLcUQydW5Zc1lRcmY2Mjh2eXpfUWNabDhBekpzUlhwTEcwQTE3cHNIZ3RHRkF1MF9nMXNDcmRFOFdJRmpJelRiZnluemZSU01MNjdsVUp1U0pETDNfVzhKb0lxcEhSbzFSU…\n來源：Google News:BNY",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdjJ0WHIyZkhaWjlFTGpobzhxY2RMWGJxVF9GeXVRTDMxUXpUdF9YTkZTRGpQWnM1Rl9XZ2xiRlpRbjZRMzRyZExLcUQydW5Zc1lRcmY2Mjh2eXpfUWNabDhBekpzUlhwTEcwQTE3cHNIZ3RHRkF1MF9nMXNDcmRFOFdJRmpJelRiZnluemZSU01MNjdsVUp1U0pETDNfVzhKb0lxcEhSbzFSUlp4dHpJUHVXc0h5QVduSGJtVk9NUE5KZ3VVRDlTYmtPQmhmT2xyY1lJTXAwc2h0MWNwUlpkQzFzZVNBVkJkNjd4SXFfb1Zhc2pLUmt3?oc=5",
+      "source": "Google News:BNY",
+      "kind": "news"
+    },
+    {
+      "n": 3,
       "symbol": "CRM",
-      "short": "CRM — HighTower Advisors LLC Reduces Holdings in Salesforce Inc. $CRM - marketbeat.com",
-      "detail": "CRM\n重點：新聞\n標題：HighTower Advisors LLC Reduces Holdings in Salesforce Inc. $CRM - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQd1F5WDVFLW9JUjBPbzkxMTItdF9ZNmRyd1poTHpqNTVIaXlGMnF5eVBGUmZtVDBOdW1KcG1GcDYxeHpJdXVOZzBNbHVCWE9pRHpCQWlacXVXYlhUdGt4T241ZnlkZ0xPaFphSmprREU4VnpsemRhblJCcWRoNGU3cmt4Y2dqWFlkaWY5V0hoMExQMzg1cmJKVkFFNWNwaW00OGZHYmFfTVNuM…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd1F5WDVFLW9JUjBPbzkxMTItdF9ZNmRyd1poTHpqNTVIaXlGMnF5eVBGUmZtVDBOdW1KcG1GcDYxeHpJdXVOZzBNbHVCWE9pRHpCQWlacXVXYlhUdGt4T241ZnlkZ0xPaFphSmprREU4VnpsemRhblJCcWRoNGU3cmt4Y2dqWFlkaWY5V0hoMExQMzg1cmJKVkFFNWNwaW00OGZHYmFfTVNuM0pScEFndkE4cVpOM0NudlkwX0xtQQ?oc=5",
+      "short": "CRM — Salesforce Inc. $CRM Stock Position Lessened by Veritas Asset Management LLP - MarketBe…",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stock Position Lessened by Veritas Asset Management LLP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWEtMR1pFUjU3Z1kyMWJzckdiZTdleVpXVmhVejhzMHI0NWhXcDBySWIwUnNDeXFlVUwyVFJ6bXdCSDdqczF0ZHkzaXhmU0pwUHBNZVJubHVWY1FqS1JKYy1RWElvcm5BaDdHV2VnOThPYWhGUll1QlAxQW9fY1YtOTBTc1pUdGpsaFZZeHVrTElNZTZhWnVNeS1TajZhdlQ1SVlpcDF4S1F6Z…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWEtMR1pFUjU3Z1kyMWJzckdiZTdleVpXVmhVejhzMHI0NWhXcDBySWIwUnNDeXFlVUwyVFJ6bXdCSDdqczF0ZHkzaXhmU0pwUHBNZVJubHVWY1FqS1JKYy1RWElvcm5BaDdHV2VnOThPYWhGUll1QlAxQW9fY1YtOTBTc1pUdGpsaFZZeHVrTElNZTZhWnVNeS1TajZhdlQ1SVlpcDF4S1F6ZXcyQndCSHpOQnhGUXZtOEFjUTlrZ1JCZlNCWjdSNzVoNHhxbkRE?oc=5",
       "source": "Google News:CRM",
       "kind": "news"
     },
     {
+      "n": 4,
+      "symbol": "FDX",
+      "short": "FDX — AI相關：How AI Efficiency Plans Will Impact FedEx (FDX) Stock - simplywall.st",
+      "detail": "FDX\n重點：AI相關\n標題：How AI Efficiency Plans Will Impact FedEx (FDX) Stock - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzZpdFA4TlgxSW5ibWE5cHk4Ry1pQnQ0Z3UwVWxrRUVZS2t3aDNIR0FfTUlGQ29XRnJPazVZN2FRYk1UdlBRWDJEazRYQU5TR3JWYjczeWZ5ckI4Z2x3UW5meldpLTl6U1JUSWJkUjRiTUFqNVo0TndwTE1tRkIwWGltVWFVbVlJRGYtLXRfSDVYWEk2QUZIVkR5NjJ2OUw1V1d3YVh1MjB6N…\n來源：Google News:FDX",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzZpdFA4TlgxSW5ibWE5cHk4Ry1pQnQ0Z3UwVWxrRUVZS2t3aDNIR0FfTUlGQ29XRnJPazVZN2FRYk1UdlBRWDJEazRYQU5TR3JWYjczeWZ5ckI4Z2x3UW5meldpLTl6U1JUSWJkUjRiTUFqNVo0TndwTE1tRkIwWGltVWFVbVlJRGYtLXRfSDVYWEk2QUZIVkR5NjJ2OUw1V1d3YVh1MjB6NUFELWFfNnhRajRVaWxaZWfSAb8BQVVfeXFMTzE2bzJPLVlfZThQWmoxUUJaNktjakR6VUoyZ1RuVk9ORnJ1ZGV1SlBxSUNOdEtIWjBSamlsSmZIV0pndU0yVkwwTzRMcWFNMmZfQlVzTUhFNElxS1V2ZkpIZG0ybDl0WTZwOU85NjFVUWV1SDY0NnpmZkFfdFc2MGpmSTZvS1Y0OUFCdVBfR1BWbXpqcEdQNmRMOXJqY285M19Ea0x0S0Vyb1BrdDhVV1FLRUpmLV8zVXQyUFpQejg?oc=5",
+      "source": "Google News:FDX",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "MDT",
+      "short": "MDT — AI相關：Medtronic Touts AI, Robotics and Ablation Growth at Wells Fargo Conference",
+      "detail": "MDT\n重點：AI相關\n標題：Medtronic Touts AI, Robotics and Ablation Growth at Wells Fargo Conference\n摘要：Medtronic (NYSE:MDT) executives said the medical device maker is seeing accelerating growth across major franchises and emerging product categories, supported by innovation in artificial intelligence, robotics and new therapies. Speaking at the Wells Fargo Healthcare Conference,…\n來源：Yahoo Finance:MDT",
+      "url": "https://www.marketbeat.com/instant-alerts/event-medtronic-touts-ai-robotics-and-ablation-growth-at-wells-fargo-conference-2026-09-08/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance:MDT",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "MRK",
+      "short": "MRK — Allworth Financial LP Decreases Holdings in Merck & Co., Inc. $MRK - MarketBeat",
+      "detail": "MRK\n重點：新聞\n標題：Allworth Financial LP Decreases Holdings in Merck & Co., Inc. $MRK - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQT1Y4YmlnNmJPVUVfcEZEbDFRb2lPamJ0Qms3aGViQkNfWVBDN0NLUURoRlZvbTZZLWp0YnY1ejFMdkNTV0VEOTF3NTRsQzdEcUxSWjJlNVRqak42TElPS2xuV29HbXg1MVhHalZpeHVKWkxGYTZYWmhLM2FWSEppR2lCQndyWjlvWUlZOC1QeENHSFc4TXY0b1NXUERWY0JSaVpCek9FeEoyM…\n來源：Google News:MRK",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT1Y4YmlnNmJPVUVfcEZEbDFRb2lPamJ0Qms3aGViQkNfWVBDN0NLUURoRlZvbTZZLWp0YnY1ejFMdkNTV0VEOTF3NTRsQzdEcUxSWjJlNVRqak42TElPS2xuV29HbXg1MVhHalZpeHVKWkxGYTZYWmhLM2FWSEppR2lCQndyWjlvWUlZOC1QeENHSFc4TXY0b1NXUERWY0JSaVpCek9FeEoyMHpFd2V1TDE4aEo1blVjSWZSR0Rn?oc=5",
+      "source": "Google News:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "NESR",
+      "short": "NESR — 業績／指引：Learn Why The Bull Case For NESR Stock Could Change Following Earnings Estimate Upgrade…",
+      "detail": "NESR\n重點：業績／指引\n標題：Learn Why The Bull Case For NESR Stock Could Change Following Earnings Estimate Upgrades - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVXdRLW1KVlh3SENEeWVrV0ZXUGlqcElmZkJrUUhCWXVLQWdoOWlwc21iNW1xczE0LUNFZEJ6alY5S1NHMFVMdDBWQjFEY09rUGRkQVZvZW13ZDBJR3JENE56U19uQW1TSXFDc3dSMjZNNTdnU0FYUFVPSGpOVXZoOGxOUWdaQXVTYXFVZ1ZUaG50aWpoV3dTRHlnZzVmTmFIbkxqZ2hIeF9xa…\n來源：Google News:NESR",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVXdRLW1KVlh3SENEeWVrV0ZXUGlqcElmZkJrUUhCWXVLQWdoOWlwc21iNW1xczE0LUNFZEJ6alY5S1NHMFVMdDBWQjFEY09rUGRkQVZvZW13ZDBJR3JENE56U19uQW1TSXFDc3dSMjZNNTdnU0FYUFVPSGpOVXZoOGxOUWdaQXVTYXFVZ1ZUaG50aWpoV3dTRHlnZzVmTmFIbkxqZ2hIeF9xa0FPVHdaendRdWRkcmZNdldWSW03WkxLSkJwb3pkSDhDWWlYMWdLbVhndXVuU3ZBbHFueUZLR184bmHSAeoBQVVfeXFMT0I5THNvZmFzRnJWUUIwQVJvVmUzemk3UGdkQ0p3bVBCYWVZZUZRZHFaVWtCU1o5WkJvYXE4eGZOTlZWaFVVNXBBR01mWS1ZbG1zYktUcUlWVGUxR0pVNmdIVkw5NVpDUVdDNG05VXJlR05LS094NG42Vi1UTUxTY0FpNTV1QVF1YjlrVXE2Y2NPVl91eHdKWHllN1gtVEZOeDFXOU5SbFk4Vk5RT0dnd083YlkyaGlXWUhCY2h2ekJQNEQ1SDA0b3o5bTRoSFotVHFKRXNXU2ZWbHgyNmNSdFcwWk1uNU0yNWd3?oc=5",
+      "source": "Google News:NESR",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "ROKU",
+      "short": "ROKU — 併購／交易：ROKU Stock Slips After-Hours On Planned DOJ ‘Second Request’ For Fox Takeover",
+      "detail": "ROKU\n重點：併購／交易\n標題：ROKU Stock Slips After-Hours On Planned DOJ ‘Second Request’ For Fox Takeover\n摘要：The Justice Department is expanding its antitrust review of Fox Corp.’s planned $22-billion purchase of Roku, Semafor reported on Tuesday.\n來源：Yahoo Finance:ROKU",
+      "url": "https://stocktwits.com/news-articles/markets/equity/roku-stock-slips-after-hours-on-planned-doj-second-request-for-fox-takeover/cZtem8pRJyB?.tsrc=rss",
+      "source": "Yahoo Finance:ROKU",
+      "kind": "news"
+    },
+    {
       "n": 9,
-      "symbol": "FUTU",
-      "short": "FUTU — Nykredit A S Purchases Shares of 22,415 Futu Holdings Limited Sponsored ADR $FUTU - mar…",
-      "detail": "FUTU\n重點：新聞\n標題：Nykredit A S Purchases Shares of 22,415 Futu Holdings Limited Sponsored ADR $FUTU - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTFUwczFPb1dZa2ltSEFWR1pjMzRKNGdBMmx2UlMtNFU1X0tjT0dhSktOcnhrbGxjSjRSWmFPQzd6MzdYdXF0Z0ZvZzAydWZnS3FJSnRtc1YxNkx0eFZMaVJFcHVFc0JQUURDSkE5QXp2V204WWduWG1jV2g3TzFscGl5eW5JbU5pWnc0U0FkRkNMQ3RkSk0xd1dDWFZrTVdCMENhMGRfX3Jnc…\n來源：Google News:FUTU",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTFUwczFPb1dZa2ltSEFWR1pjMzRKNGdBMmx2UlMtNFU1X0tjT0dhSktOcnhrbGxjSjRSWmFPQzd6MzdYdXF0Z0ZvZzAydWZnS3FJSnRtc1YxNkx0eFZMaVJFcHVFc0JQUURDSkE5QXp2V204WWduWG1jV2g3TzFscGl5eW5JbU5pWnc0U0FkRkNMQ3RkSk0xd1dDWFZrTVdCMENhMGRfX3Jnc01selZzQWQtVUZwQmw2UmpaVVd2OE1Yc0N3MXNsUUEzMUJsSkF1RlVVd1hScw?oc=5",
-      "source": "Google News:FUTU",
+      "symbol": "STRC",
+      "short": "STRC — Strategy doubles STRC buyback to $2 billion as Bitcoin treasury grows",
+      "detail": "STRC\n重點：新聞\n標題：Strategy doubles STRC buyback to $2 billion as Bitcoin treasury grows\n摘要：Michael Saylor announces expanded repurchase program alongside $6.5 billion in USD assets, signaling renewed balance sheet confidence.\n來源：Yahoo Finance:STRC",
+      "url": "https://www.thestreet.com/crypto/markets/strategy-doubles-strc-buyback-to-2-billion-as-bitcoin-holdings-hit-845050-btc?.tsrc=rss",
+      "source": "Yahoo Finance:STRC",
       "kind": "news"
     },
     {
       "n": 10,
-      "symbol": "GH",
-      "short": "GH — AI相關、業績／指引、宏觀：What Makes Guardant Health (GH) a Compelling Bet?",
-      "detail": "GH\n重點：AI相關、業績／指引、宏觀\n標題：What Makes Guardant Health (GH) a Compelling Bet?\n摘要：Artisan Partners, an investment management company, released its second-quarter 2026 investor letter for the “Artisan Mid Cap Fund”. The letter can be downloaded here. Global equities rebounded sharply in Q2 2026, recovering from March lows as resilient economic data, strong cor…\n來源：Yahoo Finance:GH",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-guardant-health-gh-compelling-132246436.html?.tsrc=rss",
-      "source": "Yahoo Finance:GH",
+      "symbol": "THC",
+      "short": "THC — Tenet Announces Upsizing and Pricing of Its $2.0 Billion Private Offering of Senior Not…",
+      "detail": "THC\n重點：新聞\n標題：Tenet Announces Upsizing and Pricing of Its $2.0 Billion Private Offering of Senior Notes\n摘要：DALLAS, September 08, 2026--Tenet Healthcare Corporation (NYSE: THC) today announced the pricing of the previously announced private placement offering and has agreed to issue and sell $2.0 billion in aggregate principal amount of senior notes due on September 15, 2034, which wi…\n來源：Yahoo Finance:THC",
+      "url": "https://finance.yahoo.com/healthcare/articles/tenet-announces-upsizing-pricing-2-210000012.html?.tsrc=rss",
+      "source": "Yahoo Finance:THC",
       "kind": "news"
     },
     {
       "n": 11,
-      "symbol": "GPC",
-      "short": "GPC — Genuine Parts Company $GPC Shares Sold by Hsbc Holdings PLC - marketbeat.com",
-      "detail": "GPC\n重點：新聞\n標題：Genuine Parts Company $GPC Shares Sold by Hsbc Holdings PLC - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMU90UHh4c2dVaVdIeE5MSXFZSktYWEE3MVJqbi1FNjNLcmdqdXFMUmRHMlVrUmZWOVdJZmw3ZnlMclc1LTFZQmFHd28xbnB0Uzhkc3FzdnVvTkpjcnZyZlJOdFN3dHctejdQMUEzZHhITW43cXV3anRoZVROQzZodHlMUFhOZE5jWDFKMjZuZ2E4VkhnZWlwQlNaSUhuSG02ampPYVlLQUZxc…\n來源：Google News:GPC",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMU90UHh4c2dVaVdIeE5MSXFZSktYWEE3MVJqbi1FNjNLcmdqdXFMUmRHMlVrUmZWOVdJZmw3ZnlMclc1LTFZQmFHd28xbnB0Uzhkc3FzdnVvTkpjcnZyZlJOdFN3dHctejdQMUEzZHhITW43cXV3anRoZVROQzZodHlMUFhOZE5jWDFKMjZuZ2E4VkhnZWlwQlNaSUhuSG02ampPYVlLQUZxcVpPYjI2cFJjYXhCakludkJ3?oc=5",
-      "source": "Google News:GPC",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "LQDA",
-      "short": "LQDA — Wellington Management Group LLP Sells 22,925 Shares of Liquidia Corporation $LQDA - mar…",
-      "detail": "LQDA\n重點：新聞\n標題：Wellington Management Group LLP Sells 22,925 Shares of Liquidia Corporation $LQDA - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQckl0c0RXYzlnRWN0VURiamZDbFZORDFHRFlJQ1daTGFUSWxhZ3BzbGQ5eFJfSlVkelFuZ2syMWhpUGloYzFwd3Y0SFRiVktQZmhQTlQzNzBtVjlNSmVQSzBlMlRxWEdOOWpPUXJBLXItWEhwVEFpbjNVaVY1ODdlY25DdmRBWGVsVDZVTWZudk1SUzRpX1hXTVdjSFhWS05CYXhwZHZPNnlqT…\n來源：Google News:LQDA",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQckl0c0RXYzlnRWN0VURiamZDbFZORDFHRFlJQ1daTGFUSWxhZ3BzbGQ5eFJfSlVkelFuZ2syMWhpUGloYzFwd3Y0SFRiVktQZmhQTlQzNzBtVjlNSmVQSzBlMlRxWEdOOWpPUXJBLXItWEhwVEFpbjNVaVY1ODdlY25DdmRBWGVsVDZVTWZudk1SUzRpX1hXTVdjSFhWS05CYXhwZHZPNnlqTWtxQXdfbm5hVTRINzBVNi1kMGtidmN0UUNhc1pBaG9PQkI4d2ctN0hJZ2lYSQ?oc=5",
-      "source": "Google News:LQDA",
+      "symbol": "URBN",
+      "short": "URBN — Melanie Marein-Efron Sells 5,700 Shares of Urban Outfitters (NASDAQ:URBN) Stock - Marke…",
+      "detail": "URBN\n重點：新聞\n標題：Melanie Marein-Efron Sells 5,700 Shares of Urban Outfitters (NASDAQ:URBN) Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbDVQUXBsT1FVS3ZuOVZ4Y2N2REZCd0ZzMjVrR2FBcHFBLTBwaHlET1d6RE5vblpLSGtnV29WZy1zZ2luQl81MFJHUWJfSkVlclo5V1IwMFRka25aeFJiYnZiWlhNNDZlRG56eWFob3hTMWJ1aVZvUDFQT1J6UEJTWF9fYjFmZ2ZuaDZyRnRsb2pDRnFOUXctZG81QnJVd1VpMVZCU29TakpxT…\n來源：Google News:URBN",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbDVQUXBsT1FVS3ZuOVZ4Y2N2REZCd0ZzMjVrR2FBcHFBLTBwaHlET1d6RE5vblpLSGtnV29WZy1zZ2luQl81MFJHUWJfSkVlclo5V1IwMFRka25aeFJiYnZiWlhNNDZlRG56eWFob3hTMWJ1aVZvUDFQT1J6UEJTWF9fYjFmZ2ZuaDZyRnRsb2pDRnFOUXctZG81QnJVd1VpMVZCU29TakpxTjloWUhZSGs1a25Wd3pXa3ZKTWxpcFE0VmhZWTUxRmVVQzUzYXhiZ3hRZg?oc=5",
+      "source": "Google News:URBN",
       "kind": "news"
     }
   ]
