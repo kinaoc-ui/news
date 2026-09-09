@@ -1,20 +1,47 @@
 {
-  "title": "FS新聞 09-09 09:23",
-  "list_name": "FirstScreen_2026-09-09_092339_comma.txt",
-  "created_at": "2026-09-09T09:23:48.079868+00:00",
+  "title": "FS新聞 09-09 14:17",
+  "list_name": "FirstScreen_2026-09-09_141706_comma.txt",
+  "created_at": "2026-09-09T14:17:16.607866+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce Inc. $CRM Shares Sold by Beacon Investment Advisory Services Inc. - MarketBe…",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Shares Sold by Beacon Investment Advisory Services Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPNmlBckJaTU44dVVHek55QXBpeUNQWm8tdW94VkZPQWRWalE1ZWJadTlKOHJXaVZXQ01oa0pOTWVIVGowbmRTUWpNRTcxYWhmZkp5SG5aelNoYWFOalRrNk1JalhrZDkwa29ZdlBWZFFKaEdJTmp0NXk0dVJsaGNCYXY3WE9iMnNZWHdkLV81Y0xMcU8zMF9UbFhrbmZjdGtYcnZWSmRrdGstb…\n來源：Google News:CRM\n其他：Salesforce Inc. $CRM Stock Position Trimmed by Groupe la Fr…",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNmlBckJaTU44dVVHek55QXBpeUNQWm8tdW94VkZPQWRWalE1ZWJadTlKOHJXaVZXQ01oa0pOTWVIVGowbmRTUWpNRTcxYWhmZkp5SG5aelNoYWFOalRrNk1JalhrZDkwa29ZdlBWZFFKaEdJTmp0NXk0dVJsaGNCYXY3WE9iMnNZWHdkLV81Y0xMcU8zMF9UbFhrbmZjdGtYcnZWSmRrdGstbm9Ea3o3VzdkX1Naa0Jla2VwR0ZMZHBOOWFsenZBcjJPU1VDdnM?oc=5",
-      "source": "Google News:CRM",
+      "symbol": "MDT",
+      "short": "MDT — Medtronic Raises 2027 Outlook as Broad-Based Growth Gains Momentum",
+      "detail": "MDT\n重點：新聞\n標題：Medtronic Raises 2027 Outlook as Broad-Based Growth Gains Momentum\n摘要：MDT lifts its 2027 outlook as broad-based growth accelerates, but margin pressure and competition could test momentum.\n來源：Yahoo Finance:MDT\n其他：Hedeker Wealth LLC Sells 17,444 Shares of Medtronic PLC $MD…; California State Teachers Retirement System Acquires 156,08…",
+      "url": "https://finance.yahoo.com/healthcare/articles/medtronic-raises-2027-outlook-broad-131200800.html?.tsrc=rss",
+      "source": "Yahoo Finance:MDT",
       "kind": "news"
     },
     {
       "n": 2,
+      "symbol": "ROKU",
+      "short": "ROKU — 併購／交易：Parks Associates: Fox Acquisition of Roku Underscores Growing Value of TV Operating Sys…",
+      "detail": "ROKU\n重點：併購／交易\n標題：Parks Associates: Fox Acquisition of Roku Underscores Growing Value of TV Operating Systems and Streaming Platforms\n摘要：Fox Corporation's planned acquisition of Roku for $22 billion highlights the strategic value of owning the platform that connects consumers to content, advertising, and streaming services. Parks Associates' Tech Ecosystem Dashboard, which includes data and analysis from surveys …\n來源：Yahoo Finance:ROKU\n其他：Maven Securities LTD Makes New Investment in Roku, Inc. $RO…; Squarepoint Ops LLC Sells 1,108,745 Shares of Roku, Inc. $R…",
+      "url": "https://finance.yahoo.com/media-advertising/articles/parks-associates-fox-acquisition-roku-124200519.html?.tsrc=rss",
+      "source": "Yahoo Finance:ROKU",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "TGT",
+      "short": "TGT — Target: Weighing The Consolidation Scenario (Rating Downgrade) (NYSE:TGT) - Seeking Alp…",
+      "detail": "TGT\n重點：新聞\n標題：Target: Weighing The Consolidation Scenario (Rating Downgrade) (NYSE:TGT) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQNEQtZ2RTQ1N1Tm1memhjZkNFU3ZWdkMwTjltYTVSOG9fRWtpcGhhWnJiZHFIcm1hUlNkOG9XanRXNmJBLUQyZDNraFZNcmtWbmJuMnpHRDZ2VTJ4WW42VkZiMG9yODlTZmN3SXE0SEppTWxvenVjdkhyRVpKM244VjFsYTFDUjdobmRtV3IwTU12OVhneUV1X2JlSFN5RGpzbnc?oc=5\" tar…\n來源：Google News:TGT\n其他：Target Corporation $TGT Shares Purchased by Engineers Gate …; Target Corporation $TGT Shares Bought by California State T…",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNEQtZ2RTQ1N1Tm1memhjZkNFU3ZWdkMwTjltYTVSOG9fRWtpcGhhWnJiZHFIcm1hUlNkOG9XanRXNmJBLUQyZDNraFZNcmtWbmJuMnpHRDZ2VTJ4WW42VkZiMG9yODlTZmN3SXE0SEppTWxvenVjdkhyRVpKM244VjFsYTFDUjdobmRtV3IwTU12OVhneUV1X2JlSFN5RGpzbnc?oc=5",
+      "source": "Google News:TGT",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "CRM",
+      "short": "CRM — Community Bank N.A. Boosts Holdings in Salesforce Inc. $CRM - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：Community Bank N.A. Boosts Holdings in Salesforce Inc. $CRM - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQR1hHQ2wwcE1sUGlLRGVmbG1EZ1c0YWtuN3ExXzgyTFBhMEJmVmsxUjFTY0tMcFI3Q1ZhZ3NHcC1jOWFPdk1IUjZZNU1jX3hDc3pNazItdHc2bV9mbWFiWGk2WHJBV0xxbDhxdmRld1dkSXBvazhwbER1RkRVLTA1OHUwN0R3bk5sNGlFcUlqbF9KXzV4TkFwUG5FbkJSWHk3RTh2QTd6VjZCc…\n來源：Google News:CRM\n其他：Salesforce Inc. $CRM Stock Position Trimmed by Groupe la Fr…",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR1hHQ2wwcE1sUGlLRGVmbG1EZ1c0YWtuN3ExXzgyTFBhMEJmVmsxUjFTY0tMcFI3Q1ZhZ3NHcC1jOWFPdk1IUjZZNU1jX3hDc3pNazItdHc2bV9mbWFiWGk2WHJBV0xxbDhxdmRld1dkSXBvazhwbER1RkRVLTA1OHUwN0R3bk5sNGlFcUlqbF9KXzV4TkFwUG5FbkJSWHk3RTh2QTd6VjZCc1MzdmRvQ19SYTdJZDA?oc=5",
+      "source": "Google News:CRM",
+      "kind": "news"
+    },
+    {
+      "n": 5,
       "symbol": "HCA",
       "short": "HCA — HighTower Advisors LLC Increases Stock Position in HCA Healthcare, Inc. $HCA - MarketBe…",
       "detail": "HCA\n重點：新聞\n標題：HighTower Advisors LLC Increases Stock Position in HCA Healthcare, Inc. $HCA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNalU5YXB6Q3hxY0V2b1dkUlVNWkR4SUoxVkF5b3RlT056Q05kY2kyRXotQm44NUN4cExhVmNyT19jUnB6V0UydVRqbHh2aFIwVVRra240WWxZWXZERmdLdjZpVzdhbzFQb2YzR1ZJcDZtX0hEX1hNZXRMSzFfNGZfcVFmZC05dk9ZcDJNMWtGRWtoQ3EzWG9BOXhISEZpNTRzSk44TFZib0lDY…\n來源：Google News:HCA\n其他：Amundi Sells 256,917 Shares of HCA Healthcare, Inc. $HCA - …",
@@ -23,25 +50,25 @@
       "kind": "news"
     },
     {
-      "n": 3,
+      "n": 6,
+      "symbol": "JD",
+      "short": "JD — JD.com (NASDAQ:JD) Stock Rating Lowered by Arete Research - MarketBeat",
+      "detail": "JD\n重點：新聞\n標題：JD.com (NASDAQ:JD) Stock Rating Lowered by Arete Research - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNaTJYaWJmV0g2Y1Y1XzF0SXJRdTVqUHhsS201VVRpTVdFOGVGRUxYaDhkUHpqNHN2NVItQjQ1U0RmVEJVRGxnRS1QaHhiWXZ5Sm9Idm82Zmw5MXJXQW1mdDFGTjlCZUxza0k5djZFRlpqa0VBT2xpMHJhTzRCNVRfTVN0Rk1uek9uQjhHZnh1SkNfVkVXeElHVzBHdWJmSVBvSkowX2ZiaGNwM…\n來源：Google News:JD\n其他：JD.com (NASDAQ:JD) Stock Passes Below Fifty Day Moving Aver…",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaTJYaWJmV0g2Y1Y1XzF0SXJRdTVqUHhsS201VVRpTVdFOGVGRUxYaDhkUHpqNHN2NVItQjQ1U0RmVEJVRGxnRS1QaHhiWXZ5Sm9Idm82Zmw5MXJXQW1mdDFGTjlCZUxza0k5djZFRlpqa0VBT2xpMHJhTzRCNVRfTVN0Rk1uek9uQjhHZnh1SkNfVkVXeElHVzBHdWJmSVBvSkowX2ZiaGNwMEo1U1o5S0ktYlJvSlE?oc=5",
+      "source": "Google News:JD",
+      "kind": "news"
+    },
+    {
+      "n": 7,
       "symbol": "LNG",
-      "short": "LNG — 29,800 Shares in Cheniere Energy, Inc. $LNG Bought by VIRGINIA RETIREMENT SYSTEMS ET Al…",
-      "detail": "LNG\n重點：新聞\n標題：29,800 Shares in Cheniere Energy, Inc. $LNG Bought by VIRGINIA RETIREMENT SYSTEMS ET Al - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMmNXZ3NUNHp1N09Nek85ZWltV054V0t3NTNwZEcyYUhrdHZEZjBQV0s5SXp6UkpoXzk5UF90SG8xMHRCMldValpzWEVlc3hyN2lxQnpTOG1YTFVHdnJMTnIzUVVlNjZlRVhuekoxUWFVRTdLWFBIbTlOWG44TmYtYnNhcU5rem03dkpmQmlFNmdyVDJpV211OE5xUWFrLTNlVURZNWxuVGdzW…\n來源：Google News:LNG\n其他：Concurrent Investment Advisors LLC Sells 4,746 Shares of Ch…",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMmNXZ3NUNHp1N09Nek85ZWltV054V0t3NTNwZEcyYUhrdHZEZjBQV0s5SXp6UkpoXzk5UF90SG8xMHRCMldValpzWEVlc3hyN2lxQnpTOG1YTFVHdnJMTnIzUVVlNjZlRVhuekoxUWFVRTdLWFBIbTlOWG44TmYtYnNhcU5rem03dkpmQmlFNmdyVDJpV211OE5xUWFrLTNlVURZNWxuVGdzWTVVMmJFT1BxYk5uSXY1eXBjUGRUUkQ1NEwxc0hMaHU3YUdsX1p3M0tzY1RjT1I2MnRu?oc=5",
+      "short": "LNG — Waverly Advisors LLC Grows Stock Position in Cheniere Energy, Inc. $LNG - MarketBeat",
+      "detail": "LNG\n重點：新聞\n標題：Waverly Advisors LLC Grows Stock Position in Cheniere Energy, Inc. $LNG - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdC1CZ285U2s2VWVUbkZ2SXVvUkh5NlNyLWQxNFBubzhGYnM0MUpxNnhKRC1YMDJIMkZXNGE0Yjc3Z3h4WDVKUWpJT2RhbDFqNHdGeFd2OUNtZks3ZkF0SmtXZFdBTGFhNVhUWkVLT3pEQ011SkFWZXNqcWdxZlVaOUFXN29TVUFCaUtYZEZXUFBWUVl2WWtlYUh5UURIOTZ3d0hqbUxUQnI1a…\n來源：Google News:LNG\n其他：29,800 Shares in Cheniere Energy, Inc. $LNG Bought by VIRGI…",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdC1CZ285U2s2VWVUbkZ2SXVvUkh5NlNyLWQxNFBubzhGYnM0MUpxNnhKRC1YMDJIMkZXNGE0Yjc3Z3h4WDVKUWpJT2RhbDFqNHdGeFd2OUNtZks3ZkF0SmtXZFdBTGFhNVhUWkVLT3pEQ011SkFWZXNqcWdxZlVaOUFXN29TVUFCaUtYZEZXUFBWUVl2WWtlYUh5UURIOTZ3d0hqbUxUQnI1ak93azhQMkJrbHZONjVMV3VqT2tHMXBYbU5aVm1tTw?oc=5",
       "source": "Google News:LNG",
       "kind": "news"
     },
     {
-      "n": 4,
-      "symbol": "MDT",
-      "short": "MDT — Hedeker Wealth LLC Sells 17,444 Shares of Medtronic PLC $MDT - MarketBeat",
-      "detail": "MDT\n重點：新聞\n標題：Hedeker Wealth LLC Sells 17,444 Shares of Medtronic PLC $MDT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWFRlNFhkXzBTZXkyZ1d4ZFFielRZTGk4Q29BeXE4YVZoM0hVWmxWNWl2MzhqNGFsTmZoRDExQVdlTVBhcnpiUi1lME9nM2haR19uX01iMUkwSk84R09qcnBFNE1nRzRETDhHOHBROUVremw5Zl9BTUpvemJtZ0VOc3lxZjA4MWNhRkhVeHE0QWNuY0JtTEEzMnh1eXJKNHFJYjlQTFJ3V0hHM…\n來源：Google News:MDT\n其他：California State Teachers Retirement System Acquires 156,08…",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWFRlNFhkXzBTZXkyZ1d4ZFFielRZTGk4Q29BeXE4YVZoM0hVWmxWNWl2MzhqNGFsTmZoRDExQVdlTVBhcnpiUi1lME9nM2haR19uX01iMUkwSk84R09qcnBFNE1nRzRETDhHOHBROUVremw5Zl9BTUpvemJtZ0VOc3lxZjA4MWNhRkhVeHE0QWNuY0JtTEEzMnh1eXJKNHFJYjlQTFJ3V0hHMHViZVg0Y1BxdXZvRFk5bk1n?oc=5",
-      "source": "Google News:MDT",
-      "kind": "news"
-    },
-    {
-      "n": 5,
+      "n": 8,
       "symbol": "OXY",
       "short": "OXY — HighTower Advisors LLC Decreases Position in Occidental Petroleum Corporation $OXY - Ma…",
       "detail": "OXY\n重點：新聞\n標題：HighTower Advisors LLC Decreases Position in Occidental Petroleum Corporation $OXY - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ2pxaktoNzY4Nk5mNlRJcjFybFZkLXJoNkVPZHYySEVlTlVlSFJudXcyR19qcTVNWEU5bU5BRGUyajdWSThjd3ZqWDdqUnZNMkxxUUpIeGRLQ0tTRVhaUnpfVFUzZ29lekJkREc0NUlnUEFMaWFvY0VQUUlVc2NnU2dmaVBsTTBweW5rNzZvNFRtMWJhUU1QaTVxRHJHbjVIYWFTVnFFNFZZN…\n來源：Google News:OXY\n其他：Amundi Increases Holdings in Occidental Petroleum Corporati…",
@@ -50,7 +77,7 @@
       "kind": "news"
     },
     {
-      "n": 6,
+      "n": 9,
       "symbol": "ADT",
       "short": "ADT — 160,126 Shares in ADT Inc. $ADT Acquired by Public Employees Retirement System of Ohio …",
       "detail": "ADT\n重點：新聞\n標題：160,126 Shares in ADT Inc. $ADT Acquired by Public Employees Retirement System of Ohio - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWjNSZGlFSzZ4cGpMTWYyV1Zzd2RWbTVpSTBCRG1Gbk91TllldFFSYlhGaHlhWHNBMldVaUY1SGppNFlEOVJEd2Zua0pQUnFyNkFvMFNXdTkwTEZPR0lIMkZFaWhXdXo1NklwOExWUTZuREpOR0NLTUJiU1dvSHVLeXNiV1ZPbW1OTXU4QzFzRE1LUWRFeUFDaV8tX3dFQm4tUmpZalNqd29wY…\n來源：Google News:ADT",
@@ -59,57 +86,30 @@
       "kind": "news"
     },
     {
-      "n": 7,
-      "symbol": "ANET",
-      "short": "ANET — AI相關、業績／指引：Arista Networks Targets $12.6B as AI, Campus and Cloud Networking Growth Accelerates",
-      "detail": "ANET\n重點：AI相關、業績／指引\n標題：Arista Networks Targets $12.6B as AI, Campus and Cloud Networking Growth Accelerates\n摘要：Arista Networks (NYSE:ANET) executives said the company is investing across its networking portfolio rather than making tradeoffs between AI and data-center switching, software, campus networking and routing, as it works toward its 2026 revenue outlook of $12.6 billion. Speaking…\n來源：Yahoo Finance:ANET",
-      "url": "https://www.marketbeat.com/instant-alerts/event-arista-networks-targets-126b-as-ai-campus-and-cloud-networking-growth-accelerates-2026-09-09/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "Yahoo Finance:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "INTU",
-      "short": "INTU — Intuit Inc. $INTU Shares Sold by Groupe la Francaise - MarketBeat",
-      "detail": "INTU\n重點：新聞\n標題：Intuit Inc. $INTU Shares Sold by Groupe la Francaise - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWd5TkFYdVNKQXFYT2tRUlhlalRBUWgzMGltSHctdldoOWlDbUFDbmFvbzN3R0g2bm9kcFRWdDhYbVlwYzlxbTV0eU5pTnZ6bmluV05vNXRndmRIWTZ5SWZIQmlNRk9RNFNNXzVhcmpUM0FoNlZEQWlNVlhldjliZ25YYkc0bXFPaDNGelFicVVIbjNSVmREbFJDb2NRQ29RbmJ0Um0zZk9fT…\n來源：Google News:INTU",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWd5TkFYdVNKQXFYT2tRUlhlalRBUWgzMGltSHctdldoOWlDbUFDbmFvbzN3R0g2bm9kcFRWdDhYbVlwYzlxbTV0eU5pTnZ6bmluV05vNXRndmRIWTZ5SWZIQmlNRk9RNFNNXzVhcmpUM0FoNlZEQWlNVlhldjliZ25YYkc0bXFPaDNGelFicVVIbjNSVmREbFJDb2NRQ29RbmJ0Um0zZk9fTDhWangtbg?oc=5",
-      "source": "Google News:INTU",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "JD",
-      "short": "JD — JD.com (NASDAQ:JD) Stock Passes Below Fifty Day Moving Average - Should You Sell? - Mar…",
-      "detail": "JD\n重點：新聞\n標題：JD.com (NASDAQ:JD) Stock Passes Below Fifty Day Moving Average - Should You Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVllCR0J6T3lsTkFzdDJ4YjBoWjhlcEstQWNKSGQxRkUyWXgtdk9Pd2NXVXZkeDk4UHVSZWNNREtaVHV2LUdjVjZMbExYMEhxVTJyU0hkdHQtaVIyNnFodXJoX25wUnQtN0ZOV05DY18wYUdCa2IwR1VDMFdSZk5nMURKVXJSR1IxTXRzTHEtRkZ3X2JQd25iRVQzZ01YX3VUQkxpVW0tY19GZ…\n來源：Google News:JD",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVllCR0J6T3lsTkFzdDJ4YjBoWjhlcEstQWNKSGQxRkUyWXgtdk9Pd2NXVXZkeDk4UHVSZWNNREtaVHV2LUdjVjZMbExYMEhxVTJyU0hkdHQtaVIyNnFodXJoX25wUnQtN0ZOV05DY18wYUdCa2IwR1VDMFdSZk5nMURKVXJSR1IxTXRzTHEtRkZ3X2JQd25iRVQzZ01YX3VUQkxpVW0tY19GZW51QVhJc0NnelhjdkIzQUEySmgwVjE5THBjZFhKV0xZLVYwX3dV?oc=5",
-      "source": "Google News:JD",
-      "kind": "news"
-    },
-    {
       "n": 10,
-      "symbol": "LULU",
-      "short": "LULU — LULU Stock Slips Overnight: BMO Capital Sees 32% Downside For Lululemon Even As It Begi…",
-      "detail": "LULU\n重點：新聞\n標題：LULU Stock Slips Overnight: BMO Capital Sees 32% Downside For Lululemon Even As It Begins New CEO-Led Reset\n摘要：BMO Capital issued an Underperform rating for Lululemon, citing weakening demand and margin pressure.\n來源：Yahoo Finance:LULU",
-      "url": "https://stocktwits.com/news-articles/markets/equity/lulu-stock-slips-overnight-bmo-capital-sees-32-downside-for-lululemon-even-as-it-begins-new-ceo-led-reset/cZtetweRJy8?.tsrc=rss",
-      "source": "Yahoo Finance:LULU",
+      "symbol": "ANET",
+      "short": "ANET — 業績／指引：Arista Networks Q2 FY26 Earnings Call | $ANET | 🔴 WATCH LIVE Boots Holland And Barrett …",
+      "detail": "ANET\n重點：業績／指引\n標題：Arista Networks Q2 FY26 Earnings Call | $ANET | 🔴 WATCH LIVE Boots Holland And Barrett Thefts (FGKIKpmloU) - Mshale\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wYVNxR2JRYnFpNjBHTnJHek1aamxkeVhXM1BTdW4tV3pFYmE3WWl1RGZtT0hFTUZXMWlNdmpnRFI0MnNTbkN6UkdWVXY1UC1CbC1RUzA5NlpmRUVvOVE0UA?oc=5\" target=\"_blank\">Arista Networks Q2 FY26 Earnings Call | $ANET | 🔴 WATCH LIVE Boots Holland A…\n來源：Google News:ANET",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wYVNxR2JRYnFpNjBHTnJHek1aamxkeVhXM1BTdW4tV3pFYmE3WWl1RGZtT0hFTUZXMWlNdmpnRFI0MnNTbkN6UkdWVXY1UC1CbC1RUzA5NlpmRUVvOVE0UA?oc=5",
+      "source": "Google News:ANET",
       "kind": "news"
     },
     {
       "n": 11,
-      "symbol": "MRK",
-      "short": "MRK — Merck & Co., Inc. $MRK Shares Purchased by Ameritas Advisory Services LLC - MarketBeat",
-      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Shares Purchased by Ameritas Advisory Services LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQVDl3dVdkeWxrTmR0N0tFbWhNRTVwLUlRTTVieTZrcXlYS0VhcWxRWGRGVXl4cXZ6b1pkRmtURlJqQ1FqTnNFRTJFTzI4R0hZVDhSVEVpdVMzc0VIZHpqdG5IeFJvZDc0R29uU0JlMkl3eHBRM0lkS2NYZWV2dEJRaE9idjFzMEJRMUJTbmpsYkJXQ1VKQ2pMd0FtRmFVTGphcTdxaFlESmxIc…\n來源：Google News:MRK",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVDl3dVdkeWxrTmR0N0tFbWhNRTVwLUlRTTVieTZrcXlYS0VhcWxRWGRGVXl4cXZ6b1pkRmtURlJqQ1FqTnNFRTJFTzI4R0hZVDhSVEVpdVMzc0VIZHpqdG5IeFJvZDc0R29uU0JlMkl3eHBRM0lkS2NYZWV2dEJRaE9idjFzMEJRMUJTbmpsYkJXQ1VKQ2pMd0FtRmFVTGphcTdxaFlESmxIcDNIN25NQmJrMFVLRUl2ekJRUlh2SzNPM2R1SWFJ?oc=5",
-      "source": "Google News:MRK",
+      "symbol": "BDX",
+      "short": "BDX — Becton Dickinson & Co's Dividend Analysis",
+      "detail": "BDX\n重點：新聞\n標題：Becton Dickinson & Co's Dividend Analysis\n摘要：Becton Dickinson & Co (NYSE:BDX) recently announced a total dividend of $1.05 per share, with the ex-dividend date set for 2026-09-09. This cash dividend is payable on 2026-09-30. As investors look forward to this upcoming payment, the spotlight also shines on the company's divi…\n來源：Yahoo Finance:BDX",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/becton-dickinson-cos-dividend-analysis-110130618.html?.tsrc=rss",
+      "source": "Yahoo Finance:BDX",
       "kind": "news"
     },
     {
       "n": 12,
-      "symbol": "NESR",
-      "short": "NESR — 業績／指引：Learn Why The Bull Case For NESR Stock Could Change Following Earnings Estimate Upgrade…",
-      "detail": "NESR\n重點：業績／指引\n標題：Learn Why The Bull Case For NESR Stock Could Change Following Earnings Estimate Upgrades - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVXdRLW1KVlh3SENEeWVrV0ZXUGlqcElmZkJrUUhCWXVLQWdoOWlwc21iNW1xczE0LUNFZEJ6alY5S1NHMFVMdDBWQjFEY09rUGRkQVZvZW13ZDBJR3JENE56U19uQW1TSXFDc3dSMjZNNTdnU0FYUFVPSGpOVXZoOGxOUWdaQXVTYXFVZ1ZUaG50aWpoV3dTRHlnZzVmTmFIbkxqZ2hIeF9xa…\n來源：Google News:NESR",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVXdRLW1KVlh3SENEeWVrV0ZXUGlqcElmZkJrUUhCWXVLQWdoOWlwc21iNW1xczE0LUNFZEJ6alY5S1NHMFVMdDBWQjFEY09rUGRkQVZvZW13ZDBJR3JENE56U19uQW1TSXFDc3dSMjZNNTdnU0FYUFVPSGpOVXZoOGxOUWdaQXVTYXFVZ1ZUaG50aWpoV3dTRHlnZzVmTmFIbkxqZ2hIeF9xa0FPVHdaendRdWRkcmZNdldWSW03WkxLSkJwb3pkSDhDWWlYMWdLbVhndXVuU3ZBbHFueUZLR184bmHSAeoBQVVfeXFMT0I5THNvZmFzRnJWUUIwQVJvVmUzemk3UGdkQ0p3bVBCYWVZZUZRZHFaVWtCU1o5WkJvYXE4eGZOTlZWaFVVNXBBR01mWS1ZbG1zYktUcUlWVGUxR0pVNmdIVkw5NVpDUVdDNG05VXJlR05LS094NG42Vi1UTUxTY0FpNTV1QVF1YjlrVXE2Y2NPVl91eHdKWHllN1gtVEZOeDFXOU5SbFk4Vk5RT0dnd083YlkyaGlXWUhCY2h2ekJQNEQ1SDA0b3o5bTRoSFotVHFKRXNXU2ZWbHgyNmNSdFcwWk1uNU0yNWd3?oc=5",
-      "source": "Google News:NESR",
+      "symbol": "BILI",
+      "short": "BILI — Bilibili Inc. Announces Completion of US$500 Million Marketed Convertible Senior Notes …",
+      "detail": "BILI\n重點：新聞\n標題：Bilibili Inc. Announces Completion of US$500 Million Marketed Convertible Senior Notes Offering, Concurrent Equity Placement and Concurrent Delta Repurchase\n摘要：SHANGHAI, Sept. 09, 2026 (GLOBE NEWSWIRE) -- Bilibili Inc. (“Bilibili” or the “Company”) (Nasdaq: BILI and HKEX: 9626), an iconic brand and a leading video community for young generations in China, today announced the completion of its previously announced offering (the “Markete…\n來源：Yahoo Finance:BILI",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bilibili-inc-announces-completion-us-110300644.html?.tsrc=rss",
+      "source": "Yahoo Finance:BILI",
       "kind": "news"
     }
   ]
