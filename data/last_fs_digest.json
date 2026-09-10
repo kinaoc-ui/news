@@ -1,115 +1,115 @@
 {
-  "title": "FS新聞 09-10 09:22",
-  "list_name": "FirstScreen_2026-09-10_092241_comma.txt",
-  "created_at": "2026-09-10T09:22:54.484079+00:00",
+  "title": "FS新聞 09-10 14:10",
+  "list_name": "FirstScreen_2026-09-10_141017_comma.txt",
+  "created_at": "2026-09-10T14:10:27.286147+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "CRM",
-      "short": "CRM — Ameritas Advisory Services LLC Raises Stock Holdings in Salesforce Inc. $CRM - MarketBe…",
-      "detail": "CRM\n重點：新聞\n標題：Ameritas Advisory Services LLC Raises Stock Holdings in Salesforce Inc. $CRM - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRmc1b1NaRnZUaG9LV08xc0luYlpCaDhWOERxTUp4eXBuS1FUZ0p3SEFDODBfaWJnTV85TUJITW9xeER2Y21DTjNUX1RNMDV1bnJ5ejZNWUZpb281R0FCWEl0Mmc0dnNxWWlWWlRkcW1zQ0lIdVlad0kyT2FIbFcxSEt4SmZDVklsMTNPZ1B4WW40RmJzSTZrWEhNcHEzTFpXaS1QNUd6bjlDd…\n來源：Google News:CRM\n其他：Salesforce Sees AI Agents Transforming Slack and Driving Pr…",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRmc1b1NaRnZUaG9LV08xc0luYlpCaDhWOERxTUp4eXBuS1FUZ0p3SEFDODBfaWJnTV85TUJITW9xeER2Y21DTjNUX1RNMDV1bnJ5ejZNWUZpb281R0FCWEl0Mmc0dnNxWWlWWlRkcW1zQ0lIdVlad0kyT2FIbFcxSEt4SmZDVklsMTNPZ1B4WW40RmJzSTZrWEhNcHEzTFpXaS1QNUd6bjlDdVJZbWZqX3VZR19xVUZ2anRUSHI3ejAtN25zZkxMdjN1MVlYMTZW?oc=5",
-      "source": "Google News:CRM",
+      "symbol": "ADT",
+      "short": "ADT — ADT Inc's Dividend Analysis",
+      "detail": "ADT\n重點：新聞\n標題：ADT Inc's Dividend Analysis\n摘要：This article first appeared on GuruFocus. ADT Inc (NYSE:ADT) recently announced a total dividend of $0.06 per share, with the ex-dividend date set for 2026-09-10. This amount consists entirely of a $0.06 per share cash dividend, which is payable on 2026-10-01.\n來源：Yahoo Finance:ADT\n其他：VIRGINIA RETIREMENT SYSTEMS ET Al Invests $3.65 Million in …; Hsbc Holdings PLC Lowers Stock Position in ADT Inc. $ADT - …",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adt-incs-dividend-analysis-111500553.html?.tsrc=rss",
+      "source": "Yahoo Finance:ADT",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "LULU",
-      "short": "LULU — Baird Financial Group Inc. Acquires 28,643 Shares of lululemon athletica inc. $LULU - M…",
-      "detail": "LULU\n重點：新聞\n標題：Baird Financial Group Inc. Acquires 28,643 Shares of lululemon athletica inc. $LULU - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFc4VGFQcVR2MTJtNm5fSGJmNnBZZTF6RTEtd0wxaFpSZHpxdk9FYUlFY2VLaHZiUlpKdlpvTUFNRW13QjVUNVBVWEFQb2JXMUYwUkJ6MHNVcUNYRnU1Z3pJN2dJVWdSU0VDcDFhd0dud2F6bW16eDU1Ulp6RDRVbGw3b2pfbGRUYThRdnFyQmV3RHU0eE93a2tIR0FBYXFaV2FobnkzUmxVU…\n來源：Google News:LULU\n其他：lululemon athletica (NASDAQ:LULU) Sets New 52-Week Low on A…",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFc4VGFQcVR2MTJtNm5fSGJmNnBZZTF6RTEtd0wxaFpSZHpxdk9FYUlFY2VLaHZiUlpKdlpvTUFNRW13QjVUNVBVWEFQb2JXMUYwUkJ6MHNVcUNYRnU1Z3pJN2dJVWdSU0VDcDFhd0dud2F6bW16eDU1Ulp6RDRVbGw3b2pfbGRUYThRdnFyQmV3RHU0eE93a2tIR0FBYXFaV2FobnkzUmxVUTlCcUZOOUdyV0w1WFpBNFNfOW5FRmtxUmRoUWo0TW41eVdvaTVOSnl4UHUwMA?oc=5",
-      "source": "Google News:LULU",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "MDT",
-      "short": "MDT — VIRGINIA RETIREMENT SYSTEMS ET Al Invests $4.09 Million in Medtronic PLC $MDT - MarketB…",
-      "detail": "MDT\n重點：新聞\n標題：VIRGINIA RETIREMENT SYSTEMS ET Al Invests $4.09 Million in Medtronic PLC $MDT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa2pEbGp1WGk5VEN1QTc0Z2tMNHJ3NHIwYXdFbzJpbUtpcUVqcDZERjhKdVQ0TmhiQk9DbFRxYlFmdTJiNG5GTUEtOTBKMkdsR216NjlPZElIQzB2QlpsaF9sVEFpSWNyaFhOYXgtV3p0OTk5Y01oemhnbkVBcXV6RU9MRDRYdTMybnpqOUwyTTNaT2RNeGhFNVlLMG1vUHI4UHZrZ2dlYmZfQ…\n來源：Google News:MDT\n其他：Medtronic’s (MDT) Heart Devices Are Suddenly Outgrowing The…",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa2pEbGp1WGk5VEN1QTc0Z2tMNHJ3NHIwYXdFbzJpbUtpcUVqcDZERjhKdVQ0TmhiQk9DbFRxYlFmdTJiNG5GTUEtOTBKMkdsR216NjlPZElIQzB2QlpsaF9sVEFpSWNyaFhOYXgtV3p0OTk5Y01oemhnbkVBcXV6RU9MRDRYdTMybnpqOUwyTTNaT2RNeGhFNVlLMG1vUHI4UHZrZ2dlYmZfQVcwendqWUdDaHdtREh3X3lpVnczWlZjVkZFOEw4NEQyNU1jWE4t?oc=5",
-      "source": "Google News:MDT",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "ADT",
-      "short": "ADT — Hsbc Holdings PLC Lowers Stock Position in ADT Inc. $ADT - MarketBeat",
-      "detail": "ADT\n重點：新聞\n標題：Hsbc Holdings PLC Lowers Stock Position in ADT Inc. $ADT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQRzBCVm05bUhLV3BLb0dNQlFNX0VOY2RUcHoyZTk4bDlaRE02VGZQb0hYRW40YW1KcHVybVEwTDJKT0dIVE0xSFpRN1Q5RWlSSV90X0xRTEFTbjl3eVItREdHSmFoMG50UVkzMjhXeTA0Y2xNdVlQRHJyQ0RCMUFUTUZ4U2c1WjN5Q3JHZkV3WWY5X3VYWnl0bWRRVmx4TWxNcWpPeldzSi1nS…\n來源：Google News:ADT",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRzBCVm05bUhLV3BLb0dNQlFNX0VOY2RUcHoyZTk4bDlaRE02VGZQb0hYRW40YW1KcHVybVEwTDJKT0dIVE0xSFpRN1Q5RWlSSV90X0xRTEFTbjl3eVItREdHSmFoMG50UVkzMjhXeTA0Y2xNdVlQRHJyQ0RCMUFUTUZ4U2c1WjN5Q3JHZkV3WWY5X3VYWnl0bWRRVmx4TWxNcWpPeldzSi1nSmxfODBCNlNwUUp6UQ?oc=5",
-      "source": "Google News:ADT",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "AEO",
-      "short": "AEO — 業績／指引：American Eagle Outfitters Inc (AEO) (Q2 2026) Earnings Call Highlights: Aerie's 25% Sur…",
-      "detail": "AEO\n重點：業績／指引\n標題：American Eagle Outfitters Inc (AEO) (Q2 2026) Earnings Call Highlights: Aerie's 25% Surge and ...\n摘要：American Eagle Outfitters Inc (AEO) posted 8% revenue growth and a 980-basis-point gross margin expansion, but trimmed full-year guidance as the American Eagle brand struggles to find its footing.\n來源：Yahoo Finance:AEO",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/american-eagle-outfitters-inc-aeo-090042555.html?.tsrc=rss",
-      "source": "Yahoo Finance:AEO",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "BNY",
-      "short": "BNY — 32,561 Shares in Bank of New York Mellon Corporation $BNY Purchased by Allworth Financi…",
-      "detail": "BNY\n重點：新聞\n標題：32,561 Shares in Bank of New York Mellon Corporation $BNY Purchased by Allworth Financial LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMDdfQ1pqRFFTSGJHaEYyNVBhNVR5OUhKUkQ5SWFERXNLWXIyZHNzdFV2ajAwalA1Wk9DTGdXWjg0RThqeUNKZ1VjLWk4bFZJVm4tRjN1WEpkbUZnVHVlQ1BpMlF3SHpUOTBxSzZtMklTaG5zN09ubW5mMlhQWmd5YWxBS0s2eDBydkNKZjQ5LTE2RE1oQWJQT0t6S1g3STQ3SlpZYk93cmswV…\n來源：Google News:BNY",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMDdfQ1pqRFFTSGJHaEYyNVBhNVR5OUhKUkQ5SWFERXNLWXIyZHNzdFV2ajAwalA1Wk9DTGdXWjg0RThqeUNKZ1VjLWk4bFZJVm4tRjN1WEpkbUZnVHVlQ1BpMlF3SHpUOTBxSzZtMklTaG5zN09ubW5mMlhQWmd5YWxBS0s2eDBydkNKZjQ5LTE2RE1oQWJQT0t6S1g3STQ3SlpZYk93cmswVXFyVnYwaHFlX2EtVWpJZVFkY243Tlhla2hmUGlRcmZZbUd2dlo1TXJ3eXB1Y3ZZY3B3NjdOXzVQWmF1UQ?oc=5",
-      "source": "Google News:BNY",
-      "kind": "news"
-    },
-    {
-      "n": 7,
       "symbol": "COO",
-      "short": "COO — 業績／指引：The Cooper Companies Inc (COO) (Q3 2026) Earnings Call Highlights: Record Cash Flow and…",
-      "detail": "COO\n重點：業績／指引\n標題：The Cooper Companies Inc (COO) (Q3 2026) Earnings Call Highlights: Record Cash Flow and a $307 ...\n摘要：The Cooper Companies Inc (COO) beat earnings for the 11th straight quarter with record free cash flow of $273 million, but proactive U.S. channel destocking and a looming tax hike cloud fiscal 2027.\n來源：Yahoo Finance:COO",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cooper-companies-inc-coo-q3-090022969.html?.tsrc=rss",
+      "short": "COO — Cooper Stock Heads For 52-Week Low After Q3 Miss, Multiple Downgrades – Analyst Sees 'L…",
+      "detail": "COO\n重點：新聞\n標題：Cooper Stock Heads For 52-Week Low After Q3 Miss, Multiple Downgrades – Analyst Sees 'Limited Near-Term Appeal'\n摘要：According to TheFly, Baird flagged the company’s increasingly challenging margin leverage heading into fiscal 2027, saying it limits COO stock's near-term appeal\n來源：Yahoo Finance:COO\n其他：Update: Cooper Shares Fall Pre-Bell After Fiscal Q3 Sales M…; The Cooper Companies Inc (COO) (Q3 2026) Earnings Call High…",
+      "url": "https://stocktwits.com/news-articles/markets/equity/cooper-stock-heads-for-52-week-low-after-q3-miss-multiple-downgrades-analyst-sees-limited-near-term-appeal/cZta7hWRJCF?.tsrc=rss",
       "source": "Yahoo Finance:COO",
       "kind": "news"
     },
     {
+      "n": 3,
+      "symbol": "AEO",
+      "short": "AEO — Telsey Advisory Group Issues Pessimistic Forecast for American Eagle Outfitters (NYSE:A…",
+      "detail": "AEO\n重點：新聞\n標題：Telsey Advisory Group Issues Pessimistic Forecast for American Eagle Outfitters (NYSE:AEO) Stock Price - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQmFqVUhHWUlEYzRWWFkybnpHS0pmQjZnenYwZVFYa0kwU0Y5NWdWNktRdXkxV3l6QVJrOXV0ZEZ6MFVudktlY1F4ZW9wdENiTnVQSWx5WUVDYldWay1QV3hmbjRObFg5Vmk1Rkw2WXRZNzY0MWZhdHBLTjhXMS1mWnVkUlliM3Z4VXRNSmczVWh5Q2ZCaXpPMTNSczg5TTZ2S0JMVUgzOGtlU…\n來源：Google News:AEO\n其他：American Eagle Outfitters Inc (AEO) (Q2 2026) Earnings Call…",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQmFqVUhHWUlEYzRWWFkybnpHS0pmQjZnenYwZVFYa0kwU0Y5NWdWNktRdXkxV3l6QVJrOXV0ZEZ6MFVudktlY1F4ZW9wdENiTnVQSWx5WUVDYldWay1QV3hmbjRObFg5Vmk1Rkw2WXRZNzY0MWZhdHBLTjhXMS1mWnVkUlliM3Z4VXRNSmczVWh5Q2ZCaXpPMTNSczg5TTZ2S0JMVUgzOGtlUmtabExaNlB5V2lHRW1ZZWRwYzEzeUxsWmN6QUxLN3lNaTF1LVdOLU5qQUo1c08yNEtvUkhLQWJXR2pNM2dBcnRvcDliTXd1WE1v?oc=5",
+      "source": "Google News:AEO",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "BNY",
+      "short": "BNY — 15,113 Shares in Bank of New York Mellon Corporation $BNY Bought by IPG Investment Advi…",
+      "detail": "BNY\n重點：新聞\n標題：15,113 Shares in Bank of New York Mellon Corporation $BNY Bought by IPG Investment Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV0FFVnp1dTU2cFdVWTdtZmZ1ejdzdkJVU3huSVdfaTZwcVBxZUtneE5tQ0NabHhWTVVPTnA1S2F4SnZyaE94d0ZEeFFSLXBXYm84SkRBU3FtMFBkRTYwMDlTTzREeV84ZlpqOFd2TUVTN01WOGRncDE2cUZrUHVrai00MVJzN2NJRWtMd3drdkJMd3g4OFJuRkd2TC1vblh5WF9GdWNzME96V…\n來源：Google News:BNY\n其他：32,561 Shares in Bank of New York Mellon Corporation $BNY P…",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV0FFVnp1dTU2cFdVWTdtZmZ1ejdzdkJVU3huSVdfaTZwcVBxZUtneE5tQ0NabHhWTVVPTnA1S2F4SnZyaE94d0ZEeFFSLXBXYm84SkRBU3FtMFBkRTYwMDlTTzREeV84ZlpqOFd2TUVTN01WOGRncDE2cUZrUHVrai00MVJzN2NJRWtMd3drdkJMd3g4OFJuRkd2TC1vblh5WF9GdWNzME96V0dQQ01odUJfeVFBSU5NNF9sMjRROUhHRGVkSmJCRjh4SVMtcGljbm95Tm1hQWtXTmdMX3BfM3VDeW9DUTNKcHc?oc=5",
+      "source": "Google News:BNY",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "CRM",
+      "short": "CRM — AI相關、併購／交易：Salesforce Completes Acquisition of Fin",
+      "detail": "CRM\n重點：AI相關、併購／交易\n標題：Salesforce Completes Acquisition of Fin\n摘要：SAN FRANCISCO, September 10, 2026--Salesforce (NYSE: CRM), the world’s #1 AI CRM, today announced it has completed its acquisition of Fin, formerly Intercom, an industry-leading customer agent company. The close of the acquisition brings Fin’s customer agent platform and world-c…\n來源：Yahoo Finance:CRM\n其他：National Pension Service Sells 106,284 Shares of Salesforce…",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-completes-acquisition-fin-130000261.html?.tsrc=rss",
+      "source": "Yahoo Finance:CRM",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "LNG",
+      "short": "LNG — Sequoia Financial Advisors LLC Acquires 6,366 Shares of Cheniere Energy, Inc. $LNG - Ma…",
+      "detail": "LNG\n重點：新聞\n標題：Sequoia Financial Advisors LLC Acquires 6,366 Shares of Cheniere Energy, Inc. $LNG - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPekR1M0VzNnRESUJhZnEyNXNfUzJPdFFqdVhxd1huTE9IdXFKaExpSTM1b0dBb2I0bnlucHhzZk81RG01RlRXQWw1eC1SVHNBN3NwVzh3TWhsWkhnamlkbko4a3hockZQUm82em5JY1BkS2lOdExtRkYzVTY0X1ZvRHlPY0VjV1ZJR3U3N2hxQWFTSGtuRl9rWjBjNTRBTzBWQ0ZwWGV1cDJOW…\n來源：Google News:LNG\n其他：Engineers Gate Manager LP Acquires 141,173 Shares of Chenie…",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPekR1M0VzNnRESUJhZnEyNXNfUzJPdFFqdVhxd1huTE9IdXFKaExpSTM1b0dBb2I0bnlucHhzZk81RG01RlRXQWw1eC1SVHNBN3NwVzh3TWhsWkhnamlkbko4a3hockZQUm82em5JY1BkS2lOdExtRkYzVTY0X1ZvRHlPY0VjV1ZJR3U3N2hxQWFTSGtuRl9rWjBjNTRBTzBWQ0ZwWGV1cDJOWVNhMThGN2VPT2ZBUUdkLTJiTUozaHI4SHktQ3A5ODdQcE9GZWdhaDNLM29B?oc=5",
+      "source": "Google News:LNG",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "MDT",
+      "short": "MDT — Keystone Financial Planning Inc. Purchases Shares of 126,411 Medtronic PLC $MDT - Marke…",
+      "detail": "MDT\n重點：新聞\n標題：Keystone Financial Planning Inc. Purchases Shares of 126,411 Medtronic PLC $MDT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVFhxWHhwcnRxTXRLVm05Znp0MlJyU2FUWktVX0wySGZpMld2dnBNaUdSaG9SVjJ6TmtvUTVfTkJYd0dCRmN0Q1NEQ0s3RWpvLVljNXFnaTMzaGtHSzdpMjdPV2xZNzhCb3I1aVhRa2lXclgxQVpyMEw4NnY1OFA5aXJfUUZSU194TEJqbGF3OWpOOGtxVUstaE12djRQNVhsZXdqakpnRndXX…\n來源：Google News:MDT\n其他：VIRGINIA RETIREMENT SYSTEMS ET Al Invests $4.09 Million in …",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVFhxWHhwcnRxTXRLVm05Znp0MlJyU2FUWktVX0wySGZpMld2dnBNaUdSaG9SVjJ6TmtvUTVfTkJYd0dCRmN0Q1NEQ0s3RWpvLVljNXFnaTMzaGtHSzdpMjdPV2xZNzhCb3I1aVhRa2lXclgxQVpyMEw4NnY1OFA5aXJfUUZSU194TEJqbGF3OWpOOGtxVUstaE12djRQNVhsZXdqakpnRndXX0psbkpRT0NhVThSRWNkTVZ0Y01qMjJmSmVLUjFQU3ZubUdad0dPWTNr?oc=5",
+      "source": "Google News:MDT",
+      "kind": "news"
+    },
+    {
       "n": 8,
-      "symbol": "GEN",
-      "short": "GEN — Amundi Sells 826,732 Shares of Gen Digital Inc. $GEN - MarketBeat",
-      "detail": "GEN\n重點：新聞\n標題：Amundi Sells 826,732 Shares of Gen Digital Inc. $GEN - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNc05Qc3pSZGNiVU85RnVfMzAySEYwblU3WGVpQVJ3ajFTUHp5ckdPZGJkaXlJN3k5Nmx5WWVNZnVIcXZzbnVKVWt4SXhiS3B5TXRSanV4SktXYWlFc3hVbjVjZ0lSdDJsQ3FxeWJfMVpWOVBxLVdTaWRoRE5aM0IzNnFqdXJ6RGZ1NVh4bUVIbEQzdUZneU9tdXA4eGEwbVBfV2t4bW9meFZLS…\n來源：Google News:GEN",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc05Qc3pSZGNiVU85RnVfMzAySEYwblU3WGVpQVJ3ajFTUHp5ckdPZGJkaXlJN3k5Nmx5WWVNZnVIcXZzbnVKVWt4SXhiS3B5TXRSanV4SktXYWlFc3hVbjVjZ0lSdDJsQ3FxeWJfMVpWOVBxLVdTaWRoRE5aM0IzNnFqdXJ6RGZ1NVh4bUVIbEQzdUZneU9tdXA4eGEwbVBfV2t4bW9meFZLS19HNG5Z?oc=5",
-      "source": "Google News:GEN",
+      "symbol": "OKTA",
+      "short": "OKTA — Junto Capital Management LP Takes Position in Okta, Inc. $OKTA - MarketBeat",
+      "detail": "OKTA\n重點：新聞\n標題：Junto Capital Management LP Takes Position in Okta, Inc. $OKTA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQZG9XTnRFbjJTRE5vaTBncWNfZEEzNTdkcGd0aE5jMTFLbW0wMF9qbFNHRG9CbjNFaGNUckppUFVzQkVsc1J5UTNReVEzWEhVOEV1ZDYzQ3RpdktJa3FjZXFPbl82YW1XdXRRU0JZWnQyS0JEZV9Kdy1jNDJTb3pRbkNTd2VVb0daX29qNzFEQlVEazYzVV83SlpBNkVDTUVFTDNwV3NqUzhQS…\n來源：Google News:OKTA\n其他：California State Teachers Retirement System Purchases 36,01…",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZG9XTnRFbjJTRE5vaTBncWNfZEEzNTdkcGd0aE5jMTFLbW0wMF9qbFNHRG9CbjNFaGNUckppUFVzQkVsc1J5UTNReVEzWEhVOEV1ZDYzQ3RpdktJa3FjZXFPbl82YW1XdXRRU0JZWnQyS0JEZV9Kdy1jNDJTb3pRbkNTd2VVb0daX29qNzFEQlVEazYzVV83SlpBNkVDTUVFTDNwV3NqUzhQS3NCYVZfWmFNRUJDWXJpVS1jZQ?oc=5",
+      "source": "Google News:OKTA",
       "kind": "news"
     },
     {
       "n": 9,
-      "symbol": "GGB",
-      "short": "GGB — Engineers Gate Manager LP Acquires 3,890,093 Shares of Gerdau S.A. $GGB - MarketBeat",
-      "detail": "GGB\n重點：新聞\n標題：Engineers Gate Manager LP Acquires 3,890,093 Shares of Gerdau S.A. $GGB - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNc3pUd21VWDRqY0szSzJjTXo2QVptRUplZ256ZGREY1U2N0xfb2pSbXBpaXNXeGNtTll2clVzSDZHd2swalNYUmFyZ1NDSVVmUjV2ZjVIQ21rYVFlekZqcWFCT0I4S3d5dDlQWXN1R3RsSzRaM3pmZnF3dUpvMEhTMm03Nmw0V2l5TE9XblFYTzAyLVBzVFJXU2c4eEw5S0F0a01aekFMZUtpe…\n來源：Google News:GGB",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc3pUd21VWDRqY0szSzJjTXo2QVptRUplZ256ZGREY1U2N0xfb2pSbXBpaXNXeGNtTll2clVzSDZHd2swalNYUmFyZ1NDSVVmUjV2ZjVIQ21rYVFlekZqcWFCT0I4S3d5dDlQWXN1R3RsSzRaM3pmZnF3dUpvMEhTMm03Nmw0V2l5TE9XblFYTzAyLVBzVFJXU2c4eEw5S0F0a01aekFMZUtpeURpam8yQmlHYTVfMXpVWXVBRmpacmx2SnJ0M1E?oc=5",
-      "source": "Google News:GGB",
+      "symbol": "TTE",
+      "short": "TTE — Tidal Investments LLC Decreases Stock Position in TotalEnergies SE Sponsored ADR $TTE -…",
+      "detail": "TTE\n重點：新聞\n標題：Tidal Investments LLC Decreases Stock Position in TotalEnergies SE Sponsored ADR $TTE - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcU1PVDBjMVRmbk5WQ1ZRQVdQUFBGb3N4Zl9kN29hRzQ3eVdmcXRVNC1hMmpURUVZdVl3MGtIRmliQ1FQdTVLR2JBbE43alJZOEtYSC1mdS1Pd1l4dWdqSzVfdnI4c0xPSG1lRXY1eEFLMDZWc2pqbTBXMlF4cFg2YnQ4U2hmQmgxcmpGbXNpR0FsbzltWVZYd1ZJQ3NVU1NXOVRhUDJvYi1MQ…\n來源：Google News:TTE\n其他：Exploration in Angola: TotalEnergies Announces a New Discov…",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcU1PVDBjMVRmbk5WQ1ZRQVdQUFBGb3N4Zl9kN29hRzQ3eVdmcXRVNC1hMmpURUVZdVl3MGtIRmliQ1FQdTVLR2JBbE43alJZOEtYSC1mdS1Pd1l4dWdqSzVfdnI4c0xPSG1lRXY1eEFLMDZWc2pqbTBXMlF4cFg2YnQ4U2hmQmgxcmpGbXNpR0FsbzltWVZYd1ZJQ3NVU1NXOVRhUDJvYi1MQ0ZudEJGVXhtaWZ0MkVVaV9EZVh0RktfLW5IVzVzaHUtVE9tZEtYa2FEZE12bDBXMkF5dmc?oc=5",
+      "source": "Google News:TTE",
       "kind": "news"
     },
     {
       "n": 10,
-      "symbol": "HCA",
-      "short": "HCA — HCA Healthcare, Inc. $HCA is Darsana Capital Partners LP's 6th Largest Position - Marke…",
-      "detail": "HCA\n重點：新聞\n標題：HCA Healthcare, Inc. $HCA is Darsana Capital Partners LP's 6th Largest Position - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQW5JRXNwQUhuY2ZKcXV0djlqd1AtVXdlMnBxVHFXdVNPMFhLWGVjNmluNUROY01LN0FVT2h4M0ZOM3I5c2RrVlhlZjVabkkzZmVEdnB3Zm1YU0VjZUlqcm05OG1DSjFsbjFkYjMySEpXQkRwZlRuU215UlpYc013TmQ4QXRrZXF6a2l2aUFKZFhLQUxROFUzdGdXd0thWkJTQjVEWVBRYjN5W…\n來源：Google News:HCA",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQW5JRXNwQUhuY2ZKcXV0djlqd1AtVXdlMnBxVHFXdVNPMFhLWGVjNmluNUROY01LN0FVT2h4M0ZOM3I5c2RrVlhlZjVabkkzZmVEdnB3Zm1YU0VjZUlqcm05OG1DSjFsbjFkYjMySEpXQkRwZlRuU215UlpYc013TmQ4QXRrZXF6a2l2aUFKZFhLQUxROFUzdGdXd0thWkJTQjVEWVBRYjN5WkpHWnBza0FsaDlqRVRoS1ZxbmY5YUVKOVo0cjRpM3ptellmSjJZU2c?oc=5",
-      "source": "Google News:HCA",
+      "symbol": "URBN",
+      "short": "URBN — 業績／指引：Are Investors Undervaluing Urban Outfitters (URBN) Right Now?",
+      "detail": "URBN\n重點：業績／指引\n標題：Are Investors Undervaluing Urban Outfitters (URBN) Right Now?\n摘要：Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.\n來源：Yahoo Finance:URBN\n其他：Engineers Gate Manager LP Buys 290,698 Shares of Urban Outf…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-urban-outfitters-urbn-134003801.html?.tsrc=rss",
+      "source": "Yahoo Finance:URBN",
       "kind": "news"
     },
     {
       "n": 11,
-      "symbol": "INTU",
-      "short": "INTU — HighTower Advisors LLC Cuts Stock Position in Intuit Inc. $INTU - MarketBeat",
-      "detail": "INTU\n重點：新聞\n標題：HighTower Advisors LLC Cuts Stock Position in Intuit Inc. $INTU - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQTjZXajQweGtSS3pvTl84MFRvaW15eUlOc0J0RFZfMTFScXNyZkpkNjRMWDdDVDc1Y25pM1UyUnJjMkhVSERpeTJ0cDd5OGZvTXFVaVdBSUlGY1E1dUFYWjlMLUExWFdIVEN3UUE1UGZ4Z19qZHVUdGhaZl9ZWm8xQXZ1ek92dkpNdzV5OFAwaWNTT25Zd29kQnlzNWN5ZENueVo4YmJudjNKS…\n來源：Google News:INTU",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTjZXajQweGtSS3pvTl84MFRvaW15eUlOc0J0RFZfMTFScXNyZkpkNjRMWDdDVDc1Y25pM1UyUnJjMkhVSERpeTJ0cDd5OGZvTXFVaVdBSUlGY1E1dUFYWjlMLUExWFdIVEN3UUE1UGZ4Z19qZHVUdGhaZl9ZWm8xQXZ1ek92dkpNdzV5OFAwaWNTT25Zd29kQnlzNWN5ZENueVo4YmJudjNKSVhqbTNSNWRhWnFUeHRld2QyOHFDMA?oc=5",
-      "source": "Google News:INTU",
+      "symbol": "A",
+      "short": "A — AI相關、業績／指引：Oracle options are doing something curious heading into earnings",
+      "detail": "A\n重點：AI相關、業績／指引\n標題：Oracle options are doing something curious heading into earnings\n摘要：If ever there were a stock that captured the hopes and fear of the AI trade, it's Oracle.\n來源：CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/oracle-options-are-doing-something-curious-heading-into-earnings.html",
+      "source": "CNBC Markets",
       "kind": "news"
     },
     {
       "n": 12,
-      "symbol": "LNG",
-      "short": "LNG — Engineers Gate Manager LP Acquires 141,173 Shares of Cheniere Energy, Inc. $LNG - Marke…",
-      "detail": "LNG\n重點：新聞\n標題：Engineers Gate Manager LP Acquires 141,173 Shares of Cheniere Energy, Inc. $LNG - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0lTbHlaNUhDaDFtWmJVWmZYU0JDZDZWVjJ6ZkVOdU1qeF9mMnlLU2Z5ZHR2TzFCbWtlc3pBSUU1RFQ1SWhyTnZGODFsUTVGOEdoMGFxMXhBLWVrSTdzTlAwakFjUFU1elEteUVPcjlOMXNuTXZ6M3JFRHhRUkJZaVU5NzNQaTgzMUhtS1o2dWdNNExWYk5LN3h3RjJjVEhvNVptU0s4cy1tO…\n來源：Google News:LNG",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0lTbHlaNUhDaDFtWmJVWmZYU0JDZDZWVjJ6ZkVOdU1qeF9mMnlLU2Z5ZHR2TzFCbWtlc3pBSUU1RFQ1SWhyTnZGODFsUTVGOEdoMGFxMXhBLWVrSTdzTlAwakFjUFU1elEteUVPcjlOMXNuTXZ6M3JFRHhRUkJZaVU5NzNQaTgzMUhtS1o2dWdNNExWYk5LN3h3RjJjVEhvNVptU0s4cy1tOWFCb2VJdTFmdEdrSEk1Y25mLUpwTzBsZ0ZGdGI0Z1BtU2tDVDN4Nnc?oc=5",
-      "source": "Google News:LNG",
+      "symbol": "BTG",
+      "short": "BTG — B2Gold Corp's Dividend Analysis",
+      "detail": "BTG\n重點：新聞\n標題：B2Gold Corp's Dividend Analysis\n摘要：This article first appeared on GuruFocus. B2Gold Corp (BTG) recently announced a total dividend of $0.02 per share, with the ex-dividend date set for 2026-09-10. As investors look forward to this upcoming payment, the spotlight also shines on the company's dividend history, yiel…\n來源：Yahoo Finance:BTG",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/b2gold-corps-dividend-analysis-111301975.html?.tsrc=rss",
+      "source": "Yahoo Finance:BTG",
       "kind": "news"
     }
   ]
