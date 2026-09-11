@@ -1,29 +1,83 @@
 {
-  "title": "FS新聞 09-11 04:54",
-  "list_name": "FirstScreen_2026-09-11_045419_comma.txt",
-  "created_at": "2026-09-11T04:54:28.179963+00:00",
+  "title": "FS新聞 09-11 09:21",
+  "list_name": "FirstScreen_2026-09-11_092051_comma.txt",
+  "created_at": "2026-09-11T09:21:00.571116+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "MDT",
+      "short": "MDT — Engineers Gate Manager LP Buys 164,637 Shares of Medtronic PLC $MDT - MarketBeat",
+      "detail": "MDT\n重點：新聞\n標題：Engineers Gate Manager LP Buys 164,637 Shares of Medtronic PLC $MDT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlBjRE0zR0FraGt0S19vUFhmV1hVREJDbTVTUkxTREVTTWFZbFFrZlJPamIyOC1jYklET1ZLVlZUejYyOGNMUnRFRzh4T1VuSHFKc0c5d0ZNZ2k0N21zRWdHRDJlTXdWSkhOTGtadGEzREtCbUFROURHRTQ5d044WWc1R3BZcUR5eXdtRmhEWVBJLWNSdTQzSmpJSU9VZnBBSkFEeldGbHpNR…\n來源：Google News:MDT\n其他：National Pension Service Buys 83,277 Shares of Medtronic PL…",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlBjRE0zR0FraGt0S19vUFhmV1hVREJDbTVTUkxTREVTTWFZbFFrZlJPamIyOC1jYklET1ZLVlZUejYyOGNMUnRFRzh4T1VuSHFKc0c5d0ZNZ2k0N21zRWdHRDJlTXdWSkhOTGtadGEzREtCbUFROURHRTQ5d044WWc1R3BZcUR5eXdtRmhEWVBJLWNSdTQzSmpJSU9VZnBBSkFEeldGbHpNRHRlNUhGSHJNTGFzQnBlZW96TEc4Zk5OMkhB?oc=5",
+      "source": "Google News:MDT",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "MRK",
+      "short": "MRK — Merck & Co., Inc. (NYSE:MRK) Given Consensus Rating of \"Moderate Buy\" by Brokerages - M…",
+      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. (NYSE:MRK) Given Consensus Rating of \"Moderate Buy\" by Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTGJDcWFqaXQ2VHVaVHFFQjFHMjRSQW9CZC1kUmJPU2ZjOXNQUjFqOGhtZ05iQm9taDBIMHJseU1YWkZsQVQtcnRBamFqUWluUUZoSFVUdUEzRlZwTXVLdDY2WkJlQW9OdkZ3dWlEaC1NY3lVTWV1OEVES0xwdDlYNTRVSXBUWmR1WnM2RFVZbzhPM2xfYjhybi1XNlJ0dDFWR01rZjRCaHViZ…\n來源：Google News:MRK\n其他：Rep. Maria Elvira Salazar Buys Merck & Co., Inc. (NYSE:MRK)…",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTGJDcWFqaXQ2VHVaVHFFQjFHMjRSQW9CZC1kUmJPU2ZjOXNQUjFqOGhtZ05iQm9taDBIMHJseU1YWkZsQVQtcnRBamFqUWluUUZoSFVUdUEzRlZwTXVLdDY2WkJlQW9OdkZ3dWlEaC1NY3lVTWV1OEVES0xwdDlYNTRVSXBUWmR1WnM2RFVZbzhPM2xfYjhybi1XNlJ0dDFWR01rZjRCaHViZE03Z01BRzQwd1FjWEQtVGUtVFBYRENtby1ZM2hrN3lMWXhmdXZlV2dfRA?oc=5",
+      "source": "Google News:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "TGT",
+      "short": "TGT — National Pension Service Grows Holdings in Target Corporation $TGT - MarketBeat",
+      "detail": "TGT\n重點：新聞\n標題：National Pension Service Grows Holdings in Target Corporation $TGT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3hseGt5TjNBYzFra0JodWlVTXkyNXI5MzJuUkM4YkR5OWROOUNhQ01RRXYxV3Z3WGtBVnUzazJ2YVNwb0xIOGV1TVBfb214OS1JYXlGN1hoNEJqUXNaWE5rY0dxTFVRZVVaQ3Q1SnZ0eE1LNjB0UWM3T3doekp0a2hHVXFDQ3NsUXE5c0NNRk1ncElGLWlibGtqMTdQejJ2WDFFNVdPMmdfd…\n來源：Google News:TGT\n其他：Baird Financial Group Inc. Acquires 80,646 Shares of Target…",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3hseGt5TjNBYzFra0JodWlVTXkyNXI5MzJuUkM4YkR5OWROOUNhQ01RRXYxV3Z3WGtBVnUzazJ2YVNwb0xIOGV1TVBfb214OS1JYXlGN1hoNEJqUXNaWE5rY0dxTFVRZVVaQ3Q1SnZ0eE1LNjB0UWM3T3doekp0a2hHVXFDQ3NsUXE5c0NNRk1ncElGLWlibGtqMTdQejJ2WDFFNVdPMmdfdW9pRVRXREVhX0tLSU1tMVBDZnJpcGNDaU0x?oc=5",
+      "source": "Google News:TGT",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "A",
+      "short": "A — 業績／指引：We Ran A Stock Scan For Earnings Growth And Oron Group Investments & Holdings (TLV:ORON…",
+      "detail": "A\n重點：業績／指引\n標題：We Ran A Stock Scan For Earnings Growth And Oron Group Investments & Holdings (TLV:ORON) Passed With Ease - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMFhYZk9OZWFuSTB6OHFIcjN3SDNvdU5zTVhMTldBVFZNaFRKdDBHYkJ6aDVZcEh2R25TM09ocWtQOE1kRjY5RWVoczZLNFBZV2xTaXpndzlodzdsbVBJWTdTSEFRUTBtSWNsLXZWVVdOUHhTWndCcmFJVWxTTS1Ld0Y2MmU5aEpvNzRXRUhFemNDQ2RnbUloNmdCUC1kLUFSVDR0RUlSYmVyY…\n來源：Google News:A",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMFhYZk9OZWFuSTB6OHFIcjN3SDNvdU5zTVhMTldBVFZNaFRKdDBHYkJ6aDVZcEh2R25TM09ocWtQOE1kRjY5RWVoczZLNFBZV2xTaXpndzlodzdsbVBJWTdTSEFRUTBtSWNsLXZWVVdOUHhTWndCcmFJVWxTTS1Ld0Y2MmU5aEpvNzRXRUhFemNDQ2RnbUloNmdCUC1kLUFSVDR0RUlSYmVyY2puT3dGVmNBVW84U1VZOFAyQ2RJOGpkOUx4dU5iendoSERmYUJxXzVYYmwwd3pMRDdjX1VtRUdwTkswX3pfa0FVc0ltWS1mQdIB9wFBVV95cUxNSGJnOF9lTjYwYkJuaUNCM1JQdkYxVVpHSFZjQWVrVmRvX2tJM3V6WW4wY2hCdlZzNUl6ZHNQaXVNT2E5bi1pVTlwdGNkMlljcWJBb2VtY2hoempDQ1B0WlBxZDNhVHhmQ2hPMFB5TElvWTExVmUxZF9CU093eDQtQm9XUG0xdVNFb2JZZ1lueTFRNEpsZ3UxLXExeDhfR0pIWUFHVDhTLV9nVFluaVFydGJvcTUxMTU0QTdaQklqdDdzVExrS25TUGsyeE9ZOUFMLS1UYmd5Nkcyd3RhdkNyQjJUajIwN25aM3U2WDZzME9UZXRmc1Vj?oc=5",
+      "source": "Google News:A",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "ADT",
+      "short": "ADT — ADT Inc. $ADT Stake Cut by Squarepoint Ops LLC - MarketBeat",
+      "detail": "ADT\n重點：新聞\n標題：ADT Inc. $ADT Stake Cut by Squarepoint Ops LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbF9OLXpJU2tTVC1kd0FIblhuYXRxYWlkaW02LTEtUWl3eU9WLVBsSHUtUXZJY0ZnREdRT1JRSnI3clYySENxNG9MWUQyaDRwVzU3TGs1MGFUWGRqeVM5M193VnBFeDdaUGR5U0xaaWx4bmlqN2FTYnZhc214MENDc1FSaDg4SFcwNloxM0VvVnBzcDdsQ1ZUd2lsSnZEVV9fMUVwWnc3MHQ?o…\n來源：Google News:ADT",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbF9OLXpJU2tTVC1kd0FIblhuYXRxYWlkaW02LTEtUWl3eU9WLVBsSHUtUXZJY0ZnREdRT1JRSnI3clYySENxNG9MWUQyaDRwVzU3TGs1MGFUWGRqeVM5M193VnBFeDdaUGR5U0xaaWx4bmlqN2FTYnZhc214MENDc1FSaDg4SFcwNloxM0VvVnBzcDdsQ1ZUd2lsSnZEVV9fMUVwWnc3MHQ?oc=5",
+      "source": "Google News:ADT",
+      "kind": "news"
+    },
+    {
+      "n": 6,
       "symbol": "AEO",
       "short": "AEO — 業績／指引：AEO Q2 Deep Dive: Tariff Refunds Boost Margins, Aerie Outpaces American Eagle",
-      "detail": "AEO\n重點：業績／指引\n標題：AEO Q2 Deep Dive: Tariff Refunds Boost Margins, Aerie Outpaces American Eagle\n摘要：Young adult apparel retailer American Eagle Outfitters (NYSE:AEO) beat Wall Street’s revenue expectations in Q2 CY2026, with sales up 7.5% year on year to $1.38 billion. Its non-GAAP profit of $0.79 per share was significantly above analysts’ consensus estimates.\n來源：Yahoo Finance:AEO\n其他：Why American Eagle (AEO) Shares Are Plunging Today; American Eagle (NYSE:AEO) Stock Crashes 14% Despite a Huge …",
+      "detail": "AEO\n重點：業績／指引\n標題：AEO Q2 Deep Dive: Tariff Refunds Boost Margins, Aerie Outpaces American Eagle\n摘要：Young adult apparel retailer American Eagle Outfitters (NYSE:AEO) beat Wall Street’s revenue expectations in Q2 CY2026, with sales up 7.5% year on year to $1.38 billion. Its non-GAAP profit of $0.79 per share was significantly above analysts’ consensus estimates.\n來源：Yahoo Finance:AEO",
       "url": "https://finance.yahoo.com/markets/stocks/articles/aeo-q2-deep-dive-tariff-014504654.html?.tsrc=rss",
       "source": "Yahoo Finance:AEO",
       "kind": "news"
     },
     {
-      "n": 2,
-      "symbol": "EL",
-      "short": "EL — 併購／交易：EL Stock Soars After Hours: Estée Lauder Ends Acquisition Talks With Spain's Puig - Sto…",
-      "detail": "EL\n重點：併購／交易\n標題：EL Stock Soars After Hours: Estée Lauder Ends Acquisition Talks With Spain's Puig - Stocktwits\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLUY4bDBDRUZGcWJEaVM3NzdadkRQWDBxSllOdUt5UHdaUlRQeVQxMHB1clNSZl9sMTZCM1JzakRjNGw2VXlyZDUzZmZySFJEYWV4RkR6MUxFdUlyUk1jcnduZU1KTDVOX3owMHBKRDdtekFybXVqQURXMmtFU1g0VFpyRmZQa0JDWlRuMTI0YV9oRk5xdzhnSDQyenZIYjRUY0lZMFdHQmhmS…\n來源：Google News:EL\n其他：Estee Lauder Companies (NYSE:EL) Director Sells 3,775 Share…",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLUY4bDBDRUZGcWJEaVM3NzdadkRQWDBxSllOdUt5UHdaUlRQeVQxMHB1clNSZl9sMTZCM1JzakRjNGw2VXlyZDUzZmZySFJEYWV4RkR6MUxFdUlyUk1jcnduZU1KTDVOX3owMHBKRDdtekFybXVqQURXMmtFU1g0VFpyRmZQa0JDWlRuMTI0YV9oRk5xdzhnSDQyenZIYjRUY0lZMFdHQmhmSEswR1ZpT2NyWnBFak5ZLWNPWkZiNkhnemhzLVV5dGZVNUlFNFlhdndkUzFmalBzbXpG?oc=5",
-      "source": "Google News:EL",
+      "n": 7,
+      "symbol": "BNY",
+      "short": "BNY — 57,020 Shares in Bank of New York Mellon Corporation $BNY Acquired by Integrated Wealth…",
+      "detail": "BNY\n重點：新聞\n標題：57,020 Shares in Bank of New York Mellon Corporation $BNY Acquired by Integrated Wealth Concepts LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLUJUOXVhbk5nU0E1RC0yMkJ4RkNGS2Z4YWYzY2tHUHJnVnRMNDFBZVFEWFJfTFhJaFp1cUQ3T2ZibEhKQ0FxSEZacGtrQTdLVW52VkRRWUtaT0JpQnQybS1mamZyUXBEeC1YX29lekZ0TENwcEFZMlVvdlVYOGcxNHZPVDJRSVU3S2g4NW1vQ0d3U2ptV0hqNnNWQWhlTk85NjQ4eEs0VHNtU…\n來源：Google News:BNY",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLUJUOXVhbk5nU0E1RC0yMkJ4RkNGS2Z4YWYzY2tHUHJnVnRMNDFBZVFEWFJfTFhJaFp1cUQ3T2ZibEhKQ0FxSEZacGtrQTdLVW52VkRRWUtaT0JpQnQybS1mamZyUXBEeC1YX29lekZ0TENwcEFZMlVvdlVYOGcxNHZPVDJRSVU3S2g4NW1vQ0d3U2ptV0hqNnNWQWhlTk85NjQ4eEs0VHNtU3VhbXNLRWFyTHNiQlhPRmFsZFh4MFhLRG9BRVNmSWdndjM3U0ZHeUhLTVV5emZ6S3ZLNTdHWnE1MlV5b2t3dHNDN0NYLXY?oc=5",
+      "source": "Google News:BNY",
       "kind": "news"
     },
     {
-      "n": 3,
+      "n": 8,
+      "symbol": "BXSL",
+      "short": "BXSL — Blackstone Secured Lending Fund (NYSE:BXSL) Trading Down 0.8% - What's Next? - MarketBe…",
+      "detail": "BXSL\n重點：新聞\n標題：Blackstone Secured Lending Fund (NYSE:BXSL) Trading Down 0.8% - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGFmaXo2WWxtNEMyZngtLVZYekZxM0xMd2cycFU3UDNtbUFjSDBYNlJMenZFSFEybms5QTVYZXFFV2RuTE9YdmotMGJ6RHJ0OWhZbE81U0JxZzVfQnRSbFludVVkR2p3NGJhdXhhVWVfTGxXX1J4bU5wVzZEanpJR1FOWlBtXzlzLTVxWlVKOGJUczNqd1ZZYS1vMTBONFBBY2JubFhDUHZhO…\n來源：Google News:BXSL",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGFmaXo2WWxtNEMyZngtLVZYekZxM0xMd2cycFU3UDNtbUFjSDBYNlJMenZFSFEybms5QTVYZXFFV2RuTE9YdmotMGJ6RHJ0OWhZbE81U0JxZzVfQnRSbFludVVkR2p3NGJhdXhhVWVfTGxXX1J4bU5wVzZEanpJR1FOWlBtXzlzLTVxWlVKOGJUczNqd1ZZYS1vMTBONFBBY2JubFhDUHZhOTR1WDU2cm1jTkdlS0pyUnljdXZaTjB5d0prMkk0?oc=5",
+      "source": "Google News:BXSL",
+      "kind": "news"
+    },
+    {
+      "n": 9,
       "symbol": "COO",
       "short": "COO — 業績／指引：COO Q2 Deep Dive: Inventory Actions and Strategic Review Shape Guidance",
       "detail": "COO\n重點：業績／指引\n標題：COO Q2 Deep Dive: Inventory Actions and Strategic Review Shape Guidance\n摘要：Medical device company CooperCompanies (NASDAQ:COO) missed Wall Street’s revenue expectations in Q2 CY2026, with sales flat year on year at $1.07 billion. The company’s full-year revenue guidance of $4.24 billion at the midpoint came in 1.5% below analysts’ estimates. Its non-GA…\n來源：Yahoo Finance:COO",
@@ -32,30 +86,30 @@
       "kind": "news"
     },
     {
-      "n": 4,
-      "symbol": "LULU",
-      "short": "LULU — 業績／指引：Lululemon (NASDAQ:LULU) Slides To Multi-Year Lows After Sharp Earnings Miss - Kalkine M…",
-      "detail": "LULU\n重點：業績／指引\n標題：Lululemon (NASDAQ:LULU) Slides To Multi-Year Lows After Sharp Earnings Miss - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOLXdma2VZTGJXMUxRUlpvTHV2MzNINFVkSzROYXJBeGhBUXZoajRfQVNkRUs0Z1Z1VHZ5aDdGdnFPWDA2WlFGV04wVFpYeWVJUkpjVWljMl80a1EwQWduWm1xc1cxR3NjZWlWYVVpWThWNjJUYXdUYkV6YzRSNEtlMmtUQXZmcFlOZ2o3LUZrNjNhWml6amNZUFNwU1Nzcmp3Nmg0T1lWVXNLQ…\n來源：Google News:LULU",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLXdma2VZTGJXMUxRUlpvTHV2MzNINFVkSzROYXJBeGhBUXZoajRfQVNkRUs0Z1Z1VHZ5aDdGdnFPWDA2WlFGV04wVFpYeWVJUkpjVWljMl80a1EwQWduWm1xc1cxR3NjZWlWYVVpWThWNjJUYXdUYkV6YzRSNEtlMmtUQXZmcFlOZ2o3LUZrNjNhWml6amNZUFNwU1Nzcmp3Nmg0T1lWVXNLQlU2MkE4aEMzcHI?oc=5",
-      "source": "Google News:LULU",
+      "n": 10,
+      "symbol": "CRM",
+      "short": "CRM — AI相關：Is Salesforce (CRM)’s Agentforce Growth Enough to Outpace F5 (FFIV)’s AI Security Momen…",
+      "detail": "CRM\n重點：AI相關\n標題：Is Salesforce (CRM)’s Agentforce Growth Enough to Outpace F5 (FFIV)’s AI Security Momentum?\n來源：Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-agentforce-growth-enough-215747965.html",
+      "source": "Yahoo Finance",
       "kind": "news"
     },
     {
-      "n": 5,
-      "symbol": "MDT",
-      "short": "MDT — 業績／指引：Medtronic (MDT) Stock Looks Cheap on Cash Flow as Earnings Stay Strong - simplywall.st",
-      "detail": "MDT\n重點：業績／指引\n標題：Medtronic (MDT) Stock Looks Cheap on Cash Flow as Earnings Stay Strong - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQRzF4VlY1RmtyV25SMmlXcGI0TnFLbC04ZzRfSi12TE1EZFNQZE51bnlwaG1VeWdGX3I2Y01LaEExeVhGRlhmQjdfY3R4VnZDYUFiQW5WYXI5YTgwekdqOTVXNmJUekw5bThjMlQxVFdZM1RvRkFfdFlHUkVxYWhKRGtra3JvTlZfQzg3SWZoSjhJZEUxV3BrZTR0UURTc01wb2toV0J4bkt4c…\n來源：Google News:MDT",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRzF4VlY1RmtyV25SMmlXcGI0TnFLbC04ZzRfSi12TE1EZFNQZE51bnlwaG1VeWdGX3I2Y01LaEExeVhGRlhmQjdfY3R4VnZDYUFiQW5WYXI5YTgwekdqOTVXNmJUekw5bThjMlQxVFdZM1RvRkFfdFlHUkVxYWhKRGtra3JvTlZfQzg3SWZoSjhJZEUxV3BrZTR0UURTc01wb2toV0J4bkt4cDhhWU00VFJBZ3BCZ2RvYW9sRDJWNXNtc3IwdkZDWFNaMNIBywFBVV95cUxQRzF4VlY1RmtyV25SMmlXcGI0TnFLbC04ZzRfSi12TE1EZFNQZE51bnlwaG1VeWdGX3I2Y01LaEExeVhGRlhmQjdfY3R4VnZDYUFiQW5WYXI5YTgwekdqOTVXNmJUekw5bThjMlQxVFdZM1RvRkFfdFlHUkVxYWhKRGtra3JvTlZfQzg3SWZoSjhJZEUxV3BrZTR0UURTc01wb2toV0J4bkt4cDhhWU00VFJBZ3BCZ2RvYW9sRDJWNXNtc3IwdkZDWFNaMA?oc=5",
-      "source": "Google News:MDT",
+      "n": 11,
+      "symbol": "DEO",
+      "short": "DEO — Diageo plc (NYSE:DEO) Given Average Recommendation of \"Hold\" by Brokerages - MarketBeat",
+      "detail": "DEO\n重點：新聞\n標題：Diageo plc (NYSE:DEO) Given Average Recommendation of \"Hold\" by Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGhDMnc1aENQdG40b3BLZl9CYWtvVVRIdHU0SmxhQ1lMa1k2RlVCZmZxaEhyVm9YNmxxX1VGQnc2ZFJxRlI0Wl9Kb1pER3BNMjdnUWgyNTk0Zkc0NkZMbTRmMHRHNFZyMWRGSmVZUmJRWnFmRjVQRGVQVVVJSVpobnByaDRQZnJhNFRSYUxRSzZwZHM3M2J3NmVFYUxLYi1BSmhwNXprQ3gte…\n來源：Google News:DEO",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGhDMnc1aENQdG40b3BLZl9CYWtvVVRIdHU0SmxhQ1lMa1k2RlVCZmZxaEhyVm9YNmxxX1VGQnc2ZFJxRlI0Wl9Kb1pER3BNMjdnUWgyNTk0Zkc0NkZMbTRmMHRHNFZyMWRGSmVZUmJRWnFmRjVQRGVQVVVJSVpobnByaDRQZnJhNFRSYUxRSzZwZHM3M2J3NmVFYUxLYi1BSmhwNXprQ3gtekVpRjF1VlRHTVQ5MEh1MnJMeVAtbm5DWTNXZUJhWjV4V1pOdVU?oc=5",
+      "source": "Google News:DEO",
       "kind": "news"
     },
     {
-      "n": 6,
-      "symbol": "ROKU",
-      "short": "ROKU — 併購／交易：Roku (NASDAQ:ROKU): Media Merger Advances As Broader Tech Names Slip - Kalkine Media",
-      "detail": "ROKU\n重點：併購／交易\n標題：Roku (NASDAQ:ROKU): Media Merger Advances As Broader Tech Names Slip - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdTh1SzRnOVJ5aGpjZUZzVkwxRFRyelJuNGxJSWVCeFV3emtJNUtJRTR4VWl6MEpHajlqQ3JSdlR5RUJORHJDVVNBRkJCeTA1YjlkcVB2RjNsREdIR1ZSLU1ZSkl6cEo2S1JfdUc3bkZHRkt4VW85OFhGYnhLck9aNUx1Z09XeWNNYkNvZzYzblJJdmVIekhtbkhUZGRGNThzSVl0aE1RTU95U…\n來源：Google News:ROKU",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdTh1SzRnOVJ5aGpjZUZzVkwxRFRyelJuNGxJSWVCeFV3emtJNUtJRTR4VWl6MEpHajlqQ3JSdlR5RUJORHJDVVNBRkJCeTA1YjlkcVB2RjNsREdIR1ZSLU1ZSkl6cEo2S1JfdUc3bkZHRkt4VW85OFhGYnhLck9aNUx1Z09XeWNNYkNvZzYzblJJdmVIekhtbkhUZGRGNThzSVl0aE1RTU95UQ?oc=5",
-      "source": "Google News:ROKU",
+      "n": 12,
+      "symbol": "EL",
+      "short": "EL — The Estee Lauder Companies Inc. (NYSE:EL) Receives Average Rating of \"Hold\" from Broker…",
+      "detail": "EL\n重點：新聞\n標題：The Estee Lauder Companies Inc. (NYSE:EL) Receives Average Rating of \"Hold\" from Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeThMdGZYTUpOcF93RE1jUTl5NmR5aUl6OU1wcTFEMkdaMUh2M2tsVDZtVVRMVFVMeGNCY3NjTi1lREUwME9YdkY4MkVJRFI4SGMtcXZubUc3b0ktcHhqTmxfWF93Z1VkVFhTSE11Q1c2QVZtQzJDNi1hVld4b1Z0eXJiUHpmYTFUckFBME9UU0s3bFlWS0EzMDFlTnBvSU5kanU5VHRWOHVKV…\n來源：Google News:EL",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeThMdGZYTUpOcF93RE1jUTl5NmR5aUl6OU1wcTFEMkdaMUh2M2tsVDZtVVRMVFVMeGNCY3NjTi1lREUwME9YdkY4MkVJRFI4SGMtcXZubUc3b0ktcHhqTmxfWF93Z1VkVFhTSE11Q1c2QVZtQzJDNi1hVld4b1Z0eXJiUHpmYTFUckFBME9UU0s3bFlWS0EzMDFlTnBvSU5kanU5VHRWOHVKV3VIMW1rR2xlVW1qVE5YN1ZyWHBJb3RtR2ZPdHZwMl9ZeTRnOVY2VWFwd0pNakxHSDRIcUtoZEtLVWY?oc=5",
+      "source": "Google News:EL",
       "kind": "news"
     }
   ]
