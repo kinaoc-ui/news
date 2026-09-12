@@ -1,115 +1,52 @@
 {
-  "title": "FS新聞 09-11 14:09",
-  "list_name": "FirstScreen_2026-09-11_140945_comma.txt",
-  "created_at": "2026-09-11T14:09:55.397346+00:00",
+  "title": "FS新聞 09-12 04:46",
+  "list_name": "FirstScreen_2026-09-12_044650_comma.txt",
+  "created_at": "2026-09-12T04:46:58.349405+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "AEO",
-      "short": "AEO — American Eagle Outfitters (NYSE:AEO) Rating Increased to Strong-Buy at Zacks Research -…",
-      "detail": "AEO\n重點：新聞\n標題：American Eagle Outfitters (NYSE:AEO) Rating Increased to Strong-Buy at Zacks Research - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYjJuWnBMS3p2Qk1XS0hab0NGUk1DU1ppMUl3Mk9GRi1jWjZfZFlObWYxcDZQNDJOZ0E5M3ZZQTNRTjItUVlSLTJWU3RDNjBWcG5XeUxlZmQwaWUxVkJvZ2NlVHlPUUY2SVAwdGstNzdGck1hdmdEMkZkdlozRjYyS19FOE9xRW1Fd0plaWlqM005Mm5OdEpWQWdEZENMV1Jva3Z3cWRCaWY2V…\n來源：Google News:AEO\n其他：American Eagle Outfitters (NYSE:AEO) Upgraded by BMO Capita…",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYjJuWnBMS3p2Qk1XS0hab0NGUk1DU1ppMUl3Mk9GRi1jWjZfZFlObWYxcDZQNDJOZ0E5M3ZZQTNRTjItUVlSLTJWU3RDNjBWcG5XeUxlZmQwaWUxVkJvZ2NlVHlPUUY2SVAwdGstNzdGck1hdmdEMkZkdlozRjYyS19FOE9xRW1Fd0plaWlqM005Mm5OdEpWQWdEZENMV1Jva3Z3cWRCaWY2VF80X3YxOWNzc180X3lZQkRUai1rMTB1VG1LdDlCUXRyR2pNODl5Ti1WSUFVSlYyMU8xNGc?oc=5",
-      "source": "Google News:AEO",
+      "symbol": "CRM",
+      "short": "CRM — AI相關：CRM Stock Breaks Nine-Day Losing Streak — Salesforce Acquires AI Customer Service Platf…",
+      "detail": "CRM\n重點：AI相關\n標題：CRM Stock Breaks Nine-Day Losing Streak — Salesforce Acquires AI Customer Service Platform For $3.6B - Stocktwits\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOTVjYzV6U0sxckJjanRiT0pndk41QnRBbXhvVFlHanJQbGZHN3l6ZnV5amZKTjd3NE01eVRlZ0ljSXR3LTJaNkFkM0tVT2NBRHp5NGlpUG5hUmhPRmRvbzRrcXJwWERfdVdYUnhmTkxnQlpwSWh5RE84anpyWW1yaXh4cXlMMWVGMVVxdV9Kd28wdHdsNkhKSjJJUUNiOE1qZThrSmlmSDV3N…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOTVjYzV6U0sxckJjanRiT0pndk41QnRBbXhvVFlHanJQbGZHN3l6ZnV5amZKTjd3NE01eVRlZ0ljSXR3LTJaNkFkM0tVT2NBRHp5NGlpUG5hUmhPRmRvbzRrcXJwWERfdVdYUnhmTkxnQlpwSWh5RE84anpyWW1yaXh4cXlMMWVGMVVxdV9Kd28wdHdsNkhKSjJJUUNiOE1qZThrSmlmSDV3NzNIUXBLWDE5aE4yZDE5cFZnS3ZSdHFKd3V0WXdKNHVOUHlYenJIQUNMVU5Xdkc0d2ZaMEMzUTY5Q2tCR1ZTc25HWG8zekFVWnE1?oc=5",
+      "source": "Google News:CRM",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "INTU",
-      "short": "INTU — Intuit (NASDAQ:INTU) Given \"Outperform\" Rating at Royal Bank Of Canada - MarketBeat",
-      "detail": "INTU\n重點：新聞\n標題：Intuit (NASDAQ:INTU) Given \"Outperform\" Rating at Royal Bank Of Canada - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxONXNkQUlHQy14NDV0aWlOMjRXS1FyNGl0TDdwNkx2eEJJU096eDViTkd2WVZUMGRuaWJfNURuaUNPMFVja2xid3ZkX0RqYzE3UGM4dkJzR2JpTGJCMVBKNmpOTS0zTENCYk5OV2V1eTR1MjdzWW1BajVZLWladTBSQ0lHbm1kQWQ2S0JrbGtIekswU0lUcU9RZllYRGdiRXdmb21Fc3dTdVc0M…\n來源：Google News:INTU\n其他：Intuit Inc. $INTU Shares Purchased by National Pension Serv…",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONXNkQUlHQy14NDV0aWlOMjRXS1FyNGl0TDdwNkx2eEJJU096eDViTkd2WVZUMGRuaWJfNURuaUNPMFVja2xid3ZkX0RqYzE3UGM4dkJzR2JpTGJCMVBKNmpOTS0zTENCYk5OV2V1eTR1MjdzWW1BajVZLWladTBSQ0lHbm1kQWQ2S0JrbGtIekswU0lUcU9RZllYRGdiRXdmb21Fc3dTdVc0MlJQckpSbGIzVXhERlN0YjVRQ0R4ay15MDRnSFRJ?oc=5",
-      "source": "Google News:INTU",
+      "symbol": "LULU",
+      "short": "LULU — 業績／指引：Lululemon (LULU) Stock May Sit Above Fair Value On Cash Flow But Below Fair Value On Ea…",
+      "detail": "LULU\n重點：業績／指引\n標題：Lululemon (LULU) Stock May Sit Above Fair Value On Cash Flow But Below Fair Value On Earnings - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaERGYm40ZGdFZmFVSFlCVFo2M0NObVljQlNhZm56UklqODQwMElrVW9SUUliRjN1TTR1X2ROTUdiVFpTdXFLOWJ4b1lDNmhTdDFuNi1vYzNsT2UwbkJpYnQ5UlZydGdWU2RnXzdYZG9DQ1FuWk9mUVNGNHZnZHE1SEpwN2M0cVYyYlpPTktqRjRmTFMwRVJVWUpqd2d4aEg4NzIwbFdyS3ZCd…\n來源：Google News:LULU",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaERGYm40ZGdFZmFVSFlCVFo2M0NObVljQlNhZm56UklqODQwMElrVW9SUUliRjN1TTR1X2ROTUdiVFpTdXFLOWJ4b1lDNmhTdDFuNi1vYzNsT2UwbkJpYnQ5UlZydGdWU2RnXzdYZG9DQ1FuWk9mUVNGNHZnZHE1SEpwN2M0cVYyYlpPTktqRjRmTFMwRVJVWUpqd2d4aEg4NzIwbFdyS3ZCd0J1RWpQclZtaTZ2a0dCV2xNOHgydHkyNjBHbDBXZGYxb3g2SXhrcDlxN3M4Y3NEeWhad1kzTTFVN2tfUdIB5gFBVV95cUxPaERGYm40ZGdFZmFVSFlCVFo2M0NObVljQlNhZm56UklqODQwMElrVW9SUUliRjN1TTR1X2ROTUdiVFpTdXFLOWJ4b1lDNmhTdDFuNi1vYzNsT2UwbkJpYnQ5UlZydGdWU2RnXzdYZG9DQ1FuWk9mUVNGNHZnZHE1SEpwN2M0cVYyYlpPTktqRjRmTFMwRVJVWUpqd2d4aEg4NzIwbFdyS3ZCd0J1RWpQclZtaTZ2a0dCV2xNOHgydHkyNjBHbDBXZGYxb3g2SXhrcDlxN3M4Y3NEeWhad1kzTTFVN2tfUQ?oc=5",
+      "source": "Google News:LULU",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "MDT",
-      "short": "MDT — The Manufacturers Life Insurance Company Lowers Stock Holdings in Medtronic PLC $MDT - …",
-      "detail": "MDT\n重點：新聞\n標題：The Manufacturers Life Insurance Company Lowers Stock Holdings in Medtronic PLC $MDT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxORHB2OWNKZ0lPa1YxSGhOUnRna0M0TFVHS0s4eldJZDIwZVM1RnV6U0pzb3NlVmNuRnJoWnpZalBYdnZiTnhqMGFTUkx0eWZqcHNtdVJTaTQ1RDY3M2tLOUt3Zk5BY3RKdlhmclN2Y1k3M3B6STBzbm0zRFFIOXItdElrMTFfZl9XTzc3aDJ0bXRUbkpCY1Z5eHB3SktzYlpZajVxX2NQUk5Gd…\n來源：Google News:MDT\n其他：Tidal Investments LLC Purchases 43,207 Shares of Medtronic …",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORHB2OWNKZ0lPa1YxSGhOUnRna0M0TFVHS0s4eldJZDIwZVM1RnV6U0pzb3NlVmNuRnJoWnpZalBYdnZiTnhqMGFTUkx0eWZqcHNtdVJTaTQ1RDY3M2tLOUt3Zk5BY3RKdlhmclN2Y1k3M3B6STBzbm0zRFFIOXItdElrMTFfZl9XTzc3aDJ0bXRUbkpCY1Z5eHB3SktzYlpZajVxX2NQUk5Gd25DY0R3TXpUMDFCZ1NGN2E2dEhTN1oycHh5bFNMeXJNZVdFeXM5cHFtUjNkNTI2bld2?oc=5",
-      "source": "Google News:MDT",
+      "symbol": "MRK",
+      "short": "MRK — 7,741 Shares in Merck & Co., Inc. $MRK Bought by Talon Private Wealth LLC - MarketBeat",
+      "detail": "MRK\n重點：新聞\n標題：7,741 Shares in Merck & Co., Inc. $MRK Bought by Talon Private Wealth LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxORl9yZjRmeTlrZlhKNHU2TGJERTVYRkMzZWJta0dnYzFSaWQ2Rk92UEZyV3JtaW5DZldIYXBJOGhheWYxUG1MLW9QZWFucllqbU9DZlBmNnlFNUZpYzdxTWpVU2wzM3NGSFlFd3VKUU0tWlhXUEhyNmxNRFhoWVBzbEh2VHgzaGdWZC1aT3BVWWFETjU5NW9BeGtQTDl6eFRFd1h6NDQ4aHdvQ…\n來源：Google News:MRK",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORl9yZjRmeTlrZlhKNHU2TGJERTVYRkMzZWJta0dnYzFSaWQ2Rk92UEZyV3JtaW5DZldIYXBJOGhheWYxUG1MLW9QZWFucllqbU9DZlBmNnlFNUZpYzdxTWpVU2wzM3NGSFlFd3VKUU0tWlhXUEhyNmxNRFhoWVBzbEh2VHgzaGdWZC1aT3BVWWFETjU5NW9BeGtQTDl6eFRFd1h6NDQ4aHdvQkZUal9DZkE0cmdKTURrR1FwLTdoLVltaURXcmc?oc=5",
+      "source": "Google News:MRK",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "PYPL",
-      "short": "PYPL — 業績／指引：Spotting Winners: PayPal (NASDAQ:PYPL) And Diversified Financial Services Stocks In Q2",
-      "detail": "PYPL\n重點：業績／指引\n標題：Spotting Winners: PayPal (NASDAQ:PYPL) And Diversified Financial Services Stocks In Q2\n摘要：Looking back on diversified financial services stocks’ Q2 earnings, we examine this quarter’s best and worst performers, including PayPal (NASDAQ:PYPL) and its peers.\n來源：Yahoo Finance:PYPL\n其他：HighTower Advisors LLC Sells 39,705 Shares of PayPal Holdin…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spotting-winners-paypal-nasdaq-pypl-134705353.html?.tsrc=rss",
-      "source": "Yahoo Finance:PYPL",
+      "symbol": "NESR",
+      "short": "NESR — National Energy Services Reunited (NASDAQ:NESR) Director Mejia Antonio Campo Sells 63,3…",
+      "detail": "NESR\n重點：新聞\n標題：National Energy Services Reunited (NASDAQ:NESR) Director Mejia Antonio Campo Sells 63,324 Shares of Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUkFJSzZONzg4ZFVhaUNYZUFrQWhqQ2hXb09wdTJyWTRyLUl6czlDaTU3emRIQjFkLXdVX29DUllQYy02YXRpTWRqZGphR0Q4djRhU1FfSjRXOHM5TUNabjlUdjE2V3JJcVBNdXpHQWxtUUhidG5Qd0VBUkE3YXB6T0VFYkxVN05EbWNvaHBzVFVzUWNyQTJnWE1WWk1ILVBPWGFLZ1hRVEEyb…\n來源：Google News:NESR",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUkFJSzZONzg4ZFVhaUNYZUFrQWhqQ2hXb09wdTJyWTRyLUl6czlDaTU3emRIQjFkLXdVX29DUllQYy02YXRpTWRqZGphR0Q4djRhU1FfSjRXOHM5TUNabjlUdjE2V3JJcVBNdXpHQWxtUUhidG5Qd0VBUkE3YXB6T0VFYkxVN05EbWNvaHBzVFVzUWNyQTJnWE1WWk1ILVBPWGFLZ1hRVEEybjZLUXhPWG5CLVJPQmdyR1NCV2FaTVF2TG0tN3c3R01ueXpZYVBRTkpHdXlVaGlmYTA1eTJ0ZzVSaWNuWVdET2h3LThRMlNLNU5ZdkpN?oc=5",
+      "source": "Google News:NESR",
       "kind": "news"
     },
     {
       "n": 5,
       "symbol": "TGT",
-      "short": "TGT — National Pension Service Grows Holdings in Target Corporation $TGT - MarketBeat",
-      "detail": "TGT\n重點：新聞\n標題：National Pension Service Grows Holdings in Target Corporation $TGT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3hseGt5TjNBYzFra0JodWlVTXkyNXI5MzJuUkM4YkR5OWROOUNhQ01RRXYxV3Z3WGtBVnUzazJ2YVNwb0xIOGV1TVBfb214OS1JYXlGN1hoNEJqUXNaWE5rY0dxTFVRZVVaQ3Q1SnZ0eE1LNjB0UWM3T3doekp0a2hHVXFDQ3NsUXE5c0NNRk1ncElGLWlibGtqMTdQejJ2WDFFNVdPMmdfd…\n來源：Google News:TGT\n其他：Baird Financial Group Inc. Acquires 80,646 Shares of Target…",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3hseGt5TjNBYzFra0JodWlVTXkyNXI5MzJuUkM4YkR5OWROOUNhQ01RRXYxV3Z3WGtBVnUzazJ2YVNwb0xIOGV1TVBfb214OS1JYXlGN1hoNEJqUXNaWE5rY0dxTFVRZVVaQ3Q1SnZ0eE1LNjB0UWM3T3doekp0a2hHVXFDQ3NsUXE5c0NNRk1ncElGLWlibGtqMTdQejJ2WDFFNVdPMmdfdW9pRVRXREVhX0tLSU1tMVBDZnJpcGNDaU0x?oc=5",
-      "source": "Google News:TGT",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "URBN",
-      "short": "URBN — Urban Outfitters (NASDAQ:URBN) Upgraded at BMO Capital Markets - MarketBeat",
-      "detail": "URBN\n重點：新聞\n標題：Urban Outfitters (NASDAQ:URBN) Upgraded at BMO Capital Markets - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNNkgxZUdGTXl3T255bUo0cjBMZi1sRUc4bkVTa2t3MUlUc0tUd3FiOUs3NnhCd1g3WDV6Z0NPX1dnREZqQ2hscHFpTXZxM1NVSnd3V0ppbGJMMlJnMENNZzB0dWRHZXV0VnJmVVlGaF9FeWo0NFN2NHFEM3FSd3BSMlR0d0R1aU0tTlp2WGpPZmhpUDNnT2hKMklYdHoyWkZSazNFbUNMVmJtV…\n來源：Google News:URBN\n其他：Squarepoint Ops LLC Lowers Position in Urban Outfitters, In…",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNkgxZUdGTXl3T255bUo0cjBMZi1sRUc4bkVTa2t3MUlUc0tUd3FiOUs3NnhCd1g3WDV6Z0NPX1dnREZqQ2hscHFpTXZxM1NVSnd3V0ppbGJMMlJnMENNZzB0dWRHZXV0VnJmVVlGaF9FeWo0NFN2NHFEM3FSd3BSMlR0d0R1aU0tTlp2WGpPZmhpUDNnT2hKMklYdHoyWkZSazNFbUNMVmJtVm5qdkNaTk00akFWSzlIQXFZWnp5dw?oc=5",
-      "source": "Google News:URBN",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "ADT",
-      "short": "ADT — ADT Inc. $ADT Stake Cut by Squarepoint Ops LLC - MarketBeat",
-      "detail": "ADT\n重點：新聞\n標題：ADT Inc. $ADT Stake Cut by Squarepoint Ops LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbF9OLXpJU2tTVC1kd0FIblhuYXRxYWlkaW02LTEtUWl3eU9WLVBsSHUtUXZJY0ZnREdRT1JRSnI3clYySENxNG9MWUQyaDRwVzU3TGs1MGFUWGRqeVM5M193VnBFeDdaUGR5U0xaaWx4bmlqN2FTYnZhc214MENDc1FSaDg4SFcwNloxM0VvVnBzcDdsQ1ZUd2lsSnZEVV9fMUVwWnc3MHQ?o…\n來源：Google News:ADT",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbF9OLXpJU2tTVC1kd0FIblhuYXRxYWlkaW02LTEtUWl3eU9WLVBsSHUtUXZJY0ZnREdRT1JRSnI3clYySENxNG9MWUQyaDRwVzU3TGs1MGFUWGRqeVM5M193VnBFeDdaUGR5U0xaaWx4bmlqN2FTYnZhc214MENDc1FSaDg4SFcwNloxM0VvVnBzcDdsQ1ZUd2lsSnZEVV9fMUVwWnc3MHQ?oc=5",
-      "source": "Google News:ADT",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "ANET",
-      "short": "ANET — AI相關：Arista Networks Sees AI Demand Fueling 40% Growth, $9.6B in Supply Commitments",
-      "detail": "ANET\n重點：AI相關\n標題：Arista Networks Sees AI Demand Fueling 40% Growth, $9.6B in Supply Commitments\n摘要：Arista Networks (NYSE:ANET) executives outlined continued demand tied to artificial intelligence networking, a strengthening supply position and expanding opportunities beyond its largest hyperscale customers during Citi’s Global TMT Conference. Chief Financial Officer Chantelle…\n來源：Yahoo Finance:ANET",
-      "url": "https://www.marketbeat.com/instant-alerts/event-arista-networks-sees-ai-demand-fueling-40-growth-96b-in-supply-commitments-2026-09-11/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "Yahoo Finance:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "BNY",
-      "short": "BNY — 57,020 Shares in Bank of New York Mellon Corporation $BNY Acquired by Integrated Wealth…",
-      "detail": "BNY\n重點：新聞\n標題：57,020 Shares in Bank of New York Mellon Corporation $BNY Acquired by Integrated Wealth Concepts LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLUJUOXVhbk5nU0E1RC0yMkJ4RkNGS2Z4YWYzY2tHUHJnVnRMNDFBZVFEWFJfTFhJaFp1cUQ3T2ZibEhKQ0FxSEZacGtrQTdLVW52VkRRWUtaT0JpQnQybS1mamZyUXBEeC1YX29lekZ0TENwcEFZMlVvdlVYOGcxNHZPVDJRSVU3S2g4NW1vQ0d3U2ptV0hqNnNWQWhlTk85NjQ4eEs0VHNtU…\n來源：Google News:BNY",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLUJUOXVhbk5nU0E1RC0yMkJ4RkNGS2Z4YWYzY2tHUHJnVnRMNDFBZVFEWFJfTFhJaFp1cUQ3T2ZibEhKQ0FxSEZacGtrQTdLVW52VkRRWUtaT0JpQnQybS1mamZyUXBEeC1YX29lekZ0TENwcEFZMlVvdlVYOGcxNHZPVDJRSVU3S2g4NW1vQ0d3U2ptV0hqNnNWQWhlTk85NjQ4eEs0VHNtU3VhbXNLRWFyTHNiQlhPRmFsZFh4MFhLRG9BRVNmSWdndjM3U0ZHeUhLTVV5emZ6S3ZLNTdHWnE1MlV5b2t3dHNDN0NYLXY?oc=5",
-      "source": "Google News:BNY",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce Inc. $CRM Stake Raised by WINTON GROUP Ltd - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stake Raised by WINTON GROUP Ltd - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPSW9aMVl3MGstTDdpdE8yMlBYMmJTSTUwWmM4R2JfTTRKMFNuenV3NjFlWVlYMmN2ZXhVZWZ6MTJkSDBPeTBhN25zQU11Sk0zVzhUQWxpQWo0VlpyVVk2SUVoSnpqNzZFOTRUSHQ5VHFUN2wxSnJtdERpMl9KQ3ZEQ2tRdGFESU4wNDJGSGtoS1VUdE5sNDV2SkdMNERiVG5fbzVyS3I3NExxM…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSW9aMVl3MGstTDdpdE8yMlBYMmJTSTUwWmM4R2JfTTRKMFNuenV3NjFlWVlYMmN2ZXhVZWZ6MTJkSDBPeTBhN25zQU11Sk0zVzhUQWxpQWo0VlpyVVk2SUVoSnpqNzZFOTRUSHQ5VHFUN2wxSnJtdERpMl9KQ3ZEQ2tRdGFESU4wNDJGSGtoS1VUdE5sNDV2SkdMNERiVG5fbzVyS3I3NExxM2ZuMXhBbmtn?oc=5",
-      "source": "Google News:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "DEO",
-      "short": "DEO — Diageo plc (NYSE:DEO) Given Average Recommendation of \"Hold\" by Brokerages - MarketBeat",
-      "detail": "DEO\n重點：新聞\n標題：Diageo plc (NYSE:DEO) Given Average Recommendation of \"Hold\" by Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGhDMnc1aENQdG40b3BLZl9CYWtvVVRIdHU0SmxhQ1lMa1k2RlVCZmZxaEhyVm9YNmxxX1VGQnc2ZFJxRlI0Wl9Kb1pER3BNMjdnUWgyNTk0Zkc0NkZMbTRmMHRHNFZyMWRGSmVZUmJRWnFmRjVQRGVQVVVJSVpobnByaDRQZnJhNFRSYUxRSzZwZHM3M2J3NmVFYUxLYi1BSmhwNXprQ3gte…\n來源：Google News:DEO",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGhDMnc1aENQdG40b3BLZl9CYWtvVVRIdHU0SmxhQ1lMa1k2RlVCZmZxaEhyVm9YNmxxX1VGQnc2ZFJxRlI0Wl9Kb1pER3BNMjdnUWgyNTk0Zkc0NkZMbTRmMHRHNFZyMWRGSmVZUmJRWnFmRjVQRGVQVVVJSVpobnByaDRQZnJhNFRSYUxRSzZwZHM3M2J3NmVFYUxLYi1BSmhwNXprQ3gtekVpRjF1VlRHTVQ5MEh1MnJMeVAtbm5DWTNXZUJhWjV4V1pOdVU?oc=5",
-      "source": "Google News:DEO",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "EL",
-      "short": "EL — The Estee Lauder Companies Inc. (NYSE:EL) Receives Average Rating of \"Hold\" from Broker…",
-      "detail": "EL\n重點：新聞\n標題：The Estee Lauder Companies Inc. (NYSE:EL) Receives Average Rating of \"Hold\" from Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeThMdGZYTUpOcF93RE1jUTl5NmR5aUl6OU1wcTFEMkdaMUh2M2tsVDZtVVRMVFVMeGNCY3NjTi1lREUwME9YdkY4MkVJRFI4SGMtcXZubUc3b0ktcHhqTmxfWF93Z1VkVFhTSE11Q1c2QVZtQzJDNi1hVld4b1Z0eXJiUHpmYTFUckFBME9UU0s3bFlWS0EzMDFlTnBvSU5kanU5VHRWOHVKV…\n來源：Google News:EL",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeThMdGZYTUpOcF93RE1jUTl5NmR5aUl6OU1wcTFEMkdaMUh2M2tsVDZtVVRMVFVMeGNCY3NjTi1lREUwME9YdkY4MkVJRFI4SGMtcXZubUc3b0ktcHhqTmxfWF93Z1VkVFhTSE11Q1c2QVZtQzJDNi1hVld4b1Z0eXJiUHpmYTFUckFBME9UU0s3bFlWS0EzMDFlTnBvSU5kanU5VHRWOHVKV3VIMW1rR2xlVW1qVE5YN1ZyWHBJb3RtR2ZPdHZwMl9ZeTRnOVY2VWFwd0pNakxHSDRIcUtoZEtLVWY?oc=5",
-      "source": "Google News:EL",
+      "short": "TGT — Walmart and Target’s Shelves are Becoming a Battleground for Budget-Conscious Shoppers",
+      "detail": "TGT\n重點：新聞\n標題：Walmart and Target’s Shelves are Becoming a Battleground for Budget-Conscious Shoppers\n摘要：Shelf placement is becoming an increasingly important competitive weapon at Walmart Inc. (NYSE:WMT) and Target Corporation (NYSE:TGT). Haleon, the company behind Sensodyne, Advil, and Centrum, has negotiated more prominent positions at the two retailers by offering lower prices,…\n來源：Yahoo Finance:TGT",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-target-shelves-becoming-battleground-223132477.html?.tsrc=rss",
+      "source": "Yahoo Finance:TGT",
       "kind": "news"
     }
   ]
