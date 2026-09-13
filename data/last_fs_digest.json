@@ -1,115 +1,43 @@
 {
-  "title": "FS新聞 09-12 13:28",
-  "list_name": "FirstScreen_2026-09-12_132758_comma.txt",
-  "created_at": "2026-09-12T13:28:07.307465+00:00",
+  "title": "FS新聞 09-13 05:02",
+  "list_name": "FirstScreen_2026-09-13_050201_comma.txt",
+  "created_at": "2026-09-13T05:02:09.953856+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
       "symbol": "CRM",
-      "short": "CRM — AI相關：Jim Cramer Believes This Stock’s AI Products Have “Really Taken Off”",
-      "detail": "CRM\n重點：AI相關\n標題：Jim Cramer Believes This Stock’s AI Products Have “Really Taken Off”\n摘要：Salesforce, Inc. (NYSE:CRM)’s shares closed a whopping 22.6% higher on August 27th. The jump came after Cramer had maintained faith in the firm’s CEO, Marc Benioff, on multiple occasions. Salesforce, Inc. (NYSE:CRM)’s shares rose higher after the firm reported its second fiscal …\n來源：Yahoo Finance:CRM\n其他：CRM Stock Dips 2% — Salesforce Is Reportedly In Talks To Ac…",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-believes-stock-ai-105622520.html?.tsrc=rss",
+      "short": "CRM — AI相關、併購／交易：Salesforce Inc. (CRM)’s Potential Listen Labs Acquisition Could Boost Its Agentic AI St…",
+      "detail": "CRM\n重點：AI相關、併購／交易\n標題：Salesforce Inc. (CRM)’s Potential Listen Labs Acquisition Could Boost Its Agentic AI Strategy\n摘要：Salesforce Inc. (NYSE:CRM) continues to strengthen its enterprise artificial intelligence offering as it looks to make AI a larger part of its customer relationship management ecosystem. On September 9, reports emerged that the company is prepared to spend as much as $2 billion …\n來源：Yahoo Finance:CRM",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-inc-crm-potential-listen-220558304.html?.tsrc=rss",
       "source": "Yahoo Finance:CRM",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "EL",
-      "short": "EL — The Estee Lauder Companies Inc. $EL Shares Purchased by California State Teachers Retir…",
-      "detail": "EL\n重點：新聞\n標題：The Estee Lauder Companies Inc. $EL Shares Purchased by California State Teachers Retirement System - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRTEtLTFEYUhGSFNXeHdxVmFYYWJMVzdrcFVmSzhoTEFZRThZcUlxbnRMT3dXMDIyWU1yY0FCNXJOX1JFVVpQQzRjakREVG5tRTdfODA0eGMyU29jZHc4Y1EyMkh5TU5SYkFBOVJPOEhjWG4weVZTZXJmZVQ0cVJoR1ZrcHQ3Z2xBMXY1UVhtbXg2dlQ4QVdIUGJER1NuVUZhQkdhLV9vdm5xZ…\n來源：Google News:EL\n其他：Wall Street Zen Upgrades Estee Lauder Companies (NYSE:EL) t…",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRTEtLTFEYUhGSFNXeHdxVmFYYWJMVzdrcFVmSzhoTEFZRThZcUlxbnRMT3dXMDIyWU1yY0FCNXJOX1JFVVpQQzRjakREVG5tRTdfODA0eGMyU29jZHc4Y1EyMkh5TU5SYkFBOVJPOEhjWG4weVZTZXJmZVQ0cVJoR1ZrcHQ3Z2xBMXY1UVhtbXg2dlQ4QVdIUGJER1NuVUZhQkdhLV9vdm5xZ0E0c0lZczZlLXpHbWs0aTNEMURORVdqWXBHbEdRV2MzemdUejBsLWRBcjZ0c01Da2IyQlprSElQRDBPTU5mY014bmZnQQ?oc=5",
-      "source": "Google News:EL",
+      "symbol": "FTNT",
+      "short": "FTNT — AI相關：Fortinet Sees AI, Neocloud Buildout Fueling Network Security Demand",
+      "detail": "FTNT\n重點：AI相關\n標題：Fortinet Sees AI, Neocloud Buildout Fueling Network Security Demand\n摘要：Fortinet (NASDAQ:FTNT) executives said the cybersecurity company sees artificial intelligence as a growing source of demand for network security, particularly as enterprises and emerging “neocloud” providers build AI infrastructure and seek to protect machine-generated traffic. …\n來源：Yahoo Finance:FTNT",
+      "url": "https://www.marketbeat.com/instant-alerts/event-fortinet-sees-ai-neocloud-buildout-fueling-network-security-demand-2026-09-12/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance:FTNT",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "WFRD",
-      "short": "WFRD — Squarepoint Ops LLC Grows Position in Weatherford International PLC $WFRD - MarketBeat",
-      "detail": "WFRD\n重點：新聞\n標題：Squarepoint Ops LLC Grows Position in Weatherford International PLC $WFRD - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQMkhZWVZkd3ZlUjhUTFhvR191ZlJGdmdjUjFhSmtWWHNtOHpidXRRTGZfX1JqNklwWmJBZkU0a1JaX3FESEpqNlhSLS1SWWZmamJfVDBkcEtoZzNlVFAzQWFEWEJVak9uVVllbVA0NUZvTC0tRTVFaGF5N0RzdkFFVXRfVkw3OHV2ZEVnbFlzZ1BWUVdkWkxkMW56c2NFeWIxWjZOMnB2TEtfR…\n來源：Google News:WFRD\n其他：20,500 Shares in Weatherford International PLC $WFRD Bought…",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMkhZWVZkd3ZlUjhUTFhvR191ZlJGdmdjUjFhSmtWWHNtOHpidXRRTGZfX1JqNklwWmJBZkU0a1JaX3FESEpqNlhSLS1SWWZmamJfVDBkcEtoZzNlVFAzQWFEWEJVak9uVVllbVA0NUZvTC0tRTVFaGF5N0RzdkFFVXRfVkw3OHV2ZEVnbFlzZ1BWUVdkWkxkMW56c2NFeWIxWjZOMnB2TEtfRTF6WlR1VzVKZS1GWDZ0ekt2dWVnNGxycU9YQjcxSmdsNWFuUQ?oc=5",
-      "source": "Google News:WFRD",
+      "symbol": "MDT",
+      "short": "MDT — 業績／指引：Medtronic (MDT) Raised Full Year Guidance After Strong Q1 Growth - simplywall.st",
+      "detail": "MDT\n重點：業績／指引\n標題：Medtronic (MDT) Raised Full Year Guidance After Strong Q1 Growth - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNbXR1eWVna0pOYk1MY0Zkb05vRG9xSTdtYm1Kb21KVmFlYWlhZzc0VTFNRlZLR3AxUXdZSjdkZnpHVVhOaW9PaVRKYUR2S3g5QXRadU9IRTE2RjB6ZllobjBhdUE1RUxYdGZjX2FVUUVsenFuX3ZEVVV0azdiSTFlMzFtRXh4MTJFN05EN1QxTks4QVVLbWJ2MG8tNEtpU2I3cFFJV0FVRGpNR…\n來源：Google News:MDT",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbXR1eWVna0pOYk1MY0Zkb05vRG9xSTdtYm1Kb21KVmFlYWlhZzc0VTFNRlZLR3AxUXdZSjdkZnpHVVhOaW9PaVRKYUR2S3g5QXRadU9IRTE2RjB6ZllobjBhdUE1RUxYdGZjX2FVUUVsenFuX3ZEVVV0azdiSTFlMzFtRXh4MTJFN05EN1QxTks4QVVLbWJ2MG8tNEtpU2I3cFFJV0FVRGpNRm9XUkZqMUlrekQtN3RuVm1IdVJiX19BQTRaUnfSAcsBQVVfeXFMT0V0LTl2ejhjVk8wU041N2ZuRWZIc0p0dG5FVkszaHExel83QllDY1VEc0lVdE9RZWF5c0ZJSDduMWpINWNmaGN5c3ZCR1h4cktQZGV6NXZrbGdCV0ZqcUVOSkxIYnp1bENiTFcwSE82dDNtNTRXQXpQQVJkUGpUbm92eGtEMU83Y0hSWEE2emwtYmdFczBxLU9pT3dtbEJKM0tfbUFlMnRjaHlSdmtXTXJtLXY2U1hZZlN1ZzNVMGF1dHllTjJmX2tDNVk?oc=5",
+      "source": "Google News:MDT",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "ADT",
-      "short": "ADT — Amundi Acquires 1,475,926 Shares of ADT Inc. $ADT - MarketBeat",
-      "detail": "ADT\n重點：新聞\n標題：Amundi Acquires 1,475,926 Shares of ADT Inc. $ADT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHROS2gxaUI2NUpCVXluZjdLWnFLWjNmckJiOEoyX2h0R1RWd09Tb3VFU002U2lxMnEyZWRwd1phY3FRRFYxSGcyZU1xMDNjcjVmSWtoeXdMUWlheElvZnlLRjRQUjgzWnJoTDR6NTlUd2c1REZsMW9INTZrREhfeXlUT0hQb0Q5aW12ZGxNRDRQcXlLQ3pWSHg0al9oRTU4SWpwRTNjVGM4Z…\n來源：Google News:ADT",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHROS2gxaUI2NUpCVXluZjdLWnFLWjNmckJiOEoyX2h0R1RWd09Tb3VFU002U2lxMnEyZWRwd1phY3FRRFYxSGcyZU1xMDNjcjVmSWtoeXdMUWlheElvZnlLRjRQUjgzWnJoTDR6NTlUd2c1REZsMW9INTZrREhfeXlUT0hQb0Q5aW12ZGxNRDRQcXlLQ3pWSHg0al9oRTU4SWpwRTNjVGM4Zw?oc=5",
-      "source": "Google News:ADT",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "CARG",
-      "short": "CARG — 41,677 Shares in CarGurus, Inc. $CARG Bought by RFG Advisory LLC - MarketBeat",
-      "detail": "CARG\n重點：新聞\n標題：41,677 Shares in CarGurus, Inc. $CARG Bought by RFG Advisory LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPQnlRMWh5eFVJeW9wX2pNRnFoUWdIQnpvUGRsY3pYNUpVZUxpNUhWYm5kWXVuakVQeWp6WDVLVDc5cFIzdkRQQkhJY1M1Y2dSWjR6blk0M1RVeTR3MVBQcXFha3BHZmtfNF81eGNRcnd2bV9qUnpRNDZrWDJzOU9lTEdkNFlQQmJ4NFpXYXI2ZHoweHNFdlBkT1F6Nm5CRHNvNTgxbGpUREpzZ…\n來源：Google News:CARG",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQnlRMWh5eFVJeW9wX2pNRnFoUWdIQnpvUGRsY3pYNUpVZUxpNUhWYm5kWXVuakVQeWp6WDVLVDc5cFIzdkRQQkhJY1M1Y2dSWjR6blk0M1RVeTR3MVBQcXFha3BHZmtfNF81eGNRcnd2bV9qUnpRNDZrWDJzOU9lTEdkNFlQQmJ4NFpXYXI2ZHoweHNFdlBkT1F6Nm5CRHNvNTgxbGpUREpzZHRvZkdMSS1HSG5rYXdrQUtlV0hB?oc=5",
-      "source": "Google News:CARG",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "EC",
-      "short": "EC — Wellington Management Group LLP Makes New Investment in Ecopetrol S.A. $EC - MarketBeat",
-      "detail": "EC\n重點：新聞\n標題：Wellington Management Group LLP Makes New Investment in Ecopetrol S.A. $EC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPT1J1bWRNb09tbW5vLXVKZ3hfemEzamNOZXhJWV9wOTJpUWE1M0VKUHN1UWxHU3pGbXBFVHNQZUpwWTBFX2hCanBGa2FGaVBLeFdnOEpIWUFmcU1vMjU2dlNGMmdXMFhQdnl0ZG9GSi0zbjZvZWlsVHlvaUJjRHZkaTVEU09yRExTMllXbEpuSFViVElMbkVhd2ZkR20zODdiLWxrZTJXbVBvS…\n來源：Google News:EC",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT1J1bWRNb09tbW5vLXVKZ3hfemEzamNOZXhJWV9wOTJpUWE1M0VKUHN1UWxHU3pGbXBFVHNQZUpwWTBFX2hCanBGa2FGaVBLeFdnOEpIWUFmcU1vMjU2dlNGMmdXMFhQdnl0ZG9GSi0zbjZvZWlsVHlvaUJjRHZkaTVEU09yRExTMllXbEpuSFViVElMbkVhd2ZkR20zODdiLWxrZTJXbVBvSnV4a3dXVTdRWVBBcW5KcmRVVnNGVEZSOUotcUduTFZxcVE?oc=5",
-      "source": "Google News:EC",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "ECL",
-      "short": "ECL — 業績／指引：Ecolab (ECL) Stock Looks Reasonable On Cash Flow But Rich On Earnings - simplywall.st",
-      "detail": "ECL\n重點：業績／指引\n標題：Ecolab (ECL) Stock Looks Reasonable On Cash Flow But Rich On Earnings - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNSUwwOFp6a1Q3MDFvT0xXRlFBSHJ6UXlhalBVWWNRUDgyQ0h1TlZFNzM3Vl9pYjd2dEFZUnVlbWhKMUQzM0ZSN2xPSTlvZ2ZTQi0xWWpwRFNYUDdLS3NSNWtyTW5SemVYUEZ0X01GZTNTZFdwaXgzODVuYVREVzdVVzdPb0IyUkdqcnRiTFk3aFhkZmxXX0E3WDVXdmxlcXYyWm1KRDdXVEpKd…\n來源：Google News:ECL",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSUwwOFp6a1Q3MDFvT0xXRlFBSHJ6UXlhalBVWWNRUDgyQ0h1TlZFNzM3Vl9pYjd2dEFZUnVlbWhKMUQzM0ZSN2xPSTlvZ2ZTQi0xWWpwRFNYUDdLS3NSNWtyTW5SemVYUEZ0X01GZTNTZFdwaXgzODVuYVREVzdVVzdPb0IyUkdqcnRiTFk3aFhkZmxXX0E3WDVXdmxlcXYyWm1KRDdXVEpKdUtBdU9BQUZyQ1pMLVdfdHdOcHNrN2JFNHNvcnfSAcYBQVVfeXFMTUlMMDhaemtUNzAxb09MV0ZRQUhyelF5YWpQVVljUVA4MkNIdU5WRTczN1ZfaWI3dnRBWVJ1ZW1oSjFEMzNGUjdsT0k5b2dmU0ItMVlqcERTWFA3S0tzUjVrck1uUnplWFBGdF9NRmUzU2RXcGl4Mzg1bmFURFc3VVc3T29CMlJHanJ0YkxZN2hYZGZsV19BN1g1V3ZsZXF2MlptSkQ3V1RKSnVLQXVPQUFGckNaTC1XX3R3TnBzazdiRTRzb3J3?oc=5",
-      "source": "Google News:ECL",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "GPC",
-      "short": "GPC — Amundi Cuts Stock Position in Genuine Parts Company $GPC - MarketBeat",
-      "detail": "GPC\n重點：新聞\n標題：Amundi Cuts Stock Position in Genuine Parts Company $GPC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEpIWF9BbG9wMEZId3M0UzFpSzJoWFB1TmpUeXBiRGNqNkJkTl85aWp1UUh2a0lCXzN6MVBYaE01X05fWVhjVW4xWWxRWS16dzZsdXJqVG9pUm1HU185emsyakRNcTRKcnBnSzRWWk9xbERFam9kaWNVMDlYTV85TXVJNGJ1MjlYLW9keWFwNXd6M1YwWTFtM2JfOGRHZnAtVllMZHpxSGM3U…\n來源：Google News:GPC",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEpIWF9BbG9wMEZId3M0UzFpSzJoWFB1TmpUeXBiRGNqNkJkTl85aWp1UUh2a0lCXzN6MVBYaE01X05fWVhjVW4xWWxRWS16dzZsdXJqVG9pUm1HU185emsyakRNcTRKcnBnSzRWWk9xbERFam9kaWNVMDlYTV85TXVJNGJ1MjlYLW9keWFwNXd6M1YwWTFtM2JfOGRHZnAtVllMZHpxSGM3UWxxUElNZFR6alFCUlU?oc=5",
-      "source": "Google News:GPC",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "GSAT",
-      "short": "GSAT — 併購／交易：GSAT Stock Surges Overnight: Amazon May Drop Official Takeover Deal Soon After Landing …",
-      "detail": "GSAT\n重點：併購／交易\n標題：GSAT Stock Surges Overnight: Amazon May Drop Official Takeover Deal Soon After Landing Carrier Deals For Its SpaceX Starlink Rival - Stocktwits\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZms4Vy1IMTVmTlVzV050S25PYlc2NHZNaEdMdlktTWZpMDJuMDkzSUI0R2V0VnV2ck9URDRJSUkwbjl1Sm9lOXhOUV9uUHVDRU1sYWdzbE50dXVpNWs3UHpyS2xVOVhRWmRqTmRjbFFxSFpSeGwxMzBWczRpNHdGRjNLQXphbWdEVUdZUVBTOTdkTE56VHM3V0M3RWUtMnhNdGF1azlnTlpmN…\n來源：Google News:GSAT",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZms4Vy1IMTVmTlVzV050S25PYlc2NHZNaEdMdlktTWZpMDJuMDkzSUI0R2V0VnV2ck9URDRJSUkwbjl1Sm9lOXhOUV9uUHVDRU1sYWdzbE50dXVpNWs3UHpyS2xVOVhRWmRqTmRjbFFxSFpSeGwxMzBWczRpNHdGRjNLQXphbWdEVUdZUVBTOTdkTE56VHM3V0M3RWUtMnhNdGF1azlnTlpmNjNkQU9Jc0NaMkNaQTJaVzNJUzNweDBPMXNRejNkWTVYUWcxZERDb1FZ?oc=5",
-      "source": "Google News:GSAT",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "INTU",
-      "short": "INTU — Intuit (NASDAQ:INTU) Shares Acquired Rep. Gilbert Ray Cisneros, Jr. - MarketBeat",
-      "detail": "INTU\n重點：新聞\n標題：Intuit (NASDAQ:INTU) Shares Acquired Rep. Gilbert Ray Cisneros, Jr. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTXFtaTVXYjNRakVPVGxXNldPaEtMSldVZVEteGpSVjZnVGVEb0cwNmpDcW9yS3pSRkdpSHhGcGVzSHRudGxQNmFzZUl3NTdKMGNUMGFhUU03OUZtUGQxN1otLS0xLTdFdUdRQnktYzhhYmc3a1g0Z0FPSFdCRnhjVDdJaGdEMUgxeDFONE5oQUdKYUtfZnBTcUtKSzVHa3ZpbUgxWXRBZnd0R…\n來源：Google News:INTU",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTXFtaTVXYjNRakVPVGxXNldPaEtMSldVZVEteGpSVjZnVGVEb0cwNmpDcW9yS3pSRkdpSHhGcGVzSHRudGxQNmFzZUl3NTdKMGNUMGFhUU03OUZtUGQxN1otLS0xLTdFdUdRQnktYzhhYmc3a1g0Z0FPSFdCRnhjVDdJaGdEMUgxeDFONE5oQUdKYUtfZnBTcUtKSzVHa3ZpbUgxWXRBZnd0RXJza3VIVWZVQVk2SWlPWTY2ZVZrQmM4bFU?oc=5",
-      "source": "Google News:INTU",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "JD",
-      "short": "JD — Sen. Cory A. Booker Unloads Shares of JD.com, Inc. (NASDAQ:JD) - MarketBeat",
-      "detail": "JD\n重點：新聞\n標題：Sen. Cory A. Booker Unloads Shares of JD.com, Inc. (NASDAQ:JD) - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ1ZGZUkta3Q1SFkxajNfOGkzNElaLXhDdElzUGo4dzRweUxOeGJnYjZYWGk3UE1COVI5WVZRUUFlMkZUZHJBMFJ3X0dYMThyQWtXTThFNVY3S2tCMWxVdndpVENyNl9vNnk5Ml9jV2lyRWE1NmxDZDVfRy10X1hPTnYyczJleDc1S3Z4alJudExzT0RuZHlLeld1bDR4YTYwd0xkMU1sWTBSN…\n來源：Google News:JD",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ1ZGZUkta3Q1SFkxajNfOGkzNElaLXhDdElzUGo4dzRweUxOeGJnYjZYWGk3UE1COVI5WVZRUUFlMkZUZHJBMFJ3X0dYMThyQWtXTThFNVY3S2tCMWxVdndpVENyNl9vNnk5Ml9jV2lyRWE1NmxDZDVfRy10X1hPTnYyczJleDc1S3Z4alJudExzT0RuZHlLeld1bDR4YTYwd0xkMU1sWTBSNHJNdUdaZjFBbnJUaklxc0E?oc=5",
-      "source": "Google News:JD",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "LNG",
-      "short": "LNG — Tidal Investments LLC Acquires 18,275 Shares of Cheniere Energy, Inc. $LNG - MarketBeat",
-      "detail": "LNG\n重點：新聞\n標題：Tidal Investments LLC Acquires 18,275 Shares of Cheniere Energy, Inc. $LNG - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOb0REMUREc1dpREJrZGZFSzlnTTB5cHNDV1hucXpURWdCYlNTekRYQ3JXUThsQU5BOFJhQlBHUDd0X1Z1NnhROEs1Y1VlRVV2eXJqbDFzVUwwRWRkQUgzT18zSXlPemZkcE5lbUx0UUpwcllsOERSbzFWejdKV2piYUxib19qM0dfbFFCYi1idGdvUXc2ZkVMVUJYSGFseGs3b2pzdVZQV2E5e…\n來源：Google News:LNG",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb0REMUREc1dpREJrZGZFSzlnTTB5cHNDV1hucXpURWdCYlNTekRYQ3JXUThsQU5BOFJhQlBHUDd0X1Z1NnhROEs1Y1VlRVV2eXJqbDFzVUwwRWRkQUgzT18zSXlPemZkcE5lbUx0UUpwcllsOERSbzFWejdKV2piYUxib19qM0dfbFFCYi1idGdvUXc2ZkVMVUJYSGFseGs3b2pzdVZQV2E5eEZkb3BmdlFIRXJtNkRMSm9YRFRaNkdUMnI0bks0M1l3Yw?oc=5",
-      "source": "Google News:LNG",
+      "symbol": "YETI",
+      "short": "YETI — 業績／指引：YETI (YETI) Stock Could Be Fully Priced On Earnings But A Bargain Elsewhere - simplywal…",
+      "detail": "YETI\n重點：業績／指引\n標題：YETI (YETI) Stock Could Be Fully Priced On Earnings But A Bargain Elsewhere - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWVpUTVo0UjRZaG9VOWY1dUhHMHRXd05Sd2dtLThoTDFkY1JIVTExQWpyUmprMXVobWpETk9ST1JoRWdKSnIwa3BmaENKNWY3WE9xR0Q0RXozbGhqMlo0TkJGR3ZGMW9iUEhVT3lYa0lWVVNReFp1VFZxM2tFZzRJN3p5SWxiTW1ZX1Rmbi1SM0ozaDl1RzV1Zi1DX2p0SGlDcXJUUjZNdmhCU…\n來源：Google News:YETI",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWVpUTVo0UjRZaG9VOWY1dUhHMHRXd05Sd2dtLThoTDFkY1JIVTExQWpyUmprMXVobWpETk9ST1JoRWdKSnIwa3BmaENKNWY3WE9xR0Q0RXozbGhqMlo0TkJGR3ZGMW9iUEhVT3lYa0lWVVNReFp1VFZxM2tFZzRJN3p5SWxiTW1ZX1Rmbi1SM0ozaDl1RzV1Zi1DX2p0SGlDcXJUUjZNdmhCUzJqMGN4RWt3V1cwVlpyRUU4LV94cWFaQkZ1R1FBZDFlVWd4UzhScV9GZTRB0gHbAUFVX3lxTE16OTAwcWQ0UnV2SFVhT0IxYTlIaXZwZllGUWpNc0RVZmNCU1pTMU1MNy1pQ1NWODhPWTlVSGZpY1JKVVBFY1BFcmlOMXVqaHdjeVo5N1VwZTR6Z0V1dmV6dVJxNTIwVnVrWGpZaFZFblpuTzBwSUVLWUF2QjJveGI2b1NkbE5oQ0dLbExhN0ViTXF2NXhfNUw1MWVCRXRDQS1mM1BUMTB1WjFKMk02VU9UNldJOXpPaTR3VEtTS0JaSnFPVHRrMlQzTl9XRkR1TjlGNmQyT3lrTTZFaw?oc=5",
+      "source": "Google News:YETI",
       "kind": "news"
     }
   ]
