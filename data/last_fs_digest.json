@@ -1,20 +1,74 @@
 {
-  "title": "FS新聞 09-13 05:02",
-  "list_name": "FirstScreen_2026-09-13_050201_comma.txt",
-  "created_at": "2026-09-13T05:02:09.953856+00:00",
+  "title": "FS新聞 09-13 09:59",
+  "list_name": "FirstScreen_2026-09-13_095918_comma.txt",
+  "created_at": "2026-09-13T09:59:26.486732+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "CRM",
-      "short": "CRM — AI相關、併購／交易：Salesforce Inc. (CRM)’s Potential Listen Labs Acquisition Could Boost Its Agentic AI St…",
-      "detail": "CRM\n重點：AI相關、併購／交易\n標題：Salesforce Inc. (CRM)’s Potential Listen Labs Acquisition Could Boost Its Agentic AI Strategy\n摘要：Salesforce Inc. (NYSE:CRM) continues to strengthen its enterprise artificial intelligence offering as it looks to make AI a larger part of its customer relationship management ecosystem. On September 9, reports emerged that the company is prepared to spend as much as $2 billion …\n來源：Yahoo Finance:CRM",
-      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-inc-crm-potential-listen-220558304.html?.tsrc=rss",
-      "source": "Yahoo Finance:CRM",
+      "symbol": "DEO",
+      "short": "DEO — Tidal Investments LLC Buys 38,104 Shares of Diageo plc $DEO - MarketBeat",
+      "detail": "DEO\n重點：新聞\n標題：Tidal Investments LLC Buys 38,104 Shares of Diageo plc $DEO - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdDlmb2ZTdXQ3NjhHS0NvYUZBTmJKcUE4YTJoblJVU0tSRzlXSnhzNkc5U0oxaHJXUGpLLTUtYVI3UER1XzdycXV3cm5RbGFzcnZub1ZMNzB5TVpZTlprbk0ySUNhMzNpZEliclFGZThRUmc0cWpaNzlaZ0M1MFptQkgtNXI2aEdjZHk3SVd6bmQ1NHpBdVNCYWJFQmVybDRBWHBiZHJsc2ozQ…\n來源：Google News:DEO\n其他：Waverly Advisors LLC Reduces Stock Position in Diageo plc $…",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdDlmb2ZTdXQ3NjhHS0NvYUZBTmJKcUE4YTJoblJVU0tSRzlXSnhzNkc5U0oxaHJXUGpLLTUtYVI3UER1XzdycXV3cm5RbGFzcnZub1ZMNzB5TVpZTlprbk0ySUNhMzNpZEliclFGZThRUmc0cWpaNzlaZ0M1MFptQkgtNXI2aEdjZHk3SVd6bmQ1NHpBdVNCYWJFQmVybDRBWHBiZHJsc2ozQmpERE1Zc2NYS1Rqc0VJNWc?oc=5",
+      "source": "Google News:DEO",
       "kind": "news"
     },
     {
       "n": 2,
+      "symbol": "HCA",
+      "short": "HCA — Engineers Gate Manager LP Sells 49,528 Shares of HCA Healthcare, Inc. $HCA - MarketBeat",
+      "detail": "HCA\n重點：新聞\n標題：Engineers Gate Manager LP Sells 49,528 Shares of HCA Healthcare, Inc. $HCA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNM0V2TmRhWFZKYzQxdU1vOTcyUW5nNE9mVGFNdkJIa3lmdXl4SER4TXhiUldWaHEwZkdHOVJKUnU5aThCSWEyZkFvS2J2MXY2eXZaMTk0aGg3d3pxbDVDempQYWZTVm1tR3Fhd1RWY3NfQTc3SzdjWkROMzBoeHR6aENueXZ5eG5Wb0gxRDgzdUtrTlcwVWpidHUxNC0tVFlYeHFUeUxLVlVsR…\n來源：Google News:HCA\n其他：HCA Healthcare, Inc. $HCA Stake Lessened by Baird Financial…",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM0V2TmRhWFZKYzQxdU1vOTcyUW5nNE9mVGFNdkJIa3lmdXl4SER4TXhiUldWaHEwZkdHOVJKUnU5aThCSWEyZkFvS2J2MXY2eXZaMTk0aGg3d3pxbDVDempQYWZTVm1tR3Fhd1RWY3NfQTc3SzdjWkROMzBoeHR6aENueXZ5eG5Wb0gxRDgzdUtrTlcwVWpidHUxNC0tVFlYeHFUeUxLVlVsRWlFOWFOdEpwMHRCZ1J4QVpZTzRiRlY4ek0tMnpjYmhSNA?oc=5",
+      "source": "Google News:HCA",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "KSS",
+      "short": "KSS — Engineers Gate Manager LP Trims Stock Holdings in Kohl's Corporation $KSS - MarketBeat",
+      "detail": "KSS\n重點：新聞\n標題：Engineers Gate Manager LP Trims Stock Holdings in Kohl's Corporation $KSS - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQLXZSQ0gxWm5QTkdacE0yLWRQNmtNWUQwY3h4eUhMVHdsNm1sWXdzeUpuU0tObm4wdkt5dkEyWGRHTW1WMDJOZmVSVExpQ2tDN29lNEIxcVlPa0NUREhRRlM5WHhuR2d6RlpGQTBVR0JBV2lwU0N1enFlVWppLWJ1VjhFN2pTMDNvWlpGSXNTeGo5X3k5aG1qS3hJNVV1cUh3S0ppanNzRHRQS…\n來源：Google News:KSS\n其他：Kohl's Corporation $KSS Shares Bought by Amundi - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLXZSQ0gxWm5QTkdacE0yLWRQNmtNWUQwY3h4eUhMVHdsNm1sWXdzeUpuU0tObm4wdkt5dkEyWGRHTW1WMDJOZmVSVExpQ2tDN29lNEIxcVlPa0NUREhRRlM5WHhuR2d6RlpGQTBVR0JBV2lwU0N1enFlVWppLWJ1VjhFN2pTMDNvWlpGSXNTeGo5X3k5aG1qS3hJNVV1cUh3S0ppanNzRHRQSUJkNllsSVpxV2VIbFdfZUJNV3ZMNDZNZThVajJZblZsQzM?oc=5",
+      "source": "Google News:KSS",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "WFRD",
+      "short": "WFRD — Tidal Investments LLC Buys 14,537 Shares of Weatherford International PLC $WFRD - Marke…",
+      "detail": "WFRD\n重點：新聞\n標題：Tidal Investments LLC Buys 14,537 Shares of Weatherford International PLC $WFRD - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTlNHZ3l2UWdMR0Q5V1lXSkk4UU9hLUJ0RVZaWTE2QnRTeldZbG1vdEp4RWduM0NMUnpyZUpNTnJCSVphOFJpZzlHclU3dWtmSXh2aFFvbFc5Qm1sY1BoQlVONkVpNVJPRjNZNXVPUG9kM2Q2U2hoV1JhZ0VqNURqVlNZSzdaUVdYU01lZVYtcmUwNHM2RWZlSC1iM0Q4TEJGU1dkcV94LW1wZ…\n來源：Google News:WFRD\n其他：Baird Financial Group Inc. Acquires 16,605 Shares of Weathe…",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTlNHZ3l2UWdMR0Q5V1lXSkk4UU9hLUJ0RVZaWTE2QnRTeldZbG1vdEp4RWduM0NMUnpyZUpNTnJCSVphOFJpZzlHclU3dWtmSXh2aFFvbFc5Qm1sY1BoQlVONkVpNVJPRjNZNXVPUG9kM2Q2U2hoV1JhZ0VqNURqVlNZSzdaUVdYU01lZVYtcmUwNHM2RWZlSC1iM0Q4TEJGU1dkcV94LW1wZnJibFpraHE5dDg1Qkpid2RFMGg0dHRKcnNQYWtrTjdkVEMzNjhSSmF1Qg?oc=5",
+      "source": "Google News:WFRD",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "ADT",
+      "short": "ADT — ADT Inc. $ADT Shares Sold by WINTON GROUP Ltd - marketbeat.com",
+      "detail": "ADT\n重點：新聞\n標題：ADT Inc. $ADT Shares Sold by WINTON GROUP Ltd - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXNWTkl3dktEZHZKYkJOSUxHWWRVYXMxUFJNY0t6Vzh3eUJoZ0pTTGFYcmpVQkd5ZW1nOHhyakV2cnBDTExqR0c3SzM5R3N6c3FCd3c2ZFA5YUNsYlh0UDBHUWQwNmhtZi0yM0NpODZZTWxxTWRseS1KNF9EN0sxSm5kMmYyRjBKS29SLUdXeEVWbGxzS20yLVhqT280ZThRZU13RUR5UQ?oc…\n來源：Google News:ADT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXNWTkl3dktEZHZKYkJOSUxHWWRVYXMxUFJNY0t6Vzh3eUJoZ0pTTGFYcmpVQkd5ZW1nOHhyakV2cnBDTExqR0c3SzM5R3N6c3FCd3c2ZFA5YUNsYlh0UDBHUWQwNmhtZi0yM0NpODZZTWxxTWRseS1KNF9EN0sxSm5kMmYyRjBKS29SLUdXeEVWbGxzS20yLVhqT280ZThRZU13RUR5UQ?oc=5",
+      "source": "Google News:ADT",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "BKNG",
+      "short": "BKNG — AI相關：Booking CEO Details AI-Powered Connected Trip Strategy at Global TMT Conference",
+      "detail": "BKNG\n重點：AI相關\n標題：Booking CEO Details AI-Powered Connected Trip Strategy at Global TMT Conference\n摘要：Booking (NASDAQ:BKNG) CEO and Director Glenn Fogel outlined the online travel company’s priorities around artificial intelligence, its Connected Trip strategy, loyalty programs, alternative accommodations and business-to-business operations during a Global TMT Conference discuss…\n來源：Yahoo Finance:BKNG",
+      "url": "https://www.marketbeat.com/instant-alerts/event-booking-ceo-details-ai-powered-connected-trip-strategy-at-global-tmt-conference-2026-09-13/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance:BKNG",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "CRM",
+      "short": "CRM — Integrated Wealth Concepts LLC Sells 9,830 Shares of Salesforce Inc. $CRM - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：Integrated Wealth Concepts LLC Sells 9,830 Shares of Salesforce Inc. $CRM - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFFqYnl0UmJlMk9veTh4TlA3Z2k1RkZ4all0eTYwWWVkb1Nuc0xMbUpmZWxpckN1X3dGdW03QUpvZUs1MlBqTGF5VkR0MlJhNlRWZUVEMTFCTGlBbWlvTktHa2JwendTT2V1WjJaYmktQnppd2lBNzlNaVUweWxqX3V0UmN1RWJIdktRVlBDYXlfRWZhM250WHkyVXExblpteEhlQUxySkhsN…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFFqYnl0UmJlMk9veTh4TlA3Z2k1RkZ4all0eTYwWWVkb1Nuc0xMbUpmZWxpckN1X3dGdW03QUpvZUs1MlBqTGF5VkR0MlJhNlRWZUVEMTFCTGlBbWlvTktHa2JwendTT2V1WjJaYmktQnppd2lBNzlNaVUweWxqX3V0UmN1RWJIdktRVlBDYXlfRWZhM250WHkyVXExblpteEhlQUxySkhsN1hRdjBWb25fcVRxVzJsbFByTExiZnpPd19hbGFGYWRnaw?oc=5",
+      "source": "Google News:CRM",
+      "kind": "news"
+    },
+    {
+      "n": 8,
       "symbol": "FTNT",
       "short": "FTNT — AI相關：Fortinet Sees AI, Neocloud Buildout Fueling Network Security Demand",
       "detail": "FTNT\n重點：AI相關\n標題：Fortinet Sees AI, Neocloud Buildout Fueling Network Security Demand\n摘要：Fortinet (NASDAQ:FTNT) executives said the cybersecurity company sees artificial intelligence as a growing source of demand for network security, particularly as enterprises and emerging “neocloud” providers build AI infrastructure and seek to protect machine-generated traffic. …\n來源：Yahoo Finance:FTNT",
@@ -23,21 +77,39 @@
       "kind": "news"
     },
     {
-      "n": 3,
-      "symbol": "MDT",
-      "short": "MDT — 業績／指引：Medtronic (MDT) Raised Full Year Guidance After Strong Q1 Growth - simplywall.st",
-      "detail": "MDT\n重點：業績／指引\n標題：Medtronic (MDT) Raised Full Year Guidance After Strong Q1 Growth - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNbXR1eWVna0pOYk1MY0Zkb05vRG9xSTdtYm1Kb21KVmFlYWlhZzc0VTFNRlZLR3AxUXdZSjdkZnpHVVhOaW9PaVRKYUR2S3g5QXRadU9IRTE2RjB6ZllobjBhdUE1RUxYdGZjX2FVUUVsenFuX3ZEVVV0azdiSTFlMzFtRXh4MTJFN05EN1QxTks4QVVLbWJ2MG8tNEtpU2I3cFFJV0FVRGpNR…\n來源：Google News:MDT",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbXR1eWVna0pOYk1MY0Zkb05vRG9xSTdtYm1Kb21KVmFlYWlhZzc0VTFNRlZLR3AxUXdZSjdkZnpHVVhOaW9PaVRKYUR2S3g5QXRadU9IRTE2RjB6ZllobjBhdUE1RUxYdGZjX2FVUUVsenFuX3ZEVVV0azdiSTFlMzFtRXh4MTJFN05EN1QxTks4QVVLbWJ2MG8tNEtpU2I3cFFJV0FVRGpNRm9XUkZqMUlrekQtN3RuVm1IdVJiX19BQTRaUnfSAcsBQVVfeXFMT0V0LTl2ejhjVk8wU041N2ZuRWZIc0p0dG5FVkszaHExel83QllDY1VEc0lVdE9RZWF5c0ZJSDduMWpINWNmaGN5c3ZCR1h4cktQZGV6NXZrbGdCV0ZqcUVOSkxIYnp1bENiTFcwSE82dDNtNTRXQXpQQVJkUGpUbm92eGtEMU83Y0hSWEE2emwtYmdFczBxLU9pT3dtbEJKM0tfbUFlMnRjaHlSdmtXTXJtLXY2U1hZZlN1ZzNVMGF1dHllTjJmX2tDNVk?oc=5",
-      "source": "Google News:MDT",
+      "n": 9,
+      "symbol": "GAP",
+      "short": "GAP — 225,718 Shares in The Gap, Inc. $GAP Bought by Engineers Gate Manager LP - MarketBeat",
+      "detail": "GAP\n重點：新聞\n標題：225,718 Shares in The Gap, Inc. $GAP Bought by Engineers Gate Manager LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQVROM3ppQU9XTEJyTWdVSkczVVlscGJFOGlYbkJDWFBVQzVQZjVNTExxOThrX0lVcWYzNDhubU4tWDNWUG9LZWliWlh6ZTF4WUlxQktrNmlFUzVRSkxyMUpIazNBTE51MUkzNXdFTHNXbDBFdElFNWFGTG1iVWQ3dlhkUjBKa2FmZnZGdktUSVlsMVhuRHByd0dfd2wxUXlaQXdvRHc3SEtQY…\n來源：Google News:GAP",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQVROM3ppQU9XTEJyTWdVSkczVVlscGJFOGlYbkJDWFBVQzVQZjVNTExxOThrX0lVcWYzNDhubU4tWDNWUG9LZWliWlh6ZTF4WUlxQktrNmlFUzVRSkxyMUpIazNBTE51MUkzNXdFTHNXbDBFdElFNWFGTG1iVWQ3dlhkUjBKa2FmZnZGdktUSVlsMVhuRHByd0dfd2wxUXlaQXdvRHc3SEtQY2xpQk5GRTJ4WFpjZ2RTQkg0N3Q5TXhjTzdnSmd2Sw?oc=5",
+      "source": "Google News:GAP",
       "kind": "news"
     },
     {
-      "n": 4,
-      "symbol": "YETI",
-      "short": "YETI — 業績／指引：YETI (YETI) Stock Could Be Fully Priced On Earnings But A Bargain Elsewhere - simplywal…",
-      "detail": "YETI\n重點：業績／指引\n標題：YETI (YETI) Stock Could Be Fully Priced On Earnings But A Bargain Elsewhere - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWVpUTVo0UjRZaG9VOWY1dUhHMHRXd05Sd2dtLThoTDFkY1JIVTExQWpyUmprMXVobWpETk9ST1JoRWdKSnIwa3BmaENKNWY3WE9xR0Q0RXozbGhqMlo0TkJGR3ZGMW9iUEhVT3lYa0lWVVNReFp1VFZxM2tFZzRJN3p5SWxiTW1ZX1Rmbi1SM0ozaDl1RzV1Zi1DX2p0SGlDcXJUUjZNdmhCU…\n來源：Google News:YETI",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWVpUTVo0UjRZaG9VOWY1dUhHMHRXd05Sd2dtLThoTDFkY1JIVTExQWpyUmprMXVobWpETk9ST1JoRWdKSnIwa3BmaENKNWY3WE9xR0Q0RXozbGhqMlo0TkJGR3ZGMW9iUEhVT3lYa0lWVVNReFp1VFZxM2tFZzRJN3p5SWxiTW1ZX1Rmbi1SM0ozaDl1RzV1Zi1DX2p0SGlDcXJUUjZNdmhCUzJqMGN4RWt3V1cwVlpyRUU4LV94cWFaQkZ1R1FBZDFlVWd4UzhScV9GZTRB0gHbAUFVX3lxTE16OTAwcWQ0UnV2SFVhT0IxYTlIaXZwZllGUWpNc0RVZmNCU1pTMU1MNy1pQ1NWODhPWTlVSGZpY1JKVVBFY1BFcmlOMXVqaHdjeVo5N1VwZTR6Z0V1dmV6dVJxNTIwVnVrWGpZaFZFblpuTzBwSUVLWUF2QjJveGI2b1NkbE5oQ0dLbExhN0ViTXF2NXhfNUw1MWVCRXRDQS1mM1BUMTB1WjFKMk02VU9UNldJOXpPaTR3VEtTS0JaSnFPVHRrMlQzTl9XRkR1TjlGNmQyT3lrTTZFaw?oc=5",
-      "source": "Google News:YETI",
+      "n": 10,
+      "symbol": "GEN",
+      "short": "GEN — National Pension Service Raises Stock Holdings in Gen Digital Inc. $GEN - MarketBeat",
+      "detail": "GEN\n重點：新聞\n標題：National Pension Service Raises Stock Holdings in Gen Digital Inc. $GEN - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNM3U3NHdyRG5ZMmlvTXJqdExvQmUyYzJSQlUyNW1xVE9yeFBfcFlNWUdXNGFDQ1pkd25TakdWRTNoaFdRWXB0ZmJHSUtVcDRJM2JxZ2hyS3JCdFAtNnpHX0psRzhQNGlvQllYb1IxS3VFcVVpZDcwdFFtVWxsTGtLRUF2YXRXUWVDU29iYnI2Yl9sd0hxN0RZeXI0RGJPeXM5YlRtQTUwOThON…\n來源：Google News:GEN",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM3U3NHdyRG5ZMmlvTXJqdExvQmUyYzJSQlUyNW1xVE9yeFBfcFlNWUdXNGFDQ1pkd25TakdWRTNoaFdRWXB0ZmJHSUtVcDRJM2JxZ2hyS3JCdFAtNnpHX0psRzhQNGlvQllYb1IxS3VFcVVpZDcwdFFtVWxsTGtLRUF2YXRXUWVDU29iYnI2Yl9sd0hxN0RZeXI0RGJPeXM5YlRtQTUwOThON2FqcnZXM0FBWVM3UlFuN0oyR0JmcVlUdUdvLVZFblRB?oc=5",
+      "source": "Google News:GEN",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "HMC",
+      "short": "HMC — Honda Motor Co., Ltd. (NYSE:HMC) Receives Average Recommendation of \"Hold\" from Analyst…",
+      "detail": "HMC\n重點：新聞\n標題：Honda Motor Co., Ltd. (NYSE:HMC) Receives Average Recommendation of \"Hold\" from Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcmNCVmtSbV9KMW9FNUhPUDNPUmVLS0lGVWNobDVYeU1WUXI3cGU0Q2YyYldpY3pQbjFJdUhSeGVxdzd0TjdvbXJpX1VlUWlCRWljYk12UnVQN3k0aEZvb0xrVm4tSndPSnBSNHFJVjVvaElGNXNmVmJ0S2ttNGt6Y0tneGNsc2FWM2RTSmgxdUpIZjVYT25tbXZFN0lnbm16SGdaNjJudjdXL…\n來源：Google News:HMC",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcmNCVmtSbV9KMW9FNUhPUDNPUmVLS0lGVWNobDVYeU1WUXI3cGU0Q2YyYldpY3pQbjFJdUhSeGVxdzd0TjdvbXJpX1VlUWlCRWljYk12UnVQN3k0aEZvb0xrVm4tSndPSnBSNHFJVjVvaElGNXNmVmJ0S2ttNGt6Y0tneGNsc2FWM2RTSmgxdUpIZjVYT25tbXZFN0lnbm16SGdaNjJudjdXLWRiV0xlUGFESWRqbHR6Z3ZpOEI2Tk5zLVJWWXpjejBpVmstTV9RelR4Si1ZYnR5ZDNjRXc?oc=5",
+      "source": "Google News:HMC",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "JD",
+      "short": "JD — Tidal Investments LLC Buys 199,724 Shares of JD.com, Inc. $JD - MarketBeat",
+      "detail": "JD\n重點：新聞\n標題：Tidal Investments LLC Buys 199,724 Shares of JD.com, Inc. $JD - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOVdOQWdsOXpIRW90dVBDMWJIUTAxVGZmZEstZzVqUFhLUUJIeHNXQ0ZTRDkyRE42V1lVX3hQbWQtSVBIQ29lVzNKR21DRFJuNENhdVBjM0I0MGY4VzFfR1ppVFp1dWlsT01wWklmNlNXbk4tbVNBNEJvVk10TUdFVHhaaXV2VVBSaGdYWF85UTBjTmJYUFpvQ2RFQU1BZl9yVEhTMFBFTl8tT…\n來源：Google News:JD",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOVdOQWdsOXpIRW90dVBDMWJIUTAxVGZmZEstZzVqUFhLUUJIeHNXQ0ZTRDkyRE42V1lVX3hQbWQtSVBIQ29lVzNKR21DRFJuNENhdVBjM0I0MGY4VzFfR1ppVFp1dWlsT01wWklmNlNXbk4tbVNBNEJvVk10TUdFVHhaaXV2VVBSaGdYWF85UTBjTmJYUFpvQ2RFQU1BZl9yVEhTMFBFTl8tTGtpS0hwSGYzN3hidjEy?oc=5",
+      "source": "Google News:JD",
       "kind": "news"
     }
   ]
