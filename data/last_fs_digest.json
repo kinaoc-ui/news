@@ -1,115 +1,70 @@
 {
-  "title": "FS新聞 09-15 14:45",
-  "list_name": "FirstScreen_2026-09-15_144515_comma.txt",
-  "created_at": "2026-09-15T14:45:26.031295+00:00",
+  "title": "FS新聞 09-16 05:00",
+  "list_name": "FirstScreen_2026-09-16_050019_comma.txt",
+  "created_at": "2026-09-16T05:00:29.620977+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "CRM",
-      "short": "CRM — AI相關：Siemens and Salesforce Deepen AI Partnership to Redefine Industrial Sales and Service",
-      "detail": "CRM\n重點：AI相關\n標題：Siemens and Salesforce Deepen AI Partnership to Redefine Industrial Sales and Service\n摘要：SAN FRANCISCO, September 15, 2026--Today at Dreamforce, Salesforce (NYSE: CRM), the #1 AI CRM, and Siemens (SIEGY), a leading technology company focused on industry, infrastructure, mobility, and healthcare, announced a new chapter in their partnership: by combining Agentforce w…\n來源：Yahoo Finance:CRM\n其他：Salesforce Inc. (NYSE:CRM) Receives Consensus Recommendatio…",
-      "url": "https://finance.yahoo.com/technology/ai/articles/siemens-salesforce-deepen-ai-partnership-120000142.html?.tsrc=rss",
-      "source": "Yahoo Finance:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 2,
-      "symbol": "GAP",
-      "short": "GAP — GAP Stock Heads For Monthly Loss Despite CEO Optimism On Old Navy — Cardi B Campaign Fa…",
-      "detail": "GAP\n重點：新聞\n標題：GAP Stock Heads For Monthly Loss Despite CEO Optimism On Old Navy — Cardi B Campaign Fails To Lift Retail Mood\n摘要：Gap CEO Richard Dickson said Old Navy has diagnosed seasonal product issues and improved its assortment and marketing.\n來源：Yahoo Finance:GAP\n其他：GAP Stock Heads For Monthly Loss Despite CEO Optimism On Ol…",
-      "url": "https://stocktwits.com/news-articles/markets/equity/gap-stock-heads-for-monthly-loss-despite-ceo-optimism-on-old-navy-cardi-b-campaign-fails-to-lift-retail-mood/cZtnRt6RBT8?.tsrc=rss",
-      "source": "Yahoo Finance:GAP",
-      "kind": "news"
-    },
-    {
-      "n": 3,
       "symbol": "LQDA",
-      "short": "LQDA — Squarepoint Ops LLC Trims Stock Position in Liquidia Corporation $LQDA - MarketBeat",
-      "detail": "LQDA\n重點：新聞\n標題：Squarepoint Ops LLC Trims Stock Position in Liquidia Corporation $LQDA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNdFVvRGdmSlJicWVVZjlyMEJCcXV2amZBYU5vZl9STHFxYTZ3dV9WU3N6Q0VPMXZDMWQ2WmFGV1lHalMxRHlWZ1BFemFMNGxUVkN6cXc0TzUxcnFCMHY2RGZpM19PNV9oTVBJc2J1dVY5Y0o5MmtPb0ZZYnRNaGtzcDlNbUVSV2RoZmc0bTV1SnpzNmJHTU92dVRSb2M3NjBYeWdyWlFCc1pYd…\n來源：Google News:LQDA\n其他：California State Teachers Retirement System Acquires 5,835,…",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdFVvRGdmSlJicWVVZjlyMEJCcXV2amZBYU5vZl9STHFxYTZ3dV9WU3N6Q0VPMXZDMWQ2WmFGV1lHalMxRHlWZ1BFemFMNGxUVkN6cXc0TzUxcnFCMHY2RGZpM19PNV9oTVBJc2J1dVY5Y0o5MmtPb0ZZYnRNaGtzcDlNbUVSV2RoZmc0bTV1SnpzNmJHTU92dVRSb2M3NjBYeWdyWlFCc1pYdUdwNXdnMGtMOWJxalNNRzJCOEhKRDUtZnB5YS1vUzN3?oc=5",
+      "short": "LQDA — Raman Singh Sells 8,468 Shares of Liquidia (NASDAQ:LQDA) Stock - MarketBeat",
+      "detail": "LQDA\n重點：新聞\n標題：Raman Singh Sells 8,468 Shares of Liquidia (NASDAQ:LQDA) Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxObjN0N3ctdTJpdzBnLTdVRWIwbmwtLUFDeDVVODZmWkdrU05ZLUxGUjl2RkNySU5Ddk1tbm5vc0M2OHJPLWc1cUJ5OVdyNHVRbkxHUERFci1VNDNDdlhZcThzaUcwRVdtY1o3NG5HSVJlVXFHNEU3eWZLbjR0dk84V1UwRHNZbGxpblVoNUQ2S2QwWVZ4ZHpjRngtRWw1Z3dPU2lPM3hkZEhvO…\n來源：Google News:LQDA\n其他：Liquidia (NASDAQ:LQDA) Director Raman Singh Sells 9,024 Sha…",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObjN0N3ctdTJpdzBnLTdVRWIwbmwtLUFDeDVVODZmWkdrU05ZLUxGUjl2RkNySU5Ddk1tbm5vc0M2OHJPLWc1cUJ5OVdyNHVRbkxHUERFci1VNDNDdlhZcThzaUcwRVdtY1o3NG5HSVJlVXFHNEU3eWZLbjR0dk84V1UwRHNZbGxpblVoNUQ2S2QwWVZ4ZHpjRngtRWw1Z3dPU2lPM3hkZEhvOF9mV0VPbXlBdjAzTGpoNlpyaEZn?oc=5",
       "source": "Google News:LQDA",
       "kind": "news"
     },
     {
+      "n": 2,
+      "symbol": "ROST",
+      "short": "ROST — Ross Stores (NASDAQ:ROST) Insider Stephen Brinkley Sells 6,424 Shares of Stock - Market…",
+      "detail": "ROST\n重點：新聞\n標題：Ross Stores (NASDAQ:ROST) Insider Stephen Brinkley Sells 6,424 Shares of Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLXZIS2pHaUtKMVBKbm05SHdZUHBkWWM2dUpXNkxsQThRZlNqRndjeU5UeVNPQUpMb1psN2RwSDNpMElFTy1IZkdBbmpuUzZkUFFzelBIVXpjSWRBMkcwS1RpRXNjbkhRb3owUS1SMjRVX3ZPNTlWOEtEbVVYaXRDeUt1MmlEd2RpYjJpT1doNlJuVTFOUFVHNGg1WG5Xc21nN3NiSHYxNEZOd…\n來源：Google News:ROST\n其他：Ross Stores (NASDAQ:ROST) CEO Sells 49,205 Shares - MarketB…",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLXZIS2pHaUtKMVBKbm05SHdZUHBkWWM2dUpXNkxsQThRZlNqRndjeU5UeVNPQUpMb1psN2RwSDNpMElFTy1IZkdBbmpuUzZkUFFzelBIVXpjSWRBMkcwS1RpRXNjbkhRb3owUS1SMjRVX3ZPNTlWOEtEbVVYaXRDeUt1MmlEd2RpYjJpT1doNlJuVTFOUFVHNGg1WG5Xc21nN3NiSHYxNEZOd3p4NmpvLXF2QmhHTHczLUZJM2Y4TE4ydjk1UmlzY2tra3JhRVhFQ1Jv?oc=5",
+      "source": "Google News:ROST",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "ANET",
+      "short": "ANET — AI相關、業績／指引：Was Arista Networks Stock's Surge Visible Before It Happened?",
+      "detail": "ANET\n重點：AI相關、業績／指引\n標題：Was Arista Networks Stock's Surge Visible Before It Happened?\n摘要：Arista Networks (ANET) stock rose 40.6% between mid-March and mid-September 2026, against 15.5% for the S&amp;P 500. Arista sells the Ethernet switches, its Etherlink line among them, that tie AI accelerators together inside a data center, largely for its biggest customers, the …\n來源：Yahoo Finance:ANET",
+      "url": "https://www.trefis.com/articles/615355/was-arista-networks-stocks-surge-visible-before-it-happened/2026-09-15?.tsrc=rss",
+      "source": "Yahoo Finance:ANET",
+      "kind": "news"
+    },
+    {
       "n": 4,
-      "symbol": "OKTA",
-      "short": "OKTA — AI相關：Okta CEO cautions against AI downshift: 'The threat actors are not pausing'",
-      "detail": "OKTA\n重點：AI相關\n標題：Okta CEO cautions against AI downshift: 'The threat actors are not pausing'\n摘要：Okta (OKTA) CEO Todd McKinnon joins Yahoo Finance Executive Editor Brian Sozzi to discuss AI CEOs calling for a slower pace in developing advanced models and the downside of slowing that development amid cybersecurity risks.\n來源：Yahoo Finance:OKTA\n其他：Okta, Inc. $OKTA Shares Sold by WINTON GROUP Ltd - MarketBe…",
-      "url": "https://finance.yahoo.com/video/okta-ceo-cautions-against-ai-143021454.html?.tsrc=rss",
-      "source": "Yahoo Finance:OKTA",
+      "symbol": "CRM",
+      "short": "CRM — Salesforce (NYSE:CRM) Shares Down 1.6% - What's Next? - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Shares Down 1.6% - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWVBTm81Y2lBdzd2dloyQTNLLXZPMVd0b3k2UkRXSkdsQ050dm9CR3V0dGhPZ1pzNkZWT3BvN2dUTEJVM1N2MGdiQlRtc18xVGUzb0FwcVFDVG5ITlVvNmpVejh6ZjRpVC1UNU9FM2lObm5zQWZLNi1rVjlzWGFzUThkeWYyc2pSU0xQRFBtbWU1OC1EelBxYThTRThxTmFmcE1jS0pqN1I?o…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWVBTm81Y2lBdzd2dloyQTNLLXZPMVd0b3k2UkRXSkdsQ050dm9CR3V0dGhPZ1pzNkZWT3BvN2dUTEJVM1N2MGdiQlRtc18xVGUzb0FwcVFDVG5ITlVvNmpVejh6ZjRpVC1UNU9FM2lObm5zQWZLNi1rVjlzWGFzUThkeWYyc2pSU0xQRFBtbWU1OC1EelBxYThTRThxTmFmcE1jS0pqN1I?oc=5",
+      "source": "Google News:CRM",
       "kind": "news"
     },
     {
       "n": 5,
-      "symbol": "YETI",
-      "short": "YETI — 業績／指引：Reflecting On Consumer Discretionary - Leisure Products Stocks’ Q2 Earnings: YETI (NYSE…",
-      "detail": "YETI\n重點：業績／指引\n標題：Reflecting On Consumer Discretionary - Leisure Products Stocks’ Q2 Earnings: YETI (NYSE:YETI)\n摘要：As the craze of earnings season draws to a close, here’s a look back at some of the most exciting (and some less so) results from Q2. Today, we are looking at consumer discretionary - leisure products stocks, starting with YETI (NYSE:YETI).\n來源：Yahoo Finance:YETI\n其他：Tidal Investments LLC Trims Holdings in YETI Holdings, Inc.…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/reflecting-consumer-discretionary-leisure-products-132731502.html?.tsrc=rss",
-      "source": "Yahoo Finance:YETI",
+      "symbol": "EL",
+      "short": "EL — Estee Lauder Companies (NYSE:EL) Director Sells $5,693,860.00 in Stock - MarketBeat",
+      "detail": "EL\n重點：新聞\n標題：Estee Lauder Companies (NYSE:EL) Director Sells $5,693,860.00 in Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOejdJQ3NrSlU4em5KeEJSRGhFbnFzTDlqRmJMdm80c1hPUnRpOE1vZWlCVzVrdlh5RS00dnRiaTNwZWVlbFVXTDcwY3RfZmp5M1FlQ2c3cEtRQk5nR051VmJIY0puZHFobURsWXUxNnJSaVo1c3dNYjRCSEZFb2pXUmtaaWdCc3dxazIwZHZVT3B4NXZvcnQwbjVPa1IxTnk2VzB2R3FBLWJXN…\n來源：Google News:EL",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOejdJQ3NrSlU4em5KeEJSRGhFbnFzTDlqRmJMdm80c1hPUnRpOE1vZWlCVzVrdlh5RS00dnRiaTNwZWVlbFVXTDcwY3RfZmp5M1FlQ2c3cEtRQk5nR051VmJIY0puZHFobURsWXUxNnJSaVo1c3dNYjRCSEZFb2pXUmtaaWdCc3dxazIwZHZVT3B4NXZvcnQwbjVPa1IxTnk2VzB2R3FBLWJXNVc1Qm5EbjNRcmwyZ0NUaDFXYi1SeU5jX1JR?oc=5",
+      "source": "Google News:EL",
       "kind": "news"
     },
     {
       "n": 6,
-      "symbol": "ARCC",
-      "short": "ARCC — Ares Capital Corp's Dividend Analysis",
-      "detail": "ARCC\n重點：新聞\n標題：Ares Capital Corp's Dividend Analysis\n摘要：Ares Capital Corp (NASDAQ:ARCC) recently announced a total dividend of $0.48 per share, with the ex-dividend date set for Sept. 15, 2026. This amount consists entirely of a $0.48 per share cash dividend, payable on Sept. 30, 2026. For income-focused investors, the ex-dividend da…\n來源：Yahoo Finance:ARCC",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ares-capital-corps-dividend-analysis-111030340.html?.tsrc=rss",
-      "source": "Yahoo Finance:ARCC",
+      "symbol": "INTU",
+      "short": "INTU — AI相關：Jim Cramer Defends Intuit (INTU) Against AI Skeptics Ahead of Investor Day",
+      "detail": "INTU\n重點：AI相關\n標題：Jim Cramer Defends Intuit (INTU) Against AI Skeptics Ahead of Investor Day\n摘要：On CNBC’s Mad Money episode aired on September 11, Jim Cramer highlighted Intuit Inc. (NASDAQ:INTU) ahead of its upcoming analyst meeting and investor day. He stated: Thursday, we have two important analyst meetings… As for Intuit, the company behind TurboTax and QuickBooks, it …\n來源：Yahoo Finance:INTU",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-defends-intuit-intu-220945960.html?.tsrc=rss",
+      "source": "Yahoo Finance:INTU",
       "kind": "news"
     },
     {
       "n": 7,
-      "symbol": "ECL",
-      "short": "ECL — Ecolab Inc's Dividend Analysis",
-      "detail": "ECL\n重點：新聞\n標題：Ecolab Inc's Dividend Analysis\n摘要：This article first appeared on GuruFocus. Ecolab Inc (NYSE:ECL) recently announced a total dividend of $0.73 per share, with the ex-dividend date set for 2026-09-15. This amount consists of a $0.73 per share cash dividend payable on 2026-10-15.\n來源：Yahoo Finance:ECL",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ecolab-incs-dividend-analysis-110200714.html?.tsrc=rss",
-      "source": "Yahoo Finance:ECL",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "FDX",
-      "short": "FDX — How Investors May Respond To FedEx (FDX) Launching Its Global Trade Navigator E‑Commerc…",
-      "detail": "FDX\n重點：新聞\n標題：How Investors May Respond To FedEx (FDX) Launching Its Global Trade Navigator E‑Commerce Tools\n摘要：Earlier this week, FedEx Corp. launched its Global Trade Navigator suite, introducing new digital tools such as Trade Planner, upgraded Ship Manager capabilities, Shopify duty and tax integration, and Global Trade APIs to simplify international shipping and customs compliance fo…\n來源：Yahoo Finance:FDX",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-fedex-fdx-071202980.html?.tsrc=rss",
-      "source": "Yahoo Finance:FDX",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "FUTU",
-      "short": "FUTU — Futu Holdings Limited Sponsored ADR (NASDAQ:FUTU) Given Consensus Recommendation of \"Ho…",
-      "detail": "FUTU\n重點：新聞\n標題：Futu Holdings Limited Sponsored ADR (NASDAQ:FUTU) Given Consensus Recommendation of \"Hold\" by Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMTgwMzBySENwME9hZU1jZ0JCaFZlTGMwbFZsRll5WDdSak1heWE1VndtUV8wOTdEMHVZUm01djlDZ1FXdkpGY1R3S3dQVl94bHBBdmhMbU5HVGcwTWtVSE91SU45UTAtWGtFeHdudTR6NkJTN3BjRURfS0JJaFUzU1N2ZU1jbFBfc2VfTm9pMW1wWEhtekU0WGVNNzRzS1F4TU1JWEdaX2RVb…\n來源：Google News:FUTU",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMTgwMzBySENwME9hZU1jZ0JCaFZlTGMwbFZsRll5WDdSak1heWE1VndtUV8wOTdEMHVZUm01djlDZ1FXdkpGY1R3S3dQVl94bHBBdmhMbU5HVGcwTWtVSE91SU45UTAtWGtFeHdudTR6NkJTN3BjRURfS0JJaFUzU1N2ZU1jbFBfc2VfTm9pMW1wWEhtekU0WGVNNzRzS1F4TU1JWEdaX2RVbXp2Z21zRmNDbDBxUTBpMDZLRVdCbGVHcU15NzRoSDlrZ1puOUk3Sjg1by1HX3dpQ0FxU2hOM3Iyb0ZHOG5GLU5wZmxPRDNuRHdOZjNj?oc=5",
-      "source": "Google News:FUTU",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "HCA",
-      "short": "HCA — 併購／交易：HCA Healthcare Completes Acquisition of the College of Health Care Professions",
-      "detail": "HCA\n重點：併購／交易\n標題：HCA Healthcare Completes Acquisition of the College of Health Care Professions\n摘要：NASHVILLE, Tenn., September 15, 2026--HCA Healthcare, Inc. (NYSE:HCA), one of the nation’s leading healthcare providers, today announced that it has completed the previously announced acquisition of The College of Health Care Professions (CHCP).\n來源：Yahoo Finance:HCA",
-      "url": "https://finance.yahoo.com/healthcare/articles/hca-healthcare-completes-acquisition-college-123000941.html?.tsrc=rss",
-      "source": "Yahoo Finance:HCA",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "HP",
-      "short": "HP — Helmerich & Payne, Inc. (NYSE:HP) Given Consensus Rating of \"Hold\" by Brokerages - Mark…",
-      "detail": "HP\n重點：新聞\n標題：Helmerich & Payne, Inc. (NYSE:HP) Given Consensus Rating of \"Hold\" by Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTl0V1paLTB4R2ZKOTBqa1VxZGVYaHY5OWNpSXU0V1JnUENVNVB1dkpvWGF5Z0N0MlJXVlZtWjB4dnpucFBzMVFROVVmOThvTWh1dUtJQi1ITWtaeHRTWVBtU0w1NVJPeWpGRU9OZGNiTWk4Ulk4VFN2UXpwajNnZWZhMmxDU2htZVJjNGtPdFJfVVF3dWF0eEdkdEdpS1VhMFUyMGI3SWVLU…\n來源：Google News:HP",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTl0V1paLTB4R2ZKOTBqa1VxZGVYaHY5OWNpSXU0V1JnUENVNVB1dkpvWGF5Z0N0MlJXVlZtWjB4dnpucFBzMVFROVVmOThvTWh1dUtJQi1ITWtaeHRTWVBtU0w1NVJPeWpGRU9OZGNiTWk4Ulk4VFN2UXpwajNnZWZhMmxDU2htZVJjNGtPdFJfVVF3dWF0eEdkdEdpS1VhMFUyMGI3SWVLU19lQzlUNG12b0J4YUk2VTE1NElmam4zeDdRY2FiWWVMMVlyWjdqS1E?oc=5",
-      "source": "Google News:HP",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "LULU",
-      "short": "LULU — Lululemon Athletica (LULU) Resets Leadership, Is The Stock A Bargain?",
-      "detail": "LULU\n重點：新聞\n標題：Lululemon Athletica (LULU) Resets Leadership, Is The Stock A Bargain?\n摘要：New CEO appointment and board changes put governance in focus lululemon athletica (LULU) has just completed a major leadership shift, with Heidi O’Neill stepping in as chief executive officer and joining the board as a Class II director. The board expanded from 11 to 12 director…\n來源：Yahoo Finance:LULU",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lululemon-athletica-lulu-resets-leadership-121246707.html?.tsrc=rss",
-      "source": "Yahoo Finance:LULU",
+      "symbol": "MICC",
+      "short": "MICC — 業績／指引：Magnum Ice Cream (ENXTAM:MICC) Stock Looks Above Fair Value As Shares Climb 26%",
+      "detail": "MICC\n重點：業績／指引\n標題：Magnum Ice Cream (ENXTAM:MICC) Stock Looks Above Fair Value As Shares Climb 26%\n摘要：Magnum Ice Cream has delivered a 25.6% gain year to date, which raises the question of whether the current share price aligns with what the business is earning today. With that kind of move in a relatively short period, the key issue for investors is how much of the story is alr…\n來源：Yahoo Finance:MICC",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/magnum-ice-cream-enxtam-micc-021143333.html?.tsrc=rss",
+      "source": "Yahoo Finance:MICC",
       "kind": "news"
     }
   ]
