@@ -1,11 +1,56 @@
 {
-  "title": "FS新聞 09-16 09:40",
-  "list_name": "FirstScreen_2026-09-16_093954_comma.txt",
-  "created_at": "2026-09-16T09:40:00.895814+00:00",
+  "title": "FS新聞 09-16 14:44",
+  "list_name": "FirstScreen_2026-09-16_144358_comma.txt",
+  "created_at": "2026-09-16T14:44:08.082047+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "KSS",
+      "short": "KSS — Is Kohl's (KSS) Undervalued After Its Babies R Us Expansion And Softer Sephora Sales?",
+      "detail": "KSS\n重點：新聞\n標題：Is Kohl's (KSS) Undervalued After Its Babies R Us Expansion And Softer Sephora Sales?\n摘要：Kohl's leans into Babies R Us expansion as Sephora sales soften Kohl's (KSS) is leaning harder into its Babies R Us partnership, rolling out shop in shops to 56 more stores and launching an exclusive baby collection as Sephora sales ease and traffic gradually improves. The recen…\n來源：Yahoo Finance:KSS\n其他：Brokers Offer Predictions for Kohl's' Q3 Earnings (NYSE:KSS…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kohls-kss-undervalued-babies-r-141052912.html?.tsrc=rss",
+      "source": "Yahoo Finance:KSS",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "MDT",
+      "short": "MDT — Medtronic announces FDA clearance for LigaSure™ RAS Maryland instrument on the Hugo™ RA…",
+      "detail": "MDT\n重點：新聞\n標題：Medtronic announces FDA clearance for LigaSure™ RAS Maryland instrument on the Hugo™ RAS system\n摘要：Medtronic (NYSE: MDT), a global leader in healthcare technology, today announced the U.S. Food and Drug Administration (FDA) has cleared the LigaSure™ RAS Maryland jaw device for use with the Hugo™ robotic-assisted surgery (RAS) system. The clearance expands the instruments avai…\n來源：Yahoo Finance:MDT\n其他：California State Teachers Retirement System Sells 17,552 Sh…",
+      "url": "https://finance.yahoo.com/healthcare/articles/medtronic-announces-fda-clearance-ligasure-103000828.html?.tsrc=rss",
+      "source": "Yahoo Finance:MDT",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "PR",
+      "short": "PR — Permian Resources Corp's Dividend Analysis",
+      "detail": "PR\n重點：新聞\n標題：Permian Resources Corp's Dividend Analysis\n摘要：This article first appeared on GuruFocus. Permian Resources Corp (NYSE:PR) recently announced a total dividend of $0.16 per share, with the ex-dividend date set for 2026-09-16. This distribution consists of $0.16 per share in cash dividends payable on 2026-09-30.\n來源：Yahoo Finance:PR\n其他：Permian Resources (NYSE:PR) Hits New 1-Year High - What's N…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-corps-dividend-analysis-110522136.html?.tsrc=rss",
+      "source": "Yahoo Finance:PR",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "A",
+      "short": "A — Red October Sell-Off Could Be Coming: 5 Warren Buffett Dividend Stocks Are Safe Havens",
+      "detail": "A\n重點：新聞\n標題：Red October Sell-Off Could Be Coming: 5 Warren Buffett Dividend Stocks Are Safe Havens\n摘要：A stock market correction of up to 20% may arrive sooner than most investors expect, but five Berkshire Hathaway holdings are already positioned to weather the storm while paying investors to wait.\n來源：Yahoo Finance:OXY",
+      "url": "https://247wallst.com/energy/2026/09/16/red-october-sell-off-could-be-coming-5-warren-buffett-dividend-stocks-are-safe-havens/?.tsrc=rss",
+      "source": "Yahoo Finance:OXY",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "AEO",
+      "short": "AEO — American Eagle Outfitters, Inc. (NYSE:AEO) Plans $0.12 Quarterly Dividend - MarketBeat",
+      "detail": "AEO\n重點：新聞\n標題：American Eagle Outfitters, Inc. (NYSE:AEO) Plans $0.12 Quarterly Dividend - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNbjFSM25qX3Jjamwwb3VrWEhkaFdxZHhQQjEycEs4MXB6S0w2UVdRY3hGVjF0MGNjLS1nVXF3cF9XTE1FakoxTUtocS1yV3RkOTIxcmpzTldiQUtDZnluY3NWUlMxSndBVzRzLWd5dzl5NXhOQXI3QTd2REFmUGZONjZuYmRZWXZ1VDhVZ3FhQzd2dkhManFOcUNMWUZ4VWpSZzFhM0YtWUlsT…\n來源：Google News:AEO",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbjFSM25qX3Jjamwwb3VrWEhkaFdxZHhQQjEycEs4MXB6S0w2UVdRY3hGVjF0MGNjLS1nVXF3cF9XTE1FakoxTUtocS1yV3RkOTIxcmpzTldiQUtDZnluY3NWUlMxSndBVzRzLWd5dzl5NXhOQXI3QTd2REFmUGZONjZuYmRZWXZ1VDhVZ3FhQzd2dkhManFOcUNMWUZ4VWpSZzFhM0YtWUlsT1RLS19sWlVHRjBMWDVVQWpxM2JWekxlQUV3YzQtYVB3?oc=5",
+      "source": "Google News:AEO",
+      "kind": "news"
+    },
+    {
+      "n": 6,
       "symbol": "ANET",
       "short": "ANET — AI相關、業績／指引：Bull of the Day: Arista Networks, Inc. (ANET)",
       "detail": "ANET\n重點：AI相關、業績／指引\n標題：Bull of the Day: Arista Networks, Inc. (ANET)\n摘要：Arista is a high-tech picks-and-shovels AI stock that more than doubled its revenue and earnings between 2022 and 2025. ANET is set to follow this up with stellar growth in 2026 and 2027.\n來源：Yahoo Finance:ANET",
@@ -14,7 +59,7 @@
       "kind": "news"
     },
     {
-      "n": 2,
+      "n": 7,
       "symbol": "CARG",
       "short": "CARG — Engineers Gate Manager LP Sells 43,408 Shares of CarGurus, Inc. $CARG - MarketBeat",
       "detail": "CARG\n重點：新聞\n標題：Engineers Gate Manager LP Sells 43,408 Shares of CarGurus, Inc. $CARG - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOOUwyR2h3WWhTX25ZUE0zWXBSV3ZIQlE1cTg1Rkh5WlN4WkN0TWxhaldnajM3NlV0YlBGQmtQMVJBNXRzTFJFTldfR2IyRDE4WWdfYm5rX1BadmxBMktpRlZyX0twYklUWnlXYkdCeFNadEhlX29hR0tINm1hU0JZU0FNX1g4aS1RbFJ0SFhEUTI2UmdxWDRneC1UZmpfSXVNZV80WVE3cTVrb…\n來源：Google News:CARG",
@@ -23,7 +68,16 @@
       "kind": "news"
     },
     {
-      "n": 3,
+      "n": 8,
+      "symbol": "FSK",
+      "short": "FSK — FS KKR Capital Corp's Dividend Analysis",
+      "detail": "FSK\n重點：新聞\n標題：FS KKR Capital Corp's Dividend Analysis\n摘要：FS KKR Capital Corp (NYSE:FSK) recently announced a total dividend of $0.44 per share, with the ex-dividend date set for 2026-09-16. This distribution consists entirely of a $0.44 per share cash dividend, payable on 2026-10-02 to shareholders of record as of the ex-dividend date…\n來源：Yahoo Finance:FSK",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fs-kkr-capital-corps-dividend-111614204.html?.tsrc=rss",
+      "source": "Yahoo Finance:FSK",
+      "kind": "news"
+    },
+    {
+      "n": 9,
       "symbol": "INTU",
       "short": "INTU — Bank of America Corp DE Makes New Investment in Intuit Inc. $INTU - MarketBeat",
       "detail": "INTU\n重點：新聞\n標題：Bank of America Corp DE Makes New Investment in Intuit Inc. $INTU - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM3pWMVV2MFlMNlhnRHFfYmUzbW5lOEo0dmx2aVRmVHd2cVNlR3lkaW5rdWt4MXhUMTV1dXhFRWpyb1laNEJSN1I4MTBCTlRzYjlSMFVGNmdHR1c0dlNMQVdtZ0R5NUZadERrQ2Nla2h1S3pCaDJkQ0I1TjVZQW9zY1dKcEwwdHQ5cW9zNDZPREMwMGpUREFfbHdnazBCNFZJSkhFemwweTNJZ…\n來源：Google News:INTU",
@@ -32,25 +86,16 @@
       "kind": "news"
     },
     {
-      "n": 4,
-      "symbol": "KSS",
-      "short": "KSS — Kohl's Corporation (NYSE:KSS) Given Average Recommendation of \"Reduce\" by Brokerages - …",
-      "detail": "KSS\n重點：新聞\n標題：Kohl's Corporation (NYSE:KSS) Given Average Recommendation of \"Reduce\" by Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQVoyZDNXTWNTYWV6OF9YdjEzRGs4d29oblc5eEkzYllLeGd0N203SmVsc2dDOHQ1ZkwxeVRzb0hubmtfR1JtMnlrWFAxY0VucXUxYkJBVUxTNmRGc2k3ejVBekFZTVNwLU1xRGJVd3R2ZExTTTZBTnBmdTB1ZzU4NzRkVmNJaTQzZGlfQWh5R0FCU1M4eVRmT2xnZll4c1J0b1hTdUNPTDJlM…\n來源：Google News:KSS",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQVoyZDNXTWNTYWV6OF9YdjEzRGs4d29oblc5eEkzYllLeGd0N203SmVsc2dDOHQ1ZkwxeVRzb0hubmtfR1JtMnlrWFAxY0VucXUxYkJBVUxTNmRGc2k3ejVBekFZTVNwLU1xRGJVd3R2ZExTTTZBTnBmdTB1ZzU4NzRkVmNJaTQzZGlfQWh5R0FCU1M4eVRmT2xnZll4c1J0b1hTdUNPTDJlMkFyaGtaQzVUYWxjQ2VnNjZQNVRqellnMEh4cFROS0FDSlFRcml6eHRYNDRrOU1KUTA?oc=5",
-      "source": "Google News:KSS",
+      "n": 10,
+      "symbol": "NESR",
+      "short": "NESR — 業績／指引：NESR Stock Trades at a Premium: Still an Attractive Opportunity?",
+      "detail": "NESR\n重點：業績／指引\n標題：NESR Stock Trades at a Premium: Still an Attractive Opportunity?\n摘要：National Energy Services' premium valuation is backed by strong oil prices, major contract wins, technology expansion and higher earnings-growth expectations.\n來源：Yahoo Finance:NESR",
+      "url": "https://finance.yahoo.com/energy/articles/nesr-stock-trades-premium-still-141900886.html?.tsrc=rss",
+      "source": "Yahoo Finance:NESR",
       "kind": "news"
     },
     {
-      "n": 5,
-      "symbol": "MICC",
-      "short": "MICC — 業績／指引：Magnum Ice Cream (ENXTAM:MICC) Stock Looks Above Fair Value As Shares Climb 26%",
-      "detail": "MICC\n重點：業績／指引\n標題：Magnum Ice Cream (ENXTAM:MICC) Stock Looks Above Fair Value As Shares Climb 26%\n摘要：Magnum Ice Cream has delivered a 25.6% gain year to date, which raises the question of whether the current share price aligns with what the business is earning today. With that kind of move in a relatively short period, the key issue for investors is how much of the story is alr…\n來源：Yahoo Finance:MICC",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/magnum-ice-cream-enxtam-micc-021143333.html?.tsrc=rss",
-      "source": "Yahoo Finance:MICC",
-      "kind": "news"
-    },
-    {
-      "n": 6,
+      "n": 11,
       "symbol": "OKTA",
       "short": "OKTA — Okta (NASDAQ:OKTA) Reaches New 12-Month High - Time to Buy? - MarketBeat",
       "detail": "OKTA\n重點：新聞\n標題：Okta (NASDAQ:OKTA) Reaches New 12-Month High - Time to Buy? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQd2JPWnNvYXhlN2s4cEl0OTAzY1NGYTlyVXQxdTR5eUJKRlZMXzZjUXF1VG9oby1iQXhKTzFHMGFYNGdlaE5IYmlzcEpjZU9rdzdvUVlfcnNNd0pLQXRTa1hBTjk4NTI5d3NKQXF4bEpXd0hUdmVsX28xcUM0X2k4QUpZeHNJZ0Q2WF9ZTTFyNTAxSllkeDJ1WC1pSXBBNEsyTmtCSGI4Rkhuc…\n來源：Google News:OKTA",
@@ -59,39 +104,12 @@
       "kind": "news"
     },
     {
-      "n": 7,
+      "n": 12,
       "symbol": "OXY",
       "short": "OXY — NewEdge Advisors LLC Buys 22,183 Shares of Occidental Petroleum Corporation $OXY - Mark…",
       "detail": "OXY\n重點：新聞\n標題：NewEdge Advisors LLC Buys 22,183 Shares of Occidental Petroleum Corporation $OXY - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3AzVlVlRUN0d2RRRnpBdFlrZm5MdlozS1Z1TGNjODNYR3NaTmdmODFFR2tHNUVFNXRLWDY4UjhGdV95U3JZNEtHMzdkUWRHRFZGczNTV21jQU5fOVR0bm1STjdhcTZ2clpOOHZmX2J1VWx0ZlN5aUx4UmJaa2Qzb0R1OGg3VURvWk1aRWQ2Mm9zSmQybVNQazJhdjJnNGtRLU1vQ1RzWGcwT…\n來源：Google News:OXY",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3AzVlVlRUN0d2RRRnpBdFlrZm5MdlozS1Z1TGNjODNYR3NaTmdmODFFR2tHNUVFNXRLWDY4UjhGdV95U3JZNEtHMzdkUWRHRFZGczNTV21jQU5fOVR0bm1STjdhcTZ2clpOOHZmX2J1VWx0ZlN5aUx4UmJaa2Qzb0R1OGg3VURvWk1aRWQ2Mm9zSmQybVNQazJhdjJnNGtRLU1vQ1RzWGcwTmtCeHlqdHhPWUhuV3dmaWxIRHl6NF83ZGlfakxsTWQ1STZGT0wyV0RLUzdR?oc=5",
       "source": "Google News:OXY",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "PR",
-      "short": "PR — Permian Resources (NYSE:PR) Hits New 1-Year High - What's Next? - MarketBeat",
-      "detail": "PR\n重點：新聞\n標題：Permian Resources (NYSE:PR) Hits New 1-Year High - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZEU0bjB1d2F2ekFGaG5SUENnaV9lZEpUWVJWYTJtUlFLOXFKTzUwaS05aEQtQmVXaFhhWWl4cGVGYURjSGxwMUtGNjVpZ3FsWHpVZG1abUdiYlU3cjRSRmJKWVBuSnF4YmcwT2tyZ0hYMHoteUpZTHpaN0ExbGVJbnY3ekZoUTF4b19vcWxrNE9vZ0E2WmIxZHNwVUxIazFINzk0b3FWcjhta…\n來源：Google News:PR",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZEU0bjB1d2F2ekFGaG5SUENnaV9lZEpUWVJWYTJtUlFLOXFKTzUwaS05aEQtQmVXaFhhWWl4cGVGYURjSGxwMUtGNjVpZ3FsWHpVZG1abUdiYlU3cjRSRmJKWVBuSnF4YmcwT2tyZ0hYMHoteUpZTHpaN0ExbGVJbnY3ekZoUTF4b19vcWxrNE9vZ0E2WmIxZHNwVUxIazFINzk0b3FWcjhtaEtqNXZvQW9hUmJPMlE4?oc=5",
-      "source": "Google News:PR",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "ROKU",
-      "short": "ROKU — Roku, Inc. (NASDAQ:ROKU) Receives Average Recommendation of \"Hold\" from Analysts - Mark…",
-      "detail": "ROKU\n重點：新聞\n標題：Roku, Inc. (NASDAQ:ROKU) Receives Average Recommendation of \"Hold\" from Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbDFZMGZLMzZkWTNvUVZ0WjVDek1JbHdnRFlEZ2xxXzhST1ZEZnNwR0dJbWp2UE1QR2RZbTk1SHZVVTEwWVFSNmc4cGZ1MDlSUlJDQUJZQUFlNlg2Z3AtMlA4WG1FaTRrOXFUcDZ2TEJ3OWY5SFo1U25aWk1VWjRoUzE3UnkyTi0tTE11aEItTUN1LXVkNXFhZ3VKMF9RV1hIbEpxc3JMX2ZMb…\n來源：Google News:ROKU",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbDFZMGZLMzZkWTNvUVZ0WjVDek1JbHdnRFlEZ2xxXzhST1ZEZnNwR0dJbWp2UE1QR2RZbTk1SHZVVTEwWVFSNmc4cGZ1MDlSUlJDQUJZQUFlNlg2Z3AtMlA4WG1FaTRrOXFUcDZ2TEJ3OWY5SFo1U25aWk1VWjRoUzE3UnkyTi0tTE11aEItTUN1LXVkNXFhZ3VKMF9RV1hIbEpxc3JMX2ZMbXVXNUpNTmFxb0JQNGwwaVpHOEZSblp5QVpweFcxdkt4U29LSGozRHNSYQ?oc=5",
-      "source": "Google News:ROKU",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "ROST",
-      "short": "ROST — NewEdge Advisors LLC Buys 5,012 Shares of Ross Stores, Inc. $ROST - MarketBeat",
-      "detail": "ROST\n重點：新聞\n標題：NewEdge Advisors LLC Buys 5,012 Shares of Ross Stores, Inc. $ROST - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPWUI2VWZOdm9VUERNQVJQSEx3WWstaTgweVkwbDhITTFSZE9xYjVnekF3RlJsX3lkY1VDQXRWSnFFdzgxUDBWeXgtVnVsc081YjE5anhJX2ZVOWR2YVRWNU1hUDhGMXhLcFUtTklPYV8xTnpLV29YV3JOVjJzb0E0b1diWnlVdTZnMmRvVE9HdXAxSlRGa2FYNV9uTFp3VUlRZkNzaXMzMWxJS…\n來源：Google News:ROST",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWUI2VWZOdm9VUERNQVJQSEx3WWstaTgweVkwbDhITTFSZE9xYjVnekF3RlJsX3lkY1VDQXRWSnFFdzgxUDBWeXgtVnVsc081YjE5anhJX2ZVOWR2YVRWNU1hUDhGMXhLcFUtTklPYV8xTnpLV29YV3JOVjJzb0E0b1diWnlVdTZnMmRvVE9HdXAxSlRGa2FYNV9uTFp3VUlRZkNzaXMzMWxJSmVwZEw4YXFhVFBCS1RqRDhKcDd2SQ?oc=5",
-      "source": "Google News:ROST",
       "kind": "news"
     }
   ]
