@@ -1,70 +1,97 @@
 {
-  "title": "FS新聞 09-16 05:00",
-  "list_name": "FirstScreen_2026-09-16_050019_comma.txt",
-  "created_at": "2026-09-16T05:00:29.620977+00:00",
+  "title": "FS新聞 09-16 09:40",
+  "list_name": "FirstScreen_2026-09-16_093954_comma.txt",
+  "created_at": "2026-09-16T09:40:00.895814+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "LQDA",
-      "short": "LQDA — Raman Singh Sells 8,468 Shares of Liquidia (NASDAQ:LQDA) Stock - MarketBeat",
-      "detail": "LQDA\n重點：新聞\n標題：Raman Singh Sells 8,468 Shares of Liquidia (NASDAQ:LQDA) Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxObjN0N3ctdTJpdzBnLTdVRWIwbmwtLUFDeDVVODZmWkdrU05ZLUxGUjl2RkNySU5Ddk1tbm5vc0M2OHJPLWc1cUJ5OVdyNHVRbkxHUERFci1VNDNDdlhZcThzaUcwRVdtY1o3NG5HSVJlVXFHNEU3eWZLbjR0dk84V1UwRHNZbGxpblVoNUQ2S2QwWVZ4ZHpjRngtRWw1Z3dPU2lPM3hkZEhvO…\n來源：Google News:LQDA\n其他：Liquidia (NASDAQ:LQDA) Director Raman Singh Sells 9,024 Sha…",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObjN0N3ctdTJpdzBnLTdVRWIwbmwtLUFDeDVVODZmWkdrU05ZLUxGUjl2RkNySU5Ddk1tbm5vc0M2OHJPLWc1cUJ5OVdyNHVRbkxHUERFci1VNDNDdlhZcThzaUcwRVdtY1o3NG5HSVJlVXFHNEU3eWZLbjR0dk84V1UwRHNZbGxpblVoNUQ2S2QwWVZ4ZHpjRngtRWw1Z3dPU2lPM3hkZEhvOF9mV0VPbXlBdjAzTGpoNlpyaEZn?oc=5",
-      "source": "Google News:LQDA",
-      "kind": "news"
-    },
-    {
-      "n": 2,
-      "symbol": "ROST",
-      "short": "ROST — Ross Stores (NASDAQ:ROST) Insider Stephen Brinkley Sells 6,424 Shares of Stock - Market…",
-      "detail": "ROST\n重點：新聞\n標題：Ross Stores (NASDAQ:ROST) Insider Stephen Brinkley Sells 6,424 Shares of Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLXZIS2pHaUtKMVBKbm05SHdZUHBkWWM2dUpXNkxsQThRZlNqRndjeU5UeVNPQUpMb1psN2RwSDNpMElFTy1IZkdBbmpuUzZkUFFzelBIVXpjSWRBMkcwS1RpRXNjbkhRb3owUS1SMjRVX3ZPNTlWOEtEbVVYaXRDeUt1MmlEd2RpYjJpT1doNlJuVTFOUFVHNGg1WG5Xc21nN3NiSHYxNEZOd…\n來源：Google News:ROST\n其他：Ross Stores (NASDAQ:ROST) CEO Sells 49,205 Shares - MarketB…",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLXZIS2pHaUtKMVBKbm05SHdZUHBkWWM2dUpXNkxsQThRZlNqRndjeU5UeVNPQUpMb1psN2RwSDNpMElFTy1IZkdBbmpuUzZkUFFzelBIVXpjSWRBMkcwS1RpRXNjbkhRb3owUS1SMjRVX3ZPNTlWOEtEbVVYaXRDeUt1MmlEd2RpYjJpT1doNlJuVTFOUFVHNGg1WG5Xc21nN3NiSHYxNEZOd3p4NmpvLXF2QmhHTHczLUZJM2Y4TE4ydjk1UmlzY2tra3JhRVhFQ1Jv?oc=5",
-      "source": "Google News:ROST",
-      "kind": "news"
-    },
-    {
-      "n": 3,
       "symbol": "ANET",
-      "short": "ANET — AI相關、業績／指引：Was Arista Networks Stock's Surge Visible Before It Happened?",
-      "detail": "ANET\n重點：AI相關、業績／指引\n標題：Was Arista Networks Stock's Surge Visible Before It Happened?\n摘要：Arista Networks (ANET) stock rose 40.6% between mid-March and mid-September 2026, against 15.5% for the S&amp;P 500. Arista sells the Ethernet switches, its Etherlink line among them, that tie AI accelerators together inside a data center, largely for its biggest customers, the …\n來源：Yahoo Finance:ANET",
-      "url": "https://www.trefis.com/articles/615355/was-arista-networks-stocks-surge-visible-before-it-happened/2026-09-15?.tsrc=rss",
+      "short": "ANET — AI相關、業績／指引：Bull of the Day: Arista Networks, Inc. (ANET)",
+      "detail": "ANET\n重點：AI相關、業績／指引\n標題：Bull of the Day: Arista Networks, Inc. (ANET)\n摘要：Arista is a high-tech picks-and-shovels AI stock that more than doubled its revenue and earnings between 2022 and 2025. ANET is set to follow this up with stellar growth in 2026 and 2027.\n來源：Yahoo Finance:ANET",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bull-day-arista-networks-inc-080000201.html?.tsrc=rss",
       "source": "Yahoo Finance:ANET",
       "kind": "news"
     },
     {
+      "n": 2,
+      "symbol": "CARG",
+      "short": "CARG — Engineers Gate Manager LP Sells 43,408 Shares of CarGurus, Inc. $CARG - MarketBeat",
+      "detail": "CARG\n重點：新聞\n標題：Engineers Gate Manager LP Sells 43,408 Shares of CarGurus, Inc. $CARG - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOOUwyR2h3WWhTX25ZUE0zWXBSV3ZIQlE1cTg1Rkh5WlN4WkN0TWxhaldnajM3NlV0YlBGQmtQMVJBNXRzTFJFTldfR2IyRDE4WWdfYm5rX1BadmxBMktpRlZyX0twYklUWnlXYkdCeFNadEhlX29hR0tINm1hU0JZU0FNX1g4aS1RbFJ0SFhEUTI2UmdxWDRneC1UZmpfSXVNZV80WVE3cTVrb…\n來源：Google News:CARG",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOUwyR2h3WWhTX25ZUE0zWXBSV3ZIQlE1cTg1Rkh5WlN4WkN0TWxhaldnajM3NlV0YlBGQmtQMVJBNXRzTFJFTldfR2IyRDE4WWdfYm5rX1BadmxBMktpRlZyX0twYklUWnlXYkdCeFNadEhlX29hR0tINm1hU0JZU0FNX1g4aS1RbFJ0SFhEUTI2UmdxWDRneC1UZmpfSXVNZV80WVE3cTVrbHNWTk1pNnM0YWVKWkxZUmVVV195U3VfZUc5?oc=5",
+      "source": "Google News:CARG",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "INTU",
+      "short": "INTU — Bank of America Corp DE Makes New Investment in Intuit Inc. $INTU - MarketBeat",
+      "detail": "INTU\n重點：新聞\n標題：Bank of America Corp DE Makes New Investment in Intuit Inc. $INTU - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM3pWMVV2MFlMNlhnRHFfYmUzbW5lOEo0dmx2aVRmVHd2cVNlR3lkaW5rdWt4MXhUMTV1dXhFRWpyb1laNEJSN1I4MTBCTlRzYjlSMFVGNmdHR1c0dlNMQVdtZ0R5NUZadERrQ2Nla2h1S3pCaDJkQ0I1TjVZQW9zY1dKcEwwdHQ5cW9zNDZPREMwMGpUREFfbHdnazBCNFZJSkhFemwweTNJZ…\n來源：Google News:INTU",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM3pWMVV2MFlMNlhnRHFfYmUzbW5lOEo0dmx2aVRmVHd2cVNlR3lkaW5rdWt4MXhUMTV1dXhFRWpyb1laNEJSN1I4MTBCTlRzYjlSMFVGNmdHR1c0dlNMQVdtZ0R5NUZadERrQ2Nla2h1S3pCaDJkQ0I1TjVZQW9zY1dKcEwwdHQ5cW9zNDZPREMwMGpUREFfbHdnazBCNFZJSkhFemwweTNJZlhiX0NrMnZBMXVyODJFMFdPaWpSR1Mzdw?oc=5",
+      "source": "Google News:INTU",
+      "kind": "news"
+    },
+    {
       "n": 4,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce (NYSE:CRM) Shares Down 1.6% - What's Next? - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Shares Down 1.6% - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWVBTm81Y2lBdzd2dloyQTNLLXZPMVd0b3k2UkRXSkdsQ050dm9CR3V0dGhPZ1pzNkZWT3BvN2dUTEJVM1N2MGdiQlRtc18xVGUzb0FwcVFDVG5ITlVvNmpVejh6ZjRpVC1UNU9FM2lObm5zQWZLNi1rVjlzWGFzUThkeWYyc2pSU0xQRFBtbWU1OC1EelBxYThTRThxTmFmcE1jS0pqN1I?o…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWVBTm81Y2lBdzd2dloyQTNLLXZPMVd0b3k2UkRXSkdsQ050dm9CR3V0dGhPZ1pzNkZWT3BvN2dUTEJVM1N2MGdiQlRtc18xVGUzb0FwcVFDVG5ITlVvNmpVejh6ZjRpVC1UNU9FM2lObm5zQWZLNi1rVjlzWGFzUThkeWYyc2pSU0xQRFBtbWU1OC1EelBxYThTRThxTmFmcE1jS0pqN1I?oc=5",
-      "source": "Google News:CRM",
+      "symbol": "KSS",
+      "short": "KSS — Kohl's Corporation (NYSE:KSS) Given Average Recommendation of \"Reduce\" by Brokerages - …",
+      "detail": "KSS\n重點：新聞\n標題：Kohl's Corporation (NYSE:KSS) Given Average Recommendation of \"Reduce\" by Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQVoyZDNXTWNTYWV6OF9YdjEzRGs4d29oblc5eEkzYllLeGd0N203SmVsc2dDOHQ1ZkwxeVRzb0hubmtfR1JtMnlrWFAxY0VucXUxYkJBVUxTNmRGc2k3ejVBekFZTVNwLU1xRGJVd3R2ZExTTTZBTnBmdTB1ZzU4NzRkVmNJaTQzZGlfQWh5R0FCU1M4eVRmT2xnZll4c1J0b1hTdUNPTDJlM…\n來源：Google News:KSS",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQVoyZDNXTWNTYWV6OF9YdjEzRGs4d29oblc5eEkzYllLeGd0N203SmVsc2dDOHQ1ZkwxeVRzb0hubmtfR1JtMnlrWFAxY0VucXUxYkJBVUxTNmRGc2k3ejVBekFZTVNwLU1xRGJVd3R2ZExTTTZBTnBmdTB1ZzU4NzRkVmNJaTQzZGlfQWh5R0FCU1M4eVRmT2xnZll4c1J0b1hTdUNPTDJlMkFyaGtaQzVUYWxjQ2VnNjZQNVRqellnMEh4cFROS0FDSlFRcml6eHRYNDRrOU1KUTA?oc=5",
+      "source": "Google News:KSS",
       "kind": "news"
     },
     {
       "n": 5,
-      "symbol": "EL",
-      "short": "EL — Estee Lauder Companies (NYSE:EL) Director Sells $5,693,860.00 in Stock - MarketBeat",
-      "detail": "EL\n重點：新聞\n標題：Estee Lauder Companies (NYSE:EL) Director Sells $5,693,860.00 in Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOejdJQ3NrSlU4em5KeEJSRGhFbnFzTDlqRmJMdm80c1hPUnRpOE1vZWlCVzVrdlh5RS00dnRiaTNwZWVlbFVXTDcwY3RfZmp5M1FlQ2c3cEtRQk5nR051VmJIY0puZHFobURsWXUxNnJSaVo1c3dNYjRCSEZFb2pXUmtaaWdCc3dxazIwZHZVT3B4NXZvcnQwbjVPa1IxTnk2VzB2R3FBLWJXN…\n來源：Google News:EL",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOejdJQ3NrSlU4em5KeEJSRGhFbnFzTDlqRmJMdm80c1hPUnRpOE1vZWlCVzVrdlh5RS00dnRiaTNwZWVlbFVXTDcwY3RfZmp5M1FlQ2c3cEtRQk5nR051VmJIY0puZHFobURsWXUxNnJSaVo1c3dNYjRCSEZFb2pXUmtaaWdCc3dxazIwZHZVT3B4NXZvcnQwbjVPa1IxTnk2VzB2R3FBLWJXNVc1Qm5EbjNRcmwyZ0NUaDFXYi1SeU5jX1JR?oc=5",
-      "source": "Google News:EL",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "INTU",
-      "short": "INTU — AI相關：Jim Cramer Defends Intuit (INTU) Against AI Skeptics Ahead of Investor Day",
-      "detail": "INTU\n重點：AI相關\n標題：Jim Cramer Defends Intuit (INTU) Against AI Skeptics Ahead of Investor Day\n摘要：On CNBC’s Mad Money episode aired on September 11, Jim Cramer highlighted Intuit Inc. (NASDAQ:INTU) ahead of its upcoming analyst meeting and investor day. He stated: Thursday, we have two important analyst meetings… As for Intuit, the company behind TurboTax and QuickBooks, it …\n來源：Yahoo Finance:INTU",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-defends-intuit-intu-220945960.html?.tsrc=rss",
-      "source": "Yahoo Finance:INTU",
-      "kind": "news"
-    },
-    {
-      "n": 7,
       "symbol": "MICC",
       "short": "MICC — 業績／指引：Magnum Ice Cream (ENXTAM:MICC) Stock Looks Above Fair Value As Shares Climb 26%",
       "detail": "MICC\n重點：業績／指引\n標題：Magnum Ice Cream (ENXTAM:MICC) Stock Looks Above Fair Value As Shares Climb 26%\n摘要：Magnum Ice Cream has delivered a 25.6% gain year to date, which raises the question of whether the current share price aligns with what the business is earning today. With that kind of move in a relatively short period, the key issue for investors is how much of the story is alr…\n來源：Yahoo Finance:MICC",
       "url": "https://finance.yahoo.com/markets/stocks/articles/magnum-ice-cream-enxtam-micc-021143333.html?.tsrc=rss",
       "source": "Yahoo Finance:MICC",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "OKTA",
+      "short": "OKTA — Okta (NASDAQ:OKTA) Reaches New 12-Month High - Time to Buy? - MarketBeat",
+      "detail": "OKTA\n重點：新聞\n標題：Okta (NASDAQ:OKTA) Reaches New 12-Month High - Time to Buy? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQd2JPWnNvYXhlN2s4cEl0OTAzY1NGYTlyVXQxdTR5eUJKRlZMXzZjUXF1VG9oby1iQXhKTzFHMGFYNGdlaE5IYmlzcEpjZU9rdzdvUVlfcnNNd0pLQXRTa1hBTjk4NTI5d3NKQXF4bEpXd0hUdmVsX28xcUM0X2k4QUpZeHNJZ0Q2WF9ZTTFyNTAxSllkeDJ1WC1pSXBBNEsyTmtCSGI4Rkhuc…\n來源：Google News:OKTA",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd2JPWnNvYXhlN2s4cEl0OTAzY1NGYTlyVXQxdTR5eUJKRlZMXzZjUXF1VG9oby1iQXhKTzFHMGFYNGdlaE5IYmlzcEpjZU9rdzdvUVlfcnNNd0pLQXRTa1hBTjk4NTI5d3NKQXF4bEpXd0hUdmVsX28xcUM0X2k4QUpZeHNJZ0Q2WF9ZTTFyNTAxSllkeDJ1WC1pSXBBNEsyTmtCSGI4RkhucUFKb1RtS0s2WXQ?oc=5",
+      "source": "Google News:OKTA",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "OXY",
+      "short": "OXY — NewEdge Advisors LLC Buys 22,183 Shares of Occidental Petroleum Corporation $OXY - Mark…",
+      "detail": "OXY\n重點：新聞\n標題：NewEdge Advisors LLC Buys 22,183 Shares of Occidental Petroleum Corporation $OXY - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3AzVlVlRUN0d2RRRnpBdFlrZm5MdlozS1Z1TGNjODNYR3NaTmdmODFFR2tHNUVFNXRLWDY4UjhGdV95U3JZNEtHMzdkUWRHRFZGczNTV21jQU5fOVR0bm1STjdhcTZ2clpOOHZmX2J1VWx0ZlN5aUx4UmJaa2Qzb0R1OGg3VURvWk1aRWQ2Mm9zSmQybVNQazJhdjJnNGtRLU1vQ1RzWGcwT…\n來源：Google News:OXY",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3AzVlVlRUN0d2RRRnpBdFlrZm5MdlozS1Z1TGNjODNYR3NaTmdmODFFR2tHNUVFNXRLWDY4UjhGdV95U3JZNEtHMzdkUWRHRFZGczNTV21jQU5fOVR0bm1STjdhcTZ2clpOOHZmX2J1VWx0ZlN5aUx4UmJaa2Qzb0R1OGg3VURvWk1aRWQ2Mm9zSmQybVNQazJhdjJnNGtRLU1vQ1RzWGcwTmtCeHlqdHhPWUhuV3dmaWxIRHl6NF83ZGlfakxsTWQ1STZGT0wyV0RLUzdR?oc=5",
+      "source": "Google News:OXY",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "PR",
+      "short": "PR — Permian Resources (NYSE:PR) Hits New 1-Year High - What's Next? - MarketBeat",
+      "detail": "PR\n重點：新聞\n標題：Permian Resources (NYSE:PR) Hits New 1-Year High - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZEU0bjB1d2F2ekFGaG5SUENnaV9lZEpUWVJWYTJtUlFLOXFKTzUwaS05aEQtQmVXaFhhWWl4cGVGYURjSGxwMUtGNjVpZ3FsWHpVZG1abUdiYlU3cjRSRmJKWVBuSnF4YmcwT2tyZ0hYMHoteUpZTHpaN0ExbGVJbnY3ekZoUTF4b19vcWxrNE9vZ0E2WmIxZHNwVUxIazFINzk0b3FWcjhta…\n來源：Google News:PR",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZEU0bjB1d2F2ekFGaG5SUENnaV9lZEpUWVJWYTJtUlFLOXFKTzUwaS05aEQtQmVXaFhhWWl4cGVGYURjSGxwMUtGNjVpZ3FsWHpVZG1abUdiYlU3cjRSRmJKWVBuSnF4YmcwT2tyZ0hYMHoteUpZTHpaN0ExbGVJbnY3ekZoUTF4b19vcWxrNE9vZ0E2WmIxZHNwVUxIazFINzk0b3FWcjhtaEtqNXZvQW9hUmJPMlE4?oc=5",
+      "source": "Google News:PR",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "ROKU",
+      "short": "ROKU — Roku, Inc. (NASDAQ:ROKU) Receives Average Recommendation of \"Hold\" from Analysts - Mark…",
+      "detail": "ROKU\n重點：新聞\n標題：Roku, Inc. (NASDAQ:ROKU) Receives Average Recommendation of \"Hold\" from Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbDFZMGZLMzZkWTNvUVZ0WjVDek1JbHdnRFlEZ2xxXzhST1ZEZnNwR0dJbWp2UE1QR2RZbTk1SHZVVTEwWVFSNmc4cGZ1MDlSUlJDQUJZQUFlNlg2Z3AtMlA4WG1FaTRrOXFUcDZ2TEJ3OWY5SFo1U25aWk1VWjRoUzE3UnkyTi0tTE11aEItTUN1LXVkNXFhZ3VKMF9RV1hIbEpxc3JMX2ZMb…\n來源：Google News:ROKU",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbDFZMGZLMzZkWTNvUVZ0WjVDek1JbHdnRFlEZ2xxXzhST1ZEZnNwR0dJbWp2UE1QR2RZbTk1SHZVVTEwWVFSNmc4cGZ1MDlSUlJDQUJZQUFlNlg2Z3AtMlA4WG1FaTRrOXFUcDZ2TEJ3OWY5SFo1U25aWk1VWjRoUzE3UnkyTi0tTE11aEItTUN1LXVkNXFhZ3VKMF9RV1hIbEpxc3JMX2ZMbXVXNUpNTmFxb0JQNGwwaVpHOEZSblp5QVpweFcxdkt4U29LSGozRHNSYQ?oc=5",
+      "source": "Google News:ROKU",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "ROST",
+      "short": "ROST — NewEdge Advisors LLC Buys 5,012 Shares of Ross Stores, Inc. $ROST - MarketBeat",
+      "detail": "ROST\n重點：新聞\n標題：NewEdge Advisors LLC Buys 5,012 Shares of Ross Stores, Inc. $ROST - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPWUI2VWZOdm9VUERNQVJQSEx3WWstaTgweVkwbDhITTFSZE9xYjVnekF3RlJsX3lkY1VDQXRWSnFFdzgxUDBWeXgtVnVsc081YjE5anhJX2ZVOWR2YVRWNU1hUDhGMXhLcFUtTklPYV8xTnpLV29YV3JOVjJzb0E0b1diWnlVdTZnMmRvVE9HdXAxSlRGa2FYNV9uTFp3VUlRZkNzaXMzMWxJS…\n來源：Google News:ROST",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWUI2VWZOdm9VUERNQVJQSEx3WWstaTgweVkwbDhITTFSZE9xYjVnekF3RlJsX3lkY1VDQXRWSnFFdzgxUDBWeXgtVnVsc081YjE5anhJX2ZVOWR2YVRWNU1hUDhGMXhLcFUtTklPYV8xTnpLV29YV3JOVjJzb0E0b1diWnlVdTZnMmRvVE9HdXAxSlRGa2FYNV9uTFp3VUlRZkNzaXMzMWxJSmVwZEw4YXFhVFBCS1RqRDhKcDd2SQ?oc=5",
+      "source": "Google News:ROST",
       "kind": "news"
     }
   ]
