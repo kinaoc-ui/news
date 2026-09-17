@@ -1,20 +1,29 @@
 {
-  "title": "FS新聞 09-17 09:48",
-  "list_name": "FirstScreen_2026-09-17_094842_comma.txt",
-  "created_at": "2026-09-17T09:48:51.961404+00:00",
+  "title": "FS新聞 09-17 14:47",
+  "list_name": "FirstScreen_2026-09-17_144717_comma.txt",
+  "created_at": "2026-09-17T14:47:26.469305+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
       "symbol": "CRM",
-      "short": "CRM — CRM Stock Edges Up: Long-Term Sales Outlook At Dreamforce Silences ‘SaaSpocalypse’ Crit…",
-      "detail": "CRM\n重點：新聞\n標題：CRM Stock Edges Up: Long-Term Sales Outlook At Dreamforce Silences ‘SaaSpocalypse’ Critics - stocktwits.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTnAtaXJLbkdjZ0hwNm5BUzYtUDlnbmhNTFpuZ1M5X2tYVVBBNVZ2dXowNDNEQ2Z2QnVYNGhJUUFqUXdWVUtLeW55TnNlN2RyUkVzbk9JY1pxOWhkZHJjLU5rVzM5bTRZZHFSTzQ5aWJFdTVsSE45eWpZcDFPU2p3QmpUcVRHUGFCNTRIQ1NsUE5EUDZmQ2NfRVFKdHFWNzFxRnN5S2d4WnN1R…\n來源：Google News:CRM\n其他：CRM Stock Edges Up: Long-Term Sales Outlook At Dreamforce S…; CRM Stock Edges Up: Long-Term Sales Outlook At Dreamforce S…",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTnAtaXJLbkdjZ0hwNm5BUzYtUDlnbmhNTFpuZ1M5X2tYVVBBNVZ2dXowNDNEQ2Z2QnVYNGhJUUFqUXdWVUtLeW55TnNlN2RyUkVzbk9JY1pxOWhkZHJjLU5rVzM5bTRZZHFSTzQ5aWJFdTVsSE45eWpZcDFPU2p3QmpUcVRHUGFCNTRIQ1NsUE5EUDZmQ2NfRVFKdHFWNzFxRnN5S2d4WnN1RGh5TW1pNGl3Sk5JRDZkMmI0X0N4Z2laWnY2N2NNbmdHUnYwbXlpWDRTS1pyZ1hDb21Ib2h5aEUzd3BOR3M?oc=5",
-      "source": "Google News:CRM",
+      "short": "CRM — AI相關：AI is the latest addiction — Does it need to be regulated like cigarettes?",
+      "detail": "CRM\n重點：AI相關\n標題：AI is the latest addiction — Does it need to be regulated like cigarettes?\n摘要：Salesforce (CRM) kicked off its Dreamforce 2026 conference this week, where the company unveiled its new AI-powered AIforce platform. Salesforce CEO Marc Benioff weighs in on how AI should be regulated, comparing the new technology to the addictive nature of cigarettes and socia…\n來源：Yahoo Finance:CRM\n其他：Royal Bank Of Canada Reiterates \"Sector Perform\" Rating for…; Why Is Snap Stock Trading Higher on Thursday?",
+      "url": "https://finance.yahoo.com/video/ai-latest-addiction-does-regulated-135704921.html?.tsrc=rss",
+      "source": "Yahoo Finance:CRM",
       "kind": "news"
     },
     {
       "n": 2,
+      "symbol": "THC",
+      "short": "THC — 業績／指引：Tenet Healthcare (THC) Stock Looks Cheap Relative To Its Earnings",
+      "detail": "THC\n重點：業績／指引\n標題：Tenet Healthcare (THC) Stock Looks Cheap Relative To Its Earnings\n摘要：Tenet Healthcare has turned into a big long term winner for shareholders. The real question today is whether the current share price still lines up with what its earnings can support. After such a strong run, the key issue is whether you are now paying too much for each dollar o…\n來源：Yahoo Finance:THC\n其他：Tenet Healthcare (THC) Stock Looks Cheap Relative To Its Ea…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tenet-healthcare-thc-stock-looks-071132255.html?.tsrc=rss",
+      "source": "Yahoo Finance:THC",
+      "kind": "news"
+    },
+    {
+      "n": 3,
       "symbol": "AEO",
       "short": "AEO — American Eagle (AEO) Stock Looks Undervalued By About 37%",
       "detail": "AEO\n重點：新聞\n標題：American Eagle (AEO) Stock Looks Undervalued By About 37%\n摘要：American Eagle Outfitters has seen its share price fall sharply this year, and the drop raises a simple question for investors who care about fundamentals. Is the current US$14.81 price broadly aligned with what the retailer's cash flows can justify over time, or has sentiment m…\n來源：Yahoo Finance:AEO",
@@ -23,7 +32,7 @@
       "kind": "news"
     },
     {
-      "n": 3,
+      "n": 4,
       "symbol": "ALSN",
       "short": "ALSN — Corient Private Wealth LP Lowers Holdings in Allison Transmission Holdings, Inc. $ALSN …",
       "detail": "ALSN\n重點：新聞\n標題：Corient Private Wealth LP Lowers Holdings in Allison Transmission Holdings, Inc. $ALSN - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWlpBeXR4Y2FDbG5LSWlVNkZ6eVhVZFZfWXFOVGJmbDF3MnJWUjdUaUJVZDFsZElUbkZ3Tllmd1pZenlpUnpKWVhHQnh4U2t3bHVqU1VTMm50Y3NNaTRydWNSUmxEY1JfLXR6MDNlaXoxREFTRzItX2ZIc2VwLVhkOE5ZY2lHSFdoZ0RSQ0p0V1pkRkhoZVdRbl9QY3EySFpjcEwzclRXc0NXO…\n來源：Google News:ALSN",
@@ -32,34 +41,43 @@
       "kind": "news"
     },
     {
-      "n": 4,
-      "symbol": "EL",
-      "short": "EL — AI相關：Estée Lauder Companies (EL) Expands AI Marketing Push, Is The Stock Still Cheap?",
-      "detail": "EL\n重點：AI相關\n標題：Estée Lauder Companies (EL) Expands AI Marketing Push, Is The Stock Still Cheap?\n摘要：Estée Lauder Companies (EL) has partnered globally with Profound, an AI marketing platform, to monitor and refine how its brands appear across major generative AI assistants like ChatGPT and Gemini. Despite the focus on AI partnerships and refreshed leadership roles, Estée Laude…\n來源：Yahoo Finance:EL",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/est-e-lauder-companies-el-061207782.html?.tsrc=rss",
-      "source": "Yahoo Finance:EL",
-      "kind": "news"
-    },
-    {
       "n": 5,
       "symbol": "FTNT",
-      "short": "FTNT — Will New York Hub Opening Change Fortinet (FTNT) Stock Narrative - simplywall.st",
-      "detail": "FTNT\n重點：新聞\n標題：Will New York Hub Opening Change Fortinet (FTNT) Stock Narrative - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDE2U1hVUDg2UVhkQk93SGZDNTdEbzRzODJpRjI3WUQ1TUJ6VzVoYlF2OHZPX2lxVU1tTjRZT0t1NXJ3VTA4QlBLT3d5LTlwRV9TR2FUa2piSTkzRlpnVEhZYzNDdGVPcktOUkRtMENpaWZldlBzLXdieGpXTWxMcDI4OFV1cWc1NnRyVzV1bDVWRXNSTXF6U3czbnJxRy1wbEVhYmFDa3NIY…\n來源：Google News:FTNT",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDE2U1hVUDg2UVhkQk93SGZDNTdEbzRzODJpRjI3WUQ1TUJ6VzVoYlF2OHZPX2lxVU1tTjRZT0t1NXJ3VTA4QlBLT3d5LTlwRV9TR2FUa2piSTkzRlpnVEhZYzNDdGVPcktOUkRtMENpaWZldlBzLXdieGpXTWxMcDI4OFV1cWc1NnRyVzV1bDVWRXNSTXF6U3czbnJxRy1wbEVhYmFDa3NIYTBMZE85Ul94aVFESVdrYVpPdjhkOGVXS0lPRHfSAcsBQVVfeXFMUDhRZlhiRUU4MnF1Q2ZqdUQ4VVJEODNzREVmM0pEbnRvclM2VVdUSnRFdmRBOGo5RE5MYW1vWVZzeDJJLTFZWUNhVDVMQ0oyTEJQTFZRWXJFc29DR1hnN2RsOHJZWjlIQWF4RHRWQ1k4a0xHYlB4YWNCQVA4bVgzMTJBTEwtOGU4eWNVVjBRMVNuSEZrd09OVW4zS08tSlFmVGdGTlBpZXJLTWZwN2hzc1BheGpOT3I3WkF6VllfQS05cjdXNkFQZzAwQzg?oc=5",
-      "source": "Google News:FTNT",
+      "short": "FTNT — AI相關：Can Palo Alto Networks' SASE Push Help It Challenge FTNT and ZS?",
+      "detail": "FTNT\n重點：AI相關\n標題：Can Palo Alto Networks' SASE Push Help It Challenge FTNT and ZS?\n摘要：PANW's SASE bookings surge 40% in fiscal 2026 as platform consolidation and rising AI traffic create opportunities to challenge FTNT and ZS.\n來源：Yahoo Finance:FTNT",
+      "url": "https://finance.yahoo.com/technology/articles/palo-alto-networks-sase-push-142200188.html?.tsrc=rss",
+      "source": "Yahoo Finance:FTNT",
       "kind": "news"
     },
     {
       "n": 6,
       "symbol": "INTU",
-      "short": "INTU — AI相關：Jim Cramer Defends Intuit (INTU) Against AI Skeptics Ahead of Investor Day",
-      "detail": "INTU\n重點：AI相關\n標題：Jim Cramer Defends Intuit (INTU) Against AI Skeptics Ahead of Investor Day\n來源：Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-defends-intuit-intu-220945960.html",
-      "source": "Yahoo Finance",
+      "short": "INTU — 業績／指引：Intuit's QuickBooks Free Push: Can This Lift Customer Growth?",
+      "detail": "INTU\n重點：業績／指引\n標題：Intuit's QuickBooks Free Push: Can This Lift Customer Growth?\n摘要：INTU uses QuickBooks Free and Lite to widen its customer funnel as online customer growth slows, with payments adding another revenue path.\n來源：Yahoo Finance:INTU",
+      "url": "https://finance.yahoo.com/small-business/articles/intuits-quickbooks-free-push-lift-141800891.html?.tsrc=rss",
+      "source": "Yahoo Finance:INTU",
       "kind": "news"
     },
     {
       "n": 7,
+      "symbol": "KSS",
+      "short": "KSS — 業績／指引：5 Value Stocks With Incredibly Low EV-to-EBITDA Ratios to Snap Up",
+      "detail": "KSS\n重點：業績／指引\n標題：5 Value Stocks With Incredibly Low EV-to-EBITDA Ratios to Snap Up\n摘要：KSS, LCUT, MATV, UGP and CLDT stand out with attractive EV-to-EBITDA ratios and strong earnings outlook.\n來源：Yahoo Finance:KSS",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-value-stocks-incredibly-low-130100568.html?.tsrc=rss",
+      "source": "Yahoo Finance:KSS",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "MDT",
+      "short": "MDT — 業績／指引：Medtronic (MDT) Raises its Outlook Again as Heart Device Demand Keeps Climbing",
+      "detail": "MDT\n重點：業績／指引\n標題：Medtronic (MDT) Raises its Outlook Again as Heart Device Demand Keeps Climbing\n摘要：Reuters reported that Medtronic plc (NYSE:MDT) raised the lower end of its fiscal 2027 profit forecast and its revenue growth outlook on September 1, banking on strong demand for heart devices used in complex cardiovascular procedures. The Ireland-based company raised the lower …\n來源：Yahoo Finance:MDT",
+      "url": "https://finance.yahoo.com/healthcare/articles/medtronic-mdt-raises-outlook-again-143459144.html?.tsrc=rss",
+      "source": "Yahoo Finance:MDT",
+      "kind": "news"
+    },
+    {
+      "n": 9,
       "symbol": "OXY",
       "short": "OXY — Corient Private Wealth LP Purchases 49,523 Shares of Occidental Petroleum Corporation $…",
       "detail": "OXY\n重點：新聞\n標題：Corient Private Wealth LP Purchases 49,523 Shares of Occidental Petroleum Corporation $OXY - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZDFfT0djbk5RSmFqUWtadWUzMllGNmlmYUJjUGdiTDBtTUhYSDhLbzB5MDZPUEM5bnYzLUtLWXdhcmUybE1kcXdkMVkxS3hzWk5XMjRUTFJycjBrR3M5S0ZNZm5sZVk4dTlZb2twMlVoQVpMb1Q5aURwZGhRQVduZjctaHlKeFhDS2pRX1M5T05BcGp5Y09ZWTg2WkcwYlRqU3M5RGFyOFpMb…\n來源：Google News:OXY",
@@ -68,16 +86,7 @@
       "kind": "news"
     },
     {
-      "n": 8,
-      "symbol": "PR",
-      "short": "PR — 業績／指引：Permian Resources (PR) Stock Still Looks Cheap As Its 371% Run Continues",
-      "detail": "PR\n重點：業績／指引\n標題：Permian Resources (PR) Stock Still Looks Cheap As Its 371% Run Continues\n摘要：Permian Resources has delivered a very strong multi year run, and the question now is whether the current share price properly reflects what the business is earning. With the stock closing at US$22.95 most recently, the issue is whether those earnings can support that level. Ove…\n來源：Yahoo Finance:PR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-stock-still-021302998.html?.tsrc=rss",
-      "source": "Yahoo Finance:PR",
-      "kind": "news"
-    },
-    {
-      "n": 9,
+      "n": 10,
       "symbol": "PYPL",
       "short": "PYPL — Corient Private Wealth LP Sells 245,147 Shares of PayPal Holdings, Inc. $PYPL - MarketB…",
       "detail": "PYPL\n重點：新聞\n標題：Corient Private Wealth LP Sells 245,147 Shares of PayPal Holdings, Inc. $PYPL - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQOGdPYlRVN3FtakxyanhhMDRUckZlOWRLQkIwei11bUR5ay1ULW1OY09mTE5CN0QtOG9sdmk2OVpKMmM3aXkwUXJmaWtDMkl1SWZ5Zk14VXZMVi1JTElqRnNib0VCMEVTSXkwOHlOOEg4M0NOSEt2WHJUeC1DQ1hRUVBSc3RzMXdadEJqVnlCZFNnMDJScGxESlhhQTk2cHdWWGJCMFB4bnNpQ…\n來源：Google News:PYPL",
@@ -86,30 +95,12 @@
       "kind": "news"
     },
     {
-      "n": 10,
-      "symbol": "ROST",
-      "short": "ROST — 業績／指引：Ross Stores (ROST) Stock Looks Fully Valued At Current Earnings Levels - simplywall.st",
-      "detail": "ROST\n重點：業績／指引\n標題：Ross Stores (ROST) Stock Looks Fully Valued At Current Earnings Levels - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNNldnY0plTFB2VDlHc0JwbkVWd1FabjFWSUp3cnloRVlnbmFPN28taGEtOUZBeFNhVTJOeDNiME1FYk85T0FnQzI2a2pPU1c1OTVPcktHMnFncV9QWk5XVmhteE1OWWFCODJCYXBhQ212UUJxME1LU3diUndXeVJGWjFiUjUzN3FEbkpUMlk5WFU0TzFKbGUya0s4Qk54WTZ0eVNIZTM0bFA4Z…\n來源：Google News:ROST",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNldnY0plTFB2VDlHc0JwbkVWd1FabjFWSUp3cnloRVlnbmFPN28taGEtOUZBeFNhVTJOeDNiME1FYk85T0FnQzI2a2pPU1c1OTVPcktHMnFncV9QWk5XVmhteE1OWWFCODJCYXBhQ212UUJxME1LU3diUndXeVJGWjFiUjUzN3FEbkpUMlk5WFU0TzFKbGUya0s4Qk54WTZ0eVNIZTM0bFA4ZFFxdGFQdWE5X2RFaXk1WDdqZ3Q4OGdrbTJ4QnhMbmFVSjTSAcwBQVVfeXFMTTZXZ2NKZUxQdlQ5R3NCcG5FVndRWm4xVklKd3J5aEVZZ25hTzdvLWhhLTlGQXhTYVUyTngzYjBNRWJPOU9BZ0MyNmtqT1NXNTk1T3JLRzJxZ3FfUFpOV1ZobXhNTllhQjgyQmFwYUNtdlFCcTBNS1N3YlJ3V3lSRloxYlI1MzdxRG5KVDJZOVhVNE8xSmxlMmtLOEJOeFk2dHlTSGUzNGxQOGRRcXRhUHVhOV9kRWl5NVg3amd0ODhna20yeEJ4TG5hVUo0?oc=5",
-      "source": "Google News:ROST",
-      "kind": "news"
-    },
-    {
       "n": 11,
-      "symbol": "STRC",
-      "short": "STRC — Saylor’s buybacks boost Strategy’s STRC stock near $100 offering price - TradingView",
-      "detail": "STRC\n重點：新聞\n標題：Saylor’s buybacks boost Strategy’s STRC stock near $100 offering price - TradingView\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPQVFuaTJ0TE4xUFVmcXBScU1wTnRralpUckNwempSUW5oa3JWNHY1VTBtRzZoRlZfNVRzQ2VqclJ2ZGs3UklhbnhJQkpqdlhlZjZxRmpuNkRzbVdwU1NmR0ZaY2psQ01rRmF0RFFJYWNZVWFMcnJlRHVYMnU4cW1icjNpQkplWkJOeEhHbmEwR09IbXV5UFh4N0FkZWZaWEtESUtaZUNBLW5hO…\n來源：Google News:STRC",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQVFuaTJ0TE4xUFVmcXBScU1wTnRralpUckNwempSUW5oa3JWNHY1VTBtRzZoRlZfNVRzQ2VqclJ2ZGs3UklhbnhJQkpqdlhlZjZxRmpuNkRzbVdwU1NmR0ZaY2psQ01rRmF0RFFJYWNZVWFMcnJlRHVYMnU4cW1icjNpQkplWkJOeEhHbmEwR09IbXV5UFh4N0FkZWZaWEtESUtaZUNBLW5hOFNVaUZZWEIzdWR4RFVJVWlFQnhuR2FaMFNNZTNGeS00Z04wY1E?oc=5",
-      "source": "Google News:STRC",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "THC",
-      "short": "THC — 業績／指引：Tenet Healthcare (THC) Stock Looks Cheap Relative To Its Earnings",
-      "detail": "THC\n重點：業績／指引\n標題：Tenet Healthcare (THC) Stock Looks Cheap Relative To Its Earnings\n摘要：Tenet Healthcare has turned into a big long term winner for shareholders. The real question today is whether the current share price still lines up with what its earnings can support. After such a strong run, the key issue is whether you are now paying too much for each dollar o…\n來源：Yahoo Finance:THC",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tenet-healthcare-thc-stock-looks-071132255.html?.tsrc=rss",
-      "source": "Yahoo Finance:THC",
+      "symbol": "VLTO",
+      "short": "VLTO — Veralto Announces Climate Targets Validated by the Science Based Targets initiative",
+      "detail": "VLTO\n重點：新聞\n標題：Veralto Announces Climate Targets Validated by the Science Based Targets initiative\n摘要：Veralto Corporation (NYSE: VLTO), a global leader in essential water and product quality solutions dedicated to Safeguarding the World's Most Vital Resources™, announced that the Science Based Targets initiative (SBTi) has validated Veralto's near-term greenhouse gas (GHG) emiss…\n來源：Yahoo Finance:VLTO",
+      "url": "https://finance.yahoo.com/energy/articles/veralto-announces-climate-targets-validated-120000785.html?.tsrc=rss",
+      "source": "Yahoo Finance:VLTO",
       "kind": "news"
     }
   ]
