@@ -1,11 +1,29 @@
 {
-  "title": "FS新聞 09-18 04:55",
-  "list_name": "FirstScreen_2026-09-18_045534_comma.txt",
-  "created_at": "2026-09-18T04:55:42.525834+00:00",
+  "title": "FS新聞 09-18 09:22",
+  "list_name": "FirstScreen_2026-09-18_092217_comma.txt",
+  "created_at": "2026-09-18T09:22:25.891591+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "BNY",
+      "short": "BNY — 8,740 Shares in Bank of New York Mellon Corporation $BNY Purchased by Engineers Gate Ma…",
+      "detail": "BNY\n重點：新聞\n標題：8,740 Shares in Bank of New York Mellon Corporation $BNY Purchased by Engineers Gate Manager LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVkpKbnZza0RfNll6aC1rRm0tQW1rN3JmazhzWHJ1UGpGd3JiZDlvSFY3bUZxeWJaeTJvZWlQcWZxaFVkMjdIdkw5VnpXLVc2Rm02SW9XbUJBY29zcVU0RmFJWlAzSHFZYTBWZkV5dTBsc2JUaTllMXNUcGUwaVdvTm5GdmNQeFpTT0JueGw2THM0Ty1XRlRnNnBVWHBmdWhRazV1R0MyVmhkc…\n來源：Google News:BNY\n其他：Bank of New York Mellon Corporation (BNY) Raises Prime Rate…",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVkpKbnZza0RfNll6aC1rRm0tQW1rN3JmazhzWHJ1UGpGd3JiZDlvSFY3bUZxeWJaeTJvZWlQcWZxaFVkMjdIdkw5VnpXLVc2Rm02SW9XbUJBY29zcVU0RmFJWlAzSHFZYTBWZkV5dTBsc2JUaTllMXNUcGUwaVdvTm5GdmNQeFpTT0JueGw2THM0Ty1XRlRnNnBVWHBmdWhRazV1R0MyVmhkcmEyS2xUU2ZldkFKRGJhYlNQSEt2d1BaZHFKOC1nRHNJWUVYSmEza18tSnVPamhUWEFOV3RiU1VwOGlDTEVhZHc?oc=5",
+      "source": "Google News:BNY",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "RITM",
+      "short": "RITM — 業績／指引：Rithm Capital (RITM) Stock Looks Reasonable Relative To Its Earnings",
+      "detail": "RITM\n重點：業績／指引\n標題：Rithm Capital (RITM) Stock Looks Reasonable Relative To Its Earnings\n摘要：Rithm Capital has given long term holders a solid ride over the past few years, yet the share price has recently been under pressure, which puts a fresh spotlight on what investors are paying for its earnings today. With the stock closing at US$9.49 and shorter term returns turn…\n來源：Yahoo Finance:RITM\n其他：Rithm Capital (RITM) Stock Looks Reasonable Relative To Its…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rithm-capital-ritm-stock-looks-043315596.html?.tsrc=rss",
+      "source": "Yahoo Finance:RITM",
+      "kind": "news"
+    },
+    {
+      "n": 3,
       "symbol": "ANET",
       "short": "ANET — AI相關：Arista Networks (ANET) Stock Looks Reasonable Despite Fresh AI Demand News - simplywall…",
       "detail": "ANET\n重點：AI相關\n標題：Arista Networks (ANET) Stock Looks Reasonable Despite Fresh AI Demand News - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOS3NONEVvVlVXWmhWYWF1VU9zMnRuQ3hURDFBdzhmWk9FUHNyWDYtVlR6UEdnVWttNWU2dXBZQTlwNlJjWGVsZ2U2eEVPelZUQkJMMWcxQkdROExVWFVLQzdvV2IyVU1PN2h6bGcxRGZac19yNzV0dWlVS05CZTRCWE01RDZVR2FhN2gzTF9oVE5KVW9jaUdXU09paVZDbW8wNFBrRXZhMTk5Y…\n來源：Google News:ANET",
@@ -14,7 +32,7 @@
       "kind": "news"
     },
     {
-      "n": 2,
+      "n": 4,
       "symbol": "BILL",
       "short": "BILL — 業績／指引：How Investors Are Reacting To Bill Holdings (BILL) Earnings Forecast Upgrade - simplywa…",
       "detail": "BILL\n重點：業績／指引\n標題：How Investors Are Reacting To Bill Holdings (BILL) Earnings Forecast Upgrade - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNQklMaE5RM1lSVGFvY1cyOTY4bG8tWUVoMDRrZXRvZFNyVmZhSlJWTzZxRVQ5RFZ3RkZwX2xKQ3NpM2JyX2VCLWlMY1Y3SVZDM01vX05qN1R6OXNFMXFLSkJMY0F6TDVGZVNja1JQaU01N1ppOTNnUHktSDg3d1RLMTNkNVo4V2hrS1NqZVFsUkpQMDBPcmZlUnl5WWVzYzYyNTVfQWZhcWd2U…\n來源：Google News:BILL",
@@ -23,25 +41,34 @@
       "kind": "news"
     },
     {
-      "n": 3,
-      "symbol": "CARG",
-      "short": "CARG — CarGurus (NASDAQ:CARG) COO Samuel Zales Sells 10,000 Shares - MarketBeat",
-      "detail": "CARG\n重點：新聞\n標題：CarGurus (NASDAQ:CARG) COO Samuel Zales Sells 10,000 Shares - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNbU5JUE4wZDhBRUZWbWpmMWxWNTBSUXdicDVCU201UGRsQXNIQk40bWJlRHdJZ3IwTDFXREhHVDhWc0plTEgyam4teFlZUkM4Q2lLQTlaUUE1SDNYaXAzNUNib0dnVGRtYjdheVVQNnF3eHpCZ3pQTzlUaDZHSzlwdFM4am1sWkR6dGJnd2h3Y3dacHY3Qlk1S0ZHY2MwWC1PTGVhOXJ0Mi04S…\n來源：Google News:CARG",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbU5JUE4wZDhBRUZWbWpmMWxWNTBSUXdicDVCU201UGRsQXNIQk40bWJlRHdJZ3IwTDFXREhHVDhWc0plTEgyam4teFlZUkM4Q2lLQTlaUUE1SDNYaXAzNUNib0dnVGRtYjdheVVQNnF3eHpCZ3pQTzlUaDZHSzlwdFM4am1sWkR6dGJnd2h3Y3dacHY3Qlk1S0ZHY2MwWC1PTGVhOXJ0Mi04SEtuYVdhUV91aDB5RXF3aEE?oc=5",
-      "source": "Google News:CARG",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce (NYSE:CRM) Stock Price Down 2.9% - Here's Why - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Stock Price Down 2.9% - Here's Why - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQMEV5ODA1dVJ6dUlCVlRlVndpREdiREI0akxXallmVjN4VEc1UVJfby0weUd3Ri1DVVYwMk5LMHpnRE1LSzhyUE5ja3cxbnVIY0paUk1hbjVUY3N2T2xNSnR0ZEYwNF9KS2Q1Z0FOZFh0UjI0S3ZScE5QNFBKZk9OY2hmSGxOal9rMnFyWjQ5aXQ0ZzUydk9SUTJrRDZLbWQwZFVKVjV1ZF9zc…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMEV5ODA1dVJ6dUlCVlRlVndpREdiREI0akxXallmVjN4VEc1UVJfby0weUd3Ri1DVVYwMk5LMHpnRE1LSzhyUE5ja3cxbnVIY0paUk1hbjVUY3N2T2xNSnR0ZEYwNF9KS2Q1Z0FOZFh0UjI0S3ZScE5QNFBKZk9OY2hmSGxOal9rMnFyWjQ5aXQ0ZzUydk9SUTJrRDZLbWQwZFVKVjV1ZF9zcWVFaXc?oc=5",
-      "source": "Google News:CRM",
-      "kind": "news"
-    },
-    {
       "n": 5,
+      "symbol": "GGB",
+      "short": "GGB — Gerdau (NYSE:GGB) Stock Crosses Above Two Hundred Day Moving Average - Should You Sell?…",
+      "detail": "GGB\n重點：新聞\n標題：Gerdau (NYSE:GGB) Stock Crosses Above Two Hundred Day Moving Average - Should You Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNFhfekRHUTVGR1IwVWJMZGx0T3hIQlBBbEJ2U1dWdUhZSV9HNHV6RGRlNTZPSGpHT2Y2VGNDU0FsTnhrZWZWc2FKOXR1U21XVHpOSUx6Uk5NSktKeGhRMHlXclowZHJFTVRKSkc3dWlXN0t5cW9ZTW4xMmVtWlA2cVA1cFYwX2FXaFJPMWtzV2V6dVp0Mm4wUFBoUC1zUS11dVA4QWpPaHc1X…\n來源：Google News:GGB",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNFhfekRHUTVGR1IwVWJMZGx0T3hIQlBBbEJ2U1dWdUhZSV9HNHV6RGRlNTZPSGpHT2Y2VGNDU0FsTnhrZWZWc2FKOXR1U21XVHpOSUx6Uk5NSktKeGhRMHlXclowZHJFTVRKSkc3dWlXN0t5cW9ZTW4xMmVtWlA2cVA1cFYwX2FXaFJPMWtzV2V6dVp0Mm4wUFBoUC1zUS11dVA4QWpPaHc1XzMyZkxOZUk4a1gzZHFUS1R0Uzl5MGZzcGpmQmpzNWp4dWl4Sk9tNjBIRzNsbTIxQQ?oc=5",
+      "source": "Google News:GGB",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "GH",
+      "short": "GH — Guardant Health (GH) Lands First FDA Cleared Breast Cancer Liquid Biopsy Role",
+      "detail": "GH\n重點：新聞\n標題：Guardant Health (GH) Lands First FDA Cleared Breast Cancer Liquid Biopsy Role\n摘要：Guardant Health (NasdaqGS:GH) received FDA approval for its Guardant360 CDx liquid biopsy as a companion diagnostic in advanced HR-positive, HER2-negative breast cancer. The decision makes Guardant360 CDx the first FDA approved liquid biopsy companion diagnostic for longitudinal…\n來源：Yahoo Finance:GH",
+      "url": "https://finance.yahoo.com/healthcare/articles/guardant-health-gh-lands-first-051453210.html?.tsrc=rss",
+      "source": "Yahoo Finance:GH",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "GPC",
+      "short": "GPC — 1,704,292 Shares in Genuine Parts Company $GPC Purchased by Bank of America Corp DE - M…",
+      "detail": "GPC\n重點：新聞\n標題：1,704,292 Shares in Genuine Parts Company $GPC Purchased by Bank of America Corp DE - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOVN1bmZKZllVNEZQTjhDN3VsX1Vqa2ZlYlZZTDNsaUNLMmhjZ0d0eVo5RzdVTk51SU5VcjVmS2hDUnluRkFGSmpJQS03b3ZZTkhKNG9TWnFHUXNCbk41NFpyYXF5Q0w0dUhBbU4wc1ppczhiWFBOWERhQVRJOEdIZWZUN1ZhVVdaQlZRaWRPU3pDd2hNdGRwQUMxSTlFbkQtY29nbmFsZXhkZ…\n來源：Google News:GPC",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOVN1bmZKZllVNEZQTjhDN3VsX1Vqa2ZlYlZZTDNsaUNLMmhjZ0d0eVo5RzdVTk51SU5VcjVmS2hDUnluRkFGSmpJQS03b3ZZTkhKNG9TWnFHUXNCbk41NFpyYXF5Q0w0dUhBbU4wc1ppczhiWFBOWERhQVRJOEdIZWZUN1ZhVVdaQlZRaWRPU3pDd2hNdGRwQUMxSTlFbkQtY29nbmFsZXhkZWpXRldCUDg1YTVXaXBMZTlUU2J3XzBJUVRrN0hwS3plU1otTWpSMXc4MTAtMXM?oc=5",
+      "source": "Google News:GPC",
+      "kind": "news"
+    },
+    {
+      "n": 8,
       "symbol": "HCA",
       "short": "HCA — HCA Healthcare Sees Solid Demand as Exchange Headwinds Pressure 2026 Outlook",
       "detail": "HCA\n重點：新聞\n標題：HCA Healthcare Sees Solid Demand as Exchange Headwinds Pressure 2026 Outlook\n摘要：HCA Healthcare (NYSE:HCA) CFO Mike Marks said the hospital operator is navigating a changing policy environment in 2026 while continuing to see solid underlying demand for services outside of the health insurance exchanges. Speaking at an investor conference, Marks described the…\n來源：Yahoo Finance:HCA",
@@ -50,52 +77,34 @@
       "kind": "news"
     },
     {
-      "n": 6,
-      "symbol": "INTU",
-      "short": "INTU — AI相關：Intuit Investor Day Puts AI at Center of Growth Reset After Customer Misses",
-      "detail": "INTU\n重點：AI相關\n標題：Intuit Investor Day Puts AI at Center of Growth Reset After Customer Misses\n摘要：Intuit (NASDAQ:INTU) used its 2026 Investor Day to outline a strategy centered on scaling its AI-driven “Intuit Intelligence” platform, expanding its mid-market and assisted-tax businesses, and restoring new customer growth after falling short of internal targets in fiscal 2026.…\n來源：Yahoo Finance:INTU",
-      "url": "https://www.marketbeat.com/instant-alerts/event-intuit-investor-day-puts-ai-at-center-of-growth-reset-after-customer-misses-2026-09-17/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "Yahoo Finance:INTU",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "LNG",
-      "short": "LNG — Cheniere Energy (LNG) Commissions New Corpus Christi LNG Treatment System - simplywall.…",
-      "detail": "LNG\n重點：新聞\n標題：Cheniere Energy (LNG) Commissions New Corpus Christi LNG Treatment System - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVXRoMTBMWmNkbm1kM3R5Z2lGNG00Ny1qeWFHeERqaFhIV181cnZybzJ6RHBkUVdmQl8ybmtPNkhTMGNraG9kOGZMSEF6Rm82cUg3TXQ4OVFmeWtJQXJzYm5OZDJob0ltLWhwMzllZE9NUXEwOUc1ZHJZRkVBNkxoclFqREZBWVhNdDZna2VROWJJSXc1YTljRXlteG9QcUl2Yk9lWE9IRTBMT…\n來源：Google News:LNG",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVXRoMTBMWmNkbm1kM3R5Z2lGNG00Ny1qeWFHeERqaFhIV181cnZybzJ6RHBkUVdmQl8ybmtPNkhTMGNraG9kOGZMSEF6Rm82cUg3TXQ4OVFmeWtJQXJzYm5OZDJob0ltLWhwMzllZE9NUXEwOUc1ZHJZRkVBNkxoclFqREZBWVhNdDZna2VROWJJSXc1YTljRXlteG9QcUl2Yk9lWE9IRTBMTmowN254ZGk3RUFVQlNkQTR2RnhhaUV5cUVjUl8tZtIBzgFBVV95cUxNZlR4anRLUGxMMHg5SFNFRGhVcHFKU0xYTmZXc3R4dFU1TTN3TGhnWXRXQVFqdGJJd09mT3o1M2h5a1oyRUF3WmdtSko4Q1dBOWNmcEtzd1Q4RVRWWkZkNXhyRk5NNENzRFE4ZjhVeWtzeWZ4czh2R2pmOHBpX1RZcnFXMWV4WGtxOGd5aTVtUnFORFIwTFFpUXdiREI4Y29yRXVzVUJQSDFKWVVKWlFBYUFQbXd3NlJxXzZIRFdqaHcwTWczYjhYWkVHOE8yUQ?oc=5",
-      "source": "Google News:LNG",
-      "kind": "news"
-    },
-    {
-      "n": 8,
+      "n": 9,
       "symbol": "LULU",
-      "short": "LULU — 業績／指引：Lululemon (NASDAQ: LULU) Shares Crater 18% In A Month As Guidance Cut And Brand Pressur…",
-      "detail": "LULU\n重點：業績／指引\n標題：Lululemon (NASDAQ: LULU) Shares Crater 18% In A Month As Guidance Cut And Brand Pressure Raise Serious Questions - foreignpolicyjournal.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOc3hUMkhtd3hmdXFfam9TdWdybmttNUd0eEJJVEE0MGdGRDFta255c2d5U0tWeVVWUF9PMHZMT2t6dlFBZEQyRmtuaFVzY2VhakVlMlpma3hRU1JfS2d2Mm14MGx5dkdjdHV6bHEzSnNzMWV5S0dMV25DeHJudmpSSHJaakZVeTJobmNrSGthcGszenU3dzJLdmRTUWU2NEJnWTBhcjFZclBIU…\n來源：Google News:LULU",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOc3hUMkhtd3hmdXFfam9TdWdybmttNUd0eEJJVEE0MGdGRDFta255c2d5U0tWeVVWUF9PMHZMT2t6dlFBZEQyRmtuaFVzY2VhakVlMlpma3hRU1JfS2d2Mm14MGx5dkdjdHV6bHEzSnNzMWV5S0dMV25DeHJudmpSSHJaakZVeTJobmNrSGthcGszenU3dzJLdmRTUWU2NEJnWTBhcjFZclBIUjZsOTZfYnlhZHRxV0lZcmJMZGRJTW10WFNqbk42eFJrZVlCTURCaTNiOGFHMk9oS0hvOG4teUZBUjU4MlBqQlBCb3NR?oc=5",
+      "short": "LULU — lululemon athletica inc. (NASDAQ:LULU) Given Average Recommendation of \"Reduce\" by Brok…",
+      "detail": "LULU\n重點：新聞\n標題：lululemon athletica inc. (NASDAQ:LULU) Given Average Recommendation of \"Reduce\" by Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ3dneHVnM285ejVvVWZwYUNET2VNLW5Cby0yM2JYV1hUd1V1RWZGNXFGdEwzbmZ0ZGxaSnJJLVNwUC1wS1NpTnNQQjlXUmppbmh5THc0bjdjUl93bU5zWjFiSjB0cVNnYkNKYkFndVk0cWVRalA0WERva2lOc3FxdkVqWERWZjlBSXZTWmxrdHZOQnQybDVtT3YtV0drdWRSV21nMEczTlU0a…\n來源：Google News:LULU",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ3dneHVnM285ejVvVWZwYUNET2VNLW5Cby0yM2JYV1hUd1V1RWZGNXFGdEwzbmZ0ZGxaSnJJLVNwUC1wS1NpTnNQQjlXUmppbmh5THc0bjdjUl93bU5zWjFiSjB0cVNnYkNKYkFndVk0cWVRalA0WERva2lOc3FxdkVqWERWZjlBSXZTWmxrdHZOQnQybDVtT3YtV0drdWRSV21nMEczTlU0aG5DYm1IYzBFU2ZOMWxoYlM1THpYUDFyZlVrcVBQMkYtekk5UzlLYzNMR0lRT3lBOGVtamdoaEtrQnB3SWc?oc=5",
       "source": "Google News:LULU",
       "kind": "news"
     },
     {
-      "n": 9,
-      "symbol": "MDT",
-      "short": "MDT — Harry Skip Kiil Sells 1,483 Shares of Medtronic (NYSE:MDT) Stock - MarketBeat",
-      "detail": "MDT\n重點：新聞\n標題：Harry Skip Kiil Sells 1,483 Shares of Medtronic (NYSE:MDT) Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa3UxanJSYnF2cnJ5QlBheV9aZ3NDSElRX016S2xZRWRaZU5VUzNwQWxZUVlDb05FejNzOE4zWDV1eUk0ZFJQUW5qY2pZQkk4VXVYSWc2b05PUG55bDNuOFpSY2RCbElDZzlkYTZOdEotODRJQ2JSYmZNaDM0TjRzend1NHU0dERaLV9MemFKU3k1cXMzSS1Pb3ZIX240Tm5EV2xIbVdlMEpnS…\n來源：Google News:MDT",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa3UxanJSYnF2cnJ5QlBheV9aZ3NDSElRX016S2xZRWRaZU5VUzNwQWxZUVlDb05FejNzOE4zWDV1eUk0ZFJQUW5qY2pZQkk4VXVYSWc2b05PUG55bDNuOFpSY2RCbElDZzlkYTZOdEotODRJQ2JSYmZNaDM0TjRzend1NHU0dERaLV9MemFKU3k1cXMzSS1Pb3ZIX240Tm5EV2xIbVdlMEpnSW5FWEdhcGFZSzFvWXA3TUU2aEdHQ0c?oc=5",
-      "source": "Google News:MDT",
-      "kind": "news"
-    },
-    {
       "n": 10,
-      "symbol": "NESR",
-      "short": "NESR — 業績／指引：Can National Energy Services Reunited (NESR) Justify Its Valuation Following Its Q2 Ear…",
-      "detail": "NESR\n重點：業績／指引\n標題：Can National Energy Services Reunited (NESR) Justify Its Valuation Following Its Q2 Earnings Beat?\n摘要：Why National Energy Services Reunited stock is back in focus National Energy Services Reunited (NESR) moved back onto investors' radar after a Q2 earnings release that topped analyst expectations on revenue, EPS, and EBITDA, and coincided with a 12.6% share price jump. Recent tr…\n來源：Yahoo Finance:NESR",
-      "url": "https://finance.yahoo.com/energy/articles/national-energy-services-reunited-nesr-001548453.html?.tsrc=rss",
-      "source": "Yahoo Finance:NESR",
+      "symbol": "MRK",
+      "short": "MRK — Nykredit A S Invests $92.32 Million in Merck & Co., Inc. $MRK - MarketBeat",
+      "detail": "MRK\n重點：新聞\n標題：Nykredit A S Invests $92.32 Million in Merck & Co., Inc. $MRK - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQRUpPT0ZXbWZvdXotXzFLZW94TXlfLXNjbWl4bGFzaUl3N2VzRWF0alFzZEFRWVlhWklSMkJEcFR3T0FEQmUyemh2VWo5Uk5UU1pwU1ppNjZUY05TbVlpYUZLNlBXOFhvUnZwVGRBa0hDeDFKNElsMEdvdHc0NVRyazh0TmZyNmtfRHF0Rlh0S1l3dVhRb2VNSTcxQTVQSmNzYmdNNm0xbGctS…\n來源：Google News:MRK",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRUpPT0ZXbWZvdXotXzFLZW94TXlfLXNjbWl4bGFzaUl3N2VzRWF0alFzZEFRWVlhWklSMkJEcFR3T0FEQmUyemh2VWo5Uk5UU1pwU1ppNjZUY05TbVlpYUZLNlBXOFhvUnZwVGRBa0hDeDFKNElsMEdvdHc0NVRyazh0TmZyNmtfRHF0Rlh0S1l3dVhRb2VNSTcxQTVQSmNzYmdNNm0xbGctSVZnUTdPYTJYQUQ?oc=5",
+      "source": "Google News:MRK",
       "kind": "news"
     },
     {
       "n": 11,
+      "symbol": "NESR",
+      "short": "NESR — 業績／指引：Does Strong Earnings Beat And Kuwait Mega Contract Change The Bull Case For National En…",
+      "detail": "NESR\n重點：業績／指引\n標題：Does Strong Earnings Beat And Kuwait Mega Contract Change The Bull Case For National Energy Services (NESR)?\n摘要：Earlier this quarter, National Energy Services Reunited reported quarterly revenue and earnings results that exceeded analyst expectations, supported by full operational continuity in conflict-affected regions and record activity on newly awarded contracts. Investor attention ha…\n來源：Yahoo Finance:NESR",
+      "url": "https://finance.yahoo.com/energy/articles/does-strong-earnings-beat-kuwait-061213277.html?.tsrc=rss",
+      "source": "Yahoo Finance:NESR",
+      "kind": "news"
+    },
+    {
+      "n": 12,
       "symbol": "OKTA",
       "short": "OKTA — Why Did CRWD, OKTA, IOVA Shares Climb To 52-Week Highs Today?",
       "detail": "OKTA\n重點：新聞\n標題：Why Did CRWD, OKTA, IOVA Shares Climb To 52-Week Highs Today?\n摘要：CrowdStrike, Okta, and Iovance Biotherapeutics stocks surged to annual highs amid industry tailwinds and positive Wall Street outlooks.\n來源：Yahoo Finance:OKTA",
