@@ -1,7 +1,7 @@
 {
-  "title": "FS新聞 09-19 09:10",
-  "list_name": "FirstScreen_2026-09-19_091041_comma.txt",
-  "created_at": "2026-09-19T09:10:50.105647+00:00",
+  "title": "FS新聞 09-19 13:47",
+  "list_name": "FirstScreen_2026-09-19_134747_comma.txt",
+  "created_at": "2026-09-19T13:47:56.853980+00:00",
   "x_note": "",
   "items": [
     {
@@ -33,11 +33,11 @@
     },
     {
       "n": 4,
-      "symbol": "CRM",
-      "short": "CRM — Nykredit A S Makes New $48.84 Million Investment in Salesforce Inc. $CRM - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Nykredit A S Makes New $48.84 Million Investment in Salesforce Inc. $CRM - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPanVDY2dBWmlYWDNpMGJrWU96V1hTZTExNmlXNm9PLVNiaERIcUgtMFh2YU5KVHJ4aFZGQnFLQzZLR1pUZjVxWk1YQV8tYlBjc1VNcGpmMUxYRWtmOERxT1RZUm91cmY1TFlIY2JYRGpJQjFIekJQS2JENU5IRllsb3QxV19KMEg5UUxfSVp3V0F6VTBORFBUalRMa2UyVTUwWXozME45ZVVae…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPanVDY2dBWmlYWDNpMGJrWU96V1hTZTExNmlXNm9PLVNiaERIcUgtMFh2YU5KVHJ4aFZGQnFLQzZLR1pUZjVxWk1YQV8tYlBjc1VNcGpmMUxYRWtmOERxT1RZUm91cmY1TFlIY2JYRGpJQjFIekJQS2JENU5IRllsb3QxV19KMEg5UUxfSVp3V0F6VTBORFBUalRMa2UyVTUwWXozME45ZVVaempFWjMwNTEtZzBBSExyWjRaSVkxRnNiNjhKZDVTdA?oc=5",
-      "source": "Google News:CRM",
+      "symbol": "FTNT",
+      "short": "FTNT — Fortinet (FTNT) Stock Could Be 22% Overvalued On New York Hub Opening",
+      "detail": "FTNT\n重點：新聞\n標題：Fortinet (FTNT) Stock Could Be 22% Overvalued On New York Hub Opening\n摘要：Fortinet has ridden a powerful share price run in recent years, which puts a sharp spotlight on whether the current US$169.84 level is adequately supported by the cash the business can generate. With expectations shaped by both strong historical returns and fresh corporate miles…\n來源：Yahoo Finance:FTNT",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fortinet-ftnt-stock-could-22-111608257.html?.tsrc=rss",
+      "source": "Yahoo Finance:FTNT",
       "kind": "news"
     },
     {
@@ -69,6 +69,15 @@
     },
     {
       "n": 8,
+      "symbol": "LULU",
+      "short": "LULU — lululemon athletica (NASDAQ:LULU) Downgraded to \"Strong Sell\" Rating by Zacks Research …",
+      "detail": "LULU\n重點：新聞\n標題：lululemon athletica (NASDAQ:LULU) Downgraded to \"Strong Sell\" Rating by Zacks Research - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb1NZSGxEdXBCOUVtVk5uSU5iSzZTU01aLUtHZVI3RTZpOTAzSC1iLWwtQUZsOThBTHI3UHB5UXhjbWQzQ3EtdXk3VkplMGxZS0NJZkZwNmQ1R1ZaQlhIZ1Vvak8xTm9KS3oyaVl6TmZYZUJmXzVfOTBPX1l2QjJlcEFQVTdhS0RlelFhV3gtSW9fZmU4WXR2c0VxQXhLWmQzX05zR0pQTDJyN…\n來源：Google News:LULU",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb1NZSGxEdXBCOUVtVk5uSU5iSzZTU01aLUtHZVI3RTZpOTAzSC1iLWwtQUZsOThBTHI3UHB5UXhjbWQzQ3EtdXk3VkplMGxZS0NJZkZwNmQ1R1ZaQlhIZ1Vvak8xTm9KS3oyaVl6TmZYZUJmXzVfOTBPX1l2QjJlcEFQVTdhS0RlelFhV3gtSW9fZmU4WXR2c0VxQXhLWmQzX05zR0pQTDJyNDg1elFhWUwwYkp5aG5BMXRCem1Id1dDaVJFOU9rYURNZzhfMlhOMWNDR0w5a3ljbnJo?oc=5",
+      "source": "Google News:LULU",
+      "kind": "news"
+    },
+    {
+      "n": 9,
       "symbol": "MDT",
       "short": "MDT — What Does Medtronic (MDT) FDA Clearance Mean For Its Hugo Surgery Push?",
       "detail": "MDT\n重點：新聞\n標題：What Does Medtronic (MDT) FDA Clearance Mean For Its Hugo Surgery Push?\n摘要：Medtronic (NYSE:MDT) received FDA clearance for its LigaSure vessel-sealing device on the Hugo robotic surgery system in the U.S. The authorization allows LigaSure to be used on the Hugo platform for soft-tissue procedures in U.S. hospitals and surgical centers. The cleared conf…\n來源：Yahoo Finance:MDT",
@@ -77,7 +86,7 @@
       "kind": "news"
     },
     {
-      "n": 9,
+      "n": 10,
       "symbol": "OBDC",
       "short": "OBDC — Squarepoint Ops LLC Sells 142,790 Shares of Blue Owl Capital Corporation $OBDC - Market…",
       "detail": "OBDC\n重點：新聞\n標題：Squarepoint Ops LLC Sells 142,790 Shares of Blue Owl Capital Corporation $OBDC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdkNXbC1vbzJHMnlpMEVTbnY4OVNQbmE5b2JoU0s0ZEVyY052UE9ONlRscy1ZcnVLV3lFckRYR2VVTEJlMFlyamw1M3FNWGFOVm1jXzA4LVlKRC12Vy1UOTZGZzltT05zNHdvcWdqZllja0VTVHl3aWJFUlFTUzZOZTJ2MmZXSHI3a0F5dWJWb2FrdzVjUy1WTzBXQ01RNFBzQl8zcldKWGo4Q…\n來源：Google News:OBDC",
@@ -86,7 +95,16 @@
       "kind": "news"
     },
     {
-      "n": 10,
+      "n": 11,
+      "symbol": "PYPL",
+      "short": "PYPL — 併購／交易：PYPL Stock Surges To 6-Month High On $53B Takeover Bid – Wall Street's Divided On Wheth…",
+      "detail": "PYPL\n重點：併購／交易\n標題：PYPL Stock Surges To 6-Month High On $53B Takeover Bid – Wall Street's Divided On Whether It's A Good Deal - Stocktwits\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRS1TRlBvV0tjQnRmTlRIZ0kxaTJnbzZEUFZuOU5KLVRueXA0WnNCbi1tRkF5ODlXNXlHSUFWWno3NC1kSjQyOFFTWEctVHZ4QWRIcUxWSXFZbm4zUnFCeGJuZHpNOXZ0UllxSmhKZDBrelRETlFMMFVlcTFLMWUyUDVaeWxpMkV6bkhjaDVRY1Rqb2NsbDUycG5acUxmT0xZWkNKc3UtNUFHM…\n來源：Google News:PYPL",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRS1TRlBvV0tjQnRmTlRIZ0kxaTJnbzZEUFZuOU5KLVRueXA0WnNCbi1tRkF5ODlXNXlHSUFWWno3NC1kSjQyOFFTWEctVHZ4QWRIcUxWSXFZbm4zUnFCeGJuZHpNOXZ0UllxSmhKZDBrelRETlFMMFVlcTFLMWUyUDVaeWxpMkV6bkhjaDVRY1Rqb2NsbDUycG5acUxmT0xZWkNKc3UtNUFHM3NjeVJKaUUyaHp0WmFQM2FxSFo3N2FRTUFERzRv?oc=5",
+      "source": "Google News:PYPL",
+      "kind": "news"
+    },
+    {
+      "n": 12,
       "symbol": "ROST",
       "short": "ROST — Nykredit A S Makes New $33.04 Million Investment in Ross Stores, Inc. $ROST - MarketBeat",
       "detail": "ROST\n重點：新聞\n標題：Nykredit A S Makes New $33.04 Million Investment in Ross Stores, Inc. $ROST - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNV05hRzlPU3lPa2JJY3U2eXFoMzFzRTViR09wTHlsU2dnU0NoeXJFQ1FOQ0xrc09TTkh1Qm5xN28xb3hHcWxJWHpvMTJmNGlfOVRkWk5sVzMzMjNLckpVV1pQd0pGMHhRWG5uS0lveEdqbTIyNE1jaVhlWGlubGxqYUpKRWhDWUJjWG9LLU5mdjNPOWF6TFVJWTBhUlljTW5PTjlvUkxWYnNGU…\n來源：Google News:ROST",
