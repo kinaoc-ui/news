@@ -1,16 +1,52 @@
 {
-  "title": "FS新聞 09-21 05:10",
-  "list_name": "FirstScreen_2026-09-21_051012_comma.txt",
-  "created_at": "2026-09-21T05:10:20.150393+00:00",
+  "title": "FS新聞 09-21 10:23",
+  "list_name": "FirstScreen_2026-09-21_102334_comma.txt",
+  "created_at": "2026-09-21T10:23:43.289149+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "LULU",
-      "short": "LULU — 業績／指引：Lululemon (LULU): Wall Street Keeps Cutting Targets, But Nobody’s Calling It Cheap Enou…",
-      "detail": "LULU\n重點：業績／指引\n標題：Lululemon (LULU): Wall Street Keeps Cutting Targets, But Nobody’s Calling It Cheap Enough to Buy\n摘要：On September 3, 2026, lululemon athletica inc. (NASDAQ:LULU) reported second-quarter fiscal 2026 results for the period ended August 2, 2026. Net revenue fell 4% to $2.4 billion, missing the $2.46 billion analysts expected, and comparable sales dropped 10% on a constant dollar b…\n來源：Yahoo Finance:LULU",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lululemon-lulu-wall-street-keeps-215239806.html?.tsrc=rss",
-      "source": "Yahoo Finance:LULU",
+      "symbol": "PDD",
+      "short": "PDD — Nykredit A S Purchases Shares of 131,648 PDD Holdings Inc. Sponsored ADR $PDD - MarketB…",
+      "detail": "PDD\n重點：新聞\n標題：Nykredit A S Purchases Shares of 131,648 PDD Holdings Inc. Sponsored ADR $PDD - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNamg3eFBHS1VjN3hfa29FMF9YcEQ0TFdnSE1HWE9NbGxYd3AyMUdPVjdrUTBEVDBJSHczai1DUC1MUnV1d3pkazAydlhvNEFyaTRKVWhZMHpWVkN3VDZ1SV9fNzNCYW11azQwRWR1Und5NHp3bkJZMFhnUkVPZTNsQUhyUDA0YmxYSGFHNUxHcy1qOTljNHJ1aGQ0M3c5Ri02R0NwSWl6MnExe…\n來源：Google News:PDD\n其他：PDD Holdings Inc. Sponsored ADR (NASDAQ:PDD) Given Consensu…",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNamg3eFBHS1VjN3hfa29FMF9YcEQ0TFdnSE1HWE9NbGxYd3AyMUdPVjdrUTBEVDBJSHczai1DUC1MUnV1d3pkazAydlhvNEFyaTRKVWhZMHpWVkN3VDZ1SV9fNzNCYW11azQwRWR1Und5NHp3bkJZMFhnUkVPZTNsQUhyUDA0YmxYSGFHNUxHcy1qOTljNHJ1aGQ0M3c5Ri02R0NwSWl6MnExeE5YZGktSUZvYllwTno1UkJSVXhSWVByMkFod0tqYnRaLUl2UHRx?oc=5",
+      "source": "Google News:PDD",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "ARCC",
+      "short": "ARCC — Ares Capital (ARCC) Raised $750M Through 2033 Notes. Should Dividend Fans Care?",
+      "detail": "ARCC\n重點：新聞\n標題：Ares Capital (ARCC) Raised $750M Through 2033 Notes. Should Dividend Fans Care?\n摘要：On September 8, Ares Capital (NASDAQ:ARCC) priced $750 million of unsecured notes paying 6.250% and maturing on September 15, 2033. The deal closed on September 15, and the cash will pay down bank borrowings the company can tap again later. That sounds like routine housekeeping.…\n來源：Yahoo Finance:ARCC",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ares-capital-arcc-raised-750m-050709960.html?.tsrc=rss",
+      "source": "Yahoo Finance:ARCC",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "FSK",
+      "short": "FSK — FS KKR Capital Corp. (NYSE:FSK) Given Consensus Recommendation of \"Reduce\" by Brokerage…",
+      "detail": "FSK\n重點：新聞\n標題：FS KKR Capital Corp. (NYSE:FSK) Given Consensus Recommendation of \"Reduce\" by Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQlpmNlg4bzE2WDdLTG1XQTh5dmtic1dHVDJ1dk9SVUFTT2c2VmV5MkVFOWROdk5tY2k5Vi03UkEyZExQb2hGNG8zSEJqN1JOZC04NlZHVHhQWFpVUl9oOWlMd0N5Rm5lQlFMT2RWSS1XcDVvcDZMR0VFWEZRcWE0RmdMVUpiRjh4S1lCc2toOHRXbVdQcHZlWXVnOEtlY05QenR4ZFVzTERwQ…\n來源：Google News:FSK",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQlpmNlg4bzE2WDdLTG1XQTh5dmtic1dHVDJ1dk9SVUFTT2c2VmV5MkVFOWROdk5tY2k5Vi03UkEyZExQb2hGNG8zSEJqN1JOZC04NlZHVHhQWFpVUl9oOWlMd0N5Rm5lQlFMT2RWSS1XcDVvcDZMR0VFWEZRcWE0RmdMVUpiRjh4S1lCc2toOHRXbVdQcHZlWXVnOEtlY05QenR4ZFVzTERwQ2FhNGY3aFJmaVBKUk9fTW1qYWFjOE8tdkI0VkdsZTR3d19icHNwb2QtY09qZ3duOUJHd1VsaA?oc=5",
+      "source": "Google News:FSK",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "PYPL",
+      "short": "PYPL — 238,669 Shares in PayPal Holdings, Inc. $PYPL Bought by Nykredit A S - MarketBeat",
+      "detail": "PYPL\n重點：新聞\n標題：238,669 Shares in PayPal Holdings, Inc. $PYPL Bought by Nykredit A S - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxObHZsR1UwTThERjZwQUZXT3ZkLTVEa1ZnLU5uY21sMVRkbkJaaUdkaHprV044VUF2TkNsdjVRR2ZHMEhEeXk3WWpWUjdhaXFVV0VGWmZIdEVrdzE0bGI1eUc4U1lfcDRQcC1zQzBJa2dqOXhoZnA5bDBsaVVSVndjQzBKMGw0V0lHNXJaanIzMHh1VWxxeG9YOTJ4SlNCUmVndHFDYWVJckhWN…\n來源：Google News:PYPL",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObHZsR1UwTThERjZwQUZXT3ZkLTVEa1ZnLU5uY21sMVRkbkJaaUdkaHprV044VUF2TkNsdjVRR2ZHMEhEeXk3WWpWUjdhaXFVV0VGWmZIdEVrdzE0bGI1eUc4U1lfcDRQcC1zQzBJa2dqOXhoZnA5bDBsaVVSVndjQzBKMGw0V0lHNXJaanIzMHh1VWxxeG9YOTJ4SlNCUmVndHFDYWVJckhWNjFoeWh6UGY4Z00wMUtyVnB3UTVBMEwwcFU?oc=5",
+      "source": "Google News:PYPL",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "RITM",
+      "short": "RITM — Rithm Capital Corp. $RITM Shares Bought by NewEdge Advisors LLC - MarketBeat",
+      "detail": "RITM\n重點：新聞\n標題：Rithm Capital Corp. $RITM Shares Bought by NewEdge Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVc0c085NzVRd2VoYWh3cGJXbEJaWWtkbG9ZenJOYndNZVpRNnZrcXp4dTRVWHVTNzZnajE2ZUlrRWJ2a25BdGk1UkdIeEk4LW42SzFRYXcybzRuZFZMZzgtQzdoY3VJSzlxaHdSRUUzV0N3SEg4Sl9ma1phY1A4NDdNaVJHNFIxOUVaT0tvQVFxYlp0LUNlaWRuRk9DU3pTOXZ0aHFad1QtY…\n來源：Google News:RITM",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVc0c085NzVRd2VoYWh3cGJXbEJaWWtkbG9ZenJOYndNZVpRNnZrcXp4dTRVWHVTNzZnajE2ZUlrRWJ2a25BdGk1UkdIeEk4LW42SzFRYXcybzRuZFZMZzgtQzdoY3VJSzlxaHdSRUUzV0N3SEg4Sl9ma1phY1A4NDdNaVJHNFIxOUVaT0tvQVFxYlp0LUNlaWRuRk9DU3pTOXZ0aHFad1QtYlF3b0Z0SlBwOXo0eHJYOHQ2d1N0dw?oc=5",
+      "source": "Google News:RITM",
       "kind": "news"
     }
   ]
