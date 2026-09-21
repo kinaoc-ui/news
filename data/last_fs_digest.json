@@ -1,52 +1,97 @@
 {
-  "title": "FS新聞 09-21 10:23",
-  "list_name": "FirstScreen_2026-09-21_102334_comma.txt",
-  "created_at": "2026-09-21T10:23:43.289149+00:00",
+  "title": "FS新聞 09-21 16:20",
+  "list_name": "FirstScreen_2026-09-21_162026_comma.txt",
+  "created_at": "2026-09-21T16:20:37.222522+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "PDD",
-      "short": "PDD — Nykredit A S Purchases Shares of 131,648 PDD Holdings Inc. Sponsored ADR $PDD - MarketB…",
-      "detail": "PDD\n重點：新聞\n標題：Nykredit A S Purchases Shares of 131,648 PDD Holdings Inc. Sponsored ADR $PDD - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNamg3eFBHS1VjN3hfa29FMF9YcEQ0TFdnSE1HWE9NbGxYd3AyMUdPVjdrUTBEVDBJSHczai1DUC1MUnV1d3pkazAydlhvNEFyaTRKVWhZMHpWVkN3VDZ1SV9fNzNCYW11azQwRWR1Und5NHp3bkJZMFhnUkVPZTNsQUhyUDA0YmxYSGFHNUxHcy1qOTljNHJ1aGQ0M3c5Ri02R0NwSWl6MnExe…\n來源：Google News:PDD\n其他：PDD Holdings Inc. Sponsored ADR (NASDAQ:PDD) Given Consensu…",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNamg3eFBHS1VjN3hfa29FMF9YcEQ0TFdnSE1HWE9NbGxYd3AyMUdPVjdrUTBEVDBJSHczai1DUC1MUnV1d3pkazAydlhvNEFyaTRKVWhZMHpWVkN3VDZ1SV9fNzNCYW11azQwRWR1Und5NHp3bkJZMFhnUkVPZTNsQUhyUDA0YmxYSGFHNUxHcy1qOTljNHJ1aGQ0M3c5Ri02R0NwSWl6MnExeE5YZGktSUZvYllwTno1UkJSVXhSWVByMkFod0tqYnRaLUl2UHRx?oc=5",
-      "source": "Google News:PDD",
+      "symbol": "MRK",
+      "short": "MRK — Merck: Time To Trim, Overvalued And Overbought (Rating Downgrade) (NYSE:MRK) - Seeking …",
+      "detail": "MRK\n重點：新聞\n標題：Merck: Time To Trim, Overvalued And Overbought (Rating Downgrade) (NYSE:MRK) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPUVFJSmphR1I0bEhSNG5nazlZVzZiVXM0NjRxQmR5cmJQVFdWbU5VRU1VeWZvWVpmbTlWa3hyXzNjZG5ZZy1ESXpHYS1RNWYzM3JuU2tycWdDbUJ2N0FMZTl4ZHpOTE9SZm9pa1NLWE8tMXF6Q3VwX2FrRFJ2RDlNZUdLMDZoY0NfS3FUd1NYSlI3NVR1SFM1VFoteVlCZGZvRkN1QQ?oc=5\" …\n來源：Google News:MRK\n其他：FDA Decision Watch: MRK, MIRM, INCY, GRAL Face Key Regulato…; Merck’s KEYTRUDA QLEX™ (pembrolizumab and berahyaluronidase…",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUVFJSmphR1I0bEhSNG5nazlZVzZiVXM0NjRxQmR5cmJQVFdWbU5VRU1VeWZvWVpmbTlWa3hyXzNjZG5ZZy1ESXpHYS1RNWYzM3JuU2tycWdDbUJ2N0FMZTl4ZHpOTE9SZm9pa1NLWE8tMXF6Q3VwX2FrRFJ2RDlNZUdLMDZoY0NfS3FUd1NYSlI3NVR1SFM1VFoteVlCZGZvRkN1QQ?oc=5",
+      "source": "Google News:MRK",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "ARCC",
-      "short": "ARCC — Ares Capital (ARCC) Raised $750M Through 2033 Notes. Should Dividend Fans Care?",
-      "detail": "ARCC\n重點：新聞\n標題：Ares Capital (ARCC) Raised $750M Through 2033 Notes. Should Dividend Fans Care?\n摘要：On September 8, Ares Capital (NASDAQ:ARCC) priced $750 million of unsecured notes paying 6.250% and maturing on September 15, 2033. The deal closed on September 15, and the cash will pay down bank borrowings the company can tap again later. That sounds like routine housekeeping.…\n來源：Yahoo Finance:ARCC",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ares-capital-arcc-raised-750m-050709960.html?.tsrc=rss",
-      "source": "Yahoo Finance:ARCC",
+      "symbol": "BHP",
+      "short": "BHP — BHP stock gains on dividend as miners face pressure - AD HOC NEWS",
+      "detail": "BHP\n重點：新聞\n標題：BHP stock gains on dividend as miners face pressure - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQWUhQUDhuQ0lPckZOZnlNZENuNi1NNlFuY1ZVdGV4Qk43bVdzTnZyRWpBd0ZEa0w3WDZQdURoaVpkcVVfd1FTZ0pGR3NhSHZvcmtrM21VZHdEVzNoclRxb0t3VFVQR3RDWkhKbW1HWFdIdC1ad3pZMmNXWVlTbGNTTXRZWkJjRmFtNGlzbXhtVGh3cFFyVHY2b0U3VVRDQUczZ3FXZlVETHd3c…\n來源：Google News:BHP",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWUhQUDhuQ0lPckZOZnlNZENuNi1NNlFuY1ZVdGV4Qk43bVdzTnZyRWpBd0ZEa0w3WDZQdURoaVpkcVVfd1FTZ0pGR3NhSHZvcmtrM21VZHdEVzNoclRxb0t3VFVQR3RDWkhKbW1HWFdIdC1ad3pZMmNXWVlTbGNTTXRZWkJjRmFtNGlzbXhtVGh3cFFyVHY2b0U3VVRDQUczZ3FXZlVETHd3cnA0cFZnSWNCekI?oc=5",
+      "source": "Google News:BHP",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "FSK",
-      "short": "FSK — FS KKR Capital Corp. (NYSE:FSK) Given Consensus Recommendation of \"Reduce\" by Brokerage…",
-      "detail": "FSK\n重點：新聞\n標題：FS KKR Capital Corp. (NYSE:FSK) Given Consensus Recommendation of \"Reduce\" by Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQlpmNlg4bzE2WDdLTG1XQTh5dmtic1dHVDJ1dk9SVUFTT2c2VmV5MkVFOWROdk5tY2k5Vi03UkEyZExQb2hGNG8zSEJqN1JOZC04NlZHVHhQWFpVUl9oOWlMd0N5Rm5lQlFMT2RWSS1XcDVvcDZMR0VFWEZRcWE0RmdMVUpiRjh4S1lCc2toOHRXbVdQcHZlWXVnOEtlY05QenR4ZFVzTERwQ…\n來源：Google News:FSK",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQlpmNlg4bzE2WDdLTG1XQTh5dmtic1dHVDJ1dk9SVUFTT2c2VmV5MkVFOWROdk5tY2k5Vi03UkEyZExQb2hGNG8zSEJqN1JOZC04NlZHVHhQWFpVUl9oOWlMd0N5Rm5lQlFMT2RWSS1XcDVvcDZMR0VFWEZRcWE0RmdMVUpiRjh4S1lCc2toOHRXbVdQcHZlWXVnOEtlY05QenR4ZFVzTERwQ2FhNGY3aFJmaVBKUk9fTW1qYWFjOE8tdkI0VkdsZTR3d19icHNwb2QtY09qZ3duOUJHd1VsaA?oc=5",
-      "source": "Google News:FSK",
+      "symbol": "BTG",
+      "short": "BTG — 業績／指引：Can Strong Production at Otjikoto Mine Boost B2Gold's Growth?",
+      "detail": "BTG\n重點：業績／指引\n標題：Can Strong Production at Otjikoto Mine Boost B2Gold's Growth?\n摘要：BTG's Otjikoto mine beats expectations, lifting the 2026 production guidance as underground resources and stockpiles support future output.\n來源：Yahoo Finance:BTG",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/strong-production-otjikoto-mine-boost-154200496.html?.tsrc=rss",
+      "source": "Yahoo Finance:BTG",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "PYPL",
-      "short": "PYPL — 238,669 Shares in PayPal Holdings, Inc. $PYPL Bought by Nykredit A S - MarketBeat",
-      "detail": "PYPL\n重點：新聞\n標題：238,669 Shares in PayPal Holdings, Inc. $PYPL Bought by Nykredit A S - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxObHZsR1UwTThERjZwQUZXT3ZkLTVEa1ZnLU5uY21sMVRkbkJaaUdkaHprV044VUF2TkNsdjVRR2ZHMEhEeXk3WWpWUjdhaXFVV0VGWmZIdEVrdzE0bGI1eUc4U1lfcDRQcC1zQzBJa2dqOXhoZnA5bDBsaVVSVndjQzBKMGw0V0lHNXJaanIzMHh1VWxxeG9YOTJ4SlNCUmVndHFDYWVJckhWN…\n來源：Google News:PYPL",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObHZsR1UwTThERjZwQUZXT3ZkLTVEa1ZnLU5uY21sMVRkbkJaaUdkaHprV044VUF2TkNsdjVRR2ZHMEhEeXk3WWpWUjdhaXFVV0VGWmZIdEVrdzE0bGI1eUc4U1lfcDRQcC1zQzBJa2dqOXhoZnA5bDBsaVVSVndjQzBKMGw0V0lHNXJaanIzMHh1VWxxeG9YOTJ4SlNCUmVndHFDYWVJckhWNjFoeWh6UGY4Z00wMUtyVnB3UTVBMEwwcFU?oc=5",
-      "source": "Google News:PYPL",
+      "symbol": "CRM",
+      "short": "CRM — AI相關：Salesforce vs. Twilio: Which Customer Engagement Stock Has the Edge?",
+      "detail": "CRM\n重點：AI相關\n標題：Salesforce vs. Twilio: Which Customer Engagement Stock Has the Edge?\n摘要：TWLO's faster growth and direct AI communications exposure give it an edge over CRM despite a richer valuation and margin pressures.\n來源：Yahoo Finance:CRM",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-vs-twilio-customer-engagement-130000980.html?.tsrc=rss",
+      "source": "Yahoo Finance:CRM",
       "kind": "news"
     },
     {
       "n": 5,
-      "symbol": "RITM",
-      "short": "RITM — Rithm Capital Corp. $RITM Shares Bought by NewEdge Advisors LLC - MarketBeat",
-      "detail": "RITM\n重點：新聞\n標題：Rithm Capital Corp. $RITM Shares Bought by NewEdge Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVc0c085NzVRd2VoYWh3cGJXbEJaWWtkbG9ZenJOYndNZVpRNnZrcXp4dTRVWHVTNzZnajE2ZUlrRWJ2a25BdGk1UkdIeEk4LW42SzFRYXcybzRuZFZMZzgtQzdoY3VJSzlxaHdSRUUzV0N3SEg4Sl9ma1phY1A4NDdNaVJHNFIxOUVaT0tvQVFxYlp0LUNlaWRuRk9DU3pTOXZ0aHFad1QtY…\n來源：Google News:RITM",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVc0c085NzVRd2VoYWh3cGJXbEJaWWtkbG9ZenJOYndNZVpRNnZrcXp4dTRVWHVTNzZnajE2ZUlrRWJ2a25BdGk1UkdIeEk4LW42SzFRYXcybzRuZFZMZzgtQzdoY3VJSzlxaHdSRUUzV0N3SEg4Sl9ma1phY1A4NDdNaVJHNFIxOUVaT0tvQVFxYlp0LUNlaWRuRk9DU3pTOXZ0aHFad1QtYlF3b0Z0SlBwOXo0eHJYOHQ2d1N0dw?oc=5",
-      "source": "Google News:RITM",
+      "symbol": "DGX",
+      "short": "DGX — Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges",
+      "detail": "DGX\n重點：新聞\n標題：Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges\n摘要：Quest Diagnostics (NYSE:DGX) CEO and President Jim Davis said the diagnostic testing company is exceeding the growth framework it outlined at its prior investor day, driven largely by organic growth, consumer-health demand and partnerships rather than a heavier-than-expected pac…\n來源：Yahoo Finance:DGX",
+      "url": "https://www.marketbeat.com/instant-alerts/event-quest-diagnostics-sees-growth-outpace-targets-as-consumer-testing-surges-2026-09-21/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance:DGX",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "DNOW",
+      "short": "DNOW — 業績／指引：DNOW: Revenue Is Recovering, But Margins Still Need To Catch Up (NYSE:DNOW) - Seeking A…",
+      "detail": "DNOW\n重點：業績／指引\n標題：DNOW: Revenue Is Recovering, But Margins Still Need To Catch Up (NYSE:DNOW) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQN0ZsSjZwbC1sVVpyd0dFeHBPUGIxV2NvNzI3b05xTmRzTkg4ZXVWd0RlWWhJS2I2M0pRbERMWnRyVV9ycUU2cU1uNmxCRjFCckN6eWhvenYxdk1yQ3pyU1A2XzBsbDJIVTdJT3BXVWZPYS04dl9ud1hPYkVNU1ZrQVJSLTh0WWxCc19kSkhKQVFfRGowWWNjcHN4aVE1LVNQd25hZQ?oc=5\" …\n來源：Google News:DNOW",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN0ZsSjZwbC1sVVpyd0dFeHBPUGIxV2NvNzI3b05xTmRzTkg4ZXVWd0RlWWhJS2I2M0pRbERMWnRyVV9ycUU2cU1uNmxCRjFCckN6eWhvenYxdk1yQ3pyU1A2XzBsbDJIVTdJT3BXVWZPYS04dl9ud1hPYkVNU1ZrQVJSLTh0WWxCc19kSkhKQVFfRGowWWNjcHN4aVE1LVNQd25hZQ?oc=5",
+      "source": "Google News:DNOW",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "GSAT",
+      "short": "GSAT — Globalstar Completes Expansion of Greece Ground Station, Marking Key Milestone in Globa…",
+      "detail": "GSAT\n重點：新聞\n標題：Globalstar Completes Expansion of Greece Ground Station, Marking Key Milestone in Global Infrastructure Buildout\n摘要：Expanded facility doubles Globalstar’s ground station infrastructure at Nemea, advancing deployment of the ground network to support its third-generation C-3 systemCOVINGTON, La., Sept. 21, 2026 (GLOBE NEWSWIRE) -- Globalstar (NASDAQ: GSAT), a next-generation telecommunications …\n來源：Yahoo Finance:GSAT",
+      "url": "https://finance.yahoo.com/technology/articles/globalstar-completes-expansion-greece-ground-131600156.html?.tsrc=rss",
+      "source": "Yahoo Finance:GSAT",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "HMC",
+      "short": "HMC — 業績／指引：Is Honda Motor Co. (HMC) Stock Undervalued Right Now?",
+      "detail": "HMC\n重點：業績／指引\n標題：Is Honda Motor Co. (HMC) Stock Undervalued Right Now?\n摘要：Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.\n來源：Yahoo Finance:HMC",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/honda-motor-co-hmc-stock-134002992.html?.tsrc=rss",
+      "source": "Yahoo Finance:HMC",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "HP",
+      "short": "HP — HP stock slips on weak PC market outlook for 2027 - Investing.com",
+      "detail": "HP\n重點：新聞\n標題：HP stock slips on weak PC market outlook for 2027 - Investing.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3pNUnFEbGZ6TGJidm9yOG03UUxkbnQ1T3JyZklNWGwzQm5NVHhaVVFvMi02b2RaVXZTT2ZLenRzTTFJSWhBZXIta21nRHk5aUIzX3JQSkZ1TERENnBVSmJONnNyV19vckVuanU5a3dlNmNuVDVYX0J4c2haZ05rdll4WjN5dkh5OW1DT2VnaDlodUtwdGFUWGVPZXh6TjBxNGFDRjZzTXQ4Z…\n來源：Google News:HP",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3pNUnFEbGZ6TGJidm9yOG03UUxkbnQ1T3JyZklNWGwzQm5NVHhaVVFvMi02b2RaVXZTT2ZLenRzTTFJSWhBZXIta21nRHk5aUIzX3JQSkZ1TERENnBVSmJONnNyV19vckVuanU5a3dlNmNuVDVYX0J4c2haZ05rdll4WjN5dkh5OW1DT2VnaDlodUtwdGFUWGVPZXh6TjBxNGFDRjZzTXQ4Z1hLbUxreA?oc=5",
+      "source": "Google News:HP",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "INTU",
+      "short": "INTU — AI相關：INTU's Big Bets Keep Scaling: Can These Become Its Main Growth Engine?",
+      "detail": "INTU\n重點：AI相關\n標題：INTU's Big Bets Keep Scaling: Can These Become Its Main Growth Engine?\n摘要：Intuit's Big Bets now drive about 30% of revenues, growing above 30% as AI helps scale tax, money and mid-market businesses.\n來源：Yahoo Finance:INTU",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intus-big-bets-keep-scaling-153000232.html?.tsrc=rss",
+      "source": "Yahoo Finance:INTU",
       "kind": "news"
     }
   ]
