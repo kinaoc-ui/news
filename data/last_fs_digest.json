@@ -1,61 +1,16 @@
 {
-  "title": "FS新聞 09-20 14:02",
-  "list_name": "FirstScreen_2026-09-20_140155_comma.txt",
-  "created_at": "2026-09-20T14:02:04.435532+00:00",
+  "title": "FS新聞 09-21 05:10",
+  "list_name": "FirstScreen_2026-09-21_051012_comma.txt",
+  "created_at": "2026-09-21T05:10:20.150393+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "BDX",
-      "short": "BDX — Why Is Becton Dickinson (BDX) Facing Fresh SEC And Litigation Pressure?",
-      "detail": "BDX\n重點：新聞\n標題：Why Is Becton Dickinson (BDX) Facing Fresh SEC And Litigation Pressure?\n摘要：Becton Dickinson (NYSE:BDX) reached an SEC cease and desist settlement over past Alaris infusion pump risk disclosures, including a civil penalty and creation of a Fair Fund for investors. Subsidiary C.R. Bard recently faced a plaintiff verdict in Bard PowerPort litigation, with…\n來源：Yahoo Finance:BDX",
-      "url": "https://finance.yahoo.com/healthcare/articles/why-becton-dickinson-bdx-facing-100922632.html?.tsrc=rss",
-      "source": "Yahoo Finance:BDX",
-      "kind": "news"
-    },
-    {
-      "n": 2,
-      "symbol": "BHP",
-      "short": "BHP — BHP stock holds firm as analysts stay cautious on outlook - ad-hoc-news.de",
-      "detail": "BHP\n重點：新聞\n標題：BHP stock holds firm as analysts stay cautious on outlook - ad-hoc-news.de\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPSmxaNmxfUzBxa0pxWkR5bFJhLWs2T01kMldGRE9DanF4SkxfWXlMTVFKM0pDeGZwc0hxUUVtMnlwM05Xbmh0eU10SnE5UFF0VmtGZkd4SlhLbEtvWV9tRXkzelVWRGNlQW9zbllDNkpiTGw2cUtsdzQ4azE1MzNwZXpISUFhNUdOZ2F4S281cHVTWWY3QldENjZXNU5yTGhVSU5qcmxVbmt4Q…\n來源：Google News:BHP",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSmxaNmxfUzBxa0pxWkR5bFJhLWs2T01kMldGRE9DanF4SkxfWXlMTVFKM0pDeGZwc0hxUUVtMnlwM05Xbmh0eU10SnE5UFF0VmtGZkd4SlhLbEtvWV9tRXkzelVWRGNlQW9zbllDNkpiTGw2cUtsdzQ4azE1MzNwZXpISUFhNUdOZ2F4S281cHVTWWY3QldENjZXNU5yTGhVSU5qcmxVbmt4QUFUNFZiclpqSVhkd1dTQXdScw?oc=5",
-      "source": "Google News:BHP",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "FDX",
-      "short": "FDX — FedEx (FDX) Raises Demand Surcharges, Is It Still Below Fair Value?",
-      "detail": "FDX\n重點：新聞\n標題：FedEx (FDX) Raises Demand Surcharges, Is It Still Below Fair Value?\n摘要：FedEx (FDX) just told customers it is raising demand surcharges on many U.S. import and export lanes, a pricing move that directly affects what the parcel giant earns on each shipment. The FedEx share price has eased in recent weeks, with the 30-day share price return down 6.6% …\n來源：Yahoo Finance:FDX",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fedex-fdx-raises-demand-surcharges-091125127.html?.tsrc=rss",
-      "source": "Yahoo Finance:FDX",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "INTU",
-      "short": "INTU — Nykredit A S Purchases New Shares in Intuit Inc. $INTU - MarketBeat",
-      "detail": "INTU\n重點：新聞\n標題：Nykredit A S Purchases New Shares in Intuit Inc. $INTU - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1JkdjZSbUhxZ1BhcG1QUWhuTWhrdFFWQVFTQWY2OU5aRllyaGVfUmZVamp2eF9GS1dBNHIydC1mWnMwd3JhOF93N0FiRC05UWVGdEVxdTMxR0VZZzN4TWltTWhIbk9PeDFGb2tHbm55aWJkdWhVSldYQ1d1d1NsU2lXRDRlbHlNZW1KWWpOcnBwUW9RNElNNG1Ld0J6MG9BNUU1NmZLSHNZZ…\n來源：Google News:INTU",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1JkdjZSbUhxZ1BhcG1QUWhuTWhrdFFWQVFTQWY2OU5aRllyaGVfUmZVamp2eF9GS1dBNHIydC1mWnMwd3JhOF93N0FiRC05UWVGdEVxdTMxR0VZZzN4TWltTWhIbk9PeDFGb2tHbm55aWJkdWhVSldYQ1d1d1NsU2lXRDRlbHlNZW1KWWpOcnBwUW9RNElNNG1Ld0J6MG9BNUU1NmZLSHNZZG1KbTdlc1VrTQ?oc=5",
-      "source": "Google News:INTU",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "NESR",
-      "short": "NESR — 業績／指引：How Investors Are Reacting To NESR Stock After Its Earnings Beat - simplywall.st",
-      "detail": "NESR\n重點：業績／指引\n標題：How Investors Are Reacting To NESR Stock After Its Earnings Beat - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdFJlTWRDU2h2VG5mN0F1YkxSQ0JxR3pJcUk5R1VlMWJhOFJGQ2w0Z0EzYjJmcXJ0SUctTHV4WXowNEMwWFF1MmJFQUpLeC1nNHBXVDc3MTV6OER1MkNrVEdXU09TS1pPdWM3bkVmZ3ZRbDZjRW5sc0dDYWg1N3pCLXg4V3h3Ynp6UlJudHlZejhFVDQxb2xmMUJRVV9sZWtwaE1pUENMd0Jfe…\n來源：Google News:NESR",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdFJlTWRDU2h2VG5mN0F1YkxSQ0JxR3pJcUk5R1VlMWJhOFJGQ2w0Z0EzYjJmcXJ0SUctTHV4WXowNEMwWFF1MmJFQUpLeC1nNHBXVDc3MTV6OER1MkNrVEdXU09TS1pPdWM3bkVmZ3ZRbDZjRW5sc0dDYWg1N3pCLXg4V3h3Ynp6UlJudHlZejhFVDQxb2xmMUJRVV9sZWtwaE1pUENMd0JfeEVwMlVVOGE2UUZOaUhxeU1YZ29hX0lhcGU3M3NvQmhDZjV6OTV6MDBXeDhZTE03U1Jkb2VZSFhBS2dBbTFC0gHoAUFVX3lxTE90UmVNZENTaHZUbmY3QXViTFJDQnFHeklxSTlHVWUxYmE4UkZDbDRnQTNiMmZxcnRJRy1MdXhZejA0QzBYUXUyYkVBSkt4LWc0cFdUNzcxNXo4RHUyQ2tUR1dTT1NLWk91YzduRWZndlFsNmNFbmxzR0NhaDU3ekIteDhXeHdienpSUm50eVl6OEVUNDFvbGYxQlFVX2xla3BoTWlQQ0x3Ql94RXAyVVU4YTZRRk5pSHF5TVhnb2FfSWFwZTczc29CaENmNXo5NXowMFd4OFlMTTdTUmRvZVlIWEFLZ0FtMUI?oc=5",
-      "source": "Google News:NESR",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "PR",
-      "short": "PR — Permian Resources Corporation (NYSE:PR) Given Consensus Rating of \"Buy\" by Analysts - M…",
-      "detail": "PR\n重點：新聞\n標題：Permian Resources Corporation (NYSE:PR) Given Consensus Rating of \"Buy\" by Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbzZFMWVOZWc3VjZMaXREVjBJMjVLeTU2QVFfWHc2blpMSW0zR0ZVc2dCQXhscGExdGhIRWk4RkZkR2tfZ0tXN04yYm0wMnMtcE9ERjhqWHVtUjNnUXVYc01MTmdKd2o3dlJ6N055MWRKZmFERFZ3YzJjdmk2RnEyaVdMb0p6VnBBWVFJWlYwNGlEdmxiR29pSkNvMkJIaTBsZXN4RDROcDlCd…\n來源：Google News:PR",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbzZFMWVOZWc3VjZMaXREVjBJMjVLeTU2QVFfWHc2blpMSW0zR0ZVc2dCQXhscGExdGhIRWk4RkZkR2tfZ0tXN04yYm0wMnMtcE9ERjhqWHVtUjNnUXVYc01MTmdKd2o3dlJ6N055MWRKZmFERFZ3YzJjdmk2RnEyaVdMb0p6VnBBWVFJWlYwNGlEdmxiR29pSkNvMkJIaTBsZXN4RDROcDlCdnkxbUdjZzlEUUFMeUdzcHFEdHROdXFXVXBVdXU1V2dsaFNzWXRwNWVtUEtiZkpERDQ?oc=5",
-      "source": "Google News:PR",
+      "symbol": "LULU",
+      "short": "LULU — 業績／指引：Lululemon (LULU): Wall Street Keeps Cutting Targets, But Nobody’s Calling It Cheap Enou…",
+      "detail": "LULU\n重點：業績／指引\n標題：Lululemon (LULU): Wall Street Keeps Cutting Targets, But Nobody’s Calling It Cheap Enough to Buy\n摘要：On September 3, 2026, lululemon athletica inc. (NASDAQ:LULU) reported second-quarter fiscal 2026 results for the period ended August 2, 2026. Net revenue fell 4% to $2.4 billion, missing the $2.46 billion analysts expected, and comparable sales dropped 10% on a constant dollar b…\n來源：Yahoo Finance:LULU",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lululemon-lulu-wall-street-keeps-215239806.html?.tsrc=rss",
+      "source": "Yahoo Finance:LULU",
       "kind": "news"
     }
   ]
