@@ -1,106 +1,115 @@
 {
-  "title": "FS新聞 09-22 09:37",
-  "list_name": "FirstScreen_2026-09-22_093714_comma.txt",
-  "created_at": "2026-09-22T09:37:23.245801+00:00",
+  "title": "FS新聞 09-22 14:32",
+  "list_name": "FirstScreen_2026-09-22_143157_comma.txt",
+  "created_at": "2026-09-22T14:32:07.354618+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "BHP",
+      "short": "BHP — AI相關：BHP Group And 2 Australian Dividend Stocks To Own",
+      "detail": "BHP\n重點：AI相關\n標題：BHP Group And 2 Australian Dividend Stocks To Own\n摘要：AI optimism lifting global stocks has pushed yield hunters to look harder at what they actually get paid to wait. Australian dividend shares with yields above 3% and payouts that are covered and consistent offer something simple: cash in your account while markets chase the next…\n來源：Yahoo Finance:BHP\n其他：BHP stock gains as a USD 0.99 dividend nears - AD HOC NEWS",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bhp-group-2-australian-dividend-131941320.html?.tsrc=rss",
+      "source": "Yahoo Finance:BHP",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "GAP",
+      "short": "GAP — Gap Inc. Debuts First Fashiontainment Partnership with Emerging Boy Band JYT",
+      "detail": "GAP\n重點：新聞\n標題：Gap Inc. Debuts First Fashiontainment Partnership with Emerging Boy Band JYT\n摘要：Today, Gap Inc. (NYSE: GAP) announced a new multi-year partnership with Just Your Type (JYT), the five-member, dance-forward American boy band. The collaboration is the first under Gap Inc.'s Fashiontainment platform, which leverages the power of its iconic brands to create cont…\n來源：Yahoo Finance:GAP\n其他：Gap stock holds at USD 21.25 as retail growth shapes the ou…",
+      "url": "https://finance.yahoo.com/media-advertising/articles/gap-inc-debuts-first-fashiontainment-123500532.html?.tsrc=rss",
+      "source": "Yahoo Finance:GAP",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "LULU",
+      "short": "LULU — 業績／指引：Wall Street Slashes Targets On Lululemon Athletica (NASDAQ: LULU) As Analysts See No Cl…",
+      "detail": "LULU\n重點：業績／指引\n標題：Wall Street Slashes Targets On Lululemon Athletica (NASDAQ: LULU) As Analysts See No Clear Bottom After Jarring Guidance Cut - foreignpolicyjournal.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQi1xOVJYQU85YWk0VGJscXR5eVVJQmFKb2k5OGRFdlplUkxla25KRW5Najl5eVAyQVI3YnpCbjZPWUhJSjQxVjl6amVWUEw5LUgzUmhLQ1dvdXdmdzZ6TDJCOXhZZEJxN0wwOHFjR3AzRW9Dc0YzejFkOVJzcVl5b3JtU1FMcHhTTFdFZW5zbnVxbWttOVZHaVk5RlJqUkFwaHVMSDZRcFVfS…\n來源：Google News:LULU\n其他：Nykredit A S Takes Position in lululemon athletica inc. $LU…",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQi1xOVJYQU85YWk0VGJscXR5eVVJQmFKb2k5OGRFdlplUkxla25KRW5Najl5eVAyQVI3YnpCbjZPWUhJSjQxVjl6amVWUEw5LUgzUmhLQ1dvdXdmdzZ6TDJCOXhZZEJxN0wwOHFjR3AzRW9Dc0YzejFkOVJzcVl5b3JtU1FMcHhTTFdFZW5zbnVxbWttOVZHaVk5RlJqUkFwaHVMSDZRcFVfS1RQb0o3Z2c5NDR6QmNVeDg1cEFHc1Nwa2Q0M0EtLV95a1FLSm5WX0haQ3NLSUtCZnV5VkVGZ0lQZDVXYlRBZURMcld1OHdYVmRqU2E4RmNqT0xCbzQ?oc=5",
+      "source": "Google News:LULU",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "MRK",
+      "short": "MRK — Could You Have Seen Merck Stock's Pipeline Run Coming?",
+      "detail": "MRK\n重點：新聞\n標題：Could You Have Seen Merck Stock's Pipeline Run Coming?\n摘要：Merck (MRK) stock gained about 89% in the year from mid-September 2025, against a 17.1% price gain for the S&amp;P 500. It also beat Johnson & Johnson (JNJ), up 58%, and Eli Lilly (LLY), up 54%. The signs were public long before the run, in what management kept saying about its …\n來源：Yahoo Finance:MRK\n其他：Why Is Merck (MRK) In Focus After Japan Cleared A New Dosin…",
+      "url": "https://www.trefis.com/articles/616142/could-you-have-seen-merck-stocks-pipeline-run-coming/2026-09-22?.tsrc=rss",
+      "source": "Yahoo Finance:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "PDD",
+      "short": "PDD — 業績／指引：Is PDD Holdings (PDD) Cheap After Higher Earnings Estimates And A 10% Monthly Drop?",
+      "detail": "PDD\n重點：業績／指引\n標題：Is PDD Holdings (PDD) Cheap After Higher Earnings Estimates And A 10% Monthly Drop?\n摘要：PDD Holdings (PDD) has drawn fresh attention after becoming one of the most searched stocks, as investors weigh modestly higher earnings estimates and valuation metrics that suggest a discount relative to sector peers. Recent trading has been choppy for PDD Holdings, with the sh…\n來源：Yahoo Finance:PDD\n其他：PDD Holdings (PDD) Stock Could Be A Bargain Following Its 3…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-pdd-cheap-higher-121405372.html?.tsrc=rss",
+      "source": "Yahoo Finance:PDD",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "A",
+      "short": "A — 業績／指引：Research Tools & Consumables Stocks Q2 Highlights: Agilent (NYSE:A)",
+      "detail": "A\n重點：業績／指引\n標題：Research Tools & Consumables Stocks Q2 Highlights: Agilent (NYSE:A)\n摘要：Let’s dig into the relative performance of Agilent (NYSE:A) and its peers as we unravel the now-completed Q2 research tools & consumables earnings season.\n來源：Yahoo Finance:A",
+      "url": "https://finance.yahoo.com/healthcare/articles/research-tools-consumables-stocks-q2-135746032.html?.tsrc=rss",
+      "source": "Yahoo Finance:A",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "ARCC",
+      "short": "ARCC — Why I Trust ARCC's Nearly 10%-Yielding Dividend and Wouldn't Touch ACRE's Double-Digit …",
+      "detail": "ARCC\n重點：新聞\n標題：Why I Trust ARCC's Nearly 10%-Yielding Dividend and Wouldn't Touch ACRE's Double-Digit Payout\n摘要：These high-yielding dividend stocks have very different track records.\n來源：Yahoo Finance:ARCC",
+      "url": "https://www.fool.com/investing/2026/09/22/why-i-trust-arcc-s-nearly-10-yielding-dividend-and-wouldn-t-touch-acre-s-double-digit-payout/?.tsrc=rss",
+      "source": "Yahoo Finance:ARCC",
+      "kind": "news"
+    },
+    {
+      "n": 8,
       "symbol": "CARG",
       "short": "CARG — CarGurus, Inc. (NASDAQ:CARG) Given Consensus Recommendation of \"Moderate Buy\" by Analys…",
-      "detail": "CARG\n重點：新聞\n標題：CarGurus, Inc. (NASDAQ:CARG) Given Consensus Recommendation of \"Moderate Buy\" by Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLXFsQWJYXzg4Mkp6eDgwakZQYkc1Q1Q1MHdtLUZqVXdsV2N3dUhhWGUtYjh3cTFfTlBxYlN2VE1QSmYyV1AwQ0V3d01iTHhYQmw5SEFJdjJ0YUE0THl4ZllSUGVlVzhhU3lNVHFua09JN0sxczJTMzBRNlNIZjJqRUdkcEFadHZqNHo1cGVacWU5QkZzcUpzNndHWXp5YmpxRnZqdldfYXVBV…\n來源：Google News:CARG",
+      "detail": "CARG\n重點：新聞\n標題：CarGurus, Inc. (NASDAQ:CARG) Given Consensus Recommendation of \"Moderate Buy\" by Analysts - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLXFsQWJYXzg4Mkp6eDgwakZQYkc1Q1Q1MHdtLUZqVXdsV2N3dUhhWGUtYjh3cTFfTlBxYlN2VE1QSmYyV1AwQ0V3d01iTHhYQmw5SEFJdjJ0YUE0THl4ZllSUGVlVzhhU3lNVHFua09JN0sxczJTMzBRNlNIZjJqRUdkcEFadHZqNHo1cGVacWU5QkZzcUpzNndHWXp5YmpxRnZqdldfYXVBV…\n來源：Google News:CARG",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLXFsQWJYXzg4Mkp6eDgwakZQYkc1Q1Q1MHdtLUZqVXdsV2N3dUhhWGUtYjh3cTFfTlBxYlN2VE1QSmYyV1AwQ0V3d01iTHhYQmw5SEFJdjJ0YUE0THl4ZllSUGVlVzhhU3lNVHFua09JN0sxczJTMzBRNlNIZjJqRUdkcEFadHZqNHo1cGVacWU5QkZzcUpzNndHWXp5YmpxRnZqdldfYXVBVkJ6OUJFT2FtZWVoZnpvdE40djZnR0pTUGx1VmxITzBvUjhNYTdYQWpfTllxZkZybkZqaFU3eg?oc=5",
       "source": "Google News:CARG",
       "kind": "news"
     },
     {
-      "n": 2,
-      "symbol": "COF",
-      "short": "COF — What Capital One Financial (COF)'s Eurobond Issuance Means For Shareholders",
-      "detail": "COF\n重點：新聞\n標題：What Capital One Financial (COF)'s Eurobond Issuance Means For Shareholders\n摘要：Earlier this month, Capital One Financial completed two euro-denominated fixed-income offerings, issuing €750 million fixed-to-floating rate notes due 2032 and another €750 million tranche due 2037, both senior, unsecured, callable Eurobonds with variable coupons priced at 100%.…\n來源：Yahoo Finance:COF",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/capital-one-financial-cof-eurobond-032448228.html?.tsrc=rss",
-      "source": "Yahoo Finance:COF",
+      "n": 9,
+      "symbol": "CRM",
+      "short": "CRM — AI相關：Salesforce (CRM) Deepens AI Partner Ties And Brings Hands Free Workflows Closer",
+      "detail": "CRM\n重點：AI相關\n標題：Salesforce (CRM) Deepens AI Partner Ties And Brings Hands Free Workflows Closer\n摘要：Salesforce (NYSE:CRM) expanded its AI and AR integrations with partners including Snap, Nvidia, and AWS, focusing on hands free enterprise workflows. The collaboration brings Snap's AR Spectacles into Salesforce environments, targeting use cases such as field service, logistics,…\n來源：Yahoo Finance:CRM",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-deepens-ai-partner-141359262.html?.tsrc=rss",
+      "source": "Yahoo Finance:CRM",
       "kind": "news"
     },
     {
-      "n": 3,
+      "n": 10,
+      "symbol": "DGX",
+      "short": "DGX — Quest Diagnostics, Labcorp Shares Fall as Medicare Signals Cuts in Payment Rates for La…",
+      "detail": "DGX\n重點：新聞\n標題：Quest Diagnostics, Labcorp Shares Fall as Medicare Signals Cuts in Payment Rates for Lab Services\n摘要：Quest Diagnostics (DGX) and Labcorp (LH) shares fell in Tuesday premarket trading after the Centers\n來源：Yahoo Finance:DGX",
+      "url": "https://finance.yahoo.com/healthcare/articles/quest-diagnostics-labcorp-shares-fall-124652405.html?.tsrc=rss",
+      "source": "Yahoo Finance:DGX",
+      "kind": "news"
+    },
+    {
+      "n": 11,
       "symbol": "EC",
-      "short": "EC — Engineers Gate Manager LP Sells 187,178 Shares of Ecopetrol S.A. $EC - MarketBeat",
-      "detail": "EC\n重點：新聞\n標題：Engineers Gate Manager LP Sells 187,178 Shares of Ecopetrol S.A. $EC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSUtieDlkT3ZidkFvX3lWR3Z2Qkl1ckp1ZjBuNDEyUU9pUFZoVjNuTGdvSDQyVDhMVFEySUZJTURMNXJMWUNjNmhWTkUyeW5nLTJqRS1USXI4WVZZaEFaa2EtWjFZY0dueTlGZW8wVEQxa2pOZlhDT3JDYmVHV1ltdTVIZWxlVlVCN1ZfODJvbEFrTkg5ZGs0Zm1WZG0zaDFkUkhPSUVFZVhrN…\n來源：Google News:EC",
+      "short": "EC — Engineers Gate Manager LP Sells 187,178 Shares of Ecopetrol S.A. $EC - marketbeat.com",
+      "detail": "EC\n重點：新聞\n標題：Engineers Gate Manager LP Sells 187,178 Shares of Ecopetrol S.A. $EC - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSUtieDlkT3ZidkFvX3lWR3Z2Qkl1ckp1ZjBuNDEyUU9pUFZoVjNuTGdvSDQyVDhMVFEySUZJTURMNXJMWUNjNmhWTkUyeW5nLTJqRS1USXI4WVZZaEFaa2EtWjFZY0dueTlGZW8wVEQxa2pOZlhDT3JDYmVHV1ltdTVIZWxlVlVCN1ZfODJvbEFrTkg5ZGs0Zm1WZG0zaDFkUkhPSUVFZVhrN…\n來源：Google News:EC",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSUtieDlkT3ZidkFvX3lWR3Z2Qkl1ckp1ZjBuNDEyUU9pUFZoVjNuTGdvSDQyVDhMVFEySUZJTURMNXJMWUNjNmhWTkUyeW5nLTJqRS1USXI4WVZZaEFaa2EtWjFZY0dueTlGZW8wVEQxa2pOZlhDT3JDYmVHV1ltdTVIZWxlVlVCN1ZfODJvbEFrTkg5ZGs0Zm1WZG0zaDFkUkhPSUVFZVhrNk9LZlo5VUxOdFRvNERDWWNObXNPZGpjUTg?oc=5",
       "source": "Google News:EC",
       "kind": "news"
     },
     {
-      "n": 4,
+      "n": 12,
       "symbol": "EL",
-      "short": "EL — Nykredit A S Makes New Investment in The Estee Lauder Companies Inc. $EL - MarketBeat",
-      "detail": "EL\n重點：新聞\n標題：Nykredit A S Makes New Investment in The Estee Lauder Companies Inc. $EL - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPaUFma3pVUmJfeU5YYmxDeXNBUG52OUhtTC1jd25yX3UzN2Z0X2piTVpBNjRwdHUzNnVWbTU1eWhrYXc5RUZLQklsWHEzWUhKMXlpRnJWMkxtdDg2R2ZSdnFBTHlodHdzMGtzYTN3X1JXcXExdE8zWFpKTnA4cHYzTmE2NXpOcGdfVF9FOGZKeU9zMXBOREkwREUyZ3E2SWs3MlkzU3pKMzhLO…\n來源：Google News:EL",
+      "short": "EL — Nykredit A S Makes New Investment in The Estee Lauder Companies Inc. $EL - marketbeat.c…",
+      "detail": "EL\n重點：新聞\n標題：Nykredit A S Makes New Investment in The Estee Lauder Companies Inc. $EL - marketbeat.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPaUFma3pVUmJfeU5YYmxDeXNBUG52OUhtTC1jd25yX3UzN2Z0X2piTVpBNjRwdHUzNnVWbTU1eWhrYXc5RUZLQklsWHEzWUhKMXlpRnJWMkxtdDg2R2ZSdnFBTHlodHdzMGtzYTN3X1JXcXExdE8zWFpKTnA4cHYzTmE2NXpOcGdfVF9FOGZKeU9zMXBOREkwREUyZ3E2SWs3MlkzU3pKMzhLO…\n來源：Google News:EL",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaUFma3pVUmJfeU5YYmxDeXNBUG52OUhtTC1jd25yX3UzN2Z0X2piTVpBNjRwdHUzNnVWbTU1eWhrYXc5RUZLQklsWHEzWUhKMXlpRnJWMkxtdDg2R2ZSdnFBTHlodHdzMGtzYTN3X1JXcXExdE8zWFpKTnA4cHYzTmE2NXpOcGdfVF9FOGZKeU9zMXBOREkwREUyZ3E2SWs3MlkzU3pKMzhLOFhSR0FMdTU0eWdUOWtLb2ZDN2ticXJzN2Z2NnlCR2JIbw?oc=5",
       "source": "Google News:EL",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "GAP",
-      "short": "GAP — Gap stock holds at USD 21.25 as retail growth shapes the outlook - AD HOC NEWS",
-      "detail": "GAP\n重點：新聞\n標題：Gap stock holds at USD 21.25 as retail growth shapes the outlook - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZi1sWV95OHZWbTVCTDRnczFDdGo0ZW93UzFKTlpXV2lDclNjX2RTMG5qVEp5ckxQelpianJEZTk0S3p6ZHdKQUdqT254ZWdaMkpmSWpBT2ZqLVRnX1Q2Qm9ZckdSNnlsNjNYZVhOb2RNZkl6OFBsYnV4V3lMRl83Ym41NXBxcTM3RkpHLU0tcC02dHlxSERHUVhaQnZmNGMzN25aaExzOHNoV…\n來源：Google News:GAP",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZi1sWV95OHZWbTVCTDRnczFDdGo0ZW93UzFKTlpXV2lDclNjX2RTMG5qVEp5ckxQelpianJEZTk0S3p6ZHdKQUdqT254ZWdaMkpmSWpBT2ZqLVRnX1Q2Qm9ZckdSNnlsNjNYZVhOb2RNZkl6OFBsYnV4V3lMRl83Ym41NXBxcTM3RkpHLU0tcC02dHlxSERHUVhaQnZmNGMzN25aaExzOHNoV185ck5ZYVJMUFA4dUdIcFJwLU5MZVE?oc=5",
-      "source": "Google News:GAP",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "GPC",
-      "short": "GPC — Nykredit A S Invests $4.82 Million in Genuine Parts Company $GPC - MarketBeat",
-      "detail": "GPC\n重點：新聞\n標題：Nykredit A S Invests $4.82 Million in Genuine Parts Company $GPC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxONzNXcU10dWFjVEloYkJFNUlXRnlIdWNHZUVTbHZxUFM0Z0lHYTBkaVZRcEVSR3JpUUdjXzNPWDdRWlcwaVdwSmMwYXdFZGFUMlU4S093ZDJvUjZvZWo3MWlyWENUSlRpVVhEX0NJN0tROVlWSnVxVmszcGRQT2lSRmhVYjczRlBRSmFhek5jcjFKSjV2Uzh4OFZoU0MtRm1fOU9xc3JURExqN…\n來源：Google News:GPC",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONzNXcU10dWFjVEloYkJFNUlXRnlIdWNHZUVTbHZxUFM0Z0lHYTBkaVZRcEVSR3JpUUdjXzNPWDdRWlcwaVdwSmMwYXdFZGFUMlU4S093ZDJvUjZvZWo3MWlyWENUSlRpVVhEX0NJN0tROVlWSnVxVmszcGRQT2lSRmhVYjczRlBRSmFhek5jcjFKSjV2Uzh4OFZoU0MtRm1fOU9xc3JURExqNHo0cDJEWW01VXRuQktVajRPRm9wRQ?oc=5",
-      "source": "Google News:GPC",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "GSAT",
-      "short": "GSAT — 業績／指引：Globalstar (GSAT) Stock Looks Fully Priced On Its 346% Run",
-      "detail": "GSAT\n重點：業績／指引\n標題：Globalstar (GSAT) Stock Looks Fully Priced On Its 346% Run\n摘要：Globalstar has delivered a powerful share price run in recent years, which puts fresh attention on whether the current market value lines up with what its sales can reasonably support. With a business tied to satellite connectivity and new infrastructure coming online, the key i…\n來源：Yahoo Finance:GSAT",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/globalstar-gsat-stock-looks-fully-091627933.html?.tsrc=rss",
-      "source": "Yahoo Finance:GSAT",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "HCA",
-      "short": "HCA — HCA Healthcare, Inc. (NYSE:HCA) Given Consensus Rating of \"Moderate Buy\" by Brokerages …",
-      "detail": "HCA\n重點：新聞\n標題：HCA Healthcare, Inc. (NYSE:HCA) Given Consensus Rating of \"Moderate Buy\" by Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbFFqaXRDZHZtLTJZUkw5dU1PUFBBYmlmakdTZGQ2cXdzSlJoRndCTHJoZG5MeTZidkhXQ1p3aHVVMGhoMFZCOWRzdUpvMFZrbUpDTmZWVGI2MGxkcFBpTVYwLTIzTHhfekY3Z2UtUGxyRHItZUI1bFR1dS1NaXNCWF9ud20tVGd4VnhnTU1zZ05nTFpKeldKU05SZjlMeld6M0VWWnhpLUxyZ…\n來源：Google News:HCA",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbFFqaXRDZHZtLTJZUkw5dU1PUFBBYmlmakdTZGQ2cXdzSlJoRndCTHJoZG5MeTZidkhXQ1p3aHVVMGhoMFZCOWRzdUpvMFZrbUpDTmZWVGI2MGxkcFBpTVYwLTIzTHhfekY3Z2UtUGxyRHItZUI1bFR1dS1NaXNCWF9ud20tVGd4VnhnTU1zZ05nTFpKeldKU05SZjlMeld6M0VWWnhpLUxyZmpZaVlRRkxwNF9raURiSWdaXzQ3eDFWdlcxN1loNWNwamtTM2pobHhrc3REXzZwRVhW?oc=5",
-      "source": "Google News:HCA",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "JD",
-      "short": "JD — JD.com (NASDAQ:JD) Shares Pass Below 50-Day Moving Average - Here's Why - MarketBeat",
-      "detail": "JD\n重點：新聞\n標題：JD.com (NASDAQ:JD) Shares Pass Below 50-Day Moving Average - Here's Why - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRGI0Vy1vTzVmTnVkbUFXckFRV3EtT08wcFFpcUFiREFRWnA4SWVHTUhYY3RuNzBQcnRmaFZfV1AyY0NUZlFyTnFILUhsOFNrT004Y1ZKSWFVQ0JmTzlWY1VqRWFlcUd2MGdoUGJyUGMxVUE3emVYZmdMTEFsVlo3NzlCbkRTZTd1UVFTRVdjWjJlM0NuN1pVNFYzLUJHS2FBSkdaaEE1dDZka…\n來源：Google News:JD",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRGI0Vy1vTzVmTnVkbUFXckFRV3EtT08wcFFpcUFiREFRWnA4SWVHTUhYY3RuNzBQcnRmaFZfV1AyY0NUZlFyTnFILUhsOFNrT004Y1ZKSWFVQ0JmTzlWY1VqRWFlcUd2MGdoUGJyUGMxVUE3emVYZmdMTEFsVlo3NzlCbkRTZTd1UVFTRVdjWjJlM0NuN1pVNFYzLUJHS2FBSkdaaEE1dDZkaGozZzNJYlZiS09LMHdnZXk1dGlyNDJXVzA?oc=5",
-      "source": "Google News:JD",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "LULU",
-      "short": "LULU — Nykredit A S Takes Position in lululemon athletica inc. $LULU - MarketBeat",
-      "detail": "LULU\n重點：新聞\n標題：Nykredit A S Takes Position in lululemon athletica inc. $LULU - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOWmFTbmR2eTNaU3dSUktxamg2dU5xYmVqdDg0V2VsLTU0QkF6dlVhd01PQm5ZZTZvZ3JTclUtM2xZbFhZdjYwcFozS0p5bF9xcFBzWkRyeGJpQld3VzFyU042Z3V6TjYxdWVqV3VVT1BpdnBEUEQ2U2luRzdiM1NPdkJ5QmhWREl5UHd6V1ZpRGFKY0R0dTluX2hyQ2xmY1NjSlFDZnZLTWotZ…\n來源：Google News:LULU",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWmFTbmR2eTNaU3dSUktxamg2dU5xYmVqdDg0V2VsLTU0QkF6dlVhd01PQm5ZZTZvZ3JTclUtM2xZbFhZdjYwcFozS0p5bF9xcFBzWkRyeGJpQld3VzFyU042Z3V6TjYxdWVqV3VVT1BpdnBEUEQ2U2luRzdiM1NPdkJ5QmhWREl5UHd6V1ZpRGFKY0R0dTluX2hyQ2xmY1NjSlFDZnZLTWotZG41eWtXVktPNjZCc290cTZ1bg?oc=5",
-      "source": "Google News:LULU",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "OKTA",
-      "short": "OKTA — Nykredit A S Acquires New Position in Okta, Inc. $OKTA - MarketBeat",
-      "detail": "OKTA\n重點：新聞\n標題：Nykredit A S Acquires New Position in Okta, Inc. $OKTA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOS054NVdkYzBwb3BuVk5KcWswNFJSUEk0b2RCaE1nTUFnbHBydzh2VjZNQ1A0TTFZZkVjbS15bXhPa0tLSjR0NHNmUW9lcjlaUGN2d0VqbkV4OU9mbFd1amNhQmZWQ3BIZm9sQjdGYlBHMG8zSDhhcGdES1VxT1JJMHRHR2x4WURORV9oS3k4VEhLcXpDUnJPdGxWMF9GazJJajljWkVzUnVkN…\n來源：Google News:OKTA",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS054NVdkYzBwb3BuVk5KcWswNFJSUEk0b2RCaE1nTUFnbHBydzh2VjZNQ1A0TTFZZkVjbS15bXhPa0tLSjR0NHNmUW9lcjlaUGN2d0VqbkV4OU9mbFd1amNhQmZWQ3BIZm9sQjdGYlBHMG8zSDhhcGdES1VxT1JJMHRHR2x4WURORV9oS3k4VEhLcXpDUnJPdGxWMF9GazJJajljWkVzUnVkNnQ2cklkeUZB?oc=5",
-      "source": "Google News:OKTA",
       "kind": "news"
     }
   ]
