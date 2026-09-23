@@ -1,52 +1,115 @@
 {
-  "title": "FS新聞 09-23 04:55",
-  "list_name": "FirstScreen_2026-09-23_045547_comma.txt",
-  "created_at": "2026-09-23T04:55:56.657850+00:00",
+  "title": "FS新聞 09-23 09:44",
+  "list_name": "FirstScreen_2026-09-23_094436_comma.txt",
+  "created_at": "2026-09-23T09:44:44.598902+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "BILL",
-      "short": "BILL — 業績／指引：BILL Holdings, Inc. Revenue Breakdown – NYSE:BILL - TradingView",
-      "detail": "BILL\n重點：業績／指引\n標題：BILL Holdings, Inc. Revenue Breakdown – NYSE:BILL - TradingView\n摘要：<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE93ZjQxN2JZNDlrUTBWbFdTdGxON1FwVjdNeXVrdkhaOU5VT21ibXZFWExSOXI1M2dWMGVWMng0UnZ6S3haeGQyZXY3cm9VQ0NzMXI5QXNCWFVtcXkwZVZacFhkYWZmblk5emUtS0ZESVE0WWE4?oc=5\" target=\"_blank\">BILL Holdings, Inc. Revenue Breakdown – NYSE:BILL<…\n來源：Google News:BILL",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93ZjQxN2JZNDlrUTBWbFdTdGxON1FwVjdNeXVrdkhaOU5VT21ibXZFWExSOXI1M2dWMGVWMng0UnZ6S3haeGQyZXY3cm9VQ0NzMXI5QXNCWFVtcXkwZVZacFhkYWZmblk5emUtS0ZESVE0WWE4?oc=5",
-      "source": "Google News:BILL",
+      "symbol": "GAP",
+      "short": "GAP — Is Gap’s (GAP) New ‘Fashiontainment’ Bet With JYT a Turning Point for Brand Reinvigorat…",
+      "detail": "GAP\n重點：新聞\n標題：Is Gap’s (GAP) New ‘Fashiontainment’ Bet With JYT a Turning Point for Brand Reinvigoration?\n摘要：Gap Inc. recently announced a multi-year partnership with American boy band Just Your Type (JYT) under its new Fashiontainment platform, spanning a co-produced docuseries, a national mall tour, a co-designed capsule collection and social content to connect the brand with younger…\n來源：Yahoo Finance:GAP\n其他：What Gap (GAP)'s Boy Band Partnership Means For Shareholder…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gap-gap-fashiontainment-bet-jyt-091504064.html?.tsrc=rss",
+      "source": "Yahoo Finance:GAP",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce (NYSE:CRM) Shares Down 1.3% - Here's Why - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Shares Down 1.3% - Here's Why - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNd01CN0Q3TUZ0ZlVwbnpManZoQ1dtdlkzdU50M0FkWmhRM0NLdWJTUjBHUWxUa25wRHFfdHpQUUZfZkxXVUVMTXZ6ZGFTQnJIM25qZ1VhMUtvbWlFNDBEaUZ0YURrTkg0NWtFbktMNl9NTG9kWWpIckRiTTdfTDVWaXdCYk5hWmFuQUxTaVFnS3NNS1BBRmFaQVZ3RG1mMGJCdFU5NTBHVQ?oc…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd01CN0Q3TUZ0ZlVwbnpManZoQ1dtdlkzdU50M0FkWmhRM0NLdWJTUjBHUWxUa25wRHFfdHpQUUZfZkxXVUVMTXZ6ZGFTQnJIM25qZ1VhMUtvbWlFNDBEaUZ0YURrTkg0NWtFbktMNl9NTG9kWWpIckRiTTdfTDVWaXdCYk5hWmFuQUxTaVFnS3NNS1BBRmFaQVZ3RG1mMGJCdFU5NTBHVQ?oc=5",
-      "source": "Google News:CRM",
+      "symbol": "A",
+      "short": "A — On shares jump as company lays out fresh financial ambitions and a stock buyback - mark…",
+      "detail": "A\n重點：新聞\n標題：On shares jump as company lays out fresh financial ambitions and a stock buyback - marketscreener.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbzU1aHdRcFk1NnhjeE9yWW45LW5rY1Njb01jYTlVaWpoeExOMG9ENkZsc2hKY2sya25LUTVOQ0RROWVIbW5hWHpGVVRITTVqQmlNYWxOZW90TjlMcWc4UHhzYzhMSmVGQUtsSlZ2bXQ5OXdFeFFhbkRsdDhKaEFackNIOUJDUnd5M09NT1VpMWFvTFBwbWd1dDdmbGw4ZVNkNXQtYTJVTEZkY…\n來源：Google News:A",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbzU1aHdRcFk1NnhjeE9yWW45LW5rY1Njb01jYTlVaWpoeExOMG9ENkZsc2hKY2sya25LUTVOQ0RROWVIbW5hWHpGVVRITTVqQmlNYWxOZW90TjlMcWc4UHhzYzhMSmVGQUtsSlZ2bXQ5OXdFeFFhbkRsdDhKaEFackNIOUJDUnd5M09NT1VpMWFvTFBwbWd1dDdmbGw4ZVNkNXQtYTJVTEZkYmczZVBReTJ4NHNQcDY1UWxJZ0dfOTFGOG1VaDRWeUpDdVhXb1MtckNYRndidkZ5dS1ZRXlMQkJDMWtKVnU5LXNBbjcyczdkX2cw?oc=5",
+      "source": "Google News:A",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "GSAT",
-      "short": "GSAT — Globalstar (NASDAQ:GSAT) General Counsel L Barbee Iv Ponder Sells 1,692 Shares of Stock…",
-      "detail": "GSAT\n重點：新聞\n標題：Globalstar (NASDAQ:GSAT) General Counsel L Barbee Iv Ponder Sells 1,692 Shares of Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRFoyTmRkUU8wOEYyWGJMNjBzS2s4OUFHQURsbkYxcU5pNWNFTEl3cHAxRnRKNVduelR3aFZjWHlpNEdGUXhTT0JjR05UVVFzUVFKOXJSSVVJNjN5NFoybzQxODRVSnFVYm9semp0UElaZnRVc2xBNXRvZWxCSGZTZl9nSlpYVExCeVhiaVVKUV9DX3N1WVVMbkl3clpaNjlqVi1DQ2c2dzBHT…\n來源：Google News:GSAT",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRFoyTmRkUU8wOEYyWGJMNjBzS2s4OUFHQURsbkYxcU5pNWNFTEl3cHAxRnRKNVduelR3aFZjWHlpNEdGUXhTT0JjR05UVVFzUVFKOXJSSVVJNjN5NFoybzQxODRVSnFVYm9semp0UElaZnRVc2xBNXRvZWxCSGZTZl9nSlpYVExCeVhiaVVKUV9DX3N1WVVMbkl3clpaNjlqVi1DQ2c2dzBHTDZYbldsSDk0TjBZZEFTU2FTSTZnbmI2M184b1NlZUd0SS1KMXdXMHQzckJVNGJ4OTdibXpF?oc=5",
-      "source": "Google News:GSAT",
+      "symbol": "COF",
+      "short": "COF — Andra AP fonden Sells 28,200 Shares of Capital One Financial Corporation $COF - MarketB…",
+      "detail": "COF\n重點：新聞\n標題：Andra AP fonden Sells 28,200 Shares of Capital One Financial Corporation $COF - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaUZ0aEZBTlJ4cVczaWZ4dGNHMjBPdGZxTlA2dTcwSUVoQ1VDdndSRFJYMURnUzItM2lNYlhseHNnOWwtclM1bXFCMzFVNUdsUGNzNHktVGFpWTlFbUhlVkMxTm1adnZTNUtZc2FIdDZ6VnAzaEthNVhGTC03aC1BN01ESUxBdGFlQzgtWUo0bHNrTGJmRHJ1SVZJNm9idUkxU2V0a0hRQmxYd…\n來源：Google News:COF",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaUZ0aEZBTlJ4cVczaWZ4dGNHMjBPdGZxTlA2dTcwSUVoQ1VDdndSRFJYMURnUzItM2lNYlhseHNnOWwtclM1bXFCMzFVNUdsUGNzNHktVGFpWTlFbUhlVkMxTm1adnZTNUtZc2FIdDZ6VnAzaEthNVhGTC03aC1BN01ESUxBdGFlQzgtWUo0bHNrTGJmRHJ1SVZJNm9idUkxU2V0a0hRQmxYdFpFdDNLVVd0WUp4NWNvQWRfdzJPSjRyS3ZfeHh1UzJRc0swZTVsQ1E?oc=5",
+      "source": "Google News:COF",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "OKTA",
-      "short": "OKTA — Eric Robert Kelleher Sells 6,395 Shares of Okta (NASDAQ:OKTA) Stock - MarketBeat",
-      "detail": "OKTA\n重點：新聞\n標題：Eric Robert Kelleher Sells 6,395 Shares of Okta (NASDAQ:OKTA) Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxObFVhZGNvU0FjZ0pndkladDM4dUZqakFSU2N6UDdtZ210VlZLRFBrclFjVTFQbGpoSF84bHNVVnc4SnRiYnZKXzE3X2JKSkZYeUs1Ym5Eand5UmxLa3pocUx6am94U1RKZmtKYXh0VU5zdWtUMkNobVdIWWt2T3BUMEpVSzlrQjZWdk9vOVlod21hbGZjREZWZVRtM2QtbzM0SWI2bWwxN1JDV…\n來源：Google News:OKTA",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObFVhZGNvU0FjZ0pndkladDM4dUZqakFSU2N6UDdtZ210VlZLRFBrclFjVTFQbGpoSF84bHNVVnc4SnRiYnZKXzE3X2JKSkZYeUs1Ym5Eand5UmxLa3pocUx6am94U1RKZmtKYXh0VU5zdWtUMkNobVdIWWt2T3BUMEpVSzlrQjZWdk9vOVlod21hbGZjREZWZVRtM2QtbzM0SWI2bWwxN1JDVTdMX2JYTnVTWjVIN2V3SU84czd1WEFOQzU0?oc=5",
-      "source": "Google News:OKTA",
+      "symbol": "CRM",
+      "short": "CRM — AI相關：Does Salesforce (CRM) Have An Edge In Enterprise AI Beyond Software? - simplywall.st",
+      "detail": "CRM\n重點：AI相關\n標題：Does Salesforce (CRM) Have An Edge In Enterprise AI Beyond Software? - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNR1IxZE9sMkpuWFVZUmFSRE5rODFlZERlN2NfSDRDOEtrR3ZRdVJmWU5BMFJFQjhydnh0TWxnWjhJaWRFQk5HVDlKTG9udmJHWmV6N19nbG5YTHhKY3JhcnotWUlhb1oyTGRKaEFuQlFRN0xjbUlscXNuaTVaNUtfaWtsbGxhbURFX0VFYVZsVllLdDJ3Z3ZBanA2ZjBHczkxVDFpNVBWcWJBX…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR1IxZE9sMkpuWFVZUmFSRE5rODFlZERlN2NfSDRDOEtrR3ZRdVJmWU5BMFJFQjhydnh0TWxnWjhJaWRFQk5HVDlKTG9udmJHWmV6N19nbG5YTHhKY3JhcnotWUlhb1oyTGRKaEFuQlFRN0xjbUlscXNuaTVaNUtfaWtsbGxhbURFX0VFYVZsVllLdDJ3Z3ZBanA2ZjBHczkxVDFpNVBWcWJBX2dYOTNlVDFYcEp6bDlocmhleXA3UVlfV3gx0gHKAUFVX3lxTE54RXdzLW5sbEFBV0FNUUp5eGdGb3NJWXo4WlY5cUVtSG42TkVBb19tRkdmWkNCWHpsczUwdkZQSHJBV3hEOTZ3R01ySk5RYjR5a0s2dkZuUFJCMUFCdDVaRjd5bHRRQmhpc1l4UTRiRmZ5cHRTSmNuM29iNGpjRzVBejVVOS1fWFhhNEl6Rk1xWVVVblc4cWZ4LW1wWVVCNUxvdDBKcmhFazZKZm13RXBuYUlPQ0M2RnVMYmVwLXNzNW1meTBMWnRKX3c?oc=5",
+      "source": "Google News:CRM",
       "kind": "news"
     },
     {
       "n": 5,
-      "symbol": "STRC",
-      "short": "STRC — Strategy CEO Phong Le Reveals the One Mistake Behind STRC's 25% Collapse",
-      "detail": "STRC\n重點：新聞\n標題：Strategy CEO Phong Le Reveals the One Mistake Behind STRC's 25% Collapse\n摘要：Strategy CEO Phong Le says unexpected leverage sank STRC to $75 and explains why buybacks beat a dividend hike.\n來源：Yahoo Finance:STRC",
-      "url": "https://beincrypto.com/phong-le-strc-collapse-leverage-mistake/?.tsrc=rss",
-      "source": "Yahoo Finance:STRC",
+      "symbol": "GEN",
+      "short": "GEN — 106,381 Shares in Gen Digital Inc. $GEN Bought by Nykredit A S - MarketBeat",
+      "detail": "GEN\n重點：新聞\n標題：106,381 Shares in Gen Digital Inc. $GEN Bought by Nykredit A S - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPUzBYUG5tYUZzd01zbmlsNUtSZENFQzU3MEV6UVB6ZmRZbHo2WHJNemU3T2lBUms1QTNmRWx3a3ZyUU1KVXI0T2lQOUJXQXdUbWtmWUVPQUhDcHNWM3NqV3N5R2pBd1ZYckVRV2RCQktfSVRKNkFxSC1rd3FkamRjSkpHQlFSSk5EMzNyb3VpQlJXQ2ZZSmk0UVVsZFIwRmtFTTJySVN6QkhrS…\n來源：Google News:GEN",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUzBYUG5tYUZzd01zbmlsNUtSZENFQzU3MEV6UVB6ZmRZbHo2WHJNemU3T2lBUms1QTNmRWx3a3ZyUU1KVXI0T2lQOUJXQXdUbWtmWUVPQUhDcHNWM3NqV3N5R2pBd1ZYckVRV2RCQktfSVRKNkFxSC1rd3FkamRjSkpHQlFSSk5EMzNyb3VpQlJXQ2ZZSmk0UVVsZFIwRmtFTTJySVN6QkhrSnlwQzcwbHVGVzZuTDRZUklWRw?oc=5",
+      "source": "Google News:GEN",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "GGB",
+      "short": "GGB — Gerdau S.A. (NYSE:GGB) Given Consensus Recommendation of \"Hold\" by Brokerages - MarketB…",
+      "detail": "GGB\n重點：新聞\n標題：Gerdau S.A. (NYSE:GGB) Given Consensus Recommendation of \"Hold\" by Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSUJ1WUk3X1Fja0ZhZ05TLWZLTXdSZjl5Zk95RVlnd0NWYU8tYUZCbWxHTTk4VUlzZHRoR2I2SFdhMEk2V0hqZTNyenBBYzRxNklHc2FUUEFaUDRVSmZIRGQxWWZzcDlDMUUzWDdmcG00ajk3REtYQ0xTYmM1bGlSRzZtbWZya1o4eE9Ka2FaTkFlRVhfVl9uZFBJR3RyV1lKVndSUzZfWFJEd…\n來源：Google News:GGB",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSUJ1WUk3X1Fja0ZhZ05TLWZLTXdSZjl5Zk95RVlnd0NWYU8tYUZCbWxHTTk4VUlzZHRoR2I2SFdhMEk2V0hqZTNyenBBYzRxNklHc2FUUEFaUDRVSmZIRGQxWWZzcDlDMUUzWDdmcG00ajk3REtYQ0xTYmM1bGlSRzZtbWZya1o4eE9Ka2FaTkFlRVhfVl9uZFBJR3RyV1lKVndSUzZfWFJEdmxRaVJwSE85U0htcXUyUEdsUnJNLUpEQWMtYWJiYjV1X0NWRW5z?oc=5",
+      "source": "Google News:GGB",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "GPC",
+      "short": "GPC — Genuine Parts Company (NYSE:GPC) Given Average Recommendation of \"Moderate Buy\" by Anal…",
+      "detail": "GPC\n重點：新聞\n標題：Genuine Parts Company (NYSE:GPC) Given Average Recommendation of \"Moderate Buy\" by Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOS1AxRERxdnk0Y2ZkYWFYNVNJV2EzQldoM0VoQTNwdEViRkNSeG52Rm1kbVJVcXJyRUx3UVlIVmZIRk0yekhCS2JpZXZCaXBJVmhveUFRT0RuT2lWbGlTTVhNQlB4ZGJxRkZ1SFhxd05LZ0lNUTZILWV4VjR6cHZQOUp0eUlINWVJUVNWT21CUV9NdkN1UDVxRkM2cTNHbmZycmplQS1KVHRCR…\n來源：Google News:GPC",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOS1AxRERxdnk0Y2ZkYWFYNVNJV2EzQldoM0VoQTNwdEViRkNSeG52Rm1kbVJVcXJyRUx3UVlIVmZIRk0yekhCS2JpZXZCaXBJVmhveUFRT0RuT2lWbGlTTVhNQlB4ZGJxRkZ1SFhxd05LZ0lNUTZILWV4VjR6cHZQOUp0eUlINWVJUVNWT21CUV9NdkN1UDVxRkM2cTNHbmZycmplQS1KVHRCRnFQam9jcEg3Q3dRQWMyOVNqTy1pVWVuQV94Snd2UlNwckxjVGg1aGk4RVE3d0VKWjNLY2ZIZW03UmlUQQ?oc=5",
+      "source": "Google News:GPC",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "INTU",
+      "short": "INTU — Intuit Inc. $INTU Shares Sold by Andra AP fonden - MarketBeat",
+      "detail": "INTU\n重點：新聞\n標題：Intuit Inc. $INTU Shares Sold by Andra AP fonden - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWlBPNDJZRkZTT1ViT1NCdkZGU2RJLWFhZFdnVDZOdEpKSGZqS1NlS0p0LXBJd09XSDVnOTZEQ3FYSWVPUTd0S08ySzl3Z3JBaVdldml3alBCbWdlcFo4WlpUNi1xa0hXNjZnWEZuajZpaEJSYVNJSGptSkRHc21MU0tfSGlIbGNDNk1TNG5mNGJBNkxHcWdRM3lxZElxXzRHbXZqblVjV1Mxa…\n來源：Google News:INTU",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWlBPNDJZRkZTT1ViT1NCdkZGU2RJLWFhZFdnVDZOdEpKSGZqS1NlS0p0LXBJd09XSDVnOTZEQ3FYSWVPUTd0S08ySzl3Z3JBaVdldml3alBCbWdlcFo4WlpUNi1xa0hXNjZnWEZuajZpaEJSYVNJSGptSkRHc21MU0tfSGlIbGNDNk1TNG5mNGJBNkxHcWdRM3lxZElxXzRHbXZqblVjV1MxaXM?oc=5",
+      "source": "Google News:INTU",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "IRDM",
+      "short": "IRDM — Corient Private Wealth LP Boosts Stock Position in Iridium Communications Inc $IRDM - M…",
+      "detail": "IRDM\n重點：新聞\n標題：Corient Private Wealth LP Boosts Stock Position in Iridium Communications Inc $IRDM - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ2h1dlZSUEw4UlIwRklQU21hTWo1alN6WVZ1LU81QUxfZmJYZGZ3eGhaeS02dFNUOGVvZUlTX1JjWDFVTUJEQ1MtREpnd0JEb190bExNVFI3bU0wcU1BSEJPdXRNdlkyUHh0U1NPTXpuQ2FWMU5pVjhGUV8xWFhPcmkycDl4a0NqdFVKMzBEZHdMVlFkRUtiTHFGQS0tM0taQmY5eDBfd3pHZ…\n來源：Google News:IRDM",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ2h1dlZSUEw4UlIwRklQU21hTWo1alN6WVZ1LU81QUxfZmJYZGZ3eGhaeS02dFNUOGVvZUlTX1JjWDFVTUJEQ1MtREpnd0JEb190bExNVFI3bU0wcU1BSEJPdXRNdlkyUHh0U1NPTXpuQ2FWMU5pVjhGUV8xWFhPcmkycDl4a0NqdFVKMzBEZHdMVlFkRUtiTHFGQS0tM0taQmY5eDBfd3pHZ1UwYUJLc3J4UEo5OTRiRXY0UWN0ajR0d2s1aldrelVQbWFGT0pTUGc4dWRZOWtwYjQ?oc=5",
+      "source": "Google News:IRDM",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "LNG",
+      "short": "LNG — State Street Corp Lowers Stock Holdings in Cheniere Energy, Inc. $LNG - MarketBeat",
+      "detail": "LNG\n重點：新聞\n標題：State Street Corp Lowers Stock Holdings in Cheniere Energy, Inc. $LNG - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXdFZmpGN3IyZzh1TW9lRXpSMTFWUlp3dUVpTTBUYXl1NDc0WHVOREVnZzVqUHl4V2Q0MlY4b2dMclZrZlBLMmhxU29ZWk1FdHBwYUE4Y1pydHRpd0I1VGVNNDU4UU8xMDI3SFFzcl9hOUpnSi1BTEpITzhHZUk2bVNVX0oyMWVCbl9xcS1jTVhSWjI0U3p4SVYxVGZpemh5VjJLOWhOYzBHM…\n來源：Google News:LNG",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXdFZmpGN3IyZzh1TW9lRXpSMTFWUlp3dUVpTTBUYXl1NDc0WHVOREVnZzVqUHl4V2Q0MlY4b2dMclZrZlBLMmhxU29ZWk1FdHBwYUE4Y1pydHRpd0I1VGVNNDU4UU8xMDI3SFFzcl9hOUpnSi1BTEpITzhHZUk2bVNVX0oyMWVCbl9xcS1jTVhSWjI0U3p4SVYxVGZpemh5VjJLOWhOYzBHMmRDbHJfSFlVbl9SZ2gwQ3JocWJUaDZGcVNYX1E?oc=5",
+      "source": "Google News:LNG",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "MDT",
+      "short": "MDT — Andra AP fonden Decreases Stock Holdings in Medtronic PLC $MDT - MarketBeat",
+      "detail": "MDT\n重點：新聞\n標題：Andra AP fonden Decreases Stock Holdings in Medtronic PLC $MDT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQb1RFbHJjM1JORFc2bDJzTVhzOUFOSDdRbzI3d013bnR5WWo4SFJCMEV5cnVRMUtlN0wtZlE1cjJRLXQzb3lFVjR5bC1Zdm5BTmstV09ZdmlGc1NzYWJ6SmRLUnZxaVpuUlNBRGN2RXUyN3pmRU93SVh6LXNlMXFvWXZDajFxam9ZSm5oRXk4Q0YwRWg4dEZEMHA3MTFjQk1RTERSdzdnSXJLQ…\n來源：Google News:MDT",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb1RFbHJjM1JORFc2bDJzTVhzOUFOSDdRbzI3d013bnR5WWo4SFJCMEV5cnVRMUtlN0wtZlE1cjJRLXQzb3lFVjR5bC1Zdm5BTmstV09ZdmlGc1NzYWJ6SmRLUnZxaVpuUlNBRGN2RXUyN3pmRU93SVh6LXNlMXFvWXZDajFxam9ZSm5oRXk4Q0YwRWg4dEZEMHA3MTFjQk1RTERSdzdnSXJLQk8zWTZyNlZoenFaNWFjRHBUM1l6MA?oc=5",
+      "source": "Google News:MDT",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "ROST",
+      "short": "ROST — State Street Corp Boosts Stock Position in Ross Stores, Inc. $ROST - MarketBeat",
+      "detail": "ROST\n重點：新聞\n標題：State Street Corp Boosts Stock Position in Ross Stores, Inc. $ROST - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHlLX3FDalpNaTlkYjBGRGtLcVJtVzNHdE1IWE1KSWRodzZ5UWhPNnZETUhlaWNCa25NSkpRUm4tTzJ6bF9jeWNaYVhBTWtqdWdsVTg2NlRKaFZvOUV3STdpUlpfcy1pWDY0UmdWV2tWR01xTEhObnd5dURKbHNhdV8zWnAxd0Y2eHZMUkJWOWdqTEkxdzNlRkF6R3I5OW1nZGxVcGYwQWszN…\n來源：Google News:ROST",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHlLX3FDalpNaTlkYjBGRGtLcVJtVzNHdE1IWE1KSWRodzZ5UWhPNnZETUhlaWNCa25NSkpRUm4tTzJ6bF9jeWNaYVhBTWtqdWdsVTg2NlRKaFZvOUV3STdpUlpfcy1pWDY0UmdWV2tWR01xTEhObnd5dURKbHNhdV8zWnAxd0Y2eHZMUkJWOWdqTEkxdzNlRkF6R3I5OW1nZGxVcGYwQWszNUNpYktNTXR2NUZLVzNtRnNZQlFQUDliQQ?oc=5",
+      "source": "Google News:ROST",
       "kind": "news"
     }
   ]
