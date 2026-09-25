@@ -1,38 +1,74 @@
 {
-  "title": "FS新聞 09-25 05:08",
-  "list_name": "FirstScreen_2026-09-25_050807_comma.txt",
-  "created_at": "2026-09-25T05:08:15.857450+00:00",
+  "title": "FS新聞 09-25 09:59",
+  "list_name": "FirstScreen_2026-09-25_095904_comma.txt",
+  "created_at": "2026-09-25T09:59:13.535900+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "NOG",
+      "short": "NOG — Northern Oil and Gas, Inc. $NOG Stock Sold by Bank of America Corp DE - MarketBeat",
+      "detail": "NOG\n重點：新聞\n標題：Northern Oil and Gas, Inc. $NOG Stock Sold by Bank of America Corp DE - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPMVFpWGt3Rl9OYmpSbzFyRE9wMHNCX1ByeUdHUlVXWV9pODhVMklNMThyRXpHbHpfeTBhWEVlTEt1cVJPbW1LTEJ5YVhTbnRSQ3Z2MzctdGM2d3k5Y1ZUeFB5RmhtdkRqd2lqZzJGTnk1Wm5semtuY083U3QxS053UlQwd1NwVThvQnRQYXBEU2t5MVJuOXBhRG0xdnBYQmRpeWFscXpFYnZDa…\n來源：Google News:NOG\n其他：Northern Oil and Gas, Inc. (NYSE:NOG) Stock Has Consensus T…",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMVFpWGt3Rl9OYmpSbzFyRE9wMHNCX1ByeUdHUlVXWV9pODhVMklNMThyRXpHbHpfeTBhWEVlTEt1cVJPbW1LTEJ5YVhTbnRSQ3Z2MzctdGM2d3k5Y1ZUeFB5RmhtdkRqd2lqZzJGTnk1Wm5semtuY083U3QxS053UlQwd1NwVThvQnRQYXBEU2t5MVJuOXBhRG0xdnBYQmRpeWFscXpFYnZDanRtc1dFR2ROamRNNkYxMFc5cW55V096dDBXaUE?oc=5",
+      "source": "Google News:NOG",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "TTE",
+      "short": "TTE — AI相關、業績／指引：TotalEnergies (ENXTPA:TTE) Stock Looks Like It Trades At A Discount",
+      "detail": "TTE\n重點：AI相關、業績／指引\n標題：TotalEnergies (ENXTPA:TTE) Stock Looks Like It Trades At A Discount\n摘要：TotalEnergies has delivered a powerful run in recent years, and the conversation now turns to a simple question for holders and would be buyers. Is the current share price backed up by the earnings that the business is generating today? Over the past 5 years the stock has return…\n來源：Yahoo Finance:TTE\n其他：The Board of Directors of TotalEnergies Reaffirms the Relev…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/totalenergies-enxtpa-tte-stock-looks-091044903.html?.tsrc=rss",
+      "source": "Yahoo Finance:TTE",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "AEO",
+      "short": "AEO — Is American Eagle (AEO) Using Dividends And Denim Refresh To Redefine Its Brand Investm…",
+      "detail": "AEO\n重點：新聞\n標題：Is American Eagle (AEO) Using Dividends And Denim Refresh To Redefine Its Brand Investment Story?\n摘要：American Eagle Outfitters, Inc. previously declared a regular quarterly cash dividend of US$0.125 per share on September 15, 2026, payable on October 28, 2026 to shareholders of record as of October 9, 2026. Alongside this dividend, the company has been refining its American Eag…\n來源：Yahoo Finance:AEO",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/american-eagle-aeo-using-dividends-071013444.html?.tsrc=rss",
+      "source": "Yahoo Finance:AEO",
+      "kind": "news"
+    },
+    {
+      "n": 4,
       "symbol": "ANET",
       "short": "ANET — AI相關、業績／指引：Arista vs. Cisco: Is Faster AI Growth Worth Twice the Earnings Multiple?",
-      "detail": "ANET\n重點：AI相關、業績／指引\n標題：Arista vs. Cisco: Is Faster AI Growth Worth Twice the Earnings Multiple?\n摘要：Arista Networks, Inc. (NYSE:ANET) and Cisco Systems, Inc. (NASDAQ:CSCO) are both benefiting as AI clusters turn networking into a larger part of the data-center bill. Arista is growing much faster, but investors are paying about 43.8 times forward earnings for that growth versus…\n來源：Yahoo Finance:ANET\n其他：Arista Networks (NYSE:ANET) Stock Price Up 1% - Still a Buy…",
+      "detail": "ANET\n重點：AI相關、業績／指引\n標題：Arista vs. Cisco: Is Faster AI Growth Worth Twice the Earnings Multiple?\n摘要：Arista Networks, Inc. (NYSE:ANET) and Cisco Systems, Inc. (NASDAQ:CSCO) are both benefiting as AI clusters turn networking into a larger part of the data-center bill. Arista is growing much faster, but investors are paying about 43.8 times forward earnings for that growth versus…\n來源：Yahoo Finance:ANET",
       "url": "https://finance.yahoo.com/markets/stocks/articles/arista-vs-cisco-faster-ai-042450079.html?.tsrc=rss",
       "source": "Yahoo Finance:ANET",
       "kind": "news"
     },
     {
-      "n": 2,
-      "symbol": "BKNG",
-      "short": "BKNG — AI相關、業績／指引：BKNG Stock Climbs After Hours: Q4 Earnings Beat, Stock Split And $700M AI Push Makes Tr…",
-      "detail": "BKNG\n重點：AI相關、業績／指引\n標題：BKNG Stock Climbs After Hours: Q4 Earnings Beat, Stock Split And $700M AI Push Makes Traders Bullish - Stocktwits\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWVGb0JkVDMzdTd4bGxCTmtpRy1ZZ1pockNlTXBqSS1wY1BQanFDYjFMZXg5bUxLSHRPN195WEJHWHBtWEN6alhPY24tSmszenBPb3BSekJjWXFKQVA4TnFoTmlrdngtMHRmWkJsdlR2MUVzVElvN3hrUGMwampabXd3TnV5WjRqa2tWaGdoVzdJZWQtQzJaQ0JjaHU1Rl9PQXY1TTdpM2VLR…\n來源：Google News:BKNG",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWVGb0JkVDMzdTd4bGxCTmtpRy1ZZ1pockNlTXBqSS1wY1BQanFDYjFMZXg5bUxLSHRPN195WEJHWHBtWEN6alhPY24tSmszenBPb3BSekJjWXFKQVA4TnFoTmlrdngtMHRmWkJsdlR2MUVzVElvN3hrUGMwampabXd3TnV5WjRqa2tWaGdoVzdJZWQtQzJaQ0JjaHU1Rl9PQXY1TTdpM2VLR3lPeEVGSldlSGRHeGpqX09lVG92UlNqZw?oc=5",
-      "source": "Google News:BKNG",
+      "n": 5,
+      "symbol": "COF",
+      "short": "COF — 7,503 Capital One Financial Corporation $COF Shares Bought by Envestnet Portfolio Solut…",
+      "detail": "COF\n重點：新聞\n標題：7,503 Capital One Financial Corporation $COF Shares Bought by Envestnet Portfolio Solutions Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDdVMTAxc0tzUF9TMXR4dllJSUtmNDloR2V0V1IwVEVDYVkwZFJ4N1NVNVY1VTY5dnhCQ2w0eVVOWUtqdFpNT1ZRRjBFbEYtRVNIUDRld2RyTFBaM1VBZ1h3UHNDS3MtT05NeTVWRmVDMm9vWGZwNFdHSlVLVkI2SUtfOUtFcGtWX005aVZiSzVPcjlEZWN0c3lKOHNSN3pkQ2l6X3hHZ1lmW…\n來源：Google News:COF",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDdVMTAxc0tzUF9TMXR4dllJSUtmNDloR2V0V1IwVEVDYVkwZFJ4N1NVNVY1VTY5dnhCQ2w0eVVOWUtqdFpNT1ZRRjBFbEYtRVNIUDRld2RyTFBaM1VBZ1h3UHNDS3MtT05NeTVWRmVDMm9vWGZwNFdHSlVLVkI2SUtfOUtFcGtWX005aVZiSzVPcjlEZWN0c3lKOHNSN3pkQ2l6X3hHZ1lmWmVpRHhyUFJzTjQ4dHJlNTNsSmlkQmVtR1R1VGNBQ3NKS255VUNTcTdDVWhjU25ZN25vNktGclFSOWJSUDdWaVE?oc=5",
+      "source": "Google News:COF",
       "kind": "news"
     },
     {
-      "n": 3,
-      "symbol": "CRSP",
-      "short": "CRSP — CRISPR Therapeutics (NASDAQ:CRSP) General Counsel James Kasinger Sells 10,400 Shares of…",
-      "detail": "CRSP\n重點：新聞\n標題：CRISPR Therapeutics (NASDAQ:CRSP) General Counsel James Kasinger Sells 10,400 Shares of Company Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYWJSWFVobDhWc0R1UnBsWFo2emplR3Q4RTM0SzVZTEx5R0IwM28zcEtidU1ZS3hEaFFUUmZsSWxGYTVCcWxrOXdZazlwcDNIdkdtQlBGLXViaVhtNGpublRKeTRMQmNMOVEwc2ZJMGZacFJoSzhQcWFCc0k3c2dtc3hCa251Z1NxeU1xM21SMnNYQzJqYjFQNkQ1NXJOYmlOZFpiY2FjWG5Gc…\n來源：Google News:CRSP",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYWJSWFVobDhWc0R1UnBsWFo2emplR3Q4RTM0SzVZTEx5R0IwM28zcEtidU1ZS3hEaFFUUmZsSWxGYTVCcWxrOXdZazlwcDNIdkdtQlBGLXViaVhtNGpublRKeTRMQmNMOVEwc2ZJMGZacFJoSzhQcWFCc0k3c2dtc3hCa251Z1NxeU1xM21SMnNYQzJqYjFQNkQ1NXJOYmlOZFpiY2FjWG5Gc2NLaDF2R3Q5U0I4NWJZTkFDSWxRV1ktQUJaZkFGZHMyeC1qeTVyU1pjNEFiTG9wcVZoZnR6dVlvRmthaFdRMHVxOVlrNGhWZw?oc=5",
-      "source": "Google News:CRSP",
+      "n": 6,
+      "symbol": "CRM",
+      "short": "CRM — Salesforce Inc. $CRM Shares Purchased by Envestnet Portfolio Solutions Inc. - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Shares Purchased by Envestnet Portfolio Solutions Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPckpZYXc5REZnQ0NGcGI5aEtYX1M1c0ZxZkszLUpoOExmaTc4ZElQVXM4S2Z5LUUyN1ZkSDJwVmhYd2xfTDUxN01FeVE4WWFybmtqT2VxemxFOW5zNkJrV2NGTDIxMHk0VXZnUEo5aThqbU9zaEhfUTNXVldtLVdBamdfUWdVTXVaY0MyQjhUaDhBNTBMVzFKM3BxV1VkcDU4UTRCS0tnWGdqR…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPckpZYXc5REZnQ0NGcGI5aEtYX1M1c0ZxZkszLUpoOExmaTc4ZElQVXM4S2Z5LUUyN1ZkSDJwVmhYd2xfTDUxN01FeVE4WWFybmtqT2VxemxFOW5zNkJrV2NGTDIxMHk0VXZnUEo5aThqbU9zaEhfUTNXVldtLVdBamdfUWdVTXVaY0MyQjhUaDhBNTBMVzFKM3BxV1VkcDU4UTRCS0tnWGdqRm1jSWZ2ZUZXNDFqMDVWXy0tblg2dDZ4cl9OS1JOVTktVDFfQQ?oc=5",
+      "source": "Google News:CRM",
       "kind": "news"
     },
     {
-      "n": 4,
+      "n": 7,
+      "symbol": "EC",
+      "short": "EC — 66,837 Ecopetrol S.A. $EC Shares Sold by Squarepoint Ops LLC - MarketBeat",
+      "detail": "EC\n重點：新聞\n標題：66,837 Ecopetrol S.A. $EC Shares Sold by Squarepoint Ops LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeDhYd1VuRGw4cU5mbEhWMkZHV08wUmZ2WWVJcVcwWVl2QXRlaUg5YTEwMkFEbkdac0swdHZLYk0tMEcyUHV6SlY2Ym1WTkNWcGktcUNubjJBQ05CTHlGel81bXVSbEI3LU5YUGlpd2liS1M3TjFJSlhIYmhVNEd1MWVhWktjVk9kckt0cHg4a1RQcXFSVFBLTWhsczdCUi1SZ2ozYUw0U0stQ…\n來源：Google News:EC",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeDhYd1VuRGw4cU5mbEhWMkZHV08wUmZ2WWVJcVcwWVl2QXRlaUg5YTEwMkFEbkdac0swdHZLYk0tMEcyUHV6SlY2Ym1WTkNWcGktcUNubjJBQ05CTHlGel81bXVSbEI3LU5YUGlpd2liS1M3TjFJSlhIYmhVNEd1MWVhWktjVk9kckt0cHg4a1RQcXFSVFBLTWhsczdCUi1SZ2ozYUw0U0stQjJsaXlDbjNBbTUwOTJV?oc=5",
+      "source": "Google News:EC",
+      "kind": "news"
+    },
+    {
+      "n": 8,
       "symbol": "EL",
       "short": "EL — AI相關：Is AI Search Partnership Altering The Investment Case For Estée Lauder (EL)? - simplywa…",
       "detail": "EL\n重點：AI相關\n標題：Is AI Search Partnership Altering The Investment Case For Estée Lauder (EL)? - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeTZHUk40MnRISjVDNmdOQVdWd3o5SS1RcjJPZTNTeGthRXhnbUQ5THlzMGVPMTlxWGwwdldsd3J4bTZfY2U1Y0FXWmVKeVZqZGU5V2RhRkRKck9Xem82UjJ2RjEtbGxEWUc2R2dPZ2VKcndkdWhBVW1NVnNLcktXMXVnQ05URVZGWUpQUmc5ZkhyMjRHbWMyN0pROHg0dU1JbGx2S01fTTRMT…\n來源：Google News:EL",
@@ -41,30 +77,39 @@
       "kind": "news"
     },
     {
-      "n": 5,
-      "symbol": "OKTA",
-      "short": "OKTA — Okta (NASDAQ:OKTA) CEO Todd Mckinnon Sells 48,822 Shares of Company Stock - MarketBeat",
-      "detail": "OKTA\n重點：新聞\n標題：Okta (NASDAQ:OKTA) CEO Todd Mckinnon Sells 48,822 Shares of Company Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPVGNFdmViOWk5WmY0TEVDOUtoSFF5VHdNeXJabHU5N3RNekUzVnVYRU9lZzE2WW9ubVl5OUlwdUlsOFdqY0M5TkFTU3VqUTlhaFlwMnRRVXEyeGNna2VXTU5aQjZyMjJoWDZBT01sZFFYbXNOZEszWTZQdGR0OVNqWEdrV05vWnZaTmhlQk93U3ZYX0VtLTE0bHhadTlhdHhLeFdOUkQ0dXVXT…\n來源：Google News:OKTA",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVGNFdmViOWk5WmY0TEVDOUtoSFF5VHdNeXJabHU5N3RNekUzVnVYRU9lZzE2WW9ubVl5OUlwdUlsOFdqY0M5TkFTU3VqUTlhaFlwMnRRVXEyeGNna2VXTU5aQjZyMjJoWDZBT01sZFFYbXNOZEszWTZQdGR0OVNqWEdrV05vWnZaTmhlQk93U3ZYX0VtLTE0bHhadTlhdHhLeFdOUkQ0dXVXTTRxZjhIR3ppLV95S1IwWkRuMTl4MHctV2toTlhCWmtjQ3Y?oc=5",
-      "source": "Google News:OKTA",
+      "n": 9,
+      "symbol": "FTNT",
+      "short": "FTNT — Envestnet Portfolio Solutions Inc. Increases Position in Fortinet, Inc. $FTNT - MarketB…",
+      "detail": "FTNT\n重點：新聞\n標題：Envestnet Portfolio Solutions Inc. Increases Position in Fortinet, Inc. $FTNT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPTEZkcXdaSGdWc3JoRWlLNkxoWmlhSkQxejVJMm1xMDJWSjFzY182NU5OdHhfVzBRTDBDSk9mekFzOURpOUs1ZjQzTzlVSUp6ck1iOTZKX2N6RkRmeHphQVVBMkFBVXE5aU8yOFFLcHNGeWZ0ZU43NFpILXFnc2F5bXhKZlJVVGxqS2s2ZkprT3E1ZkhpSDdhb2RvSUlHV0RqSHNZT2tQb3VGZ…\n來源：Google News:FTNT",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTEZkcXdaSGdWc3JoRWlLNkxoWmlhSkQxejVJMm1xMDJWSjFzY182NU5OdHhfVzBRTDBDSk9mekFzOURpOUs1ZjQzTzlVSUp6ck1iOTZKX2N6RkRmeHphQVVBMkFBVXE5aU8yOFFLcHNGeWZ0ZU43NFpILXFnc2F5bXhKZlJVVGxqS2s2ZkprT3E1ZkhpSDdhb2RvSUlHV0RqSHNZT2tQb3VGZGozUlJCd1BjSjJXeE9pMnl5LUpGc3VoTHhPLVM1aHZVQTlfUEE?oc=5",
+      "source": "Google News:FTNT",
       "kind": "news"
     },
     {
-      "n": 6,
-      "symbol": "PYPL",
-      "short": "PYPL — AI相關：PayPal Holdings (PYPL), What Is Behind The Fresh Attention?",
-      "detail": "PYPL\n重點：AI相關\n標題：PayPal Holdings (PYPL), What Is Behind The Fresh Attention?\n摘要：PayPal Holdings (PYPL) is back in focus after Meta folded its Muse AI shopping assistant into PayPal’s global merchant network, letting users move from product discovery to PayPal powered checkout inside the agent. Despite the Muse AI partnership putting PayPal Holdings back in …\n來源：Yahoo Finance:PYPL",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-holdings-pypl-behind-fresh-011437320.html?.tsrc=rss",
-      "source": "Yahoo Finance:PYPL",
+      "n": 10,
+      "symbol": "GAP",
+      "short": "GAP — The Gap, Inc. $GAP Shares Sold by Corient Private Wealth LP - MarketBeat",
+      "detail": "GAP\n重點：新聞\n標題：The Gap, Inc. $GAP Shares Sold by Corient Private Wealth LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDJoeDJkemx2clB2aGJfekVUSjNnRW9VaHVid19CeDctUGVHcUhpbUllSmdrYW14UmU2R1prRUxKalVJVlM1X3RlMUVOcXZwU2J1aHVXYnlEVGFGUHhReGxnUVpZdVlrUHBQcDhWUVJtTC1SQzZDVF9xa0lnWTNkM2lKRE1kSVBnWFhwa21RNElhM0tCWlZvQlY0bHQ1T0FLTXpnbTdLUC03b…\n來源：Google News:GAP",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDJoeDJkemx2clB2aGJfekVUSjNnRW9VaHVid19CeDctUGVHcUhpbUllSmdrYW14UmU2R1prRUxKalVJVlM1X3RlMUVOcXZwU2J1aHVXYnlEVGFGUHhReGxnUVpZdVlrUHBQcDhWUVJtTC1SQzZDVF9xa0lnWTNkM2lKRE1kSVBnWFhwa21RNElhM0tCWlZvQlY0bHQ1T0FLTXpnbTdLUC03b2FaMjVGektuZTk0dVJC?oc=5",
+      "source": "Google News:GAP",
       "kind": "news"
     },
     {
-      "n": 7,
-      "symbol": "TGT",
-      "short": "TGT — 業績／指引：Target (TGT) Looks Fairly Valued As Roundel Growth Lifts Earnings Hopes",
-      "detail": "TGT\n重點：業績／指引\n標題：Target (TGT) Looks Fairly Valued As Roundel Growth Lifts Earnings Hopes\n摘要：Target (TGT) is back in focus after its Roundel retail media unit reported nearly 20% year over year growth, lifting higher margin advertising income and feeding into improved expectations for earnings and a stronger operating outlook. The recent excitement around Roundel arrive…\n來源：Yahoo Finance:TGT",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/target-tgt-looks-fairly-valued-211722993.html?.tsrc=rss",
-      "source": "Yahoo Finance:TGT",
+      "n": 11,
+      "symbol": "GEN",
+      "short": "GEN — Gen Digital Inc. (NASDAQ:GEN) Stock Has Consensus Target Price of $31.60 According to B…",
+      "detail": "GEN\n重點：新聞\n標題：Gen Digital Inc. (NASDAQ:GEN) Stock Has Consensus Target Price of $31.60 According to Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWFk5VEVDdi1UUHBZaXR0UXdEUzFCMGVLOE5JVnlVRXVvc1hMbzlwLXJqVXQwenJ5WFZmMmg3eXoyVUpjaXFGN0M4dmZIUXJDQmxlSlFsdG5qWkplSzgxQTVkUGhBZWh2M0NDbGIyUXNWNWJPLXBpNnNTZGtmLWt3Y0xIWW5fWTY5ck5yanhpZDlVdG1zNGtOODN0bmdZSG00S3hMdVVSMWxDZ…\n來源：Google News:GEN",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWFk5VEVDdi1UUHBZaXR0UXdEUzFCMGVLOE5JVnlVRXVvc1hMbzlwLXJqVXQwenJ5WFZmMmg3eXoyVUpjaXFGN0M4dmZIUXJDQmxlSlFsdG5qWkplSzgxQTVkUGhBZWh2M0NDbGIyUXNWNWJPLXBpNnNTZGtmLWt3Y0xIWW5fWTY5ck5yanhpZDlVdG1zNGtOODN0bmdZSG00S3hMdVVSMWxDZGZPZzNxMjZ5SGMxb2VnVGU4OV9qa3JqaXlGXzRjOURRT1RuRFZqVWVjaG1GVEJXcmNGS3BkRXlZOHF3RnUxTGRN?oc=5",
+      "source": "Google News:GEN",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "INTU",
+      "short": "INTU — QRG Capital Management Inc. Sells 31,986 Shares of Intuit Inc. $INTU - MarketBeat",
+      "detail": "INTU\n重點：新聞\n標題：QRG Capital Management Inc. Sells 31,986 Shares of Intuit Inc. $INTU - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmhtQ1BDVTdUbXVkdGRTSFN3MFF5emJzMkpObFNpV1FZQnFfT2kyV3JXNkVjUWs5S2JsazRqci1NWmNkVEh5cS1DWlJQX2JqM3JndDI3RzJOcUVJc3lPWHNWcmtiaUU1a3lGWDRGZnUwekdvMjI4X1V3U3JZUHhNSFctVnYzWDJkaG9kb2VEQjBraTluSTVwcFFObGp1dWQzZFVUNmpVVldTS…\n來源：Google News:INTU",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmhtQ1BDVTdUbXVkdGRTSFN3MFF5emJzMkpObFNpV1FZQnFfT2kyV3JXNkVjUWs5S2JsazRqci1NWmNkVEh5cS1DWlJQX2JqM3JndDI3RzJOcUVJc3lPWHNWcmtiaUU1a3lGWDRGZnUwekdvMjI4X1V3U3JZUHhNSFctVnYzWDJkaG9kb2VEQjBraTluSTVwcFFObGp1dWQzZFVUNmpVVldTSXlqdTN2NUFYLVBEMUI2WlM0a0J3aTg2YWc?oc=5",
+      "source": "Google News:INTU",
       "kind": "news"
     }
   ]
