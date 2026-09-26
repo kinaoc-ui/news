@@ -1,115 +1,70 @@
 {
-  "title": "FS新聞 09-25 15:04",
-  "list_name": "FirstScreen_2026-09-25_150441_comma.txt",
-  "created_at": "2026-09-25T15:04:51.886735+00:00",
+  "title": "FS新聞 09-26 05:11",
+  "list_name": "FirstScreen_2026-09-26_051131_comma.txt",
+  "created_at": "2026-09-26T05:11:42.677038+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "COF",
-      "short": "COF — Capital One Financial Corporation (NYSE:COF) Receives Consensus Rating of \"Moderate Buy…",
-      "detail": "COF\n重點：新聞\n標題：Capital One Financial Corporation (NYSE:COF) Receives Consensus Rating of \"Moderate Buy\" from Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTXZSd1pVREp1OVRFS25nNFdjQ0lGT1VfWERMS050Zk03VFg5WHppZUU0S19lNTdZQ3JDTlFJUWdSbnNES1JWeGdFdTlyX0pnTkVfVWhBbnVPVEUzVmNZczNPX0diOUdoby1xT1k3VS1JN2kyU2ZlQTVsR3NvXzJNbVBzQnpXaFRDd3JDbndVQ096ODBSOHZySHZEVm5wNXVSSjBNelVycmdMM…\n來源：Google News:COF\n其他：7,503 Capital One Financial Corporation $COF Shares Bought …",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTXZSd1pVREp1OVRFS25nNFdjQ0lGT1VfWERMS050Zk03VFg5WHppZUU0S19lNTdZQ3JDTlFJUWdSbnNES1JWeGdFdTlyX0pnTkVfVWhBbnVPVEUzVmNZczNPX0diOUdoby1xT1k3VS1JN2kyU2ZlQTVsR3NvXzJNbVBzQnpXaFRDd3JDbndVQ096ODBSOHZySHZEVm5wNXVSSjBNelVycmdMM1BOMUwydmFRS3lZeXVqQ3lRcUU1V2ZOemNGUWRLdHlTSzVZdUhPd3dzdzljNGloZ09BXzdIdWVFQV9xNVg2ZFc2ZWdiQ0NZZDNEcXhr?oc=5",
-      "source": "Google News:COF",
-      "kind": "news"
-    },
-    {
-      "n": 2,
-      "symbol": "SLB",
-      "short": "SLB — 業績／指引：SLB Secures Major Aramco Contracts, Expands Saudi Arabia Footprint",
-      "detail": "SLB\n重點：業績／指引\n標題：SLB Secures Major Aramco Contracts, Expands Saudi Arabia Footprint\n摘要：SLB's four Aramco contracts cover more than 450 wells, expanding its integrated well construction work and strengthening multi-year revenue visibility.\n來源：Yahoo Finance:SLB\n其他：SLB Limited $SLB Position Boosted by QRG Capital Management…",
-      "url": "https://finance.yahoo.com/energy/articles/slb-secures-major-aramco-contracts-114000878.html?.tsrc=rss",
-      "source": "Yahoo Finance:SLB",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "STRC",
-      "short": "STRC — Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year",
-      "detail": "STRC\n重點：新聞\n標題：Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year\n摘要：STRF, STRC, STRK and STRD would accrue dividends on weekends and holidays, in a move Strategy says will dampen volatility.\n來源：Yahoo Finance:STRC\n其他：Strategy Proposes Daily Dividends for Preferred Stocks",
-      "url": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year?.tsrc=rss",
-      "source": "Yahoo Finance:STRC",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "ADT",
-      "short": "ADT — 業績／指引：ADT stock reports 2 percent revenue growth in Q2 2026 - AD HOC NEWS",
-      "detail": "ADT\n重點：業績／指引\n標題：ADT stock reports 2 percent revenue growth in Q2 2026 - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzBjYVVSUmNJekpxWkVRWmFJTXA4ZElfZGtxWEFUUFJMSkVFcTlPeEhDTWI3T0Qyb3ZxS2l4b0QtOXFQTl9rblRocHBmenAtVmpuV19RTTU2T3J6UVV5QnlfR01kSTRhaG9zR0licW9IdW9ROU5JTHJOQ294ZWVFN1ljN2Y1NFRXRkViMEk3bXZyejNyQkRMTzFrdjN6clVRQU05TWdVcmVOT…\n來源：Google News:ADT",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzBjYVVSUmNJekpxWkVRWmFJTXA4ZElfZGtxWEFUUFJMSkVFcTlPeEhDTWI3T0Qyb3ZxS2l4b0QtOXFQTl9rblRocHBmenAtVmpuV19RTTU2T3J6UVV5QnlfR01kSTRhaG9zR0licW9IdW9ROU5JTHJOQ294ZWVFN1ljN2Y1NFRXRkViMEk3bXZyejNyQkRMTzFrdjN6clVRQU05TWdVcmVOTG1QS2hQSVJB?oc=5",
-      "source": "Google News:ADT",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "ANET",
-      "short": "ANET — AI相關、業績／指引：Arista Networks (ANET) Draws Fresh AI Attention, Is The Stock Still Cheap?",
-      "detail": "ANET\n重點：AI相關、業績／指引\n標題：Arista Networks (ANET) Draws Fresh AI Attention, Is The Stock Still Cheap?\n摘要：Arista Networks (ANET) is back in the spotlight after fresh analyst coverage and fund letters cited the stock as a key beneficiary of AI data center spending and stronger earnings sentiment. Recent trading reflects that enthusiasm. Arista Networks has delivered a 30.5% 90 day sh…\n來源：Yahoo Finance:ANET",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-anet-draws-fresh-141004505.html?.tsrc=rss",
-      "source": "Yahoo Finance:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "BHP",
-      "short": "BHP — 業績／指引：BHP stock reports stronger FY2026 profit as copper leads - AD HOC NEWS",
-      "detail": "BHP\n重點：業績／指引\n標題：BHP stock reports stronger FY2026 profit as copper leads - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWC1sZWk1RXBmenBzcWF4ZExWTDdOVzRaZlNTR2p6aGpmQVl3aEhnQkJGcFhOams2V0I2c01DUjh1N0t6MXdRSDM5UWpiT0ZaZ2gtai1NYkhCUUlDYkVLTkNXeU1zZlZySkQ3S1dsZGU0TkxqVmRRUmlpdExyX3NHUEZaMy1QZ3huMVhJeWhmZGE4VHJNZG82Rk1EVFhXNEtiSlg1b3RuOTdTa…\n來源：Google News:BHP",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWC1sZWk1RXBmenBzcWF4ZExWTDdOVzRaZlNTR2p6aGpmQVl3aEhnQkJGcFhOams2V0I2c01DUjh1N0t6MXdRSDM5UWpiT0ZaZ2gtai1NYkhCUUlDYkVLTkNXeU1zZlZySkQ3S1dsZGU0TkxqVmRRUmlpdExyX3NHUEZaMy1QZ3huMVhJeWhmZGE4VHJNZG82Rk1EVFhXNEtiSlg1b3RuOTdTaGNSTnNOVUFacklvNkh6Ym9J?oc=5",
-      "source": "Google News:BHP",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "BILI",
-      "short": "BILI — Bilibili Inc. to Hold Extraordinary General Meeting on October 28, 2026",
-      "detail": "BILI\n重點：新聞\n標題：Bilibili Inc. to Hold Extraordinary General Meeting on October 28, 2026\n摘要：SHANGHAI, Sept. 25, 2026 (GLOBE NEWSWIRE) -- Bilibili Inc. (“Bilibili” or the “Company”) (Nasdaq: BILI and HKEX: 9626), an iconic brand and a leading video community for young generations in China, today published a circular (the “EGM Circular”) to provide shareholders with info…\n來源：Yahoo Finance:BILI",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bilibili-inc-hold-extraordinary-general-102000782.html?.tsrc=rss",
-      "source": "Yahoo Finance:BILI",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "BNY",
-      "short": "BNY — Truist Financial Has Lowered Expectations for Bank of New York Mellon (NYSE:BNY) Stock …",
-      "detail": "BNY\n重點：新聞\n標題：Truist Financial Has Lowered Expectations for Bank of New York Mellon (NYSE:BNY) Stock Price - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPV3FmLU9vd2NBTjhteWgzb2VZSUJEU04zQmVXT1BqcjJjYzVoWTJTa3pOTE9UNlNFNENuYjVaMi1XRHF3RmVMREtkc2Mwb2kzQXotSGhmMWM1UnNiVFktaFhUTEN2LXBmQ2IyRTg2WDVKOEVEN3BVejl6bFkteXpKSUxtNTZRdVo5b2daRkxXRFdwckxrZUxfOXFrT2s5cU5mcXdzREhQc0RSN…\n來源：Google News:BNY",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPV3FmLU9vd2NBTjhteWgzb2VZSUJEU04zQmVXT1BqcjJjYzVoWTJTa3pOTE9UNlNFNENuYjVaMi1XRHF3RmVMREtkc2Mwb2kzQXotSGhmMWM1UnNiVFktaFhUTEN2LXBmQ2IyRTg2WDVKOEVEN3BVejl6bFkteXpKSUxtNTZRdVo5b2daRkxXRFdwckxrZUxfOXFrT2s5cU5mcXdzREhQc0RSNmxYTFkyY05FVUpRM1d4VmJqWlBzajNlNHFUMGhrWXY2eWo3dmpzdXgwamZzb3JTUkpsWmRDNkNHbElaWG8?oc=5",
-      "source": "Google News:BNY",
-      "kind": "news"
-    },
-    {
-      "n": 9,
       "symbol": "CRM",
-      "short": "CRM — Salesforce Inc. $CRM Shares Purchased by Envestnet Portfolio Solutions Inc. - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Shares Purchased by Envestnet Portfolio Solutions Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPckpZYXc5REZnQ0NGcGI5aEtYX1M1c0ZxZkszLUpoOExmaTc4ZElQVXM4S2Z5LUUyN1ZkSDJwVmhYd2xfTDUxN01FeVE4WWFybmtqT2VxemxFOW5zNkJrV2NGTDIxMHk0VXZnUEo5aThqbU9zaEhfUTNXVldtLVdBamdfUWdVTXVaY0MyQjhUaDhBNTBMVzFKM3BxV1VkcDU4UTRCS0tnWGdqR…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPckpZYXc5REZnQ0NGcGI5aEtYX1M1c0ZxZkszLUpoOExmaTc4ZElQVXM4S2Z5LUUyN1ZkSDJwVmhYd2xfTDUxN01FeVE4WWFybmtqT2VxemxFOW5zNkJrV2NGTDIxMHk0VXZnUEo5aThqbU9zaEhfUTNXVldtLVdBamdfUWdVTXVaY0MyQjhUaDhBNTBMVzFKM3BxV1VkcDU4UTRCS0tnWGdqRm1jSWZ2ZUZXNDFqMDVWXy0tblg2dDZ4cl9OS1JOVTktVDFfQQ?oc=5",
+      "short": "CRM — 業績／指引：Earnings Beat Might Change The Case For Investing In Salesforce Stock (CRM) - simplywal…",
+      "detail": "CRM\n重點：業績／指引\n標題：Earnings Beat Might Change The Case For Investing In Salesforce Stock (CRM) - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXVHQ1FYM0UxQVl1dERISUFuMjA0YW5ZOVd1VVVOaE5scWZZSU43QzIxWFlQOENodjFNTGRid1MtaDBqQ0lVZFNQdFI3VDhWc1MtcUplbjlRTkdSOUZKUnZmUW95RHprNDVrWGxUam1xX0lWRWpjZ3FHczhwWE9nWlFscGNDbnpLcHRKWlhiZTBxcXk5VWVuano1Q0dqS3FJT1g5QzllTm5hd…\n來源：Google News:CRM\n其他：What is Salesforce’s (CRM) Economic Moat, and is it Widenin…; Salesforce (NYSE:CRM) Stock Falls 1.7% - What's Next? - Mar…",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXVHQ1FYM0UxQVl1dERISUFuMjA0YW5ZOVd1VVVOaE5scWZZSU43QzIxWFlQOENodjFNTGRid1MtaDBqQ0lVZFNQdFI3VDhWc1MtcUplbjlRTkdSOUZKUnZmUW95RHprNDVrWGxUam1xX0lWRWpjZ3FHczhwWE9nWlFscGNDbnpLcHRKWlhiZTBxcXk5VWVuano1Q0dqS3FJT1g5QzllTm5hdnM4MFJuYjdwb1hlWWVtdURUMUpRVTctYmJ00gHKAUFVX3lxTE0yOXBPeENWNmZuYU9qRllHZUItcEJ1STI2RXBSQmlVaGtzdHd5czFrMFlDZ3JSYk1hWTk1X09SeEQ4NXpaRGVKaDdaMlBGZ3hLaUZFMmFQWWwxaWxhcUtGMlE5WTIzaTZJTUtRQTdVNHFUMUVkUktTMEktMy1pNDZmYWxBbzRPTnZQYk15WWVUUFllUC1yeFNTR1ppQnB3a2ZVU2RCNU82S1FnV21Dc1NBUVJjZWZlOUhMNzNfNFp0TWlNTE9majhiS1E?oc=5",
       "source": "Google News:CRM",
       "kind": "news"
     },
     {
-      "n": 10,
-      "symbol": "EC",
-      "short": "EC — 66,837 Ecopetrol S.A. $EC Shares Sold by Squarepoint Ops LLC - MarketBeat",
-      "detail": "EC\n重點：新聞\n標題：66,837 Ecopetrol S.A. $EC Shares Sold by Squarepoint Ops LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeDhYd1VuRGw4cU5mbEhWMkZHV08wUmZ2WWVJcVcwWVl2QXRlaUg5YTEwMkFEbkdac0swdHZLYk0tMEcyUHV6SlY2Ym1WTkNWcGktcUNubjJBQ05CTHlGel81bXVSbEI3LU5YUGlpd2liS1M3TjFJSlhIYmhVNEd1MWVhWktjVk9kckt0cHg4a1RQcXFSVFBLTWhsczdCUi1SZ2ozYUw0U0stQ…\n來源：Google News:EC",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeDhYd1VuRGw4cU5mbEhWMkZHV08wUmZ2WWVJcVcwWVl2QXRlaUg5YTEwMkFEbkdac0swdHZLYk0tMEcyUHV6SlY2Ym1WTkNWcGktcUNubjJBQ05CTHlGel81bXVSbEI3LU5YUGlpd2liS1M3TjFJSlhIYmhVNEd1MWVhWktjVk9kckt0cHg4a1RQcXFSVFBLTWhsczdCUi1SZ2ozYUw0U0stQjJsaXlDbjNBbTUwOTJV?oc=5",
-      "source": "Google News:EC",
+      "n": 2,
+      "symbol": "MRK",
+      "short": "MRK — What Does Merck (MRK) FDA Approval In Advanced Kidney Cancer Mean? - simplywall.st",
+      "detail": "MRK\n重點：新聞\n標題：What Does Merck (MRK) FDA Approval In Advanced Kidney Cancer Mean? - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdUVrZnNEdWpMSVVhR1pGUmJ0bjZwVk9fXzY5X1pTTnRaMjFLcGpLdGRZcjdoMm9jZXVfLV9oS1FRZjVXOTFPOFRsVkpINE5Ncy1xTHFzUUstQUdxdjV6UkJUZFRJVEZ4ZERfd3p6cVNINm1TNUttRjNjb0x4c01SOERzaUtBbi1vN0FCMXZQTG9kczYzYVBScFVDcVFPUWc2WE5oRlVBbHVLV…\n來源：Google News:MRK\n其他：Merck (MRK) Stock May Be 37% Undervalued On Fresh FDA Appro…; Merck (MRK) Stock May Be 37% Undervalued On Fresh FDA Appro…",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdUVrZnNEdWpMSVVhR1pGUmJ0bjZwVk9fXzY5X1pTTnRaMjFLcGpLdGRZcjdoMm9jZXVfLV9oS1FRZjVXOTFPOFRsVkpINE5Ncy1xTHFzUUstQUdxdjV6UkJUZFRJVEZ4ZERfd3p6cVNINm1TNUttRjNjb0x4c01SOERzaUtBbi1vN0FCMXZQTG9kczYzYVBScFVDcVFPUWc2WE5oRlVBbHVLVTlaRFZ6N1owM3RNTWpnUVFSWndyY3VsbkhZQ19XR2VOd1A2TmEzMHfSAdcBQVVfeXFMTjFaYlpBbGVyck5PTU5GQ3dYOGUyeGhzMlRic093R1BKNkt3Z3E4Q3ZkMy16OXZ0VFMxRzMzRHdyYURkTUhEN25SQjdzN3AtR2QyOTJOWGhXclJveWxfYW1Wc0RXbGswQ3BvMWhNRldGOTRKTFhmZDhBQ19TTUpoVXUxbkZFaXFnVzlXR2dKUFJaaTBQclkwd29hV1NiMFQtOGRhVndEZFppZ285aFhRRE9SWEljOUczSE9zeHpDcnVpVERzV25iUlpXVFpsenN4UVA5cVpPY3c?oc=5",
+      "source": "Google News:MRK",
       "kind": "news"
     },
     {
-      "n": 11,
-      "symbol": "FTNT",
-      "short": "FTNT — Envestnet Portfolio Solutions Inc. Increases Position in Fortinet, Inc. $FTNT - MarketB…",
-      "detail": "FTNT\n重點：新聞\n標題：Envestnet Portfolio Solutions Inc. Increases Position in Fortinet, Inc. $FTNT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPTEZkcXdaSGdWc3JoRWlLNkxoWmlhSkQxejVJMm1xMDJWSjFzY182NU5OdHhfVzBRTDBDSk9mekFzOURpOUs1ZjQzTzlVSUp6ck1iOTZKX2N6RkRmeHphQVVBMkFBVXE5aU8yOFFLcHNGeWZ0ZU43NFpILXFnc2F5bXhKZlJVVGxqS2s2ZkprT3E1ZkhpSDdhb2RvSUlHV0RqSHNZT2tQb3VGZ…\n來源：Google News:FTNT",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTEZkcXdaSGdWc3JoRWlLNkxoWmlhSkQxejVJMm1xMDJWSjFzY182NU5OdHhfVzBRTDBDSk9mekFzOURpOUs1ZjQzTzlVSUp6ck1iOTZKX2N6RkRmeHphQVVBMkFBVXE5aU8yOFFLcHNGeWZ0ZU43NFpILXFnc2F5bXhKZlJVVGxqS2s2ZkprT3E1ZkhpSDdhb2RvSUlHV0RqSHNZT2tQb3VGZGozUlJCd1BjSjJXeE9pMnl5LUpGc3VoTHhPLVM1aHZVQTlfUEE?oc=5",
-      "source": "Google News:FTNT",
+      "n": 3,
+      "symbol": "PYPL",
+      "short": "PYPL — 併購／交易：PYPL Stock Climbs On West Coast Takeover Rumors After Stripe Walk-Away Leaves Room For …",
+      "detail": "PYPL\n重點：併購／交易\n標題：PYPL Stock Climbs On West Coast Takeover Rumors After Stripe Walk-Away Leaves Room For A New Bidder - Stocktwits\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdUZVdkZjZDJUUFM4X2FBRTF3OGw3eDVQazdmSUJRS19TNjVtSTEtOGw1RFBDM1YydkVkVDhNc1o0TDZNOGVNS2NVV0gtN0Q3MHQzWHBBWUlxaVU1T0VKTnhKVXQwQ05kM2F6emdyVVB5Znk5LWhqQTRBaVVZenVTQ1ZHaXQ0YWJxcDNKelhUT0I3aWRfQTB5LVJvVkpJczRJYmUxbmdkZXRqS…\n來源：Google News:PYPL\n其他：PYPL Stock Climbs On West Coast Takeover Rumors After Strip…",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdUZVdkZjZDJUUFM4X2FBRTF3OGw3eDVQazdmSUJRS19TNjVtSTEtOGw1RFBDM1YydkVkVDhNc1o0TDZNOGVNS2NVV0gtN0Q3MHQzWHBBWUlxaVU1T0VKTnhKVXQwQ05kM2F6emdyVVB5Znk5LWhqQTRBaVVZenVTQ1ZHaXQ0YWJxcDNKelhUT0I3aWRfQTB5LVJvVkpJczRJYmUxbmdkZXRqSnhKUmxZYVdBRGRieFgwMWF0N1QwZF9rcDdCc19TYkRVVUlVZ2FYTmQycEdnQ0FrcHJYd0MtVk1KLWJGWnktRHVzaXlYdG93YWJxS0E?oc=5",
+      "source": "Google News:PYPL",
       "kind": "news"
     },
     {
-      "n": 12,
-      "symbol": "GAP",
-      "short": "GAP — The Gap, Inc. $GAP Shares Sold by Corient Private Wealth LP - MarketBeat",
-      "detail": "GAP\n重點：新聞\n標題：The Gap, Inc. $GAP Shares Sold by Corient Private Wealth LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDJoeDJkemx2clB2aGJfekVUSjNnRW9VaHVid19CeDctUGVHcUhpbUllSmdrYW14UmU2R1prRUxKalVJVlM1X3RlMUVOcXZwU2J1aHVXYnlEVGFGUHhReGxnUVpZdVlrUHBQcDhWUVJtTC1SQzZDVF9xa0lnWTNkM2lKRE1kSVBnWFhwa21RNElhM0tCWlZvQlY0bHQ1T0FLTXpnbTdLUC03b…\n來源：Google News:GAP",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDJoeDJkemx2clB2aGJfekVUSjNnRW9VaHVid19CeDctUGVHcUhpbUllSmdrYW14UmU2R1prRUxKalVJVlM1X3RlMUVOcXZwU2J1aHVXYnlEVGFGUHhReGxnUVpZdVlrUHBQcDhWUVJtTC1SQzZDVF9xa0lnWTNkM2lKRE1kSVBnWFhwa21RNElhM0tCWlZvQlY0bHQ1T0FLTXpnbTdLUC03b2FaMjVGektuZTk0dVJC?oc=5",
-      "source": "Google News:GAP",
+      "n": 4,
+      "symbol": "A",
+      "short": "A — Berkshire Hathaway Acquired About 1.7 Million Of Lennar's Class A Stock, 20,675 Class B…",
+      "detail": "A\n重點：新聞\n標題：Berkshire Hathaway Acquired About 1.7 Million Of Lennar's Class A Stock, 20,675 Class B Stock Between Sept 23-25 - Filing - TradingView\n摘要：<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNd2prLVBmZG54eGtHNFN4SHFiVlA0OUcyUU5ycExnLVNsazlOTDNGY3pTSE03UzFQMnpuR0t6UldMZFNySldhS0FzS0lMWGwwakRDNm5KYlBmV2d1d3RYTEsxWVBCZEVnRUhVeThBZk1jUzlmYUtHN0Q5X3RsZFY1cGNtSEhhUllXMmFvR0VvY0pqT0FybjdvZGZmdkNDTlUza0NZOUE4SVk4R…\n來源：Google News:A",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNd2prLVBmZG54eGtHNFN4SHFiVlA0OUcyUU5ycExnLVNsazlOTDNGY3pTSE03UzFQMnpuR0t6UldMZFNySldhS0FzS0lMWGwwakRDNm5KYlBmV2d1d3RYTEsxWVBCZEVnRUhVeThBZk1jUzlmYUtHN0Q5X3RsZFY1cGNtSEhhUllXMmFvR0VvY0pqT0FybjdvZGZmdkNDTlUza0NZOUE4SVk4RXE1UngxRW1vMWRVaC0xd1UzLXVSQndEUlBoR1F0Y003OWFWWmVYMVdXMkVtNnU0bjdXa2d6b3NaMEp2a192cnVoZHVDNUhBMm9SaDI3dFhaZmdtWTRsY2MzVi1nU0xhU1BaQkRWRjRMTVNPeVU?oc=5",
+      "source": "Google News:A",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "GGB",
+      "short": "GGB — Gerdau (NYSE:GGB) Chairman Claudio Johannpeter Sells 85,607 Shares of Stock - MarketBeat",
+      "detail": "GGB\n重點：新聞\n標題：Gerdau (NYSE:GGB) Chairman Claudio Johannpeter Sells 85,607 Shares of Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQbGcyWVZsV3BVMXVUQno3SDdGZzNHWUZXU054WDRUQzAwb2tUOEhPVjVMZ1hMLTk0aFV0Sld6SE8yMl9xQ092dHRNeVJ5Ym5nbUxaYll0ZzZfQmdZYlFhRS16cElpZzZHZGhwb1RBWW0wcjA1Y0lpMUF3dlNZSVh1cXR5QWVTcXVyb0tuTE5pSDZOUzRTbWp1NU83ak5HYXVRNG5MdTM2bFJJZ…\n來源：Google News:GGB",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbGcyWVZsV3BVMXVUQno3SDdGZzNHWUZXU054WDRUQzAwb2tUOEhPVjVMZ1hMLTk0aFV0Sld6SE8yMl9xQ092dHRNeVJ5Ym5nbUxaYll0ZzZfQmdZYlFhRS16cElpZzZHZGhwb1RBWW0wcjA1Y0lpMUF3dlNZSVh1cXR5QWVTcXVyb0tuTE5pSDZOUzRTbWp1NU83ak5HYXVRNG5MdTM2bFJJZ3lTUXV3Y1BhdGVPaUg1TTdTS1hGN0FwZnRLNTktQWJpU25ma1E?oc=5",
+      "source": "Google News:GGB",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "LNG",
+      "short": "LNG — Is Cheniere Energy (LNG) Still Undervalued After Corpus Christi Progress? - simplywall.…",
+      "detail": "LNG\n重點：新聞\n標題：Is Cheniere Energy (LNG) Still Undervalued After Corpus Christi Progress? - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM1VJVEYtS0ZUMUlzQ2JWMmlHSktfNjJrUGZLa3E5VDZkUHhKYkd6cHQ0YjdubDJ1MnBabEZtUlNjaGNmQjhwbXFvYTdGSmE2R0ttRld0aFFjdDNlTmp1ekhjUUNhbWRsS1pWdEJIdXI0N0ZTcURSUFpKTTdlT3JPOG1TY3pmWUd5ajc5aWc1RmVub2ZVaXNrdXRSWXlqNDRpM2hPQXp1R2lXc…\n來源：Google News:LNG",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM1VJVEYtS0ZUMUlzQ2JWMmlHSktfNjJrUGZLa3E5VDZkUHhKYkd6cHQ0YjdubDJ1MnBabEZtUlNjaGNmQjhwbXFvYTdGSmE2R0ttRld0aFFjdDNlTmp1ekhjUUNhbWRsS1pWdEJIdXI0N0ZTcURSUFpKTTdlT3JPOG1TY3pmWUd5ajc5aWc1RmVub2ZVaXNrdXRSWXlqNDRpM2hPQXp1R2lXcFo4YUl4R2lzM3VmQU9RZDN3T2NNcWtDd2NsUHFLd9IBzgFBVV95cUxOd09ZaTR4NHpfc29OT204OHFBWHJEeXBDcHZsWUtTUTV1YmJ2U0RFdC0yeHI2VmNNUktUS1I4VXpVUFRJZW5IcXZmcm5Ncm4xbTJNWkt1dXp4S2tKMEE5UWtkdW9HcG83OWlnQlNscHR4UFVydHlQSHpjLUkzWXNSTzc0VDkyV3VKZlJPWTkxbFFYQUZxLTlDaEdjMGQ2NjU3WjF2VkpNTlpuTFlzWFFvdFEybmYzNFlBRWFlVzFIVnNWNVNySFlDWmdFZWhPQQ?oc=5",
+      "source": "Google News:LNG",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "OKTA",
+      "short": "OKTA — AI相關：Qualys, Okta, Palo Alto Networks, Rapid7, and SentinelOne Shares Plummet, What You Need…",
+      "detail": "OKTA\n重點：AI相關\n標題：Qualys, Okta, Palo Alto Networks, Rapid7, and SentinelOne Shares Plummet, What You Need To Know\n摘要：A number of stocks fell in the afternoon session after elevated valuation multiples led investors and analysts to question whether the sector's sharp artificial intelligence-fueled gains can last.\n來源：Yahoo Finance:OKTA",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualys-okta-palo-alto-networks-032837472.html?.tsrc=rss",
+      "source": "Yahoo Finance:OKTA",
       "kind": "news"
     }
   ]
