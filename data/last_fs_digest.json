@@ -1,34 +1,70 @@
 {
-  "title": "FS新聞 09-28 05:37",
-  "list_name": "FirstScreen_2026-09-28_053734_comma.txt",
-  "created_at": "2026-09-28T05:37:44.682082+00:00",
+  "title": "FS新聞 09-28 11:25",
+  "list_name": "FirstScreen_2026-09-28_112547_comma.txt",
+  "created_at": "2026-09-28T11:25:58.476324+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "A",
-      "short": "A — 業績／指引：Shift4 Payments (FOUR): A Stock Priced for Trouble, a Business Still Compounding Undern…",
-      "detail": "A\n重點：業績／指引\n標題：Shift4 Payments (FOUR): A Stock Priced for Trouble, a Business Still Compounding Underneath\n摘要：Back in August, Shift4 Payments, Inc. (NYSE:FOUR) lowered its full-year outlook, cutting expected gross revenue less network fees to $2.48 billion – $2.53 billion from $2.5 billion – $2.6 billion and adjusted earnings per share to $5.15 – $5.35 from $5.50 – $5.70, citing roughly…\n來源：Yahoo Finance:BILL",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/shift4-payments-four-stock-priced-231125167.html?.tsrc=rss",
-      "source": "Yahoo Finance:BILL",
+      "symbol": "BTG",
+      "short": "BTG — B2Gold Provides Operations Update for the Goose Mine and Announces Drill Results at the…",
+      "detail": "BTG\n重點：新聞\n標題：B2Gold Provides Operations Update for the Goose Mine and Announces Drill Results at the Back River Gold District\n摘要：VANCOUVER, British Columbia, Sept. 28, 2026 (GLOBE NEWSWIRE) -- B2Gold Corp. (TSX: BTO, NYSE AMERICAN: BTG, NSX: B2G) (“B2Gold” or the “Company”) is pleased to provide an operational update for the Goose Mine and announce positive results from its ongoing Back River Gold Distric…\n來源：Yahoo Finance:BTG",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/b2gold-provides-operations-goose-mine-110000149.html?.tsrc=rss",
+      "source": "Yahoo Finance:BTG",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "MDT",
-      "short": "MDT — 業績／指引：Pfizer vs. Medtronic: Which Healthcare Turnaround is More Convincing?",
-      "detail": "MDT\n重點：業績／指引\n標題：Pfizer vs. Medtronic: Which Healthcare Turnaround is More Convincing?\n摘要：Pfizer Inc. (NYSE:PFE) and Medtronic plc (NYSE:MDT) are both trying to prove that years of portfolio investment can translate into more durable growth, but the two healthcare giants are entering very different stages of their turnarounds. Pfizer is rebuilding around newer medici…\n來源：Yahoo Finance:MDT",
-      "url": "https://finance.yahoo.com/healthcare/articles/pfizer-vs-medtronic-healthcare-turnaround-225704360.html?.tsrc=rss",
-      "source": "Yahoo Finance:MDT",
+      "symbol": "FTNT",
+      "short": "FTNT — AI相關、業績／指引：With AI Putting Cybersecurity in the Spotlight, Fortinet Stock Looks Hot at New All-Tim…",
+      "detail": "FTNT\n重點：AI相關、業績／指引\n標題：With AI Putting Cybersecurity in the Spotlight, Fortinet Stock Looks Hot at New All-Time Highs\n摘要：Fortinet (FTNT) demonstrates strong technical momentum and is trading at a new all-time high. Shares are up more than 100% over the past 52 weeks. Fundamentals remain robust with 19.41% projected revenue growth this year and 25% estimated earnings growth. Despite four “Strong Se…\n來源：Yahoo Finance:FTNT",
+      "url": "https://www.barchart.com/story/news/4825385/with-ai-putting-cybersecurity-in-the-spotlight-fortinet-stock-looks-hot-at-new-all-time-highs?.tsrc=rss",
+      "source": "Yahoo Finance:FTNT",
       "kind": "news"
     },
     {
       "n": 3,
+      "symbol": "GAP",
+      "short": "GAP — The Gap, Inc. (NYSE:GAP) Stock Rated \"Hold\" by Sell-Side Brokerages - MarketBeat",
+      "detail": "GAP\n重點：新聞\n標題：The Gap, Inc. (NYSE:GAP) Stock Rated \"Hold\" by Sell-Side Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjI3Q0xoWWtJRjYtQ2RGdHJkMUE0WGQzajNRM2FDbUpBSHNpYUdJWWFIUEhMTllOUENTZXAzaTVnRUt3YmhZd1NwU201Rkw0V0VXbkNPVzY2Y29jaHhfcFN2RzRoVkhneGhCNFF3YnRHeS1SUXZmeGxPTU00dFp4aG5XcG5OcVlPcVFocUVGSmwzRW1WaUVEMzJVMlctVmQycy1BdFl0ZHNwY…\n來源：Google News:GAP",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjI3Q0xoWWtJRjYtQ2RGdHJkMUE0WGQzajNRM2FDbUpBSHNpYUdJWWFIUEhMTllOUENTZXAzaTVnRUt3YmhZd1NwU201Rkw0V0VXbkNPVzY2Y29jaHhfcFN2RzRoVkhneGhCNFF3YnRHeS1SUXZmeGxPTU00dFp4aG5XcG5OcVlPcVFocUVGSmwzRW1WaUVEMzJVMlctVmQycy1BdFl0ZHNwY2NsMWI5X20xSXFJZmptUHZTQUJRRlI0N2c?oc=5",
+      "source": "Google News:GAP",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "LQDA",
+      "short": "LQDA — Liquidia Corporation (NASDAQ:LQDA) Stock Rated \"Hold\" by Wall Street Brokerages - Marke…",
+      "detail": "LQDA\n重點：新聞\n標題：Liquidia Corporation (NASDAQ:LQDA) Stock Rated \"Hold\" by Wall Street Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxONVFaUkhRenVReDVYRjdYSE5QS3JlOFdfRlpGLXJxU04xbEVFQzRGMF9CSkJ1RGZsWk1hOVF2VlhGZ0ZncHd6REZFTG16N3ZLRGdsbDFRMFQ4bWdqMXI2eTVJYjRmcGloWHN2MkE3UmJpTGwtdkdfVGNGZk5YOXQxMHlvckNxTGlQR25PSDMySHQ5Yl9JWFhVOGFWSE5TNGpCZVpBN2oxaXRUN…\n來源：Google News:LQDA",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONVFaUkhRenVReDVYRjdYSE5QS3JlOFdfRlpGLXJxU04xbEVFQzRGMF9CSkJ1RGZsWk1hOVF2VlhGZ0ZncHd6REZFTG16N3ZLRGdsbDFRMFQ4bWdqMXI2eTVJYjRmcGloWHN2MkE3UmJpTGwtdkdfVGNGZk5YOXQxMHlvckNxTGlQR25PSDMySHQ5Yl9JWFhVOGFWSE5TNGpCZVpBN2oxaXRUNHdHd2N6QmV4X1FfZzZHNHM4LXppcEVVWTljdjNTUUJacTFkY0c4eHpOX2xB?oc=5",
+      "source": "Google News:LQDA",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "LW",
+      "short": "LW — 54,119 Lamb Weston $LW Shares Sold by Corient Private Wealth LP - MarketBeat",
+      "detail": "LW\n重點：新聞\n標題：54,119 Lamb Weston $LW Shares Sold by Corient Private Wealth LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQMUJVSGhBWlRjeDNMdTJOMXNfdXlWQk9PbG1Zak1WTjBwSDZCaXY0NDB2czQzdWFvUW5ic1BsbV9JQlQxQVRWLXdlQVFZbkJuMlFrWURiODF1NEVMSTdIZ3JYcHlpa3ZMa2JPbzg3TDhBQ1Zxa1pFbG1JRHRzaWVuNTN0V1l3bFB5QjY1RWEybGc4clBFMGJsd2d1OGdxXzNZblZ3YUZQMXN1N…\n來源：Google News:LW",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMUJVSGhBWlRjeDNMdTJOMXNfdXlWQk9PbG1Zak1WTjBwSDZCaXY0NDB2czQzdWFvUW5ic1BsbV9JQlQxQVRWLXdlQVFZbkJuMlFrWURiODF1NEVMSTdIZ3JYcHlpa3ZMa2JPbzg3TDhBQ1Zxa1pFbG1JRHRzaWVuNTN0V1l3bFB5QjY1RWEybGc4clBFMGJsd2d1OGdxXzNZblZ3YUZQMXN1NjVZUEJieUs5Yl96V3ZRTFM0RzdZOA?oc=5",
+      "source": "Google News:LW",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "MRK",
+      "short": "MRK — Merck Enters into Exclusive Global License Agreement with SciBrunch Therapeutics for SP…",
+      "detail": "MRK\n重點：新聞\n標題：Merck Enters into Exclusive Global License Agreement with SciBrunch Therapeutics for SPR2015, an Investigational Oral KRAS G12D (ON) Inhibitor\n摘要：RAHWAY, N.J., September 28, 2026--Merck (NYSE: MRK), known as MSD outside of the United States and Canada, and SciBrunch Therapeutics Co., Ltd. (\"SciBrunch\"), today announced that they have entered into an exclusive global license agreement for SPR2015, an investigational precli…\n來源：Yahoo Finance:MRK",
+      "url": "https://finance.yahoo.com/healthcare/articles/merck-enters-exclusive-global-license-104500942.html?.tsrc=rss",
+      "source": "Yahoo Finance:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 7,
       "symbol": "OKTA",
-      "short": "OKTA — AI相關：Okta (OKTA)’s AI Agent Opportunity Is Expanding. Is the Stock Already Pricing It In?",
-      "detail": "OKTA\n重點：AI相關\n標題：Okta (OKTA)’s AI Agent Opportunity Is Expanding. Is the Stock Already Pricing It In?\n摘要：Okta, Inc. (NASDAQ:OKTA) emerged from its Oktane 2026 conference with a stronger AI narrative and a wave of analyst price-target increases. But the investment debate is becoming less about whether Okta has an opportunity in securing AI agents and more about how quickly that oppo…\n來源：Yahoo Finance:OKTA",
-      "url": "https://finance.yahoo.com/technology/ai/articles/okta-okta-ai-agent-opportunity-010606864.html?.tsrc=rss",
-      "source": "Yahoo Finance:OKTA",
+      "short": "OKTA — Okta, Inc. $OKTA Stock Sold by Engineers Gate Manager LP - MarketBeat",
+      "detail": "OKTA\n重點：新聞\n標題：Okta, Inc. $OKTA Stock Sold by Engineers Gate Manager LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPU3NDR2Y2V2IyUFhReGpnOWFzb2RqZmRvTWY1YWQtYTVrZDZWTEpOZTIwQmd2R1Q5SXFVSnhJYTg4R0JRQWZPSlN4blZwcmxEZkpMN0VRbFZoWkh0Z1pCRkdjV1lWamVsZnZEdzNaY2RELVJGdTQ4aV9ocDdfVVVmY295amYzOUNWeWotcjRZTjRMZjlFaHZhajg2YUlsTXprSTJQUFZyd1h3S…\n來源：Google News:OKTA",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU3NDR2Y2V2IyUFhReGpnOWFzb2RqZmRvTWY1YWQtYTVrZDZWTEpOZTIwQmd2R1Q5SXFVSnhJYTg4R0JRQWZPSlN4blZwcmxEZkpMN0VRbFZoWkh0Z1pCRkdjV1lWamVsZnZEdzNaY2RELVJGdTQ4aV9ocDdfVVVmY295amYzOUNWeWotcjRZTjRMZjlFaHZhajg2YUlsTXprSTJQUFZyd1h3Smp4TFh3M3o0M1k?oc=5",
+      "source": "Google News:OKTA",
       "kind": "news"
     }
   ]
