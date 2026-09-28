@@ -1,11 +1,47 @@
 {
-  "title": "FS新聞 09-28 11:25",
-  "list_name": "FirstScreen_2026-09-28_112547_comma.txt",
-  "created_at": "2026-09-28T11:25:58.476324+00:00",
+  "title": "FS新聞 09-28 18:01",
+  "list_name": "FirstScreen_2026-09-28_180133_comma.txt",
+  "created_at": "2026-09-28T18:01:42.984668+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "MRK",
+      "short": "MRK — Merck, Daiichi Withdraw FDA Filing for Lung Cancer Therapy",
+      "detail": "MRK\n重點：新聞\n標題：Merck, Daiichi Withdraw FDA Filing for Lung Cancer Therapy\n摘要：MRK and Daiichi withdraw an FDA filing for ifinatamab deruxtecan after data falls short, while late-stage studies continue.\n來源：Yahoo Finance:MRK\n其他：Merck Enters into Exclusive Global License Agreement with S…",
+      "url": "https://finance.yahoo.com/healthcare/articles/merck-daiichi-withdraw-fda-filing-152300784.html?.tsrc=rss",
+      "source": "Yahoo Finance:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "ADT",
+      "short": "ADT — ADT (NYSE:ADT) Sets New 12-Month Low - Time to Sell? - MarketBeat",
+      "detail": "ADT\n重點：新聞\n標題：ADT (NYSE:ADT) Sets New 12-Month Low - Time to Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWI4ektHNnN1anpEdG9ZMXdfY2phc0R0SGhfd2RPNVAwbUNOUTZWM2U4Mzh3eExvVk5BQ1B2SlRvc0VaQXpTbmRzaVpDajlFVGpKMUJrN1FwMlJoUzFvdmk5dXo2emJZcUhsczJqS094R2ZxeDBLRFFwdzcyY3ZSOHhSS1JuRk9NMVJvYkJIX3ZZaFBaUm9XcTk5Rk1reXA0UUVQeFVhOXhvd…\n來源：Google News:ADT",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWI4ektHNnN1anpEdG9ZMXdfY2phc0R0SGhfd2RPNVAwbUNOUTZWM2U4Mzh3eExvVk5BQ1B2SlRvc0VaQXpTbmRzaVpDajlFVGpKMUJrN1FwMlJoUzFvdmk5dXo2emJZcUhsczJqS094R2ZxeDBLRFFwdzcyY3ZSOHhSS1JuRk9NMVJvYkJIX3ZZaFBaUm9XcTk5Rk1reXA0UUVQeFVhOXhvdDg?oc=5",
+      "source": "Google News:ADT",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "ANET",
+      "short": "ANET — AI相關：Arista’s CFO Says the AI Cycle Is 2.5 to 3 Years In. Here’s Where the Stock Could Go",
+      "detail": "ANET\n重點：AI相關\n標題：Arista’s CFO Says the AI Cycle Is 2.5 to 3 Years In. Here’s Where the Stock Could Go\n摘要：Key Stats for Arista Networks StockCurrent Price: $206. 55Target Price (Mid): ~$428Street Target: ~$242Potential Total Return: ~107%Annualized IRR: ~19% / yearWhat Happened?Arista Networks (ANET) closed at $206.\n來源：Yahoo Finance:ANET",
+      "url": "https://www.tikr.com/blog/aristas-cfo-says-the-ai-cycle-is-2-5-to-3-years-in-heres-where-the-stock-could-go?ref=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance:ANET",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "BDX",
+      "short": "BDX — Here's Why You Should Retain BDX Stock in Your Portfolio for Now",
+      "detail": "BDX\n重點：新聞\n標題：Here's Why You Should Retain BDX Stock in Your Portfolio for Now\n摘要：Becton, Dickinson's MedTech transformation, innovation pipeline and strategic partnerships support growth despite reimbursement and macroeconomic pressures.\n來源：Yahoo Finance:BDX",
+      "url": "https://finance.yahoo.com/healthcare/articles/heres-why-retain-bdx-stock-151500962.html?.tsrc=rss",
+      "source": "Yahoo Finance:BDX",
+      "kind": "news"
+    },
+    {
+      "n": 5,
       "symbol": "BTG",
       "short": "BTG — B2Gold Provides Operations Update for the Goose Mine and Announces Drill Results at the…",
       "detail": "BTG\n重點：新聞\n標題：B2Gold Provides Operations Update for the Goose Mine and Announces Drill Results at the Back River Gold District\n摘要：VANCOUVER, British Columbia, Sept. 28, 2026 (GLOBE NEWSWIRE) -- B2Gold Corp. (TSX: BTO, NYSE AMERICAN: BTG, NSX: B2G) (“B2Gold” or the “Company”) is pleased to provide an operational update for the Goose Mine and announce positive results from its ongoing Back River Gold Distric…\n來源：Yahoo Finance:BTG",
@@ -14,57 +50,66 @@
       "kind": "news"
     },
     {
-      "n": 2,
-      "symbol": "FTNT",
-      "short": "FTNT — AI相關、業績／指引：With AI Putting Cybersecurity in the Spotlight, Fortinet Stock Looks Hot at New All-Tim…",
-      "detail": "FTNT\n重點：AI相關、業績／指引\n標題：With AI Putting Cybersecurity in the Spotlight, Fortinet Stock Looks Hot at New All-Time Highs\n摘要：Fortinet (FTNT) demonstrates strong technical momentum and is trading at a new all-time high. Shares are up more than 100% over the past 52 weeks. Fundamentals remain robust with 19.41% projected revenue growth this year and 25% estimated earnings growth. Despite four “Strong Se…\n來源：Yahoo Finance:FTNT",
-      "url": "https://www.barchart.com/story/news/4825385/with-ai-putting-cybersecurity-in-the-spotlight-fortinet-stock-looks-hot-at-new-all-time-highs?.tsrc=rss",
-      "source": "Yahoo Finance:FTNT",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "GAP",
-      "short": "GAP — The Gap, Inc. (NYSE:GAP) Stock Rated \"Hold\" by Sell-Side Brokerages - MarketBeat",
-      "detail": "GAP\n重點：新聞\n標題：The Gap, Inc. (NYSE:GAP) Stock Rated \"Hold\" by Sell-Side Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjI3Q0xoWWtJRjYtQ2RGdHJkMUE0WGQzajNRM2FDbUpBSHNpYUdJWWFIUEhMTllOUENTZXAzaTVnRUt3YmhZd1NwU201Rkw0V0VXbkNPVzY2Y29jaHhfcFN2RzRoVkhneGhCNFF3YnRHeS1SUXZmeGxPTU00dFp4aG5XcG5OcVlPcVFocUVGSmwzRW1WaUVEMzJVMlctVmQycy1BdFl0ZHNwY…\n來源：Google News:GAP",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjI3Q0xoWWtJRjYtQ2RGdHJkMUE0WGQzajNRM2FDbUpBSHNpYUdJWWFIUEhMTllOUENTZXAzaTVnRUt3YmhZd1NwU201Rkw0V0VXbkNPVzY2Y29jaHhfcFN2RzRoVkhneGhCNFF3YnRHeS1SUXZmeGxPTU00dFp4aG5XcG5OcVlPcVFocUVGSmwzRW1WaUVEMzJVMlctVmQycy1BdFl0ZHNwY2NsMWI5X20xSXFJZmptUHZTQUJRRlI0N2c?oc=5",
-      "source": "Google News:GAP",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "LQDA",
-      "short": "LQDA — Liquidia Corporation (NASDAQ:LQDA) Stock Rated \"Hold\" by Wall Street Brokerages - Marke…",
-      "detail": "LQDA\n重點：新聞\n標題：Liquidia Corporation (NASDAQ:LQDA) Stock Rated \"Hold\" by Wall Street Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxONVFaUkhRenVReDVYRjdYSE5QS3JlOFdfRlpGLXJxU04xbEVFQzRGMF9CSkJ1RGZsWk1hOVF2VlhGZ0ZncHd6REZFTG16N3ZLRGdsbDFRMFQ4bWdqMXI2eTVJYjRmcGloWHN2MkE3UmJpTGwtdkdfVGNGZk5YOXQxMHlvckNxTGlQR25PSDMySHQ5Yl9JWFhVOGFWSE5TNGpCZVpBN2oxaXRUN…\n來源：Google News:LQDA",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONVFaUkhRenVReDVYRjdYSE5QS3JlOFdfRlpGLXJxU04xbEVFQzRGMF9CSkJ1RGZsWk1hOVF2VlhGZ0ZncHd6REZFTG16N3ZLRGdsbDFRMFQ4bWdqMXI2eTVJYjRmcGloWHN2MkE3UmJpTGwtdkdfVGNGZk5YOXQxMHlvckNxTGlQR25PSDMySHQ5Yl9JWFhVOGFWSE5TNGpCZVpBN2oxaXRUNHdHd2N6QmV4X1FfZzZHNHM4LXppcEVVWTljdjNTUUJacTFkY0c4eHpOX2xB?oc=5",
-      "source": "Google News:LQDA",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "LW",
-      "short": "LW — 54,119 Lamb Weston $LW Shares Sold by Corient Private Wealth LP - MarketBeat",
-      "detail": "LW\n重點：新聞\n標題：54,119 Lamb Weston $LW Shares Sold by Corient Private Wealth LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQMUJVSGhBWlRjeDNMdTJOMXNfdXlWQk9PbG1Zak1WTjBwSDZCaXY0NDB2czQzdWFvUW5ic1BsbV9JQlQxQVRWLXdlQVFZbkJuMlFrWURiODF1NEVMSTdIZ3JYcHlpa3ZMa2JPbzg3TDhBQ1Zxa1pFbG1JRHRzaWVuNTN0V1l3bFB5QjY1RWEybGc4clBFMGJsd2d1OGdxXzNZblZ3YUZQMXN1N…\n來源：Google News:LW",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMUJVSGhBWlRjeDNMdTJOMXNfdXlWQk9PbG1Zak1WTjBwSDZCaXY0NDB2czQzdWFvUW5ic1BsbV9JQlQxQVRWLXdlQVFZbkJuMlFrWURiODF1NEVMSTdIZ3JYcHlpa3ZMa2JPbzg3TDhBQ1Zxa1pFbG1JRHRzaWVuNTN0V1l3bFB5QjY1RWEybGc4clBFMGJsd2d1OGdxXzNZblZ3YUZQMXN1NjVZUEJieUs5Yl96V3ZRTFM0RzdZOA?oc=5",
-      "source": "Google News:LW",
-      "kind": "news"
-    },
-    {
       "n": 6,
-      "symbol": "MRK",
-      "short": "MRK — Merck Enters into Exclusive Global License Agreement with SciBrunch Therapeutics for SP…",
-      "detail": "MRK\n重點：新聞\n標題：Merck Enters into Exclusive Global License Agreement with SciBrunch Therapeutics for SPR2015, an Investigational Oral KRAS G12D (ON) Inhibitor\n摘要：RAHWAY, N.J., September 28, 2026--Merck (NYSE: MRK), known as MSD outside of the United States and Canada, and SciBrunch Therapeutics Co., Ltd. (\"SciBrunch\"), today announced that they have entered into an exclusive global license agreement for SPR2015, an investigational precli…\n來源：Yahoo Finance:MRK",
-      "url": "https://finance.yahoo.com/healthcare/articles/merck-enters-exclusive-global-license-104500942.html?.tsrc=rss",
-      "source": "Yahoo Finance:MRK",
+      "symbol": "CRM",
+      "short": "CRM — AI相關、業績／指引：Is Salesforce (CRM) Cheap After AIforce And Koa Launches?",
+      "detail": "CRM\n重點：AI相關、業績／指引\n標題：Is Salesforce (CRM) Cheap After AIforce And Koa Launches?\n摘要：Salesforce, the US software group behind a broad suite of CRM and AI tools, has seen a mixed share price ride in recent years, which raises a simple question for you as an investor: Is the current US$234.02 price adequately backed by the earnings power the company is generating …\n來源：Yahoo Finance:CRM",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-cheap-aiforce-koa-160754022.html?.tsrc=rss",
+      "source": "Yahoo Finance:CRM",
       "kind": "news"
     },
     {
       "n": 7,
+      "symbol": "FDX",
+      "short": "FDX — FedEx Shareholders Back Directors, Pay Plan as CEO Highlights Record Cash Flow",
+      "detail": "FDX\n重點：新聞\n標題：FedEx Shareholders Back Directors, Pay Plan as CEO Highlights Record Cash Flow\n摘要：FedEx (NYSE:FDX) shareholders elected all 11 director nominees and approved the company’s executive compensation proposal at its annual meeting, while rejecting three shareholder proposals concerning board leadership, special-meeting rights and risks tied to transporting abortio…\n來源：Yahoo Finance:FDX",
+      "url": "https://www.marketbeat.com/instant-alerts/event-fedex-shareholders-back-directors-pay-plan-as-ceo-highlights-record-cash-flow-2026-09-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance:FDX",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "HCA",
+      "short": "HCA — Can Shorter Hospital Stays Help HCA Handle More Patient Demand?",
+      "detail": "HCA\n重點：新聞\n標題：Can Shorter Hospital Stays Help HCA Handle More Patient Demand?\n摘要：HCA's rising admissions and shorter hospital stays could help it meet growing patient demand while using existing capacity more efficiently.\n來源：Yahoo Finance:HCA",
+      "url": "https://finance.yahoo.com/healthcare/articles/shorter-hospital-stays-help-hca-125000055.html?.tsrc=rss",
+      "source": "Yahoo Finance:HCA",
+      "kind": "news"
+    },
+    {
+      "n": 9,
       "symbol": "OKTA",
-      "short": "OKTA — Okta, Inc. $OKTA Stock Sold by Engineers Gate Manager LP - MarketBeat",
-      "detail": "OKTA\n重點：新聞\n標題：Okta, Inc. $OKTA Stock Sold by Engineers Gate Manager LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPU3NDR2Y2V2IyUFhReGpnOWFzb2RqZmRvTWY1YWQtYTVrZDZWTEpOZTIwQmd2R1Q5SXFVSnhJYTg4R0JRQWZPSlN4blZwcmxEZkpMN0VRbFZoWkh0Z1pCRkdjV1lWamVsZnZEdzNaY2RELVJGdTQ4aV9ocDdfVVVmY295amYzOUNWeWotcjRZTjRMZjlFaHZhajg2YUlsTXprSTJQUFZyd1h3S…\n來源：Google News:OKTA",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU3NDR2Y2V2IyUFhReGpnOWFzb2RqZmRvTWY1YWQtYTVrZDZWTEpOZTIwQmd2R1Q5SXFVSnhJYTg4R0JRQWZPSlN4blZwcmxEZkpMN0VRbFZoWkh0Z1pCRkdjV1lWamVsZnZEdzNaY2RELVJGdTQ4aV9ocDdfVVVmY295amYzOUNWeWotcjRZTjRMZjlFaHZhajg2YUlsTXprSTJQUFZyd1h3Smp4TFh3M3o0M1k?oc=5",
-      "source": "Google News:OKTA",
+      "short": "OKTA — AI相關：Okta’s AI Security Role Can Drive ‘Durable Growth Re-Acceleration,’ Says Citizens — Lif…",
+      "detail": "OKTA\n重點：AI相關\n標題：Okta’s AI Security Role Can Drive ‘Durable Growth Re-Acceleration,’ Says Citizens — Lifts Target To $225\n摘要：Citizens sees identity becoming increasingly important as companies deploy AI agents, while improving demand, cross-selling and go-to-market execution could support faster growth at Okta.\n來源：Yahoo Finance:OKTA",
+      "url": "https://stocktwits.com/news-articles/markets/equity/okta-s-ai-security-role-can-drive-durable-growth-re-acceleration-says-citizens-lifts-target-to-225/cZMSq8vRBQe?.tsrc=rss",
+      "source": "Yahoo Finance:OKTA",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "PR",
+      "short": "PR — 業績／指引：Permian Resources (PR): Buy, Sell, or Hold Post Q2 Earnings?",
+      "detail": "PR\n重點：業績／指引\n標題：Permian Resources (PR): Buy, Sell, or Hold Post Q2 Earnings?\n摘要：Permian Resources currently trades at $21.37 per share and has shown little upside over the past six months, posting a small loss of 0.6%. The stock also fell short of the S&amp;P 500’s 21.4% gain during that period.\n來源：Yahoo Finance:PR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-buy-sell-173436494.html?.tsrc=rss",
+      "source": "Yahoo Finance:PR",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "PYPL",
+      "short": "PYPL — AI相關：PayPal vs. Upstart: Which Fintech Stock Is Better to Consider?",
+      "detail": "PYPL\n重點：AI相關\n標題：PayPal vs. Upstart: Which Fintech Stock Is Better to Consider?\n摘要：PYPL's Venmo growth and cost savings face off against UPST's AI lending gains, rising originations and ongoing credit-market risks.\n來源：Yahoo Finance:PYPL",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-vs-upstart-fintech-stock-151800442.html?.tsrc=rss",
+      "source": "Yahoo Finance:PYPL",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "RITM",
+      "short": "RITM — 業績／指引：RITM's Credit Rating Upgraded to 'B+' by S&P, Outlook Remains Stable",
+      "detail": "RITM\n重點：業績／指引\n標題：RITM's Credit Rating Upgraded to 'B+' by S&P, Outlook Remains Stable\n摘要：Rithm Capital's credit rating is upgraded to 'B+' from 'B' by S&amp;P Global, with a stable outlook, reflecting greater diversification and stable Newrez earnings.\n來源：Yahoo Finance:RITM",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ritms-credit-rating-upgraded-b-153900751.html?.tsrc=rss",
+      "source": "Yahoo Finance:RITM",
       "kind": "news"
     }
   ]
