@@ -1,52 +1,34 @@
 {
-  "title": "FS新聞 09-27 15:02",
-  "list_name": "FirstScreen_2026-09-27_150228_comma.txt",
-  "created_at": "2026-09-27T15:02:38.024086+00:00",
+  "title": "FS新聞 09-28 05:37",
+  "list_name": "FirstScreen_2026-09-28_053734_comma.txt",
+  "created_at": "2026-09-28T05:37:44.682082+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "AEO",
-      "short": "AEO — 542,808 Shares in American Eagle Outfitters, Inc. $AEO Acquired by Bank of America Corp…",
-      "detail": "AEO\n重點：新聞\n標題：542,808 Shares in American Eagle Outfitters, Inc. $AEO Acquired by Bank of America Corp DE - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMjBXR1YwZ0RJelU1aTRYRWtndGlTeXBhb1oyTUl0NkhzZ1F6Y1A4LURkaC00dHVTYkFUTTIwWWE0dmNORGJKV0R4VTV4N01RS25mT1E1Z1k4TGFPQU5ldlpDUFhZWUNJVGkwZWtWRTJ0amlBeGQwR01TUzAteDFVU0RTNVgtNGNObnAtQ0tqVVQwaURyblJBVkl0X1laT3BDZy1LZFBwYjhaL…\n來源：Google News:AEO",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMjBXR1YwZ0RJelU1aTRYRWtndGlTeXBhb1oyTUl0NkhzZ1F6Y1A4LURkaC00dHVTYkFUTTIwWWE0dmNORGJKV0R4VTV4N01RS25mT1E1Z1k4TGFPQU5ldlpDUFhZWUNJVGkwZWtWRTJ0amlBeGQwR01TUzAteDFVU0RTNVgtNGNObnAtQ0tqVVQwaURyblJBVkl0X1laT3BDZy1LZFBwYjhaLXNGTVF4THFvakIwUGdwYXJ1Q2k1NG4xZFZST1ZhY25LeHpBa0ZpRmpDYlpKS0g1eEx6X3BSbw?oc=5",
-      "source": "Google News:AEO",
+      "symbol": "A",
+      "short": "A — 業績／指引：Shift4 Payments (FOUR): A Stock Priced for Trouble, a Business Still Compounding Undern…",
+      "detail": "A\n重點：業績／指引\n標題：Shift4 Payments (FOUR): A Stock Priced for Trouble, a Business Still Compounding Underneath\n摘要：Back in August, Shift4 Payments, Inc. (NYSE:FOUR) lowered its full-year outlook, cutting expected gross revenue less network fees to $2.48 billion – $2.53 billion from $2.5 billion – $2.6 billion and adjusted earnings per share to $5.15 – $5.35 from $5.50 – $5.70, citing roughly…\n來源：Yahoo Finance:BILL",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/shift4-payments-four-stock-priced-231125167.html?.tsrc=rss",
+      "source": "Yahoo Finance:BILL",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "LW",
-      "short": "LW — Bank of America Corp DE Sells 558,469 Shares of Lamb Weston $LW - MarketBeat",
-      "detail": "LW\n重點：新聞\n標題：Bank of America Corp DE Sells 558,469 Shares of Lamb Weston $LW - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQWnNpUmFjMzRrY0pXdm1oakVqTTlORVdKd2YxNzhOV2RBblNIQmpiRGltZW9zeXZTcWN6bTZtU3dFQVQ4V3RsbDZyRXkxMFdiVkhMZGx3LWhhcEduVFZiVDhUbkVIZVhSNE8zTnFKXzRITW9TYTliNlRMbDlYTWtxcjU4UWNRM3FHdm44VTQ0S0l1eXBEV1k1MG4zSzN0d2NOLVlHSFk5WkIxZ…\n來源：Google News:LW",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWnNpUmFjMzRrY0pXdm1oakVqTTlORVdKd2YxNzhOV2RBblNIQmpiRGltZW9zeXZTcWN6bTZtU3dFQVQ4V3RsbDZyRXkxMFdiVkhMZGx3LWhhcEduVFZiVDhUbkVIZVhSNE8zTnFKXzRITW9TYTliNlRMbDlYTWtxcjU4UWNRM3FHdm44VTQ0S0l1eXBEV1k1MG4zSzN0d2NOLVlHSFk5WkIxZk1fNW1iMW9HUVRCVThmZXVMekdFYw?oc=5",
-      "source": "Google News:LW",
-      "kind": "news"
-    },
-    {
-      "n": 3,
       "symbol": "MDT",
-      "short": "MDT — AI相關：Why Is Medtronic (MDT) Expanding In Robotics And AI Healthcare?",
-      "detail": "MDT\n重點：AI相關\n標題：Why Is Medtronic (MDT) Expanding In Robotics And AI Healthcare?\n摘要：Medtronic (NYSE:MDT) agreed a US$700 million partnership with Cornerstone Robotics to distribute the Sentire surgical system globally. The Cornerstone deal expands Medtronic's presence in surgical robotics beyond its existing platforms into a new multi-country distribution arran…\n來源：Yahoo Finance:MDT",
-      "url": "https://finance.yahoo.com/healthcare/articles/why-medtronic-mdt-expanding-robotics-070954355.html?.tsrc=rss",
+      "short": "MDT — 業績／指引：Pfizer vs. Medtronic: Which Healthcare Turnaround is More Convincing?",
+      "detail": "MDT\n重點：業績／指引\n標題：Pfizer vs. Medtronic: Which Healthcare Turnaround is More Convincing?\n摘要：Pfizer Inc. (NYSE:PFE) and Medtronic plc (NYSE:MDT) are both trying to prove that years of portfolio investment can translate into more durable growth, but the two healthcare giants are entering very different stages of their turnarounds. Pfizer is rebuilding around newer medici…\n來源：Yahoo Finance:MDT",
+      "url": "https://finance.yahoo.com/healthcare/articles/pfizer-vs-medtronic-healthcare-turnaround-225704360.html?.tsrc=rss",
       "source": "Yahoo Finance:MDT",
       "kind": "news"
     },
     {
-      "n": 4,
+      "n": 3,
       "symbol": "OKTA",
-      "short": "OKTA — AI相關：AI Pivot Can Give Okta (OKTA)’s Growth Engine a Second Gear",
-      "detail": "OKTA\n重點：AI相關\n標題：AI Pivot Can Give Okta (OKTA)’s Growth Engine a Second Gear\n摘要：Wall Street experts believe that Okta, Inc. (NASDAQ:OKTA) is entering a potentially important phase, with companies deploying AI agents that need authentication, permissions, and continuous access controls. At Oktane 2026, it announced new Okta for AI Agents capabilities, includ…\n來源：Yahoo Finance:OKTA",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-pivot-okta-okta-growth-085028472.html?.tsrc=rss",
+      "short": "OKTA — AI相關：Okta (OKTA)’s AI Agent Opportunity Is Expanding. Is the Stock Already Pricing It In?",
+      "detail": "OKTA\n重點：AI相關\n標題：Okta (OKTA)’s AI Agent Opportunity Is Expanding. Is the Stock Already Pricing It In?\n摘要：Okta, Inc. (NASDAQ:OKTA) emerged from its Oktane 2026 conference with a stronger AI narrative and a wave of analyst price-target increases. But the investment debate is becoming less about whether Okta has an opportunity in securing AI agents and more about how quickly that oppo…\n來源：Yahoo Finance:OKTA",
+      "url": "https://finance.yahoo.com/technology/ai/articles/okta-okta-ai-agent-opportunity-010606864.html?.tsrc=rss",
       "source": "Yahoo Finance:OKTA",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "STT",
-      "short": "STT — State Street Corporation $STT Stock Acquired by Envestnet Asset Management Inc. - Marke…",
-      "detail": "STT\n重點：新聞\n標題：State Street Corporation $STT Stock Acquired by Envestnet Asset Management Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN240R2pBZlF3dGZHOExLOHpybTJ1a3haNWZ6Y3dPcUFCXzZUN1JUOGFRSFFyQnNzNjdQR2NwTXBoX0Q4OUFYcEsxQzZaMHNLYkJZNXB1ZTVCVmZDU2h3UHhvU3RNekhYQlZkT1Q0T1I2NmMxX2ZMaldfS2Y4Vk9nbFczaWRPeFpZTHpETVBSM2FPRTNmaUI0UVB3Qk1MejcyRURTalpXUkVjR…\n來源：Google News:STT",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN240R2pBZlF3dGZHOExLOHpybTJ1a3haNWZ6Y3dPcUFCXzZUN1JUOGFRSFFyQnNzNjdQR2NwTXBoX0Q4OUFYcEsxQzZaMHNLYkJZNXB1ZTVCVmZDU2h3UHhvU3RNekhYQlZkT1Q0T1I2NmMxX2ZMaldfS2Y4Vk9nbFczaWRPeFpZTHpETVBSM2FPRTNmaUI0UVB3Qk1MejcyRURTalpXUkVjRTNEbXc1SVMwSnBTVXduZ0JDcktYTGF5c0g0ZUhkRmhpdFNBYWp2QWlfQg?oc=5",
-      "source": "Google News:STT",
       "kind": "news"
     }
   ]
