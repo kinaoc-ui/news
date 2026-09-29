@@ -1,52 +1,115 @@
 {
-  "title": "FS新聞 09-29 11:04",
-  "list_name": "FirstScreen_2026-09-29_110428_comma.txt",
-  "created_at": "2026-09-29T11:04:36.774075+00:00",
+  "title": "FS新聞 09-29 16:24",
+  "list_name": "FirstScreen_2026-09-29_162435_comma.txt",
+  "created_at": "2026-09-29T16:24:44.785430+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "TTE",
-      "short": "TTE — TotalEnergies (ENXTPA:TTE) Backs Dividend Growth, Is The 5% Upside Already Priced In?",
-      "detail": "TTE\n重點：新聞\n標題：TotalEnergies (ENXTPA:TTE) Backs Dividend Growth, Is The 5% Upside Already Priced In?\n摘要：TotalEnergies (ENXTPA:TTE) has put dividends at the center of its story. The board has approved a policy to raise the payout by more than 5% a year from 2026 to 2030. That dividend story is landing in a market that has already rewarded TotalEnergies in a big way, with the share …\n來源：Yahoo Finance:TTE\n其他：TotalEnergies (TTE) Raises Buybacks as It Makes a Bigger Po…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/totalenergies-enxtpa-tte-backs-dividend-080919454.html?.tsrc=rss",
-      "source": "Yahoo Finance:TTE",
+      "symbol": "GEN",
+      "short": "GEN — 業績／指引：Gen Digital (GEN) Loses 32.7% in 4 Weeks, Here's Why a Trend Reversal May be Around the…",
+      "detail": "GEN\n重點：業績／指引\n標題：Gen Digital (GEN) Loses 32.7% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner\n摘要：The heavy selling pressure might have exhausted for Gen Digital (GEN) as it is technically in oversold territory now. In addition to this technical measure, strong agreement among Wall Street analysts in revising earnings estimates higher indicates that the stock is ripe for a t…\n來源：Yahoo Finance:GEN\n其他：Gen Digital (NASDAQ:GEN) Releases Q2 2027 Earnings Guidance…; Gen Digital (NASDAQ:GEN) Releases FY 2027 Earnings Guidance…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gen-digital-gen-loses-32-123502837.html?.tsrc=rss",
+      "source": "Yahoo Finance:GEN",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "ALSN",
-      "short": "ALSN — Allison Transmission Holdings, Inc. (NYSE:ALSN) Receives Average Recommendation of \"Mod…",
-      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission Holdings, Inc. (NYSE:ALSN) Receives Average Recommendation of \"Moderate Buy\" from Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSk1zNndWYnFGazFQU2Z5WmJxcGd0bjdiM0RZSUZkY0dKaTdUYUhzLTVIbi1VMUsxYVI2MGg2R3R1SGE2dmVDYnpQMUItVWJfMjNxeHl6X1ZMb1lWMWFUWU5nZzk1M3Zmd2hYMkRIQ1VVWmRrYVNDNVA5Mi1TTVAzNXNzZ0h2SzFxUGtCMW5Rb0tBZC1UVllVX211eWI4Z2MwRHphbXVfcWVyU…\n來源：Google News:ALSN",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSk1zNndWYnFGazFQU2Z5WmJxcGd0bjdiM0RZSUZkY0dKaTdUYUhzLTVIbi1VMUsxYVI2MGg2R3R1SGE2dmVDYnpQMUItVWJfMjNxeHl6X1ZMb1lWMWFUWU5nZzk1M3Zmd2hYMkRIQ1VVWmRrYVNDNVA5Mi1TTVAzNXNzZ0h2SzFxUGtCMW5Rb0tBZC1UVllVX211eWI4Z2MwRHphbXVfcWVyUWFXS1p2OXlHMFFXUG9OS0pHZnNwMWpxWkV2TDNyNjdDcGJMUU56Wmd6M3o5WWE1ek5FMUZVY1FkMjdSd3NpWERqREI3NjNxSEx6ZTZBYmhlN3VrUQ?oc=5",
-      "source": "Google News:ALSN",
+      "symbol": "BILL",
+      "short": "BILL — AI相關：BILL and Blackbaud Partner to Simplify Vendor Payments for Nonprofit and Education Fina…",
+      "detail": "BILL\n重點：AI相關\n標題：BILL and Blackbaud Partner to Simplify Vendor Payments for Nonprofit and Education Finance Teams\n摘要：SAN JOSE, Calif. & CHARLESTON, S.C., September 29, 2026--BILL (NYSE: BILL), the intelligent financial operations platform trusted by nearly half a million businesses to manage, move, and maximize their money, and Blackbaud (NASDAQ: BLKB), the world’s leading provider of AI-power…\n來源：Yahoo Finance:BILL\n其他：Down 15.5% in 4 Weeks, Here's Why You Should You Buy the Di…",
+      "url": "https://finance.yahoo.com/small-business/articles/bill-blackbaud-partner-simplify-vendor-134500228.html?.tsrc=rss",
+      "source": "Yahoo Finance:BILL",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "CRM",
-      "short": "CRM — CRM Stock Snags Second Rating Downgrade This Month – Analyst Says Risk/Reward On Salesf…",
-      "detail": "CRM\n重點：新聞\n標題：CRM Stock Snags Second Rating Downgrade This Month – Analyst Says Risk/Reward On Salesforce Balanced In Absence Of Notable Growth Inflection - Stocktwits\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxOT1pNaUI0WUxZd0R1NXFySDF2aHk1bkJFc3hzY1c4VFE3RFlnWnBUazJ2TW50N0ZPaXZKUHNJTi1rTjhSWEhCWWo1dlVTdGV5SHR0S1RCSS0zMWthS0xMMmVJLXF6eDMyNzlTRE9OWWtlbFg0d1RsbkZyXy1pUmozMXRSbGdad1AxeXFXWVUzQXhubXpIVHc0WW1kM3RFbVJaaktQejJvTE9Xd…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOT1pNaUI0WUxZd0R1NXFySDF2aHk1bkJFc3hzY1c4VFE3RFlnWnBUazJ2TW50N0ZPaXZKUHNJTi1rTjhSWEhCWWo1dlVTdGV5SHR0S1RCSS0zMWthS0xMMmVJLXF6eDMyNzlTRE9OWWtlbFg0d1RsbkZyXy1pUmozMXRSbGdad1AxeXFXWVUzQXhubXpIVHc0WW1kM3RFbVJaaktQejJvTE9XdmRyNEhUQTRQU3AzOE5jcnR6M3djUFplejNZSE9MVUdwRndjQmt1eEl2cGoza2I0N1pwSU1qXzNlMDMwbUJDR2h1QTI2MVZNcFpFWmtqZzR3c293WWdBRVNwQm1MOGxFNDRMVVY3VUt3Zk9RTE5IOUpldFI4aU9hQ19jUlRvLWdB?oc=5",
-      "source": "Google News:CRM",
+      "symbol": "SLB",
+      "short": "SLB — SLB OneSubsea Awarded Major Subsea Systems Contract for Rovuma Basin Development",
+      "detail": "SLB\n重點：新聞\n標題：SLB OneSubsea Awarded Major Subsea Systems Contract for Rovuma Basin Development\n摘要：HOUSTON, September 29, 2026--Global energy technology company SLB (NYSE: SLB) today announced that its OneSubsea™ joint venture has been awarded a contract by ExxonMobil Moçambique, Limitada, on behalf of its Area 4 partners, (ENH, CNPC, ENI, KOGAS and XRG), to deliver subsea pr…\n來源：Yahoo Finance:SLB\n其他：ExxonMobil awards SLB a contract for underwater gas systems…",
+      "url": "https://finance.yahoo.com/energy/articles/slb-onesubsea-awarded-major-subsea-114600695.html?.tsrc=rss",
+      "source": "Yahoo Finance:SLB",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "OKTA",
-      "short": "OKTA — QRG Capital Management Inc. Buys 7,515 Shares of Okta, Inc. $OKTA - MarketBeat",
-      "detail": "OKTA\n重點：新聞\n標題：QRG Capital Management Inc. Buys 7,515 Shares of Okta, Inc. $OKTA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQdERuMC1VaER3T1JXd0stbWNDcFE4T1Mxa1VQcXJvNEJCN0hBR0I1Sm5id29UY2xzY2FxNVpoRTdseHFfQ3p5MmdBUnVBSHdpMW0wWktaX1NURFlLS2NPY0d4UGtGdkh0ajhVMFZGRU1xZXVtWlUyMzlzckMzYmVLUW54MXNVSU5ua0NIY3p0RWNaRXhIeDVJYWpKamRQMldQTTlUcmRnUUZGQ…\n來源：Google News:OKTA",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdERuMC1VaER3T1JXd0stbWNDcFE4T1Mxa1VQcXJvNEJCN0hBR0I1Sm5id29UY2xzY2FxNVpoRTdseHFfQ3p5MmdBUnVBSHdpMW0wWktaX1NURFlLS2NPY0d4UGtGdkh0ajhVMFZGRU1xZXVtWlUyMzlzckMzYmVLUW54MXNVSU5ua0NIY3p0RWNaRXhIeDVJYWpKamRQMldQTTlUcmRnUUZGQkNDbE1VbE1qTlh6YloxZ0tTYW1n?oc=5",
-      "source": "Google News:OKTA",
+      "symbol": "A",
+      "short": "A — AI相關：Agilent Introduces Gen5 AI Cell Identification Module for BioTek Automated Cell Imagers",
+      "detail": "A\n重點：AI相關\n標題：Agilent Introduces Gen5 AI Cell Identification Module for BioTek Automated Cell Imagers\n摘要：SANTA CLARA, Calif., September 29, 2026--Agilent Technologies Inc. (NYSE: A) today announced the launch of the Agilent BioTek Gen5 AI cell identification module, a new image analysis software add-on that incorporates AI-based cell identification and segmentation into BioTek Gen5…\n來源：Yahoo Finance:A",
+      "url": "https://finance.yahoo.com/technology/ai/articles/agilent-introduces-gen5-ai-cell-120000156.html?.tsrc=rss",
+      "source": "Yahoo Finance:A",
       "kind": "news"
     },
     {
       "n": 5,
-      "symbol": "RITM",
-      "short": "RITM — Rithm Capital (NYSE:RITM) Share Price Crosses Below 200 Day Moving Average - Time to Se…",
-      "detail": "RITM\n重點：新聞\n標題：Rithm Capital (NYSE:RITM) Share Price Crosses Below 200 Day Moving Average - Time to Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR0sxbk12akpSanZIZEpvMzh2aU5Vc0FJTjUtZ01fbkJfdUpXRzktdF9nMjQ3Z3d1QVhvUEctYXFVWlZyZi0xbDJKeWRReXZtT050c1FSaXQ4MHNuMXlrNHlPUkRtZTBkdTkzSHc5Nlp0c3JGTUdsMEhJSVpjRzNhWFJXYmRrVUFuMlo3RG8tS09yQm1JemdfaUw4Z0NhUTJNMGZlNTRNMlNYc…\n來源：Google News:RITM",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR0sxbk12akpSanZIZEpvMzh2aU5Vc0FJTjUtZ01fbkJfdUpXRzktdF9nMjQ3Z3d1QVhvUEctYXFVWlZyZi0xbDJKeWRReXZtT050c1FSaXQ4MHNuMXlrNHlPUkRtZTBkdTkzSHc5Nlp0c3JGTUdsMEhJSVpjRzNhWFJXYmRrVUFuMlo3RG8tS09yQm1JemdfaUw4Z0NhUTJNMGZlNTRNMlNYcGtrUDlWdlBpSFFEY3hLcVY0blp0X0NGTHh3WGxaNjU0akt3eEk3bEtxU3JHT3RkY0REWmc?oc=5",
-      "source": "Google News:RITM",
+      "symbol": "ANET",
+      "short": "ANET — AI相關：Arista: The Layer Beneath The Chips (NYSE:ANET) - Seeking Alpha",
+      "detail": "ANET\n重點：AI相關\n標題：Arista: The Layer Beneath The Chips (NYSE:ANET) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPZFN1T1hNMy1OTGlTbGJ2aUlwY2tqRjIxcWpkYXk4UmZaM2loMnRYeFB0NFRvSXhYSFAzNktPeFo4SHFpUERhNmVHQ3BtN19WTzI4WS1sZlZvUjFsalh4UmNiY2hZcHh3MEVXRHlDdWFQaXdYZUsybDNUaDdTRDFoUQ?oc=5\" target=\"_blank\">Arista: The Layer Beneath The Ch…\n來源：Google News:ANET",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZFN1T1hNMy1OTGlTbGJ2aUlwY2tqRjIxcWpkYXk4UmZaM2loMnRYeFB0NFRvSXhYSFAzNktPeFo4SHFpUERhNmVHQ3BtN19WTzI4WS1sZlZvUjFsalh4UmNiY2hZcHh3MEVXRHlDdWFQaXdYZUsybDNUaDdTRDFoUQ?oc=5",
+      "source": "Google News:ANET",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "BDX",
+      "short": "BDX — BD Celebrates 70 Years of Manufacturing, Innovation and Community Partnership in Sandy",
+      "detail": "BDX\n重點：新聞\n標題：BD Celebrates 70 Years of Manufacturing, Innovation and Community Partnership in Sandy\n摘要：BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, today marked 70 years of manufacturing in Sandy, Utah, a key part of the company's U.S. manufacturing network and a critical source of the medical technologies healthcare providers and p…\n來源：Yahoo Finance:BDX",
+      "url": "https://finance.yahoo.com/healthcare/articles/bd-celebrates-70-years-manufacturing-130000310.html?.tsrc=rss",
+      "source": "Yahoo Finance:BDX",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "BKNG",
+      "short": "BKNG — AI相關：Lola, the AI Assistant for Experiences, Debuts With New Membership Plans and Travel and…",
+      "detail": "BKNG\n重點：AI相關\n標題：Lola, the AI Assistant for Experiences, Debuts With New Membership Plans and Travel and Lifestyle Partners\n摘要：NEW YORK, September 29, 2026--Lola, the new AI assistant for experiences backed by Booking Holdings (NASDAQ: BKNG), today debuts with a new membership offering that combines personalized recommendations, live availability and pricing, direct booking, preferred rates, and benefit…\n來源：Yahoo Finance:BKNG",
+      "url": "https://finance.yahoo.com/technology/ai/articles/lola-ai-assistant-experiences-debuts-130000888.html?.tsrc=rss",
+      "source": "Yahoo Finance:BKNG",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "CARG",
+      "short": "CARG — AI相關：VINMax, CarGurus’ Newest Innovation, Shortens Turn Times by Over a Week¹",
+      "detail": "CARG\n重點：AI相關\n標題：VINMax, CarGurus’ Newest Innovation, Shortens Turn Times by Over a Week¹\n摘要：CarGurus brings its predictive intelligence to VIN-level marketing, helping dealers boost the right vehicles at the right time to protect margin BOSTON, Sept. 29, 2026 (GLOBE NEWSWIRE) -- CarGurus (Nasdaq: CARG), the No. 1 most visited automotive shopping site in the U.S.2, anno…\n來源：Yahoo Finance:CARG",
+      "url": "https://finance.yahoo.com/small-business/articles/vinmax-cargurus-newest-innovation-shortens-130000799.html?.tsrc=rss",
+      "source": "Yahoo Finance:CARG",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "DNOW",
+      "short": "DNOW — 業績／指引：DNOW stock reports 108.10 percent revenue growth in Q2 - AD HOC NEWS",
+      "detail": "DNOW\n重點：業績／指引\n標題：DNOW stock reports 108.10 percent revenue growth in Q2 - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNdGIzWXdKZ2RST19raWZzcUlCR203aDhFSFZmc0RpRm1BSWN0NWEtYTJidVZyUDNBaWNleXh4YUdTTE5rQXhCQW82WHlxa2NLMUFGVU01bXc4c3lQNGMyVXI3ZTQzUmhWZXptajN3THZEZndmMUQ2OTcyREdHa1MyNnpvanJUUEpIdWduY3RmWjMxaW1xZk5CWHNSdkRidV9ob3NmM1pxVlowc…\n來源：Google News:DNOW",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdGIzWXdKZ2RST19raWZzcUlCR203aDhFSFZmc0RpRm1BSWN0NWEtYTJidVZyUDNBaWNleXh4YUdTTE5rQXhCQW82WHlxa2NLMUFGVU01bXc4c3lQNGMyVXI3ZTQzUmhWZXptajN3THZEZndmMUQ2OTcyREdHa1MyNnpvanJUUEpIdWduY3RmWjMxaW1xZk5CWHNSdkRidV9ob3NmM1pxVlowcThXUmFkY1VTMA?oc=5",
+      "source": "Google News:DNOW",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "MRK",
+      "short": "MRK — What Does Merck (MRK) Add To Its Oncology Pipeline With This KRAS Deal?",
+      "detail": "MRK\n重點：新聞\n標題：What Does Merck (MRK) Add To Its Oncology Pipeline With This KRAS Deal?\n摘要：Merck (NYSE:MRK) entered an exclusive global license agreement with SciBrunch Therapeutics to develop oral KRAS G12D inhibitor SPR2015. The deal gives Merck worldwide rights to SPR2015, an investigational small molecule targeting a mutation linked to several solid tumors. SciBru…\n來源：Yahoo Finance:MRK",
+      "url": "https://finance.yahoo.com/healthcare/articles/does-merck-mrk-add-oncology-160540881.html?.tsrc=rss",
+      "source": "Yahoo Finance:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "OKTA",
+      "short": "OKTA — AI相關：Okta Could See Acceleration From Increased AI Safety Concerns, Morgan Stanley Says",
+      "detail": "OKTA\n重點：AI相關\n標題：Okta Could See Acceleration From Increased AI Safety Concerns, Morgan Stanley Says\n摘要：Okta (OKTA) investors agreed that cyber could see acceleration from increased AI safety concerns, wi\n來源：Yahoo Finance:OKTA",
+      "url": "https://finance.yahoo.com/technology/ai/articles/okta-could-see-acceleration-increased-151914988.html?.tsrc=rss",
+      "source": "Yahoo Finance:OKTA",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "TGT",
+      "short": "TGT — Target Cuts Prices on Nearly 2,000 Home and Apparel Products",
+      "detail": "TGT\n重點：新聞\n標題：Target Cuts Prices on Nearly 2,000 Home and Apparel Products\n摘要：Target Corporation (NYSE:TGT) said it is lowering prices on nearly 2,000 home and apparel products ahead of the holiday shopping season, adding to more than 10,000 price reductions implemented by the retailer over the past year. The latest reductions, announced on September 29, …\n來源：Yahoo Finance:TGT",
+      "url": "https://investorshub.advfn.com/market-news/article/37097/target-cuts-prices-on-nearly-2000-home-and-apparel-products?.tsrc=rss",
+      "source": "Yahoo Finance:TGT",
       "kind": "news"
     }
   ]
