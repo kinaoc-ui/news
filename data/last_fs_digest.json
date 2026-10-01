@@ -1,61 +1,25 @@
 {
-  "title": "FS新聞 10-01 06:12",
-  "list_name": "FirstScreen_2026-10-01_061213_comma.txt",
-  "created_at": "2026-10-01T06:12:23.785078+00:00",
+  "title": "FS新聞 10-01 11:22",
+  "list_name": "FirstScreen_2026-10-01_112101_comma.txt",
+  "created_at": "2026-10-01T11:22:29.028900+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "A",
-      "short": "A — How to Spot a Stock Market Bubble Before It Bursts - The Acquirer's Multiple",
-      "detail": "A\n重點：新聞\n標題：How to Spot a Stock Market Bubble Before It Bursts - The Acquirer's Multiple\n摘要：<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNX3FSNG41T19rRjdDajh3MGtPNU5iMUR3RlZFUHVneTQtUVlvTy1TWm1TTW9tcE5nMW5PWmtUVVItaXpEMmozWGp3WC1KQ2xXSTFNRVZsVGgyOVlkbWV3b01ZZW5UQzMtdmhVVlBFOUV6OVVRU3ZwNXhEZ1B1ZGZQQ2kwektSRWhLOU01UDZSSUpLanM?oc=5\" target=\"_blank\">How to …\n來源：Google News:A",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX3FSNG41T19rRjdDajh3MGtPNU5iMUR3RlZFUHVneTQtUVlvTy1TWm1TTW9tcE5nMW5PWmtUVVItaXpEMmozWGp3WC1KQ2xXSTFNRVZsVGgyOVlkbWV3b01ZZW5UQzMtdmhVVlBFOUV6OVVRU3ZwNXhEZ1B1ZGZQQ2kwektSRWhLOU01UDZSSUpLanM?oc=5",
-      "source": "Google News:A",
+      "symbol": "EC",
+      "short": "EC — Ecopetrol Advances Its Transformation with Changes to Its Senior Management Team",
+      "detail": "EC\n重點：新聞\n標題：Ecopetrol Advances Its Transformation with Changes to Its Senior Management Team\n摘要：Ecopetrol S.A. (BVC: ECOPETROL; NYSE: EC) (the \"Company\" or \"Ecopetrol\") announced today that its Board of Directors, at a meeting held on September 30, 2026, approved the appointment of three new members of senior management, as part of the Company's ongoing strategy to strengt…\n來源：Yahoo Finance:EC",
+      "url": "https://finance.yahoo.com/energy/articles/ecopetrol-advances-transformation-changes-senior-110000271.html?.tsrc=rss",
+      "source": "Yahoo Finance:EC",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "ALSN",
-      "short": "ALSN — Allison Transmission Holdings, (ALSN) Stock Forecasts - Yahoo Finance",
-      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission Holdings, (ALSN) Stock Forecasts - Yahoo Finance\n摘要：<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEtHTnNzSzEtS2hXTmg3RWo5STBHcjc4LUxCN0NhZ3ZMRkk5ZjhDWHdUMDNZT3VTMjZlTUllWXVxNTNveW9rdjBEM0R5Q2tqUDVQVzNneUNoOHFoTHY2N0pYNlVRLVY2YlZRYWhmd2ZOOW16TWNuQmRsLVNneDNULVktbGNtSzV6VzB3Q3hvYw?oc=5\" target=\"_blank\">Allison Tran…\n來源：Google News:ALSN",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEtHTnNzSzEtS2hXTmg3RWo5STBHcjc4LUxCN0NhZ3ZMRkk5ZjhDWHdUMDNZT3VTMjZlTUllWXVxNTNveW9rdjBEM0R5Q2tqUDVQVzNneUNoOHFoTHY2N0pYNlVRLVY2YlZRYWhmd2ZOOW16TWNuQmRsLVNneDNULVktbGNtSzV6VzB3Q3hvYw?oc=5",
-      "source": "Google News:ALSN",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "ANET",
-      "short": "ANET — Arista Networks (ANET) Lifted Its Outlook, Is The Upside Already Priced In? - simplywal…",
-      "detail": "ANET\n重點：新聞\n標題：Arista Networks (ANET) Lifted Its Outlook, Is The Upside Already Priced In? - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDEteW5BRXlIWGxibjlvQUF0aTJtRkliX2p6SlFIRkhrZ1lFWTBqemtub3EzM1NvbU9JMTNZcWxVeHJVa3FjeVFfSVpZVWlFQVM2S0FHUm42M2NnRUZMSmRScWpHYnlSbk5BVnpST0ZrU3JZSldQSmZqdV9XT0xVd1gwWXVNbFNhcV9JNUstZXBneHNUVjZuMEx5OHlJX3FrU0lVdUZWSXRlY…\n來源：Google News:ANET",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDEteW5BRXlIWGxibjlvQUF0aTJtRkliX2p6SlFIRkhrZ1lFWTBqemtub3EzM1NvbU9JMTNZcWxVeHJVa3FjeVFfSVpZVWlFQVM2S0FHUm42M2NnRUZMSmRScWpHYnlSbk5BVnpST0ZrU3JZSldQSmZqdV9XT0xVd1gwWXVNbFNhcV9JNUstZXBneHNUVjZuMEx5OHlJX3FrU0lVdUZWSXRlYWhGeFN5Mi1rcHZ0akxiZ1dFQTRJN1RKQnczdUNn0gHMAUFVX3lxTE5BdnBsQk9WVmhJSElxM1YxMlJRNmlENVdsdUZablVLZXZDUnA4ODlDZXpoSW85ZHM1bUhvNDJmalFHMzg3a0JXY1F5aldGaURleG9mQnNlQUVYWS1Pbk4tWWNOckEyem15dUFma3d1TVJCNjd0N09IQTUyN0dlaWR6ck5LQ0I1S3JsOGcxN1IzQXI2SDRfeDl0NTZNVE9pRXZTQlpCbWpaeXV2U3E0ekZsa1BQX09zenBMaWhxREdVcVVFT1gydkkta3dkVQ?oc=5",
-      "source": "Google News:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "BHP",
-      "short": "BHP — 業績／指引：BHP stock reports 15 percent revenue growth in fiscal 2026 - ad-hoc-news.de",
-      "detail": "BHP\n重點：業績／指引\n標題：BHP stock reports 15 percent revenue growth in fiscal 2026 - ad-hoc-news.de\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX05BaUg3S2JsUTVXTDQwZE5qTVNLeUFGZnVIRE5rUlFxQVRqUmtZb2dpcWZDb2dURy1aT0FucTFEOWx2S0RSb2p2Z0VQdjFITmNkRGhxTDBfVE01eUplalJxeWZ5dFpuZG1VU0d1alZUUnQzMGpyNTc4d0daeDk4bHBtaWV5MmtVNUthX3hzREsxeWdCZGNsU3BMVkwyVDA5ZHVXVFV4cGZOa…\n來源：Google News:BHP",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX05BaUg3S2JsUTVXTDQwZE5qTVNLeUFGZnVIRE5rUlFxQVRqUmtZb2dpcWZDb2dURy1aT0FucTFEOWx2S0RSb2p2Z0VQdjFITmNkRGhxTDBfVE01eUplalJxeWZ5dFpuZG1VU0d1alZUUnQzMGpyNTc4d0daeDk4bHBtaWV5MmtVNUthX3hzREsxeWdCZGNsU3BMVkwyVDA5ZHVXVFV4cGZOa0ozVnU4dlRyUnNITVRl?oc=5",
-      "source": "Google News:BHP",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "DNOW",
-      "short": "DNOW — 業績／指引：DNOW stock reports Q2 revenue of USD 1.31 billion - ad-hoc-news.de",
-      "detail": "DNOW\n重點：業績／指引\n標題：DNOW stock reports Q2 revenue of USD 1.31 billion - ad-hoc-news.de\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOYlNJZmt5dHBuNUhaV1VzbEsxUGdPSEFhdnBjeHdWY0NzU2VKdHE0YWdpcm1waTZtbTRSbHRvVlNuUWhkcHdSR1dLaTBOd1pzdWFvUEt5b05FdHI0bjBDTGs2Wmp4d0V3ZmdDbEcyaHdiRTctSXhsb05MUDduMnY1QkdlNW1kSWVYTUhMRzJzRXhwNkk2LUlORzhNcUFUT2pUMnU5ck1pSXFBe…\n來源：Google News:DNOW",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYlNJZmt5dHBuNUhaV1VzbEsxUGdPSEFhdnBjeHdWY0NzU2VKdHE0YWdpcm1waTZtbTRSbHRvVlNuUWhkcHdSR1dLaTBOd1pzdWFvUEt5b05FdHI0bjBDTGs2Wmp4d0V3ZmdDbEcyaHdiRTctSXhsb05MUDduMnY1QkdlNW1kSWVYTUhMRzJzRXhwNkk2LUlORzhNcUFUT2pUMnU5ck1pSXFBeWY4?oc=5",
-      "source": "Google News:DNOW",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "EL",
-      "short": "EL — ESTEE LAUDER COMPANIES INC ($EL) CEO 2026 Pay Revealed - Quiver Quantitative",
-      "detail": "EL\n重點：新聞\n標題：ESTEE LAUDER COMPANIES INC ($EL) CEO 2026 Pay Revealed - Quiver Quantitative\n摘要：<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNWi1QblJaS1NxTVJVal9HaDZuNTBmWWVuWmh3dVJLZWlLQlFzeTRXY2NtU2p1SkZJbTB4TjFGdXg0RHBpYkNoRTNlRzluUExkTzMxdHRLNXYycTAxUjdhM1FvLXBWYklGSTMzc0dKQllDX1dIcS1jaGJMc3VCby12d2dQeXBhNkRVYmRDUm5WNnRRR19zUGFJbA?oc=5\" target=\"_blank\">…\n來源：Google News:EL",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWi1QblJaS1NxTVJVal9HaDZuNTBmWWVuWmh3dVJLZWlLQlFzeTRXY2NtU2p1SkZJbTB4TjFGdXg0RHBpYkNoRTNlRzluUExkTzMxdHRLNXYycTAxUjdhM1FvLXBWYklGSTMzc0dKQllDX1dIcS1jaGJMc3VCby12d2dQeXBhNkRVYmRDUm5WNnRRR19zUGFJbA?oc=5",
-      "source": "Google News:EL",
+      "symbol": "GEN",
+      "short": "GEN — 業績／指引：Gen Digital (GEN) Soars 5.6%: Is Further Upside Left in the Stock?",
+      "detail": "GEN\n重點：業績／指引\n標題：Gen Digital (GEN) Soars 5.6%: Is Further Upside Left in the Stock?\n摘要：Gen Digital (GEN) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions may not translate into further price increase in the near term.\n來源：Yahoo Finance:GEN",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gen-digital-gen-soars-5-080500576.html?.tsrc=rss",
+      "source": "Yahoo Finance:GEN",
       "kind": "news"
     }
   ]
