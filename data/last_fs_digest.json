@@ -1,11 +1,38 @@
 {
-  "title": "FS新聞 10-01 11:22",
-  "list_name": "FirstScreen_2026-10-01_112101_comma.txt",
-  "created_at": "2026-10-01T11:22:29.028900+00:00",
+  "title": "FS新聞 10-01 16:56",
+  "list_name": "FirstScreen_2026-10-01_165646_comma.txt",
+  "created_at": "2026-10-01T16:56:56.295499+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "MDT",
+      "short": "MDT — 業績／指引：Why Is Medtronic (MDT) Down 6.4% Since Last Earnings Report?",
+      "detail": "MDT\n重點：業績／指引\n標題：Why Is Medtronic (MDT) Down 6.4% Since Last Earnings Report?\n摘要：Medtronic (MDT) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.\n來源：Yahoo Finance:MDT\n其他：History Says Johnson & Johnson Beats Medtronic. Here's Why …",
+      "url": "https://finance.yahoo.com/healthcare/articles/why-medtronic-mdt-down-6-143004319.html?.tsrc=rss",
+      "source": "Yahoo Finance:MDT",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "AEO",
+      "short": "AEO — American Eagle Outfitters: Brand Slowdown Is Evident (Downgrade) (NYSE:AEO) - Seeking A…",
+      "detail": "AEO\n重點：新聞\n標題：American Eagle Outfitters: Brand Slowdown Is Evident (Downgrade) (NYSE:AEO) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPUnNPNFVXY0c4TTNHZzhMN1R1Mng4WWxvTzJURWpyakIzVjVEbWVRLXNZVGlnUnNTSUZvb2hzQWJnTDZfWE1vdWI3MS1YclJwVWtjVUlyaVNyYWxXVU5nTmdxbW1UdnR3NjJTNzMzeUJzNUtYSjQxY3llYm1qaTc0aUh1S3hUQzBJU3IzNC0wb1dhTkk?oc=5\" target=\"_blank\">America…\n來源：Google News:AEO",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUnNPNFVXY0c4TTNHZzhMN1R1Mng4WWxvTzJURWpyakIzVjVEbWVRLXNZVGlnUnNTSUZvb2hzQWJnTDZfWE1vdWI3MS1YclJwVWtjVUlyaVNyYWxXVU5nTmdxbW1UdnR3NjJTNzMzeUJzNUtYSjQxY3llYm1qaTc0aUh1S3hUQzBJU3IzNC0wb1dhTkk?oc=5",
+      "source": "Google News:AEO",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "BKNG",
+      "short": "BKNG — 業績／指引：Why Booking Holdings (BKNG) is Poised to Beat Earnings Estimates Again",
+      "detail": "BKNG\n重點：業績／指引\n標題：Why Booking Holdings (BKNG) is Poised to Beat Earnings Estimates Again\n摘要：Booking Holdings (BKNG) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.\n來源：Yahoo Finance:BKNG",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-booking-holdings-bkng-poised-151005804.html?.tsrc=rss",
+      "source": "Yahoo Finance:BKNG",
+      "kind": "news"
+    },
+    {
+      "n": 4,
       "symbol": "EC",
       "short": "EC — Ecopetrol Advances Its Transformation with Changes to Its Senior Management Team",
       "detail": "EC\n重點：新聞\n標題：Ecopetrol Advances Its Transformation with Changes to Its Senior Management Team\n摘要：Ecopetrol S.A. (BVC: ECOPETROL; NYSE: EC) (the \"Company\" or \"Ecopetrol\") announced today that its Board of Directors, at a meeting held on September 30, 2026, approved the appointment of three new members of senior management, as part of the Company's ongoing strategy to strengt…\n來源：Yahoo Finance:EC",
@@ -14,12 +41,75 @@
       "kind": "news"
     },
     {
-      "n": 2,
-      "symbol": "GEN",
-      "short": "GEN — 業績／指引：Gen Digital (GEN) Soars 5.6%: Is Further Upside Left in the Stock?",
-      "detail": "GEN\n重點：業績／指引\n標題：Gen Digital (GEN) Soars 5.6%: Is Further Upside Left in the Stock?\n摘要：Gen Digital (GEN) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions may not translate into further price increase in the near term.\n來源：Yahoo Finance:GEN",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gen-digital-gen-soars-5-080500576.html?.tsrc=rss",
-      "source": "Yahoo Finance:GEN",
+      "n": 5,
+      "symbol": "FTNT",
+      "short": "FTNT — AI相關：Fortinet Launches P.A.U.S.E., a Free National Campaign Helping Canadians Stop and Think…",
+      "detail": "FTNT\n重點：AI相關\n標題：Fortinet Launches P.A.U.S.E., a Free National Campaign Helping Canadians Stop and Think Before AI-Driven Scams Succeed\n摘要：Fortinet (NASDAQ: FTNT), the global cybersecurity leader driving the convergence of networking and security, today launched P.A.U.S.E. and Fortify Your Online Defence, a free national cyber safety campaign for Cybersecurity Awareness Month. The campaign turns today's most common…\n來源：Yahoo Finance:FTNT",
+      "url": "https://finance.yahoo.com/technology/ai/articles/fortinet-launches-p-u-e-130200800.html?.tsrc=rss",
+      "source": "Yahoo Finance:FTNT",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "LW",
+      "short": "LW — 業績／指引：After Plunging 20.5% in 4 Weeks, Here's Why the Trend Might Reverse for Lamb Weston (LW)",
+      "detail": "LW\n重點：業績／指引\n標題：After Plunging 20.5% in 4 Weeks, Here's Why the Trend Might Reverse for Lamb Weston (LW)\n摘要：The heavy selling pressure might have exhausted for Lamb Weston (LW) as it is technically in oversold territory now. In addition to this technical measure, strong agreement among Wall Street analysts in revising earnings estimates higher indicates that the stock is ripe for a tr…\n來源：Yahoo Finance:LW",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/plunging-20-5-4-weeks-123502035.html?.tsrc=rss",
+      "source": "Yahoo Finance:LW",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "MRK",
+      "short": "MRK — 併購／交易：JNJ or MRK: One Dividend Is Built to Last, One Faces a Reckoning",
+      "detail": "MRK\n重點：併購／交易\n標題：JNJ or MRK: One Dividend Is Built to Last, One Faces a Reckoning\n摘要：Both JNJ and MRK have surged in 2026, but a looming patent cliff and a balance sheet loaded with acquisition debt mean one of these pharma dividends faces a reckoning that retirement investors cannot afford to ignore.\n來源：Yahoo Finance:MRK",
+      "url": "https://247wallst.com/investing/2026/10/01/jnj-or-mrk-one-dividend-is-built-to-last-one-faces-a-reckoning/?.tsrc=rss",
+      "source": "Yahoo Finance:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "NVCR",
+      "short": "NVCR — Novocure’s Optune Pax® Receives Approval in Japan for the Treatment of Unresectable Loc…",
+      "detail": "NVCR\n重點：新聞\n標題：Novocure’s Optune Pax® Receives Approval in Japan for the Treatment of Unresectable Locally Advanced Pancreatic Cancer\n摘要：BAAR, Switzerland, October 01, 2026--Novocure (Nasdaq: NVCR) announced today that Japan’s Ministry of Health, Labour and Welfare (MHLW) approved Optune Pax® for the treatment of adult patients diagnosed with unresectable locally advanced pancreatic cancer, concomitant with gemci…\n來源：Yahoo Finance:NVCR",
+      "url": "https://finance.yahoo.com/healthcare/articles/novocure-optune-pax-receives-approval-130000968.html?.tsrc=rss",
+      "source": "Yahoo Finance:NVCR",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "NWS",
+      "short": "NWS — 業績／指引：NWS Holdings reports fiscal 2026 profit growth for NWS stock - AD HOC NEWS",
+      "detail": "NWS\n重點：業績／指引\n標題：NWS Holdings reports fiscal 2026 profit growth for NWS stock - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVdrY1lBUUREeWtOMklTUG1qUFRoZ0d3eDMyVmtJbUVCdFFWbE85c0lqVnpDbFZhVWlBcGJ4QUpUaDVqTkN3WUhabmtyemlIOS1uVUViWUpsY29qTXY2LWN2N1gwSlZUZ19iWUYyWnI4Zk1UNjYyS0h0OG5JZUM5eklmT1MtcG9Ra2t3MlczVUhoQWJIaW14VDBUSFVMQ19ZUE9JR3YtTFZ3S…\n來源：Google News:NWS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVdrY1lBUUREeWtOMklTUG1qUFRoZ0d3eDMyVmtJbUVCdFFWbE85c0lqVnpDbFZhVWlBcGJ4QUpUaDVqTkN3WUhabmtyemlIOS1uVUViWUpsY29qTXY2LWN2N1gwSlZUZ19iWUYyWnI4Zk1UNjYyS0h0OG5JZUM5eklmT1MtcG9Ra2t3MlczVUhoQWJIaW14VDBUSFVMQ19ZUE9JR3YtTFZ3SzJ2T25QN0tzelRGeDM3a1FV?oc=5",
+      "source": "Google News:NWS",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "OKTA",
+      "short": "OKTA — Okta (NASDAQ:OKTA) Hits New 1-Year High - Should You Buy? - MarketBeat",
+      "detail": "OKTA\n重點：新聞\n標題：Okta (NASDAQ:OKTA) Hits New 1-Year High - Should You Buy? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWJGMU0xWEV4VEh0emVrMVNpbEQ4dE02NkZmY0JfOTdRUjQzNkMyVlcyMTlYY3luMzdIQ3hCa3JxYnRYSjlFMklObzNLRnJBS2NjSm90NzhyYUFDLU0tWWxOY0didlNwUGphWTBuQ05pWUZEZkQwcG9SNmNqM2oyb0Nad1lLMVlBZTNNQmlWcXVSLWFNcjZYMHBiMjAxcUhKYndySTdfSy1SR…\n來源：Google News:OKTA",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWJGMU0xWEV4VEh0emVrMVNpbEQ4dE02NkZmY0JfOTdRUjQzNkMyVlcyMTlYY3luMzdIQ3hCa3JxYnRYSjlFMklObzNLRnJBS2NjSm90NzhyYUFDLU0tWWxOY0didlNwUGphWTBuQ05pWUZEZkQwcG9SNmNqM2oyb0Nad1lLMVlBZTNNQmlWcXVSLWFNcjZYMHBiMjAxcUhKYndySTdfSy1SR1RWNVdSdjBB?oc=5",
+      "source": "Google News:OKTA",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "ROKU",
+      "short": "ROKU — OpenX Appoints John Rogers as SVP of Global Publisher Development",
+      "detail": "ROKU\n重點：新聞\n標題：OpenX Appoints John Rogers as SVP of Global Publisher Development\n摘要：NEW YORK, October 01, 2026--OpenX, The Intelligent SSPTM, today announced the appointment of John Rogers as Senior Vice President, Global Publisher Development. Rogers joins from Roku, where he most recently served as Director of Global Programmatic Partnerships, bringing more t…\n來源：Yahoo Finance:ROKU",
+      "url": "https://finance.yahoo.com/media-advertising/articles/openx-appoints-john-rogers-svp-120500228.html?.tsrc=rss",
+      "source": "Yahoo Finance:ROKU",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "SLB",
+      "short": "SLB — SLB OneSubsea Secures Rovuma Basin Subsea Production Systems Deal",
+      "detail": "SLB\n重點：新聞\n標題：SLB OneSubsea Secures Rovuma Basin Subsea Production Systems Deal\n摘要：SLB's OneSubsea wins a major Rovuma LNG contract, expanding its deepwater portfolio and Mozambique footprint while opening new regional opportunities.\n來源：Yahoo Finance:SLB",
+      "url": "https://finance.yahoo.com/energy/articles/slb-onesubsea-secures-rovuma-basin-120700909.html?.tsrc=rss",
+      "source": "Yahoo Finance:SLB",
       "kind": "news"
     }
   ]
