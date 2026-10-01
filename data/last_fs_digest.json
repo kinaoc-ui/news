@@ -1,115 +1,61 @@
 {
-  "title": "FS新聞 09-30 16:19",
-  "list_name": "FirstScreen_2026-09-30_161945_comma.txt",
-  "created_at": "2026-09-30T16:19:55.553732+00:00",
+  "title": "FS新聞 10-01 06:12",
+  "list_name": "FirstScreen_2026-10-01_061213_comma.txt",
+  "created_at": "2026-10-01T06:12:23.785078+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "NESR",
-      "short": "NESR — National Energy Services Reunited (NASDAQ:NESR) Stock Rated \"Overweight\" in New Coverag…",
-      "detail": "NESR\n重點：新聞\n標題：National Energy Services Reunited (NASDAQ:NESR) Stock Rated \"Overweight\" in New Coverage at Capital One Financial - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQOFQ3TDI5LVVvLVgwZFc0SV9XZGptSFU0OGk4TG82M01KOGVGMnVMTWxsUFdPT1kwMlNId1ZFVXFJOXptNUNQQzJIMm94Ynktc1pVblMwc1JfZjA2QUt5MWtYcG9KQkptZFJzeDBHUmIwUmM1WnRZdlpkN3pPRFhyUnJaNkstRzg5TzBVb05IMjI4MDZQb3R0eWNWMjdTYjdBTGRhU3RYRzNtM…\n來源：Google News:NESR\n其他：Here's Why National Energy Services Reunited (NESR) is Pois…; Is NESR a Buy as Rapid Growth Collides With a Much Richer V…",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQOFQ3TDI5LVVvLVgwZFc0SV9XZGptSFU0OGk4TG82M01KOGVGMnVMTWxsUFdPT1kwMlNId1ZFVXFJOXptNUNQQzJIMm94Ynktc1pVblMwc1JfZjA2QUt5MWtYcG9KQkptZFJzeDBHUmIwUmM1WnRZdlpkN3pPRFhyUnJaNkstRzg5TzBVb05IMjI4MDZQb3R0eWNWMjdTYjdBTGRhU3RYRzNtMTNkckZ1ZWNFX2xtWThHTUtCdU9XMnlWeWc4dGp1bGVNbmpOcHNxUXpXZEp3QTNPb284M3JNOFotZkN6RFBpVFp1N2hPV2paWUdseXZpU1hRX3NsM1RW?oc=5",
-      "source": "Google News:NESR",
+      "symbol": "A",
+      "short": "A — How to Spot a Stock Market Bubble Before It Bursts - The Acquirer's Multiple",
+      "detail": "A\n重點：新聞\n標題：How to Spot a Stock Market Bubble Before It Bursts - The Acquirer's Multiple\n摘要：<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNX3FSNG41T19rRjdDajh3MGtPNU5iMUR3RlZFUHVneTQtUVlvTy1TWm1TTW9tcE5nMW5PWmtUVVItaXpEMmozWGp3WC1KQ2xXSTFNRVZsVGgyOVlkbWV3b01ZZW5UQzMtdmhVVlBFOUV6OVVRU3ZwNXhEZ1B1ZGZQQ2kwektSRWhLOU01UDZSSUpLanM?oc=5\" target=\"_blank\">How to …\n來源：Google News:A",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX3FSNG41T19rRjdDajh3MGtPNU5iMUR3RlZFUHVneTQtUVlvTy1TWm1TTW9tcE5nMW5PWmtUVVItaXpEMmozWGp3WC1KQ2xXSTFNRVZsVGgyOVlkbWV3b01ZZW5UQzMtdmhVVlBFOUV6OVVRU3ZwNXhEZ1B1ZGZQQ2kwektSRWhLOU01UDZSSUpLanM?oc=5",
+      "source": "Google News:A",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "PYPL",
-      "short": "PYPL — 併購／交易：PayPal Could Still Get Acquired. How to Play PYPL Stock Amid New Takeover Rumors. - bar…",
-      "detail": "PYPL\n重點：併購／交易\n標題：PayPal Could Still Get Acquired. How to Play PYPL Stock Amid New Takeover Rumors. - barchart.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUUlqVWRNLWRENTdaeUtjWmRNUWUyLVRyR0xSR3h6MGJnNERFWlVjQlE0dkdzQ3NJUFF2MEhSLWd6VTVjRVhTTHRRbXR1S25xNURjZ2t5WldUQ09sel9CeE9HelhWQUJGM1dleGxsZ256dURscVJFUlJhbU5JeGJtVEZVM2RUYmVWaXA5SU5nSzloZDQ5b3ItQTJnOEJIcV9LSnpMa2R2ZG5yd…\n來源：Google News:PYPL\n其他：PayPal (PYPL) Stock Looks Reasonable Based On Current Earni…; PayPal (PYPL) Stock Looks Reasonable Based On Current Earni…",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUUlqVWRNLWRENTdaeUtjWmRNUWUyLVRyR0xSR3h6MGJnNERFWlVjQlE0dkdzQ3NJUFF2MEhSLWd6VTVjRVhTTHRRbXR1S25xNURjZ2t5WldUQ09sel9CeE9HelhWQUJGM1dleGxsZ256dURscVJFUlJhbU5JeGJtVEZVM2RUYmVWaXA5SU5nSzloZDQ5b3ItQTJnOEJIcV9LSnpMa2R2ZG5yd0tXb2Q3ODc2a0pSdmtxZHNaWTFhaTU?oc=5",
-      "source": "Google News:PYPL",
+      "symbol": "ALSN",
+      "short": "ALSN — Allison Transmission Holdings, (ALSN) Stock Forecasts - Yahoo Finance",
+      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission Holdings, (ALSN) Stock Forecasts - Yahoo Finance\n摘要：<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEtHTnNzSzEtS2hXTmg3RWo5STBHcjc4LUxCN0NhZ3ZMRkk5ZjhDWHdUMDNZT3VTMjZlTUllWXVxNTNveW9rdjBEM0R5Q2tqUDVQVzNneUNoOHFoTHY2N0pYNlVRLVY2YlZRYWhmd2ZOOW16TWNuQmRsLVNneDNULVktbGNtSzV6VzB3Q3hvYw?oc=5\" target=\"_blank\">Allison Tran…\n來源：Google News:ALSN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEtHTnNzSzEtS2hXTmg3RWo5STBHcjc4LUxCN0NhZ3ZMRkk5ZjhDWHdUMDNZT3VTMjZlTUllWXVxNTNveW9rdjBEM0R5Q2tqUDVQVzNneUNoOHFoTHY2N0pYNlVRLVY2YlZRYWhmd2ZOOW16TWNuQmRsLVNneDNULVktbGNtSzV6VzB3Q3hvYw?oc=5",
+      "source": "Google News:ALSN",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "CRM",
-      "short": "CRM — AI相關、併購／交易：Salesforce up 3.2% after announcing Listen Labs acquisition",
-      "detail": "CRM\n重點：AI相關、併購／交易\n標題：Salesforce up 3.2% after announcing Listen Labs acquisition\n摘要：Shares of Salesforce Inc (NYSE:CRM, XETRA:FOO) were up 3.2% on Wednesday after the company signed a definitive agreement to acquire Listen Labs, an AI-powered customer research and human simulation platform. Listen Labs' AI agents design studies, conduct in-depth research and sy…\n來源：Yahoo Finance:CRM\n其他：Salesforce (CRM) Shares Declined Despite a Durable Enterpri…",
-      "url": "https://www.proactiveinvestors.com/companies/news/1099393/salesforce-up-3-2-after-announcing-listen-labs-acquisition-1099393.html?.tsrc=rss",
-      "source": "Yahoo Finance:CRM",
+      "symbol": "ANET",
+      "short": "ANET — Arista Networks (ANET) Lifted Its Outlook, Is The Upside Already Priced In? - simplywal…",
+      "detail": "ANET\n重點：新聞\n標題：Arista Networks (ANET) Lifted Its Outlook, Is The Upside Already Priced In? - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDEteW5BRXlIWGxibjlvQUF0aTJtRkliX2p6SlFIRkhrZ1lFWTBqemtub3EzM1NvbU9JMTNZcWxVeHJVa3FjeVFfSVpZVWlFQVM2S0FHUm42M2NnRUZMSmRScWpHYnlSbk5BVnpST0ZrU3JZSldQSmZqdV9XT0xVd1gwWXVNbFNhcV9JNUstZXBneHNUVjZuMEx5OHlJX3FrU0lVdUZWSXRlY…\n來源：Google News:ANET",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDEteW5BRXlIWGxibjlvQUF0aTJtRkliX2p6SlFIRkhrZ1lFWTBqemtub3EzM1NvbU9JMTNZcWxVeHJVa3FjeVFfSVpZVWlFQVM2S0FHUm42M2NnRUZMSmRScWpHYnlSbk5BVnpST0ZrU3JZSldQSmZqdV9XT0xVd1gwWXVNbFNhcV9JNUstZXBneHNUVjZuMEx5OHlJX3FrU0lVdUZWSXRlYWhGeFN5Mi1rcHZ0akxiZ1dFQTRJN1RKQnczdUNn0gHMAUFVX3lxTE5BdnBsQk9WVmhJSElxM1YxMlJRNmlENVdsdUZablVLZXZDUnA4ODlDZXpoSW85ZHM1bUhvNDJmalFHMzg3a0JXY1F5aldGaURleG9mQnNlQUVYWS1Pbk4tWWNOckEyem15dUFma3d1TVJCNjd0N09IQTUyN0dlaWR6ck5LQ0I1S3JsOGcxN1IzQXI2SDRfeDl0NTZNVE9pRXZTQlpCbWpaeXV2U3E0ekZsa1BQX09zenBMaWhxREdVcVVFT1gydkkta3dkVQ?oc=5",
+      "source": "Google News:ANET",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "BTG",
-      "short": "BTG — B2Gold Targets Goose Ramp-Up, Fekola Growth and Higher Shareholder Returns",
-      "detail": "BTG\n重點：新聞\n標題：B2Gold Targets Goose Ramp-Up, Fekola Growth and Higher Shareholder Returns\n摘要：B2Gold (NYSEAMERICAN:BTG) President and CEO Mike Cinnamond outlined the gold miner’s operating priorities, project updates and capital-allocation plans during a conference discussion, emphasizing execution at the Goose project, progress at the Fekola complex and potential growth…\n來源：Yahoo Finance:BTG",
-      "url": "https://www.marketbeat.com/instant-alerts/event-b2gold-targets-goose-ramp-up-fekola-growth-and-higher-shareholder-returns-2026-09-30/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "Yahoo Finance:BTG",
+      "symbol": "BHP",
+      "short": "BHP — 業績／指引：BHP stock reports 15 percent revenue growth in fiscal 2026 - ad-hoc-news.de",
+      "detail": "BHP\n重點：業績／指引\n標題：BHP stock reports 15 percent revenue growth in fiscal 2026 - ad-hoc-news.de\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX05BaUg3S2JsUTVXTDQwZE5qTVNLeUFGZnVIRE5rUlFxQVRqUmtZb2dpcWZDb2dURy1aT0FucTFEOWx2S0RSb2p2Z0VQdjFITmNkRGhxTDBfVE01eUplalJxeWZ5dFpuZG1VU0d1alZUUnQzMGpyNTc4d0daeDk4bHBtaWV5MmtVNUthX3hzREsxeWdCZGNsU3BMVkwyVDA5ZHVXVFV4cGZOa…\n來源：Google News:BHP",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX05BaUg3S2JsUTVXTDQwZE5qTVNLeUFGZnVIRE5rUlFxQVRqUmtZb2dpcWZDb2dURy1aT0FucTFEOWx2S0RSb2p2Z0VQdjFITmNkRGhxTDBfVE01eUplalJxeWZ5dFpuZG1VU0d1alZUUnQzMGpyNTc4d0daeDk4bHBtaWV5MmtVNUthX3hzREsxeWdCZGNsU3BMVkwyVDA5ZHVXVFV4cGZOa0ozVnU4dlRyUnNITVRl?oc=5",
+      "source": "Google News:BHP",
       "kind": "news"
     },
     {
       "n": 5,
-      "symbol": "COF",
-      "short": "COF — Citigroup Issues Pessimistic Forecast for Capital One Financial (NYSE:COF) Stock Price …",
-      "detail": "COF\n重點：新聞\n標題：Citigroup Issues Pessimistic Forecast for Capital One Financial (NYSE:COF) Stock Price - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ0VXcFp1TUN6REl3Q0RxcWhmamlXUHRNY09QREJMQkMydUszdlQ4RFRtd0dib1RMTUV5V19QNTdCVHhXV2hIaF85NDFnUGFvS3hMMzhZd21McFFQRVdqVHVSbEFJajhldm05YUM1NlNNYVpBVXdkV3dyS1ltU2dqUHRYVnYyaXVxN3ZUbGxyTnNrb3BwUHhkcmhlWXdHblJqWmdsLUpHeFpNZ…\n來源：Google News:COF",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ0VXcFp1TUN6REl3Q0RxcWhmamlXUHRNY09QREJMQkMydUszdlQ4RFRtd0dib1RMTUV5V19QNTdCVHhXV2hIaF85NDFnUGFvS3hMMzhZd21McFFQRVdqVHVSbEFJajhldm05YUM1NlNNYVpBVXdkV3dyS1ltU2dqUHRYVnYyaXVxN3ZUbGxyTnNrb3BwUHhkcmhlWXdHblJqWmdsLUpHeFpNZHBXYl9STEZ5TEVsdHNyTU9MbXFKRjRUQzdPemtTblVqV0ZLT2EzbVRnQl94Z1J6X0p5ZWZz?oc=5",
-      "source": "Google News:COF",
+      "symbol": "DNOW",
+      "short": "DNOW — 業績／指引：DNOW stock reports Q2 revenue of USD 1.31 billion - ad-hoc-news.de",
+      "detail": "DNOW\n重點：業績／指引\n標題：DNOW stock reports Q2 revenue of USD 1.31 billion - ad-hoc-news.de\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOYlNJZmt5dHBuNUhaV1VzbEsxUGdPSEFhdnBjeHdWY0NzU2VKdHE0YWdpcm1waTZtbTRSbHRvVlNuUWhkcHdSR1dLaTBOd1pzdWFvUEt5b05FdHI0bjBDTGs2Wmp4d0V3ZmdDbEcyaHdiRTctSXhsb05MUDduMnY1QkdlNW1kSWVYTUhMRzJzRXhwNkk2LUlORzhNcUFUT2pUMnU5ck1pSXFBe…\n來源：Google News:DNOW",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYlNJZmt5dHBuNUhaV1VzbEsxUGdPSEFhdnBjeHdWY0NzU2VKdHE0YWdpcm1waTZtbTRSbHRvVlNuUWhkcHdSR1dLaTBOd1pzdWFvUEt5b05FdHI0bjBDTGs2Wmp4d0V3ZmdDbEcyaHdiRTctSXhsb05MUDduMnY1QkdlNW1kSWVYTUhMRzJzRXhwNkk2LUlORzhNcUFUT2pUMnU5ck1pSXFBeWY4?oc=5",
+      "source": "Google News:DNOW",
       "kind": "news"
     },
     {
       "n": 6,
-      "symbol": "EC",
-      "short": "EC — Ecopetrol S.A. (NYSE:EC) Receives Average Recommendation of \"Reduce\" from Brokerages - …",
-      "detail": "EC\n重點：新聞\n標題：Ecopetrol S.A. (NYSE:EC) Receives Average Recommendation of \"Reduce\" from Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOajgyWGItWllLQno1TnBod0VPbFBpeVlHVmNmVzNnWnkyQWZSRTNEd3g5NFVZRXlmbWhpc3YyTEN4WlgyZXQwc1J1SENxeklzZTJYNmRNSnBEa2t2RVBURFJEOXhyYVRlSUJ0Qy1sTTBtQVh2ajY5S3lnb3NlekI0UEpFdXdSRE0xNC05dHFuMDhuZjViVFpIZFJHNnkzSUVzWjhGb29saVdxb…\n來源：Google News:EC",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOajgyWGItWllLQno1TnBod0VPbFBpeVlHVmNmVzNnWnkyQWZSRTNEd3g5NFVZRXlmbWhpc3YyTEN4WlgyZXQwc1J1SENxeklzZTJYNmRNSnBEa2t2RVBURFJEOXhyYVRlSUJ0Qy1sTTBtQVh2ajY5S3lnb3NlekI0UEpFdXdSRE0xNC05dHFuMDhuZjViVFpIZFJHNnkzSUVzWjhGb29saVdxbE9JR3ZBdWpaYW15dUFEcDhxQ2F4dklmemY4Rk1KNEFFSnpqZ3JxekoyQ0kwQWszUQ?oc=5",
-      "source": "Google News:EC",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "GAP",
-      "short": "GAP — Boy Band Partnership Might Change The Case For Investing In Gap (GAP) - simplywall.st",
-      "detail": "GAP\n重點：新聞\n標題：Boy Band Partnership Might Change The Case For Investing In Gap (GAP) - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNczJrc1czVks0dWROWVVUeS1kd21wMFphbjUyNmUtOXprOUVTVjJHLV83RlpRWG9DSHlTT2FEay12Wmh0WVdrNXhmdVZUQnhOaTRXekI0T2c3VDdWTU1hY1U4ZExFQlcwSG8tTHpGUUpKdFZjTS1TM1lhcm5XUmpKREtYWUduZXdwaHI1TlpvSWpoZExuMmZyMktwOVEwRTNIV2UyTU9NSmhTa…\n來源：Google News:GAP",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNczJrc1czVks0dWROWVVUeS1kd21wMFphbjUyNmUtOXprOUVTVjJHLV83RlpRWG9DSHlTT2FEay12Wmh0WVdrNXhmdVZUQnhOaTRXekI0T2c3VDdWTU1hY1U4ZExFQlcwSG8tTHpGUUpKdFZjTS1TM1lhcm5XUmpKREtYWUduZXdwaHI1TlpvSWpoZExuMmZyMktwOVEwRTNIV2UyTU9NSmhTaDVGR2dpeXRhdVlqYkXSAbwBQVVfeXFMTThJbkFOVHh2NGlPODNGT0RXc2xSOEdaZ2hZc0UtX3l2RGxLVVpQbjdBQUhSVnRfTmtmcnBIdUR6RGlZaTlONjY2bHdQMjloTUgybS1ReGgwWGM1WkF1X3hORHpVME5yMzZka01hbWNLTzl0dzRhNTV0RHdMRlBpaGQ2TXR5a0dXQXc3Q1VFT0ZscExremtzdUtlaWxxX1MtdFlEUjI5UlhPSS1lY1hJNFlBaFAzYVlpd1A5REw?oc=5",
-      "source": "Google News:GAP",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "GEN",
-      "short": "GEN — Gen Digital (NASDAQ:GEN) Shares Climb 5.5% - Here's Why - MarketBeat",
-      "detail": "GEN\n重點：新聞\n標題：Gen Digital (NASDAQ:GEN) Shares Climb 5.5% - Here's Why - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmdacXNJai1wU3NUa1VWYThhaXJZankzdm1IN0FMcElpXzUwcWo4WG43bWRzN19XcHk0ZEY0MWVBZUtKakJhUGR0N1hVRWdWajlfblNwU0c5cHFfYkx2MG5RVERueXRVYWtBMW1BV054a2lic1pRd0NRb0hlQW5OR09BZG95bFdaczRCcFFGcmhhZVZMVHFDSjF4QWpNYkcwVmE2bjFvVUxvZ…\n來源：Google News:GEN",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmdacXNJai1wU3NUa1VWYThhaXJZankzdm1IN0FMcElpXzUwcWo4WG43bWRzN19XcHk0ZEY0MWVBZUtKakJhUGR0N1hVRWdWajlfblNwU0c5cHFfYkx2MG5RVERueXRVYWtBMW1BV054a2lic1pRd0NRb0hlQW5OR09BZG95bFdaczRCcFFGcmhhZVZMVHFDSjF4QWpNYkcwVmE2bjFvVUxvZ0VS?oc=5",
-      "source": "Google News:GEN",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "INTU",
-      "short": "INTU — AI相關：Intuit (INTU) Expands IDEAS Accelerator With LA28 Olympics Cohort",
-      "detail": "INTU\n重點：AI相關\n標題：Intuit (INTU) Expands IDEAS Accelerator With LA28 Olympics Cohort\n摘要：Intuit (NasdaqGS:INTU) expanded its AI-powered IDEAS accelerator with a new LA28 Olympics cohort focused on small business procurement opportunities. The LA28 cohort aims to help local and veteran-owned businesses pursue supplier and contractor roles tied to the 2028 Olympic and…\n來源：Yahoo Finance:INTU",
-      "url": "https://finance.yahoo.com/small-business/articles/intuit-intu-expands-ideas-accelerator-101108053.html?.tsrc=rss",
-      "source": "Yahoo Finance:INTU",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "LNG",
-      "short": "LNG — Cheniere Energy's Petrobras LNG Deal Supports Long-Term Growth",
-      "detail": "LNG\n重點：新聞\n標題：Cheniere Energy's Petrobras LNG Deal Supports Long-Term Growth\n摘要：Cheniere Energy expands its LNG portfolio with a 22-year Petrobras deal, adding contracted volumes and supporting brownfield capacity growth.\n來源：Yahoo Finance:LNG",
-      "url": "https://finance.yahoo.com/energy/articles/cheniere-energys-petrobras-lng-deal-122600581.html?.tsrc=rss",
-      "source": "Yahoo Finance:LNG",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "MDT",
-      "short": "MDT — Medtronic announces regulatory milestones for newest cardiac mapping and ablation softw…",
-      "detail": "MDT\n重點：新聞\n標題：Medtronic announces regulatory milestones for newest cardiac mapping and ablation software\n摘要：Medtronic (NYSE: MDT), a global leader in healthcare technology, today announced regulatory milestones for software used with two cardiac ablation platforms. This includes U.S. Food and Drug Administration (FDA) clearance and CE Mark for the latest Affera™ Prism-2 Mapping Softwa…\n來源：Yahoo Finance:MDT",
-      "url": "https://finance.yahoo.com/healthcare/articles/medtronic-announces-regulatory-milestones-newest-130000011.html?.tsrc=rss",
-      "source": "Yahoo Finance:MDT",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "NOG",
-      "short": "NOG — AI相關：Gas Price Decline and Hedging Losses Pressure Northern Oil and Gas (NOG)",
-      "detail": "NOG\n重點：AI相關\n標題：Gas Price Decline and Hedging Losses Pressure Northern Oil and Gas (NOG)\n摘要：American Century Investments, an investment management company, released its second-quarter 2026 investor letter for the “American Century Investments Small Cap Value Fund.” The letter can be downloaded here. U.S. equities posted strong gains during the second quarter of 2026, w…\n來源：Yahoo Finance:NOG",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gas-price-decline-hedging-losses-132545535.html?.tsrc=rss",
-      "source": "Yahoo Finance:NOG",
+      "symbol": "EL",
+      "short": "EL — ESTEE LAUDER COMPANIES INC ($EL) CEO 2026 Pay Revealed - Quiver Quantitative",
+      "detail": "EL\n重點：新聞\n標題：ESTEE LAUDER COMPANIES INC ($EL) CEO 2026 Pay Revealed - Quiver Quantitative\n摘要：<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNWi1QblJaS1NxTVJVal9HaDZuNTBmWWVuWmh3dVJLZWlLQlFzeTRXY2NtU2p1SkZJbTB4TjFGdXg0RHBpYkNoRTNlRzluUExkTzMxdHRLNXYycTAxUjdhM1FvLXBWYklGSTMzc0dKQllDX1dIcS1jaGJMc3VCby12d2dQeXBhNkRVYmRDUm5WNnRRR19zUGFJbA?oc=5\" target=\"_blank\">…\n來源：Google News:EL",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWi1QblJaS1NxTVJVal9HaDZuNTBmWWVuWmh3dVJLZWlLQlFzeTRXY2NtU2p1SkZJbTB4TjFGdXg0RHBpYkNoRTNlRzluUExkTzMxdHRLNXYycTAxUjdhM1FvLXBWYklGSTMzc0dKQllDX1dIcS1jaGJMc3VCby12d2dQeXBhNkRVYmRDUm5WNnRRR19zUGFJbA?oc=5",
+      "source": "Google News:EL",
       "kind": "news"
     }
   ]
