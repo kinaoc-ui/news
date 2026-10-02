@@ -1,20 +1,38 @@
 {
-  "title": "FS新聞 10-02 10:52",
-  "list_name": "FirstScreen_2026-10-02_105218_comma.txt",
-  "created_at": "2026-10-02T10:52:27.704943+00:00",
+  "title": "FS新聞 10-02 16:10",
+  "list_name": "FirstScreen_2026-10-02_160957_comma.txt",
+  "created_at": "2026-10-02T16:10:06.506979+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "BHP",
-      "short": "BHP — BHP Group (NYSE:BHP) Stock Breaks Above 200 Day Moving Average - Should You Sell? - Mar…",
-      "detail": "BHP\n重點：新聞\n標題：BHP Group (NYSE:BHP) Stock Breaks Above 200 Day Moving Average - Should You Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLXp0QU5hYVJlbmNmRDZYb3NCY1hYWk16MlNZUkNGTVJUc0lkOHFZcnBFTUdwUVZWc1RrVUhUTjhUWW1xank1UlZLSy1NbVExc2VXLUttWnRYbkhWVk9yemdUajNHSS10d3J4LXNNMHc1ZWtfMEYwQXluYnRBd2N1ZVNWaDhBSmJHSXhZX3JOeXpoSHMyb1FHRlVRYnlZNGJaZHoxbjB0UFRZT…\n來源：Google News:BHP",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLXp0QU5hYVJlbmNmRDZYb3NCY1hYWk16MlNZUkNGTVJUc0lkOHFZcnBFTUdwUVZWc1RrVUhUTjhUWW1xank1UlZLSy1NbVExc2VXLUttWnRYbkhWVk9yemdUajNHSS10d3J4LXNNMHc1ZWtfMEYwQXluYnRBd2N1ZVNWaDhBSmJHSXhZX3JOeXpoSHMyb1FHRlVRYnlZNGJaZHoxbjB0UFRZTUZCM1NTaEVzNFBzbmVzRVB1UnczZl9CaWpiSXdOUnVWYnN6RHdCeXc?oc=5",
-      "source": "Google News:BHP",
+      "symbol": "OKTA",
+      "short": "OKTA — AI相關：The Zacks Analyst Blog Highlights CrowdStrike, Okta and Palo Alto Networks",
+      "detail": "OKTA\n重點：AI相關\n標題：The Zacks Analyst Blog Highlights CrowdStrike, Okta and Palo Alto Networks\n摘要：CrowdStrike's identity business is gaining as AI agents expand, with Falcon Shield and privileged account security posting sharp ARR growth.\n來源：Yahoo Finance:OKTA\n其他：Okta stock price target maintained at $200 by TD Cowen on A…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-crowdstrike-122700582.html?.tsrc=rss",
+      "source": "Yahoo Finance:OKTA",
       "kind": "news"
     },
     {
       "n": 2,
+      "symbol": "ARCC",
+      "short": "ARCC — 業績／指引：ARES CAPITAL CORPORATION SCHEDULES EARNINGS RELEASE FOR THE THIRD QUARTER ENDED SEPTEMB…",
+      "detail": "ARCC\n重點：業績／指引\n標題：ARES CAPITAL CORPORATION SCHEDULES EARNINGS RELEASE FOR THE THIRD QUARTER ENDED SEPTEMBER 30, 2026\n摘要：Ares Capital Corporation (\"Ares Capital\") (NASDAQ: ARCC) announced today that it will report earnings for the third quarter ended September 30, 2026 on Tuesday, October 27, 2026 prior to the opening of the Nasdaq Global Select Market. Ares Capital invites all interested persons …\n來源：Yahoo Finance:ARCC",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ares-capital-corporation-schedules-earnings-110000414.html?.tsrc=rss",
+      "source": "Yahoo Finance:ARCC",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "BHP",
+      "short": "BHP — BofA upgrades BHP stock to Buy with AUD 68 target - AD HOC NEWS",
+      "detail": "BHP\n重點：新聞\n標題：BofA upgrades BHP stock to Buy with AUD 68 target - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOdVM3ZHVhTnZKY3N5Sk4xemlYTlVHQjYyb3RkaHNudzlRY0tFbll6c0RKd09xLUVvUjBzQVkzTFR2bFVkdy1EOXdOMzljd1piTEFTWWQxVjFRbW5VdGtvMmw1VklTRWdLNHBpNkdZZXE1aTBIcWZVQ0lJd0dsTTZLZG1vbE5RaHBSRmF3NHNRLTVVUGsxYzhCZDNkbG5XeUZRTGMwejZzNS1GR…\n來源：Google News:BHP",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdVM3ZHVhTnZKY3N5Sk4xemlYTlVHQjYyb3RkaHNudzlRY0tFbll6c0RKd09xLUVvUjBzQVkzTFR2bFVkdy1EOXdOMzljd1piTEFTWWQxVjFRbW5VdGtvMmw1VklTRWdLNHBpNkdZZXE1aTBIcWZVQ0lJd0dsTTZLZG1vbE5RaHBSRmF3NHNRLTVVUGsxYzhCZDNkbG5XeUZRTGMwejZzNS1GREpHZ0UybzNn?oc=5",
+      "source": "Google News:BHP",
+      "kind": "news"
+    },
+    {
+      "n": 4,
       "symbol": "CARG",
       "short": "CARG — AI相關：Does VINMax’s AI Inventory Boost Change The Bull Case For CarGurus’ Dealer Model (CARG)?",
       "detail": "CARG\n重點：AI相關\n標題：Does VINMax’s AI Inventory Boost Change The Bull Case For CarGurus’ Dealer Model (CARG)?\n摘要：In late September 2026, CarGurus announced VINMax, an AI-driven addition to its dealer platform that automatically targets and promotes specific vehicle listings using real-time supply and demand data across on-site and off-site channels. Early results show VINMax-boosted vehicl…\n來源：Yahoo Finance:CARG",
@@ -23,66 +41,75 @@
       "kind": "news"
     },
     {
-      "n": 3,
-      "symbol": "ECL",
-      "short": "ECL — 業績／指引：Ecolab (ECL) Is Drawing Fresh Attention, So What Are Investors Weighing?",
-      "detail": "ECL\n重點：業績／指引\n標題：Ecolab (ECL) Is Drawing Fresh Attention, So What Are Investors Weighing?\n摘要：Ecolab (ECL) drew fresh attention after a recent pullback, with the share price closing at US$271.26. Investors are now weighing that valuation against the company’s current earnings profile and long run return record. The recent dip sits against a mild gain in year-to-date shar…\n來源：Yahoo Finance:ECL",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ecolab-ecl-drawing-fresh-attention-042545525.html?.tsrc=rss",
-      "source": "Yahoo Finance:ECL",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "HCA",
-      "short": "HCA — HCA Healthcare (NYSE:HCA) Stock Crosses Above Two Hundred Day Moving Average - Here's W…",
-      "detail": "HCA\n重點：新聞\n標題：HCA Healthcare (NYSE:HCA) Stock Crosses Above Two Hundred Day Moving Average - Here's Why - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN3otX0ZaNWVhRy1QLXM2elA4cEFsUVo5TWg4SnY3YnBJV1R6cUx0ZXIxd1UtU2FSTy1rYU83RmtybkdKYXpLZFBWYmZOLTVwOXF4SDdRY2kyVHNIRUtnSmtLdkk5Z1BsLUhIejMzeGl0c1ZXWmI1dzdYRTcxM0c3N2NBV3ppMlNYLTBoTTNPWnhKbnpMelhKaEZaWDdVd3kxUU0tTnRiVHNNW…\n來源：Google News:HCA",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN3otX0ZaNWVhRy1QLXM2elA4cEFsUVo5TWg4SnY3YnBJV1R6cUx0ZXIxd1UtU2FSTy1rYU83RmtybkdKYXpLZFBWYmZOLTVwOXF4SDdRY2kyVHNIRUtnSmtLdkk5Z1BsLUhIejMzeGl0c1ZXWmI1dzdYRTcxM0c3N2NBV3ppMlNYLTBoTTNPWnhKbnpMelhKaEZaWDdVd3kxUU0tTnRiVHNNWHNsYkFBWXh0aUZQWUFzbjlfVFY4SHFVNklwMmFhNkF4eUQweVh3emYzWUlMak91NlFD?oc=5",
-      "source": "Google News:HCA",
-      "kind": "news"
-    },
-    {
       "n": 5,
-      "symbol": "HMC",
-      "short": "HMC — 235,163 Honda Motor Co., Ltd. $HMC Shares Sold by Envestnet Asset Management Inc. - Mar…",
-      "detail": "HMC\n重點：新聞\n標題：235,163 Honda Motor Co., Ltd. $HMC Shares Sold by Envestnet Asset Management Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN3VrcmdpODZ6aWlxQkRxTWZZaUpBZXVfcHg3c2xvbVZHckNobEJOcXBtNFFPV09qWEN4MDdidmVyZGdWTnBmaVpGZWtiSkZDVmsxaVdmQUN1Tl9oOU01RTN3aURrc0xmVTJLN0JwbHU5N2o4S3ROX3JWd095MmtMaVdsdHNHYmFTb0pTWHJQV2RVckZDeWE1aGlnM05wT1BfQmlWX25aZE5SV…\n來源：Google News:HMC",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN3VrcmdpODZ6aWlxQkRxTWZZaUpBZXVfcHg3c2xvbVZHckNobEJOcXBtNFFPV09qWEN4MDdidmVyZGdWTnBmaVpGZWtiSkZDVmsxaVdmQUN1Tl9oOU01RTN3aURrc0xmVTJLN0JwbHU5N2o4S3ROX3JWd095MmtMaVdsdHNHYmFTb0pTWHJQV2RVckZDeWE1aGlnM05wT1BfQmlWX25aZE5SVjgyeVhCSXQxYjlqQ2ZKVzg2bm5aQlNtT2h2SGc1V2RwSXBKNENXVkE?oc=5",
-      "source": "Google News:HMC",
+      "symbol": "COF",
+      "short": "COF — 業績／指引：Will Q3 Earnings Change The Bull Case For Capital One Stock (COF)? - Simply Wall Street",
+      "detail": "COF\n重點：業績／指引\n標題：Will Q3 Earnings Change The Bull Case For Capital One Stock (COF)? - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYXJJeDBRd2JKOGhyZUxYajZOMFhLbzVtMEQwcFUwWEYycWlDclVKZk1pZHI2MmdfVVVuQnZGcGVBbWhMY0NxLWdrY21NLWREWnBaU2VySU1hVzVlLXNlUWJFMGl0Ykgtemd0bEtIWjJodVZDMTFEUy1rMjh1RTJwMmNDZUxSLVF5ZnRuREtOQkdYMndDNWEyUk45ZGR1WjkxY1haQ1VRU0JBZ…\n來源：Google News:COF",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYXJJeDBRd2JKOGhyZUxYajZOMFhLbzVtMEQwcFUwWEYycWlDclVKZk1pZHI2MmdfVVVuQnZGcGVBbWhMY0NxLWdrY21NLWREWnBaU2VySU1hVzVlLXNlUWJFMGl0Ykgtemd0bEtIWjJodVZDMTFEUy1rMjh1RTJwMmNDZUxSLVF5ZnRuREtOQkdYMndDNWEyUk45ZGR1WjkxY1haQ1VRU0JBZHcxS0pwWWV6OG9WdjU0cVJnRXVfMnp4YnNUd2tITWplcjNmV2NicmRsU3lHQWZjTGlfR0xmaGlxS0zSAeoBQVVfeXFMTWFCd3J6QTA0bjhldXRnbUIwYlRTM3FMbGJvSzNjc1Nub3ZfYWVKNTJoY3NLUkw1dHJMSVZicUp2cXlQRlEtS3Q2X2RQRlpiRk1xRUQxNWRuZzNrTGJpR1ZKX3N2Ql8zTTRMTVA5U0gzSVR0Tm9jSE8yaUd4UjI5X0t4Wk5LZmx1RzJ1bEFqRjBadzg3QUtodVJKa0V3ZzhVc05lbDU2eWJ1aEFHNW9tY0NHMTBMUy1jRkgtMm1vanVUVmpPZGFZQkN4MFpHb196U3FJY0RSRWl0dGRCRTQyeXdVUVdwdlFObUpR?oc=5",
+      "source": "Google News:COF",
       "kind": "news"
     },
     {
       "n": 6,
-      "symbol": "KSS",
-      "short": "KSS — 83,287 Kohl's Corporation $KSS Shares Sold by Corient Private Wealth LP - MarketBeat",
-      "detail": "KSS\n重點：新聞\n標題：83,287 Kohl's Corporation $KSS Shares Sold by Corient Private Wealth LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM2I4WDNnV253R2FjcVBqbGJHaWMtNm9oc1k1YVNySENMR00wT202bzZ4U3NaZDJ1UlFvcEp0bDVoME5xYTZucUNCQnhDSGpzWFgxdWpWbVZmb3FxWGNMMXNtejBrN2xlenliOXBxMDFRMGM2WHZUbWFHV2M5UkNmVmxCRVUzdkwwbFk2c2I4RXJUODYwYzkzWWIwb1d4alJvd0ExeDR0ZzAxO…\n來源：Google News:KSS",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM2I4WDNnV253R2FjcVBqbGJHaWMtNm9oc1k1YVNySENMR00wT202bzZ4U3NaZDJ1UlFvcEp0bDVoME5xYTZucUNCQnhDSGpzWFgxdWpWbVZmb3FxWGNMMXNtejBrN2xlenliOXBxMDFRMGM2WHZUbWFHV2M5UkNmVmxCRVUzdkwwbFk2c2I4RXJUODYwYzkzWWIwb1d4alJvd0ExeDR0ZzAxODM4RWQzU3RwZjN6VG1GV1UzeDRpSUpEc0xsX0NYOQ?oc=5",
-      "source": "Google News:KSS",
+      "symbol": "CRM",
+      "short": "CRM — AI相關：Salesforce Expands AI Bundles: Will Higher Adoption Boost ARR?",
+      "detail": "CRM\n重點：AI相關\n標題：Salesforce Expands AI Bundles: Will Higher Adoption Boost ARR?\n摘要：CRM's expanding AI bundles drive stronger Agentforce adoption and ARR growth, as customers move from trials toward broader AI purchases.\n來源：Yahoo Finance:CRM",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-expands-ai-bundles-higher-094500029.html?.tsrc=rss",
+      "source": "Yahoo Finance:CRM",
       "kind": "news"
     },
     {
       "n": 7,
-      "symbol": "LW",
-      "short": "LW — Lamb Weston $LW Stock Position Decreased by Envestnet Asset Management Inc. - MarketBeat",
-      "detail": "LW\n重點：新聞\n標題：Lamb Weston $LW Stock Position Decreased by Envestnet Asset Management Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPc1pQRFlObkNKbk1WTHp6TV9tcGZVWm1aVHZyWXR5WWI3QjV2OWxDdUpRZTY3Z2dqTG1LbmszTFM0a2Y5WjJsNGxLbVIzTjduOVFsNWdDdHUwaEdQMzc5NlhldnFlRkV6a25rT28xajNyRHNGMVc0dUxtdF9UWERUNGFERGMtRy15V2xmSk9vSlY5MkNvZ01yVUxGR085aTlRemVFUDdUZkpKN…\n來源：Google News:LW",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc1pQRFlObkNKbk1WTHp6TV9tcGZVWm1aVHZyWXR5WWI3QjV2OWxDdUpRZTY3Z2dqTG1LbmszTFM0a2Y5WjJsNGxLbVIzTjduOVFsNWdDdHUwaEdQMzc5NlhldnFlRkV6a25rT28xajNyRHNGMVc0dUxtdF9UWERUNGFERGMtRy15V2xmSk9vSlY5MkNvZ01yVUxGR085aTlRemVFUDdUZkpKNUlfS3d3SUlIWDNaMWVjMGFxLWdEMHBRSlJsWGxqMld3WXJsZ2M?oc=5",
-      "source": "Google News:LW",
+      "symbol": "DGX",
+      "short": "DGX — Interested In Quest Diagnostics' (NYSE:DGX) Upcoming US$0.86 Dividend? You Have Three D…",
+      "detail": "DGX\n重點：新聞\n標題：Interested In Quest Diagnostics' (NYSE:DGX) Upcoming US$0.86 Dividend? You Have Three Days Left - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSWpIRmQ4WllQN2hrYlZZRUYxQ01vc3JqTVJ1am1sc0NScE9HclVBM3VYZkRwMWRqSXlQZnJYUHR2WFFhVWtfN0RPSmpLYzdzSUpSSUc1eWtDYkJsUjd4SWpwY0RWQzUwRmNzRXBWSTB0UGRfN2R1cGN4Q2IxbzJJbWpxMi1UZXpvc05TWEMxQmlPTUp0Ymo3Rkx1RktpSzhKUHJ6ZlNBNlc4c…\n來源：Google News:DGX",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSWpIRmQ4WllQN2hrYlZZRUYxQ01vc3JqTVJ1am1sc0NScE9HclVBM3VYZkRwMWRqSXlQZnJYUHR2WFFhVWtfN0RPSmpLYzdzSUpSSUc1eWtDYkJsUjd4SWpwY0RWQzUwRmNzRXBWSTB0UGRfN2R1cGN4Q2IxbzJJbWpxMi1UZXpvc05TWEMxQmlPTUp0Ymo3Rkx1RktpSzhKUHJ6ZlNBNlc4cGNtaFdITlZ5Nkg1MUlMWE9QVUphQlFtZkl4ZGpsQVE4T21pcHBB0gHWAUFVX3lxTE5kWTZQUmppeXN3d0M4UWNnWFJfN1ZRZTBnYktESklWMjBGY291ZkNPbzZMWlhmRUpIUElWb25Xa18wVm9ocDBCZUs4N3FYSmVDRUxxUWhTLWdmQk5TNXpLLVZVWXQ2dGR1R1A5WFJPMElSQVpnVWlzb29Rb2NIamM5Zl9PS1RWdnZjM2hGU1ppeVQ1ZTlTUmNDQy1fUzNmRW1CQWxxa1lDbU4tdEwxNWZUenh6WU1HaGJ0VmxwcW1zOWlLczFBRUZTeHk5N1ZhemczM2hGNkE?oc=5",
+      "source": "Google News:DGX",
       "kind": "news"
     },
     {
       "n": 8,
-      "symbol": "OBDC",
-      "short": "OBDC — Blue Owl Capital Corporation (NYSE:OBDC) Receives Average Rating of \"Moderate Buy\" from…",
-      "detail": "OBDC\n重點：新聞\n標題：Blue Owl Capital Corporation (NYSE:OBDC) Receives Average Rating of \"Moderate Buy\" from Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWGR0WmRFb2xCdlBnSjlpdXU1alVmOVp2UC0wU3haMDg3dW9ZUGZ0enVQRUlnWEpHNlpzaEw1eHBjdVBHMHVBRjhvTFdibFRJazkwNU81ZmE2ZHFtNlNQeDVGbmhWSzhOaU90dnRaRTJiMWRSVDlLdkVpWXBkWFRlTjhsVjFfWEQtV0Q5SXJpNExtWFdoWEk4UTZkZXI4c0dTYmx3anlKTFhNN…\n來源：Google News:OBDC",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWGR0WmRFb2xCdlBnSjlpdXU1alVmOVp2UC0wU3haMDg3dW9ZUGZ0enVQRUlnWEpHNlpzaEw1eHBjdVBHMHVBRjhvTFdibFRJazkwNU81ZmE2ZHFtNlNQeDVGbmhWSzhOaU90dnRaRTJiMWRSVDlLdkVpWXBkWFRlTjhsVjFfWEQtV0Q5SXJpNExtWFdoWEk4UTZkZXI4c0dTYmx3anlKTFhNN1VFUkRTQzBLS2pYYlZ3NGpIanAyVUdDY3JiNXhvNEowczdrVFRrV2lUTFZtS3lLU2NYVkhCNmJpbmFpZFBTNlhTQg?oc=5",
-      "source": "Google News:OBDC",
+      "symbol": "FTNT",
+      "short": "FTNT — Fortinet (NASDAQ:FTNT) Reaches New 52-Week High - Here's Why - MarketBeat",
+      "detail": "FTNT\n重點：新聞\n標題：Fortinet (NASDAQ:FTNT) Reaches New 52-Week High - Here's Why - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPZkNSWkwtaGxmWHlyQ2hNemVCWmE2MWV1UkdaMTQwdmpVR1kyRHAxRDBHUGllcFVnZmM3QzdCbUlBX291NjNTSERaSkxLWkpvckdvcmE5RlRnWnRLaGx5amFRWXJMd2l4b0EzYXg1SF9hcDc2SWpsZC02cFFraVlwblZuU0hSRE9PSDRQaWYyOTNjSmpGajdoVWxGTlAyNHVvZjBmRFVpQTgxM…\n來源：Google News:FTNT",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZkNSWkwtaGxmWHlyQ2hNemVCWmE2MWV1UkdaMTQwdmpVR1kyRHAxRDBHUGllcFVnZmM3QzdCbUlBX291NjNTSERaSkxLWkpvckdvcmE5RlRnWnRLaGx5amFRWXJMd2l4b0EzYXg1SF9hcDc2SWpsZC02cFFraVlwblZuU0hSRE9PSDRQaWYyOTNjSmpGajdoVWxGTlAyNHVvZjBmRFVpQTgxMnBYQ3dHNU1sQTRZUQ?oc=5",
+      "source": "Google News:FTNT",
       "kind": "news"
     },
     {
       "n": 9,
-      "symbol": "OKTA",
-      "short": "OKTA — AI相關：Okta stock price target maintained at $200 by TD Cowen on AI demand - Investing.com",
-      "detail": "OKTA\n重點：AI相關\n標題：Okta stock price target maintained at $200 by TD Cowen on AI demand - Investing.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQT0xWRzhscDBMLXZORDR1bVhhOEgybU5jdTJNWnNXb0NtVVRiWllBOU1aOWh0ZFFsWVB3NFEwN1VKV0tTa1Y5d2F2SFJUekRIanAtRkVoVDh4eTcyQmdndjJjbVlfLXF3eXUxNW52MEtwWTFBODRxWEVjNzZieXFXWXYwQnV4UWJQdmJVR3YxVzRQbkxqNXgwdzByRlhrY1RzeG0tT2Jvak5ES…\n來源：Google News:OKTA",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT0xWRzhscDBMLXZORDR1bVhhOEgybU5jdTJNWnNXb0NtVVRiWllBOU1aOWh0ZFFsWVB3NFEwN1VKV0tTa1Y5d2F2SFJUekRIanAtRkVoVDh4eTcyQmdndjJjbVlfLXF3eXUxNW52MEtwWTFBODRxWEVjNzZieXFXWXYwQnV4UWJQdmJVR3YxVzRQbkxqNXgwdzByRlhrY1RzeG0tT2Jvak5ESndZV1piUm5SVnZaMTBVdkJrM29jV180bFNJ?oc=5",
-      "source": "Google News:OKTA",
+      "symbol": "INTU",
+      "short": "INTU — Intuit (NASDAQ:INTU) Stock Rating Reaffirmed as Outperform by Royal Bank Of Canada - Ma…",
+      "detail": "INTU\n重點：新聞\n標題：Intuit (NASDAQ:INTU) Stock Rating Reaffirmed as Outperform by Royal Bank Of Canada - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVEFCZl9rczIyUFA5Q0tIeEdMaE1PS0Zndml2LWxvdmJObk1DMmU1UHN5OXVIeE1tOFdaVXVFN0JFYklNeVlPZXJVUEFsWExLanh3bjB4QjhTcVlmSnU4ZWR2aG5YcVFSX3RjTFZvczRISmU2ZTkxclc3OEdmaTBHLWJfcWpCTzF2OXFYekVKcDZpUDVoOXpoZFZzNkU3ZHZXZVZ6Q2Z2YWNCb…\n來源：Google News:INTU",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVEFCZl9rczIyUFA5Q0tIeEdMaE1PS0Zndml2LWxvdmJObk1DMmU1UHN5OXVIeE1tOFdaVXVFN0JFYklNeVlPZXJVUEFsWExLanh3bjB4QjhTcVlmSnU4ZWR2aG5YcVFSX3RjTFZvczRISmU2ZTkxclc3OEdmaTBHLWJfcWpCTzF2OXFYekVKcDZpUDVoOXpoZFZzNkU3ZHZXZVZ6Q2Z2YWNCbzc2c3lJYzVZT3B0ZjAtQ1hWRWQ2eFFVRGdtRlJ4VXFLSHlKaVJiMjBiSG1JTFV6Zw?oc=5",
+      "source": "Google News:INTU",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "LQDA",
+      "short": "LQDA — Liquidia (NASDAQ:LQDA) Raised to Strong-Buy at Jefferies Financial Group - MarketBeat",
+      "detail": "LQDA\n重點：新聞\n標題：Liquidia (NASDAQ:LQDA) Raised to Strong-Buy at Jefferies Financial Group - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQWGsyczQxWEtFVnZJRzlYN1hsNFkxUXhJOEhtcWVyMDl0MHdoaGFKMlEzV1pfVzJrR2RXRVpRS2ZtUHAwNzc2VmoySDVHMDBNRnF0ZG55bWMtOHFsYVl3eWNQOGFFOGlfNS1kaUtwRTlJZVlCemdqakhXTGlFSE0yNkpwWl81NENwek4tb0JKbm9CX2N0VWdyT0dJaEM4UWhiR3pkOVJ6WjdES…\n來源：Google News:LQDA",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWGsyczQxWEtFVnZJRzlYN1hsNFkxUXhJOEhtcWVyMDl0MHdoaGFKMlEzV1pfVzJrR2RXRVpRS2ZtUHAwNzc2VmoySDVHMDBNRnF0ZG55bWMtOHFsYVl3eWNQOGFFOGlfNS1kaUtwRTlJZVlCemdqakhXTGlFSE0yNkpwWl81NENwek4tb0JKbm9CX2N0VWdyT0dJaEM4UWhiR3pkOVJ6WjdESFBObnRpZTN5YVZuZElJTlNZRV9ZUnItTk42cHBrd3k5cEI?oc=5",
+      "source": "Google News:LQDA",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "LULU",
+      "short": "LULU — lululemon athletica (NASDAQ:LULU) Hits New 12-Month Low - Time to Sell? - MarketBeat",
+      "detail": "LULU\n重點：新聞\n標題：lululemon athletica (NASDAQ:LULU) Hits New 12-Month Low - Time to Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3RIRkdLMDNpUmNTakZfYkNfWUZUbXp6WDUtR1RmelBwSm9ZWlpnNWx2NU1ETDlKNVBZd19KU1NVdzZWUzh5Q2hjNjcxa1F2Yy1rUFpwcUNkS3ZaVXF2WXJwUmd0WTJqN0tkSjJiNjZaMkIyNGQwRjl6Rkp4bEpzVFBzU1M1WDZpYWMyVnhBd09lN3p6dTJMR1ZVVXBFWk9vVEtqb0czYko3U…\n來源：Google News:LULU",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3RIRkdLMDNpUmNTakZfYkNfWUZUbXp6WDUtR1RmelBwSm9ZWlpnNWx2NU1ETDlKNVBZd19KU1NVdzZWUzh5Q2hjNjcxa1F2Yy1rUFpwcUNkS3ZaVXF2WXJwUmd0WTJqN0tkSjJiNjZaMkIyNGQwRjl6Rkp4bEpzVFBzU1M1WDZpYWMyVnhBd09lN3p6dTJMR1ZVVXBFWk9vVEtqb0czYko3UktUVkxCdnlpN0tlcWQwMzg0YlFPVHl5S3Js?oc=5",
+      "source": "Google News:LULU",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "NESR",
+      "short": "NESR — National Energy Services Reunited (NASDAQ:NESR) Stock Moved Up to Strong-Buy by BMO Cap…",
+      "detail": "NESR\n重點：新聞\n標題：National Energy Services Reunited (NASDAQ:NESR) Stock Moved Up to Strong-Buy by BMO Capital Markets - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWUxldDQ5d3VWSGpYd2NaMERJR1hRRFo0WTI2MkFCRzlwZVZBb2t1cWxxU2VQT2NITmVrakNOYzkyZkpTUVZtQjJ2WHZZSm1Sb1dBbnZnX3YyZ0dhNy1YN1VXNHJtb2JVYldSMy1KSkxZQUtXeXNCNVdVdnNMTHdrMEc4U1NadTloZW4wdnhDYjZVX3JZNUI1VTJfdHJPSzVIZGlfOWVWOUQtS…\n來源：Google News:NESR",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWUxldDQ5d3VWSGpYd2NaMERJR1hRRFo0WTI2MkFCRzlwZVZBb2t1cWxxU2VQT2NITmVrakNOYzkyZkpTUVZtQjJ2WHZZSm1Sb1dBbnZnX3YyZ0dhNy1YN1VXNHJtb2JVYldSMy1KSkxZQUtXeXNCNVdVdnNMTHdrMEc4U1NadTloZW4wdnhDYjZVX3JZNUI1VTJfdHJPSzVIZGlfOWVWOUQtSnp2Zm10MmlmZFAtLWxQZjRaUmRSRnhsQXdHcHBMUEJYVTR2UzRrejlWcGo5N1JXWXA0TGtodUxfSFVZclhYZGZ1all5RDI?oc=5",
+      "source": "Google News:NESR",
       "kind": "news"
     }
   ]
