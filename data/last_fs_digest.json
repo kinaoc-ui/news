@@ -1,47 +1,29 @@
 {
-  "title": "FS新聞 10-02 05:55",
-  "list_name": "FirstScreen_2026-10-02_055535_comma.txt",
-  "created_at": "2026-10-02T05:55:42.668105+00:00",
+  "title": "FS新聞 10-02 10:52",
+  "list_name": "FirstScreen_2026-10-02_105218_comma.txt",
+  "created_at": "2026-10-02T10:52:27.704943+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "A",
-      "short": "A — 業績／指引：We Ran A Stock Scan For Earnings Growth And ABOV Semiconductor (KOSDAQ:102120) Passed W…",
-      "detail": "A\n重點：業績／指引\n標題：We Ran A Stock Scan For Earnings Growth And ABOV Semiconductor (KOSDAQ:102120) Passed With Ease - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTXd3QW1ZR3JSSFo0akNtUG9lWlRnLVgzQWV4N1hSQUU1SWNlQ05zUFB1NnRsMV9oTW8yLW1YRW8tQ3d0a0VBZGFWNXRhNHdDMGRoekhEZGhGSjZCeUljRWdRbXZ5NHM4bzM3QkgyNmVXZ3BoSzdXWGw5UDBxaThDM29lM0h5bVN3cExBN3lFZGpTTTYycEVuVGZhM05xZjJGby0xN2dSMEpXV…\n來源：Google News:A",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTXd3QW1ZR3JSSFo0akNtUG9lWlRnLVgzQWV4N1hSQUU1SWNlQ05zUFB1NnRsMV9oTW8yLW1YRW8tQ3d0a0VBZGFWNXRhNHdDMGRoekhEZGhGSjZCeUljRWdRbXZ5NHM4bzM3QkgyNmVXZ3BoSzdXWGw5UDBxaThDM29lM0h5bVN3cExBN3lFZGpTTTYycEVuVGZhM05xZjJGby0xN2dSMEpXVUI0aUc3SmdYenNXSlVtYWxuUUFzOW5pRTFwQXZHN3lTMThuUUIyd2pqLWpneHc2UHlDTHFoNTNiRTczUERa0gHuAUFVX3lxTE5yQ2N1OFc0d2ZVa0J3a093MEFpY1J5MTh2Uk1qS0NBT2YxelZEakRGbC13TDNTMXQ0Z2dCX3RvX1FmYUhwUkhPd2lLY1VQbFlNem51cmk1SmdVZWJQR2pfWWhZOGpRd291UzlFUGN5VE81eTFOWWNvd09nV2tWRDNxYzlyUTh3cEYzeWNhdVRxQnJKczJmdkgxUHFUODd1WXRManU0UF9wRFUwWGhaR3R5OUZHc3hpRjNFRnBLOExKcklDc1hhbDZoRlp4N28wQkhOWmwzd19jYUw4aDdYWmFnb3pjdmJuYlhsbmlwaUE?oc=5",
-      "source": "Google News:A",
+      "symbol": "BHP",
+      "short": "BHP — BHP Group (NYSE:BHP) Stock Breaks Above 200 Day Moving Average - Should You Sell? - Mar…",
+      "detail": "BHP\n重點：新聞\n標題：BHP Group (NYSE:BHP) Stock Breaks Above 200 Day Moving Average - Should You Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLXp0QU5hYVJlbmNmRDZYb3NCY1hYWk16MlNZUkNGTVJUc0lkOHFZcnBFTUdwUVZWc1RrVUhUTjhUWW1xank1UlZLSy1NbVExc2VXLUttWnRYbkhWVk9yemdUajNHSS10d3J4LXNNMHc1ZWtfMEYwQXluYnRBd2N1ZVNWaDhBSmJHSXhZX3JOeXpoSHMyb1FHRlVRYnlZNGJaZHoxbjB0UFRZT…\n來源：Google News:BHP",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLXp0QU5hYVJlbmNmRDZYb3NCY1hYWk16MlNZUkNGTVJUc0lkOHFZcnBFTUdwUVZWc1RrVUhUTjhUWW1xank1UlZLSy1NbVExc2VXLUttWnRYbkhWVk9yemdUajNHSS10d3J4LXNNMHc1ZWtfMEYwQXluYnRBd2N1ZVNWaDhBSmJHSXhZX3JOeXpoSHMyb1FHRlVRYnlZNGJaZHoxbjB0UFRZTUZCM1NTaEVzNFBzbmVzRVB1UnczZl9CaWpiSXdOUnVWYnN6RHdCeXc?oc=5",
+      "source": "Google News:BHP",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "ANET",
-      "short": "ANET — Arista Networks, Inc. $ANET Stake Boosted by Doliver Advisors LP - MarketBeat",
-      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Stake Boosted by Doliver Advisors LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPaUp1X011S2p0ZUlMVGZDbmFmZDBLcGpoa3pjTU1NR1hJdkVQWXdXMzNCeEQ5UjdLQTJVWDNYdUs4eVB2SWtPY1lUMmVvX045YU4tb19NWDRpdHlma1BBT1BpWnpYQzU2NC1tSWpnVjFnV0dSU0lkay1iZnQ3QmNHU29BOHFHV3FKWEVWUWlvLVRrNzhYZFp6dXVVXzByZ3NYV1FsN2tOa0h6e…\n來源：Google News:ANET",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaUp1X011S2p0ZUlMVGZDbmFmZDBLcGpoa3pjTU1NR1hJdkVQWXdXMzNCeEQ5UjdLQTJVWDNYdUs4eVB2SWtPY1lUMmVvX045YU4tb19NWDRpdHlma1BBT1BpWnpYQzU2NC1tSWpnVjFnV0dSU0lkay1iZnQ3QmNHU29BOHFHV3FKWEVWUWlvLVRrNzhYZFp6dXVVXzByZ3NYV1FsN2tOa0h6elFNOXBjZnNQU2p5ZV8zeHRsZ0dndw?oc=5",
-      "source": "Google News:ANET",
+      "symbol": "CARG",
+      "short": "CARG — AI相關：Does VINMax’s AI Inventory Boost Change The Bull Case For CarGurus’ Dealer Model (CARG)?",
+      "detail": "CARG\n重點：AI相關\n標題：Does VINMax’s AI Inventory Boost Change The Bull Case For CarGurus’ Dealer Model (CARG)?\n摘要：In late September 2026, CarGurus announced VINMax, an AI-driven addition to its dealer platform that automatically targets and promotes specific vehicle listings using real-time supply and demand data across on-site and off-site channels. Early results show VINMax-boosted vehicl…\n來源：Yahoo Finance:CARG",
+      "url": "https://finance.yahoo.com/technology/ai/articles/does-vinmax-ai-inventory-boost-090938318.html?.tsrc=rss",
+      "source": "Yahoo Finance:CARG",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "COF",
-      "short": "COF — Montecito Bank & Trust Raises Holdings in Capital One Financial Corporation $COF - Mark…",
-      "detail": "COF\n重點：新聞\n標題：Montecito Bank & Trust Raises Holdings in Capital One Financial Corporation $COF - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcEpIRDRHb0ZxMWpLbnZwOHVuUzZ2M1piQjg4eWlHeGNEV0hqeDh4bEQtZnRYMEJFRUI2NW5ZVVZjbDUyd1dkNzVKYzhRY0Z0bE5aLUJnMExXdHBqWjlwcmY1NUs4TGM5bGZNaGlVdnRLVXliSExIdVR0WW5rV3RBb0V0dHFNWUdPTzh6Uk95YWlLN0dsSHU3Y1FQWXRvUXBmOEdremFzcmpsZ…\n來源：Google News:COF",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcEpIRDRHb0ZxMWpLbnZwOHVuUzZ2M1piQjg4eWlHeGNEV0hqeDh4bEQtZnRYMEJFRUI2NW5ZVVZjbDUyd1dkNzVKYzhRY0Z0bE5aLUJnMExXdHBqWjlwcmY1NUs4TGM5bGZNaGlVdnRLVXliSExIdVR0WW5rV3RBb0V0dHFNWUdPTzh6Uk95YWlLN0dsSHU3Y1FQWXRvUXBmOEdremFzcmpsZUNmRDYxd3dCMUJEMDI3SC1WUUJKRVZFR1B1NHU5SkNXLUdtaUhGbWdQSA?oc=5",
-      "source": "Google News:COF",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "CRM",
-      "short": "CRM — AI相關、併購／交易：Salesforce (CRM) Adds Fresh AI Deals, Is The Stock Still A Bargain?",
-      "detail": "CRM\n重點：AI相關、併購／交易\n標題：Salesforce (CRM) Adds Fresh AI Deals, Is The Stock Still A Bargain?\n摘要：Conference spotlight and fresh AI deals put Salesforce stock back in focus Salesforce (CRM) stepped into the spotlight at the 2026 North American Marketing Leadership Summit on September 28, just as a string of AI focused partnerships and an acquisition reshaped the story around…\n來源：Yahoo Finance:CRM",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-adds-fresh-ai-001139199.html?.tsrc=rss",
-      "source": "Yahoo Finance:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 5,
       "symbol": "ECL",
       "short": "ECL — 業績／指引：Ecolab (ECL) Is Drawing Fresh Attention, So What Are Investors Weighing?",
       "detail": "ECL\n重點：業績／指引\n標題：Ecolab (ECL) Is Drawing Fresh Attention, So What Are Investors Weighing?\n摘要：Ecolab (ECL) drew fresh attention after a recent pullback, with the share price closing at US$271.26. Investors are now weighing that valuation against the company’s current earnings profile and long run return record. The recent dip sits against a mild gain in year-to-date shar…\n來源：Yahoo Finance:ECL",
@@ -50,30 +32,57 @@
       "kind": "news"
     },
     {
+      "n": 4,
+      "symbol": "HCA",
+      "short": "HCA — HCA Healthcare (NYSE:HCA) Stock Crosses Above Two Hundred Day Moving Average - Here's W…",
+      "detail": "HCA\n重點：新聞\n標題：HCA Healthcare (NYSE:HCA) Stock Crosses Above Two Hundred Day Moving Average - Here's Why - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN3otX0ZaNWVhRy1QLXM2elA4cEFsUVo5TWg4SnY3YnBJV1R6cUx0ZXIxd1UtU2FSTy1rYU83RmtybkdKYXpLZFBWYmZOLTVwOXF4SDdRY2kyVHNIRUtnSmtLdkk5Z1BsLUhIejMzeGl0c1ZXWmI1dzdYRTcxM0c3N2NBV3ppMlNYLTBoTTNPWnhKbnpMelhKaEZaWDdVd3kxUU0tTnRiVHNNW…\n來源：Google News:HCA",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN3otX0ZaNWVhRy1QLXM2elA4cEFsUVo5TWg4SnY3YnBJV1R6cUx0ZXIxd1UtU2FSTy1rYU83RmtybkdKYXpLZFBWYmZOLTVwOXF4SDdRY2kyVHNIRUtnSmtLdkk5Z1BsLUhIejMzeGl0c1ZXWmI1dzdYRTcxM0c3N2NBV3ppMlNYLTBoTTNPWnhKbnpMelhKaEZaWDdVd3kxUU0tTnRiVHNNWHNsYkFBWXh0aUZQWUFzbjlfVFY4SHFVNklwMmFhNkF4eUQweVh3emYzWUlMak91NlFD?oc=5",
+      "source": "Google News:HCA",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "HMC",
+      "short": "HMC — 235,163 Honda Motor Co., Ltd. $HMC Shares Sold by Envestnet Asset Management Inc. - Mar…",
+      "detail": "HMC\n重點：新聞\n標題：235,163 Honda Motor Co., Ltd. $HMC Shares Sold by Envestnet Asset Management Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN3VrcmdpODZ6aWlxQkRxTWZZaUpBZXVfcHg3c2xvbVZHckNobEJOcXBtNFFPV09qWEN4MDdidmVyZGdWTnBmaVpGZWtiSkZDVmsxaVdmQUN1Tl9oOU01RTN3aURrc0xmVTJLN0JwbHU5N2o4S3ROX3JWd095MmtMaVdsdHNHYmFTb0pTWHJQV2RVckZDeWE1aGlnM05wT1BfQmlWX25aZE5SV…\n來源：Google News:HMC",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN3VrcmdpODZ6aWlxQkRxTWZZaUpBZXVfcHg3c2xvbVZHckNobEJOcXBtNFFPV09qWEN4MDdidmVyZGdWTnBmaVpGZWtiSkZDVmsxaVdmQUN1Tl9oOU01RTN3aURrc0xmVTJLN0JwbHU5N2o4S3ROX3JWd095MmtMaVdsdHNHYmFTb0pTWHJQV2RVckZDeWE1aGlnM05wT1BfQmlWX25aZE5SVjgyeVhCSXQxYjlqQ2ZKVzg2bm5aQlNtT2h2SGc1V2RwSXBKNENXVkE?oc=5",
+      "source": "Google News:HMC",
+      "kind": "news"
+    },
+    {
       "n": 6,
-      "symbol": "GAP",
-      "short": "GAP — GAP (NYSE:GAP) Director William Sydney Fisher Sells 66,344 Shares of Stock - MarketBeat",
-      "detail": "GAP\n重點：新聞\n標題：GAP (NYSE:GAP) Director William Sydney Fisher Sells 66,344 Shares of Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOR2V5YVkxNDJhR3pqbnpKSTBsX0NGTzFYYlctZUFaVEtfME1jRVJ2MHljQVZLYzk5cjVZcUJDcTFZV01UdUxiOTFRR3ZVNjNOOEsxM0xFTjlFRXhyRTczMGxEUHprRGV4anpvX1dCWmtWMW5WTXZEZTByc1JNZ0F3NDhWLWhXdVV0QU16VDR6djE4TXNPcFpSUWdHS0QyVmpIQWsydUx3clRPR…\n來源：Google News:GAP",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR2V5YVkxNDJhR3pqbnpKSTBsX0NGTzFYYlctZUFaVEtfME1jRVJ2MHljQVZLYzk5cjVZcUJDcTFZV01UdUxiOTFRR3ZVNjNOOEsxM0xFTjlFRXhyRTczMGxEUHprRGV4anpvX1dCWmtWMW5WTXZEZTByc1JNZ0F3NDhWLWhXdVV0QU16VDR6djE4TXNPcFpSUWdHS0QyVmpIQWsydUx3clRPRm9yTFpmYS0ybHNiNFFwVGxvN2RQUUI0ZHVHZWExZFZHQkx0Zw?oc=5",
-      "source": "Google News:GAP",
+      "symbol": "KSS",
+      "short": "KSS — 83,287 Kohl's Corporation $KSS Shares Sold by Corient Private Wealth LP - MarketBeat",
+      "detail": "KSS\n重點：新聞\n標題：83,287 Kohl's Corporation $KSS Shares Sold by Corient Private Wealth LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM2I4WDNnV253R2FjcVBqbGJHaWMtNm9oc1k1YVNySENMR00wT202bzZ4U3NaZDJ1UlFvcEp0bDVoME5xYTZucUNCQnhDSGpzWFgxdWpWbVZmb3FxWGNMMXNtejBrN2xlenliOXBxMDFRMGM2WHZUbWFHV2M5UkNmVmxCRVUzdkwwbFk2c2I4RXJUODYwYzkzWWIwb1d4alJvd0ExeDR0ZzAxO…\n來源：Google News:KSS",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM2I4WDNnV253R2FjcVBqbGJHaWMtNm9oc1k1YVNySENMR00wT202bzZ4U3NaZDJ1UlFvcEp0bDVoME5xYTZucUNCQnhDSGpzWFgxdWpWbVZmb3FxWGNMMXNtejBrN2xlenliOXBxMDFRMGM2WHZUbWFHV2M5UkNmVmxCRVUzdkwwbFk2c2I4RXJUODYwYzkzWWIwb1d4alJvd0ExeDR0ZzAxODM4RWQzU3RwZjN6VG1GV1UzeDRpSUpEc0xsX0NYOQ?oc=5",
+      "source": "Google News:KSS",
       "kind": "news"
     },
     {
       "n": 7,
-      "symbol": "NTNX",
-      "short": "NTNX — Nutanix (NTNX) Stock May Be 12% Undervalued As Managed Cloud Expands",
-      "detail": "NTNX\n重點：新聞\n標題：Nutanix (NTNX) Stock May Be 12% Undervalued As Managed Cloud Expands\n摘要：Nutanix has delivered a powerful share price run over the past few years, which puts fresh focus on whether the business is now priced fairly against the cash it is expected to generate. With the stock recently closing at US$71.52, the key issue is how that market value lines up…\n來源：Yahoo Finance:NTNX",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nutanix-ntnx-stock-may-12-231040965.html?.tsrc=rss",
-      "source": "Yahoo Finance:NTNX",
+      "symbol": "LW",
+      "short": "LW — Lamb Weston $LW Stock Position Decreased by Envestnet Asset Management Inc. - MarketBeat",
+      "detail": "LW\n重點：新聞\n標題：Lamb Weston $LW Stock Position Decreased by Envestnet Asset Management Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPc1pQRFlObkNKbk1WTHp6TV9tcGZVWm1aVHZyWXR5WWI3QjV2OWxDdUpRZTY3Z2dqTG1LbmszTFM0a2Y5WjJsNGxLbVIzTjduOVFsNWdDdHUwaEdQMzc5NlhldnFlRkV6a25rT28xajNyRHNGMVc0dUxtdF9UWERUNGFERGMtRy15V2xmSk9vSlY5MkNvZ01yVUxGR085aTlRemVFUDdUZkpKN…\n來源：Google News:LW",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc1pQRFlObkNKbk1WTHp6TV9tcGZVWm1aVHZyWXR5WWI3QjV2OWxDdUpRZTY3Z2dqTG1LbmszTFM0a2Y5WjJsNGxLbVIzTjduOVFsNWdDdHUwaEdQMzc5NlhldnFlRkV6a25rT28xajNyRHNGMVc0dUxtdF9UWERUNGFERGMtRy15V2xmSk9vSlY5MkNvZ01yVUxGR085aTlRemVFUDdUZkpKNUlfS3d3SUlIWDNaMWVjMGFxLWdEMHBRSlJsWGxqMld3WXJsZ2M?oc=5",
+      "source": "Google News:LW",
       "kind": "news"
     },
     {
       "n": 8,
-      "symbol": "TGT",
-      "short": "TGT — Can Target’s (TGT) Turnaround Justify the 60% YTD Rally?",
-      "detail": "TGT\n重點：新聞\n標題：Can Target’s (TGT) Turnaround Justify the 60% YTD Rally?\n摘要：Target Corporation (NYSE:TGT) has become one of the more surprising retail stocks of 2026. Its shares are up roughly 60% year-to-date, far outpacing Walmart and Costco, which have gained less than 6% over the same period. That raises an obvious question: has Target actually beco…\n來源：Yahoo Finance:TGT",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/target-tgt-turnaround-justify-60-020342395.html?.tsrc=rss",
-      "source": "Yahoo Finance:TGT",
+      "symbol": "OBDC",
+      "short": "OBDC — Blue Owl Capital Corporation (NYSE:OBDC) Receives Average Rating of \"Moderate Buy\" from…",
+      "detail": "OBDC\n重點：新聞\n標題：Blue Owl Capital Corporation (NYSE:OBDC) Receives Average Rating of \"Moderate Buy\" from Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWGR0WmRFb2xCdlBnSjlpdXU1alVmOVp2UC0wU3haMDg3dW9ZUGZ0enVQRUlnWEpHNlpzaEw1eHBjdVBHMHVBRjhvTFdibFRJazkwNU81ZmE2ZHFtNlNQeDVGbmhWSzhOaU90dnRaRTJiMWRSVDlLdkVpWXBkWFRlTjhsVjFfWEQtV0Q5SXJpNExtWFdoWEk4UTZkZXI4c0dTYmx3anlKTFhNN…\n來源：Google News:OBDC",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWGR0WmRFb2xCdlBnSjlpdXU1alVmOVp2UC0wU3haMDg3dW9ZUGZ0enVQRUlnWEpHNlpzaEw1eHBjdVBHMHVBRjhvTFdibFRJazkwNU81ZmE2ZHFtNlNQeDVGbmhWSzhOaU90dnRaRTJiMWRSVDlLdkVpWXBkWFRlTjhsVjFfWEQtV0Q5SXJpNExtWFdoWEk4UTZkZXI4c0dTYmx3anlKTFhNN1VFUkRTQzBLS2pYYlZ3NGpIanAyVUdDY3JiNXhvNEowczdrVFRrV2lUTFZtS3lLU2NYVkhCNmJpbmFpZFBTNlhTQg?oc=5",
+      "source": "Google News:OBDC",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "OKTA",
+      "short": "OKTA — AI相關：Okta stock price target maintained at $200 by TD Cowen on AI demand - Investing.com",
+      "detail": "OKTA\n重點：AI相關\n標題：Okta stock price target maintained at $200 by TD Cowen on AI demand - Investing.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQT0xWRzhscDBMLXZORDR1bVhhOEgybU5jdTJNWnNXb0NtVVRiWllBOU1aOWh0ZFFsWVB3NFEwN1VKV0tTa1Y5d2F2SFJUekRIanAtRkVoVDh4eTcyQmdndjJjbVlfLXF3eXUxNW52MEtwWTFBODRxWEVjNzZieXFXWXYwQnV4UWJQdmJVR3YxVzRQbkxqNXgwdzByRlhrY1RzeG0tT2Jvak5ES…\n來源：Google News:OKTA",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT0xWRzhscDBMLXZORDR1bVhhOEgybU5jdTJNWnNXb0NtVVRiWllBOU1aOWh0ZFFsWVB3NFEwN1VKV0tTa1Y5d2F2SFJUekRIanAtRkVoVDh4eTcyQmdndjJjbVlfLXF3eXUxNW52MEtwWTFBODRxWEVjNzZieXFXWXYwQnV4UWJQdmJVR3YxVzRQbkxqNXgwdzByRlhrY1RzeG0tT2Jvak5ESndZV1piUm5SVnZaMTBVdkJrM29jV180bFNJ?oc=5",
+      "source": "Google News:OKTA",
       "kind": "news"
     }
   ]
