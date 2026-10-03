@@ -1,115 +1,97 @@
 {
-  "title": "FS新聞 10-02 16:10",
-  "list_name": "FirstScreen_2026-10-02_160957_comma.txt",
-  "created_at": "2026-10-02T16:10:06.506979+00:00",
+  "title": "FS新聞 10-03 05:30",
+  "list_name": "FirstScreen_2026-10-03_053029_comma.txt",
+  "created_at": "2026-10-03T05:30:38.494843+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "OKTA",
-      "short": "OKTA — AI相關：The Zacks Analyst Blog Highlights CrowdStrike, Okta and Palo Alto Networks",
-      "detail": "OKTA\n重點：AI相關\n標題：The Zacks Analyst Blog Highlights CrowdStrike, Okta and Palo Alto Networks\n摘要：CrowdStrike's identity business is gaining as AI agents expand, with Falcon Shield and privileged account security posting sharp ARR growth.\n來源：Yahoo Finance:OKTA\n其他：Okta stock price target maintained at $200 by TD Cowen on A…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-crowdstrike-122700582.html?.tsrc=rss",
-      "source": "Yahoo Finance:OKTA",
+      "symbol": "A",
+      "short": "A — Medtronic Has Been Boring Investors for Years. That Could Be Changing",
+      "detail": "A\n重點：新聞\n標題：Medtronic Has Been Boring Investors for Years. That Could Be Changing\n摘要：Medtronic plc (NYSE:MDT) has been a bit of a slow burner. The company has a huge medical-device business and a dependable dividend, but growth has been difficult to find over the past few years. For investors, that has made Medtronic more of an income and stability play than a s…\n來源：Yahoo Finance:MDT",
+      "url": "https://finance.yahoo.com/healthcare/articles/medtronic-boring-investors-years-could-043412570.html?.tsrc=rss",
+      "source": "Yahoo Finance:MDT",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "ARCC",
-      "short": "ARCC — 業績／指引：ARES CAPITAL CORPORATION SCHEDULES EARNINGS RELEASE FOR THE THIRD QUARTER ENDED SEPTEMB…",
-      "detail": "ARCC\n重點：業績／指引\n標題：ARES CAPITAL CORPORATION SCHEDULES EARNINGS RELEASE FOR THE THIRD QUARTER ENDED SEPTEMBER 30, 2026\n摘要：Ares Capital Corporation (\"Ares Capital\") (NASDAQ: ARCC) announced today that it will report earnings for the third quarter ended September 30, 2026 on Tuesday, October 27, 2026 prior to the opening of the Nasdaq Global Select Market. Ares Capital invites all interested persons …\n來源：Yahoo Finance:ARCC",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ares-capital-corporation-schedules-earnings-110000414.html?.tsrc=rss",
-      "source": "Yahoo Finance:ARCC",
+      "symbol": "ANET",
+      "short": "ANET — Arista Networks, Inc. $ANET Shares Bought by CX Institutional - MarketBeat",
+      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Shares Bought by CX Institutional - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGQzb1F3cmNJelJnWkJELXBvaWhJNkRWQk11TVE0M2x1eGIyRDFnaTNSMVplOWpVQTBpeDlNbUZNUlJyZHliSXppUEpsNHJ4dFBtM0NwTS1tckFJVVM5eWlaTUNzN2psWFBiSUFfUlVldGNJTlNEb1VNeVN0cm54a2NKSXRRTHc1dEY0ZmdXRDdoelVWM3dOXy05T1FkY2l3TmMzY3lpeWhnS…\n來源：Google News:ANET",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGQzb1F3cmNJelJnWkJELXBvaWhJNkRWQk11TVE0M2x1eGIyRDFnaTNSMVplOWpVQTBpeDlNbUZNUlJyZHliSXppUEpsNHJ4dFBtM0NwTS1tckFJVVM5eWlaTUNzN2psWFBiSUFfUlVldGNJTlNEb1VNeVN0cm54a2NKSXRRTHc1dEY0ZmdXRDdoelVWM3dOXy05T1FkY2l3TmMzY3lpeWhnSEtGYVppSXgzUlBnMzlIdU1j?oc=5",
+      "source": "Google News:ANET",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "BHP",
-      "short": "BHP — BofA upgrades BHP stock to Buy with AUD 68 target - AD HOC NEWS",
-      "detail": "BHP\n重點：新聞\n標題：BofA upgrades BHP stock to Buy with AUD 68 target - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOdVM3ZHVhTnZKY3N5Sk4xemlYTlVHQjYyb3RkaHNudzlRY0tFbll6c0RKd09xLUVvUjBzQVkzTFR2bFVkdy1EOXdOMzljd1piTEFTWWQxVjFRbW5VdGtvMmw1VklTRWdLNHBpNkdZZXE1aTBIcWZVQ0lJd0dsTTZLZG1vbE5RaHBSRmF3NHNRLTVVUGsxYzhCZDNkbG5XeUZRTGMwejZzNS1GR…\n來源：Google News:BHP",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdVM3ZHVhTnZKY3N5Sk4xemlYTlVHQjYyb3RkaHNudzlRY0tFbll6c0RKd09xLUVvUjBzQVkzTFR2bFVkdy1EOXdOMzljd1piTEFTWWQxVjFRbW5VdGtvMmw1VklTRWdLNHBpNkdZZXE1aTBIcWZVQ0lJd0dsTTZLZG1vbE5RaHBSRmF3NHNRLTVVUGsxYzhCZDNkbG5XeUZRTGMwejZzNS1GREpHZ0UybzNn?oc=5",
-      "source": "Google News:BHP",
+      "symbol": "CARG",
+      "short": "CARG — CarGurus (NASDAQ:CARG) Rating Lowered to Hold at Wall Street Zen - MarketBeat",
+      "detail": "CARG\n重點：新聞\n標題：CarGurus (NASDAQ:CARG) Rating Lowered to Hold at Wall Street Zen - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRERrMklFVHlTeXk1bDU3dXk3ZzhlMXVyTEN5Q3RVUkhCWi1oQWhVTWExUnNZLVVuRUFsRUxfaWxVekNpeFdZQ2pjSnJOUXE3Wl94NWxuMF8ySERXQ0Vta3hUNndGaWlvRVJHSVRleVVvT3JpRGRNM0tkdHFCSGE1SzM5NzZ0VHVQWXBpT0d5cWMzVjRrMXRRV3d6THBncjBDZGJQNS1naVhGV…\n來源：Google News:CARG",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRERrMklFVHlTeXk1bDU3dXk3ZzhlMXVyTEN5Q3RVUkhCWi1oQWhVTWExUnNZLVVuRUFsRUxfaWxVekNpeFdZQ2pjSnJOUXE3Wl94NWxuMF8ySERXQ0Vta3hUNndGaWlvRVJHSVRleVVvT3JpRGRNM0tkdHFCSGE1SzM5NzZ0VHVQWXBpT0d5cWMzVjRrMXRRV3d6THBncjBDZGJQNS1naVhGVG9rRTA4UlV1UU1jMlUzLXpzV1NUNVJCQQ?oc=5",
+      "source": "Google News:CARG",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "CARG",
-      "short": "CARG — AI相關：Does VINMax’s AI Inventory Boost Change The Bull Case For CarGurus’ Dealer Model (CARG)?",
-      "detail": "CARG\n重點：AI相關\n標題：Does VINMax’s AI Inventory Boost Change The Bull Case For CarGurus’ Dealer Model (CARG)?\n摘要：In late September 2026, CarGurus announced VINMax, an AI-driven addition to its dealer platform that automatically targets and promotes specific vehicle listings using real-time supply and demand data across on-site and off-site channels. Early results show VINMax-boosted vehicl…\n來源：Yahoo Finance:CARG",
-      "url": "https://finance.yahoo.com/technology/ai/articles/does-vinmax-ai-inventory-boost-090938318.html?.tsrc=rss",
-      "source": "Yahoo Finance:CARG",
+      "symbol": "CRM",
+      "short": "CRM — What Does Salesforce (CRM) Gain From Virginia Sharma Leading Missionforce Marketing? - …",
+      "detail": "CRM\n重點：新聞\n標題：What Does Salesforce (CRM) Gain From Virginia Sharma Leading Missionforce Marketing? - simplywall.st\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOQmFQaVJwRElLaTg3alJtdUI3Znd4RGdDVTc3OUNmMU8wbUdHOFUwOFFCZ0NLdGltQzZvZndQVGd3OTJEeEdqN1llSG45cDZqOUxlV3E3SGZZR2Qwb0VBdWhJMXBFOXJJam1XdXVMUWZ2R2VHa3ltSEpMcXhsN3NjZENZbElFQ0pmNmFWVWdicjhHYS1oYXM2dXNueFh4eWJYNjVJMjk2N2czT…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQmFQaVJwRElLaTg3alJtdUI3Znd4RGdDVTc3OUNmMU8wbUdHOFUwOFFCZ0NLdGltQzZvZndQVGd3OTJEeEdqN1llSG45cDZqOUxlV3E3SGZZR2Qwb0VBdWhJMXBFOXJJam1XdXVMUWZ2R2VHa3ltSEpMcXhsN3NjZENZbElFQ0pmNmFWVWdicjhHYS1oYXM2dXNueFh4eWJYNjVJMjk2N2czTF9LSzhGUXpjNTNtSUZnOHdjNmJaUzJoczd50gHKAUFVX3lxTFBUZzNiSHBaS1pVVmhxNkI1a2toVmppSnNiNVhrREZkZHJ6Wnd2SVMxM3g1V0NyTW9fTG5kODY2Vzl5UGtzQWRuZHdUSWlqeGVGWmdJS0dFcTNPbGEzdm1TelRFZHE5SkJoZWlaWkJ4TU9kWWZHSXhlQ2s5VVV6cnFoSjM3eldBX0pqYUQ0X2Y0MEdNZW5Qd0ZaYy1BUm5zT2g1N1pNNUpxSEpVVDNSRFFzME15ZDRCUjBkTjRxN3pTTk4xQUxHNkJ5MEE?oc=5",
+      "source": "Google News:CRM",
       "kind": "news"
     },
     {
       "n": 5,
-      "symbol": "COF",
-      "short": "COF — 業績／指引：Will Q3 Earnings Change The Bull Case For Capital One Stock (COF)? - Simply Wall Street",
-      "detail": "COF\n重點：業績／指引\n標題：Will Q3 Earnings Change The Bull Case For Capital One Stock (COF)? - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYXJJeDBRd2JKOGhyZUxYajZOMFhLbzVtMEQwcFUwWEYycWlDclVKZk1pZHI2MmdfVVVuQnZGcGVBbWhMY0NxLWdrY21NLWREWnBaU2VySU1hVzVlLXNlUWJFMGl0Ykgtemd0bEtIWjJodVZDMTFEUy1rMjh1RTJwMmNDZUxSLVF5ZnRuREtOQkdYMndDNWEyUk45ZGR1WjkxY1haQ1VRU0JBZ…\n來源：Google News:COF",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYXJJeDBRd2JKOGhyZUxYajZOMFhLbzVtMEQwcFUwWEYycWlDclVKZk1pZHI2MmdfVVVuQnZGcGVBbWhMY0NxLWdrY21NLWREWnBaU2VySU1hVzVlLXNlUWJFMGl0Ykgtemd0bEtIWjJodVZDMTFEUy1rMjh1RTJwMmNDZUxSLVF5ZnRuREtOQkdYMndDNWEyUk45ZGR1WjkxY1haQ1VRU0JBZHcxS0pwWWV6OG9WdjU0cVJnRXVfMnp4YnNUd2tITWplcjNmV2NicmRsU3lHQWZjTGlfR0xmaGlxS0zSAeoBQVVfeXFMTWFCd3J6QTA0bjhldXRnbUIwYlRTM3FMbGJvSzNjc1Nub3ZfYWVKNTJoY3NLUkw1dHJMSVZicUp2cXlQRlEtS3Q2X2RQRlpiRk1xRUQxNWRuZzNrTGJpR1ZKX3N2Ql8zTTRMTVA5U0gzSVR0Tm9jSE8yaUd4UjI5X0t4Wk5LZmx1RzJ1bEFqRjBadzg3QUtodVJKa0V3ZzhVc05lbDU2eWJ1aEFHNW9tY0NHMTBMUy1jRkgtMm1vanVUVmpPZGFZQkN4MFpHb196U3FJY0RSRWl0dGRCRTQyeXdVUVdwdlFObUpR?oc=5",
-      "source": "Google News:COF",
+      "symbol": "GSAT",
+      "short": "GSAT — GSAT Stock On Track To Hit 18-Year High As Amazon Acquires Globalstar For Over 23% Prem…",
+      "detail": "GSAT\n重點：新聞\n標題：GSAT Stock On Track To Hit 18-Year High As Amazon Acquires Globalstar For Over 23% Premium - Stocktwits\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWWtJeDZVMjNHWkV0SXZhZHg3bFZxRkVoRWN2YS1NQ2ZnTGdOblJuTzJSNXBpWVd5QkItWURSODZSakd5YWNfUFFPTXlTZ1A0X29oMTE2VFl3UC1SN2Y3RmUwcDRFdzNyTklheEdpLVQ4cS1zU3RfYUFiMFhHdWl5LUh4Z0Q5YzBXZnVQa2pBaWIydDZhZnFvUmZuTE1VQjIxd0E5OGR6VUNnO…\n來源：Google News:GSAT",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWWtJeDZVMjNHWkV0SXZhZHg3bFZxRkVoRWN2YS1NQ2ZnTGdOblJuTzJSNXBpWVd5QkItWURSODZSakd5YWNfUFFPTXlTZ1A0X29oMTE2VFl3UC1SN2Y3RmUwcDRFdzNyTklheEdpLVQ4cS1zU3RfYUFiMFhHdWl5LUh4Z0Q5YzBXZnVQa2pBaWIydDZhZnFvUmZuTE1VQjIxd0E5OGR6VUNnOTRLYmM5YTlfbDM3TUFWZ01uQmpNVG9nUXluNHRSaHktNEJSWWwyTl83OEpOd04?oc=5",
+      "source": "Google News:GSAT",
       "kind": "news"
     },
     {
       "n": 6,
-      "symbol": "CRM",
-      "short": "CRM — AI相關：Salesforce Expands AI Bundles: Will Higher Adoption Boost ARR?",
-      "detail": "CRM\n重點：AI相關\n標題：Salesforce Expands AI Bundles: Will Higher Adoption Boost ARR?\n摘要：CRM's expanding AI bundles drive stronger Agentforce adoption and ARR growth, as customers move from trials toward broader AI purchases.\n來源：Yahoo Finance:CRM",
-      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-expands-ai-bundles-higher-094500029.html?.tsrc=rss",
-      "source": "Yahoo Finance:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "DGX",
-      "short": "DGX — Interested In Quest Diagnostics' (NYSE:DGX) Upcoming US$0.86 Dividend? You Have Three D…",
-      "detail": "DGX\n重點：新聞\n標題：Interested In Quest Diagnostics' (NYSE:DGX) Upcoming US$0.86 Dividend? You Have Three Days Left - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSWpIRmQ4WllQN2hrYlZZRUYxQ01vc3JqTVJ1am1sc0NScE9HclVBM3VYZkRwMWRqSXlQZnJYUHR2WFFhVWtfN0RPSmpLYzdzSUpSSUc1eWtDYkJsUjd4SWpwY0RWQzUwRmNzRXBWSTB0UGRfN2R1cGN4Q2IxbzJJbWpxMi1UZXpvc05TWEMxQmlPTUp0Ymo3Rkx1RktpSzhKUHJ6ZlNBNlc4c…\n來源：Google News:DGX",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSWpIRmQ4WllQN2hrYlZZRUYxQ01vc3JqTVJ1am1sc0NScE9HclVBM3VYZkRwMWRqSXlQZnJYUHR2WFFhVWtfN0RPSmpLYzdzSUpSSUc1eWtDYkJsUjd4SWpwY0RWQzUwRmNzRXBWSTB0UGRfN2R1cGN4Q2IxbzJJbWpxMi1UZXpvc05TWEMxQmlPTUp0Ymo3Rkx1RktpSzhKUHJ6ZlNBNlc4cGNtaFdITlZ5Nkg1MUlMWE9QVUphQlFtZkl4ZGpsQVE4T21pcHBB0gHWAUFVX3lxTE5kWTZQUmppeXN3d0M4UWNnWFJfN1ZRZTBnYktESklWMjBGY291ZkNPbzZMWlhmRUpIUElWb25Xa18wVm9ocDBCZUs4N3FYSmVDRUxxUWhTLWdmQk5TNXpLLVZVWXQ2dGR1R1A5WFJPMElSQVpnVWlzb29Rb2NIamM5Zl9PS1RWdnZjM2hGU1ppeVQ1ZTlTUmNDQy1fUzNmRW1CQWxxa1lDbU4tdEwxNWZUenh6WU1HaGJ0VmxwcW1zOWlLczFBRUZTeHk5N1ZhemczM2hGNkE?oc=5",
-      "source": "Google News:DGX",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "FTNT",
-      "short": "FTNT — Fortinet (NASDAQ:FTNT) Reaches New 52-Week High - Here's Why - MarketBeat",
-      "detail": "FTNT\n重點：新聞\n標題：Fortinet (NASDAQ:FTNT) Reaches New 52-Week High - Here's Why - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPZkNSWkwtaGxmWHlyQ2hNemVCWmE2MWV1UkdaMTQwdmpVR1kyRHAxRDBHUGllcFVnZmM3QzdCbUlBX291NjNTSERaSkxLWkpvckdvcmE5RlRnWnRLaGx5amFRWXJMd2l4b0EzYXg1SF9hcDc2SWpsZC02cFFraVlwblZuU0hSRE9PSDRQaWYyOTNjSmpGajdoVWxGTlAyNHVvZjBmRFVpQTgxM…\n來源：Google News:FTNT",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZkNSWkwtaGxmWHlyQ2hNemVCWmE2MWV1UkdaMTQwdmpVR1kyRHAxRDBHUGllcFVnZmM3QzdCbUlBX291NjNTSERaSkxLWkpvckdvcmE5RlRnWnRLaGx5amFRWXJMd2l4b0EzYXg1SF9hcDc2SWpsZC02cFFraVlwblZuU0hSRE9PSDRQaWYyOTNjSmpGajdoVWxGTlAyNHVvZjBmRFVpQTgxMnBYQ3dHNU1sQTRZUQ?oc=5",
-      "source": "Google News:FTNT",
-      "kind": "news"
-    },
-    {
-      "n": 9,
       "symbol": "INTU",
-      "short": "INTU — Intuit (NASDAQ:INTU) Stock Rating Reaffirmed as Outperform by Royal Bank Of Canada - Ma…",
-      "detail": "INTU\n重點：新聞\n標題：Intuit (NASDAQ:INTU) Stock Rating Reaffirmed as Outperform by Royal Bank Of Canada - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVEFCZl9rczIyUFA5Q0tIeEdMaE1PS0Zndml2LWxvdmJObk1DMmU1UHN5OXVIeE1tOFdaVXVFN0JFYklNeVlPZXJVUEFsWExLanh3bjB4QjhTcVlmSnU4ZWR2aG5YcVFSX3RjTFZvczRISmU2ZTkxclc3OEdmaTBHLWJfcWpCTzF2OXFYekVKcDZpUDVoOXpoZFZzNkU3ZHZXZVZ6Q2Z2YWNCb…\n來源：Google News:INTU",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVEFCZl9rczIyUFA5Q0tIeEdMaE1PS0Zndml2LWxvdmJObk1DMmU1UHN5OXVIeE1tOFdaVXVFN0JFYklNeVlPZXJVUEFsWExLanh3bjB4QjhTcVlmSnU4ZWR2aG5YcVFSX3RjTFZvczRISmU2ZTkxclc3OEdmaTBHLWJfcWpCTzF2OXFYekVKcDZpUDVoOXpoZFZzNkU3ZHZXZVZ6Q2Z2YWNCbzc2c3lJYzVZT3B0ZjAtQ1hWRWQ2eFFVRGdtRlJ4VXFLSHlKaVJiMjBiSG1JTFV6Zw?oc=5",
+      "short": "INTU — CX Institutional Buys 47,059 Shares of Intuit Inc. $INTU - MarketBeat",
+      "detail": "INTU\n重點：新聞\n標題：CX Institutional Buys 47,059 Shares of Intuit Inc. $INTU - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXMwTWxTb1pMRmNNNkJrNk9ibDlvbDFKYjhtYnVOVU1xcTM5RjFNeEw4MWpSQnNlTGNNSmtsZFdYVFp4LVRuYnBhNGU5U1dsOFEzaTZ4d2RYR01kdnhCV0tGeWpNV01kSUhKWFFvRDd2eWdiQm8wUnlXdE1qX3JpdTI3OGNRdVgyS1ozVlo1YW41ZjJ1Tk9hd0JGdWVYbVMxQXh2M3hhNm9oN…\n來源：Google News:INTU",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXMwTWxTb1pMRmNNNkJrNk9ibDlvbDFKYjhtYnVOVU1xcTM5RjFNeEw4MWpSQnNlTGNNSmtsZFdYVFp4LVRuYnBhNGU5U1dsOFEzaTZ4d2RYR01kdnhCV0tGeWpNV01kSUhKWFFvRDd2eWdiQm8wUnlXdE1qX3JpdTI3OGNRdVgyS1ozVlo1YW41ZjJ1Tk9hd0JGdWVYbVMxQXh2M3hhNm9oNElFV0JDX2RIdUI?oc=5",
       "source": "Google News:INTU",
       "kind": "news"
     },
     {
+      "n": 7,
+      "symbol": "MDT",
+      "short": "MDT — Medtronic Has Been Boring Investors for Years. That Could Be Changing",
+      "detail": "MDT\n重點：新聞\n標題：Medtronic Has Been Boring Investors for Years. That Could Be Changing\n摘要：Medtronic plc (NYSE:MDT) has been a bit of a slow burner. The company has a huge medical-device business and a dependable dividend, but growth has been difficult to find over the past few years. For investors, that has made Medtronic more of an income and stability play than a s…\n來源：Yahoo Finance:MDT",
+      "url": "https://finance.yahoo.com/healthcare/articles/medtronic-boring-investors-years-could-043412570.html?.tsrc=rss",
+      "source": "Yahoo Finance:MDT",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "MRK",
+      "short": "MRK — Merck (MRK) Reports Positive Phase 2b Tulisokibart Results In Hidradenitis Suppurativa",
+      "detail": "MRK\n重點：新聞\n標題：Merck (MRK) Reports Positive Phase 2b Tulisokibart Results In Hidradenitis Suppurativa\n摘要：Merck (NYSE:MRK) reported positive Phase 2b results for tulisokibart in moderate to severe hidradenitis suppurativa on 1 October 2026. The investigational anti TL1A monoclonal antibody met its Phase 2b efficacy goals in patients with this chronic inflammatory skin condition. Mer…\n來源：Yahoo Finance:MRK",
+      "url": "https://finance.yahoo.com/healthcare/articles/merck-mrk-reports-positive-phase-230455162.html?.tsrc=rss",
+      "source": "Yahoo Finance:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "STRC",
+      "short": "STRC — Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock (NASDAQ:STRC) Ann…",
+      "detail": "STRC\n重點：新聞\n標題：Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock (NASDAQ:STRC) Announces Dividend of $0.50 - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUlliT1VmcEVJb0h2QmxTc0FNZzM4UjVMTV9nSEpsd0JLZ09jVXRRcHJHTXd6RlRsc2otMTh0cVhBVHM3T0l2a1BUcE55bEh1TEFZUkRIUFNRZjVRWVFLU3FzWVVTZ1duSHZCV1lWSElxM2Y2N2pCb2JJc1U3RFVXME5vVHJGM25qTzByMGxJVzliU3UwbldEalgwbFdyNVRFMTFVc1NXOFdzT…\n來源：Google News:STRC",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUlliT1VmcEVJb0h2QmxTc0FNZzM4UjVMTV9nSEpsd0JLZ09jVXRRcHJHTXd6RlRsc2otMTh0cVhBVHM3T0l2a1BUcE55bEh1TEFZUkRIUFNRZjVRWVFLU3FzWVVTZ1duSHZCV1lWSElxM2Y2N2pCb2JJc1U3RFVXME5vVHJGM25qTzByMGxJVzliU3UwbldEalgwbFdyNVRFMTFVc1NXOFdzTF9DOVB6NmhPZXBheFRIdmhMZV9NMWlEdndxMnNZRTFVQjB3Y3V3bDNsaTJycmVKNjkyRXQ3UUJfdTI3TWFfNVNfZHl6QlU3OGROSE1vYkswTVd2bGM?oc=5",
+      "source": "Google News:STRC",
+      "kind": "news"
+    },
+    {
       "n": 10,
-      "symbol": "LQDA",
-      "short": "LQDA — Liquidia (NASDAQ:LQDA) Raised to Strong-Buy at Jefferies Financial Group - MarketBeat",
-      "detail": "LQDA\n重點：新聞\n標題：Liquidia (NASDAQ:LQDA) Raised to Strong-Buy at Jefferies Financial Group - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQWGsyczQxWEtFVnZJRzlYN1hsNFkxUXhJOEhtcWVyMDl0MHdoaGFKMlEzV1pfVzJrR2RXRVpRS2ZtUHAwNzc2VmoySDVHMDBNRnF0ZG55bWMtOHFsYVl3eWNQOGFFOGlfNS1kaUtwRTlJZVlCemdqakhXTGlFSE0yNkpwWl81NENwek4tb0JKbm9CX2N0VWdyT0dJaEM4UWhiR3pkOVJ6WjdES…\n來源：Google News:LQDA",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWGsyczQxWEtFVnZJRzlYN1hsNFkxUXhJOEhtcWVyMDl0MHdoaGFKMlEzV1pfVzJrR2RXRVpRS2ZtUHAwNzc2VmoySDVHMDBNRnF0ZG55bWMtOHFsYVl3eWNQOGFFOGlfNS1kaUtwRTlJZVlCemdqakhXTGlFSE0yNkpwWl81NENwek4tb0JKbm9CX2N0VWdyT0dJaEM4UWhiR3pkOVJ6WjdESFBObnRpZTN5YVZuZElJTlNZRV9ZUnItTk42cHBrd3k5cEI?oc=5",
-      "source": "Google News:LQDA",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "LULU",
-      "short": "LULU — lululemon athletica (NASDAQ:LULU) Hits New 12-Month Low - Time to Sell? - MarketBeat",
-      "detail": "LULU\n重點：新聞\n標題：lululemon athletica (NASDAQ:LULU) Hits New 12-Month Low - Time to Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3RIRkdLMDNpUmNTakZfYkNfWUZUbXp6WDUtR1RmelBwSm9ZWlpnNWx2NU1ETDlKNVBZd19KU1NVdzZWUzh5Q2hjNjcxa1F2Yy1rUFpwcUNkS3ZaVXF2WXJwUmd0WTJqN0tkSjJiNjZaMkIyNGQwRjl6Rkp4bEpzVFBzU1M1WDZpYWMyVnhBd09lN3p6dTJMR1ZVVXBFWk9vVEtqb0czYko3U…\n來源：Google News:LULU",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3RIRkdLMDNpUmNTakZfYkNfWUZUbXp6WDUtR1RmelBwSm9ZWlpnNWx2NU1ETDlKNVBZd19KU1NVdzZWUzh5Q2hjNjcxa1F2Yy1rUFpwcUNkS3ZaVXF2WXJwUmd0WTJqN0tkSjJiNjZaMkIyNGQwRjl6Rkp4bEpzVFBzU1M1WDZpYWMyVnhBd09lN3p6dTJMR1ZVVXBFWk9vVEtqb0czYko3UktUVkxCdnlpN0tlcWQwMzg0YlFPVHl5S3Js?oc=5",
-      "source": "Google News:LULU",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "NESR",
-      "short": "NESR — National Energy Services Reunited (NASDAQ:NESR) Stock Moved Up to Strong-Buy by BMO Cap…",
-      "detail": "NESR\n重點：新聞\n標題：National Energy Services Reunited (NASDAQ:NESR) Stock Moved Up to Strong-Buy by BMO Capital Markets - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWUxldDQ5d3VWSGpYd2NaMERJR1hRRFo0WTI2MkFCRzlwZVZBb2t1cWxxU2VQT2NITmVrakNOYzkyZkpTUVZtQjJ2WHZZSm1Sb1dBbnZnX3YyZ0dhNy1YN1VXNHJtb2JVYldSMy1KSkxZQUtXeXNCNVdVdnNMTHdrMEc4U1NadTloZW4wdnhDYjZVX3JZNUI1VTJfdHJPSzVIZGlfOWVWOUQtS…\n來源：Google News:NESR",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWUxldDQ5d3VWSGpYd2NaMERJR1hRRFo0WTI2MkFCRzlwZVZBb2t1cWxxU2VQT2NITmVrakNOYzkyZkpTUVZtQjJ2WHZZSm1Sb1dBbnZnX3YyZ0dhNy1YN1VXNHJtb2JVYldSMy1KSkxZQUtXeXNCNVdVdnNMTHdrMEc4U1NadTloZW4wdnhDYjZVX3JZNUI1VTJfdHJPSzVIZGlfOWVWOUQtSnp2Zm10MmlmZFAtLWxQZjRaUmRSRnhsQXdHcHBMUEJYVTR2UzRrejlWcGo5N1JXWXA0TGtodUxfSFVZclhYZGZ1all5RDI?oc=5",
-      "source": "Google News:NESR",
+      "symbol": "TGT",
+      "short": "TGT — Target (TGT) Cuts Prices After a Strong Rally. Is the Stock Still Cheap?",
+      "detail": "TGT\n重點：新聞\n標題：Target (TGT) Cuts Prices After a Strong Rally. Is the Stock Still Cheap?\n摘要：On September 29, Target Corporation (NYSE:TGT) reported that it is cutting prices on nearly 2,000 home items, apparel, and accessories. This update comes as the company aims to attract cost-conscious shoppers ahead of the holiday season. US consumers are facing a more cautious s…\n來源：Yahoo Finance:TGT",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/target-tgt-cuts-prices-strong-041008423.html?.tsrc=rss",
+      "source": "Yahoo Finance:TGT",
       "kind": "news"
     }
   ]
