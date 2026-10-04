@@ -1,11 +1,38 @@
 {
-  "title": "FS新聞 10-04 06:05",
-  "list_name": "FirstScreen_2026-10-04_060454_comma.txt",
-  "created_at": "2026-10-04T06:05:02.832734+00:00",
+  "title": "FS新聞 10-04 10:53",
+  "list_name": "FirstScreen_2026-10-04_105309_comma.txt",
+  "created_at": "2026-10-04T10:53:22.812630+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "BHP",
+      "short": "BHP — How Investors Are Reacting To BHP Group (ASX:BHP) Expanding El Seguro Copper Footprint …",
+      "detail": "BHP\n重點：新聞\n標題：How Investors Are Reacting To BHP Group (ASX:BHP) Expanding El Seguro Copper Footprint In Argentina\n摘要：Impulsa Mendoza has awarded Public Tender No. 2/2026 to Cerro Quebrado S.A., a BHP Group company, granting it an exploration contract with a purchase option for the El Seguro copper project in Argentina’s Malargüe Western Mining District. This award gives BHP a second route into…\n來源：Yahoo Finance:BHP",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-bhp-group-asx-090919811.html?.tsrc=rss",
+      "source": "Yahoo Finance:BHP",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "FRSH",
+      "short": "FRSH — Freshworks Inc. (NASDAQ:FRSH) Stock Now Rated \"Moderate Buy\" by Wall Street Brokerages …",
+      "detail": "FRSH\n重點：新聞\n標題：Freshworks Inc. (NASDAQ:FRSH) Stock Now Rated \"Moderate Buy\" by Wall Street Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdHIzT1pSdDhhUFl3d3d0Z1M4Um4yR1lEcTAyMzFnVm1qd29JNkZuejE1ZDZRLWRKNTBNUFRvQm9Rb1kySFp5WUt4V19BVjlPS1RLaktCU21IcXpyMVAyYzJjLVVqcHNpeXpUM2FxVklHRHVzSHdpYTRuZmRWck5TeVBSSjNzRXZxV2FCeVBHaklnbTJ4c1A4R2sxaU5QT0MwSHNRMVVEbHRXe…\n來源：Google News:FRSH",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdHIzT1pSdDhhUFl3d3d0Z1M4Um4yR1lEcTAyMzFnVm1qd29JNkZuejE1ZDZRLWRKNTBNUFRvQm9Rb1kySFp5WUt4V19BVjlPS1RLaktCU21IcXpyMVAyYzJjLVVqcHNpeXpUM2FxVklHRHVzSHdpYTRuZmRWck5TeVBSSjNzRXZxV2FCeVBHaklnbTJ4c1A4R2sxaU5QT0MwSHNRMVVEbHRXeU1feDVzZTkxNVh4LXJramhta2JpR2FJUmd3aWhmZzUxSzNKdHVySERiMFlaU0VaSzFMVVE?oc=5",
+      "source": "Google News:FRSH",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "MDT",
+      "short": "MDT — CX Institutional Sells 86,818 Shares of Medtronic PLC $MDT - MarketBeat",
+      "detail": "MDT\n重點：新聞\n標題：CX Institutional Sells 86,818 Shares of Medtronic PLC $MDT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQejM2UWtEeG5yblpnMWZiRnVGa1Z6WnlUQVRzYzRhY0J5c0NxMnhMWmZpemZUQmZ1RjNTMi1TMUJpNTF2clpqLVF0dlRNcE9UXzBIYUR0Mkx0YUQ1UEJVcGlySUFDWlNqMmNWX2FUNjItLUZwRjhiVHNqNGtXMUg2VFd6UVlETG5HV013eV9UbUFadlYwYXIzSUszWVl3RjRVajJ4N25TSlBia…\n來源：Google News:MDT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQejM2UWtEeG5yblpnMWZiRnVGa1Z6WnlUQVRzYzRhY0J5c0NxMnhMWmZpemZUQmZ1RjNTMi1TMUJpNTF2clpqLVF0dlRNcE9UXzBIYUR0Mkx0YUQ1UEJVcGlySUFDWlNqMmNWX2FUNjItLUZwRjhiVHNqNGtXMUg2VFd6UVlETG5HV013eV9UbUFadlYwYXIzSUszWVl3RjRVajJ4N25TSlBiakRvOFZBMXVDMXRsakox?oc=5",
+      "source": "Google News:MDT",
+      "kind": "news"
+    },
+    {
+      "n": 4,
       "symbol": "OKTA",
       "short": "OKTA — Wall Street Zen Upgrades Okta (NASDAQ:OKTA) to Buy - MarketBeat",
       "detail": "OKTA\n重點：新聞\n標題：Wall Street Zen Upgrades Okta (NASDAQ:OKTA) to Buy - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkg0N1c0aXFkcEo4OVY2d2ZZWGNsZ0U5Y1lacHkxSmhZcm42RzlTS1ZfWnlhZTRYTElYaXgzazh3WUp0ZHpSMmpyVVg4QVVkMGVLQjFHQmphcUFVYkJxdDIyRDJRMDZEUFhORUFnWkQyU0ZfZ0l4TzlvMXNmTGtFSk5MOXNWeUh6aU1mV1c2T0ZqdDRlZEt5M0NPcThLM0J6bWxsaW8yU0RHZ…\n來源：Google News:OKTA",
