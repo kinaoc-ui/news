@@ -1,97 +1,115 @@
 {
-  "title": "FS新聞 10-05 12:01",
-  "list_name": "FirstScreen_2026-10-05_120131_comma.txt",
-  "created_at": "2026-10-05T12:01:39.582768+00:00",
+  "title": "FS新聞 10-05 19:09",
+  "list_name": "FirstScreen_2026-10-05_190902_comma.txt",
+  "created_at": "2026-10-05T19:09:12.637607+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "A",
-      "short": "A — If a Stock Market Crash Is Coming, Warren Buffett Has Advice for Investors Right Now - …",
-      "detail": "A\n重點：新聞\n標題：If a Stock Market Crash Is Coming, Warren Buffett Has Advice for Investors Right Now - AOL.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQTFVCclRYOXlRa1FDaGJDV0h4TnotcldvWmFkNFZkQ0dXT3prWEd1c2Z6eG9BeTFfLWZfYTR4TXJNRWFZNWd3UUU5V19ocnZQNkdBaHRNbi1XczRyV0hWUGhJS3BTOWVCbGJKUU1Ya3RiZTJlTGxwd0VaZE5DQ3dvYzlR?oc=5\" target=\"_blank\">If a Stock Market Crash Is Com…\n來源：Google News:A",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTFVCclRYOXlRa1FDaGJDV0h4TnotcldvWmFkNFZkQ0dXT3prWEd1c2Z6eG9BeTFfLWZfYTR4TXJNRWFZNWd3UUU5V19ocnZQNkdBaHRNbi1XczRyV0hWUGhJS3BTOWVCbGJKUU1Ya3RiZTJlTGxwd0VaZE5DQ3dvYzlR?oc=5",
-      "source": "Google News:A",
+      "symbol": "ANET",
+      "short": "ANET — Arista Networks, Inc. $ANET Shares Newly Acquired by Neville Rodie & Shaw Inc. - Market…",
+      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Shares Newly Acquired by Neville Rodie & Shaw Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPeEFwZVVxeHc2dkt3b1dtZWJSLXVUVVV1aVBKa3JsdEtoY3I2Q3RwRzEtWVJHM0ZJbkNrenZmYllXejFkdVFyZHhPVkpXMUtUU2hKRnYxdmpoQWJPc2Zhd3EzeFBHNWNoUy15dm9OY3VGQ01Nb2Q4RVZ0Qi1FVnQzS1AtWW8xd1NQVEVZeWpSbmxyRFItWXJpRnNpS2N1QUI3NzFyVFlPeElGR…\n來源：Google News:ANET\n其他：Arista Networks, Inc. $ANET Stake Trimmed by Bright Rock Ca…; 60,149 Arista Networks, Inc. $ANET Shares Sold by Eastern B…",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeEFwZVVxeHc2dkt3b1dtZWJSLXVUVVV1aVBKa3JsdEtoY3I2Q3RwRzEtWVJHM0ZJbkNrenZmYllXejFkdVFyZHhPVkpXMUtUU2hKRnYxdmpoQWJPc2Zhd3EzeFBHNWNoUy15dm9OY3VGQ01Nb2Q4RVZ0Qi1FVnQzS1AtWW8xd1NQVEVZeWpSbmxyRFItWXJpRnNpS2N1QUI3NzFyVFlPeElGRnh3XzNCWDNSellsNmxac0x5LWplUWJ1cWdVWGsyZlJOQ1lKZw?oc=5",
+      "source": "Google News:ANET",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "BHP",
-      "short": "BHP — BofA upgrades BHP stock to Buy at AUD 68.00 - AD HOC NEWS",
-      "detail": "BHP\n重點：新聞\n標題：BofA upgrades BHP stock to Buy at AUD 68.00 - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ2FCUFY5N01PR1NtcjF1QWdQY3ZYWW43VkNDSDJlcUJfY20tZVVZZWlwWlVoYUFMZWk0UDJ0UFhKaFVwcG1oT050UzAybUhYN0h6TXFJOHpvQmdaMnhQTmVNOXdvN0EwUUF1c3RFcnZoZV8weXFjaFRhblZFcGFzY3k5R29kM3lZemI4ZGJWelVNNjU4RDBxTWlocDN6cWZ2REdwYmpBS1o1U…\n來源：Google News:BHP",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ2FCUFY5N01PR1NtcjF1QWdQY3ZYWW43VkNDSDJlcUJfY20tZVVZZWlwWlVoYUFMZWk0UDJ0UFhKaFVwcG1oT050UzAybUhYN0h6TXFJOHpvQmdaMnhQTmVNOXdvN0EwUUF1c3RFcnZoZV8weXFjaFRhblZFcGFzY3k5R29kM3lZemI4ZGJWelVNNjU4RDBxTWlocDN6cWZ2REdwYmpBS1o1UQ?oc=5",
-      "source": "Google News:BHP",
+      "symbol": "HCA",
+      "short": "HCA — Park National Corp OH Purchases 6,276 Shares of HCA Healthcare, Inc. $HCA - MarketBeat",
+      "detail": "HCA\n重點：新聞\n標題：Park National Corp OH Purchases 6,276 Shares of HCA Healthcare, Inc. $HCA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxONmM0SE84aUpjWFNIUjhkd25rQmtkeVNaRm9rZnZLWFFDRmd4Z2puWHVaZVpNQkpfbU1wOXRNbFJjdy05WUQ2dkluLWd4YTlEWWZlc0pCam9fY2JVYXBaZjRWLVZPeGZaY1VpcFY1T0FzVDZVZXNGZUdqNkJ6QUhHUU9BcG1wSmhHVTFUWkRReHVyRG1MTFA2YWVkRzJFcHNUaEloazlSZE5ab…\n來源：Google News:HCA\n其他：65,181 HCA Healthcare, Inc. $HCA Shares Sold by Argent Capi…",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONmM0SE84aUpjWFNIUjhkd25rQmtkeVNaRm9rZnZLWFFDRmd4Z2puWHVaZVpNQkpfbU1wOXRNbFJjdy05WUQ2dkluLWd4YTlEWWZlc0pCam9fY2JVYXBaZjRWLVZPeGZaY1VpcFY1T0FzVDZVZXNGZUdqNkJ6QUhHUU9BcG1wSmhHVTFUWkRReHVyRG1MTFA2YWVkRzJFcHNUaEloazlSZE5abmhubUJCZXNzY3F0SXVqUzFPRlV1M01zVW1Bd1A2enNB?oc=5",
+      "source": "Google News:HCA",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "GEN",
-      "short": "GEN — 業績／指引：Gen Digital Q1 2027 Earnings Call: Complete Transcript - Benzinga",
-      "detail": "GEN\n重點：業績／指引\n標題：Gen Digital Q1 2027 Earnings Call: Complete Transcript - Benzinga\n摘要：<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNRVZSbWwzY2FadFA1THRSSWdub0FhQ0wxX2Vhd2pxeTdfcjJwNTIxaHJaMS10d2Z6YXNacmJsSm12b3NtTTE5TDlpQXE3TkdZQU04NWR6LUJraTlyZEVncjVNTHZKSUlFQXZrSXl0U0lhVkJ0bWdISU54Q0VTbktJVzRwYmVNcVhBcGxmMklPTmJ2Y0M0N3BFWS1QZEJqdEU?oc=5\" target=…\n來源：Google News:GEN",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRVZSbWwzY2FadFA1THRSSWdub0FhQ0wxX2Vhd2pxeTdfcjJwNTIxaHJaMS10d2Z6YXNacmJsSm12b3NtTTE5TDlpQXE3TkdZQU04NWR6LUJraTlyZEVncjVNTHZKSUlFQXZrSXl0U0lhVkJ0bWdISU54Q0VTbktJVzRwYmVNcVhBcGxmMklPTmJ2Y0M0N3BFWS1QZEJqdEU?oc=5",
-      "source": "Google News:GEN",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "LQDA",
-      "short": "LQDA — Liquidia (NASDAQ:LQDA) Stock Dropped to Equal Weight by Wells Fargo & Company - MarketB…",
-      "detail": "LQDA\n重點：新聞\n標題：Liquidia (NASDAQ:LQDA) Stock Dropped to Equal Weight by Wells Fargo & Company - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQeDZTRWVqMzdBTVhqakwxcG9hYjZPSHpqZjc3MzdnUUZFT2lQUjlXR3lSNENPQkluV2VhWWNoTnJsX2Y1d1hvY0JIZWJib0xLX214N01hbUNZekdaczRIQ3lVQlQxendFUG9HdzJYbnIyVzdpdU4xbVktTTNLbWpHdjhkQVVNUk5Mb1ByRXBPMGk1UzhycmVVbnNwbXNwNVpVb3ZOdERlSTBtM…\n來源：Google News:LQDA",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeDZTRWVqMzdBTVhqakwxcG9hYjZPSHpqZjc3MzdnUUZFT2lQUjlXR3lSNENPQkluV2VhWWNoTnJsX2Y1d1hvY0JIZWJib0xLX214N01hbUNZekdaczRIQ3lVQlQxendFUG9HdzJYbnIyVzdpdU4xbVktTTNLbWpHdjhkQVVNUk5Mb1ByRXBPMGk1UzhycmVVbnNwbXNwNVpVb3ZOdERlSTBtMU5ZenU4UFktc0ZIVm9lSGxvX05YYmlQbFMwU193?oc=5",
-      "source": "Google News:LQDA",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "LW",
-      "short": "LW — 業績／指引：Lamb Weston (LW) Soars 5.9%: Is Further Upside Left in the Stock?",
-      "detail": "LW\n重點：業績／指引\n標題：Lamb Weston (LW) Soars 5.9%: Is Further Upside Left in the Stock?\n摘要：Lamb Weston (LW) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might help the stock continue moving higher in the near term.\n來源：Yahoo Finance:LW",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lamb-weston-lw-soars-5-102100842.html?.tsrc=rss",
-      "source": "Yahoo Finance:LW",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "MDT",
-      "short": "MDT — Medtronic PLC $MDT Shares Acquired by MassMutual Private Wealth & Trust FSB - MarketBeat",
-      "detail": "MDT\n重點：新聞\n標題：Medtronic PLC $MDT Shares Acquired by MassMutual Private Wealth & Trust FSB - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPUndDdEtaSTJNV1kyWmdQQ0p2Q3Q4Y19PcXhJQW1jdjhodUhaSy1sa3lXUUxfZlFiLWNCQlo1ZEtIZUhCMUVQVVpHekxHVXFVOXowZHlyWG9jMjBCSHZONjZuSFFqQ1BYcXpTNDBHYzJVNlBRZkoxS2RHWGRLbzhrYzNXUm1ncnh1N2k5SXBRaEFBd2hoUXhVQW9JeVJPQ2FjQ1hDV1h0Z1ZQM…\n來源：Google News:MDT",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUndDdEtaSTJNV1kyWmdQQ0p2Q3Q4Y19PcXhJQW1jdjhodUhaSy1sa3lXUUxfZlFiLWNCQlo1ZEtIZUhCMUVQVVpHekxHVXFVOXowZHlyWG9jMjBCSHZONjZuSFFqQ1BYcXpTNDBHYzJVNlBRZkoxS2RHWGRLbzhrYzNXUm1ncnh1N2k5SXBRaEFBd2hoUXhVQW9JeVJPQ2FjQ1hDV1h0Z1ZQM3p3eVhwWUM3R2c5dkQ2QVhDcXhYSThIUkdXQmFwMWI0UW10Zw?oc=5",
-      "source": "Google News:MDT",
-      "kind": "news"
-    },
-    {
-      "n": 7,
       "symbol": "MRK",
-      "short": "MRK — Merck & Co., Inc. $MRK Stock Position Lowered by MassMutual Private Wealth & Trust FSB …",
-      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Stock Position Lowered by MassMutual Private Wealth & Trust FSB - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQVpORnc0YlpxZmc3aGNVQXRaSm84YklvbjhZV2tPMGhvbk5QN1pWRzZkTkNjRWd1elBCSF8zdlJTNXdDZlJYZWZKTlR2VXVlY0ZoeF9NZF8wTXQzMG5WdDhJalFWa3lORXhDb1Vmcnc0NENoQjB4UmFmSnVSc1hRbUVncTR3bTRUbXpQUjFmMHRSZDJSeGVTR3g4NTU0LVFxMFJhc3hTQkV5c…\n來源：Google News:MRK",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQVpORnc0YlpxZmc3aGNVQXRaSm84YklvbjhZV2tPMGhvbk5QN1pWRzZkTkNjRWd1elBCSF8zdlJTNXdDZlJYZWZKTlR2VXVlY0ZoeF9NZF8wTXQzMG5WdDhJalFWa3lORXhDb1Vmcnc0NENoQjB4UmFmSnVSc1hRbUVncTR3bTRUbXpQUjFmMHRSZDJSeGVTR3g4NTU0LVFxMFJhc3hTQkV5cGN4YkR6VEN6U2RuZmltYzFpNjhBZEFTSjhDTWJSektJc2JmRHBIbFE3RDRB?oc=5",
+      "short": "MRK — Merck & Co., Inc. $MRK Stock Position Decreased by Park National Corp OH - MarketBeat",
+      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Stock Position Decreased by Park National Corp OH - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNZWg4Q2d4LVVNbmNyekJpLU1iT2JJVHcwM3VQVXdIVnlMODlMREE0dVFrNlNya3ZwRWo3MWRfcndBZV9hSzN6aGZDamJhaHhqNVNKeEdvYW9xUEd5TURzdGFrRjc3Ml9uUlJiZnVTWkxWblA4c0Q5YnFmLXh1WWZOUU9RLUI0WTJ4M1FBOHhzcmdiZ3dnODBWRW9XUkVWT3M4cXNsUXdWcEo0Q…\n來源：Google News:MRK\n其他：Merck & Co., Inc. $MRK Stock Sold by Argent Capital Managem…",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZWg4Q2d4LVVNbmNyekJpLU1iT2JJVHcwM3VQVXdIVnlMODlMREE0dVFrNlNya3ZwRWo3MWRfcndBZV9hSzN6aGZDamJhaHhqNVNKeEdvYW9xUEd5TURzdGFrRjc3Ml9uUlJiZnVTWkxWblA4c0Q5YnFmLXh1WWZOUU9RLUI0WTJ4M1FBOHhzcmdiZ3dnODBWRW9XUkVWT3M4cXNsUXdWcEo0QkpBcEptdUZlWVdvQXRQYnVoYm42MUw3X21aNFE?oc=5",
       "source": "Google News:MRK",
       "kind": "news"
     },
     {
+      "n": 4,
+      "symbol": "OKTA",
+      "short": "OKTA — Okta: The Cybersecurity Sector Is Overheated (Downgrade) (NASDAQ:OKTA) - Seeking Alpha",
+      "detail": "OKTA\n重點：新聞\n標題：Okta: The Cybersecurity Sector Is Overheated (Downgrade) (NASDAQ:OKTA) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNTWtQWTlsbmdWSHpOaDA0ZlJSN3VfdkhscnJGZ1VyU3MydHJsNVhjUmRKXzh1dk15ZEZjLW1kVXBEUzltTVJ6ZFh2bnZlQXJMbzU4ZUxZU1k4dHlQYkJ3RGNtbWNoZFJ6b0N4eXgyTHdGUWxVWW41aUJIR3pvNnVLdkYya19TcHFwY0dPUU9zQVNxNDRhc3oyNjVR?oc=5\" target=\"_blank…\n來源：Google News:OKTA\n其他：Argent Capital Management LLC Purchases New Position in Okt…",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTWtQWTlsbmdWSHpOaDA0ZlJSN3VfdkhscnJGZ1VyU3MydHJsNVhjUmRKXzh1dk15ZEZjLW1kVXBEUzltTVJ6ZFh2bnZlQXJMbzU4ZUxZU1k4dHlQYkJ3RGNtbWNoZFJ6b0N4eXgyTHdGUWxVWW41aUJIR3pvNnVLdkYya19TcHFwY0dPUU9zQVNxNDRhc3oyNjVR?oc=5",
+      "source": "Google News:OKTA",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "STRC",
+      "short": "STRC — Strategy buys 334 more bitcoin and $176M of STRC stock",
+      "detail": "STRC\n重點：新聞\n標題：Strategy buys 334 more bitcoin and $176M of STRC stock\n摘要：Scott Melker breaks down major crypto news, including Strategy's (MSTR) latest bitcoin (BTC-USD) purchases and share buybacks, Intercontinental Exchange (ICE) partnering with OKX for tokenized 24/7 stock trading, Bloomberg Terminal integrating Hyperliquid data, community banks s…\n來源：Yahoo Finance:STRC\n其他：Michael Saylor’s Strategy Adds 334 BTC, Maintains STRC Stoc…",
+      "url": "https://finance.yahoo.com/video/strategy-buys-334-more-bitcoin-161141891.html?.tsrc=rss",
+      "source": "Yahoo Finance:STRC",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "CRM",
+      "short": "CRM — Park National Corp OH Sells 23,593 Shares of Salesforce Inc. $CRM - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：Park National Corp OH Sells 23,593 Shares of Salesforce Inc. $CRM - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcFRZa0dLcUFDQ2w4cXQ4ZGptQlN2MjA5b29VMHBBRjRUTTRzOEx5ZUF0dWlVWl9NcnBxa29zY1dqd2ZuSkJuUFp2WHIzRnkxOUx4MUJEMTJPdmNncmJXVGtTRVRUcTlERXE3em8zb3J0dzdGMjk2VXBxU0gyNWZBY1c5VzdWNXJheWFTRVY0eUoxc25sRTlFdm5Wa1dQd0R6ZEtWM0FOLV8yW…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcFRZa0dLcUFDQ2w4cXQ4ZGptQlN2MjA5b29VMHBBRjRUTTRzOEx5ZUF0dWlVWl9NcnBxa29zY1dqd2ZuSkJuUFp2WHIzRnkxOUx4MUJEMTJPdmNncmJXVGtTRVRUcTlERXE3em8zb3J0dzdGMjk2VXBxU0gyNWZBY1c5VzdWNXJheWFTRVY0eUoxc25sRTlFdm5Wa1dQd0R6ZEtWM0FOLV8yWlRib25sZ20zdzB6dTE0ZDFJVU4xbm4?oc=5",
+      "source": "Google News:CRM",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "EL",
+      "short": "EL — Barclays Upgrades Estee Lauder Companies (NYSE:EL) to \"Overweight\" - MarketBeat",
+      "detail": "EL\n重點：新聞\n標題：Barclays Upgrades Estee Lauder Companies (NYSE:EL) to \"Overweight\" - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0h5YXdRTFA4OV9nZjdxUGM3Vlk2ZldzclVIRnVvbFVGR0ZuemlhMzdsM2NiQUdad195NWtPbFJwRGRZUmYzOWd2SlZnMzA4VnROMmtxbkU2MGVPY0dZX3FTcVYySjdoS0tWT0F2QnVSUWM5cXlMckZSSTUwRVd6WXVWRXZDbkRXYktuOGJmc0NZN3hpZGdBOGlaaXllS00yWVMzcjFBSWdXa…\n來源：Google News:EL",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0h5YXdRTFA4OV9nZjdxUGM3Vlk2ZldzclVIRnVvbFVGR0ZuemlhMzdsM2NiQUdad195NWtPbFJwRGRZUmYzOWd2SlZnMzA4VnROMmtxbkU2MGVPY0dZX3FTcVYySjdoS0tWT0F2QnVSUWM5cXlMckZSSTUwRVd6WXVWRXZDbkRXYktuOGJmc0NZN3hpZGdBOGlaaXllS00yWVMzcjFBSWdXa3FHWG9rSGp1ekJfZVFGbzU1bjUyYWs1QQ?oc=5",
+      "source": "Google News:EL",
+      "kind": "news"
+    },
+    {
       "n": 8,
-      "symbol": "PYPL",
-      "short": "PYPL — 併購／交易：PYPL Stock Surges To 6-Month High On $53B Takeover Bid – Wall Street's Divided On Wheth…",
-      "detail": "PYPL\n重點：併購／交易\n標題：PYPL Stock Surges To 6-Month High On $53B Takeover Bid – Wall Street's Divided On Whether It's A Good Deal - Stocktwits\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRS1TRlBvV0tjQnRmTlRIZ0kxaTJnbzZEUFZuOU5KLVRueXA0WnNCbi1tRkF5ODlXNXlHSUFWWno3NC1kSjQyOFFTWEctVHZ4QWRIcUxWSXFZbm4zUnFCeGJuZHpNOXZ0UllxSmhKZDBrelRETlFMMFVlcTFLMWUyUDVaeWxpMkV6bkhjaDVRY1Rqb2NsbDUycG5acUxmT0xZWkNKc3UtNUFHM…\n來源：Google News:PYPL",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRS1TRlBvV0tjQnRmTlRIZ0kxaTJnbzZEUFZuOU5KLVRueXA0WnNCbi1tRkF5ODlXNXlHSUFWWno3NC1kSjQyOFFTWEctVHZ4QWRIcUxWSXFZbm4zUnFCeGJuZHpNOXZ0UllxSmhKZDBrelRETlFMMFVlcTFLMWUyUDVaeWxpMkV6bkhjaDVRY1Rqb2NsbDUycG5acUxmT0xZWkNKc3UtNUFHM3NjeVJKaUUyaHp0WmFQM2FxSFo3N2FRTUFERzRv?oc=5",
-      "source": "Google News:PYPL",
+      "symbol": "FTNT",
+      "short": "FTNT — Fortinet, Inc. $FTNT Stock Sold by Argent Capital Management LLC - MarketBeat",
+      "detail": "FTNT\n重點：新聞\n標題：Fortinet, Inc. $FTNT Stock Sold by Argent Capital Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPaktJakdkd2NzUElZdzhiYTZRVEpVanpoYlBjaUhDbVV4akY3MXhzYzVUTVV4SENQcmJTZXk1NzlZZ3NIZG5VTGV2TGtzanM2MVpjUklXOXNSMFdKbkx3enR4Z3hnYXh3a0hSRW9SYm13VEtZTVctd1RlM0FvMG1WLWRETnhrZ3h5NC1hc1VNSlJFNmc2RUdvS0J4VWI5UnFuQVFyZGNnSU1EW…\n來源：Google News:FTNT",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaktJakdkd2NzUElZdzhiYTZRVEpVanpoYlBjaUhDbVV4akY3MXhzYzVUTVV4SENQcmJTZXk1NzlZZ3NIZG5VTGV2TGtzanM2MVpjUklXOXNSMFdKbkx3enR4Z3hnYXh3a0hSRW9SYm13VEtZTVctd1RlM0FvMG1WLWRETnhrZ3h5NC1hc1VNSlJFNmc2RUdvS0J4VWI5UnFuQVFyZGNnSU1EWkE1bVBFMkRVcG5FeDkyRF9Bb3pNQQ?oc=5",
+      "source": "Google News:FTNT",
       "kind": "news"
     },
     {
       "n": 9,
-      "symbol": "SLB",
-      "short": "SLB — BofA cuts target for SLB stock from USD 57.00 to USD 56.00 - AD HOC NEWS",
-      "detail": "SLB\n重點：新聞\n標題：BofA cuts target for SLB stock from USD 57.00 to USD 56.00 - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNbjYzTGMyY0FQVTRORUNhVjVyZGZkWFQxR3k2azRHSlZwX3Jvd1RvQlhTS1BlMDVrVzN5UEdJaW5MZkpZTmU5UGZPcjdnWUkwYjM1dG1GeVZJNHRuVWlialE1ZGhFajVDQzl3R2JpdG1QMlFUWlU3aHlsa3E5dWIwZjl3bHRkYzRxMFpiWWhPaVBPS1lSZVF5ZVgydTJNcDJoNjlpUUZBVDhVc…\n來源：Google News:SLB",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbjYzTGMyY0FQVTRORUNhVjVyZGZkWFQxR3k2azRHSlZwX3Jvd1RvQlhTS1BlMDVrVzN5UEdJaW5MZkpZTmU5UGZPcjdnWUkwYjM1dG1GeVZJNHRuVWlialE1ZGhFajVDQzl3R2JpdG1QMlFUWlU3aHlsa3E5dWIwZjl3bHRkYzRxMFpiWWhPaVBPS1lSZVF5ZVgydTJNcDJoNjlpUUZBVDhVc25PY0otdnIxRUp3QUNSd3h0Njh3?oc=5",
-      "source": "Google News:SLB",
+      "symbol": "FUTU",
+      "short": "FUTU — Futu (NASDAQ:FUTU) Shares Climb 8.2% - Still a Buy? - MarketBeat",
+      "detail": "FUTU\n重點：新聞\n標題：Futu (NASDAQ:FUTU) Shares Climb 8.2% - Still a Buy? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNT0VjSHV1VnF5enk4bThaWnhBZTkzRDJQQjNjcGJEOU9nejlvd3pybS1hQ1F1X2VFek1lb1lyZ0d0UkdaMklwUnpLVWFUSkN2OFZXS3I2STFtNjR5Y3h1OEdXYVhPTHgyWnNsYWRvRFBDQjZTaHJxWGZ4NnFYZmZoelNVa01XNVRva0gzR3pIX2w2dlRvZlUxUklDN0dYUGJkUXlITVB2Zw?oc…\n來源：Google News:FUTU",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT0VjSHV1VnF5enk4bThaWnhBZTkzRDJQQjNjcGJEOU9nejlvd3pybS1hQ1F1X2VFek1lb1lyZ0d0UkdaMklwUnpLVWFUSkN2OFZXS3I2STFtNjR5Y3h1OEdXYVhPTHgyWnNsYWRvRFBDQjZTaHJxWGZ4NnFYZmZoelNVa01XNVRva0gzR3pIX2w2dlRvZlUxUklDN0dYUGJkUXlITVB2Zw?oc=5",
+      "source": "Google News:FUTU",
       "kind": "news"
     },
     {
       "n": 10,
-      "symbol": "YETI",
-      "short": "YETI — Canaccord raises target for YETI stock from USD 45.00 to USD 46.00 - AD HOC NEWS",
-      "detail": "YETI\n重點：新聞\n標題：Canaccord raises target for YETI stock from USD 45.00 to USD 46.00 - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZlhpTjBKNEI0bFIwWGt1VGc4LWlwMVV1MmxPWVRuQWFPVmh1YURWekprd0dhNzJxYnpMR01tcmt5eDNhZkt1LW9vdkRhMS1VQmlzYWJucWpfYUZwWU1TTk5GM1lnenpMdXBxMmZ4RnZKNzZjR2pzeUxIVy1yNEpaVHoxY2tuQy01dWhqcUJLcElnTERUX2FNTmYwdURDNmIzVnQzcEdiQUJya…\n來源：Google News:YETI",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZlhpTjBKNEI0bFIwWGt1VGc4LWlwMVV1MmxPWVRuQWFPVmh1YURWekprd0dhNzJxYnpMR01tcmt5eDNhZkt1LW9vdkRhMS1VQmlzYWJucWpfYUZwWU1TTk5GM1lnenpMdXBxMmZ4RnZKNzZjR2pzeUxIVy1yNEpaVHoxY2tuQy01dWhqcUJLcElnTERUX2FNTmYwdURDNmIzVnQzcEdiQUJyaTlLSnp3Vl9YcWhEYjRWLTB3TF9rTGQwdlU?oc=5",
-      "source": "Google News:YETI",
+      "symbol": "GGB",
+      "short": "GGB — Gerdau (NYSE:GGB) Sets New 1-Year High - What's Next? - MarketBeat",
+      "detail": "GGB\n重點：新聞\n標題：Gerdau (NYSE:GGB) Sets New 1-Year High - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNDRvdVRhNnZObTV0a28tY3dfNDZZM0R3T3dVT3NIcVlTY2JkcG1Ga1hLWVcxMnhsZlV3ck1UZjh1ZnpQWDJzcEsxUHpOQmZqVUdIRkNFendZRS1QWVd4QUJQZ01pamZGNkxUZnVpYWhRWFpfaEEwbUpLX19hOTFlOExCNGppbEpTQzBSVmNLeVEzcXdIVGJlVm84SXdxaFlNbHVXRXZWaDItW…\n來源：Google News:GGB",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNDRvdVRhNnZObTV0a28tY3dfNDZZM0R3T3dVT3NIcVlTY2JkcG1Ga1hLWVcxMnhsZlV3ck1UZjh1ZnpQWDJzcEsxUHpOQmZqVUdIRkNFendZRS1QWVd4QUJQZ01pamZGNkxUZnVpYWhRWFpfaEEwbUpLX19hOTFlOExCNGppbEpTQzBSVmNLeVEzcXdIVGJlVm84SXdxaFlNbHVXRXZWaDItWWM?oc=5",
+      "source": "Google News:GGB",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "INTU",
+      "short": "INTU — Rockland Trust Co. Boosts Position in Intuit Inc. $INTU - MarketBeat",
+      "detail": "INTU\n重點：新聞\n標題：Rockland Trust Co. Boosts Position in Intuit Inc. $INTU - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNMGY0OVR6U09BVTNOLS1qMkdQa0FRWi0wOXZ4dV9pM0VtT3FCc1plcDUxV21KY1R1TWw1c1VuTHJUOVNMZElVV3J3bE1sQ1B4OEhUOGtRMnRJOFVIajRsTHVSN2NiSjQ4czVNb1lvTlBLbmFOVmtBbGkxY3o4TGZhakpka2FXZ0llemhCc1Y3OGVMaXprUlJoSzVoeUhCZ2FEdWlldDF2bGlPZ…\n來源：Google News:INTU",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMGY0OVR6U09BVTNOLS1qMkdQa0FRWi0wOXZ4dV9pM0VtT3FCc1plcDUxV21KY1R1TWw1c1VuTHJUOVNMZElVV3J3bE1sQ1B4OEhUOGtRMnRJOFVIajRsTHVSN2NiSjQ4czVNb1lvTlBLbmFOVmtBbGkxY3o4TGZhakpka2FXZ0llemhCc1Y3OGVMaXprUlJoSzVoeUhCZ2FEdWlldDF2bGlPZkVySE5FSzQzRQ?oc=5",
+      "source": "Google News:INTU",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "LQDA",
+      "short": "LQDA — Liquidia (NASDAQ:LQDA) Stock Price Down 6.1% After Analyst Downgrade - MarketBeat",
+      "detail": "LQDA\n重點：新聞\n標題：Liquidia (NASDAQ:LQDA) Stock Price Down 6.1% After Analyst Downgrade - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU0J4SUdQZjVjQmxSVzlVQ2prLVBNaGpOdnZ6ekN5TG5HX3MtcC1iei0zYlJ1Rllxei1LRmllRnhvWmlyQ00wVG56MzhzeVFGenBFd3ZsSFdrUy0wVlZWLTdsU1pxUWVXTVhVVFdkbFNRX01LU2xDS2tCTmVHM2ZqN0V5dUFJRVVyM2dMZEVleVp2Uk9sZjdvYUN0RnlhMnRxek1Ccm1iQU9GS…\n來源：Google News:LQDA",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU0J4SUdQZjVjQmxSVzlVQ2prLVBNaGpOdnZ6ekN5TG5HX3MtcC1iei0zYlJ1Rllxei1LRmllRnhvWmlyQ00wVG56MzhzeVFGenBFd3ZsSFdrUy0wVlZWLTdsU1pxUWVXTVhVVFdkbFNRX01LU2xDS2tCTmVHM2ZqN0V5dUFJRVVyM2dMZEVleVp2Uk9sZjdvYUN0RnlhMnRxek1Ccm1iQU9GSTF5b21zUmJZaGZyMjRzWHZlZnh3OUs4QQ?oc=5",
+      "source": "Google News:LQDA",
       "kind": "news"
     }
   ]
