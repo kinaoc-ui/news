@@ -1,52 +1,97 @@
 {
-  "title": "FS新聞 10-05 05:58",
-  "list_name": "FirstScreen_2026-10-05_055806_comma.txt",
-  "created_at": "2026-10-05T05:58:15.506908+00:00",
+  "title": "FS新聞 10-05 12:01",
+  "list_name": "FirstScreen_2026-10-05_120131_comma.txt",
+  "created_at": "2026-10-05T12:01:39.582768+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "ANET",
-      "short": "ANET — AI相關：Arista (ANET) Has $13.3 Billion of Cash and No Debt at All. What Is That Worth?",
-      "detail": "ANET\n重點：AI相關\n標題：Arista (ANET) Has $13.3 Billion of Cash and No Debt at All. What Is That Worth?\n摘要：Arista Networks, Inc. (NYSE:ANET) closed at $207.35 on October 2, up 38.70% over twelve months. The company holds billions in cash and carries no borrowings at all. A business of this size with no borrowings is rare enough to be worth examining on its own terms. READ ALSO: NVIDI…\n來源：Yahoo Finance:ANET",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-anet-13-3-billion-010014704.html?.tsrc=rss",
-      "source": "Yahoo Finance:ANET",
+      "symbol": "A",
+      "short": "A — If a Stock Market Crash Is Coming, Warren Buffett Has Advice for Investors Right Now - …",
+      "detail": "A\n重點：新聞\n標題：If a Stock Market Crash Is Coming, Warren Buffett Has Advice for Investors Right Now - AOL.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQTFVCclRYOXlRa1FDaGJDV0h4TnotcldvWmFkNFZkQ0dXT3prWEd1c2Z6eG9BeTFfLWZfYTR4TXJNRWFZNWd3UUU5V19ocnZQNkdBaHRNbi1XczRyV0hWUGhJS3BTOWVCbGJKUU1Ya3RiZTJlTGxwd0VaZE5DQ3dvYzlR?oc=5\" target=\"_blank\">If a Stock Market Crash Is Com…\n來源：Google News:A",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTFVCclRYOXlRa1FDaGJDV0h4TnotcldvWmFkNFZkQ0dXT3prWEd1c2Z6eG9BeTFfLWZfYTR4TXJNRWFZNWd3UUU5V19ocnZQNkdBaHRNbi1XczRyV0hWUGhJS3BTOWVCbGJKUU1Ya3RiZTJlTGxwd0VaZE5DQ3dvYzlR?oc=5",
+      "source": "Google News:A",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "CRM",
-      "short": "CRM — AI相關：Salesforce vs. UiPath: Which AI Automation Stock Gives Investors More for Their Money?",
-      "detail": "CRM\n重點：AI相關\n標題：Salesforce vs. UiPath: Which AI Automation Stock Gives Investors More for Their Money?\n摘要：UiPath costs about $13 a share. Salesforce costs more than $230. Investors looking for affordable exposure to enterprise AI could easily reach for the wrong shortcut: the smaller share price says nothing about how much cash-generating power they are buying. Salesforce, Inc. (NYS…\n來源：Yahoo Finance:CRM",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-vs-uipath-ai-automation-232651419.html?.tsrc=rss",
-      "source": "Yahoo Finance:CRM",
+      "symbol": "BHP",
+      "short": "BHP — BofA upgrades BHP stock to Buy at AUD 68.00 - AD HOC NEWS",
+      "detail": "BHP\n重點：新聞\n標題：BofA upgrades BHP stock to Buy at AUD 68.00 - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ2FCUFY5N01PR1NtcjF1QWdQY3ZYWW43VkNDSDJlcUJfY20tZVVZZWlwWlVoYUFMZWk0UDJ0UFhKaFVwcG1oT050UzAybUhYN0h6TXFJOHpvQmdaMnhQTmVNOXdvN0EwUUF1c3RFcnZoZV8weXFjaFRhblZFcGFzY3k5R29kM3lZemI4ZGJWelVNNjU4RDBxTWlocDN6cWZ2REdwYmpBS1o1U…\n來源：Google News:BHP",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ2FCUFY5N01PR1NtcjF1QWdQY3ZYWW43VkNDSDJlcUJfY20tZVVZZWlwWlVoYUFMZWk0UDJ0UFhKaFVwcG1oT050UzAybUhYN0h6TXFJOHpvQmdaMnhQTmVNOXdvN0EwUUF1c3RFcnZoZV8weXFjaFRhblZFcGFzY3k5R29kM3lZemI4ZGJWelVNNjU4RDBxTWlocDN6cWZ2REdwYmpBS1o1UQ?oc=5",
+      "source": "Google News:BHP",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "LULU",
-      "short": "LULU — 業績／指引：Lululemon (LULU) Trades at 8.54 Times Earnings and 13% of the Float Is Short",
-      "detail": "LULU\n重點：業績／指引\n標題：Lululemon (LULU) Trades at 8.54 Times Earnings and 13% of the Float Is Short\n摘要：lululemon athletica inc. (NASDAQ:LULU) closed at $94.46 on October 2, down 45.75% over twelve months. The shares now cost less than nine times what the company earned last year. That is a department store multiple attached to a brand that spent a decade commanding a premium. Two…\n來源：Yahoo Finance:LULU",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lululemon-lulu-trades-8-54-233848510.html?.tsrc=rss",
-      "source": "Yahoo Finance:LULU",
+      "symbol": "GEN",
+      "short": "GEN — 業績／指引：Gen Digital Q1 2027 Earnings Call: Complete Transcript - Benzinga",
+      "detail": "GEN\n重點：業績／指引\n標題：Gen Digital Q1 2027 Earnings Call: Complete Transcript - Benzinga\n摘要：<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNRVZSbWwzY2FadFA1THRSSWdub0FhQ0wxX2Vhd2pxeTdfcjJwNTIxaHJaMS10d2Z6YXNacmJsSm12b3NtTTE5TDlpQXE3TkdZQU04NWR6LUJraTlyZEVncjVNTHZKSUlFQXZrSXl0U0lhVkJ0bWdISU54Q0VTbktJVzRwYmVNcVhBcGxmMklPTmJ2Y0M0N3BFWS1QZEJqdEU?oc=5\" target=…\n來源：Google News:GEN",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRVZSbWwzY2FadFA1THRSSWdub0FhQ0wxX2Vhd2pxeTdfcjJwNTIxaHJaMS10d2Z6YXNacmJsSm12b3NtTTE5TDlpQXE3TkdZQU04NWR6LUJraTlyZEVncjVNTHZKSUlFQXZrSXl0U0lhVkJ0bWdISU54Q0VTbktJVzRwYmVNcVhBcGxmMklPTmJ2Y0M0N3BFWS1QZEJqdEU?oc=5",
+      "source": "Google News:GEN",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "LW",
-      "short": "LW — 業績／指引：Earnings To Watch: Lamb Weston (LW) Reports Q3 Results Tomorrow",
-      "detail": "LW\n重點：業績／指引\n標題：Earnings To Watch: Lamb Weston (LW) Reports Q3 Results Tomorrow\n摘要：Potato products company Lamb Weston (NYSE:LW) will be announcing earnings results this Tuesday morning. Here’s what investors should know.\n來源：Yahoo Finance:LW",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-lamb-weston-lw-030055816.html?.tsrc=rss",
-      "source": "Yahoo Finance:LW",
+      "symbol": "LQDA",
+      "short": "LQDA — Liquidia (NASDAQ:LQDA) Stock Dropped to Equal Weight by Wells Fargo & Company - MarketB…",
+      "detail": "LQDA\n重點：新聞\n標題：Liquidia (NASDAQ:LQDA) Stock Dropped to Equal Weight by Wells Fargo & Company - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQeDZTRWVqMzdBTVhqakwxcG9hYjZPSHpqZjc3MzdnUUZFT2lQUjlXR3lSNENPQkluV2VhWWNoTnJsX2Y1d1hvY0JIZWJib0xLX214N01hbUNZekdaczRIQ3lVQlQxendFUG9HdzJYbnIyVzdpdU4xbVktTTNLbWpHdjhkQVVNUk5Mb1ByRXBPMGk1UzhycmVVbnNwbXNwNVpVb3ZOdERlSTBtM…\n來源：Google News:LQDA",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeDZTRWVqMzdBTVhqakwxcG9hYjZPSHpqZjc3MzdnUUZFT2lQUjlXR3lSNENPQkluV2VhWWNoTnJsX2Y1d1hvY0JIZWJib0xLX214N01hbUNZekdaczRIQ3lVQlQxendFUG9HdzJYbnIyVzdpdU4xbVktTTNLbWpHdjhkQVVNUk5Mb1ByRXBPMGk1UzhycmVVbnNwbXNwNVpVb3ZOdERlSTBtMU5ZenU4UFktc0ZIVm9lSGxvX05YYmlQbFMwU193?oc=5",
+      "source": "Google News:LQDA",
       "kind": "news"
     },
     {
       "n": 5,
+      "symbol": "LW",
+      "short": "LW — 業績／指引：Lamb Weston (LW) Soars 5.9%: Is Further Upside Left in the Stock?",
+      "detail": "LW\n重點：業績／指引\n標題：Lamb Weston (LW) Soars 5.9%: Is Further Upside Left in the Stock?\n摘要：Lamb Weston (LW) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might help the stock continue moving higher in the near term.\n來源：Yahoo Finance:LW",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lamb-weston-lw-soars-5-102100842.html?.tsrc=rss",
+      "source": "Yahoo Finance:LW",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "MDT",
+      "short": "MDT — Medtronic PLC $MDT Shares Acquired by MassMutual Private Wealth & Trust FSB - MarketBeat",
+      "detail": "MDT\n重點：新聞\n標題：Medtronic PLC $MDT Shares Acquired by MassMutual Private Wealth & Trust FSB - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPUndDdEtaSTJNV1kyWmdQQ0p2Q3Q4Y19PcXhJQW1jdjhodUhaSy1sa3lXUUxfZlFiLWNCQlo1ZEtIZUhCMUVQVVpHekxHVXFVOXowZHlyWG9jMjBCSHZONjZuSFFqQ1BYcXpTNDBHYzJVNlBRZkoxS2RHWGRLbzhrYzNXUm1ncnh1N2k5SXBRaEFBd2hoUXhVQW9JeVJPQ2FjQ1hDV1h0Z1ZQM…\n來源：Google News:MDT",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUndDdEtaSTJNV1kyWmdQQ0p2Q3Q4Y19PcXhJQW1jdjhodUhaSy1sa3lXUUxfZlFiLWNCQlo1ZEtIZUhCMUVQVVpHekxHVXFVOXowZHlyWG9jMjBCSHZONjZuSFFqQ1BYcXpTNDBHYzJVNlBRZkoxS2RHWGRLbzhrYzNXUm1ncnh1N2k5SXBRaEFBd2hoUXhVQW9JeVJPQ2FjQ1hDV1h0Z1ZQM3p3eVhwWUM3R2c5dkQ2QVhDcXhYSThIUkdXQmFwMWI0UW10Zw?oc=5",
+      "source": "Google News:MDT",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "MRK",
+      "short": "MRK — Merck & Co., Inc. $MRK Stock Position Lowered by MassMutual Private Wealth & Trust FSB …",
+      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Stock Position Lowered by MassMutual Private Wealth & Trust FSB - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQVpORnc0YlpxZmc3aGNVQXRaSm84YklvbjhZV2tPMGhvbk5QN1pWRzZkTkNjRWd1elBCSF8zdlJTNXdDZlJYZWZKTlR2VXVlY0ZoeF9NZF8wTXQzMG5WdDhJalFWa3lORXhDb1Vmcnc0NENoQjB4UmFmSnVSc1hRbUVncTR3bTRUbXpQUjFmMHRSZDJSeGVTR3g4NTU0LVFxMFJhc3hTQkV5c…\n來源：Google News:MRK",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQVpORnc0YlpxZmc3aGNVQXRaSm84YklvbjhZV2tPMGhvbk5QN1pWRzZkTkNjRWd1elBCSF8zdlJTNXdDZlJYZWZKTlR2VXVlY0ZoeF9NZF8wTXQzMG5WdDhJalFWa3lORXhDb1Vmcnc0NENoQjB4UmFmSnVSc1hRbUVncTR3bTRUbXpQUjFmMHRSZDJSeGVTR3g4NTU0LVFxMFJhc3hTQkV5cGN4YkR6VEN6U2RuZmltYzFpNjhBZEFTSjhDTWJSektJc2JmRHBIbFE3RDRB?oc=5",
+      "source": "Google News:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "PYPL",
+      "short": "PYPL — 併購／交易：PYPL Stock Surges To 6-Month High On $53B Takeover Bid – Wall Street's Divided On Wheth…",
+      "detail": "PYPL\n重點：併購／交易\n標題：PYPL Stock Surges To 6-Month High On $53B Takeover Bid – Wall Street's Divided On Whether It's A Good Deal - Stocktwits\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRS1TRlBvV0tjQnRmTlRIZ0kxaTJnbzZEUFZuOU5KLVRueXA0WnNCbi1tRkF5ODlXNXlHSUFWWno3NC1kSjQyOFFTWEctVHZ4QWRIcUxWSXFZbm4zUnFCeGJuZHpNOXZ0UllxSmhKZDBrelRETlFMMFVlcTFLMWUyUDVaeWxpMkV6bkhjaDVRY1Rqb2NsbDUycG5acUxmT0xZWkNKc3UtNUFHM…\n來源：Google News:PYPL",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRS1TRlBvV0tjQnRmTlRIZ0kxaTJnbzZEUFZuOU5KLVRueXA0WnNCbi1tRkF5ODlXNXlHSUFWWno3NC1kSjQyOFFTWEctVHZ4QWRIcUxWSXFZbm4zUnFCeGJuZHpNOXZ0UllxSmhKZDBrelRETlFMMFVlcTFLMWUyUDVaeWxpMkV6bkhjaDVRY1Rqb2NsbDUycG5acUxmT0xZWkNKc3UtNUFHM3NjeVJKaUUyaHp0WmFQM2FxSFo3N2FRTUFERzRv?oc=5",
+      "source": "Google News:PYPL",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "SLB",
+      "short": "SLB — BofA cuts target for SLB stock from USD 57.00 to USD 56.00 - AD HOC NEWS",
+      "detail": "SLB\n重點：新聞\n標題：BofA cuts target for SLB stock from USD 57.00 to USD 56.00 - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNbjYzTGMyY0FQVTRORUNhVjVyZGZkWFQxR3k2azRHSlZwX3Jvd1RvQlhTS1BlMDVrVzN5UEdJaW5MZkpZTmU5UGZPcjdnWUkwYjM1dG1GeVZJNHRuVWlialE1ZGhFajVDQzl3R2JpdG1QMlFUWlU3aHlsa3E5dWIwZjl3bHRkYzRxMFpiWWhPaVBPS1lSZVF5ZVgydTJNcDJoNjlpUUZBVDhVc…\n來源：Google News:SLB",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbjYzTGMyY0FQVTRORUNhVjVyZGZkWFQxR3k2azRHSlZwX3Jvd1RvQlhTS1BlMDVrVzN5UEdJaW5MZkpZTmU5UGZPcjdnWUkwYjM1dG1GeVZJNHRuVWlialE1ZGhFajVDQzl3R2JpdG1QMlFUWlU3aHlsa3E5dWIwZjl3bHRkYzRxMFpiWWhPaVBPS1lSZVF5ZVgydTJNcDJoNjlpUUZBVDhVc25PY0otdnIxRUp3QUNSd3h0Njh3?oc=5",
+      "source": "Google News:SLB",
+      "kind": "news"
+    },
+    {
+      "n": 10,
       "symbol": "YETI",
-      "short": "YETI — 業績／指引：How Investors Are Reacting To YETI Holdings (YETI) Upgrade After Strong August Revenue …",
-      "detail": "YETI\n重點：業績／指引\n標題：How Investors Are Reacting To YETI Holdings (YETI) Upgrade After Strong August Revenue And Guidance Hike\n摘要：Earlier this week, Stifel upgraded YETI Holdings after the company reported 9% August revenue growth and raised full-year guidance for adjusted EPS and operating margin, citing recent operating strength. The upgrade highlights how YETI’s push into international markets and newer…\n來源：Yahoo Finance:YETI",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-yeti-holdings-yeti-230842522.html?.tsrc=rss",
-      "source": "Yahoo Finance:YETI",
+      "short": "YETI — Canaccord raises target for YETI stock from USD 45.00 to USD 46.00 - AD HOC NEWS",
+      "detail": "YETI\n重點：新聞\n標題：Canaccord raises target for YETI stock from USD 45.00 to USD 46.00 - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZlhpTjBKNEI0bFIwWGt1VGc4LWlwMVV1MmxPWVRuQWFPVmh1YURWekprd0dhNzJxYnpMR01tcmt5eDNhZkt1LW9vdkRhMS1VQmlzYWJucWpfYUZwWU1TTk5GM1lnenpMdXBxMmZ4RnZKNzZjR2pzeUxIVy1yNEpaVHoxY2tuQy01dWhqcUJLcElnTERUX2FNTmYwdURDNmIzVnQzcEdiQUJya…\n來源：Google News:YETI",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZlhpTjBKNEI0bFIwWGt1VGc4LWlwMVV1MmxPWVRuQWFPVmh1YURWekprd0dhNzJxYnpMR01tcmt5eDNhZkt1LW9vdkRhMS1VQmlzYWJucWpfYUZwWU1TTk5GM1lnenpMdXBxMmZ4RnZKNzZjR2pzeUxIVy1yNEpaVHoxY2tuQy01dWhqcUJLcElnTERUX2FNTmYwdURDNmIzVnQzcEdiQUJyaTlLSnp3Vl9YcWhEYjRWLTB3TF9rTGQwdlU?oc=5",
+      "source": "Google News:YETI",
       "kind": "news"
     }
   ]
