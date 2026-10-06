@@ -1,56 +1,38 @@
 {
-  "title": "FS新聞 10-06 06:36",
-  "list_name": "FirstScreen_2026-10-06_063606_comma.txt",
-  "created_at": "2026-10-06T06:36:17.063249+00:00",
+  "title": "FS新聞 10-06 11:46",
+  "list_name": "FirstScreen_2026-10-06_114624_comma.txt",
+  "created_at": "2026-10-06T11:46:34.341751+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "CARG",
-      "short": "CARG — CarGurus (NASDAQ:CARG) Stock: Insider Ismail Elshareef Sells 2,673 Shares - MarketBeat",
-      "detail": "CARG\n重點：新聞\n標題：CarGurus (NASDAQ:CARG) Stock: Insider Ismail Elshareef Sells 2,673 Shares - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxONE9HdjNEVXBoSjlyQk5GMUNGWHZsUjRMX0ZDSjBZWEJVcDRvMWkzZG05WmFRRDJwWWFTa2EtR1RNMzJ4WHVibXFZdDBzRDRYVGFNV1V0ZGpma1dzUE1Hb0JsTXNWOE8xUW1FX00yR0hDcVRQN3RzXzRqOGpSVV84RFBLNU0yTkRQczV4N1NHQm5qSFRsYkoycE9tN21mRVh4Z3V0NEpCVWZkN…\n來源：Google News:CARG\n其他：CarGurus (NASDAQ:CARG) CTO Sells $113,266.88 in Stock - Mar…; CarGurus (NASDAQ:CARG) CMO Dafna Sarnoff Sells 7,234 Shares…",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONE9HdjNEVXBoSjlyQk5GMUNGWHZsUjRMX0ZDSjBZWEJVcDRvMWkzZG05WmFRRDJwWWFTa2EtR1RNMzJ4WHVibXFZdDBzRDRYVGFNV1V0ZGpma1dzUE1Hb0JsTXNWOE8xUW1FX00yR0hDcVRQN3RzXzRqOGpSVV84RFBLNU0yTkRQczV4N1NHQm5qSFRsYkoycE9tN21mRVh4Z3V0NEpCVWZkNUlJR0R0QlQyUTNiVEwyNU42dVZ5aWFqY2Y5RmUxSmExcw?oc=5",
-      "source": "Google News:CARG",
+      "symbol": "AEO",
+      "short": "AEO — 業績／指引：AEO stock gained 2.26 percent as quarterly profit surged in Q2/ 2026 - AD HOC NEWS",
+      "detail": "AEO\n重點：業績／指引\n標題：AEO stock gained 2.26 percent as quarterly profit surged in Q2/ 2026 - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPNTJ2amxkcVFEYUdubG1VTnJpWW8ybWxUdXpXZm5VWkppenBlMmJrdkxITDFRZFBXdHdOUjdjMjByT0VPV09sUGQ4VXFUYy1oTk9zSDRmN05NVGZTblpJbHRZZXZGQTJSc1ZVNi0waFczeVo1RklTLTBYUzdSc1FjbFhUTVhZN194RXhUNk51NTM1Ry1qM0RZa3hGdjAxZ25EZzVfRTNJamsxM…\n來源：Google News:AEO",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNTJ2amxkcVFEYUdubG1VTnJpWW8ybWxUdXpXZm5VWkppenBlMmJrdkxITDFRZFBXdHdOUjdjMjByT0VPV09sUGQ4VXFUYy1oTk9zSDRmN05NVGZTblpJbHRZZXZGQTJSc1ZVNi0waFczeVo1RklTLTBYUzdSc1FjbFhUTVhZN194RXhUNk51NTM1Ry1qM0RZa3hGdjAxZ25EZzVfRTNJamsxMmQ0bEh6TkNabHhFZ3F0R2hOT09wQV9OQzBoOC1DSjJR?oc=5",
+      "source": "Google News:AEO",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "A",
-      "short": "A — 業績／指引：We Ran A Stock Scan For Earnings Growth And for Startups (TSE:7089) Passed With Ease - …",
-      "detail": "A\n重點：業績／指引\n標題：We Ran A Stock Scan For Earnings Growth And for Startups (TSE:7089) Passed With Ease - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNE1nQTJKUFlKMnduZXBYckx1cENuOTdaX044TmFZcExkakE3Xy02dC1yY1lCWGdfajg1N3dQM2xwQ1ZyQnUyZEZPVDV0eXJGUVVPZ3hVcGlad29jWHY5cHNQT0Z6WTMwMjBBSDAxdWdBTGxTSE5Zbk5fRkhueTl6eWRZZTJUeUVpbFNPTUJOUnhIR0tON2tHYmUyU3NWbF9sYjA4OWhNdXBqd…\n來源：Google News:A\n其他：Berkshire Hathaway Acquired About 2.4 Million Lennar's Clas…",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNE1nQTJKUFlKMnduZXBYckx1cENuOTdaX044TmFZcExkakE3Xy02dC1yY1lCWGdfajg1N3dQM2xwQ1ZyQnUyZEZPVDV0eXJGUVVPZ3hVcGlad29jWHY5cHNQT0Z6WTMwMjBBSDAxdWdBTGxTSE5Zbk5fRkhueTl6eWRZZTJUeUVpbFNPTUJOUnhIR0tON2tHYmUyU3NWbF9sYjA4OWhNdXBqdnVDajJTcWt6Y0V6UVgtb3lLZVFTX3ljMTFSa190WUJFYWlMUHM5VEhMRURmaGE2T214ZW1B0gHkAUFVX3lxTE9WaVQ4dlE0eXl0UXVxQW04R0NmeUlqLW1NRXhFQ2ZpUm81TFhmTTczanV0SDlBemp1Q3BlRjZkN3pJS2l6V2NOTjlzcF9rdzdjYXRiUzVTaGdEVmhDa1lhZ2dFUWV4VnRfR19fZkFaelZ2MFo1Q1JoS2t6ZndBcXdJZno2SV9Bc2h0bkxOX1l5Q2ZDNDlsaUJsdHV5SXR2MWpoY2tESnZVMUk4YU5NQ1RkNFNYdzdUMEFLN2N6R0pJU2VsNlphNzFyTnU0Vnl3TGdtRElMdkhXelBaNDVia1RQM1pEbw?oc=5",
-      "source": "Google News:A",
+      "symbol": "BDX",
+      "short": "BDX — BD and U.S. Government Launch Landmark Partnership to Expand U.S. Manufacturing and Str…",
+      "detail": "BDX\n重點：新聞\n標題：BD and U.S. Government Launch Landmark Partnership to Expand U.S. Manufacturing and Strengthen America's Healthcare Resilience\n摘要：BD (Becton, Dickinson and Company) (NYSE: BDX), one of the world's leading medical technology companies and the nation's largest manufacturer of essential medical consumables, today announced a landmark partnership with the U.S. Government to expand domestic manufacturing and st…\n來源：Yahoo Finance:BDX",
+      "url": "https://finance.yahoo.com/healthcare/articles/bd-u-government-launch-landmark-103500355.html?.tsrc=rss",
+      "source": "Yahoo Finance:BDX",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "ANET",
-      "short": "ANET — Arista Networks (NYSE:ANET) Director Sells 5,000 Shares of Stock - MarketBeat",
-      "detail": "ANET\n重點：新聞\n標題：Arista Networks (NYSE:ANET) Director Sells 5,000 Shares of Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcS1USFRqSUdGTVAxbnZpTzFzUjY2QWpuSTlTdXZXUXlRUGhoQ2w4Q3NyelZIcnVEX1poZ1drTjAzU21oZ2xlczBzYnc3NmhpeWVoMmNTdHptYlM5akpBTkpJaDhDdHZNV3BYVTNIczZPbi1xdmZtaGdtVFJjZEdrNHBoWFlHZC1IeldqcnBJNEVsLVR1YWdNZmdselVoRWY3OWVxODEwZUVxX…\n來源：Google News:ANET",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcS1USFRqSUdGTVAxbnZpTzFzUjY2QWpuSTlTdXZXUXlRUGhoQ2w4Q3NyelZIcnVEX1poZ1drTjAzU21oZ2xlczBzYnc3NmhpeWVoMmNTdHptYlM5akpBTkpJaDhDdHZNV3BYVTNIczZPbi1xdmZtaGdtVFJjZEdrNHBoWFlHZC1IeldqcnBJNEVsLVR1YWdNZmdselVoRWY3OWVxODEwZUVxX0FmeDlKOExyWkpjU1c2MVFfT3FRSkE?oc=5",
-      "source": "Google News:ANET",
+      "symbol": "BNY",
+      "short": "BNY — 9,131 Bank of New York Mellon Corporation $BNY Shares Acquired by Ferguson Wellman Capi…",
+      "detail": "BNY\n重點：新聞\n標題：9,131 Bank of New York Mellon Corporation $BNY Shares Acquired by Ferguson Wellman Capital Management Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbHRjWmlmTXZKa0pkS2dLY0VIY3h1Q3Rrd2Vod0ZyUjRrVkl3VncxbVhVRE1ySkFUVHZueTVvdXdzWXlKLXczNTBOZ3AzNDVRU3lnVkkyaXh1bmFVNmNyMnBRRUtiYlVVM1lqVXBfcUM4MmM5Q1VubHhHeFZUUW1RcVQyWFQyNDRBU0M0N1FLTTN3UDhGSEpCcG9DazlXam9YZEJDbkhWNEtKU…\n來源：Google News:BNY",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbHRjWmlmTXZKa0pkS2dLY0VIY3h1Q3Rrd2Vod0ZyUjRrVkl3VncxbVhVRE1ySkFUVHZueTVvdXdzWXlKLXczNTBOZ3AzNDVRU3lnVkkyaXh1bmFVNmNyMnBRRUtiYlVVM1lqVXBfcUM4MmM5Q1VubHhHeFZUUW1RcVQyWFQyNDRBU0M0N1FLTTN3UDhGSEpCcG9DazlXam9YZEJDbkhWNEtKUmxxT2F1OWE4aVFfR3NFWGJTSERuQ1JQREhIVlVqUkhpc2FuT2xwazBBQkptMzFvZHBTaFdFX0o4S01RV3ZLT2lGaU04X01XX1hrYnBZ?oc=5",
+      "source": "Google News:BNY",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "BHP",
-      "short": "BHP — Is BHP Group (ASX:BHP) Expensive As Argentina Copper Expansion Fuels Its Valuation?",
-      "detail": "BHP\n重點：新聞\n標題：Is BHP Group (ASX:BHP) Expensive As Argentina Copper Expansion Fuels Its Valuation?\n摘要：Fresh copper exploration news is putting BHP Group (ASX:BHP) back in focus. The miner secured an exploration contract with a purchase option for the El Seguro copper project in Argentina. BHP Group shares have risen 1.11% over the past day and 5.13% over the last 90 days. The ye…\n來源：Yahoo Finance:BHP",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bhp-group-asx-bhp-expensive-031052658.html?.tsrc=rss",
-      "source": "Yahoo Finance:BHP",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "BKNG",
-      "short": "BKNG — AI相關、業績／指引：BKNG Stock Climbs After Hours: Q4 Earnings Beat, Stock Split And $700M AI Push Makes Tr…",
-      "detail": "BKNG\n重點：AI相關、業績／指引\n標題：BKNG Stock Climbs After Hours: Q4 Earnings Beat, Stock Split And $700M AI Push Makes Traders Bullish - stocktwits.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWVGb0JkVDMzdTd4bGxCTmtpRy1ZZ1pockNlTXBqSS1wY1BQanFDYjFMZXg5bUxLSHRPN195WEJHWHBtWEN6alhPY24tSmszenBPb3BSekJjWXFKQVA4TnFoTmlrdngtMHRmWkJsdlR2MUVzVElvN3hrUGMwampabXd3TnV5WjRqa2tWaGdoVzdJZWQtQzJaQ0JjaHU1Rl9PQXY1TTdpM2VLR…\n來源：Google News:BKNG",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWVGb0JkVDMzdTd4bGxCTmtpRy1ZZ1pockNlTXBqSS1wY1BQanFDYjFMZXg5bUxLSHRPN195WEJHWHBtWEN6alhPY24tSmszenBPb3BSekJjWXFKQVA4TnFoTmlrdngtMHRmWkJsdlR2MUVzVElvN3hrUGMwampabXd3TnV5WjRqa2tWaGdoVzdJZWQtQzJaQ0JjaHU1Rl9PQXY1TTdpM2VLR3lPeEVGSldlSGRHeGpqX09lVG92UlNqZw?oc=5",
-      "source": "Google News:BKNG",
-      "kind": "news"
-    },
-    {
-      "n": 6,
       "symbol": "CRM",
       "short": "CRM — 業績／指引：Jim Cramer Says Software Was the Story of Q3. The Numbers Agree",
       "detail": "CRM\n重點：業績／指引\n標題：Jim Cramer Says Software Was the Story of Q3. The Numbers Agree\n摘要：Salesforce, Inc. (NYSE:CRM) rose 46% over the third quarter, and Microsoft Corporation (NASDAQ:MSFT) rose 37%. Jim Cramer told CNBC on October 1 that the quarter will be remembered as the moment software bounced back while some data center plays gave ground to profit-taking. The…\n來源：Yahoo Finance:CRM",
@@ -59,38 +41,74 @@
       "kind": "news"
     },
     {
+      "n": 5,
+      "symbol": "EL",
+      "short": "EL — The Estee Lauder Companies Inc. (NYSE:EL) Stock Has Average Target Price of $104.76 - M…",
+      "detail": "EL\n重點：新聞\n標題：The Estee Lauder Companies Inc. (NYSE:EL) Stock Has Average Target Price of $104.76 - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSDZfZjNyMGhxcXFUaExNVFllYm1mOWFHdGpzbGNqUzdWVXdKejBoa2R5bk05OHZkLTNpQlp2OHh0SEtxSVFMY3RwcG12Sk4wWkRNYXFoTjNuSEJWZy1qUmZyOE5uTW9lZWVNRG14Q0MtMm9TbUIzbjFXMmxtbXFfZW1qaG1ZU29GUEExa2hCOXFtSjV2dTBvX1hrMG1pRzRlVkhQd1NYWFpUd…\n來源：Google News:EL",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSDZfZjNyMGhxcXFUaExNVFllYm1mOWFHdGpzbGNqUzdWVXdKejBoa2R5bk05OHZkLTNpQlp2OHh0SEtxSVFMY3RwcG12Sk4wWkRNYXFoTjNuSEJWZy1qUmZyOE5uTW9lZWVNRG14Q0MtMm9TbUIzbjFXMmxtbXFfZW1qaG1ZU29GUEExa2hCOXFtSjV2dTBvX1hrMG1pRzRlVkhQd1NYWFpUd3c0MW0xelRadlZETi1wNDlfVlVveERqdndQRks0TzhGNkNiRVc1NG1uV1R1azB3dw?oc=5",
+      "source": "Google News:EL",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "IQV",
+      "short": "IQV — AI相關：IQVIA (NYSE:IQV) Bets on AI to Power Clinical Research - Kalkine Media",
+      "detail": "IQV\n重點：AI相關\n標題：IQVIA (NYSE:IQV) Bets on AI to Power Clinical Research - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQOElUeUxOZmFsbzRfMmFGZHc1YTJBRmdRdDRoVnhnS0RrSFF1a25fdE5semlzVW9PaERTVlFNSVBDd19GWm1yYjVSQy1KaG5oUzA4RU1mUmhSeU9MZjg0Y2RiT3hfQ2lqNGNGang5dGVBbkh6ekRwLTYxa1c5ZGFINkd4dkpaWXAzMjhwZW1aVEdUa3FGNGdvc3AtaXBZQQ?oc=5\" target=\"…\n來源：Google News:IQV",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOElUeUxOZmFsbzRfMmFGZHc1YTJBRmdRdDRoVnhnS0RrSFF1a25fdE5semlzVW9PaERTVlFNSVBDd19GWm1yYjVSQy1KaG5oUzA4RU1mUmhSeU9MZjg0Y2RiT3hfQ2lqNGNGang5dGVBbkh6ekRwLTYxa1c5ZGFINkd4dkpaWXAzMjhwZW1aVEdUa3FGNGdvc3AtaXBZQQ?oc=5",
+      "source": "Google News:IQV",
+      "kind": "news"
+    },
+    {
       "n": 7,
-      "symbol": "FRSH",
-      "short": "FRSH — Freshworks (NASDAQ:FRSH) Stock: Insider Philippa Lawrence Sells 3,492 Shares - MarketBe…",
-      "detail": "FRSH\n重點：新聞\n標題：Freshworks (NASDAQ:FRSH) Stock: Insider Philippa Lawrence Sells 3,492 Shares - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQc3JxMFVSaUJoVG9yY3R6R0hrR2pES2dFdWVmT0RQalhRY1F1Y29nd09wbFo2YUxocGROcXhaQWNSN3J4M2llRUdEU0RMR2dpYm1QTzVXbUtGZ2lfYUszeVNLNDdzdkRmM2lXTkxfbDdBRTZSRGdPNFFKUjZRZG90UGZpTDdFUU91QUVhVlozMFdHeEtLdlY1VmNCd01SaE9jWS16dDF4V0dSM…\n來源：Google News:FRSH",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc3JxMFVSaUJoVG9yY3R6R0hrR2pES2dFdWVmT0RQalhRY1F1Y29nd09wbFo2YUxocGROcXhaQWNSN3J4M2llRUdEU0RMR2dpYm1QTzVXbUtGZ2lfYUszeVNLNDdzdkRmM2lXTkxfbDdBRTZSRGdPNFFKUjZRZG90UGZpTDdFUU91QUVhVlozMFdHeEtLdlY1VmNCd01SaE9jWS16dDF4V0dSMGh5bkdrWjVRWDNSdGE3cDF4c0RBMnlDdnZneGQ5RU5Cb3YzN0U?oc=5",
-      "source": "Google News:FRSH",
+      "symbol": "IRDM",
+      "short": "IRDM — Iridium Communications (NASDAQ:IRDM) Stock Price Crosses Above 200 Day Moving Average -…",
+      "detail": "IRDM\n重點：新聞\n標題：Iridium Communications (NASDAQ:IRDM) Stock Price Crosses Above 200 Day Moving Average - Time to Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRlI2ZlZLRUtFa1Q4c1pRQ29YRFVHYnQ3QmtVZngzZFBDc1FrWlZ5blJsbmpSSzhYbWVqTVNXVEsxM1BKVWpGZUJHX2lpUEVEajJwWWhRdjZhWkJKOGp1V1VkdDZQLWJRTGRRVXFOUDM3Nm1JcGRxd0VWcVd5cnlWTzBsbzN1eEtwSXFYekpYZzAxUVZPTGpHc1gxSWVWMkpTZDVwRHh2T0xPe…\n來源：Google News:IRDM",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRlI2ZlZLRUtFa1Q4c1pRQ29YRFVHYnQ3QmtVZngzZFBDc1FrWlZ5blJsbmpSSzhYbWVqTVNXVEsxM1BKVWpGZUJHX2lpUEVEajJwWWhRdjZhWkJKOGp1V1VkdDZQLWJRTGRRVXFOUDM3Nm1JcGRxd0VWcVd5cnlWTzBsbzN1eEtwSXFYekpYZzAxUVZPTGpHc1gxSWVWMkpTZDVwRHh2T0xPekVEWC1SM3RwRWZxeDVaTUcyRVFuX1RDd05LbVBZY2JOU3hxUm5BaXdJM3BxN2xUbTBfMmltU2RHR3haZjhxLTRKcQ?oc=5",
+      "source": "Google News:IRDM",
       "kind": "news"
     },
     {
       "n": 8,
-      "symbol": "PYPL",
-      "short": "PYPL — 併購／交易：PYPL Stock Jumps 4% — PayPal’s $60.50 Buyout Offer Has Wall Street And Retail On The Sa…",
-      "detail": "PYPL\n重點：併購／交易\n標題：PYPL Stock Jumps 4% — PayPal’s $60.50 Buyout Offer Has Wall Street And Retail On The Same Side - stocktwits.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbWpfaldFSVRSZk4yaUJkNHJZa0tUQld4ZVZGMGZQbjdrM1B2YnRnWmVnUDNrZXVQQ1VaQXRsZU5yTlhpeG1OUnJuOWxtdUZjV3N4QkFrWFgtMEFIcEw5aDNQWmJyVVNYTTBBTGd6V3JHSXg2U3J4Mk5IVnFibXhfODdfalA5b0JyMG8wbTFzUUZGZjAzaFNmcFRZVW9OLURNYUJsT2F3WTFFQ…\n來源：Google News:PYPL",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbWpfaldFSVRSZk4yaUJkNHJZa0tUQld4ZVZGMGZQbjdrM1B2YnRnWmVnUDNrZXVQQ1VaQXRsZU5yTlhpeG1OUnJuOWxtdUZjV3N4QkFrWFgtMEFIcEw5aDNQWmJyVVNYTTBBTGd6V3JHSXg2U3J4Mk5IVnFibXhfODdfalA5b0JyMG8wbTFzUUZGZjAzaFNmcFRZVW9OLURNYUJsT2F3WTFFQy0tVWg0M3pQTTR4RnlMZ2RxVVd2RC1aeGhhUUZ5R0d0c0x0cEZ5TkN6NWhQam02M21jcWd1ZUdrZy1LWG52OGc?oc=5",
-      "source": "Google News:PYPL",
+      "symbol": "JD",
+      "short": "JD — JD.com (NASDAQ:JD) Share Price Breaks Below 50 Day Moving Average - Here's What Happene…",
+      "detail": "JD\n重點：新聞\n標題：JD.com (NASDAQ:JD) Share Price Breaks Below 50 Day Moving Average - Here's What Happened - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdy1QRW5lRnFZSE5hbVhkNXZ5V200ZXhobV84eUhoQWd3ZlYzc2JJMEowSHJ5ZVNMenlQQUdfcWswZkpZbXBQSzZfUzZuZC1Pak45WTRlZTBFWHBKRTI5YkFDQThVLXJXVUJKUEJWeWhrQi1kaGNqeWlRWk84MFNxa2tkV1hsZHRueEJaNnBia1BxNHRwT2JXWjBJYnRBdXBRdG5OcVNaRXdqa…\n來源：Google News:JD",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdy1QRW5lRnFZSE5hbVhkNXZ5V200ZXhobV84eUhoQWd3ZlYzc2JJMEowSHJ5ZVNMenlQQUdfcWswZkpZbXBQSzZfUzZuZC1Pak45WTRlZTBFWHBKRTI5YkFDQThVLXJXVUJKUEJWeWhrQi1kaGNqeWlRWk84MFNxa2tkV1hsZHRueEJaNnBia1BxNHRwT2JXWjBJYnRBdXBRdG5OcVNaRXdqaTh3a0pZMnZTaHhMVEhjd1N1cTlnclNjTTQ2VXZGUFUyQXFDZDVmVk9lTHJhb1ZiUQ?oc=5",
+      "source": "Google News:JD",
       "kind": "news"
     },
     {
       "n": 9,
-      "symbol": "ROKU",
-      "short": "ROKU — Roku (NASDAQ:ROKU) Stock: Insider Neil Hunt Sells 2,000 Shares - MarketBeat",
-      "detail": "ROKU\n重點：新聞\n標題：Roku (NASDAQ:ROKU) Stock: Insider Neil Hunt Sells 2,000 Shares - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXp3SXRHYlJVUmhud0taQWctN0ZMc0ZYbjlUQmRQYkx3eDcxcnBfc3EzcUFwVDg3blQ1b19DY1FyZGNqQ2ExM0JvZXUzeEVGVnBDSUlzZzhlb1NTeE9UY1Eybkd6eUpleVhZekg4dk1QVFZFZFZjdmxVZjhYYWR4LVpMWWhwRm9iekh3N1JFUk8xRDVHY1JDR2RnZnB4NjhvVUVmNHhaM2Rib…\n來源：Google News:ROKU",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXp3SXRHYlJVUmhud0taQWctN0ZMc0ZYbjlUQmRQYkx3eDcxcnBfc3EzcUFwVDg3blQ1b19DY1FyZGNqQ2ExM0JvZXUzeEVGVnBDSUlzZzhlb1NTeE9UY1Eybkd6eUpleVhZekg4dk1QVFZFZFZjdmxVZjhYYWR4LVpMWWhwRm9iekh3N1JFUk8xRDVHY1JDR2RnZnB4NjhvVUVmNHhaM2Rib1ZBWnhQSEV4NUlDR19aZzl3Rw?oc=5",
-      "source": "Google News:ROKU",
+      "symbol": "NWS",
+      "short": "NWS — News (NASDAQ:NWS) Share Price Crosses Above 200 Day Moving Average - Should You Sell? -…",
+      "detail": "NWS\n重點：新聞\n標題：News (NASDAQ:NWS) Share Price Crosses Above 200 Day Moving Average - Should You Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMHh2LVkzZ1BPa2NXVU1nZHhXRFpkbWxNdFhXenJ5RVdkdjUyZE0wa0pTelBrSHdzb0pEMFVsdWNmcEJ3M3prQnRfT2thVVd6aTlUdUJkUTg1eWR2aHVqQnlaWjlzbXdyS3VnSzhQZ1RQQnVVXzVXQzF4YXVscHVGbFNqbnE5a3JPbDV0dFBuMFdQQnZlZjZsR2JTd0ZGelR2OEw4OUI0WmFGY…\n來源：Google News:NWS",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMHh2LVkzZ1BPa2NXVU1nZHhXRFpkbWxNdFhXenJ5RVdkdjUyZE0wa0pTelBrSHdzb0pEMFVsdWNmcEJ3M3prQnRfT2thVVd6aTlUdUJkUTg1eWR2aHVqQnlaWjlzbXdyS3VnSzhQZ1RQQnVVXzVXQzF4YXVscHVGbFNqbnE5a3JPbDV0dFBuMFdQQnZlZjZsR2JTd0ZGelR2OEw4OUI0WmFGYTlNUXctWlY2YjQzS19IUDhqTjNwOTI1Q1k3X1dBejBkalNIbkVvXzRfbUs5dw?oc=5",
+      "source": "Google News:NWS",
       "kind": "news"
     },
     {
       "n": 10,
+      "symbol": "OBDC",
+      "short": "OBDC — Blue Owl Capital (NYSE:OBDC) Hits New 12-Month Low - Here's Why - MarketBeat",
+      "detail": "OBDC\n重點：新聞\n標題：Blue Owl Capital (NYSE:OBDC) Hits New 12-Month Low - Here's Why - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUUpHNlJRbTBoc3lVeHJnd0lOdUx1R21zdnhUaXpmZ05TenFLZEFMLUlzQ0RrbHlLNjk5OGlfYkJoV1pVbUUxNzFhb1MyQy13d1NFZjBMamJaalJPVWtrRDhMZjVCZWhXT3Y4YU4zQ3l0RjlYQWxYRnZxUlVwLVpJSDl0RlNRSkNMS1RhQTE0SHBfd1RJcHZFcUdaRVBSSEFRNXNPdzhSanRJY…\n來源：Google News:OBDC",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUUpHNlJRbTBoc3lVeHJnd0lOdUx1R21zdnhUaXpmZ05TenFLZEFMLUlzQ0RrbHlLNjk5OGlfYkJoV1pVbUUxNzFhb1MyQy13d1NFZjBMamJaalJPVWtrRDhMZjVCZWhXT3Y4YU4zQ3l0RjlYQWxYRnZxUlVwLVpJSDl0RlNRSkNMS1RhQTE0SHBfd1RJcHZFcUdaRVBSSEFRNXNPdzhSanRJYWpDSmtJT24tS3I3dHFaWWc?oc=5",
+      "source": "Google News:OBDC",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "RITM",
+      "short": "RITM — Rithm Capital Corp. (NYSE:RITM) Stock Has Consensus Target Price of $13.15 According to…",
+      "detail": "RITM\n重點：新聞\n標題：Rithm Capital Corp. (NYSE:RITM) Stock Has Consensus Target Price of $13.15 According to Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX0psX1dHanJqSHFjd2dMVkZTQ0x2YXhCb2dTY0JTZkJYMVF0OHo2ckVTRVRIX29KdDBnRTEtSGE4cVBZUjRMQm45NzlrNEFJWl9NRzU3c09oaW43YnV0NVBfcktOeVVIb1Q3UHdaejJnR2hEX2ltbEhHcFAtLVZLcGVyTVdGZjlFWEdhdDVXQU9ZWl9EM3hEVDhrYUxPYjJ2UldjNDQ0ZllfN…\n來源：Google News:RITM",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX0psX1dHanJqSHFjd2dMVkZTQ0x2YXhCb2dTY0JTZkJYMVF0OHo2ckVTRVRIX29KdDBnRTEtSGE4cVBZUjRMQm45NzlrNEFJWl9NRzU3c09oaW43YnV0NVBfcktOeVVIb1Q3UHdaejJnR2hEX2ltbEhHcFAtLVZLcGVyTVdGZjlFWEdhdDVXQU9ZWl9EM3hEVDhrYUxPYjJ2UldjNDQ0ZllfNGRyLWpSbVVlejlTdGZjb3dvNUFSVU1BM0gwUVlzM2ZBOW92T3ZmOV9WdzJIbWVuc2tuR0Zid2puajc1eF9ZYjBn?oc=5",
+      "source": "Google News:RITM",
+      "kind": "news"
+    },
+    {
+      "n": 12,
       "symbol": "SLB",
-      "short": "SLB — SLB (SLB) Wins Fresh Energy Contracts, Is It Still 19% Below Fair Value? - Simply Wall …",
-      "detail": "SLB\n重點：新聞\n標題：SLB (SLB) Wins Fresh Energy Contracts, Is It Still 19% Below Fair Value? - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMjBqWmVHbVRvTTRaYW9lTE8wV05OenJqZXY0eVF4Z3VHQk5rVmU3WFBfc05ZblJhaU1ldllkREMzVzd6bXcwVFNNeV9JZ0FEeEp5eFZMMWdDSFBzQmYxNHBMbE8yRlRkeGFobW5mcnJwRlduTzQyY3RNTE9mekJZU1BsU0NHOFQzRzJPZ2RrRTB3WFFxZ093UWJVbGE0X2JwUXlFMEFQdC1FQ…\n來源：Google News:SLB",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMjBqWmVHbVRvTTRaYW9lTE8wV05OenJqZXY0eVF4Z3VHQk5rVmU3WFBfc05ZblJhaU1ldllkREMzVzd6bXcwVFNNeV9JZ0FEeEp5eFZMMWdDSFBzQmYxNHBMbE8yRlRkeGFobW5mcnJwRlduTzQyY3RNTE9mekJZU1BsU0NHOFQzRzJPZ2RrRTB3WFFxZ093UWJVbGE0X2JwUXlFMEFQdC1FQmpJVlRBNVltdDNubXBX0gG-AUFVX3lxTE1uUWpwSWxKejMwb29SYk8tVlBZN0dTYXBoUC1PRWczWlQ5dURfX0VLbkFUdENZWWdxZXRVZG5BMW5rWWQ2ckN0ZkVNakRVZFRFY094WlE1eDJZb0U5bS03eGdfaGFPSmMtQzBqT2dkTnNEaUNhNG1xM3hab3RBbjE0RzIyQ2t2NmNBMkxmUUowQWxsclhyYmFFVDZTTi1BSG5Wamw3YkcwcE9fSUhJYU5PTTM4Y1pRakF3cjBQQlE?oc=5",
+      "short": "SLB — SLB Limited (NYSE:SLB) Receives Average Rating of \"Moderate Buy\" from Analysts - Market…",
+      "detail": "SLB\n重點：新聞\n標題：SLB Limited (NYSE:SLB) Receives Average Rating of \"Moderate Buy\" from Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYzNZXzBEYy01RUlyWGRBWFRoT181M1F5c1hOdDNsUDFiV2xQOXNZdmFYd2IyczQwVnRKeEZyUkU3WUJsTWhRN0c1U1NWSXNzTDlBblA5ckpQU2ZLYzJmLWU5bGJiWjJfd01JSHhPR1VUbi0wLWpuU01vS1hSMG5HZFVTRVFwQjA3Ri03bTBQbVlKbHJqZTdYc0VTOGgxck5VUnAxZGc5MzNsS…\n來源：Google News:SLB",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYzNZXzBEYy01RUlyWGRBWFRoT181M1F5c1hOdDNsUDFiV2xQOXNZdmFYd2IyczQwVnRKeEZyUkU3WUJsTWhRN0c1U1NWSXNzTDlBblA5ckpQU2ZLYzJmLWU5bGJiWjJfd01JSHhPR1VUbi0wLWpuU01vS1hSMG5HZFVTRVFwQjA3Ri03bTBQbVlKbHJqZTdYc0VTOGgxck5VUnAxZGc5MzNsSWRNOFVNTG02dlNUM1hNeUxhTGVWNDNrQlZEVURTQTNOd0ZRZkNyQUdFSw?oc=5",
       "source": "Google News:SLB",
       "kind": "news"
     }
