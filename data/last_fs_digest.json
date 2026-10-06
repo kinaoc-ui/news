@@ -1,11 +1,38 @@
 {
-  "title": "FS新聞 10-06 11:46",
-  "list_name": "FirstScreen_2026-10-06_114624_comma.txt",
-  "created_at": "2026-10-06T11:46:34.341751+00:00",
+  "title": "FS新聞 10-06 16:36",
+  "list_name": "FirstScreen_2026-10-06_163615_comma.txt",
+  "created_at": "2026-10-06T16:36:24.338210+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "LW",
+      "short": "LW — 業績／指引：What Lamb Weston (LW) Said on Its Q1 Earnings Call",
+      "detail": "LW\n重點：業績／指引\n標題：What Lamb Weston (LW) Said on Its Q1 Earnings Call\n摘要：Lamb Weston (NYSE:LW) raised its fiscal 2027 outlook after reporting first-quarter results that exceeded its expectations, supported by continued volume growth in North America, cost-savings initiatives and improving pricing trends. The company reported first-quarter net sales o…\n來源：Yahoo Finance:LW\n其他：Lamb Weston Lifts Full-Year Guidance Amid Strong North Amer…; Lamb Weston raises full-year outlook as North American dema…; Compared to Estimates, Lamb Weston (LW) Q1 Earnings: A Look…",
+      "url": "https://www.marketbeat.com/instant-alerts/transcript-what-lamb-weston-lw-said-on-its-q1-earnings-call-2026-10-06/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance:LW",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "BDX",
+      "short": "BDX — BD Celebrates 65 Years of Manufacturing, Innovation and Community Partnership in Canaan",
+      "detail": "BDX\n重點：新聞\n標題：BD Celebrates 65 Years of Manufacturing, Innovation and Community Partnership in Canaan\n摘要：BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, today marked 65 years of manufacturing in Canaan, Conn., the birthplace of the world's first fully sterile, single-use disposable plastic syringe and the largest syringe manufacturing op…\n來源：Yahoo Finance:BDX\n其他：BD and U.S. Government Launch Landmark Partnership to Expan…",
+      "url": "https://finance.yahoo.com/healthcare/articles/bd-celebrates-65-years-manufacturing-130000592.html?.tsrc=rss",
+      "source": "Yahoo Finance:BDX",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "MDT",
+      "short": "MDT — Better Dividend Play for Retirees: MDT or ABT? One Delivers Significantly More Yield",
+      "detail": "MDT\n重點：新聞\n標題：Better Dividend Play for Retirees: MDT or ABT? One Delivers Significantly More Yield\n摘要：Both Medtronic and Abbott have dropped in 2026, and those declines reshuffled the math on yield, valuation, and long-term growth in ways that push retirement investors toward a clear but maybe surprising choice.\n來源：Yahoo Finance:MDT\n其他：If The MiniMed Split-Off Stalls, What Happens To Your Medtr…",
+      "url": "https://247wallst.com/investing/2026/10/06/better-dividend-play-for-retirees-mdt-or-abt-one-delivers-significantly-more-yield/?.tsrc=rss",
+      "source": "Yahoo Finance:MDT",
+      "kind": "news"
+    },
+    {
+      "n": 4,
       "symbol": "AEO",
       "short": "AEO — 業績／指引：AEO stock gained 2.26 percent as quarterly profit surged in Q2/ 2026 - AD HOC NEWS",
       "detail": "AEO\n重點：業績／指引\n標題：AEO stock gained 2.26 percent as quarterly profit surged in Q2/ 2026 - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPNTJ2amxkcVFEYUdubG1VTnJpWW8ybWxUdXpXZm5VWkppenBlMmJrdkxITDFRZFBXdHdOUjdjMjByT0VPV09sUGQ4VXFUYy1oTk9zSDRmN05NVGZTblpJbHRZZXZGQTJSc1ZVNi0waFczeVo1RklTLTBYUzdSc1FjbFhUTVhZN194RXhUNk51NTM1Ry1qM0RZa3hGdjAxZ25EZzVfRTNJamsxM…\n來源：Google News:AEO",
@@ -14,34 +41,34 @@
       "kind": "news"
     },
     {
-      "n": 2,
-      "symbol": "BDX",
-      "short": "BDX — BD and U.S. Government Launch Landmark Partnership to Expand U.S. Manufacturing and Str…",
-      "detail": "BDX\n重點：新聞\n標題：BD and U.S. Government Launch Landmark Partnership to Expand U.S. Manufacturing and Strengthen America's Healthcare Resilience\n摘要：BD (Becton, Dickinson and Company) (NYSE: BDX), one of the world's leading medical technology companies and the nation's largest manufacturer of essential medical consumables, today announced a landmark partnership with the U.S. Government to expand domestic manufacturing and st…\n來源：Yahoo Finance:BDX",
-      "url": "https://finance.yahoo.com/healthcare/articles/bd-u-government-launch-landmark-103500355.html?.tsrc=rss",
-      "source": "Yahoo Finance:BDX",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "BNY",
-      "short": "BNY — 9,131 Bank of New York Mellon Corporation $BNY Shares Acquired by Ferguson Wellman Capi…",
-      "detail": "BNY\n重點：新聞\n標題：9,131 Bank of New York Mellon Corporation $BNY Shares Acquired by Ferguson Wellman Capital Management Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbHRjWmlmTXZKa0pkS2dLY0VIY3h1Q3Rrd2Vod0ZyUjRrVkl3VncxbVhVRE1ySkFUVHZueTVvdXdzWXlKLXczNTBOZ3AzNDVRU3lnVkkyaXh1bmFVNmNyMnBRRUtiYlVVM1lqVXBfcUM4MmM5Q1VubHhHeFZUUW1RcVQyWFQyNDRBU0M0N1FLTTN3UDhGSEpCcG9DazlXam9YZEJDbkhWNEtKU…\n來源：Google News:BNY",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbHRjWmlmTXZKa0pkS2dLY0VIY3h1Q3Rrd2Vod0ZyUjRrVkl3VncxbVhVRE1ySkFUVHZueTVvdXdzWXlKLXczNTBOZ3AzNDVRU3lnVkkyaXh1bmFVNmNyMnBRRUtiYlVVM1lqVXBfcUM4MmM5Q1VubHhHeFZUUW1RcVQyWFQyNDRBU0M0N1FLTTN3UDhGSEpCcG9DazlXam9YZEJDbkhWNEtKUmxxT2F1OWE4aVFfR3NFWGJTSERuQ1JQREhIVlVqUkhpc2FuT2xwazBBQkptMzFvZHBTaFdFX0o4S01RV3ZLT2lGaU04X01XX1hrYnBZ?oc=5",
-      "source": "Google News:BNY",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "CRM",
-      "short": "CRM — 業績／指引：Jim Cramer Says Software Was the Story of Q3. The Numbers Agree",
-      "detail": "CRM\n重點：業績／指引\n標題：Jim Cramer Says Software Was the Story of Q3. The Numbers Agree\n摘要：Salesforce, Inc. (NYSE:CRM) rose 46% over the third quarter, and Microsoft Corporation (NASDAQ:MSFT) rose 37%. Jim Cramer told CNBC on October 1 that the quarter will be remembered as the moment software bounced back while some data center plays gave ground to profit-taking. The…\n來源：Yahoo Finance:CRM",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-software-story-050335529.html?.tsrc=rss",
-      "source": "Yahoo Finance:CRM",
-      "kind": "news"
-    },
-    {
       "n": 5,
+      "symbol": "ALSN",
+      "short": "ALSN — Are Auto-Tires-Trucks Stocks Lagging Allison Transmission Holdings (ALSN) This Year?",
+      "detail": "ALSN\n重點：新聞\n標題：Are Auto-Tires-Trucks Stocks Lagging  Allison Transmission Holdings (ALSN) This Year?\n摘要：Here is how Allison Transmission (ALSN) and BorgWarner (BWA) have performed compared to their sector so far this year.\n來源：Yahoo Finance:ALSN",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/auto-tires-trucks-stocks-lagging-124003827.html?.tsrc=rss",
+      "source": "Yahoo Finance:ALSN",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "BHP",
+      "short": "BHP — AI相關、宏觀：BHP Group (BHP): Copper Strength Drives 18% Quarter Rally to All-Time Highs",
+      "detail": "BHP\n重點：AI相關、宏觀\n標題：BHP Group (BHP): Copper Strength Drives 18% Quarter Rally to All-Time Highs\n摘要：PM Capital, an investment management company, released its Q2 2026 investor letter for its “Global Opportunities Fund.” The letter can be downloaded here. Three themes shaped markets in the June quarter: inflation, artificial intelligence (AI), and government policy. Persistent …\n來源：Yahoo Finance:BHP",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bhp-group-bhp-copper-strength-124210914.html?.tsrc=rss",
+      "source": "Yahoo Finance:BHP",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "COF",
+      "short": "COF — TD Cowen Has Lowered Expectations for Capital One Financial (NYSE:COF) Stock Price - Ma…",
+      "detail": "COF\n重點：新聞\n標題：TD Cowen Has Lowered Expectations for Capital One Financial (NYSE:COF) Stock Price - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ2FYNm9GMWpETjdPclN3eVVSaW1OREJtcnZCcFJlOFI4WUdiUkQ4OWRVSEtoOXZ2LXBBZW1tVkF5Q2pPTXU1cjI0T0pqRHdQRmtKTFZNM0ZnbHRpQWVITThTMEtuemVCVFI1Sl84M0hGQnl5X3pSd0h3UFVETFNIUEg0dVczQ0RSYjBuQm5vWkxLcDBrWldMVVo3WGRzSVlZV2pVMks1eldTV…\n來源：Google News:COF",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ2FYNm9GMWpETjdPclN3eVVSaW1OREJtcnZCcFJlOFI4WUdiUkQ4OWRVSEtoOXZ2LXBBZW1tVkF5Q2pPTXU1cjI0T0pqRHdQRmtKTFZNM0ZnbHRpQWVITThTMEtuemVCVFI1Sl84M0hGQnl5X3pSd0h3UFVETFNIUEg0dVczQ0RSYjBuQm5vWkxLcDBrWldMVVo3WGRzSVlZV2pVMks1eldTV05FQWlpMUZ3R05ubjN3aHBEMzRsUmxIcEhsZXk3V1JrRGdZRlFwN3FkYTVSQlN5UQ?oc=5",
+      "source": "Google News:COF",
+      "kind": "news"
+    },
+    {
+      "n": 8,
       "symbol": "EL",
       "short": "EL — The Estee Lauder Companies Inc. (NYSE:EL) Stock Has Average Target Price of $104.76 - M…",
       "detail": "EL\n重點：新聞\n標題：The Estee Lauder Companies Inc. (NYSE:EL) Stock Has Average Target Price of $104.76 - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSDZfZjNyMGhxcXFUaExNVFllYm1mOWFHdGpzbGNqUzdWVXdKejBoa2R5bk05OHZkLTNpQlp2OHh0SEtxSVFMY3RwcG12Sk4wWkRNYXFoTjNuSEJWZy1qUmZyOE5uTW9lZWVNRG14Q0MtMm9TbUIzbjFXMmxtbXFfZW1qaG1ZU29GUEExa2hCOXFtSjV2dTBvX1hrMG1pRzRlVkhQd1NYWFpUd…\n來源：Google News:EL",
@@ -50,7 +77,25 @@
       "kind": "news"
     },
     {
-      "n": 6,
+      "n": 9,
+      "symbol": "FRSH",
+      "short": "FRSH — Freshworks (NASDAQ:FRSH) Sets New 12-Month High - Here's Why - MarketBeat",
+      "detail": "FRSH\n重點：新聞\n標題：Freshworks (NASDAQ:FRSH) Sets New 12-Month High - Here's Why - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzlOeS1PUTlCbWdvRER4X1g0eFVFSHJjWGhRaGd5MXQ0a09DNmFQTmt5a1pQSW9ONGtoTU51UzZBWGVzRDY1M19DanVydnNYY3JaMy1lTUJzUTJBa1FLWklabmhpNm15cFdmREpyZl9CTFlpaE05WklMcnZIYi14WUJWV0JzZU1TM0RvWkgxLVFsNlh5ZWZWUm4weHcxSkVKTU5MTVFtWGs3O…\n來源：Google News:FRSH",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzlOeS1PUTlCbWdvRER4X1g0eFVFSHJjWGhRaGd5MXQ0a09DNmFQTmt5a1pQSW9ONGtoTU51UzZBWGVzRDY1M19DanVydnNYY3JaMy1lTUJzUTJBa1FLWklabmhpNm15cFdmREpyZl9CTFlpaE05WklMcnZIYi14WUJWV0JzZU1TM0RvWkgxLVFsNlh5ZWZWUm4weHcxSkVKTU5MTVFtWGs3OHBwV2tEdzZDRVF1Zw?oc=5",
+      "source": "Google News:FRSH",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "HCA",
+      "short": "HCA — 業績／指引：HCA Healthcare's Q3 2026 Earnings: What to Expect",
+      "detail": "HCA\n重點：業績／指引\n標題：HCA Healthcare's Q3 2026 Earnings: What to Expect\n摘要：HCA Healthcare will release its third-quarter earnings later this month, and analysts anticipate a single-digit profit dip.\n來源：Yahoo Finance:HCA",
+      "url": "https://www.barchart.com/story/news/4977211/hca-healthcare-s-q3-2026-earnings-what-to-expect?.tsrc=rss",
+      "source": "Yahoo Finance:HCA",
+      "kind": "news"
+    },
+    {
+      "n": 11,
       "symbol": "IQV",
       "short": "IQV — AI相關：IQVIA (NYSE:IQV) Bets on AI to Power Clinical Research - Kalkine Media",
       "detail": "IQV\n重點：AI相關\n標題：IQVIA (NYSE:IQV) Bets on AI to Power Clinical Research - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQOElUeUxOZmFsbzRfMmFGZHc1YTJBRmdRdDRoVnhnS0RrSFF1a25fdE5semlzVW9PaERTVlFNSVBDd19GWm1yYjVSQy1KaG5oUzA4RU1mUmhSeU9MZjg0Y2RiT3hfQ2lqNGNGang5dGVBbkh6ekRwLTYxa1c5ZGFINkd4dkpaWXAzMjhwZW1aVEdUa3FGNGdvc3AtaXBZQQ?oc=5\" target=\"…\n來源：Google News:IQV",
@@ -59,57 +104,12 @@
       "kind": "news"
     },
     {
-      "n": 7,
-      "symbol": "IRDM",
-      "short": "IRDM — Iridium Communications (NASDAQ:IRDM) Stock Price Crosses Above 200 Day Moving Average -…",
-      "detail": "IRDM\n重點：新聞\n標題：Iridium Communications (NASDAQ:IRDM) Stock Price Crosses Above 200 Day Moving Average - Time to Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRlI2ZlZLRUtFa1Q4c1pRQ29YRFVHYnQ3QmtVZngzZFBDc1FrWlZ5blJsbmpSSzhYbWVqTVNXVEsxM1BKVWpGZUJHX2lpUEVEajJwWWhRdjZhWkJKOGp1V1VkdDZQLWJRTGRRVXFOUDM3Nm1JcGRxd0VWcVd5cnlWTzBsbzN1eEtwSXFYekpYZzAxUVZPTGpHc1gxSWVWMkpTZDVwRHh2T0xPe…\n來源：Google News:IRDM",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRlI2ZlZLRUtFa1Q4c1pRQ29YRFVHYnQ3QmtVZngzZFBDc1FrWlZ5blJsbmpSSzhYbWVqTVNXVEsxM1BKVWpGZUJHX2lpUEVEajJwWWhRdjZhWkJKOGp1V1VkdDZQLWJRTGRRVXFOUDM3Nm1JcGRxd0VWcVd5cnlWTzBsbzN1eEtwSXFYekpYZzAxUVZPTGpHc1gxSWVWMkpTZDVwRHh2T0xPekVEWC1SM3RwRWZxeDVaTUcyRVFuX1RDd05LbVBZY2JOU3hxUm5BaXdJM3BxN2xUbTBfMmltU2RHR3haZjhxLTRKcQ?oc=5",
-      "source": "Google News:IRDM",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "JD",
-      "short": "JD — JD.com (NASDAQ:JD) Share Price Breaks Below 50 Day Moving Average - Here's What Happene…",
-      "detail": "JD\n重點：新聞\n標題：JD.com (NASDAQ:JD) Share Price Breaks Below 50 Day Moving Average - Here's What Happened - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdy1QRW5lRnFZSE5hbVhkNXZ5V200ZXhobV84eUhoQWd3ZlYzc2JJMEowSHJ5ZVNMenlQQUdfcWswZkpZbXBQSzZfUzZuZC1Pak45WTRlZTBFWHBKRTI5YkFDQThVLXJXVUJKUEJWeWhrQi1kaGNqeWlRWk84MFNxa2tkV1hsZHRueEJaNnBia1BxNHRwT2JXWjBJYnRBdXBRdG5OcVNaRXdqa…\n來源：Google News:JD",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdy1QRW5lRnFZSE5hbVhkNXZ5V200ZXhobV84eUhoQWd3ZlYzc2JJMEowSHJ5ZVNMenlQQUdfcWswZkpZbXBQSzZfUzZuZC1Pak45WTRlZTBFWHBKRTI5YkFDQThVLXJXVUJKUEJWeWhrQi1kaGNqeWlRWk84MFNxa2tkV1hsZHRueEJaNnBia1BxNHRwT2JXWjBJYnRBdXBRdG5OcVNaRXdqaTh3a0pZMnZTaHhMVEhjd1N1cTlnclNjTTQ2VXZGUFUyQXFDZDVmVk9lTHJhb1ZiUQ?oc=5",
-      "source": "Google News:JD",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "NWS",
-      "short": "NWS — News (NASDAQ:NWS) Share Price Crosses Above 200 Day Moving Average - Should You Sell? -…",
-      "detail": "NWS\n重點：新聞\n標題：News (NASDAQ:NWS) Share Price Crosses Above 200 Day Moving Average - Should You Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMHh2LVkzZ1BPa2NXVU1nZHhXRFpkbWxNdFhXenJ5RVdkdjUyZE0wa0pTelBrSHdzb0pEMFVsdWNmcEJ3M3prQnRfT2thVVd6aTlUdUJkUTg1eWR2aHVqQnlaWjlzbXdyS3VnSzhQZ1RQQnVVXzVXQzF4YXVscHVGbFNqbnE5a3JPbDV0dFBuMFdQQnZlZjZsR2JTd0ZGelR2OEw4OUI0WmFGY…\n來源：Google News:NWS",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMHh2LVkzZ1BPa2NXVU1nZHhXRFpkbWxNdFhXenJ5RVdkdjUyZE0wa0pTelBrSHdzb0pEMFVsdWNmcEJ3M3prQnRfT2thVVd6aTlUdUJkUTg1eWR2aHVqQnlaWjlzbXdyS3VnSzhQZ1RQQnVVXzVXQzF4YXVscHVGbFNqbnE5a3JPbDV0dFBuMFdQQnZlZjZsR2JTd0ZGelR2OEw4OUI0WmFGYTlNUXctWlY2YjQzS19IUDhqTjNwOTI1Q1k3X1dBejBkalNIbkVvXzRfbUs5dw?oc=5",
-      "source": "Google News:NWS",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "OBDC",
-      "short": "OBDC — Blue Owl Capital (NYSE:OBDC) Hits New 12-Month Low - Here's Why - MarketBeat",
-      "detail": "OBDC\n重點：新聞\n標題：Blue Owl Capital (NYSE:OBDC) Hits New 12-Month Low - Here's Why - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUUpHNlJRbTBoc3lVeHJnd0lOdUx1R21zdnhUaXpmZ05TenFLZEFMLUlzQ0RrbHlLNjk5OGlfYkJoV1pVbUUxNzFhb1MyQy13d1NFZjBMamJaalJPVWtrRDhMZjVCZWhXT3Y4YU4zQ3l0RjlYQWxYRnZxUlVwLVpJSDl0RlNRSkNMS1RhQTE0SHBfd1RJcHZFcUdaRVBSSEFRNXNPdzhSanRJY…\n來源：Google News:OBDC",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUUpHNlJRbTBoc3lVeHJnd0lOdUx1R21zdnhUaXpmZ05TenFLZEFMLUlzQ0RrbHlLNjk5OGlfYkJoV1pVbUUxNzFhb1MyQy13d1NFZjBMamJaalJPVWtrRDhMZjVCZWhXT3Y4YU4zQ3l0RjlYQWxYRnZxUlVwLVpJSDl0RlNRSkNMS1RhQTE0SHBfd1RJcHZFcUdaRVBSSEFRNXNPdzhSanRJYWpDSmtJT24tS3I3dHFaWWc?oc=5",
-      "source": "Google News:OBDC",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "RITM",
-      "short": "RITM — Rithm Capital Corp. (NYSE:RITM) Stock Has Consensus Target Price of $13.15 According to…",
-      "detail": "RITM\n重點：新聞\n標題：Rithm Capital Corp. (NYSE:RITM) Stock Has Consensus Target Price of $13.15 According to Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX0psX1dHanJqSHFjd2dMVkZTQ0x2YXhCb2dTY0JTZkJYMVF0OHo2ckVTRVRIX29KdDBnRTEtSGE4cVBZUjRMQm45NzlrNEFJWl9NRzU3c09oaW43YnV0NVBfcktOeVVIb1Q3UHdaejJnR2hEX2ltbEhHcFAtLVZLcGVyTVdGZjlFWEdhdDVXQU9ZWl9EM3hEVDhrYUxPYjJ2UldjNDQ0ZllfN…\n來源：Google News:RITM",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX0psX1dHanJqSHFjd2dMVkZTQ0x2YXhCb2dTY0JTZkJYMVF0OHo2ckVTRVRIX29KdDBnRTEtSGE4cVBZUjRMQm45NzlrNEFJWl9NRzU3c09oaW43YnV0NVBfcktOeVVIb1Q3UHdaejJnR2hEX2ltbEhHcFAtLVZLcGVyTVdGZjlFWEdhdDVXQU9ZWl9EM3hEVDhrYUxPYjJ2UldjNDQ0ZllfNGRyLWpSbVVlejlTdGZjb3dvNUFSVU1BM0gwUVlzM2ZBOW92T3ZmOV9WdzJIbWVuc2tuR0Zid2puajc1eF9ZYjBn?oc=5",
-      "source": "Google News:RITM",
-      "kind": "news"
-    },
-    {
       "n": 12,
-      "symbol": "SLB",
-      "short": "SLB — SLB Limited (NYSE:SLB) Receives Average Rating of \"Moderate Buy\" from Analysts - Market…",
-      "detail": "SLB\n重點：新聞\n標題：SLB Limited (NYSE:SLB) Receives Average Rating of \"Moderate Buy\" from Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYzNZXzBEYy01RUlyWGRBWFRoT181M1F5c1hOdDNsUDFiV2xQOXNZdmFYd2IyczQwVnRKeEZyUkU3WUJsTWhRN0c1U1NWSXNzTDlBblA5ckpQU2ZLYzJmLWU5bGJiWjJfd01JSHhPR1VUbi0wLWpuU01vS1hSMG5HZFVTRVFwQjA3Ri03bTBQbVlKbHJqZTdYc0VTOGgxck5VUnAxZGc5MzNsS…\n來源：Google News:SLB",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYzNZXzBEYy01RUlyWGRBWFRoT181M1F5c1hOdDNsUDFiV2xQOXNZdmFYd2IyczQwVnRKeEZyUkU3WUJsTWhRN0c1U1NWSXNzTDlBblA5ckpQU2ZLYzJmLWU5bGJiWjJfd01JSHhPR1VUbi0wLWpuU01vS1hSMG5HZFVTRVFwQjA3Ri03bTBQbVlKbHJqZTdYc0VTOGgxck5VUnAxZGc5MzNsSWRNOFVNTG02dlNUM1hNeUxhTGVWNDNrQlZEVURTQTNOd0ZRZkNyQUdFSw?oc=5",
-      "source": "Google News:SLB",
+      "symbol": "LULU",
+      "short": "LULU — LULU Stock Notice: Lululemon Stock Plummeted 17% after Growth Issues Disclosed - Securi…",
+      "detail": "LULU\n重點：新聞\n標題：LULU Stock Notice: Lululemon Stock Plummeted 17% after Growth Issues Disclosed - Securities Fraud Investigation Underway - PR Newswire\n摘要：<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxOa0U4WWdFNTB5aWN4R3ZHRkFFa2JET2pXZTNaRC1oY0dOMEMydFdlOHFCWHpHSlN1czlVVk1yZ3lzQkgxTDFvekd3UkIzUHotMlUxWlZsY1FNNkh3b3N4OWtELVEtR1RlYm5hdy0ycksydDlJbEJBNkZ0UUlJZk5EU0JYWFJlVVpqQk5fQmdjcG5XenNqbnhUTzFnTnZZal9YSWF0dlgzTVE1S…\n來源：Google News:LULU",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOa0U4WWdFNTB5aWN4R3ZHRkFFa2JET2pXZTNaRC1oY0dOMEMydFdlOHFCWHpHSlN1czlVVk1yZ3lzQkgxTDFvekd3UkIzUHotMlUxWlZsY1FNNkh3b3N4OWtELVEtR1RlYm5hdy0ycksydDlJbEJBNkZ0UUlJZk5EU0JYWFJlVVpqQk5fQmdjcG5XenNqbnhUTzFnTnZZal9YSWF0dlgzTVE1SDBCVldlSjhfT1FtVGtKUWhacmNUOV9VeERfVjNPUElMNTdmT05qbm5INk9LRUE3S2FQWjVxOThabzFvbTVwbkNvZjRKZWdXS1J5MGpJRldDMDJGSFJ4Uzcw?oc=5",
+      "source": "Google News:LULU",
       "kind": "news"
     }
   ]
