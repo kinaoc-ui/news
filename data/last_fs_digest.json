@@ -1,47 +1,38 @@
 {
-  "title": "FS新聞 10-07 06:13",
-  "list_name": "FirstScreen_2026-10-07_061333_comma.txt",
-  "created_at": "2026-10-07T06:13:43.899313+00:00",
+  "title": "FS新聞 10-07 11:30",
+  "list_name": "FirstScreen_2026-10-07_113034_comma.txt",
+  "created_at": "2026-10-07T11:30:43.256846+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "LW",
-      "short": "LW — 業績／指引：Lamb Weston (LW) Q1 2027 Earnings Call Transcript",
-      "detail": "LW\n重點：業績／指引\n標題：Lamb Weston (LW) Q1 2027 Earnings Call Transcript\n摘要：North America volume growth outpaced market trends for a seventh straight quarter.\n來源：Yahoo Finance:LW\n其他：Lamb Weston (NYSE:LW) Declares Quarterly Dividend of $0.38 …",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/06/lamb-weston-lw-q1-2027-earnings-call-transcript/?.tsrc=rss",
-      "source": "Yahoo Finance:LW",
+      "symbol": "BHP",
+      "short": "BHP — Berenberg raises target for BHP stock from GBp 3,400.00 to GBp 3,500.00 - AD HOC NEWS",
+      "detail": "BHP\n重點：新聞\n標題：Berenberg raises target for BHP stock from GBp 3,400.00 to GBp 3,500.00 - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQZDc0aHlqN1hhc0dHZ2oxRVUyVTZweEJueU9DcUlHOEVsNDgwMm9aTk5iV2VIdElnbGJseE1TclZ6aURvbHVSWFVDWmpVQno1UHdJdHVjMWRhOGRXZERnZjJNN2w2Z1hkR0s4XzRtakpiOTRTQnVyMjU3WmxwaF9kYUNQYndVQ3ViOTVnVk9UUS1mR1p1aTZGYjFjLXdQMDZFQzhPZGFUdGE0Q…\n來源：Google News:BHP",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZDc0aHlqN1hhc0dHZ2oxRVUyVTZweEJueU9DcUlHOEVsNDgwMm9aTk5iV2VIdElnbGJseE1TclZ6aURvbHVSWFVDWmpVQno1UHdJdHVjMWRhOGRXZERnZjJNN2w2Z1hkR0s4XzRtakpiOTRTQnVyMjU3WmxwaF9kYUNQYndVQ3ViOTVnVk9UUS1mR1p1aTZGYjFjLXdQMDZFQzhPZGFUdGE0QkhRRGlhYUY3VjRFZU81bFR1aDQ1VjJqdGxoMElhSlBhUVRMdGc?oc=5",
+      "source": "Google News:BHP",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "ANET",
-      "short": "ANET — Congress Asset Management Co. Sells 127,139 Shares of Arista Networks, Inc. $ANET - Mar…",
-      "detail": "ANET\n重點：新聞\n標題：Congress Asset Management Co. Sells 127,139 Shares of Arista Networks, Inc. $ANET - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMEd1dWt4V1BKUUF2WndJaW1LTDFHT0ZkTDJPT2ktSElkVmxLVjJ2blRYRklYeGpRNUNGNnhSbU90a0ZLQnhrTkR3cHNBTUZKVzdnYzg4VmRvSE5FcFc3ekVUVHlsS2hGamFYVnRvMXA0UFlGWWdIaEpxcGdLWGlqSGFxTWo4c2NXWGhyTlVqT213TWF3WWNkMnVTWks1djdtajBZWUdFZTBhe…\n來源：Google News:ANET",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMEd1dWt4V1BKUUF2WndJaW1LTDFHT0ZkTDJPT2ktSElkVmxLVjJ2blRYRklYeGpRNUNGNnhSbU90a0ZLQnhrTkR3cHNBTUZKVzdnYzg4VmRvSE5FcFc3ekVUVHlsS2hGamFYVnRvMXA0UFlGWWdIaEpxcGdLWGlqSGFxTWo4c2NXWGhyTlVqT213TWF3WWNkMnVTWks1djdtajBZWUdFZTBheDRCbmliX1p4WmQ3NUpBc3ZUVFVpZzVrVmp3OVlEeHJBM0xVSHNoeXY0?oc=5",
-      "source": "Google News:ANET",
+      "symbol": "BKNG",
+      "short": "BKNG — Congress Asset Management Co. Buys 21,345 Shares of Booking Holdings Inc. $BKNG - Marke…",
+      "detail": "BKNG\n重點：新聞\n標題：Congress Asset Management Co. Buys 21,345 Shares of Booking Holdings Inc. $BKNG - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbzg5NjVJWVJ6bXZ5M1NfSkVOM0lmSHNfeEVOLWdzS0xyQmxxQTY4OFlTNzdiWmJOdjhmVTcweXZTNnVBV3B6RFAxOFNWVmpFSTlkakZUaGFxVDVnb3JFTU1Rc2VnV3NTUDFEUzl1YV8zOEdRcVhWeThqR3FuMjNCeUJOdDgxUUxMQVk0Q0JTNnBVSkZTbUVkc0l3YTVteHhiTm41U3R5TVJqN…\n來源：Google News:BKNG",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbzg5NjVJWVJ6bXZ5M1NfSkVOM0lmSHNfeEVOLWdzS0xyQmxxQTY4OFlTNzdiWmJOdjhmVTcweXZTNnVBV3B6RFAxOFNWVmpFSTlkakZUaGFxVDVnb3JFTU1Rc2VnV3NTUDFEUzl1YV8zOEdRcVhWeThqR3FuMjNCeUJOdDgxUUxMQVk0Q0JTNnBVSkZTbUVkc0l3YTVteHhiTm41U3R5TVJqNUhWZmdtTTUyczUwMDlBSzF5S1VKSFd3WUxqWThXWXhvNHpFcTdJS3c?oc=5",
+      "source": "Google News:BKNG",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "CARG",
-      "short": "CARG — Congress Asset Management Co. Boosts Stock Holdings in CarGurus, Inc. $CARG - MarketBeat",
-      "detail": "CARG\n重點：新聞\n標題：Congress Asset Management Co. Boosts Stock Holdings in CarGurus, Inc. $CARG - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNVGN3SUZNZGFXVEdzZ21EV0lXQ3ZYOHhXLUlLR2FZNjJMN2pBX2h5ZGFma3VaVldtRk4zVE1HNTBmWDBZenJlU255VXlnOENUUy1jb3Q4c0hWU3JMenZoWXJGei1NTkt2dVhTcXQwYkJpakVJdkE2d1h3cm4tZTM1dExRYzRqMGxCQWZjMWJmNFY5VmNCdmE1X0FxLU1la1JraktrNTBNc0U2c…\n來源：Google News:CARG",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVGN3SUZNZGFXVEdzZ21EV0lXQ3ZYOHhXLUlLR2FZNjJMN2pBX2h5ZGFma3VaVldtRk4zVE1HNTBmWDBZenJlU255VXlnOENUUy1jb3Q4c0hWU3JMenZoWXJGei1NTkt2dVhTcXQwYkJpakVJdkE2d1h3cm4tZTM1dExRYzRqMGxCQWZjMWJmNFY5VmNCdmE1X0FxLU1la1JraktrNTBNc0U2cEoyb2syNTRBT0toNnA1UnFQQTFoWXozUkRkNTZGQ2Z0b1A?oc=5",
-      "source": "Google News:CARG",
+      "symbol": "CRM",
+      "short": "CRM — Legacy Private Trust Co. Cuts Stock Position in Salesforce Inc. $CRM - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：Legacy Private Trust Co. Cuts Stock Position in Salesforce Inc. $CRM - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNV1RTNGZnLS0zcjhySnlOZUZ2Y2NBY2tvc1pCV002dVRtOHd0TFJsWklQYXpXbnJCNTBFT19NX3ZaajdpMmppNTkwMTRtMmZ4N01HMkRHMV8wWlBkX3RhWUx2YS1zZ3duY3JJZlVmNzRkYlJVMS1LUzRPZmlIV3FUTnZtZHRxNjZFY21DdWRWQzFnZmJLUFJFbkpTd01RaW9ZNlV4MGw1Mmc5L…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV1RTNGZnLS0zcjhySnlOZUZ2Y2NBY2tvc1pCV002dVRtOHd0TFJsWklQYXpXbnJCNTBFT19NX3ZaajdpMmppNTkwMTRtMmZ4N01HMkRHMV8wWlBkX3RhWUx2YS1zZ3duY3JJZlVmNzRkYlJVMS1LUzRPZmlIV3FUTnZtZHRxNjZFY21DdWRWQzFnZmJLUFJFbkpTd01RaW9ZNlV4MGw1Mmc5LVpIdkNkTU9DZ2VaeW40Q290eFo3bkFpeU1C?oc=5",
+      "source": "Google News:CRM",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "FUTU",
-      "short": "FUTU — 業績／指引：Futu grows second-quarter revenue: what it means for Futu stock - AD HOC NEWS",
-      "detail": "FUTU\n重點：業績／指引\n標題：Futu grows second-quarter revenue: what it means for Futu stock - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOaDAzbGp1bkw4bUxWZmhUdkdWQkw3dnlxX2dzWmVXY0MyU0NCU2VuQVJTY0d4cWYzU2lxemhQWGdoTkJUVFBQa3gtVkpwZURpQmdFeG5FOWJMQ0VIR0xLYi04YWdGZ3J4V3VTRjBaU1VoM1NIZlZUc2hIckcyS3JjWHdPNjZEVjlOQWFYRmZ1b0twSEFOZkE5akRJV1o4MWtlWWcwWDFPM0NCe…\n來源：Google News:FUTU",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaDAzbGp1bkw4bUxWZmhUdkdWQkw3dnlxX2dzWmVXY0MyU0NCU2VuQVJTY0d4cWYzU2lxemhQWGdoTkJUVFBQa3gtVkpwZURpQmdFeG5FOWJMQ0VIR0xLYi04YWdGZ3J4V3VTRjBaU1VoM1NIZlZUc2hIckcyS3JjWHdPNjZEVjlOQWFYRmZ1b0twSEFOZkE5akRJV1o4MWtlWWcwWDFPM0NCeGQxT2FqSU0zMDF5VEtKZ3g2TUxR?oc=5",
-      "source": "Google News:FUTU",
-      "kind": "news"
-    },
-    {
-      "n": 5,
       "symbol": "INTU",
       "short": "INTU — AI相關：Intuit: AI-Driven Weakness Is Our Opportunity (NASDAQ:INTU) - Seeking Alpha",
       "detail": "INTU\n重點：AI相關\n標題：Intuit: AI-Driven Weakness Is Our Opportunity (NASDAQ:INTU) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPaEdqM0o3a1hsd19VOXMxQ1UwSnRaeG9jZnFUOEg1b3JwMlI1UUxKWGtLZVoyTXBhSXM3LUo3T2szdFNlUWdHZnVTOWFnRG95RHJpbHpWUnF6TXJ5YnRKb1RoS05GeUlYcV9sU2JNM3RDSll4WjZlMnUwcG93Unc4dzhzb2RQWi1wbkVoUy1PRVZ3dw?oc=5\" target=\"_blank\">Intuit: …\n來源：Google News:INTU",
@@ -50,21 +41,30 @@
       "kind": "news"
     },
     {
+      "n": 5,
+      "symbol": "LW",
+      "short": "LW — 業績／指引：LW Q3 Deep Dive: Stable Volumes and Cost Initiatives Offset Margin Compression",
+      "detail": "LW\n重點：業績／指引\n標題：LW Q3 Deep Dive: Stable Volumes and Cost Initiatives Offset Margin Compression\n摘要：Potato products company Lamb Weston (NYSE:LW) announced better-than-expected revenue in calendar Q3 2026 (fiscal Q1 2027), but sales were flat year on year at $1.67 billion. Its GAAP profit of $0.21 per share was 60.5% below analysts’ consensus estimates.\n來源：Yahoo Finance:LW",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lw-q3-deep-dive-stable-081647292.html?.tsrc=rss",
+      "source": "Yahoo Finance:LW",
+      "kind": "news"
+    },
+    {
       "n": 6,
-      "symbol": "MDT",
-      "short": "MDT — 883,081 Shares in Medtronic PLC $MDT Purchased by Congress Asset Management Co. - Marke…",
-      "detail": "MDT\n重點：新聞\n標題：883,081 Shares in Medtronic PLC $MDT Purchased by Congress Asset Management Co. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLWxMbnVTbm0xYXhWaXBuNktLQjhoYlFtZUdpcTRaOWt1LWU4Q25abGVOZWVxd1A3a1VES2ZVd19LcFhnTzBEYkVYVnRRcVNrUDcxU3FLT0RUOW4zQ3lTREZGTXZReVdGQlhod1J3ZXpGZjlDMHBHb2hXeXczQV91YUJScGN2MTRqTmxJTUktczNKbDlCVEEwSjVVRzRJSUpxVmJrMFY1S0dLS…\n來源：Google News:MDT",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLWxMbnVTbm0xYXhWaXBuNktLQjhoYlFtZUdpcTRaOWt1LWU4Q25abGVOZWVxd1A3a1VES2ZVd19LcFhnTzBEYkVYVnRRcVNrUDcxU3FLT0RUOW4zQ3lTREZGTXZReVdGQlhod1J3ZXpGZjlDMHBHb2hXeXczQV91YUJScGN2MTRqTmxJTUktczNKbDlCVEEwSjVVRzRJSUpxVmJrMFY1S0dLS1hZNjlFS3Nrc1JIYmVnMHFDRDhOOHJBS1JIT1F1SGxaX1ZONFl6R3Jz?oc=5",
-      "source": "Google News:MDT",
+      "symbol": "OKTA",
+      "short": "OKTA — Okta (NASDAQ:OKTA) Sets New 52-Week High - Time to Buy? - MarketBeat",
+      "detail": "OKTA\n重點：新聞\n標題：Okta (NASDAQ:OKTA) Sets New 52-Week High - Time to Buy? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDFsQ2M4Zm54VHZjSVA1aVR1THNtSG1lUjBoMUU4TUJiVWpYUng5WTBBSDFqVTlVem1yaTV6d01fbzJpQm1ZN1RSTGpWR3B0Qmp5NFloVjZpUjZpbFF2cmo0THU0eERlWlFtc3k0WlYwajI1MWVKNFN2c01NTzMxQklGRnEwT2dIYlJVMnVYTGhaUkpoNzJmdVlrbFRCOWdJcUpSTThKcXhhe…\n來源：Google News:OKTA",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDFsQ2M4Zm54VHZjSVA1aVR1THNtSG1lUjBoMUU4TUJiVWpYUng5WTBBSDFqVTlVem1yaTV6d01fbzJpQm1ZN1RSTGpWR3B0Qmp5NFloVjZpUjZpbFF2cmo0THU0eERlWlFtc3k0WlYwajI1MWVKNFN2c01NTzMxQklGRnEwT2dIYlJVMnVYTGhaUkpoNzJmdVlrbFRCOWdJcUpSTThKcXhhek1BenNj?oc=5",
+      "source": "Google News:OKTA",
       "kind": "news"
     },
     {
       "n": 7,
-      "symbol": "MRK",
-      "short": "MRK — Will Drug Approvals Change Merck (MRK) Narrative - Simply Wall Street",
-      "detail": "MRK\n重點：新聞\n標題：Will Drug Approvals Change Merck (MRK) Narrative - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPV050S1U3M25HQWc0NGhUTGtUZllrZ05vUTRxOW5VTERFdEdhY1lyQVdUQURkaV9sSi1UeTRIcnd0MXlTS3V5VXhJeERHZ2h1NTdrRXJENTVKdnBQLWhBQ2RLRVp5U2YxMjRpZzE0bGxjWUZnWjgzVmlRd0ZfTHVBYWVlSXRzUTJKYlBKMlZVeFA1b2paUjdsTE5hOVg5OU1UYlpnR2prS1RJL…\n來源：Google News:MRK",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV050S1U3M25HQWc0NGhUTGtUZllrZ05vUTRxOW5VTERFdEdhY1lyQVdUQURkaV9sSi1UeTRIcnd0MXlTS3V5VXhJeERHZ2h1NTdrRXJENTVKdnBQLWhBQ2RLRVp5U2YxMjRpZzE0bGxjWUZnWjgzVmlRd0ZfTHVBYWVlSXRzUTJKYlBKMlZVeFA1b2paUjdsTE5hOVg5OU1UYlpnR2prS1RJLWdJU1p2OTJMeExuS1p4QzdLamJKRdIBxAFBVV95cUxOa1pJd1lxOU5xbzZ3Q2FsREpQdU1VT2M2eGd1c2lkZE5RWFdIREJERUg3WFA2MVZ6QnRDS0FzUUVva29FeFl1RDlxWGFzMHJWLXVkVzl0a3VpSFRwb2ZDSHNHSDZ3aVBhbnpaQVRLS0F4T3pvSFhPV2htVWtEUS1oekNEemVheHBPRjk0d3Q2blMxNFh1OENrS19ObzZxOEdUaUwyY1RZQkdrTFV4bU1wb2pjVTBuQ190OWswQ1M3OWVVYVhQ?oc=5",
-      "source": "Google News:MRK",
+      "symbol": "OXY",
+      "short": "OXY — Is Occidental Petroleum's (NYSE:OXY) Dividend Safe as Crude Softens? - Kalkine Media",
+      "detail": "OXY\n重點：新聞\n標題：Is Occidental Petroleum's (NYSE:OXY) Dividend Safe as Crude Softens? - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHp6aUdJWGlUNmxoZG50WVZsYkRUeGZsV3RROGc3TzdWNDBiZF8tQjlKMGt4SllBNXRRR2htS25BZXJycWFGbTJNZlhyUllDMk1wbVRKbmdsSHFsUi16QmtpZ2RkdHFEUGNrQUxZdUtoUjQwRjhuYmRxVzQxMUpqbVNrZjFXakF4eEpWQmU5NDAyZEhjbzJVWVpVYWZTcHRJTk92OWNHMjh1d…\n來源：Google News:OXY",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHp6aUdJWGlUNmxoZG50WVZsYkRUeGZsV3RROGc3TzdWNDBiZF8tQjlKMGt4SllBNXRRR2htS25BZXJycWFGbTJNZlhyUllDMk1wbVRKbmdsSHFsUi16QmtpZ2RkdHFEUGNrQUxZdUtoUjQwRjhuYmRxVzQxMUpqbVNrZjFXakF4eEpWQmU5NDAyZEhjbzJVWVpVYWZTcHRJTk92OWNHMjh1dw?oc=5",
+      "source": "Google News:OXY",
       "kind": "news"
     },
     {
@@ -78,11 +78,11 @@
     },
     {
       "n": 9,
-      "symbol": "SLB",
-      "short": "SLB — UBS raises target for SLB stock from USD 66.00 to USD 72.00 - AD HOC NEWS",
-      "detail": "SLB\n重點：新聞\n標題：UBS raises target for SLB stock from USD 66.00 to USD 72.00 - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOUlJ6Y2dnZVVCSThNS2RId0RFNlZMd2l6cGR0RGNhSW1EVzV4amVoV3I4ekFBel91bHNpV3FXSnBuQTkwTFNPRDBONlFDU2p2ZHJTLU5FN05LS1d2UkVneXdDT2ViYmJVR0dpYUI3cnFXS2h1bm43bUt5Y2dROTlIUzBuanJqNFhMSndySUgzY2N1THJvZHFuQl9OdXh1NUxNWmRQQ1Bob0dnM…\n來源：Google News:SLB",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUlJ6Y2dnZVVCSThNS2RId0RFNlZMd2l6cGR0RGNhSW1EVzV4amVoV3I4ekFBel91bHNpV3FXSnBuQTkwTFNPRDBONlFDU2p2ZHJTLU5FN05LS1d2UkVneXdDT2ViYmJVR0dpYUI3cnFXS2h1bm43bUt5Y2dROTlIUzBuanJqNFhMSndySUgzY2N1THJvZHFuQl9OdXh1NUxNWmRQQ1Bob0dnMEVpT1lKcWdLaTlCSHJvcFE?oc=5",
-      "source": "Google News:SLB",
+      "symbol": "STT",
+      "short": "STT — State Street Corporation (NYSE:STT) Stock Now Rated \"Moderate Buy\" by Sell-Side Analyst…",
+      "detail": "STT\n重點：新聞\n標題：State Street Corporation (NYSE:STT) Stock Now Rated \"Moderate Buy\" by Sell-Side Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNEVKSUNQYUVvcjdfOTRXYktqblI2SVNqZGFVVTJNNUU2a1pqVnB2a00wQ1g1MnBqY2RUUjJtcTZpTEh4anNER2FEMEp3RGxyXzBGSkJFNmVlalZmeHhDS3k0Z0oyWnBJY1czSVZlaDJ5TVNEeG5udWRwM3UtMF9jVmtXOWwtUXV3cmk4OFQyT2c1N0NBazNLWWUwb2NCMk5JT1BYMVdhVVFvO…\n來源：Google News:STT",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNEVKSUNQYUVvcjdfOTRXYktqblI2SVNqZGFVVTJNNUU2a1pqVnB2a00wQ1g1MnBqY2RUUjJtcTZpTEh4anNER2FEMEp3RGxyXzBGSkJFNmVlalZmeHhDS3k0Z0oyWnBJY1czSVZlaDJ5TVNEeG5udWRwM3UtMF9jVmtXOWwtUXV3cmk4OFQyT2c1N0NBazNLWWUwb2NCMk5JT1BYMVdhVVFvOXI4NDJPM0tlYWs5bWxaemhDSENkanNCZUVOSHpqRkxKVGJmYnFXME9HMk8yRm9FcS1hQ0J5OWpB?oc=5",
+      "source": "Google News:STT",
       "kind": "news"
     },
     {
@@ -92,15 +92,6 @@
       "detail": "TGT\n重點：新聞\n標題：Target’s Sales Are Recovering After 10,000+ Price Cuts. Is the Turnaround Already Priced In?\n摘要：Target Corporation (NYSE:TGT) is lowering prices on nearly 2,000 apparel, home, and accessories items as the holiday shopping season gets underway, following more than 10,000 price cuts over the past year. Early results suggest the approach is working, as comparable sales grew 5…\n來源：Yahoo Finance:TGT",
       "url": "https://finance.yahoo.com/markets/stocks/articles/target-sales-recovering-10-000-034211265.html?.tsrc=rss",
       "source": "Yahoo Finance:TGT",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "YETI",
-      "short": "YETI — 業績／指引：YETI stock was last at USD 40.25 after guidance update - AD HOC NEWS",
-      "detail": "YETI\n重點：業績／指引\n標題：YETI stock was last at USD 40.25 after guidance update - AD HOC NEWS\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3FQVFpFZWktd1k1eDFKTmRkenVWS1MtWGJJcXVmRTdWT3d0R0VwWlJURjBFUEpJT2puU090SWRCNlBYZGR6M2pXdEdZMHQ3bXJGazVxN0hCZGdoQlBTaUlZUDJpdEdTeVl2eE1HTG1MdXAzRm5iZFZMZFFpajE5Q3FhSTlxVDZtbWFMZlpTWmxOMXo3aTViTFR0OFpZbFVtZmpGOXhlXzJzL…\n來源：Google News:YETI",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3FQVFpFZWktd1k1eDFKTmRkenVWS1MtWGJJcXVmRTdWT3d0R0VwWlJURjBFUEpJT2puU090SWRCNlBYZGR6M2pXdEdZMHQ3bXJGazVxN0hCZGdoQlBTaUlZUDJpdEdTeVl2eE1HTG1MdXAzRm5iZFZMZFFpajE5Q3FhSTlxVDZtbWFMZlpTWmxOMXo3aTViTFR0OFpZbFVtZmpGOXhlXzJzLVcyZloxVDZtWQ?oc=5",
-      "source": "Google News:YETI",
       "kind": "news"
     }
   ]
