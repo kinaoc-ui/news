@@ -1,65 +1,83 @@
 {
-  "title": "FS新聞 10-09 11:38",
-  "list_name": "FirstScreen_2026-10-09_113836_comma.txt",
-  "created_at": "2026-10-09T11:38:44.723825+00:00",
+  "title": "FS新聞 10-09 16:53",
+  "list_name": "FirstScreen_2026-10-09_165324_comma.txt",
+  "created_at": "2026-10-09T16:53:33.064225+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "BNY",
+      "short": "BNY — 業績／指引：Could Analysts’ Tweaked Fair Value Views Reframe Bank of New York Mellon’s Efficiency S…",
+      "detail": "BNY\n重點：業績／指引\n標題：Could Analysts’ Tweaked Fair Value Views Reframe Bank of New York Mellon’s Efficiency Story (BNY)?\n摘要：In recent days, analysts have slightly revised their fair value estimate for Bank of New York Mellon Corporation while maintaining generally upbeat commentary around its strong prior quarterly results, record revenue, and positive operating leverage. At the same time, BNY has co…\n來源：Yahoo Finance:BNY\n其他：Can BNY (BNY) Keep the Earnings Surprise Streak Alive?; Bank of New York Mellon Corporation $BNY Stock Acquired by …; Bank of New York Mellon Corporation (BNY) Could Be 12% Unde…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/could-analysts-tweaked-fair-value-162033262.html?.tsrc=rss",
+      "source": "Yahoo Finance:BNY",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "ADT",
+      "short": "ADT — 業績／指引：ADT (ADT) Stock May Be Cheap Based On Its Earnings Power",
+      "detail": "ADT\n重點：業績／指引\n標題：ADT (ADT) Stock May Be Cheap Based On Its Earnings Power\n摘要：ADT Inc. has seen its share price fall 22.3% over the past year, which naturally puts the spotlight on whether the current valuation lines up with what the business is earning. For anyone looking at ADT today, the live question is how much of that earnings power is already refle…\n來源：Yahoo Finance:ADT\n其他：ADT (ADT) Stock May Be Cheap Based On Its Earnings Power - …",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adt-adt-stock-may-cheap-141318318.html?.tsrc=rss",
+      "source": "Yahoo Finance:ADT",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "COF",
+      "short": "COF — Capital One Financial (NYSE:COF) Now Covered by Analysts at BMO Capital Markets - Marke…",
+      "detail": "COF\n重點：新聞\n標題：Capital One Financial (NYSE:COF) Now Covered by Analysts at BMO Capital Markets - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTmVEbWdwUVRJNlVLdjdCU0ZDaFdTNWJuUVZua0dKTjlaOXQ2VU5va2FmcUpEeU50aktTMkV6UGk1MnQ2dnAtQ0ZiNE96Zzl1djNqNC1hRjdkRm8xczdpcHM3aXNyMi1PQ2pXQTZOYXpwSHNoNzJFMHlHNEtyUDl6V01xM1JCc1o3ZVcwcERXUTJSek1vbmlScGxNNnBENk5BUzBCWEQ1azcxM…\n來源：Google News:COF\n其他：Breakwater Capital Group Buys 7,368 Shares of Capital One F…",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTmVEbWdwUVRJNlVLdjdCU0ZDaFdTNWJuUVZua0dKTjlaOXQ2VU5va2FmcUpEeU50aktTMkV6UGk1MnQ2dnAtQ0ZiNE96Zzl1djNqNC1hRjdkRm8xczdpcHM3aXNyMi1PQ2pXQTZOYXpwSHNoNzJFMHlHNEtyUDl6V01xM1JCc1o3ZVcwcERXUTJSek1vbmlScGxNNnBENk5BUzBCWEQ1azcxMVFicDdyVm8waXlXQnJPdXBjcEo2NXUzQ0dBaS16SFBJMXNZWF9UTFZnUVl3?oc=5",
+      "source": "Google News:COF",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "FSK",
+      "short": "FSK — FS KKR Capital Sees Unusually Large Options Volume (NYSE:FSK) - MarketBeat",
+      "detail": "FSK\n重點：新聞\n標題：FS KKR Capital Sees Unusually Large Options Volume (NYSE:FSK) - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPXzUxQTZfbXJ4cTJFU3FmbUxNR19FM2FVSEJwWlYyclBTNzdNa3VVeWw2SlhkSXpRYUMxbUxQejljajVlcFRCZ0hob09MMVBjX2hxUm9ubnQxR1RHekpTS3EtQ2lpUkljaXR1YzM3SS1iYTFoWThrNm95dEVvM2ZiWWZad0d3UlUzLTBwMm9nSGJGSUhIQTFSMTZKRGVsdWJSY2Z0QlVEX2Zxa…\n來源：Google News:FSK\n其他：FS KKR Capital Corp. (NYSE:FSK) Announces Special Dividend …",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPXzUxQTZfbXJ4cTJFU3FmbUxNR19FM2FVSEJwWlYyclBTNzdNa3VVeWw2SlhkSXpRYUMxbUxQejljajVlcFRCZ0hob09MMVBjX2hxUm9ubnQxR1RHekpTS3EtQ2lpUkljaXR1YzM3SS1iYTFoWThrNm95dEVvM2ZiWWZad0d3UlUzLTBwMm9nSGJGSUhIQTFSMTZKRGVsdWJSY2Z0QlVEX2ZxaURoaEd2ZkdJUlAya3RMejF4Q25B?oc=5",
+      "source": "Google News:FSK",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "AEO",
+      "short": "AEO — 業績／指引：American Eagle (AEO) Up 23.7% Since Last Earnings Report: Can It Continue?",
+      "detail": "AEO\n重點：業績／指引\n標題：American Eagle (AEO) Up 23.7% Since Last Earnings Report: Can It Continue?\n摘要：American Eagle (AEO) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.\n來源：Yahoo Finance:URBN",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/american-eagle-aeo-23-7-143002133.html?.tsrc=rss",
+      "source": "Yahoo Finance:URBN",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "ALSN",
+      "short": "ALSN — Allison Transmission Holdings, (ALSN) Stock forecasts - Yahoo Finance Singapore",
+      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission Holdings, (ALSN) Stock forecasts - Yahoo Finance Singapore\n摘要：<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQN19EOHNyc0dSbUhMckxUYS10cnRzc0hUTXJFQ1BqcVp6RFByMzEyOXV6TkVIQjYwNTRoVnpicmFqUDBQYXFNU2c0TVVycnFGR0g0UFpyMjg2ZEpsV1Z5cnZRNzZ5blQ1anNsaVQ2ejdsWURrVzFKdG9RU0k0ckNpbkwyMmlSek9LZzdXZzZrRWkzaExp?oc=5\" target=\"_blank\">Alliso…\n來源：Google News:ALSN",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN19EOHNyc0dSbUhMckxUYS10cnRzc0hUTXJFQ1BqcVp6RFByMzEyOXV6TkVIQjYwNTRoVnpicmFqUDBQYXFNU2c0TVVycnFGR0g0UFpyMjg2ZEpsV1Z5cnZRNzZ5blQ1anNsaVQ2ejdsWURrVzFKdG9RU0k0ckNpbkwyMmlSek9LZzdXZzZrRWkzaExp?oc=5",
+      "source": "Google News:ALSN",
+      "kind": "news"
+    },
+    {
+      "n": 7,
       "symbol": "ANET",
       "short": "ANET — Arista Networks, Inc. $ANET Stock Bought by Stableford Capital II LLC - MarketBeat",
-      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Stock Bought by Stableford Capital II LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FMN2tNazlpbkt1VW4zTXIyTXpsM1VWampwcWc0V3E3OEg5bUJhMTlUZ21WdEpGeWtzelBRSTRzME9rdE1ES05KTlVvZlhVNVp1VFNxa1NYM3lWajJJcFZvWWkyQWNyQ0RMOXFuUlFTdVFhLXM5QWZVZDJ3c2J5Yy1oSkhxSHRWY3h1T0ZSN1pOMlh5Y3lUT0RwbEs3bVgzZ05xckJLQkN4b…\n來源：Google News:ANET\n其他：Mn Services Vermogensbeheer B.V. Acquires 462,958 Shares of…; 225,202 Shares in Arista Networks, Inc. $ANET Bought by Key…; 13,645 Shares in Arista Networks, Inc. $ANET Purchased by A…",
+      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Stock Bought by Stableford Capital II LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FMN2tNazlpbkt1VW4zTXIyTXpsM1VWampwcWc0V3E3OEg5bUJhMTlUZ21WdEpGeWtzelBRSTRzME9rdE1ES05KTlVvZlhVNVp1VFNxa1NYM3lWajJJcFZvWWkyQWNyQ0RMOXFuUlFTdVFhLXM5QWZVZDJ3c2J5Yy1oSkhxSHRWY3h1T0ZSN1pOMlh5Y3lUT0RwbEs3bVgzZ05xckJLQkN4b…\n來源：Google News:ANET",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FMN2tNazlpbkt1VW4zTXIyTXpsM1VWampwcWc0V3E3OEg5bUJhMTlUZ21WdEpGeWtzelBRSTRzME9rdE1ES05KTlVvZlhVNVp1VFNxa1NYM3lWajJJcFZvWWkyQWNyQ0RMOXFuUlFTdVFhLXM5QWZVZDJ3c2J5Yy1oSkhxSHRWY3h1T0ZSN1pOMlh5Y3lUT0RwbEs3bVgzZ05xckJLQkN4bjVuLWhVVGh3ZHdBZkFDR3V5X2JxSk5QdnRGc0E?oc=5",
       "source": "Google News:ANET",
       "kind": "news"
     },
     {
-      "n": 2,
-      "symbol": "BNY",
-      "short": "BNY — Bank of New York Mellon Corporation $BNY Stock Acquired by Legacy Wealth Asset Manageme…",
-      "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon Corporation $BNY Stock Acquired by Legacy Wealth Asset Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYmNKTEpqc0hEMUJreFZYR3gwdVh0Tmx1YU1jZTlBUF9wS1p6RktsdEF4RXh1eE9Mbk1QSWxXazQxUTM5WG4yMU1tQjZyenBzXzRiVk5ESXYwRTc0QndTYzFJNEw4VFlMZy1nN3MwUEk2V0d2bUxrbWlpazRsNGVXcE9IR2F1ajdtZlV4UkJYVTlqUDZCbGh4MlZDNXJlS3FxZGpQOUJGVkdMO…\n來源：Google News:BNY\n其他：Bank of New York Mellon Corporation (BNY) Could Be 12% Unde…; Bank of New York Mellon Corporation $BNY Stake Lifted by Ga…",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYmNKTEpqc0hEMUJreFZYR3gwdVh0Tmx1YU1jZTlBUF9wS1p6RktsdEF4RXh1eE9Mbk1QSWxXazQxUTM5WG4yMU1tQjZyenBzXzRiVk5ESXYwRTc0QndTYzFJNEw4VFlMZy1nN3MwUEk2V0d2bUxrbWlpazRsNGVXcE9IR2F1ajdtZlV4UkJYVTlqUDZCbGh4MlZDNXJlS3FxZGpQOUJGVkdMOTd2dVZMZGVLeFp3bjdOVl9McDJVc1o1UWg0LWZfUUFacjZfeUliTXRoVTAwMllUU0x6RWRFc3NFWi1vUmNl?oc=5",
-      "source": "Google News:BNY",
+      "n": 8,
+      "symbol": "BDX",
+      "short": "BDX — 業績／指引：Will Becton Dickinson (BDX) Beat Estimates Again in Its Next Earnings Report?",
+      "detail": "BDX\n重點：業績／指引\n標題：Will Becton Dickinson (BDX) Beat Estimates Again in Its Next Earnings Report?\n摘要：Becton Dickinson (BDX) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.\n來源：Yahoo Finance:BDX",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/becton-dickinson-bdx-beat-estimates-151003211.html?.tsrc=rss",
+      "source": "Yahoo Finance:BDX",
       "kind": "news"
     },
     {
-      "n": 3,
-      "symbol": "CRM",
-      "short": "CRM — Mn Services Vermogensbeheer B.V. Purchases 4,300 Shares of Salesforce Inc. $CRM - Marke…",
-      "detail": "CRM\n重點：新聞\n標題：Mn Services Vermogensbeheer B.V. Purchases 4,300 Shares of Salesforce Inc. $CRM - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxON1lxQk0yLTczbnlvMFV3UFB0V21iM1hSV3laMUlMVUdtemFlT3BiWmg0WUJ4STVTUl9BTGU4eWxiM1NPa24yTjc5WW45WlkxYUo0M2V6Z3N1WXpNOTlUMkw3a3VJNzJEcFJpREJndmJ6b3Z4ZUc5MV9IWGFhaFBsYllCc0dQcGlzT1F1cUctbUlndHNBOFZjUWNPejRKa1VCdFVuUGNkTXgyQ…\n來源：Google News:CRM\n其他：4,543 Salesforce Inc. $CRM Shares Acquired by GAMMA Investi…; Salesforce (NYSE:CRM) Stock Sold by Rep. Maria Elvira Salaz…",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON1lxQk0yLTczbnlvMFV3UFB0V21iM1hSV3laMUlMVUdtemFlT3BiWmg0WUJ4STVTUl9BTGU4eWxiM1NPa24yTjc5WW45WlkxYUo0M2V6Z3N1WXpNOTlUMkw3a3VJNzJEcFJpREJndmJ6b3Z4ZUc5MV9IWGFhaFBsYllCc0dQcGlzT1F1cUctbUlndHNBOFZjUWNPejRKa1VCdFVuUGNkTXgyQUJSZzF3NEZVd0xzX1A3MEhwOHM0UW1xcWxzZC1hbE1nYmpfdXl6?oc=5",
-      "source": "Google News:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "OKTA",
-      "short": "OKTA — AI相關：Okta (OKTA) Is Pushing Phishing Resistant Authentication In The AI Era",
-      "detail": "OKTA\n重點：AI相關\n標題：Okta (OKTA) Is Pushing Phishing Resistant Authentication In The AI Era\n摘要：Okta (NasdaqGS:OKTA) is highlighting new research on phishing-resistant authentication as AI-driven phishing threats gain attention in 2026. Recent Okta survey data points to many enterprises facing higher phishing exposure as attackers apply AI tools to craft more convincing lu…\n來源：Yahoo Finance:OKTA\n其他：Okta (NASDAQ:OKTA) Shares Sold by Rep. Maria Elvira Salazar…; Rep. Maria Elvira Salazar Purchases Shares of Okta, Inc. (N…",
-      "url": "https://finance.yahoo.com/technology/ai/articles/okta-okta-pushing-phishing-resistant-101356400.html?.tsrc=rss",
-      "source": "Yahoo Finance:OKTA",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "COF",
-      "short": "COF — Breakwater Capital Group Buys 7,368 Shares of Capital One Financial Corporation $COF - …",
-      "detail": "COF\n重點：新聞\n標題：Breakwater Capital Group Buys 7,368 Shares of Capital One Financial Corporation $COF - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxONkkwMERNYnpMNWh2ejhid1VtbTVYcjhzSnFGbk94aldCNTduV3hsaUFybm1xU3g5OUluZnJ0dDRWTFhFUDc2R2dyQ0JHSGUxSDh1THBPVFZFeHdIRWJIOGtlYlIzSFg2TUxuVDFZLW90UUpvZmZtRE5walZoallENWxGVFpZYzlYSUVDb202bjczbDNOQVpqZTJOYXZBYnBkLUFOZ2FGUlRoV…\n來源：Google News:COF\n其他：Diversified Management Inc. Buys 14,480 Shares of Capital O…",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONkkwMERNYnpMNWh2ejhid1VtbTVYcjhzSnFGbk94aldCNTduV3hsaUFybm1xU3g5OUluZnJ0dDRWTFhFUDc2R2dyQ0JHSGUxSDh1THBPVFZFeHdIRWJIOGtlYlIzSFg2TUxuVDFZLW90UUpvZmZtRE5walZoallENWxGVFpZYzlYSUVDb202bjczbDNOQVpqZTJOYXZBYnBkLUFOZ2FGUlRoVnNqYW45NEI3cjM1dlRGcTBzSFljanFDcmtrdTZ6YjJCZmhJM0YwNkMwUFhPTGZhUFk?oc=5",
-      "source": "Google News:COF",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "LNG",
-      "short": "LNG — Cheniere Energy, Inc. $LNG Shares Bought by Artemis Investment Management LLP - MarketB…",
-      "detail": "LNG\n重點：新聞\n標題：Cheniere Energy, Inc. $LNG Shares Bought by Artemis Investment Management LLP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUUZJWlh6d19BX1pkS0N0cWZNdXB2SXlyMDZuNnJONFFmSGJrMWxnVmkxNDJKUUlLREdoNVZKZkFnZ2ZHQldtNjlXbEpJN3pWclBRV2ZzcmZPb29ETld2NGotY2hGZHB0M3lwRWpGVEo4bXRWeEgwRXZCeU9BeWtYQ29HVFFZZjFIbm1RdG1yR0xsa282R3Q5djVkTkRwZlNYSkVoazFDX0Vkc…\n來源：Google News:LNG\n其他：Cheniere Energy, Inc. (NYSE:LNG) Stock Has Consensus Target…",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUUZJWlh6d19BX1pkS0N0cWZNdXB2SXlyMDZuNnJONFFmSGJrMWxnVmkxNDJKUUlLREdoNVZKZkFnZ2ZHQldtNjlXbEpJN3pWclBRV2ZzcmZPb29ETld2NGotY2hGZHB0M3lwRWpGVEo4bXRWeEgwRXZCeU9BeWtYQ29HVFFZZjFIbm1RdG1yR0xsa282R3Q5djVkTkRwZlNYSkVoazFDX0VkcldWY3c4d3Q5bE9wckZ0d1JZZDhCNUZfQm9sdFZIUmFxM2c2aFdm?oc=5",
-      "source": "Google News:LNG",
-      "kind": "news"
-    },
-    {
-      "n": 7,
+      "n": 9,
       "symbol": "BHP",
       "short": "BHP — BHP Group Limited Sponsored ADR $BHP Stock Position Lifted by Legacy Wealth Asset Manag…",
       "detail": "BHP\n重點：新聞\n標題：BHP Group Limited Sponsored ADR $BHP Stock Position Lifted by Legacy Wealth Asset Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRVVhZWs4aGw5aVNKNGlmb1FfekZRdW5UWl9meUJZRm9LNDVzeWdtNnJnYzlnYmR0akNUZ2duTjY3QUtnUWZ4ZWVmVnBrMlVnRkE5NUhlZzRhX0dXbERRV2ZFQWxSZmFuQzdRbHh1aEltTWhHeDBZdzI4UnJsN0R0ZHRYbDYxUkdYbnNZeUU0cnVHRVprNG5QbXNzUk5SU09WSi1qNjdCTDViT…\n來源：Google News:BHP",
@@ -68,48 +86,30 @@
       "kind": "news"
     },
     {
-      "n": 8,
-      "symbol": "BKNG",
-      "short": "BKNG — Mn Services Vermogensbeheer B.V. Raises Position in Booking Holdings Inc. $BKNG - Marke…",
-      "detail": "BKNG\n重點：新聞\n標題：Mn Services Vermogensbeheer B.V. Raises Position in Booking Holdings Inc. $BKNG - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQURqc3ZxSWhiTEF1ekpVaUZLRmFwV0kxZjBxU0hGdll6ZjNqbUtnelBmMTNpS1d1MGl2OU0yVzJVMnVwa3pPbnFkclI3enBmS3hEbTZsckJyV1dVd0JVeDBWQ25GdHMyZFh3QUUtRGxDaGZwUFpFb0NNeWZweFd2N0ZuYnFtYk9DSGl5OWJYM2hGekMwU2hZLVU5djJpSHA4d042X0ZfSVVPU…\n來源：Google News:BKNG",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQURqc3ZxSWhiTEF1ekpVaUZLRmFwV0kxZjBxU0hGdll6ZjNqbUtnelBmMTNpS1d1MGl2OU0yVzJVMnVwa3pPbnFkclI3enBmS3hEbTZsckJyV1dVd0JVeDBWQ25GdHMyZFh3QUUtRGxDaGZwUFpFb0NNeWZweFd2N0ZuYnFtYk9DSGl5OWJYM2hGekMwU2hZLVU5djJpSHA4d042X0ZfSVVPUlc3YkJwMWRwdjBFLUJDdXlOWG92eUtGelk2U1VseVRVWU40U2NLZVE?oc=5",
-      "source": "Google News:BKNG",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "BXSL",
-      "short": "BXSL — Blackstone Secured Lending Fund (NYSE:BXSL) Stock Now Rated \"Hold\" by Wall Street Analy…",
-      "detail": "BXSL\n重點：新聞\n標題：Blackstone Secured Lending Fund (NYSE:BXSL) Stock Now Rated \"Hold\" by Wall Street Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdWZwMWdPUDFZZk5GZ0N2WHpxM0JnNWVhcXhfc2dwdEp4eXB1d0ZicG1Ecjg1aUN3cDc0c0pJOVhqVmFNX29iU2ZPLTMzR3dBNi1SeTlfcUhzZThrNk9TQ0twRV9XdUJKMUhSNDdhNXp5eHVWLVV1Q09waG1XMHc2TEprLXRaQlJIRUUwRGpZOVdDMkM3YjJqWmRvV3FiRk5pbU93ZVZUNTB6N…\n來源：Google News:BXSL",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdWZwMWdPUDFZZk5GZ0N2WHpxM0JnNWVhcXhfc2dwdEp4eXB1d0ZicG1Ecjg1aUN3cDc0c0pJOVhqVmFNX29iU2ZPLTMzR3dBNi1SeTlfcUhzZThrNk9TQ0twRV9XdUJKMUhSNDdhNXp5eHVWLVV1Q09waG1XMHc2TEprLXRaQlJIRUUwRGpZOVdDMkM3YjJqWmRvV3FiRk5pbU93ZVZUNTB6NE1BckthcVdvSVRFa3RJWXhIR0E4QjYyYXlKTWRTWDFxT1hyN0QtSmZERlVFVm8yRG1Fel9LOTMxWVA?oc=5",
-      "source": "Google News:BXSL",
-      "kind": "news"
-    },
-    {
       "n": 10,
-      "symbol": "CRSP",
-      "short": "CRSP — CRISPR Therapeutics AG (NASDAQ:CRSP) Stock Rated \"Moderate Buy\" by Sell-Side Brokerages…",
-      "detail": "CRSP\n重點：新聞\n標題：CRISPR Therapeutics AG (NASDAQ:CRSP) Stock Rated \"Moderate Buy\" by Sell-Side Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdHN6bENjVkhVM1ExSGlDQkM4NTRIWVJEa0NVT0ZQMnVwSjF1Q3BMaVNEalNsTnZ4VERVeThJQmZNa1ZxRzFvYjROZ0tUTGlkaVNyM0gtWGlkd2ltY1JPVGo3R1FGMTFTOHAyOGlaYzNlVjg1TUlXRk5FcWRtTmxmQWdSb1g0UEwtcWV6X2RDZDV6cmxEc3kzS1lqbVdoNVdNcnFXYWowWERzM…\n來源：Google News:CRSP",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdHN6bENjVkhVM1ExSGlDQkM4NTRIWVJEa0NVT0ZQMnVwSjF1Q3BMaVNEalNsTnZ4VERVeThJQmZNa1ZxRzFvYjROZ0tUTGlkaVNyM0gtWGlkd2ltY1JPVGo3R1FGMTFTOHAyOGlaYzNlVjg1TUlXRk5FcWRtTmxmQWdSb1g0UEwtcWV6X2RDZDV6cmxEc3kzS1lqbVdoNVdNcnFXYWowWERzMnhMQ0hqMFdIaTE4WEtWSUxsNFJrLU5ublQtTTdsV0RPVjVuNFJHOXNnejZQVnpBTmhPQmpTdg?oc=5",
-      "source": "Google News:CRSP",
+      "symbol": "CRM",
+      "short": "CRM — AI相關：How Salesforce’s New Missionforce CMO Hire (CRM) Shapes Its Public-Sector AI Ambitions",
+      "detail": "CRM\n重點：AI相關\n標題：How Salesforce’s New Missionforce CMO Hire (CRM) Shapes Its Public-Sector AI Ambitions\n摘要：In September 2026, Salesforce appointed Virginia Sharma as chief marketing officer of its Missionforce public sector business, bringing more than 25 years of global technology marketing and sales experience across IBM, LinkedIn, JioSaavn and Google to lead its worldwide governme…\n來源：Yahoo Finance:CRM",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-missionforce-cmo-hire-crm-121103776.html?.tsrc=rss",
+      "source": "Yahoo Finance:CRM",
       "kind": "news"
     },
     {
       "n": 11,
-      "symbol": "DNOW",
-      "short": "DNOW — 業績／指引：Dnow Q2 2026 Earnings Call Transcript - Benzinga",
-      "detail": "DNOW\n重點：業績／指引\n標題：Dnow Q2 2026 Earnings Call Transcript - Benzinga\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1B2SmR3Q3lCTnROb01xbjVUc3hoWkR4X1VHVDJJOGVkVWVpdm1sUjlMZ1JhT3NkaS05VmxZeEhpX0VuNE9ZSlF0dXNsWjVHSi1OSlhLeGdEUC1lWG1Sck1CaUlvdlBhSll5blI3SEszdk5oOFVLT0ZFVGJrbjRWTTFNbXprZjFoeV92VnBoR0FiaUh6d2JlM3ZzTW5qT1hROE9lMFJ6N3YxQ…\n來源：Google News:DNOW",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1B2SmR3Q3lCTnROb01xbjVUc3hoWkR4X1VHVDJJOGVkVWVpdm1sUjlMZ1JhT3NkaS05VmxZeEhpX0VuNE9ZSlF0dXNsWjVHSi1OSlhLeGdEUC1lWG1Sck1CaUlvdlBhSll5blI3SEszdk5oOFVLT0ZFVGJrbjRWTTFNbXprZjFoeV92VnBoR0FiaUh6d2JlM3ZzTW5qT1hROE9lMFJ6N3YxQmM?oc=5",
-      "source": "Google News:DNOW",
+      "symbol": "CRSP",
+      "short": "CRSP — CRISPR Therapeutics (NASDAQ:CRSP) Shares Climb 5.7% - What's Next? - MarketBeat",
+      "detail": "CRSP\n重點：新聞\n標題：CRISPR Therapeutics (NASDAQ:CRSP) Shares Climb 5.7% - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDFDMmJlUDFOeDA3a2MtSEdNd2Z2STlqTHB2VlUzV25qTHg4U3FtTDdPZXMzalJnMlp1Y1ltOTNrUm0wdGVHdVRTbGFkZTRqeEZhVXNKT1pMZlpjYXQwREFkcFhZTWN5cExjZ2d1VzEwU0cybmJqaDV5cnh6M3RDMGp6SkZ4VnozMnVYeldxaHJZMG52T2VDOFBfQ0gteEIya1pIdFZoZ01QM…\n來源：Google News:CRSP",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDFDMmJlUDFOeDA3a2MtSEdNd2Z2STlqTHB2VlUzV25qTHg4U3FtTDdPZXMzalJnMlp1Y1ltOTNrUm0wdGVHdVRTbGFkZTRqeEZhVXNKT1pMZlpjYXQwREFkcFhZTWN5cExjZ2d1VzEwU0cybmJqaDV5cnh6M3RDMGp6SkZ4VnozMnVYeldxaHJZMG52T2VDOFBfQ0gteEIya1pIdFZoZ01QMUN0THBpYm8xR1djS3VUU2c?oc=5",
+      "source": "Google News:CRSP",
       "kind": "news"
     },
     {
       "n": 12,
-      "symbol": "EL",
-      "short": "EL — 100,665 Shares in The Estee Lauder Companies Inc. $EL Bought by Chapin Davis Inc. - Mar…",
-      "detail": "EL\n重點：新聞\n標題：100,665 Shares in The Estee Lauder Companies Inc. $EL Bought by Chapin Davis Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcVM5czJKZ1k3QVpXWjI2X3dYZ1B1eFVUNmkwZFJ3VjZ1d3NrNC04VTNoaXZRRUZtRE9YdTN0ajVmcjhCYzVvTVY3dDc1a3Z5REhZLUVmVDVVMmdfa2RaYVZKTExWT1NpTHpWT0V6WHQ5dFNaNTFNVllhSWNrMGc1MnNEa3lINUl2NlVTLWtnNXJCdG56Y1hOc1Y0NDR3NUozZ3JXZkljNmExZ…\n來源：Google News:EL",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcVM5czJKZ1k3QVpXWjI2X3dYZ1B1eFVUNmkwZFJ3VjZ1d3NrNC04VTNoaXZRRUZtRE9YdTN0ajVmcjhCYzVvTVY3dDc1a3Z5REhZLUVmVDVVMmdfa2RaYVZKTExWT1NpTHpWT0V6WHQ5dFNaNTFNVllhSWNrMGc1MnNEa3lINUl2NlVTLWtnNXJCdG56Y1hOc1Y0NDR3NUozZ3JXZkljNmExZjJsZGlFQ1FPcmJyV0c5NzZqVWt5ZzgtUnVJSHBzX2RiWmZSWmJBOUNpUg?oc=5",
-      "source": "Google News:EL",
+      "symbol": "DGX",
+      "short": "DGX — Quest Diagnostics (NYSE:DGX): A Dividend Quality Pick for Income Investors - ChartMill",
+      "detail": "DGX\n重點：新聞\n標題：Quest Diagnostics (NYSE:DGX): A Dividend Quality Pick for Income Investors - ChartMill\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQVW5YV1o3Z3B3NmZpQ19hNHBNSjRSN091a3A0Z0dLOUpBY2Z2U3VldWtHQmROZ0c0c3ZVWTY3czJYanRKVy1naF9BclNvWEEwNnMzSDdXc3phaGczY2VfaWpUemM5TXhRUjJpYTJZUjd3LWlfbFI1WHlSa2NXM3FNbkl5RjQ1LXJOUXRXQ3h2aDluRXhka1ZlWXFLY0JuVEE5UVZ3U0EyeUhFU…\n來源：Google News:DGX",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVW5YV1o3Z3B3NmZpQ19hNHBNSjRSN091a3A0Z0dLOUpBY2Z2U3VldWtHQmROZ0c0c3ZVWTY3czJYanRKVy1naF9BclNvWEEwNnMzSDdXc3phaGczY2VfaWpUemM5TXhRUjJpYTJZUjd3LWlfbFI1WHlSa2NXM3FNbkl5RjQ1LXJOUXRXQ3h2aDluRXhka1ZlWXFLY0JuVEE5UVZ3U0EyeUhFUElHbS11di1Vc05OSDF5ZWRXMjJB?oc=5",
+      "source": "Google News:DGX",
       "kind": "news"
     }
   ]
