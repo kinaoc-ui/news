@@ -1,16 +1,79 @@
 {
-  "title": "FS新聞 10-12 06:13",
-  "list_name": "FirstScreen_2026-10-12_061322_comma.txt",
-  "created_at": "2026-10-12T06:13:31.697969+00:00",
+  "title": "FS新聞 10-12 12:44",
+  "list_name": "FirstScreen_2026-10-12_124353_comma.txt",
+  "created_at": "2026-10-12T12:44:02.470475+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "BKNG",
+      "short": "BKNG — Cantor Fitzgerald Has Lowered Expectations for Booking (NASDAQ:BKNG) Stock Price - Mark…",
+      "detail": "BKNG\n重點：新聞\n標題：Cantor Fitzgerald Has Lowered Expectations for Booking (NASDAQ:BKNG) Stock Price - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU19kVVdHTjRaUlZfc1lFU2pENzNsSkZNV1VrVzI1cGhDLVJKMnl5SlhPM1lVNjU2V213WC0zMWR5NUFEamU2OHNaRUlJVjdVaU1JZWVmZ2lFenVmQTFiTUFhdnBxZ09aYmdnNVc4VUxPdjhvbV9aek1YeUJMa0hOTlF1NV9jVGhfRHcyOThmZWpKbFhrLU9YUTFsNTVpdWFVN2docmY0cFNhZ…\n來源：Google News:BKNG",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU19kVVdHTjRaUlZfc1lFU2pENzNsSkZNV1VrVzI1cGhDLVJKMnl5SlhPM1lVNjU2V213WC0zMWR5NUFEamU2OHNaRUlJVjdVaU1JZWVmZ2lFenVmQTFiTUFhdnBxZ09aYmdnNVc4VUxPdjhvbV9aek1YeUJMa0hOTlF1NV9jVGhfRHcyOThmZWpKbFhrLU9YUTFsNTVpdWFVN2docmY0cFNhZXU0UU9OS19LQTFma01OdEItMGFsdUNmVndSck9weXlZVTBUeDJTaHM4bF9USQ?oc=5",
+      "source": "Google News:BKNG",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "CRM",
+      "short": "CRM — Salesforce (NYSE:CRM) Stock Rating Upgraded by Bank of America - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Stock Rating Upgraded by Bank of America - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNSjM2OVZkYXBMYi1GQlE0VXFZdE9ZcWFEOERyeEUxU2ktSUdyaDVfVTJ4a3lSOERUVzlPcW9URUhsMkpBUjg4WGR2ZnZ4Mi1EWURxR0VWMndPQkFGemhubnB0N3RLM3psYTFzam41R3g3dFZwUWstVW1aNVFRTUVtSDF6cGswQ09GOE5EWm9GUHp0TmxZT1d2TWwtRjlJX09ieGpMZmtoNUxNV…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSjM2OVZkYXBMYi1GQlE0VXFZdE9ZcWFEOERyeEUxU2ktSUdyaDVfVTJ4a3lSOERUVzlPcW9URUhsMkpBUjg4WGR2ZnZ4Mi1EWURxR0VWMndPQkFGemhubnB0N3RLM3psYTFzam41R3g3dFZwUWstVW1aNVFRTUVtSDF6cGswQ09GOE5EWm9GUHp0TmxZT1d2TWwtRjlJX09ieGpMZmtoNUxNVEoyUkpzZ3ZhZmgyQ0hWWU1OYmxtMA?oc=5",
+      "source": "Google News:CRM",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "FRSH",
+      "short": "FRSH — AI相關：Freshworks to Extend Freshservice into AI and Software Spend Governance with Agreement …",
+      "detail": "FRSH\n重點：AI相關\n標題：Freshworks to Extend Freshservice into AI and Software Spend Governance with Agreement to Acquire Torii\n摘要：One context across applications, licenses, identities, and AI spend — so AI can understand and act on it, not just describe itSAN MATEO, Calif., Oct. 12, 2026 (GLOBE NEWSWIRE) -- Freshworks Inc. (NASDAQ: FRSH) has signed a definitive agreement to acquire Torii, extending Freshse…\n來源：Yahoo Finance:FRSH",
+      "url": "https://finance.yahoo.com/technology/ai/articles/freshworks-extend-freshservice-ai-software-120000915.html?.tsrc=rss",
+      "source": "Yahoo Finance:FRSH",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "IRDM",
+      "short": "IRDM — Iridium Communications Inc (NASDAQ:IRDM) Stock Rated \"Hold\" by Sell-Side Brokerages - M…",
+      "detail": "IRDM\n重點：新聞\n標題：Iridium Communications Inc (NASDAQ:IRDM) Stock Rated \"Hold\" by Sell-Side Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOXVfVGVva2NBbFpDVVlvbVB3alRwS1dqMkRlYlBXVDJ5elFtTVN3YVpubkc1NVFEX2pTOVFBOHJuTzVyTkhiSVlqc0xYV2ZTLWg1WWd6VEh4T01ESHdLLUozRTRITER5bTkycnlrMXR1S0c1UWRUZnh0ZEJYNVF2NGt5SjB0SjJOVURrc2tmaGtVYllJdmcyRVNZSzFWdGVBeVFDX01YdVF6S…\n來源：Google News:IRDM",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOXVfVGVva2NBbFpDVVlvbVB3alRwS1dqMkRlYlBXVDJ5elFtTVN3YVpubkc1NVFEX2pTOVFBOHJuTzVyTkhiSVlqc0xYV2ZTLWg1WWd6VEh4T01ESHdLLUozRTRITER5bTkycnlrMXR1S0c1UWRUZnh0ZEJYNVF2NGt5SjB0SjJOVURrc2tmaGtVYllJdmcyRVNZSzFWdGVBeVFDX01YdVF6SVlJOHlkSkFHaWFSa21zUnIyZmhZeXZDNkxTcU1PTG5xYWVMSk9BcFlsVHY2Zjh2UEU?oc=5",
+      "source": "Google News:IRDM",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "MDT",
+      "short": "MDT — BTIG Research Has Lowered Expectations for Medtronic (NYSE:MDT) Stock Price - MarketBeat",
+      "detail": "MDT\n重點：新聞\n標題：BTIG Research Has Lowered Expectations for Medtronic (NYSE:MDT) Stock Price - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3pGNEo3ckd0VVl6UWRiYjRlSUtHNkZyLWs5bjVLZFd5WVM3ajVsYWFsdXlJMlo4c3hQdllsalkzaE9OREhBdlRhNGg4b1F5aXJIMWJjeGVXRDJjMFNkLWtlUkE4MXFxRXc3ZVZqUFRVdGY2MDJQV1lsSzJkamhSdC1qU3dJdzNoX3V2aEZ1SFZSRlpwUGhTYVhpclpRUmpodXItY1IyUk5lb…\n來源：Google News:MDT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3pGNEo3ckd0VVl6UWRiYjRlSUtHNkZyLWs5bjVLZFd5WVM3ajVsYWFsdXlJMlo4c3hQdllsalkzaE9OREhBdlRhNGg4b1F5aXJIMWJjeGVXRDJjMFNkLWtlUkE4MXFxRXc3ZVZqUFRVdGY2MDJQV1lsSzJkamhSdC1qU3dJdzNoX3V2aEZ1SFZSRlpwUGhTYVhpclpRUmpodXItY1IyUk5lbFEwMWd4OGlEb2xRSVo5VG1VZHlualVKZ3ZLMm5DdVJ4dDc5RFVL?oc=5",
+      "source": "Google News:MDT",
+      "kind": "news"
+    },
+    {
+      "n": 6,
       "symbol": "OKTA",
       "short": "OKTA — Okta (NASDAQ:OKTA) Stock Rating Cut to \"Hold\" at Wall Street Zen - MarketBeat",
       "detail": "OKTA\n重點：新聞\n標題：Okta (NASDAQ:OKTA) Stock Rating Cut to \"Hold\" at Wall Street Zen - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQeGdqWWc1Wm5jTGZuTTUzRnJpOG9OMDc5RG9EelJDbVFEajllMTNkb1d4eWt6aEZwaHJYclFNTzU5RE1JcUoxcnY4VW9pd2lGbS1GMllqTlFXTmNUcmJaNzdEd0lTMHZJVUpoZ0RYNmMtNHhMalFXY21FbkNoVUxwSklzTHJvZ3ZQQVlCbzh6cEIyY2N1Rm11MFJKU3BzN0syS2l6bUJLaHhGZ…\n來源：Google News:OKTA",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeGdqWWc1Wm5jTGZuTTUzRnJpOG9OMDc5RG9EelJDbVFEajllMTNkb1d4eWt6aEZwaHJYclFNTzU5RE1JcUoxcnY4VW9pd2lGbS1GMllqTlFXTmNUcmJaNzdEd0lTMHZJVUpoZ0RYNmMtNHhMalFXY21FbkNoVUxwSklzTHJvZ3ZQQVlCbzh6cEIyY2N1Rm11MFJKU3BzN0syS2l6bUJLaHhGZFZlWkZRSXR1X1R6RXBiUWJUOWxvaw?oc=5",
       "source": "Google News:OKTA",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "PYPL",
+      "short": "PYPL — 併購／交易：PYPL Stock Eyes Best Month Ever: ARK Invest Says Venmo 'Most Compelling Strategic Asset…",
+      "detail": "PYPL\n重點：併購／交易\n標題：PYPL Stock Eyes Best Month Ever: ARK Invest Says Venmo 'Most Compelling Strategic Asset' Amid Stripe Takeover Bid - Stocktwits\n摘要：<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQYTFsS3ZLMFVlUmNUdm1RaUJNUXNiVHJ6Y0VSOGRBaFZvY1FNdHdJcXhlUkdoem13TGNzQ3RNVzFVXzBLNXd1N2MtSC0wUkl1SGVPSEtKOXpKTjEtLUU4WHdzWlNzemVVelpmcU5kSHFFbHA0S0dZWVByYzdpYzhRQ0dGN0VueVJ6NU9VbWJrN3lwcXh1ZVlqdUlrZWhzY3Jxd1l4WWZqV0dTb…\n來源：Google News:PYPL",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQYTFsS3ZLMFVlUmNUdm1RaUJNUXNiVHJ6Y0VSOGRBaFZvY1FNdHdJcXhlUkdoem13TGNzQ3RNVzFVXzBLNXd1N2MtSC0wUkl1SGVPSEtKOXpKTjEtLUU4WHdzWlNzemVVelpmcU5kSHFFbHA0S0dZWVByYzdpYzhRQ0dGN0VueVJ6NU9VbWJrN3lwcXh1ZVlqdUlrZWhzY3Jxd1l4WWZqV0dTbmI1bU8tVXdnQWVXYkhIdU1JTjR1SElCR1laWkdtQnpMMUpsMS1jemVSR2J1cHFldGZRek9LQkN2ZkZ3bk55QnROYzh0WWtweDNDSThXQjNoMlVaSjZ5VXFxSw?oc=5",
+      "source": "Google News:PYPL",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "VLTO",
+      "short": "VLTO — 業績／指引：Veralto Schedules Third Quarter 2026 Earnings Call",
+      "detail": "VLTO\n重點：業績／指引\n標題：Veralto Schedules Third Quarter 2026 Earnings Call\n摘要：Veralto Corporation (NYSE: VLTO), a global leader in essential water and product quality solutions dedicated to Safeguarding the World's Most Vital Resources™, announced that it will webcast its third quarter 2026 earnings conference call on Friday, October 30, 2026, beginning a…\n來源：Yahoo Finance:VLTO",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/veralto-schedules-third-quarter-2026-120000863.html?.tsrc=rss",
+      "source": "Yahoo Finance:VLTO",
       "kind": "news"
     }
   ]
