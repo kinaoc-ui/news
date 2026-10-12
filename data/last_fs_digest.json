@@ -1,11 +1,65 @@
 {
-  "title": "FS新聞 10-12 12:44",
-  "list_name": "FirstScreen_2026-10-12_124353_comma.txt",
-  "created_at": "2026-10-12T12:44:02.470475+00:00",
+  "title": "FS新聞 10-12 19:42",
+  "list_name": "FirstScreen_2026-10-12_194217_comma.txt",
+  "created_at": "2026-10-12T19:42:26.116197+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "CRM",
+      "short": "CRM — AI相關、業績／指引：Has Salesforce (CRM) Fallen Far Enough To Look Undervalued On Earnings?",
+      "detail": "CRM\n重點：AI相關、業績／指引\n標題：Has Salesforce (CRM) Fallen Far Enough To Look Undervalued On Earnings?\n摘要：Salesforce has leaned hard into artificial intelligence and large customer wins, yet the share price is still down from where it was five years ago, which puts fresh focus on whether current earnings really back up today’s valuation. With the stock recently closing at US$229.13 …\n來源：Yahoo Finance:CRM\n其他：Salesforce wins upgrade as Adobe faces downgrade; Why Did Salesforce (NYSE:CRM) Receive a Fresh Rating Upgrad…; Salesforce (NYSE:CRM) Stock Rating Upgraded by Bank of Amer…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-fallen-far-enough-170835078.html?.tsrc=rss",
+      "source": "Yahoo Finance:CRM",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "MDT",
+      "short": "MDT — 業績／指引：Has Medtronic Stock Become A Different Bet?",
+      "detail": "MDT\n重點：業績／指引\n標題：Has Medtronic Stock Become A Different Bet?\n摘要：Medtronic (MDT) stock trades at 21.6 times earnings, sitting about level with the S&amp;P 500 at 21.9. Shareholders paying that market price need to know what they are buying, particularly as corporate priorities shift. During its fiscal Q2 2025 call in November 2024, management…\n來源：Yahoo Finance:MDT\n其他：Medtronic (NYSE:MDT) Shares Climb 4.1% - Should You Buy? - …; BTIG Research Has Lowered Expectations for Medtronic (NYSE:…",
+      "url": "https://www.trefis.com/articles/618344/has-medtronic-stock-become-a-different-bet/2026-10-12?.tsrc=rss",
+      "source": "Yahoo Finance:MDT",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "BNY",
+      "short": "BNY — 業績／指引：Growth in Fee Income, Higher NII Likely to Support BNY's Q3 Earnings",
+      "detail": "BNY\n重點：業績／指引\n標題：Growth in Fee Income, Higher NII Likely to Support BNY's Q3 Earnings\n摘要：BNY's Q3 earnings are expected to have risen on higher fee income and NII, supported by asset growth and client activity, despite mounting expense pressures.\n來源：Yahoo Finance:BNY\n其他：Wall Street's Insights Into Key Metrics Ahead of BNY (BNY) …",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/growth-fee-income-higher-nii-144800855.html?.tsrc=rss",
+      "source": "Yahoo Finance:BNY",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "MRK",
+      "short": "MRK — Merck (MRK) Could Be 7% Below Fair Value On Phase III Cancer Vaccine Results",
+      "detail": "MRK\n重點：新聞\n標題：Merck (MRK) Could Be 7% Below Fair Value On Phase III Cancer Vaccine Results\n摘要：Merck (MRK) is back in focus after reporting positive Phase III results from its personalized mRNA cancer vaccine program with Moderna, a development now linked to a planned public private cancer vaccine partnership. Recent headlines around Merck’s mRNA cancer vaccine work sit a…\n來源：Yahoo Finance:MRK\n其他：Jefferies cuts Merck’s remigromig sales forecast after eye-…",
+      "url": "https://finance.yahoo.com/healthcare/articles/merck-mrk-could-7-below-170741602.html?.tsrc=rss",
+      "source": "Yahoo Finance:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "TXG",
+      "short": "TXG — AI相關：Which of Ginkgo Bioworks (NYSE:DNA), 10x Genomics (NASDAQ:TXG), Freenome (NASDAQ:FRNM) …",
+      "detail": "TXG\n重點：AI相關\n標題：Which of Ginkgo Bioworks (NYSE:DNA), 10x Genomics (NASDAQ:TXG), Freenome (NASDAQ:FRNM) or bioAffinity Technologies (NASDAQ:BIAF) Is the Hardest Hit as Healthcare Growth and AI-Biology Names Slide? - kalkine.ca\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwJBVV95cUxNZjJmamwyZWNqYzhMNXdJeUJfQ0pmR1pSRnFqS0d4WEdib3Z4Ul9mRzdibng4TFJjMmo2T1BwdDAwLW1VcFlCVXZFZkFJUnJFUTdPTnlRd0dNTV9vUjJlMjdObGxDNjNqckNZOEVmLXFtRmc3X010c2FTbUVXekluUHptNVR5Qm9XYVg1M2c5VVdobmdTQXBWem9ncXpxRDJpb1hTVzFRZFVnS…\n來源：Google News:TXG\n其他：Why Did 10x Genomics (NASDAQ:TXG) Fall 10.61% as the AI-Bio…",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNZjJmamwyZWNqYzhMNXdJeUJfQ0pmR1pSRnFqS0d4WEdib3Z4Ul9mRzdibng4TFJjMmo2T1BwdDAwLW1VcFlCVXZFZkFJUnJFUTdPTnlRd0dNTV9vUjJlMjdObGxDNjNqckNZOEVmLXFtRmc3X010c2FTbUVXekluUHptNVR5Qm9XYVg1M2c5VVdobmdTQXBWem9ncXpxRDJpb1hTVzFRZFVnS2x5MDFNekpjQ29SZUZtSGM2emFhNk1mbUNCR3dXTzVETVp3aTVpV25SX1RlTDR5V2pZS0VyM1J1cm1GTWpFRTZsNUZ4UmN6bjJSbFliMEoyQ3gtSXFMYlN6dG00eDhMVEZtRW5uVGVjTXBWRVd3WEJHX2Y2UGNjOWJhQjF2TVJHMGlTOTdrVXFURGZxaUlJakx1LUI0?oc=5",
+      "source": "Google News:TXG",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "ALSN",
+      "short": "ALSN — Allison Transmission (NYSE:ALSN) Shares Climb 3.8% - What's Next? - MarketBeat",
+      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission (NYSE:ALSN) Shares Climb 3.8% - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR0hoME05Mk4zajdJNEJNbU5ZWFBsU181X1JVQTBIU2gzU241S3pOa2xGV0NrZ3hnQnpSZmw5X1J3YnRaWW1uakRRYUZxLW9NVUJZWHZEUC1fcjdCVGtUQ2lFcHF4TDloa3cwTEdHb05VYTVmb0dwWlJOaWV2RlowYlF1UVVHbERCeDhHa1lCTjJ2QXFkMUs3Ql8tLVIwQk9EeG9CYnNoRGxJR…\n來源：Google News:ALSN",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR0hoME05Mk4zajdJNEJNbU5ZWFBsU181X1JVQTBIU2gzU241S3pOa2xGV0NrZ3hnQnpSZmw5X1J3YnRaWW1uakRRYUZxLW9NVUJZWHZEUC1fcjdCVGtUQ2lFcHF4TDloa3cwTEdHb05VYTVmb0dwWlJOaWV2RlowYlF1UVVHbERCeDhHa1lCTjJ2QXFkMUs3Ql8tLVIwQk9EeG9CYnNoRGxJRF8yZmdMTFozOFJSTXhj?oc=5",
+      "source": "Google News:ALSN",
+      "kind": "news"
+    },
+    {
+      "n": 7,
       "symbol": "BKNG",
       "short": "BKNG — Cantor Fitzgerald Has Lowered Expectations for Booking (NASDAQ:BKNG) Stock Price - Mark…",
       "detail": "BKNG\n重點：新聞\n標題：Cantor Fitzgerald Has Lowered Expectations for Booking (NASDAQ:BKNG) Stock Price - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU19kVVdHTjRaUlZfc1lFU2pENzNsSkZNV1VrVzI1cGhDLVJKMnl5SlhPM1lVNjU2V213WC0zMWR5NUFEamU2OHNaRUlJVjdVaU1JZWVmZ2lFenVmQTFiTUFhdnBxZ09aYmdnNVc4VUxPdjhvbV9aek1YeUJMa0hOTlF1NV9jVGhfRHcyOThmZWpKbFhrLU9YUTFsNTVpdWFVN2docmY0cFNhZ…\n來源：Google News:BKNG",
@@ -14,16 +68,16 @@
       "kind": "news"
     },
     {
-      "n": 2,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce (NYSE:CRM) Stock Rating Upgraded by Bank of America - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Stock Rating Upgraded by Bank of America - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNSjM2OVZkYXBMYi1GQlE0VXFZdE9ZcWFEOERyeEUxU2ktSUdyaDVfVTJ4a3lSOERUVzlPcW9URUhsMkpBUjg4WGR2ZnZ4Mi1EWURxR0VWMndPQkFGemhubnB0N3RLM3psYTFzam41R3g3dFZwUWstVW1aNVFRTUVtSDF6cGswQ09GOE5EWm9GUHp0TmxZT1d2TWwtRjlJX09ieGpMZmtoNUxNV…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSjM2OVZkYXBMYi1GQlE0VXFZdE9ZcWFEOERyeEUxU2ktSUdyaDVfVTJ4a3lSOERUVzlPcW9URUhsMkpBUjg4WGR2ZnZ4Mi1EWURxR0VWMndPQkFGemhubnB0N3RLM3psYTFzam41R3g3dFZwUWstVW1aNVFRTUVtSDF6cGswQ09GOE5EWm9GUHp0TmxZT1d2TWwtRjlJX09ieGpMZmtoNUxNVEoyUkpzZ3ZhZmgyQ0hWWU1OYmxtMA?oc=5",
-      "source": "Google News:CRM",
+      "n": 8,
+      "symbol": "DEO",
+      "short": "DEO — Diageo (NYSE:DEO) Sees Strong Trading Volume - Time to Buy? - MarketBeat",
+      "detail": "DEO\n重點：新聞\n標題：Diageo (NYSE:DEO) Sees Strong Trading Volume - Time to Buy? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdi1lYmV0bjE3X1p0Qi1fUjZLdGVsX1puVEM5YzlEbzRlaFo5QWNVUlVfbXBMVUwzbWhrWnBaLWJ1MVdsT296eGF6aV9HeFFhT3Z5cWFjLVB1NDVaWFpIMFNPeGVHZGlIRjcxaTdpN3NLTkxDbGt0V3MzY3FMd0hURnlMaThiMFRfbEE3Q3ZCelBiSE5yV1RHUTlqTGlvWllINmxsZ05fUEV2e…\n來源：Google News:DEO",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdi1lYmV0bjE3X1p0Qi1fUjZLdGVsX1puVEM5YzlEbzRlaFo5QWNVUlVfbXBMVUwzbWhrWnBaLWJ1MVdsT296eGF6aV9HeFFhT3Z5cWFjLVB1NDVaWFpIMFNPeGVHZGlIRjcxaTdpN3NLTkxDbGt0V3MzY3FMd0hURnlMaThiMFRfbEE3Q3ZCelBiSE5yV1RHUTlqTGlvWllINmxsZ05fUEV2eGpMZUVDXzJBSk0?oc=5",
+      "source": "Google News:DEO",
       "kind": "news"
     },
     {
-      "n": 3,
+      "n": 9,
       "symbol": "FRSH",
       "short": "FRSH — AI相關：Freshworks to Extend Freshservice into AI and Software Spend Governance with Agreement …",
       "detail": "FRSH\n重點：AI相關\n標題：Freshworks to Extend Freshservice into AI and Software Spend Governance with Agreement to Acquire Torii\n摘要：One context across applications, licenses, identities, and AI spend — so AI can understand and act on it, not just describe itSAN MATEO, Calif., Oct. 12, 2026 (GLOBE NEWSWIRE) -- Freshworks Inc. (NASDAQ: FRSH) has signed a definitive agreement to acquire Torii, extending Freshse…\n來源：Yahoo Finance:FRSH",
@@ -32,48 +86,30 @@
       "kind": "news"
     },
     {
-      "n": 4,
-      "symbol": "IRDM",
-      "short": "IRDM — Iridium Communications Inc (NASDAQ:IRDM) Stock Rated \"Hold\" by Sell-Side Brokerages - M…",
-      "detail": "IRDM\n重點：新聞\n標題：Iridium Communications Inc (NASDAQ:IRDM) Stock Rated \"Hold\" by Sell-Side Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOXVfVGVva2NBbFpDVVlvbVB3alRwS1dqMkRlYlBXVDJ5elFtTVN3YVpubkc1NVFEX2pTOVFBOHJuTzVyTkhiSVlqc0xYV2ZTLWg1WWd6VEh4T01ESHdLLUozRTRITER5bTkycnlrMXR1S0c1UWRUZnh0ZEJYNVF2NGt5SjB0SjJOVURrc2tmaGtVYllJdmcyRVNZSzFWdGVBeVFDX01YdVF6S…\n來源：Google News:IRDM",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOXVfVGVva2NBbFpDVVlvbVB3alRwS1dqMkRlYlBXVDJ5elFtTVN3YVpubkc1NVFEX2pTOVFBOHJuTzVyTkhiSVlqc0xYV2ZTLWg1WWd6VEh4T01ESHdLLUozRTRITER5bTkycnlrMXR1S0c1UWRUZnh0ZEJYNVF2NGt5SjB0SjJOVURrc2tmaGtVYllJdmcyRVNZSzFWdGVBeVFDX01YdVF6SVlJOHlkSkFHaWFSa21zUnIyZmhZeXZDNkxTcU1PTG5xYWVMSk9BcFlsVHY2Zjh2UEU?oc=5",
-      "source": "Google News:IRDM",
+      "n": 10,
+      "symbol": "FTNT",
+      "short": "FTNT — AI相關、業績／指引：Does Fortinet's Strong Margin Profile Make the Stock Worth Buying Now?",
+      "detail": "FTNT\n重點：AI相關、業績／指引\n標題：Does Fortinet's Strong Margin Profile Make the Stock Worth Buying Now?\n摘要：FTNT's record margins, raised 2026 guidance and AI security push strengthen its profitability story, but rising chip costs and product-mix pressure remain key concerns.\n來源：Yahoo Finance:FTNT",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-fortinets-strong-margin-profile-160100355.html?.tsrc=rss",
+      "source": "Yahoo Finance:FTNT",
       "kind": "news"
     },
     {
-      "n": 5,
-      "symbol": "MDT",
-      "short": "MDT — BTIG Research Has Lowered Expectations for Medtronic (NYSE:MDT) Stock Price - MarketBeat",
-      "detail": "MDT\n重點：新聞\n標題：BTIG Research Has Lowered Expectations for Medtronic (NYSE:MDT) Stock Price - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3pGNEo3ckd0VVl6UWRiYjRlSUtHNkZyLWs5bjVLZFd5WVM3ajVsYWFsdXlJMlo4c3hQdllsalkzaE9OREhBdlRhNGg4b1F5aXJIMWJjeGVXRDJjMFNkLWtlUkE4MXFxRXc3ZVZqUFRVdGY2MDJQV1lsSzJkamhSdC1qU3dJdzNoX3V2aEZ1SFZSRlpwUGhTYVhpclpRUmpodXItY1IyUk5lb…\n來源：Google News:MDT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3pGNEo3ckd0VVl6UWRiYjRlSUtHNkZyLWs5bjVLZFd5WVM3ajVsYWFsdXlJMlo4c3hQdllsalkzaE9OREhBdlRhNGg4b1F5aXJIMWJjeGVXRDJjMFNkLWtlUkE4MXFxRXc3ZVZqUFRVdGY2MDJQV1lsSzJkamhSdC1qU3dJdzNoX3V2aEZ1SFZSRlpwUGhTYVhpclpRUmpodXItY1IyUk5lbFEwMWd4OGlEb2xRSVo5VG1VZHlualVKZ3ZLMm5DdVJ4dDc5RFVL?oc=5",
-      "source": "Google News:MDT",
+      "n": 11,
+      "symbol": "GGB",
+      "short": "GGB — This is Why Gerdau (GGB) is a Great Dividend Stock",
+      "detail": "GGB\n重點：新聞\n標題：This is Why  Gerdau (GGB) is a Great Dividend Stock\n摘要：Dividends are one of the best benefits to being a shareholder, but finding a great dividend stock is no easy task. Does Gerdau (GGB) have what it takes? Let's find out.\n來源：Yahoo Finance:GGB",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-gerdau-ggb-great-dividend-144503830.html?.tsrc=rss",
+      "source": "Yahoo Finance:GGB",
       "kind": "news"
     },
     {
-      "n": 6,
-      "symbol": "OKTA",
-      "short": "OKTA — Okta (NASDAQ:OKTA) Stock Rating Cut to \"Hold\" at Wall Street Zen - MarketBeat",
-      "detail": "OKTA\n重點：新聞\n標題：Okta (NASDAQ:OKTA) Stock Rating Cut to \"Hold\" at Wall Street Zen - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQeGdqWWc1Wm5jTGZuTTUzRnJpOG9OMDc5RG9EelJDbVFEajllMTNkb1d4eWt6aEZwaHJYclFNTzU5RE1JcUoxcnY4VW9pd2lGbS1GMllqTlFXTmNUcmJaNzdEd0lTMHZJVUpoZ0RYNmMtNHhMalFXY21FbkNoVUxwSklzTHJvZ3ZQQVlCbzh6cEIyY2N1Rm11MFJKU3BzN0syS2l6bUJLaHhGZ…\n來源：Google News:OKTA",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeGdqWWc1Wm5jTGZuTTUzRnJpOG9OMDc5RG9EelJDbVFEajllMTNkb1d4eWt6aEZwaHJYclFNTzU5RE1JcUoxcnY4VW9pd2lGbS1GMllqTlFXTmNUcmJaNzdEd0lTMHZJVUpoZ0RYNmMtNHhMalFXY21FbkNoVUxwSklzTHJvZ3ZQQVlCbzh6cEIyY2N1Rm11MFJKU3BzN0syS2l6bUJLaHhGZFZlWkZRSXR1X1R6RXBiUWJUOWxvaw?oc=5",
-      "source": "Google News:OKTA",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "PYPL",
-      "short": "PYPL — 併購／交易：PYPL Stock Eyes Best Month Ever: ARK Invest Says Venmo 'Most Compelling Strategic Asset…",
-      "detail": "PYPL\n重點：併購／交易\n標題：PYPL Stock Eyes Best Month Ever: ARK Invest Says Venmo 'Most Compelling Strategic Asset' Amid Stripe Takeover Bid - Stocktwits\n摘要：<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQYTFsS3ZLMFVlUmNUdm1RaUJNUXNiVHJ6Y0VSOGRBaFZvY1FNdHdJcXhlUkdoem13TGNzQ3RNVzFVXzBLNXd1N2MtSC0wUkl1SGVPSEtKOXpKTjEtLUU4WHdzWlNzemVVelpmcU5kSHFFbHA0S0dZWVByYzdpYzhRQ0dGN0VueVJ6NU9VbWJrN3lwcXh1ZVlqdUlrZWhzY3Jxd1l4WWZqV0dTb…\n來源：Google News:PYPL",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQYTFsS3ZLMFVlUmNUdm1RaUJNUXNiVHJ6Y0VSOGRBaFZvY1FNdHdJcXhlUkdoem13TGNzQ3RNVzFVXzBLNXd1N2MtSC0wUkl1SGVPSEtKOXpKTjEtLUU4WHdzWlNzemVVelpmcU5kSHFFbHA0S0dZWVByYzdpYzhRQ0dGN0VueVJ6NU9VbWJrN3lwcXh1ZVlqdUlrZWhzY3Jxd1l4WWZqV0dTbmI1bU8tVXdnQWVXYkhIdU1JTjR1SElCR1laWkdtQnpMMUpsMS1jemVSR2J1cHFldGZRek9LQkN2ZkZ3bk55QnROYzh0WWtweDNDSThXQjNoMlVaSjZ5VXFxSw?oc=5",
-      "source": "Google News:PYPL",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "VLTO",
-      "short": "VLTO — 業績／指引：Veralto Schedules Third Quarter 2026 Earnings Call",
-      "detail": "VLTO\n重點：業績／指引\n標題：Veralto Schedules Third Quarter 2026 Earnings Call\n摘要：Veralto Corporation (NYSE: VLTO), a global leader in essential water and product quality solutions dedicated to Safeguarding the World's Most Vital Resources™, announced that it will webcast its third quarter 2026 earnings conference call on Friday, October 30, 2026, beginning a…\n來源：Yahoo Finance:VLTO",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/veralto-schedules-third-quarter-2026-120000863.html?.tsrc=rss",
-      "source": "Yahoo Finance:VLTO",
+      "n": 12,
+      "symbol": "GPC",
+      "short": "GPC — Genuine Parts (NYSE:GPC) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Say…",
+      "detail": "GPC\n重點：新聞\n標題：Genuine Parts (NYSE:GPC) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY1Y0TExaUHY3MkpXYnlWSTFuczNvQkF1NzZnMEk0UDV6bVNfeGpMQndQandDa3hxd0M2T2c0RVhKM0llenlKbnJSVWh2X1o0djJyZWdSS0Y5ZlZKajRhMlpxVjFWMEd6SE1ucnRzUTFnd0sxanp0Yi16bVE0Q0UyNXBWeEotWkFmSzU5QjdvNEptM1prc28ySDZQWEZfU0tVQUR4ZXV0UTZiQ…\n來源：Google News:GPC",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY1Y0TExaUHY3MkpXYnlWSTFuczNvQkF1NzZnMEk0UDV6bVNfeGpMQndQandDa3hxd0M2T2c0RVhKM0llenlKbnJSVWh2X1o0djJyZWdSS0Y5ZlZKajRhMlpxVjFWMEd6SE1ucnRzUTFnd0sxanp0Yi16bVE0Q0UyNXBWeEotWkFmSzU5QjdvNEptM1prc28ySDZQWEZfU0tVQUR4ZXV0UTZiQzVQOGdwak81QmtRWW5vNXFVUmFBR0R4RFljWmVMMk1RZFdyMXc0Vm8yeXZkQ0ZRNU5k?oc=5",
+      "source": "Google News:GPC",
       "kind": "news"
     }
   ]
