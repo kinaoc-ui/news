@@ -1,20 +1,38 @@
 {
-  "title": "FS新聞 10-13 12:27",
-  "list_name": "FirstScreen_2026-10-13_122701_comma.txt",
-  "created_at": "2026-10-13T12:27:10.342755+00:00",
+  "title": "FS新聞 10-13 17:26",
+  "list_name": "FirstScreen_2026-10-13_172644_comma.txt",
+  "created_at": "2026-10-13T17:26:55.863565+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "MDT",
-      "short": "MDT — 13,074 Medtronic PLC $MDT Shares Acquired by NorthCrest Asset Manangement LLC - MarketB…",
-      "detail": "MDT\n重點：新聞\n標題：13,074 Medtronic PLC $MDT Shares Acquired by NorthCrest Asset Manangement LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU3FjUE43M1ZHaERaVGZBTUQ3aW85dWtqbGZNWExMeWVBWGFVY2kwRmx4Zm1leWU2RHFHSFdjMDl6TjZ4ODJlYXFhR2dEaHA1ck13NllSYnZnZTNaMFBRLWxUZ3dEejVCYlZNbVR6ZUVfRFFWMW1UUk9ZVndlVmRrWkIydVhsa3JCVjFnTXljdUVmZEJBdGRtQzc4dmJkZFZVb3Budmx2cWZVR…\n來源：Google News:MDT\n其他：Medtronic PLC (NYSE:MDT) Shares Shorted: Short Interest Up …",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU3FjUE43M1ZHaERaVGZBTUQ3aW85dWtqbGZNWExMeWVBWGFVY2kwRmx4Zm1leWU2RHFHSFdjMDl6TjZ4ODJlYXFhR2dEaHA1ck13NllSYnZnZTNaMFBRLWxUZ3dEejVCYlZNbVR6ZUVfRFFWMW1UUk9ZVndlVmRrWkIydVhsa3JCVjFnTXljdUVmZEJBdGRtQzc4dmJkZFZVb3Budmx2cWZVRWcwSEdRWGVIcGpZRlhBekNfYkEya1pRcW11YlBxMm1MbzlueVhXSXc?oc=5",
-      "source": "Google News:MDT",
+      "symbol": "CRM",
+      "short": "CRM — 業績／指引：Q2 Earnings Highs And Lows: Salesforce (NYSE:CRM) Vs The Rest Of The Sales Software Sto…",
+      "detail": "CRM\n重點：業績／指引\n標題：Q2 Earnings Highs And Lows: Salesforce (NYSE:CRM) Vs The Rest Of The Sales Software Stocks\n摘要：Looking back on sales software stocks’ Q2 earnings, we examine this quarter’s best and worst performers, including Salesforce (NYSE:CRM) and its peers.\n來源：Yahoo Finance:CRM\n其他：Q2 Earnings Highs And Lows: Salesforce (NYSE:CRM) Vs The Re…; Docusign and Salesforce Launch Intelligent Agreement Manage…; Why Salesforce (NYSE:CRM) Rallied on the S&P 500 as Bank of…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-highs-lows-salesforce-165904337.html?.tsrc=rss",
+      "source": "Yahoo Finance:CRM",
       "kind": "news"
     },
     {
       "n": 2,
+      "symbol": "FTNT",
+      "short": "FTNT — AI相關、業績／指引：Is Fortinet’s AI Security Push and GovWare 2026 Spotlight Reshaping the Investment Case…",
+      "detail": "FTNT\n重點：AI相關、業績／指引\n標題：Is Fortinet’s AI Security Push and GovWare 2026 Spotlight Reshaping the Investment Case for FTNT?\n摘要：Fortinet recently participated in GovWare 2026 in Singapore, where senior leaders showcased the company’s cybersecurity offerings and AI-enabled solutions to public- and private-sector attendees. This exposure, alongside a strong record of earnings outperformance and positive es…\n來源：Yahoo Finance:FTNT\n其他：Fortinet (FTNT) Could Be 54% Overvalued After Better Than E…; Woodstock Corp Sells 8,766 Shares of Fortinet, Inc. $FTNT -…; Perpetual Ltd Acquires 160,492 Shares of Fortinet, Inc. $FT…",
+      "url": "https://finance.yahoo.com/technology/ai/articles/fortinet-ai-security-push-govware-161356162.html?.tsrc=rss",
+      "source": "Yahoo Finance:FTNT",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "COF",
+      "short": "COF — 業績／指引：Capital One (COF) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
+      "detail": "COF\n重點：業績／指引\n標題：Capital One (COF) Expected to Beat Earnings Estimates: Can the Stock Move Higher?\n摘要：Capital One (COF) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.\n來源：Yahoo Finance:COF\n其他：Capital One Financial Corporation $COF Stock: NorthCrest As…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/capital-one-cof-expected-beat-130013686.html?.tsrc=rss",
+      "source": "Yahoo Finance:COF",
+      "kind": "news"
+    },
+    {
+      "n": 4,
       "symbol": "A",
       "short": "A — AI相關：Agilent to Acquire Proscia, Advancing AI-Enabled Digital Pathology and Scientific Intel…",
       "detail": "A\n重點：AI相關\n標題：Agilent to Acquire Proscia, Advancing AI-Enabled Digital Pathology and Scientific Intelligence\n摘要：SANTA CLARA, Calif. & PHILADELPHIA, October 13, 2026--Agilent Technologies Inc. (NYSE: A) today announced it has entered into a definitive agreement to acquire Proscia®, a provider of digital pathology software for clinical and life-sciences customers, in an all-cash transaction…\n來源：Yahoo Finance:A",
@@ -23,7 +41,16 @@
       "kind": "news"
     },
     {
-      "n": 3,
+      "n": 5,
+      "symbol": "ALSN",
+      "short": "ALSN — Is the Options Market Predicting a Spike in Allison Transmission Stock?",
+      "detail": "ALSN\n重點：新聞\n標題：Is the Options Market Predicting a Spike in Allison Transmission Stock?\n摘要：Investors need to pay close attention to ALSN stock based on the movements in the options market lately.\n來源：Yahoo Finance:ALSN",
+      "url": "https://finance.yahoo.com/markets/options/articles/options-market-predicting-spike-allison-122300001.html?.tsrc=rss",
+      "source": "Yahoo Finance:ALSN",
+      "kind": "news"
+    },
+    {
+      "n": 6,
       "symbol": "ANET",
       "short": "ANET — Arista Networks, Inc. $ANET Shares Purchased by Perpetual Ltd - MarketBeat",
       "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Shares Purchased by Perpetual Ltd - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSW1lZW0yVFM5a0VQbGhBdUJyQWVwek1SZElZUm90b2dtckFhYXV5SnZfeTZweHFFNFJBTlNHSzdBRHNMMnV0dThERGZwZC1SV2ZmTzNZLUJVYnlqU3hjMzdyQzNZaUJucGV4REFrZzRrLUx4eEdIMHZfTWdJUnR2R3JlS1JENko1Tjl6MkR5NTJqdE4tS0syUWIwRFpMNmxQbUxMRC1PRVFme…\n來源：Google News:ANET",
@@ -32,7 +59,16 @@
       "kind": "news"
     },
     {
-      "n": 4,
+      "n": 7,
+      "symbol": "BILL",
+      "short": "BILL — 業績／指引：Why BILL Holdings (BILL) is Poised to Beat Earnings Estimates Again",
+      "detail": "BILL\n重點：業績／指引\n標題：Why BILL Holdings (BILL) is Poised to Beat Earnings Estimates Again\n摘要：BILL Holdings (BILL) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.\n來源：Yahoo Finance:BILL",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-bill-holdings-bill-poised-151003762.html?.tsrc=rss",
+      "source": "Yahoo Finance:BILL",
+      "kind": "news"
+    },
+    {
+      "n": 8,
       "symbol": "DEO",
       "short": "DEO — Diageo plc $DEO Stock Sold by Burkett Asset Management Ltd - MarketBeat",
       "detail": "DEO\n重點：新聞\n標題：Diageo plc $DEO Stock Sold by Burkett Asset Management Ltd - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPXzhtRXdPdTFWa05VcF9JRkh6a3ZldmM2SzFsQ3JNQVJWbUY3ekF2WUNXQWlWU3ViUmNweVl6OUhXb0RkS2JNa0psalRZY2UxQ3JWbnJLWnExNlYwRnhFMHVvSG1wTHMzcUVNRjJnbVI3ejRyZWxNWDhpeldsVUtlMWhTSjNGQ2hZdU9SU1hjMXc1QWxCQWQzcTA5U05MSUFsajdpWVpPTXJaU…\n來源：Google News:DEO",
@@ -41,75 +77,39 @@
       "kind": "news"
     },
     {
-      "n": 5,
-      "symbol": "FTNT",
-      "short": "FTNT — Perpetual Ltd Acquires 160,492 Shares of Fortinet, Inc. $FTNT - MarketBeat",
-      "detail": "FTNT\n重點：新聞\n標題：Perpetual Ltd Acquires 160,492 Shares of Fortinet, Inc. $FTNT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOTEdCZXdmaVIxT21vMDBMY0t4bHVGWVRpZWlWREZJRnV4blBBODk1VmF0Znl4WEdFNEVhZ3NKT2NaSnhvQzFZUkR1aU1xWDg0OVZQOVhNZGZlb0xRUzk1aGVPdlRHcWJBell3ZWVEckFnZ21LTnJRRVh6dlRjdm5FV1RBRENOZXNYUnhCU0Z3RENJS2ItX0o5azRzeHVSbExmd0ZuQUlfR1hwN…\n來源：Google News:FTNT",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTEdCZXdmaVIxT21vMDBMY0t4bHVGWVRpZWlWREZJRnV4blBBODk1VmF0Znl4WEdFNEVhZ3NKT2NaSnhvQzFZUkR1aU1xWDg0OVZQOVhNZGZlb0xRUzk1aGVPdlRHcWJBell3ZWVEckFnZ21LTnJRRVh6dlRjdm5FV1RBRENOZXNYUnhCU0Z3RENJS2ItX0o5azRzeHVSbExmd0ZuQUlfR1hwNDdMU1ZKd1p0WVJxZ3RROVE?oc=5",
-      "source": "Google News:FTNT",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "GGB",
-      "short": "GGB — Gerdau (NYSE:GGB) Shares Break Above 200 Day Moving Average - What's Next? - MarketBeat",
-      "detail": "GGB\n重點：新聞\n標題：Gerdau (NYSE:GGB) Shares Break Above 200 Day Moving Average - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNb1dNRW5Hdm93aTk5cGxibW8wLUJTenNCSzlNYVpJY2JUUWVrcUlEdUl2WEE1aldYN2xtaWRKUXI2VUE3UVFKeDZsdGdLb3BDUWdUejRRV0ZmYUNqSDVEOFgyTDJiOHNiU1dfZjNqdlZ0RXNTcHpobXBxUm5sR1hub3NCbHplNm9oSGJzMUxLTUltSW9pSmFkZm5yalZIYTdyMC1Fb3pLaEotQ…\n來源：Google News:GGB",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb1dNRW5Hdm93aTk5cGxibW8wLUJTenNCSzlNYVpJY2JUUWVrcUlEdUl2WEE1aldYN2xtaWRKUXI2VUE3UVFKeDZsdGdLb3BDUWdUejRRV0ZmYUNqSDVEOFgyTDJiOHNiU1dfZjNqdlZ0RXNTcHpobXBxUm5sR1hub3NCbHplNm9oSGJzMUxLTUltSW9pSmFkZm5yalZIYTdyMC1Fb3pLaEotQzJZWHJDMWdBdUpnbHJpZzdTcEhDOFhISVlfemdV?oc=5",
-      "source": "Google News:GGB",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "LULU",
-      "short": "LULU — LULU Stock Alert: Lululemon Growth Issues and Subsequent 17% Stock Drop Trigger Securit…",
-      "detail": "LULU\n重點：新聞\n標題：LULU Stock Alert: Lululemon Growth Issues and Subsequent 17% Stock Drop Trigger Securities Fraud Investigation for Investors - TradingView\n摘要：<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxNYndIRFNIQ3UzSVJaMW5rZklmckRlNC1ENFZzaGRZRjNRRFNTeUtHTzlVTFRsT3MtQl9URWMxOVpzdTdzV29oeU84bHF4T0FDTDhvZjVjaVdpZlpxWlpCS2lwZkRucHMzS3l2ck1FejBsc0FsSno3dURlQUNURS1PaGN1cWVtUy1XSFBwd2llV0Z6OVFMVHVSaTR4azE1WDZuTy1fN2NTeXlBS…\n來源：Google News:LULU",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNYndIRFNIQ3UzSVJaMW5rZklmckRlNC1ENFZzaGRZRjNRRFNTeUtHTzlVTFRsT3MtQl9URWMxOVpzdTdzV29oeU84bHF4T0FDTDhvZjVjaVdpZlpxWlpCS2lwZkRucHMzS3l2ck1FejBsc0FsSno3dURlQUNURS1PaGN1cWVtUy1XSFBwd2llV0Z6OVFMVHVSaTR4azE1WDZuTy1fN2NTeXlBSDUxdVN2RU1RUHNHNjdfWTFpSi0wQUFSeFZJUmpNZjBHdTRzTEZLUjE4VlpFRmhlYmtyLTRjVExfSXJTZ2cwM1A5dHM5d2lTWW9tc01KbG9rMWY2ZkZkNk5Ua1NxRFZiOWpxU2UtNQ?oc=5",
-      "source": "Google News:LULU",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "MRK",
-      "short": "MRK — Merck & Co., Inc. $MRK Position Increased by NorthCrest Asset Manangement LLC - MarketB…",
-      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Position Increased by NorthCrest Asset Manangement LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQZTdqSFVhWjhzcHdWZHFVRVZKaDZONG9zSkdFbXJWZktqVWpWYVhFbUYyS29NVVdFbHUwWmJGMUlaUmR2TWJhaWxkblpJUDNEdzhSN0RkTVgtSzBkSTU2RW9HaWYxOWdNTzNsMkxnNUhXN2JxUm13aGh0aE9PUEd2SW5xWUtsbHJqeVN6aHA4aXNsWTNxWVZISDJDeTF6T2RtZXBxcGhsRDBOU…\n來源：Google News:MRK",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZTdqSFVhWjhzcHdWZHFVRVZKaDZONG9zSkdFbXJWZktqVWpWYVhFbUYyS29NVVdFbHUwWmJGMUlaUmR2TWJhaWxkblpJUDNEdzhSN0RkTVgtSzBkSTU2RW9HaWYxOWdNTzNsMkxnNUhXN2JxUm13aGh0aE9PUEd2SW5xWUtsbHJqeVN6aHA4aXNsWTNxWVZISDJDeTF6T2RtZXBxcGhsRDBOUDJzcV9XNDB6cDlCR0R5bnN4OUVtTWFTVnRqaHBEUkREX2Y?oc=5",
-      "source": "Google News:MRK",
-      "kind": "news"
-    },
-    {
       "n": 9,
-      "symbol": "OKTA",
-      "short": "OKTA — Okta (NASDAQ:OKTA) Reaches New 12-Month High - Still a Buy? - MarketBeat",
-      "detail": "OKTA\n重點：新聞\n標題：Okta (NASDAQ:OKTA) Reaches New 12-Month High - Still a Buy? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNODNQME1ydjF1S3RNVTJUMC1iUlBMcXE1Yzc5cERNOGV5VlpLZ2lrSWFCVHVkQmJYMjE0LVV5bm5rdmR0ZXdaMEw5bndMNFVKamZwNlRjeXhDU0Fuek1XUS1XdnhvUURSTkI1MlFaR0JkZWNZU3NTaWhjbGtVRmh3cEE5dHh5VDR1VG9Gb3JqdUFHaV8wd04wcDM2RGxFU2x4Vm5lTkVUT0d0T…\n來源：Google News:OKTA",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNODNQME1ydjF1S3RNVTJUMC1iUlBMcXE1Yzc5cERNOGV5VlpLZ2lrSWFCVHVkQmJYMjE0LVV5bm5rdmR0ZXdaMEw5bndMNFVKamZwNlRjeXhDU0Fuek1XUS1XdnhvUURSTkI1MlFaR0JkZWNZU3NTaWhjbGtVRmh3cEE5dHh5VDR1VG9Gb3JqdUFHaV8wd04wcDM2RGxFU2x4Vm5lTkVUT0d0TWVWUlR5eEEybXo?oc=5",
-      "source": "Google News:OKTA",
+      "symbol": "FSK",
+      "short": "FSK — 業績／指引：Are Investors Undervaluing FS KKR Capital Corp. (FSK) Right Now?",
+      "detail": "FSK\n重點：業績／指引\n標題：Are Investors Undervaluing FS KKR Capital Corp. (FSK) Right Now?\n摘要：Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.\n來源：Yahoo Finance:FSK",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-fs-kkr-capital-124004597.html?.tsrc=rss",
+      "source": "Yahoo Finance:FSK",
       "kind": "news"
     },
     {
       "n": 10,
-      "symbol": "PR",
-      "short": "PR — Permian Resources Corporation $PR Shares Sold by Perpetual Ltd - MarketBeat",
-      "detail": "PR\n重點：新聞\n標題：Permian Resources Corporation $PR Shares Sold by Perpetual Ltd - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObG5jNlhyaDdhZjZjaFlRX2NzY3h6dFhHeFpPUWduQ1VWTDVtUE5QSWNlYmR2Zi1ROUkzTUxUMzZtUEp4Z2U0WTNiTmd6cmlIanB3aFo0QmNtWUgwcXd4Q3ZWeGVqRG5hcDRIdWVnTkZONEU4czlVSWpsSWJGVHJETG1lWDNuTkhNZnZnMUloSW9ERHBEQ0JYRDZWZmFfdWxFMkg0VWFGQTRyQ…\n來源：Google News:PR",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObG5jNlhyaDdhZjZjaFlRX2NzY3h6dFhHeFpPUWduQ1VWTDVtUE5QSWNlYmR2Zi1ROUkzTUxUMzZtUEp4Z2U0WTNiTmd6cmlIanB3aFo0QmNtWUgwcXd4Q3ZWeGVqRG5hcDRIdWVnTkZONEU4czlVSWpsSWJGVHJETG1lWDNuTkhNZnZnMUloSW9ERHBEQ0JYRDZWZmFfdWxFMkg0VWFGQTRyQTYxaHlrSUtaalE2djR6S0lfVldZNA?oc=5",
-      "source": "Google News:PR",
+      "symbol": "GSAT",
+      "short": "GSAT — Globalstar, Inc. (NASDAQ:GSAT) Stock Has Average Target Price of $75.67 According to An…",
+      "detail": "GSAT\n重點：新聞\n標題：Globalstar, Inc. (NASDAQ:GSAT) Stock Has Average Target Price of $75.67 According to Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUFpkYWIwLU00YXNYYm5zY0RxVEhsb0YxakJ6cm5HdXEzdWNsTjE1Uy0xaTZzTWhJeUZwai1BNXZaSGVBdGFpUWpyd2gwUGtiNE9vR2RNcXBGOVJYTGw5UklqWG9ES0lMd2JzVm9JUl9GYkNqM2xlcWhuN3QxdnBNellRcmptRFMtVlFJcHU2eVcwR1l1eTlZV1c1WnVMOFZMRHROZENwVUdFM…\n來源：Google News:GSAT",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUFpkYWIwLU00YXNYYm5zY0RxVEhsb0YxakJ6cm5HdXEzdWNsTjE1Uy0xaTZzTWhJeUZwai1BNXZaSGVBdGFpUWpyd2gwUGtiNE9vR2RNcXBGOVJYTGw5UklqWG9ES0lMd2JzVm9JUl9GYkNqM2xlcWhuN3QxdnBNellRcmptRFMtVlFJcHU2eVcwR1l1eTlZV1c1WnVMOFZMRHROZENwVUdFM1pRX0FWVDZqQUMtcGZ0aTlERXgzZmVGc09hb192eU16UENlaWx5QzJrM0VCcFo5Zk1iems5VEdYcUhTZw?oc=5",
+      "source": "Google News:GSAT",
       "kind": "news"
     },
     {
       "n": 11,
-      "symbol": "PYPL",
-      "short": "PYPL — PayPal Holdings, Inc. (NASDAQ:PYPL) Stock Rated \"Hold\" by Wall Street Brokerages - Mark…",
-      "detail": "PYPL\n重點：新聞\n標題：PayPal Holdings, Inc. (NASDAQ:PYPL) Stock Rated \"Hold\" by Wall Street Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUTRfbXF6YktwQ0hENDgwN181VHVtTXI4SU1NSWdMWW5YOENNb05keHBxSmlkLUlsOEhfdWEwd0hpYmxSSElUdmEtTVJOcXpwOUJuNmlaZU1uRkJGeWY5MUROX2VvZ0dkT2htT3d3eFUzYzQzWkpWTnM4Nk1rMDhVMVhoR0xjcTdVdlBCLUM5T3lUNklzSm5pSnFEWHdaeGd0RDVoU3U0ZDFnT…\n來源：Google News:PYPL",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUTRfbXF6YktwQ0hENDgwN181VHVtTXI4SU1NSWdMWW5YOENNb05keHBxSmlkLUlsOEhfdWEwd0hpYmxSSElUdmEtTVJOcXpwOUJuNmlaZU1uRkJGeWY5MUROX2VvZ0dkT2htT3d3eFUzYzQzWkpWTnM4Nk1rMDhVMVhoR0xjcTdVdlBCLUM5T3lUNklzSm5pSnFEWHdaeGd0RDVoU3U0ZDFnTVcwODg5Y24wb3hENDNXbGE5c1lXQVBWU3J2SmlFS0hXUzg2eV9LZ0ZNNQ?oc=5",
-      "source": "Google News:PYPL",
+      "symbol": "HCA",
+      "short": "HCA — HCA Healthcare Is Too Healthy To Downgrade (NYSE:HCA) - Seeking Alpha",
+      "detail": "HCA\n重點：新聞\n標題：HCA Healthcare Is Too Healthy To Downgrade (NYSE:HCA) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNXhxTFdJODJqUE9OUUZEeVRGMDZNMXFCUi16ZVE4Z0w4MVJubE5ZRUprT0k3OWNnSnlOWWdUc216YW9SMWdwVUVpT0NYQ1NEWEVDeFhQZnN5Q2s4ZzZ4XzhQZHRmY0kzM3p3VU1ja2lOQm0yYTd1TWlTZnZsQ19ucFVpYVhrUHpUZGt3?oc=5\" target=\"_blank\">HCA Healthcare Is …\n來源：Google News:HCA",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNXhxTFdJODJqUE9OUUZEeVRGMDZNMXFCUi16ZVE4Z0w4MVJubE5ZRUprT0k3OWNnSnlOWWdUc216YW9SMWdwVUVpT0NYQ1NEWEVDeFhQZnN5Q2s4ZzZ4XzhQZHRmY0kzM3p3VU1ja2lOQm0yYTd1TWlTZnZsQ19ucFVpYVhrUHpUZGt3?oc=5",
+      "source": "Google News:HCA",
       "kind": "news"
     },
     {
       "n": 12,
-      "symbol": "SLG",
-      "short": "SLG — SL Green Realty (NYSE:SLG) Shares Cross Above 200 Day Moving Average - Should You Sell?…",
-      "detail": "SLG\n重點：新聞\n標題：SL Green Realty (NYSE:SLG) Shares Cross Above 200 Day Moving Average - Should You Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOGNqTi1zSjJIUWo0LWk5Z2VVYXdXOF91UGtEWTFaYjA5Vm1rTWxnaXVoal8tY1lKMmdjNHNPNG5hekFJTVAxUkdxRy14VDJuX1RMNXUzeGFWZnR3alFOQ05reWhPekN1Xy1wSF9LN1Qza2FvQXFRNWtESldJQzBwS1RiNnNRYVBzSFpIWDViRm1XWlJTQmdDTHlER2tJTFI4cDJ5X0xkSVgta…\n來源：Google News:SLG",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOGNqTi1zSjJIUWo0LWk5Z2VVYXdXOF91UGtEWTFaYjA5Vm1rTWxnaXVoal8tY1lKMmdjNHNPNG5hekFJTVAxUkdxRy14VDJuX1RMNXUzeGFWZnR3alFOQ05reWhPekN1Xy1wSF9LN1Qza2FvQXFRNWtESldJQzBwS1RiNnNRYVBzSFpIWDViRm1XWlJTQmdDTHlER2tJTFI4cDJ5X0xkSVgtaGRIWldYd0JoVksyNnRCXzBhTzg1QlNpMWpyc2Y1UFNBa28wSTluQ2VjSGFIbGxndw?oc=5",
-      "source": "Google News:SLG",
+      "symbol": "HP",
+      "short": "HP — 業績／指引：Are Investors Undervaluing Helmerich & Payne (HP) Right Now?",
+      "detail": "HP\n重點：業績／指引\n標題：Are Investors Undervaluing Helmerich & Payne (HP) Right Now?\n摘要：Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.\n來源：Yahoo Finance:HP",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-helmerich-payne-hp-124006240.html?.tsrc=rss",
+      "source": "Yahoo Finance:HP",
       "kind": "news"
     }
   ]
