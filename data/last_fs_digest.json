@@ -1,20 +1,38 @@
 {
-  "title": "FS新聞 10-14 09:55",
-  "list_name": "FirstScreen_2026-10-14_095453_comma.txt",
-  "created_at": "2026-10-14T09:55:06.775137+00:00",
+  "title": "FS新聞 10-14 14:57",
+  "list_name": "FirstScreen_2026-10-14_145714_comma.txt",
+  "created_at": "2026-10-14T14:57:24.227576+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "ANET",
-      "short": "ANET — Arista Networks, Inc. $ANET Stock Purchased by Krilogy Financial LLC - MarketBeat",
-      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Stock Purchased by Krilogy Financial LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQMkNFNTlxX0xYZWxiN2xKUXllUHZLN0dScGEzODN5OTR0bjRhZDgxOWxfVHRHb3lVNmUyaGJLWkQ5R3J4V3FWRDFVV2ltUU84N2x5aUZ3eEVfM193ellRQThyaGlpakhvanZ2MFJtV1hmQ1JnT0R4R2R2b1c3WkxSOXdpalR6Smt1dGlZZW0zVFlIeTE0Si1LVFJKS0JUSzVrT1JYTlVLc3lNN…\n來源：Google News:ANET\n其他：Arista Networks, Inc. $ANET Stock Acquired by Foster Group …; Arista Networks, Inc. $ANET Shares Newly Purchased by Walke…; Arista Networks, Inc. $ANET Shares Newly Bought by Forvis M…",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMkNFNTlxX0xYZWxiN2xKUXllUHZLN0dScGEzODN5OTR0bjRhZDgxOWxfVHRHb3lVNmUyaGJLWkQ5R3J4V3FWRDFVV2ltUU84N2x5aUZ3eEVfM193ellRQThyaGlpakhvanZ2MFJtV1hmQ1JnT0R4R2R2b1c3WkxSOXdpalR6Smt1dGlZZW0zVFlIeTE0Si1LVFJKS0JUSzVrT1JYTlVLc3lNNWllOUtGbklrUndlYVMxU2MwYzhNY0NJdVlC?oc=5",
-      "source": "Google News:ANET",
+      "symbol": "STT",
+      "short": "STT — 業績／指引：Compared to Estimates, State Street (STT) Q3 Earnings: A Look at Key Metrics",
+      "detail": "STT\n重點：業績／指引\n標題：Compared to Estimates, State Street (STT) Q3 Earnings: A Look at Key Metrics\n摘要：While the top- and bottom-line numbers for State Street (STT) give a sense of how the business performed in the quarter ended September 2026, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.\n來源：Yahoo Finance:STT\n其他：StateStreet shares fall 4% on revenue miss despite earnings…; State Street (NYSE:STT) Misses Q3 2026 Revenue Estimates, S…; STATE STREET ($STT) Releases Q3 2026 Earnings - Quiver Quan…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-state-street-stt-123002212.html?.tsrc=rss",
+      "source": "Yahoo Finance:STT",
       "kind": "news"
     },
     {
       "n": 2,
+      "symbol": "ANET",
+      "short": "ANET — Arista Networks, Inc. $ANET Shares Newly Bought by Q Fund Management Hong Kong Ltd - Ma…",
+      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Shares Newly Bought by Q Fund Management Hong Kong Ltd - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYkVmeUstRDRxQW5fdkN4NlZLd1c5Y2NWcGxIRWhqMm42ODFiSUNtY2tkaHhGSm5YLVB1dTZGSThZMU5vNDJYdWh1RkVQN0QzZ081dkt4dk94cVJES0hhQ3VlRTRZZU5qelpoNVJQQTFadXZUWTZNS0tleHVaWGxsQmhEbGRvVm5wcENfTWV2cTBwaTFHTi1EVVNUQVdwMExwc3FINXZ5MnRLR…\n來源：Google News:ANET\n其他：Arista Networks, Inc. $ANET Stock Bought by First Citizens …; Arista Networks, Inc. $ANET Stock Purchased by Krilogy Fina…; Arista Networks, Inc. $ANET Stock Acquired by Foster Group …",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYkVmeUstRDRxQW5fdkN4NlZLd1c5Y2NWcGxIRWhqMm42ODFiSUNtY2tkaHhGSm5YLVB1dTZGSThZMU5vNDJYdWh1RkVQN0QzZ081dkt4dk94cVJES0hhQ3VlRTRZZU5qelpoNVJQQTFadXZUWTZNS0tleHVaWGxsQmhEbGRvVm5wcENfTWV2cTBwaTFHTi1EVVNUQVdwMExwc3FINXZ5MnRLRTlYalBUeWY0SThNTjU5U244c3M2TUIwUDd2V1J6UmZwTzB3Q21hRFBNazV5TQ?oc=5",
+      "source": "Google News:ANET",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "MRK",
+      "short": "MRK — 業績／指引：Will Keytruda Continue to Aid Merck's Top Line in Q3 Earnings?",
+      "detail": "MRK\n重點：業績／指引\n標題：Will Keytruda Continue to Aid Merck's Top Line in Q3 Earnings?\n摘要：MRK's Keytruda sales growth, earlier-stage launches and expanded indications could boost Q3 results, but biosimilar competition looms in 2028-2029.\n來源：Yahoo Finance:MRK\n其他：Merck & Co., Inc. $MRK Holdings Increased by First Citizens…; Merck & Co., Inc. $MRK Stock Holdings Cut by Salem Investme…; Merck & Co., Inc. $MRK Position Cut by Perpetual Ltd - Mark…",
+      "url": "https://finance.yahoo.com/healthcare/articles/keytruda-continue-aid-mercks-top-134600560.html?.tsrc=rss",
+      "source": "Yahoo Finance:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 4,
       "symbol": "COF",
       "short": "COF — Capital One Financial Corporation $COF Stock Acquired by Krilogy Financial LLC - Market…",
       "detail": "COF\n重點：新聞\n標題：Capital One Financial Corporation $COF Stock Acquired by Krilogy Financial LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQzhNTFNNR18xS2thSmVmVlhhZ2w3WW0wdjZPZFc1Q0hORWRZZWFMZDVVVmsyOFdhSThOV0dBR1lOTEVFR0N1U1RzTmttTl83aHVwcEpXSFhDZnpCSi1MVUo4Um4teVVNb296LXFUQlBpT1F2OU8xMjNxYzNITHRReFBqSldKRWU1YlBfWmVlenVfcmxIZVM2eXhWUDN2aFBydGhKN0k1Z3JLR…\n來源：Google News:COF\n其他：Capital One Financial Corporation $COF Stake Boosted by Per…; Capital One Financial Corporation $COF Shares Acquired by B…",
@@ -23,93 +41,75 @@
       "kind": "news"
     },
     {
-      "n": 3,
-      "symbol": "MRK",
-      "short": "MRK — Merck & Co., Inc. $MRK Stock Holdings Cut by Salem Investment Counselors Inc. - MarketB…",
-      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Stock Holdings Cut by Salem Investment Counselors Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQdk52bldHTGo1OU5mbXVXbnlVNUR2YVZTMGxRemRCWUkzV1FBbHI1TFg2alQ5OUY1S29SNlg2TzkzdE8ybmFuR2RwWUFIN0FILXZ3MXJOVkVtaVJ0dHFfMDRqY2kxSkNEMk9RSkZKTkJJRWZlWDFudmlCay1aeHlZeTZyNmNSRW5hMkFGdVk1Y1p6TmRRRzhqa1ZtVzNJMjFSS3VPNDRtVURnS…\n來源：Google News:MRK\n其他：Merck & Co., Inc. $MRK Position Cut by Perpetual Ltd - Mark…",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdk52bldHTGo1OU5mbXVXbnlVNUR2YVZTMGxRemRCWUkzV1FBbHI1TFg2alQ5OUY1S29SNlg2TzkzdE8ybmFuR2RwWUFIN0FILXZ3MXJOVkVtaVJ0dHFfMDRqY2kxSkNEMk9RSkZKTkJJRWZlWDFudmlCay1aeHlZeTZyNmNSRW5hMkFGdVk1Y1p6TmRRRzhqa1ZtVzNJMjFSS3VPNDRtVURnSk51ZUcxR3N6STZGczNvX2NwQ3RaaDdiSkFjRnVPM1d0UQ?oc=5",
-      "source": "Google News:MRK",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "BHP",
-      "short": "BHP — BHP’s Escondida copper mine in Chile set for worker strike",
-      "detail": "BHP\n重點：新聞\n標題：BHP’s Escondida copper mine in Chile set for worker strike\n摘要：Investing.com-- Supervisors at BHP Group's (ASX:BHP) Escondida copper mine in Chile are set to begin a strike on Wednesday after government-mediated negotiations over a new collective labour contract failed, the union said.\n來源：Yahoo Finance:BHP",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/bhp-escondida-copper-mine-chile-050643524.html?.tsrc=rss",
-      "source": "Yahoo Finance:BHP",
-      "kind": "news"
-    },
-    {
       "n": 5,
-      "symbol": "BNY",
-      "short": "BNY — 業績／指引：What To Expect From BNY’s (BNY) Q3 Earnings",
-      "detail": "BNY\n重點：業績／指引\n標題：What To Expect From BNY’s (BNY) Q3 Earnings\n摘要：Global financial services company BNY NYSE:BNY) will be reporting earnings this Thursday before market open. Here’s what to expect.\n來源：Yahoo Finance:BNY",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-bny-bny-q3-earnings-032451977.html?.tsrc=rss",
-      "source": "Yahoo Finance:BNY",
+      "symbol": "A",
+      "short": "A — 業績／指引：Charles Schwab and DoorDash ranked among bargain stocks that could lead the market high…",
+      "detail": "A\n重點：業績／指引\n標題：Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher\n摘要：Third-quarter earnings growth is expected to be driven by energy and semiconductor companies, but what if the rest of the market shows up? HSBC envisages a stock market finally broadening out.\n來源：MarketWatch\n其他：No One Owns A Stock That Beat The S&P 500 Every Year - Inve…",
+      "url": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "kind": "news"
     },
     {
       "n": 6,
-      "symbol": "FTNT",
-      "short": "FTNT — Fortinet, Inc. $FTNT Holdings Increased by Krilogy Financial LLC - MarketBeat",
-      "detail": "FTNT\n重點：新聞\n標題：Fortinet, Inc. $FTNT Holdings Increased by Krilogy Financial LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ1Z5Mm1WRUxPLTFjX2EzZUh4TmtZa0VLdDd0TF9ENzBhTGc1Y0E5VHFJWDN4a1dSOG1RZVZJQ2ZRNkJqUDZ0aDNNbGlkZkNCTDVra2pHUEpJYTVPVUJZYW1DYWVVN1dSaUhmLXljYXF0MGlxeERmTzFCVF9SQ1I1Q05qaThsUjlmTHMxT1JDblhQcmhZSGF0TXhuTDY3MFFVamZPUWw1WFVDS…\n來源：Google News:FTNT",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ1Z5Mm1WRUxPLTFjX2EzZUh4TmtZa0VLdDd0TF9ENzBhTGc1Y0E5VHFJWDN4a1dSOG1RZVZJQ2ZRNkJqUDZ0aDNNbGlkZkNCTDVra2pHUEpJYTVPVUJZYW1DYWVVN1dSaUhmLXljYXF0MGlxeERmTzFCVF9SQ1I1Q05qaThsUjlmTHMxT1JDblhQcmhZSGF0TXhuTDY3MFFVamZPUWw1WFVDS0IzS1NHVWNSenZfOFVGSDlmbEs1aw?oc=5",
-      "source": "Google News:FTNT",
-      "kind": "news"
-    },
-    {
-      "n": 7,
       "symbol": "INTU",
-      "short": "INTU — Intuit (NASDAQ:INTU) Stock Sale Reported by Rep. Gilbert Ray Cisneros, Jr. - MarketBeat",
-      "detail": "INTU\n重點：新聞\n標題：Intuit (NASDAQ:INTU) Stock Sale Reported by Rep. Gilbert Ray Cisneros, Jr. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQdnBCRVRmbVRjY3ZYQ1M3OGIydm5YRWp1SjI1RDdJUjRMbnplMlhlSWFvZmlFVFF4UmtRblU5YWpyNTJaakp1anlObExsU0xRS1lMSVJTRGJUd2VWX1p0TVVSdC16MVVDNThkZlQ2azZiV0lrTThJeFRmMEZWMUNJSEkySVBzQnN1Q1NISHdCTnNUbThKZTRrVzlPcUJWeDQ3dmdaRS1iMF9oM…\n來源：Google News:INTU",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdnBCRVRmbVRjY3ZYQ1M3OGIydm5YRWp1SjI1RDdJUjRMbnplMlhlSWFvZmlFVFF4UmtRblU5YWpyNTJaakp1anlObExsU0xRS1lMSVJTRGJUd2VWX1p0TVVSdC16MVVDNThkZlQ2azZiV0lrTThJeFRmMEZWMUNJSEkySVBzQnN1Q1NISHdCTnNUbThKZTRrVzlPcUJWeDQ3dmdaRS1iMF9oMUZYZGpsZXN5UER1WFFSdTFod3ltWm1iUG45cjI2XzdycUI?oc=5",
+      "short": "INTU — Intuit Inc. (NASDAQ:INTU): What Does the Latest An Extended Football Partnership Change…",
+      "detail": "INTU\n重點：新聞\n標題：Intuit Inc. (NASDAQ:INTU): What Does the Latest An Extended Football Partnership Change? - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNaG8tbHNlcWhCekNkWXJSZGx6QlREamZKOGU4QlJXU250RDJrUldod1Z3dDJOODIyNC01ZnB2UXRpdW84b1lfblNFLVpfU19WTFhiNmNVb1h2VnRFTnNQclRGYUJrMHo1Y1ctNzFoSXhRMkZ6c2dUeDZzWmlPU0tzZXpBeno2WUVrbm9wVnVyU01nMEtCcjRHNXcxZy0zY1ZVTFphZWZhOGpxY…\n來源：Google News:INTU\n其他：4,047 Intuit Inc. $INTU Shares Sold by Cohen Capital Manage…",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaG8tbHNlcWhCekNkWXJSZGx6QlREamZKOGU4QlJXU250RDJrUldod1Z3dDJOODIyNC01ZnB2UXRpdW84b1lfblNFLVpfU19WTFhiNmNVb1h2VnRFTnNQclRGYUJrMHo1Y1ctNzFoSXhRMkZ6c2dUeDZzWmlPU0tzZXpBeno2WUVrbm9wVnVyU01nMEtCcjRHNXcxZy0zY1ZVTFphZWZhOGpxYTdRWjhya3lEV3hEamIzYVRMUE9tcFU1TFB3?oc=5",
       "source": "Google News:INTU",
       "kind": "news"
     },
     {
-      "n": 8,
+      "n": 7,
       "symbol": "JD",
-      "short": "JD — JD.com (NASDAQ:JD) Stock Crosses Below 50 Day Moving Average - Here's Why - MarketBeat",
-      "detail": "JD\n重點：新聞\n標題：JD.com (NASDAQ:JD) Stock Crosses Below 50 Day Moving Average - Here's Why - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNaW5RZ1AzSGRLblhBWm1sMnpsNkUxTXhPZ2I4QW1OQXNjT0gwMExTOEJubmRHM0dON0F2Z0RFemlRRFhXXzhRQm1xdFk1VGtDV2FMaXAtamR1LXotNE1WOGtSQ1BFcFhPSVNlLXFUQjhIRm5uZEZjUTQyMWZsbks2ZVd1dzZ6OFBEcmFiSzBqbjZFQXBPbER0WGhzSWJpZjZJM1VGVUNLMEZZd…\n來源：Google News:JD",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaW5RZ1AzSGRLblhBWm1sMnpsNkUxTXhPZ2I4QW1OQXNjT0gwMExTOEJubmRHM0dON0F2Z0RFemlRRFhXXzhRQm1xdFk1VGtDV2FMaXAtamR1LXotNE1WOGtSQ1BFcFhPSVNlLXFUQjhIRm5uZEZjUTQyMWZsbks2ZVd1dzZ6OFBEcmFiSzBqbjZFQXBPbER0WGhzSWJpZjZJM1VGVUNLMEZZd3pVc0loTXpEQ0wyTFU4Y05CaWNaN3ZtN2p5VHc?oc=5",
-      "source": "Google News:JD",
+      "short": "JD — 業績／指引：Are Investors Undervaluing JD.com (JD) Right Now?",
+      "detail": "JD\n重點：業績／指引\n標題：Are Investors Undervaluing JD.com (JD) Right Now?\n摘要：Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.\n來源：Yahoo Finance:JD\n其他：JD.com (NASDAQ:JD) Stock Crosses Below 50 Day Moving Averag…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-jd-com-jd-124003604.html?.tsrc=rss",
+      "source": "Yahoo Finance:JD",
       "kind": "news"
     },
     {
-      "n": 9,
+      "n": 8,
       "symbol": "LQDA",
-      "short": "LQDA — Liquidia Settles All United Therapeutics Litigation for $380.7 Million, Keeps Yutrepia …",
-      "detail": "LQDA\n重點：新聞\n標題：Liquidia Settles All United Therapeutics Litigation for $380.7 Million, Keeps Yutrepia on Market\n摘要：Liquidia (LQDA) said late Tuesday it ended all six pending lawsuits with United Therapeutics (UTHR)\n來源：Yahoo Finance:LQDA",
-      "url": "https://finance.yahoo.com/healthcare/articles/liquidia-settles-united-therapeutics-litigation-094746542.html?.tsrc=rss",
+      "short": "LQDA — 併購／交易：LQDA Stock Rockets 40% Today – BTIG Calls United Therapeutics Settlement ‘Better Than B…",
+      "detail": "LQDA\n重點：併購／交易\n標題：LQDA Stock Rockets 40% Today – BTIG Calls United Therapeutics Settlement ‘Better Than Best-Case Scenario’\n摘要：LifeSci Capital said the agreement removes a major obstacle that could have discouraged potential buyers from pursuing an acquisition of Liquidia.\n來源：Yahoo Finance:LQDA\n其他：Liquidia Settles All United Therapeutics Litigation for $38…",
+      "url": "https://stocktwits.com/news-articles/markets/equity/lqda-stock-rockets-btig-calls-united-therapeutics-settlement-better-than-best-case-scenario/cZxfqAqRBqd?.tsrc=rss",
       "source": "Yahoo Finance:LQDA",
       "kind": "news"
     },
     {
-      "n": 10,
-      "symbol": "OXY",
-      "short": "OXY — Occidental Petroleum Corporation $OXY Stock: Perpetual Ltd Grows Position - MarketBeat",
-      "detail": "OXY\n重點：新聞\n標題：Occidental Petroleum Corporation $OXY Stock: Perpetual Ltd Grows Position - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzRoSklYR1FLZXk5bFhiNFMzSmowS3hQYmZOMEhPcFRSYW1Pd1ZYV0gtRHBwN0ZQNS1qdVVHMl9jd21GSVpGOXgtSkM3eUlYV2ktNHFhN2pVVGRXdG1xUE9SLXhycEd3dHNvaG1zdVd1OWVEU3VqYlYwNENQQlY2RndoXzUwdEhrQVZvTGhPb0FSZkRFX2lRM3BVNFdBLTlYTFNvTFFXb296W…\n來源：Google News:OXY",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzRoSklYR1FLZXk5bFhiNFMzSmowS3hQYmZOMEhPcFRSYW1Pd1ZYV0gtRHBwN0ZQNS1qdVVHMl9jd21GSVpGOXgtSkM3eUlYV2ktNHFhN2pVVGRXdG1xUE9SLXhycEd3dHNvaG1zdVd1OWVEU3VqYlYwNENQQlY2RndoXzUwdEhrQVZvTGhPb0FSZkRFX2lRM3BVNFdBLTlYTFNvTFFXb296WmFBOFJxN1F6T2hJbUdkZGUwY1BxMmxRQlhOOWJXNmNUQzM?oc=5",
-      "source": "Google News:OXY",
+      "n": 9,
+      "symbol": "PYPL",
+      "short": "PYPL — 業績／指引：PayPal (PYPL) Stock Still Looks Reasonable As Earnings Support The Price",
+      "detail": "PYPL\n重點：業績／指引\n標題：PayPal (PYPL) Stock Still Looks Reasonable As Earnings Support The Price\n摘要：PayPal Holdings has seen its share price move around in recent years, yet the real question for you today is whether the current US$56.17 level is supported by the earnings the business is generating. With the stock posting mixed returns over different time frames, the focus nat…\n來源：Yahoo Finance:PYPL\n其他：PayPal (PYPL) Stock Still Looks Reasonable As Earnings Supp…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-pypl-stock-still-looks-111009121.html?.tsrc=rss",
+      "source": "Yahoo Finance:PYPL",
       "kind": "news"
     },
     {
-      "n": 11,
+      "n": 10,
       "symbol": "TGT",
-      "short": "TGT — 17,060 Target Corporation $TGT Shares Acquired by Signal Advisors Wealth LLC - MarketBe…",
-      "detail": "TGT\n重點：新聞\n標題：17,060 Target Corporation $TGT Shares Acquired by Signal Advisors Wealth LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWGlFTzlUQ1I3MFJHZDl4em9PcGE0Z19sM25Ib2ZTSF9FbU5oUjFJMmgtR1M1WW9jVVBOeWR3U1RBTUFyb1FUNEhOUV81VVIwTWhqRGxuY0pkbnFYNFV5SmpwQ1M5dHlVRm1tYS02VXBEVmpBcmRHc1JDYVZLVXJpWHYzc1dvdEJiNGFsaXU4VlNtX2V3d3hVcUYyaTZoS0Y3QnZEN1lVakZZe…\n來源：Google News:TGT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWGlFTzlUQ1I3MFJHZDl4em9PcGE0Z19sM25Ib2ZTSF9FbU5oUjFJMmgtR1M1WW9jVVBOeWR3U1RBTUFyb1FUNEhOUV81VVIwTWhqRGxuY0pkbnFYNFV5SmpwQ1M5dHlVRm1tYS02VXBEVmpBcmRHc1JDYVZLVXJpWHYzc1dvdEJiNGFsaXU4VlNtX2V3d3hVcUYyaTZoS0Y3QnZEN1lVakZZeFFpc3AyNHdSN1h4NjRoemNlbzZ1TndBX3lKRzFDSWtDZG5iaDRs?oc=5",
+      "short": "TGT — Target (NYSE:TGT) Stock Rating Raised to Strong-Buy at Zacks Research - MarketBeat",
+      "detail": "TGT\n重點：新聞\n標題：Target (NYSE:TGT) Stock Rating Raised to Strong-Buy at Zacks Research - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLTBqTFlxYkx2RWktRkFuTXdsdlVPYTlHcklKMUd3MlFaR0dnaks0WWpSY2FuNXNWbmdEQ09NUHFad2gtVnE0M2RKaWI0N0FEUlJ3b0V6RTZNWVhheUU2UE5RS3NyeXpyc21TUDNQOTA3ZkFlMEFrMXU4bWxhRElJNmRXRFBNcVhvUXBuaHBoeVB4bXJPWkdXSDdFYUNzSy1QRzZPZE9xMWQyL…\n來源：Google News:TGT\n其他：17,060 Target Corporation $TGT Shares Acquired by Signal Ad…",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLTBqTFlxYkx2RWktRkFuTXdsdlVPYTlHcklKMUd3MlFaR0dnaks0WWpSY2FuNXNWbmdEQ09NUHFad2gtVnE0M2RKaWI0N0FEUlJ3b0V6RTZNWVhheUU2UE5RS3NyeXpyc21TUDNQOTA3ZkFlMEFrMXU4bWxhRElJNmRXRFBNcVhvUXBuaHBoeVB4bXJPWkdXSDdFYUNzSy1QRzZPZE9xMWQyLXJRSkwtOGZqY3hlQ3VSNnlhX00zLW1HQlBBaTd2Vw?oc=5",
       "source": "Google News:TGT",
       "kind": "news"
     },
     {
+      "n": 11,
+      "symbol": "BDX",
+      "short": "BDX — Becton, Dickinson and Company Yields 2.4%: Is Its Valuation Finally Worth a Look?",
+      "detail": "BDX\n重點：新聞\n標題：Becton, Dickinson and Company Yields 2.4%: Is Its Valuation Finally Worth a Look?\n摘要：Becton, Dickinson and Company (NYSE:BDX) has steady demand for its medical devices, together with a long history of paying dividends. The company’s product range includes medical essentials, connected care, biopharma systems, and devices for interventional procedures, which mean…\n來源：Yahoo Finance:BDX",
+      "url": "https://finance.yahoo.com/healthcare/articles/becton-dickinson-company-yields-2-132924443.html?.tsrc=rss",
+      "source": "Yahoo Finance:BDX",
+      "kind": "news"
+    },
+    {
       "n": 12,
-      "symbol": "URBN",
-      "short": "URBN — 業績／指引：Urban Outfitters (URBN) Could Be 5% Undervalued As Record Results Draw Fresh Analyst Co…",
-      "detail": "URBN\n重點：業績／指引\n標題：Urban Outfitters (URBN) Could Be 5% Undervalued As Record Results Draw Fresh Analyst Coverage\n摘要：Urban Outfitters stock reacts to record streak and fresh analyst coverage Urban Outfitters (URBN) drew fresh attention after reporting its eighth straight quarter of record sales and profits, while revenue topped forecasts and new analyst coverage coincided with the stock hittin…\n來源：Yahoo Finance:URBN",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/urban-outfitters-urbn-could-5-032019158.html?.tsrc=rss",
-      "source": "Yahoo Finance:URBN",
+      "symbol": "BKNG",
+      "short": "BKNG — AI相關：Booking Holdings Launches Vayo with Planned $100M Investment",
+      "detail": "BKNG\n重點：AI相關\n標題：Booking Holdings Launches Vayo with Planned $100M Investment\n摘要：Booking Holdings (NASDAQ: BKNG) today announced a planned $100M* investment in its new company Vayo, which is launching in private beta with a waitlist now open at vayo.com. Vayo is where your trips live: a personal travel agent that knows how you travel and makes every trip bet…\n來源：Yahoo Finance:BKNG",
+      "url": "https://finance.yahoo.com/technology/articles/booking-holdings-launches-vayo-planned-125500000.html?.tsrc=rss",
+      "source": "Yahoo Finance:BKNG",
       "kind": "news"
     }
   ]
