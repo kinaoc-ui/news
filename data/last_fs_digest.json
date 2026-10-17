@@ -1,7 +1,7 @@
 {
-  "title": "FS新聞 10-17 08:59",
-  "list_name": "FirstScreen_2026-10-17_085949_comma.txt",
-  "created_at": "2026-10-17T08:59:58.803006+00:00",
+  "title": "FS新聞 10-17 13:32",
+  "list_name": "FirstScreen_2026-10-17_133217_comma.txt",
+  "created_at": "2026-10-17T13:32:26.531198+00:00",
   "x_note": "",
   "items": [
     {
@@ -15,6 +15,33 @@
     },
     {
       "n": 2,
+      "symbol": "HCA",
+      "short": "HCA — Chemistry Wealth Management LLC Acquires 4,382 Shares of HCA Healthcare, Inc. $HCA - Ma…",
+      "detail": "HCA\n重點：新聞\n標題：Chemistry Wealth Management LLC Acquires 4,382 Shares of HCA Healthcare, Inc. $HCA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVlIzZ2prLXBzNVhod1o4aGxZSlAzT0Ria1BhN1VSZVA5azhhUEkzNmRKdXNoeXV6WkFkb05iNTcyMW1vTU5ad2VDTUVqRm9oS3Y3eEdpeDVpY01rQnE2Rl9BSUxIdFBZNGZtbnpRNGFMRXBidGIyeElaVFROdGVGOEVMMUY4bVRfRUJ6Z2dVcDhwNTB4QklQOHU5Qng0WWMzb2xNOTVfazRtO…\n來源：Google News:HCA\n其他：HCA Healthcare, Inc. (NYSE:HCA) Stock Has Consensus Target …",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVlIzZ2prLXBzNVhod1o4aGxZSlAzT0Ria1BhN1VSZVA5azhhUEkzNmRKdXNoeXV6WkFkb05iNTcyMW1vTU5ad2VDTUVqRm9oS3Y3eEdpeDVpY01rQnE2Rl9BSUxIdFBZNGZtbnpRNGFMRXBidGIyeElaVFROdGVGOEVMMUY4bVRfRUJ6Z2dVcDhwNTB4QklQOHU5Qng0WWMzb2xNOTVfazRtOHl2RThjdlBfMHBxcGxGblJSZnpnWHlnSHJsOXhQbDBDY2xYa0NWLUNSMDJn?oc=5",
+      "source": "Google News:HCA",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "MRK",
+      "short": "MRK — Merck & Co., Inc. $MRK Stock: Cantor Fitzgerald Investment Advisors L.P. Cuts Position …",
+      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Stock: Cantor Fitzgerald Investment Advisors L.P. Cuts Position - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaFFYNllXQ2RVXzIzbFd4RVpGVS1mODdERG5US0RqaEJ5X2E1MnJpWi1SUXBYUWFCUE5PREZEXzdiMVlFYmt4Z0ZJTnhwOXZIbjg3NkMzdlh6eC1aZU4yV3FXbHVyQlREaWktWmtJUG5zS21rRUdXVDNzUTY2eGpTX0V0ZzhrX004R3g4TTNLM1c5emxFdGYxZDdnOS1SSHVzdlNrVzdjRFhpe…\n來源：Google News:MRK\n其他：Merck & Co., Inc. $MRK Stock: Banque Pictet & Cie SA Cuts H…",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaFFYNllXQ2RVXzIzbFd4RVpGVS1mODdERG5US0RqaEJ5X2E1MnJpWi1SUXBYUWFCUE5PREZEXzdiMVlFYmt4Z0ZJTnhwOXZIbjg3NkMzdlh6eC1aZU4yV3FXbHVyQlREaWktWmtJUG5zS21rRUdXVDNzUTY2eGpTX0V0ZzhrX004R3g4TTNLM1c5emxFdGYxZDdnOS1SSHVzdlNrVzdjRFhpeUNKTmhLeFJPbW90eGZWM2Q4Q0p4THJXekEwN0xuanZ6TUJiWHhDazJEWA?oc=5",
+      "source": "Google News:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "BILL",
+      "short": "BILL — AI相關、業績／指引：Did Profit Outlook Reset Just Shift Bill's (BILL) Investment Narrative?",
+      "detail": "BILL\n重點：AI相關、業績／指引\n標題：Did Profit Outlook Reset Just Shift Bill's (BILL) Investment Narrative?\n摘要：BILL Holdings updated its fiscal 2027 outlook, projecting faster earnings growth supported by cost-cutting, AI-driven automation and restructuring, while revenue growth expectations remain slower. The new guidance shifts attention toward operational efficiency, with management e…\n來源：Yahoo Finance:BILL",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/did-profit-outlook-reset-just-091742026.html?.tsrc=rss",
+      "source": "Yahoo Finance:BILL",
+      "kind": "news"
+    },
+    {
+      "n": 5,
       "symbol": "BNY",
       "short": "BNY — Bank of New York Mellon Corporation $BNY Shares Acquired by Assenagon Asset Management …",
       "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon Corporation $BNY Shares Acquired by Assenagon Asset Management S.A. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaGRBcmVXRXBEMGZvSTdVRFF4QndLLWktckFfTFRtWUJ4cThBVjNXeDRXRmhtLWZFSUJhWktzNlF5YzlEdzFISXRMMlZsZWJzdERLYnRFR0JVcEUxYzFiZTdTRllibDhSeVNyaXZYdFg5MGFiOWgxRGVtaGZTLTFiQ0RyM2txN0hQMHE3bFRxVklPVV9uYmhXQnRZdVRJcXV3X1JCWTZHV2lkT…\n來源：Google News:BNY",
@@ -23,7 +50,7 @@
       "kind": "news"
     },
     {
-      "n": 3,
+      "n": 6,
       "symbol": "COF",
       "short": "COF — Capital One Financial Corporation $COF Stock: Annex Advisory Services LLC Reduces Stake…",
       "detail": "COF\n重點：新聞\n標題：Capital One Financial Corporation $COF Stock: Annex Advisory Services LLC Reduces Stake - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxObERLMmRGYjVrQ2d3VDJSVHd1aFg1V2FwWTNVal83VEdZVFFIanpXWGdMRWRmX1BULV90al9xNHRiV25iVnVnQnB0a3lXdGdweHRRQU03cXUzdV92czB0N1BZMXZVS2dzZ1JabWxlSkhyUkJBOUprOUtMV2hmWFZja3NwMWVPMktTNmwyVWprSkJMZkl3QkF1ZWFVQ3NyVUIzd1R2SlJScmg5S…\n來源：Google News:COF",
@@ -32,7 +59,7 @@
       "kind": "news"
     },
     {
-      "n": 4,
+      "n": 7,
       "symbol": "CRM",
       "short": "CRM — Salesforce Inc. $CRM Holdings Lessened by Banque Pictet & Cie SA - MarketBeat",
       "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Holdings Lessened by Banque Pictet & Cie SA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNVGkwdmhqZzhMNzAzQVFxWDNqRC1PTzFOWXppY1BQZVVrblVodXBaS2FsY21oc1hDVW82Ny1SZVZmNzhwS0R6OVBzRDVtZ0J2R2Ryb08xb2lFcXpQQTZfWUZsc2VyWTVRNUYyLURMb3gtT1A4RVh3OXduazNIcjBVTjczR1pST3djNS1vdXhTdV9VOEJkXzR2MDdqaFZsY3ZmYmNNVTZQdVBUM…\n來源：Google News:CRM",
@@ -41,7 +68,7 @@
       "kind": "news"
     },
     {
-      "n": 5,
+      "n": 8,
       "symbol": "FUTU",
       "short": "FUTU — Futu Holdings Limited Sponsored ADR $FUTU Stock Bought by Assenagon Asset Management S.…",
       "detail": "FUTU\n重點：新聞\n標題：Futu Holdings Limited Sponsored ADR $FUTU Stock Bought by Assenagon Asset Management S.A. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOWRNQ0t5dEF1RHBLV3FlVWhLN2M3QWYxc1BvRHRzNENqaWxRY0wyUHhySGNGUFRfTE1DanE2d09Ha1NBanF2cW5nQmRzM0tMTkFfQi1HaktUTlJPNmN0LURqaEdVbGxRLW11Y0M5X3c2MHBqalh5UHIwTWxTQzhpc0loV0o0NlpOMVY3STJ5ZklhNXB3OThxa1N5aHpyYWRsZEFDZm1PSHpnZ…\n來源：Google News:FUTU",
@@ -50,7 +77,7 @@
       "kind": "news"
     },
     {
-      "n": 6,
+      "n": 9,
       "symbol": "GGB",
       "short": "GGB — Gerdau (NYSE:GGB) Stock Rating Upgraded by Wall Street Zen - MarketBeat",
       "detail": "GGB\n重點：新聞\n標題：Gerdau (NYSE:GGB) Stock Rating Upgraded by Wall Street Zen - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNQzg5c2QzOThRNFR0d0dJaDR2VVV2allmTTlpVktLOUl6TGxBUUdWWjlOYUdGMmRDeWVoLVB5YkFpNWRFbmVSRVcwd1lrUDlaN2I1NFBKcEZfSWhocUJiUmFLbl9BRmFXTkllcFVwRmU0cW1GOGQ3UTRjNDhQMl9IbjcwektsN0k0c2FOVVE1aVk5cjJJYVFYUDFQM29LdXl0eGRRQ1RBLThPd…\n來源：Google News:GGB",
@@ -59,16 +86,16 @@
       "kind": "news"
     },
     {
-      "n": 7,
-      "symbol": "HCA",
-      "short": "HCA — HCA Healthcare, Inc. (NYSE:HCA) Stock Has Consensus Target Price of $467.61 - MarketBeat",
-      "detail": "HCA\n重點：新聞\n標題：HCA Healthcare, Inc. (NYSE:HCA) Stock Has Consensus Target Price of $467.61 - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVBwVXBMb05YRktVenVzM0ZyalNCTDBpYzJ2azZuNTZsajNQbERqT1cxbUtER2ZUS096QXVZOTJnMklZbktsMVBDT0EycWFjdzNJLVpPS0ZGeWMwRFJqbmtaakRjeU56eUdhVGtkSkMydGlNdnVNMU05YVpHT1pDb3NiaXZMby1VMmhMSFRUc24xUVVuZHdyaVlsNjI1UktlWS1OSWF6bnBzV…\n來源：Google News:HCA",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVBwVXBMb05YRktVenVzM0ZyalNCTDBpYzJ2azZuNTZsajNQbERqT1cxbUtER2ZUS096QXVZOTJnMklZbktsMVBDT0EycWFjdzNJLVpPS0ZGeWMwRFJqbmtaakRjeU56eUdhVGtkSkMydGlNdnVNMU05YVpHT1pDb3NiaXZMby1VMmhMSFRUc24xUVVuZHdyaVlsNjI1UktlWS1OSWF6bnBzVzEtUmg4UXVILXZ4RzBNY3FmbDZrRE1xXzM5UDBjTGxaYTdNQQ?oc=5",
-      "source": "Google News:HCA",
+      "n": 10,
+      "symbol": "HP",
+      "short": "HP — 業績／指引：Earnings Beat Could Be A Big Test For HP Stock (HPQ) - Yahoo Finance",
+      "detail": "HP\n重點：業績／指引\n標題：Earnings Beat Could Be A Big Test For HP Stock (HPQ) - Yahoo Finance\n摘要：<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjUwTEFWbjkxYm1SWFJRSU5FcnF0cFhZSHBfV1ZKX3paZWYzM3kxamVVbng1R040ZkxZQUhTSGNpeWRrYlNwY3hrNjBfalVxNzZvQXluMnU3cWRvRm9SdVJ1U3J4S0FrMjBHWndYM1p3ZktIM1lRYTVRX1pOTVZySmdhbU1jY29YdWd0Q25zVGtwQ3RSZDI3aA?oc=5\" target=\"_blank\">…\n來源：Google News:HP",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjUwTEFWbjkxYm1SWFJRSU5FcnF0cFhZSHBfV1ZKX3paZWYzM3kxamVVbng1R040ZkxZQUhTSGNpeWRrYlNwY3hrNjBfalVxNzZvQXluMnU3cWRvRm9SdVJ1U3J4S0FrMjBHWndYM1p3ZktIM1lRYTVRX1pOTVZySmdhbU1jY29YdWd0Q25zVGtwQ3RSZDI3aA?oc=5",
+      "source": "Google News:HP",
       "kind": "news"
     },
     {
-      "n": 8,
+      "n": 11,
       "symbol": "INTU",
       "short": "INTU — Intuit Inc. $INTU Shares Newly Bought by Annex Advisory Services LLC - MarketBeat",
       "detail": "INTU\n重點：新聞\n標題：Intuit Inc. $INTU Shares Newly Bought by Annex Advisory Services LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNNWt5YWFEa3hlVDJMN3laMUJvdFZXbXR1YTZJaHJqNlpTazZaVFJWZ2JGRmNEb2lLRi1feVJEU21NQjhRX1BOUFBKSHNGTk5GWlpXWG1rbFF0X0k5LWZzV2ROekZkQi1uS3J4UHJGd1N0c3FPODdrREdQb3JqV3J4SXg0a0Q1WUVSa0s0RmpOMEZyUXFHWEw1UEktZy1keTE3blM1dFlXeVVBM…\n來源：Google News:INTU",
@@ -77,39 +104,12 @@
       "kind": "news"
     },
     {
-      "n": 9,
+      "n": 12,
       "symbol": "KSS",
       "short": "KSS — Kohl's Corporation $KSS Position Boosted by Annex Advisory Services LLC - MarketBeat",
       "detail": "KSS\n重點：新聞\n標題：Kohl's Corporation $KSS Position Boosted by Annex Advisory Services LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOSGxOWFFlTnd5dzNIVEhaam01NzNNNEIzQ3lHMXNDallXZ0lMOHB2RjhRUktael9NQXVDVVZrdlFaX21Heng2RUt1MHFvMVRNU29RU1poenJzNTVSNWR5SXd4VnV5U05SMUstYkp2Vl9yYjBjOFJCcjhZZXZtdi1Ra2g0dHpDY1BaTk1nazA0Y2hIOGFKVVZTQ19zTXRhZ1hQaFNSUFFRVUVwM…\n來源：Google News:KSS",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSGxOWFFlTnd5dzNIVEhaam01NzNNNEIzQ3lHMXNDallXZ0lMOHB2RjhRUktael9NQXVDVVZrdlFaX21Heng2RUt1MHFvMVRNU29RU1poenJzNTVSNWR5SXd4VnV5U05SMUstYkp2Vl9yYjBjOFJCcjhZZXZtdi1Ra2g0dHpDY1BaTk1nazA0Y2hIOGFKVVZTQ19zTXRhZ1hQaFNSUFFRVUVwM3BRVG1GMDR5NWZWeC1NajdWOWllYlJWVHgwdmVRcTRn?oc=5",
       "source": "Google News:KSS",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "LNG",
-      "short": "LNG — 53,712 Cheniere Energy, Inc. $LNG Shares Acquired by Assenagon Asset Management S.A. - …",
-      "detail": "LNG\n重點：新聞\n標題：53,712 Cheniere Energy, Inc. $LNG Shares Acquired by Assenagon Asset Management S.A. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPemlpVlVpUUNCYzM4WmQ1bU4wN2hHNWJxWUZfYk0tMFZILXBmblJMS2RHb2llZmNJeE16bEZraHc4Q0IzMFpEZzFRWFBTMkxuN0lwOW5BWW13VzFvTmNSX1BSWTZERDZzRW5lcnlzd0NOS2w4bzEza2tyN3c3WlV6YWRoaWZIZG8teC1LX0lFTFU0d0kyZFc5Z19sRnhaT3lHS292eldEX1ZFN…\n來源：Google News:LNG",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPemlpVlVpUUNCYzM4WmQ1bU4wN2hHNWJxWUZfYk0tMFZILXBmblJMS2RHb2llZmNJeE16bEZraHc4Q0IzMFpEZzFRWFBTMkxuN0lwOW5BWW13VzFvTmNSX1BSWTZERDZzRW5lcnlzd0NOS2w4bzEza2tyN3c3WlV6YWRoaWZIZG8teC1LX0lFTFU0d0kyZFc5Z19sRnhaT3lHS292eldEX1ZFNFgtUHdIZmE4RzJucUtjeVpuWnBZSUlsQ3Y1VHFlLXRNaTM0NHpMRUVtdXV3?oc=5",
-      "source": "Google News:LNG",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "MRK",
-      "short": "MRK — Merck & Co., Inc. $MRK Stock: Banque Pictet & Cie SA Cuts Holdings - MarketBeat",
-      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Stock: Banque Pictet & Cie SA Cuts Holdings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOb1BpN1dleFVsaXlka25wTDhoREJnbXcwdVJETXhoUjVXbWJFei15dlY5MFZoZFZSOVZQMjBIZlVoMFpUSGR3dkNiMVJQaXlrQmtUamtFSXpybUVYejhoNExXV0lMaVY5dWtGeTRVdmV0b2doYUZ0QnpnTXNVSnBjZlhTYWVfc2dnWmF0a1k0dnptQnY2eW1rb19PbFIyd0FnTmlwRk1NMVg5Z…\n來源：Google News:MRK",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb1BpN1dleFVsaXlka25wTDhoREJnbXcwdVJETXhoUjVXbWJFei15dlY5MFZoZFZSOVZQMjBIZlVoMFpUSGR3dkNiMVJQaXlrQmtUamtFSXpybUVYejhoNExXV0lMaVY5dWtGeTRVdmV0b2doYUZ0QnpnTXNVSnBjZlhTYWVfc2dnWmF0a1k0dnptQnY2eW1rb19PbFIyd0FnTmlwRk1NMVg5ZGF0MlJsTkZ3QzhUMk5BaUE?oc=5",
-      "source": "Google News:MRK",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "SLB",
-      "short": "SLB — Banque Pictet & Cie SA Buys 29,768 Shares of SLB Limited $SLB - MarketBeat",
-      "detail": "SLB\n重點：新聞\n標題：Banque Pictet & Cie SA Buys 29,768 Shares of SLB Limited $SLB - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOUEpQV0Q5UmxQV2xOVl9VdzJUOWlHNWIyQ1htMmR2aGhpT3dDMFF1LTFBZmhaTU5IOG5Xa2MxQnVKT1NVcGFycXEzd0RKTzVEby03STBxZDlFUkR5VldHODFwb3ozWXF5M0tkZ0xqZ2tlbDF2TFRBUDlCT01aY05FZGFsZHpfdl81QjQ1Zy1NcmpsU1BHMGFmLUFYU0VFSzlwaUtGTEowRUhMY…\n來源：Google News:SLB",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUEpQV0Q5UmxQV2xOVl9VdzJUOWlHNWIyQ1htMmR2aGhpT3dDMFF1LTFBZmhaTU5IOG5Xa2MxQnVKT1NVcGFycXEzd0RKTzVEby03STBxZDlFUkR5VldHODFwb3ozWXF5M0tkZ0xqZ2tlbDF2TFRBUDlCT01aY05FZGFsZHpfdl81QjQ1Zy1NcmpsU1BHMGFmLUFYU0VFSzlwaUtGTEowRUhMYVVQbG1oYnVIei10N2IyQWc?oc=5",
-      "source": "Google News:SLB",
       "kind": "news"
     }
   ]
