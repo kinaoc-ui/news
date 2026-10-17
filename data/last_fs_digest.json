@@ -1,115 +1,97 @@
 {
-  "title": "FS新聞 10-16 14:40",
-  "list_name": "FirstScreen_2026-10-16_144034_comma.txt",
-  "created_at": "2026-10-16T14:40:45.851498+00:00",
+  "title": "FS新聞 10-17 04:43",
+  "list_name": "FirstScreen_2026-10-17_044325_comma.txt",
+  "created_at": "2026-10-17T04:43:37.053212+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "ANET",
-      "short": "ANET — 業績／指引：Here's Why Arista Networks (ANET) Could be Great Choice for a Bottom Fisher",
-      "detail": "ANET\n重點：業績／指引\n標題：Here's Why Arista Networks (ANET) Could be Great Choice for a Bottom Fisher\n摘要：Arista Networks (ANET) appears to have found support after losing some value lately, as indicated by the formation of a hammer chart. In addition to this technical chart pattern, strong agreement among Wall Street analysts in revising earnings estimates higher enhances the stock…\n來源：Yahoo Finance:ANET\n其他：7,550 Arista Networks, Inc. $ANET Shares Bought by Halbert …; Arista Networks (NYSE:ANET) Upgraded to Strong-Buy at BNP P…; Arista Networks, Inc. $ANET Shares Purchased by Milestone A…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-arista-networks-anet-125502007.html?.tsrc=rss",
-      "source": "Yahoo Finance:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 2,
-      "symbol": "FTNT",
-      "short": "FTNT — Fortinet, Inc. $FTNT Stock Sold by Davidson Capital Management Inc. - MarketBeat",
-      "detail": "FTNT\n重點：新聞\n標題：Fortinet, Inc. $FTNT Stock Sold by Davidson Capital Management Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbVlSak5reWJGbXpkR3FTOHN3b3R2RVJrU3BNOVhHT3VyRVFfVXVpSWJ3ZnBuYS1ZTFNEUWdxTTRxZ2VvVUZuNElQVzNIdE1iNXh4RW4wekd3aXdiVnBMYW40aFNJVnVlU0JZX1VkcWRZWXBvTVpBSmVMRjljUzBwMEFMMVd0NTZxMHlXdWxtYTdLU0xHOWRjWUJvMjJHSjByUEtWNTJBLUZFY…\n來源：Google News:FTNT\n其他：Fortinet, Inc. $FTNT Stock Holdings Decreased by First Merc…; Fortinet, Inc. $FTNT Stock: Barlow Wealth Partners LLC Cuts…",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbVlSak5reWJGbXpkR3FTOHN3b3R2RVJrU3BNOVhHT3VyRVFfVXVpSWJ3ZnBuYS1ZTFNEUWdxTTRxZ2VvVUZuNElQVzNIdE1iNXh4RW4wekd3aXdiVnBMYW40aFNJVnVlU0JZX1VkcWRZWXBvTVpBSmVMRjljUzBwMEFMMVd0NTZxMHlXdWxtYTdLU0xHOWRjWUJvMjJHSjByUEtWNTJBLUZFYi1yMUlKVHlQZFN5d18wSG5NUUxZVEdHQQ?oc=5",
-      "source": "Google News:FTNT",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "MRK",
-      "short": "MRK — 8,527 Shares of Merck & Co., Inc. $MRK Acquired by Neumann Capital Management LLC - Mar…",
-      "detail": "MRK\n重點：新聞\n標題：8,527 Shares of Merck & Co., Inc. $MRK Acquired by Neumann Capital Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWltUWVoMXZ0U1hydkljenZQSVdLN0hQZEMwMDU3cmxqWXFuOHEzRzBkeWJOLTZJWUZJa09wT2lyQnhuTUhwdkJVZm03ek9QM1hxX21nWDJGem85b3dyTkN1QnY5aU13b1dPajF5QkE1dGFIYkxnT2drVjM2WkR2RXd0T2NPX3FyaFBERTBha0x1eWVGLVR6V1lvbWlKMlM1UktwRzJmMWxjX…\n來源：Google News:MRK\n其他：Merck & Co., Inc. $MRK Stock: State of Alaska Department of…; 18,326 Merck & Co., Inc. $MRK Shares Sold by Ninety One UK …",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWltUWVoMXZ0U1hydkljenZQSVdLN0hQZEMwMDU3cmxqWXFuOHEzRzBkeWJOLTZJWUZJa09wT2lyQnhuTUhwdkJVZm03ek9QM1hxX21nWDJGem85b3dyTkN1QnY5aU13b1dPajF5QkE1dGFIYkxnT2drVjM2WkR2RXd0T2NPX3FyaFBERTBha0x1eWVGLVR6V1lvbWlKMlM1UktwRzJmMWxjX3Vjd3pibVlNY2tLakZMOHVXVTVyTzdVRXMxeFZ2SFVnZTZPeHBT?oc=5",
-      "source": "Google News:MRK",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "TGT",
-      "short": "TGT — 15,680 Shares of Target Corporation $TGT Acquired by Neumann Capital Management LLC - M…",
-      "detail": "TGT\n重點：新聞\n標題：15,680 Shares of Target Corporation $TGT Acquired by Neumann Capital Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdFJUcmpKM215Z0syZ0NTaU1OU3hrSWhtMDF5V25Tc0xNNFp2VGFIcG92WVZsZ2xlZUljaFE0S3VFNnNKN1RVM1FfZU9QZ3FadS1fQmVXOVRvOUh1aWIxSTVjeWp5WmxydW9heHFhanJCbi1TNG5sV3o5Vnk2UmVYaTlGR3I1WG92RF9zTExSa3BIM3QwMDU4RjdFcG15M3F1YVV2M0lkWm91c…\n來源：Google News:TGT\n其他：Target Corporation $TGT Stake Lifted by Triasima Portfolio …; Target Corporation $TGT Stock Sold by Curated Wealth Partne…",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdFJUcmpKM215Z0syZ0NTaU1OU3hrSWhtMDF5V25Tc0xNNFp2VGFIcG92WVZsZ2xlZUljaFE0S3VFNnNKN1RVM1FfZU9QZ3FadS1fQmVXOVRvOUh1aWIxSTVjeWp5WmxydW9heHFhanJCbi1TNG5sV3o5Vnk2UmVYaTlGR3I1WG92RF9zTExSa3BIM3QwMDU4RjdFcG15M3F1YVV2M0lkWm91czVkNEphUl96bTlhazFIQXNWamc5ZmRZVTZoZmVtZGY5ZzRqa1hLWl9VVHdzUXFPUQ?oc=5",
-      "source": "Google News:TGT",
-      "kind": "news"
-    },
-    {
-      "n": 5,
       "symbol": "BNY",
-      "short": "BNY — AI相關、業績／指引：BNY Q3 Earnings Call Highlights Raised Outlook and AI Push",
-      "detail": "BNY\n重點：AI相關、業績／指引\n標題：BNY Q3 Earnings Call Highlights Raised Outlook and AI Push\n摘要：BNY raises 2026 revenue growth and operating leverage outlook as solid Q3 momentum, AI adoption and expanding securities services backs its growth strategy.\n來源：Yahoo Finance:BNY\n其他：How Earnings Beat Will Impact Bank of New York Mellon Corpo…",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bny-q3-earnings-call-highlights-130000631.html?.tsrc=rss",
+      "short": "BNY — 業績／指引：BNY (BNY) Q3 Earnings Highlight Margin Gains Beneath A Muted Reaction",
+      "detail": "BNY\n重點：業績／指引\n標題：BNY (BNY) Q3 Earnings Highlight Margin Gains Beneath A Muted Reaction\n摘要：BNY shares barely budged after the Q3 2026 report, closing up about 0.9% around US$143, even though the quarter packed a cleaner punch than that muted move suggests. Bank of New York Mellon Corporation put up US$5.7b in revenue and US$2.37 in basic earnings per share, solid figu…\n來源：Yahoo Finance:BNY\n其他：BNY (BNY) Q3 Earnings Power Through As Cost Risks Linger - …",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bny-bny-q3-earnings-highlight-231346702.html?.tsrc=rss",
       "source": "Yahoo Finance:BNY",
       "kind": "news"
     },
     {
-      "n": 6,
-      "symbol": "OXY",
-      "short": "OXY — 業績／指引：Are Investors Undervaluing Occidental Petroleum (OXY) Right Now?",
-      "detail": "OXY\n重點：業績／指引\n標題：Are Investors Undervaluing Occidental Petroleum (OXY) Right Now?\n摘要：Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.\n來源：Yahoo Finance:OXY\n其他：Occidental Petroleum Corporation $OXY Holdings Increased by…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-occidental-petroleum-oxy-124004009.html?.tsrc=rss",
-      "source": "Yahoo Finance:OXY",
+      "n": 2,
+      "symbol": "ANET",
+      "short": "ANET — Arista Networks (NYSE:ANET) Stock Falls 4.7% - Should You Sell? - MarketBeat",
+      "detail": "ANET\n重點：新聞\n標題：Arista Networks (NYSE:ANET) Stock Falls 4.7% - Should You Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNajBFVjJ4TXVFQnY4RkZ4UTZNSktTcEI2UVloMDUzdjgwOFFKWExkUVQxbDZyNWNqNXZFQUFTX1NmeURCWUkxbWEzRnRlV0VtOFU2YXo5bk8tZjlRZWQxamJQYlpPWTJOc2xKUTUyNFMtQ25uNzZlVWdKOGZZNkdaOFg0V0cyZW1Gazk1bzFKWndqWXdKYkpMM2ZKNGhyaVZ1RFQ5SjhUanBsW…\n來源：Google News:ANET",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNajBFVjJ4TXVFQnY4RkZ4UTZNSktTcEI2UVloMDUzdjgwOFFKWExkUVQxbDZyNWNqNXZFQUFTX1NmeURCWUkxbWEzRnRlV0VtOFU2YXo5bk8tZjlRZWQxamJQYlpPWTJOc2xKUTUyNFMtQ25uNzZlVWdKOGZZNkdaOFg0V0cyZW1Gazk1bzFKWndqWXdKYkpMM2ZKNGhyaVZ1RFQ5SjhUanBsWFNOUXVEdnpVakdKNTQ?oc=5",
+      "source": "Google News:ANET",
       "kind": "news"
     },
     {
-      "n": 7,
-      "symbol": "TXG",
-      "short": "TXG — AI相關：10x Genomics (TXG) Stock Fair Value Rises After Analysts Back AI And Atera Demand",
-      "detail": "TXG\n重點：AI相關\n標題：10x Genomics (TXG) Stock Fair Value Rises After Analysts Back AI And Atera Demand\n摘要：Analysts have lifted their Fair Value estimate for 10x Genomics from about US$62.13 to about US$75.67, a change of roughly 22% in the latest round of models. Much of this reset in price targets ties back to Street commentary around AI driven demand, interest in the Atera spatial…\n來源：Yahoo Finance:TXG\n其他：10x Genomics (TXG) Stock Fair Value Rises After Analysts Ba…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/10x-genomics-txg-stock-fair-112019243.html?.tsrc=rss",
-      "source": "Yahoo Finance:TXG",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "A",
-      "short": "A — 宏觀：A stock-market ‘sell’ signal has been silenced — but these Bank of America strategists …",
-      "detail": "A\n重點：宏觀\n標題：A stock-market ‘sell’ signal has been silenced — but these Bank of America strategists say it’s too early to buy\n摘要：Even though October’s correction has brought about some relief for bond markets and revivified the rate sensitive sectors of the stock market, Bank of America’s strategists recommend staying risk-off until after the midterms and the next Fed meeting.\n來源：MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-stock-market-sell-signal-has-been-silenced-but-these-bank-of-america-strategists-say-its-too-early-to-buy-8cdf98c8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "BILL",
-      "short": "BILL — AI相關、業績／指引：BILL Holdings (BILL) Guidance Update Puts Its Valuation Back In Focus",
-      "detail": "BILL\n重點：AI相關、業績／指引\n標題：BILL Holdings (BILL) Guidance Update Puts Its Valuation Back In Focus\n摘要：BILL Holdings (BILL) updated its forward guidance, putting profit efficiency in focus as AI tools, cost reductions, and restructuring efforts reshape the story for fiscal 2027 earnings and cash generation. The updated guidance landed alongside a sharp swing in sentiment, with BI…\n來源：Yahoo Finance:BILL",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-holdings-bill-guidance-puts-120932642.html?.tsrc=rss",
-      "source": "Yahoo Finance:BILL",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "BKNG",
-      "short": "BKNG — Booking Holdings Inc. $BKNG Stock: Mather Group LLC. Increases Stake - MarketBeat",
-      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Stock: Mather Group LLC. Increases Stake - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRndRZXJsdXF4aXhCSUpaMnlOR0FhME4xUEdxYlFabTEyQXplSW1mMUMwX3dKVmdjMUZXM0dObW5yNXNyTHhSVlBNU2xqdmlhZFN4SGxla3NEUjRLRVd3bHBqX3pvMDFyNFZFYnNfajBzenp5MHRrc08ydDk0ZDhLdkdxVWZBRlE0QzhOTlYtbnF4OHg3RTZUTm1Dd3pzLWItMWdVVnZBd2ZvM…\n來源：Google News:BKNG",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRndRZXJsdXF4aXhCSUpaMnlOR0FhME4xUEdxYlFabTEyQXplSW1mMUMwX3dKVmdjMUZXM0dObW5yNXNyTHhSVlBNU2xqdmlhZFN4SGxla3NEUjRLRVd3bHBqX3pvMDFyNFZFYnNfajBzenp5MHRrc08ydDk0ZDhLdkdxVWZBRlE0QzhOTlYtbnF4OHg3RTZUTm1Dd3pzLWItMWdVVnZBd2ZvMUFPQ0wteDItVjBIM29ENWU3X2MzY1BJV1E?oc=5",
-      "source": "Google News:BKNG",
-      "kind": "news"
-    },
-    {
-      "n": 11,
+      "n": 3,
       "symbol": "CARG",
-      "short": "CARG — CarGurus, Inc. $CARG Shares Sold by Fort Washington Investment Advisors Inc. OH - Marke…",
-      "detail": "CARG\n重點：新聞\n標題：CarGurus, Inc. $CARG Shares Sold by Fort Washington Investment Advisors Inc. OH - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLUJmOGtXRk1tdFpPNkpqVTh2OVV4Y3pWa1VQd1lIejBSY3dSVkxtNjRGd1h2Ulo5azN6bW5JenZMeGVUblRsZkdZTG9vbEt4dzRxSnhmX29HRG8tcEFKaWh1OF9WNHFvSWNQb2dWSHA3NXdlWXhUSzdoSFVnR3U5Z2pBMENtOUpNSnNnY3RIYlJQOHVpY1MyUG9hMWhua0lLdWNuSDdxaUlFL…\n來源：Google News:CARG",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLUJmOGtXRk1tdFpPNkpqVTh2OVV4Y3pWa1VQd1lIejBSY3dSVkxtNjRGd1h2Ulo5azN6bW5JenZMeGVUblRsZkdZTG9vbEt4dzRxSnhmX29HRG8tcEFKaWh1OF9WNHFvSWNQb2dWSHA3NXdlWXhUSzdoSFVnR3U5Z2pBMENtOUpNSnNnY3RIYlJQOHVpY1MyUG9hMWhua0lLdWNuSDdxaUlFLWZ3OTYzdjdqQkNmOG0xSmhBUjhTd25JQ1ZHZnRLYlduZnBnMkFacUE?oc=5",
+      "short": "CARG — CarGurus (NASDAQ:CARG) Stock: Insider Samuel Zales Sells 10,000 Shares - MarketBeat",
+      "detail": "CARG\n重點：新聞\n標題：CarGurus (NASDAQ:CARG) Stock: Insider Samuel Zales Sells 10,000 Shares - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNTXFPYWY1N0w0V1dmMktZa0pRblJvVkJpdzVtV2hibVdRWFdTWkJTaVBJTnlXWi1VTUJabFhfczhnbmZ5NllBeDBwY21jZ3NkUVFJc1J4bEVLamNXbkd1UnlicXdRSEJBUmpkaUZFdGJxOUpsNDRReUJLUzJHRFdLTTdSc2Q5dzBRV2FtUmdiMUtUVzVYMDNiNnpxT00weVNZdUhyVk8wYjZZT…\n來源：Google News:CARG",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTXFPYWY1N0w0V1dmMktZa0pRblJvVkJpdzVtV2hibVdRWFdTWkJTaVBJTnlXWi1VTUJabFhfczhnbmZ5NllBeDBwY21jZ3NkUVFJc1J4bEVLamNXbkd1UnlicXdRSEJBUmpkaUZFdGJxOUpsNDRReUJLUzJHRFdLTTdSc2Q5dzBRV2FtUmdiMUtUVzVYMDNiNnpxT00weVNZdUhyVk8wYjZZT0UzZWlsMzQtTVVpNDBLTWZxTU02YjVCSU1MVXVV?oc=5",
       "source": "Google News:CARG",
       "kind": "news"
     },
     {
-      "n": 12,
+      "n": 4,
+      "symbol": "COF",
+      "short": "COF — 業績／指引：Earnings Outlook Could Be A Key Test For Capital One Stock (COF) - Simply Wall Street",
+      "detail": "COF\n重點：業績／指引\n標題：Earnings Outlook Could Be A Key Test For Capital One Stock (COF) - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbUI5VWI5ZGYwdjAwa256M1dKS3pXTU5KcEFvM3dNN0VvUEdLWXplQ2tlaENHc0ttMmxSZFpaTUVzZ3ZKM1dRVkdMYXZLNl9DOWlDNUV5SHBDekUwYmE4eFVndUVfRmVyeTNueER3TUNScy1JczFac1VjU05CclhoQlJRRDBzeGo1Z084N3FNWVJGaWVnZ2NXZ3RQRjFzUzZucWFzYlBwcVkwd…\n來源：Google News:COF",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbUI5VWI5ZGYwdjAwa256M1dKS3pXTU5KcEFvM3dNN0VvUEdLWXplQ2tlaENHc0ttMmxSZFpaTUVzZ3ZKM1dRVkdMYXZLNl9DOWlDNUV5SHBDekUwYmE4eFVndUVfRmVyeTNueER3TUNScy1JczFac1VjU05CclhoQlJRRDBzeGo1Z084N3FNWVJGaWVnZ2NXZ3RQRjFzUzZucWFzYlBwcVkwdDA4U2tyYlFzZmF0dkxGS2N4dDRUaEY5SXIzZnZXcS1Qbm9oR0tKMDZ1eUgxU05VZWw2YnBNMmVtNXg0d9IB6wFBVV95cUxNcXZyMFo0Vmlha3g3REFnVWJGVF9ld0RzaDcwdDNzQjlYb2lzUUhubndiNjZwUUZUT2wtbHNKajNfVm5EdFBldmZDSktOc09KRW1IWXlraml0eHRRSnk1U1VsVHhWMXpBdUtER2xZM1FiUjhOeVMya1ROeFgxOWhxdkU5djI4WkRZYmdrQUx2c18tU3lpb0YxSm9Pc3FEZHZUYk1XMXJuZmtoYnkxa2J2TFQwUkh0MzBLVEtvT1hISkdxNzRURXExMTBZMkhkZlp1dk1fM1JkSlFjbHZwVERLbHZiTTA2aVZvNFNj?oc=5",
+      "source": "Google News:COF",
+      "kind": "news"
+    },
+    {
+      "n": 5,
       "symbol": "CRM",
-      "short": "CRM — Salesforce Inc. $CRM Stock: Milestone Asset Management LLC Raises Stake - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stock: Milestone Asset Management LLC Raises Stake - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZkRHUko5YjllVEZObjJZNUhYWXRtUmVRTUpNMHhsNVFrbTBPdzhMX2U4V3h6cVp4aXZ1NWxNRjdTTWYyN0E3OWVqYkcwS2RkZktPVzdneHdPbS11SlpHMEo2SWJPemdOUFNrdTFpSVdTTFBFa3FtZXpFQ1RfN0lKZGllUndJcXgxWEtlWHZLSUY0b1UtbGt4RGV1LW8wNmgzc0hwa3laQnFua…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZkRHUko5YjllVEZObjJZNUhYWXRtUmVRTUpNMHhsNVFrbTBPdzhMX2U4V3h6cVp4aXZ1NWxNRjdTTWYyN0E3OWVqYkcwS2RkZktPVzdneHdPbS11SlpHMEo2SWJPemdOUFNrdTFpSVdTTFBFa3FtZXpFQ1RfN0lKZGllUndJcXgxWEtlWHZLSUY0b1UtbGt4RGV1LW8wNmgzc0hwa3laQnFuaWExZDRkSDdiUktMQmlmSS1hczVlMjRrY0xPcVktcQ?oc=5",
+      "short": "CRM — Salesforce (NYSE:CRM) Stock Price Down 2.3% - What's Next? - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Stock Price Down 2.3% - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNnE3a09YZ25Gb2pETmRzaFI2aTJSVXUzSjNEa3BuclV2SnRMNXk3OE01LUNzdmZnMGlhdmZUSlFEOUxFR1lzLVZrUk1yRGRrRXp3WU5LUzdpX2hmUzQyTTdGcG80MnVMcUxPMjRYTUhSbFBINWwwYXMxbzItY1FLdEFQQ0tKTm9FclAxNVNlY3dsaGREQm0wQW5ndFVkNWxEUTc4bVd3ZmJyc…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNnE3a09YZ25Gb2pETmRzaFI2aTJSVXUzSjNEa3BuclV2SnRMNXk3OE01LUNzdmZnMGlhdmZUSlFEOUxFR1lzLVZrUk1yRGRrRXp3WU5LUzdpX2hmUzQyTTdGcG80MnVMcUxPMjRYTUhSbFBINWwwYXMxbzItY1FLdEFQQ0tKTm9FclAxNVNlY3dsaGREQm0wQW5ndFVkNWxEUTc4bVd3ZmJycHk1ay1N?oc=5",
       "source": "Google News:CRM",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "CRSP",
+      "short": "CRSP — CRISPR Therapeutics (NASDAQ:CRSP) Director Sells 14,514 Shares of Stock - MarketBeat",
+      "detail": "CRSP\n重點：新聞\n標題：CRISPR Therapeutics (NASDAQ:CRSP) Director Sells 14,514 Shares of Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOaGRyQWxDb1lNREJHNVBxekdTT2dacjliUXhWQm51QzhldzU1bkdnNWU2ZlVRdmYxRGwxVVlTaHFSZ0pGN01UYXJ4eFp6aXlpSjNiUmVSYmFoY2tCTlRxNDJiTG9CdFk0Tkwwa29OZGxlRVNDRHlZUndkRTlkVXZjQlpWZVJjU3Z5NnJ5bXgxMHFnTG9VTjFwTEl4QXZVb3QzQmw2U2hpM2JKa…\n來源：Google News:CRSP",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaGRyQWxDb1lNREJHNVBxekdTT2dacjliUXhWQm51QzhldzU1bkdnNWU2ZlVRdmYxRGwxVVlTaHFSZ0pGN01UYXJ4eFp6aXlpSjNiUmVSYmFoY2tCTlRxNDJiTG9CdFk0Tkwwa29OZGxlRVNDRHlZUndkRTlkVXZjQlpWZVJjU3Z5NnJ5bXgxMHFnTG9VTjFwTEl4QXZVb3QzQmw2U2hpM2JKaHFXa1lOS3ZzNmh6TFFuaXBZNGJpcEo0azJaTTRkOXhR?oc=5",
+      "source": "Google News:CRSP",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "RITM",
+      "short": "RITM — 業績／指引：Rithm Capital (RITM) Stock May Trade Below Fair Value Despite $375M Loan Securitization",
+      "detail": "RITM\n重點：業績／指引\n標題：Rithm Capital (RITM) Stock May Trade Below Fair Value Despite $375M Loan Securitization\n摘要：Rithm Capital has had a mixed share price story, with a three year gain sitting alongside weaker recent returns. This naturally raises the question of whether the current valuation lines up with what the business is earning. For anyone following the stock, the key issue is wheth…\n來源：Yahoo Finance:RITM",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rithm-capital-ritm-stock-may-231652782.html?.tsrc=rss",
+      "source": "Yahoo Finance:RITM",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "SLB",
+      "short": "SLB — How Investors May Respond To SLB (SLB) TotalEnergies Contract Win - Simply Wall Street",
+      "detail": "SLB\n重點：新聞\n標題：How Investors May Respond To SLB (SLB) TotalEnergies Contract Win - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOeUEyUzF2ZnZkajlRNGRBX2Ntc3Y0YlJHb2dVN2hKZHdiTUsxUFBEVE9yckRpZ1RwMUtFVGF1dUlxTmFSV0hWT1JyU0Q3X29Vc3REWDRIdHVLQ2xySElzS1B2WDI0OEhaQmdaQWI0TjV6M3BWckJzd05iaG9hQ1lQaWxXdDBRdWdjM1ppbHRFOUhBZk8wdXowekZsZ2ZoM1hwczB6RjFLemE4M…\n來源：Google News:SLB",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeUEyUzF2ZnZkajlRNGRBX2Ntc3Y0YlJHb2dVN2hKZHdiTUsxUFBEVE9yckRpZ1RwMUtFVGF1dUlxTmFSV0hWT1JyU0Q3X29Vc3REWDRIdHVLQ2xySElzS1B2WDI0OEhaQmdaQWI0TjV6M3BWckJzd05iaG9hQ1lQaWxXdDBRdWdjM1ppbHRFOUhBZk8wdXowekZsZ2ZoM1hwczB6RjFLemE4MkZGb0ZvN1kzQ2ZJNDTSAbwBQVVfeXFMT2xoNXJqbE4zMVVwQm9vRkxOTE1rbFpSd3J2aG5IZF9LdlphaVhEN05rS1NwWFgtU2k5Q2lmUzUzOVFPbHNmcFZnVUI4Rm1ELWpJNWhRZk8zVEVmWGxhZVoxVUh1bzI1X2EzRE1CUU9uaWpIQ0F0U29fRlh6SmlGYjA1alIwOGVDeDZoYWlsbzJOQkQ5WFhVSElHS3FNU3ptZnFqZnhPNnJiUE5QNHNEOE93akxDa21kdDBfVnA?oc=5",
+      "source": "Google News:SLB",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "TGT",
+      "short": "TGT — AI相關、業績／指引：How Sales Growth At Target (TGT) Has Changed Its Investment Story",
+      "detail": "TGT\n重點：AI相關、業績／指引\n標題：How Sales Growth At Target (TGT) Has Changed Its Investment Story\n摘要：Target reported renewed sales momentum, with Q2 2026 revenue up 5.3% and shopper traffic up 3.6%, supported by technology investments, store app upgrades and merchandising partnerships such as the Starbucks x Target collaboration and the revived Simply Shabby Chic brand. The sha…\n來源：Yahoo Finance:TGT",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sales-growth-target-tgt-changed-221259924.html?.tsrc=rss",
+      "source": "Yahoo Finance:TGT",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "URBN",
+      "short": "URBN — Urban Outfitters (NASDAQ:URBN) Stock: Insider Harry Cherken Jr Sells 5,000 Shares - Mar…",
+      "detail": "URBN\n重點：新聞\n標題：Urban Outfitters (NASDAQ:URBN) Stock: Insider Harry Cherken Jr Sells 5,000 Shares - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcWY2MXJQbnIzMFJNUlpjMERZdTZHNTdNWmFVWXdCN3pQVVY3UnNzSm0xUDk5RzZWV1pEMzE3TTE2QWkzeW81b2gzbmZ2RTZaVmVBQ1NMQnBBSkJhTmhWcG5ZSXFKYm05ckFMVDZpalJFbnZsaG1RSUJ4eGNNRERoVzVIMjNZRFZRell1U0dvVndIWEpINjZZM0NERVAtZ3kyNHlnRExQeU1Fb…\n來源：Google News:URBN",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcWY2MXJQbnIzMFJNUlpjMERZdTZHNTdNWmFVWXdCN3pQVVY3UnNzSm0xUDk5RzZWV1pEMzE3TTE2QWkzeW81b2gzbmZ2RTZaVmVBQ1NMQnBBSkJhTmhWcG5ZSXFKYm05ckFMVDZpalJFbnZsaG1RSUJ4eGNNRERoVzVIMjNZRFZRell1U0dvVndIWEpINjZZM0NERVAtZ3kyNHlnRExQeU1Fb09ybUduVXlBcUVhUlVDUUprc2RfN3EzRGJ2bTJkMDI2WUZ0MW8xSGFCS1FB?oc=5",
+      "source": "Google News:URBN",
       "kind": "news"
     }
   ]
