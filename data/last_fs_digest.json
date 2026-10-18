@@ -1,115 +1,25 @@
 {
-  "title": "FS新聞 10-17 13:32",
-  "list_name": "FirstScreen_2026-10-17_133217_comma.txt",
-  "created_at": "2026-10-17T13:32:26.531198+00:00",
+  "title": "FS新聞 10-18 04:49",
+  "list_name": "FirstScreen_2026-10-18_044938_comma.txt",
+  "created_at": "2026-10-18T04:49:47.454790+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
       "symbol": "ANET",
-      "short": "ANET — Arista Networks, Inc. $ANET Stock Acquired by Goelzer Investment Management Inc. - Mark…",
-      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Stock Acquired by Goelzer Investment Management Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcUNFczdZMnU4dWgtbEtvYzhGb2lsdDlhZEtUVWN2WnFoWE8wNmx6MkJrcWNRa1hDRkVqWFlLbmRNN2FYazVqSGkzNVpfdnlmQkZqcktYaVZpR0FiTmFnSE9GM3hCYVBfRlJoOVc5T2lRTG8tMHVwNFJhM0s3NkIxVU9VNlFpamRRcTFhOEIwLUF3OVh4MVBLVnloWmFSNEV2dG53S21NSXIwT…\n來源：Google News:ANET\n其他：19,492 Shares in Arista Networks, Inc. $ANET Bought by Aspi…; Arista Networks, Inc. $ANET Stock: Annex Advisory Services …",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcUNFczdZMnU4dWgtbEtvYzhGb2lsdDlhZEtUVWN2WnFoWE8wNmx6MkJrcWNRa1hDRkVqWFlLbmRNN2FYazVqSGkzNVpfdnlmQkZqcktYaVZpR0FiTmFnSE9GM3hCYVBfRlJoOVc5T2lRTG8tMHVwNFJhM0s3NkIxVU9VNlFpamRRcTFhOEIwLUF3OVh4MVBLVnloWmFSNEV2dG53S21NSXIwTk1tQ2h4M3ktOGlzcElpaVZscDBQNGo0QVF0YXVBRGlheGZZM2MteEJ3?oc=5",
-      "source": "Google News:ANET",
+      "short": "ANET — AI相關、業績／指引：Arista vs. Vertiv: Which AI Infrastructure Business Has the Bigger Profit Cushion?",
+      "detail": "ANET\n重點：AI相關、業績／指引\n標題：Arista vs. Vertiv: Which AI Infrastructure Business Has the Bigger Profit Cushion?\n摘要：Arista and Vertiv rank tenth and ninth in our 10 Best AI Infrastructure Stocks to Buy for the Long Term. The list shows which eight infrastructure businesses attracted more hedge-fund holders. Both benefit when AI campuses become operational, but their profit cushions differ sha…\n來源：Yahoo Finance:ANET\n其他：Arista vs. Vertiv: Which Cash Flow Depends More on Customer…",
+      "url": "https://finance.yahoo.com/technology/ai/articles/arista-vs-vertiv-ai-infrastructure-221145395.html?.tsrc=rss",
+      "source": "Yahoo Finance:ANET",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "HCA",
-      "short": "HCA — Chemistry Wealth Management LLC Acquires 4,382 Shares of HCA Healthcare, Inc. $HCA - Ma…",
-      "detail": "HCA\n重點：新聞\n標題：Chemistry Wealth Management LLC Acquires 4,382 Shares of HCA Healthcare, Inc. $HCA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVlIzZ2prLXBzNVhod1o4aGxZSlAzT0Ria1BhN1VSZVA5azhhUEkzNmRKdXNoeXV6WkFkb05iNTcyMW1vTU5ad2VDTUVqRm9oS3Y3eEdpeDVpY01rQnE2Rl9BSUxIdFBZNGZtbnpRNGFMRXBidGIyeElaVFROdGVGOEVMMUY4bVRfRUJ6Z2dVcDhwNTB4QklQOHU5Qng0WWMzb2xNOTVfazRtO…\n來源：Google News:HCA\n其他：HCA Healthcare, Inc. (NYSE:HCA) Stock Has Consensus Target …",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVlIzZ2prLXBzNVhod1o4aGxZSlAzT0Ria1BhN1VSZVA5azhhUEkzNmRKdXNoeXV6WkFkb05iNTcyMW1vTU5ad2VDTUVqRm9oS3Y3eEdpeDVpY01rQnE2Rl9BSUxIdFBZNGZtbnpRNGFMRXBidGIyeElaVFROdGVGOEVMMUY4bVRfRUJ6Z2dVcDhwNTB4QklQOHU5Qng0WWMzb2xNOTVfazRtOHl2RThjdlBfMHBxcGxGblJSZnpnWHlnSHJsOXhQbDBDY2xYa0NWLUNSMDJn?oc=5",
-      "source": "Google News:HCA",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "MRK",
-      "short": "MRK — Merck & Co., Inc. $MRK Stock: Cantor Fitzgerald Investment Advisors L.P. Cuts Position …",
-      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Stock: Cantor Fitzgerald Investment Advisors L.P. Cuts Position - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaFFYNllXQ2RVXzIzbFd4RVpGVS1mODdERG5US0RqaEJ5X2E1MnJpWi1SUXBYUWFCUE5PREZEXzdiMVlFYmt4Z0ZJTnhwOXZIbjg3NkMzdlh6eC1aZU4yV3FXbHVyQlREaWktWmtJUG5zS21rRUdXVDNzUTY2eGpTX0V0ZzhrX004R3g4TTNLM1c5emxFdGYxZDdnOS1SSHVzdlNrVzdjRFhpe…\n來源：Google News:MRK\n其他：Merck & Co., Inc. $MRK Stock: Banque Pictet & Cie SA Cuts H…",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaFFYNllXQ2RVXzIzbFd4RVpGVS1mODdERG5US0RqaEJ5X2E1MnJpWi1SUXBYUWFCUE5PREZEXzdiMVlFYmt4Z0ZJTnhwOXZIbjg3NkMzdlh6eC1aZU4yV3FXbHVyQlREaWktWmtJUG5zS21rRUdXVDNzUTY2eGpTX0V0ZzhrX004R3g4TTNLM1c5emxFdGYxZDdnOS1SSHVzdlNrVzdjRFhpeUNKTmhLeFJPbW90eGZWM2Q4Q0p4THJXekEwN0xuanZ6TUJiWHhDazJEWA?oc=5",
-      "source": "Google News:MRK",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "BILL",
-      "short": "BILL — AI相關、業績／指引：Did Profit Outlook Reset Just Shift Bill's (BILL) Investment Narrative?",
-      "detail": "BILL\n重點：AI相關、業績／指引\n標題：Did Profit Outlook Reset Just Shift Bill's (BILL) Investment Narrative?\n摘要：BILL Holdings updated its fiscal 2027 outlook, projecting faster earnings growth supported by cost-cutting, AI-driven automation and restructuring, while revenue growth expectations remain slower. The new guidance shifts attention toward operational efficiency, with management e…\n來源：Yahoo Finance:BILL",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/did-profit-outlook-reset-just-091742026.html?.tsrc=rss",
-      "source": "Yahoo Finance:BILL",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "BNY",
-      "short": "BNY — Bank of New York Mellon Corporation $BNY Shares Acquired by Assenagon Asset Management …",
-      "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon Corporation $BNY Shares Acquired by Assenagon Asset Management S.A. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaGRBcmVXRXBEMGZvSTdVRFF4QndLLWktckFfTFRtWUJ4cThBVjNXeDRXRmhtLWZFSUJhWktzNlF5YzlEdzFISXRMMlZsZWJzdERLYnRFR0JVcEUxYzFiZTdTRllibDhSeVNyaXZYdFg5MGFiOWgxRGVtaGZTLTFiQ0RyM2txN0hQMHE3bFRxVklPVV9uYmhXQnRZdVRJcXV3X1JCWTZHV2lkT…\n來源：Google News:BNY",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaGRBcmVXRXBEMGZvSTdVRFF4QndLLWktckFfTFRtWUJ4cThBVjNXeDRXRmhtLWZFSUJhWktzNlF5YzlEdzFISXRMMlZsZWJzdERLYnRFR0JVcEUxYzFiZTdTRllibDhSeVNyaXZYdFg5MGFiOWgxRGVtaGZTLTFiQ0RyM2txN0hQMHE3bFRxVklPVV9uYmhXQnRZdVRJcXV3X1JCWTZHV2lkTDFNVTZFMDlGRUNhMEdHTW9POWFvbHhORHhDUkFUWFpzQTl1akxYZE5abFhodDBWc0Vra05lOFNpcw?oc=5",
-      "source": "Google News:BNY",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "COF",
-      "short": "COF — Capital One Financial Corporation $COF Stock: Annex Advisory Services LLC Reduces Stake…",
-      "detail": "COF\n重點：新聞\n標題：Capital One Financial Corporation $COF Stock: Annex Advisory Services LLC Reduces Stake - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxObERLMmRGYjVrQ2d3VDJSVHd1aFg1V2FwWTNVal83VEdZVFFIanpXWGdMRWRmX1BULV90al9xNHRiV25iVnVnQnB0a3lXdGdweHRRQU03cXUzdV92czB0N1BZMXZVS2dzZ1JabWxlSkhyUkJBOUprOUtMV2hmWFZja3NwMWVPMktTNmwyVWprSkJMZkl3QkF1ZWFVQ3NyVUIzd1R2SlJScmg5S…\n來源：Google News:COF",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObERLMmRGYjVrQ2d3VDJSVHd1aFg1V2FwWTNVal83VEdZVFFIanpXWGdMRWRmX1BULV90al9xNHRiV25iVnVnQnB0a3lXdGdweHRRQU03cXUzdV92czB0N1BZMXZVS2dzZ1JabWxlSkhyUkJBOUprOUtMV2hmWFZja3NwMWVPMktTNmwyVWprSkJMZkl3QkF1ZWFVQ3NyVUIzd1R2SlJScmg5SWJoOTRaNnBsMFlTY0FHY0lkbVdXUmVhUWJ1NVRxUjBtRG9aVkhaeWVfZzBoMkxkM3dSeTdn?oc=5",
-      "source": "Google News:COF",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce Inc. $CRM Holdings Lessened by Banque Pictet & Cie SA - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Holdings Lessened by Banque Pictet & Cie SA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNVGkwdmhqZzhMNzAzQVFxWDNqRC1PTzFOWXppY1BQZVVrblVodXBaS2FsY21oc1hDVW82Ny1SZVZmNzhwS0R6OVBzRDVtZ0J2R2Ryb08xb2lFcXpQQTZfWUZsc2VyWTVRNUYyLURMb3gtT1A4RVh3OXduazNIcjBVTjczR1pST3djNS1vdXhTdV9VOEJkXzR2MDdqaFZsY3ZmYmNNVTZQdVBUM…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVGkwdmhqZzhMNzAzQVFxWDNqRC1PTzFOWXppY1BQZVVrblVodXBaS2FsY21oc1hDVW82Ny1SZVZmNzhwS0R6OVBzRDVtZ0J2R2Ryb08xb2lFcXpQQTZfWUZsc2VyWTVRNUYyLURMb3gtT1A4RVh3OXduazNIcjBVTjczR1pST3djNS1vdXhTdV9VOEJkXzR2MDdqaFZsY3ZmYmNNVTZQdVBUM1J6cVV6WFluUXowdi13bnM0SHVn?oc=5",
-      "source": "Google News:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "FUTU",
-      "short": "FUTU — Futu Holdings Limited Sponsored ADR $FUTU Stock Bought by Assenagon Asset Management S.…",
-      "detail": "FUTU\n重點：新聞\n標題：Futu Holdings Limited Sponsored ADR $FUTU Stock Bought by Assenagon Asset Management S.A. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOWRNQ0t5dEF1RHBLV3FlVWhLN2M3QWYxc1BvRHRzNENqaWxRY0wyUHhySGNGUFRfTE1DanE2d09Ha1NBanF2cW5nQmRzM0tMTkFfQi1HaktUTlJPNmN0LURqaEdVbGxRLW11Y0M5X3c2MHBqalh5UHIwTWxTQzhpc0loV0o0NlpOMVY3STJ5ZklhNXB3OThxa1N5aHpyYWRsZEFDZm1PSHpnZ…\n來源：Google News:FUTU",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOWRNQ0t5dEF1RHBLV3FlVWhLN2M3QWYxc1BvRHRzNENqaWxRY0wyUHhySGNGUFRfTE1DanE2d09Ha1NBanF2cW5nQmRzM0tMTkFfQi1HaktUTlJPNmN0LURqaEdVbGxRLW11Y0M5X3c2MHBqalh5UHIwTWxTQzhpc0loV0o0NlpOMVY3STJ5ZklhNXB3OThxa1N5aHpyYWRsZEFDZm1PSHpnZUtnMHJCNXZBSGZsQnk5OEhkSzNmQVYzdG8wZDFGcFN4bGtDQ0hCLVQ3STlhdTd5dWFoVFFkWg?oc=5",
-      "source": "Google News:FUTU",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "GGB",
-      "short": "GGB — Gerdau (NYSE:GGB) Stock Rating Upgraded by Wall Street Zen - MarketBeat",
-      "detail": "GGB\n重點：新聞\n標題：Gerdau (NYSE:GGB) Stock Rating Upgraded by Wall Street Zen - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNQzg5c2QzOThRNFR0d0dJaDR2VVV2allmTTlpVktLOUl6TGxBUUdWWjlOYUdGMmRDeWVoLVB5YkFpNWRFbmVSRVcwd1lrUDlaN2I1NFBKcEZfSWhocUJiUmFLbl9BRmFXTkllcFVwRmU0cW1GOGQ3UTRjNDhQMl9IbjcwektsN0k0c2FOVVE1aVk5cjJJYVFYUDFQM29LdXl0eGRRQ1RBLThPd…\n來源：Google News:GGB",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQzg5c2QzOThRNFR0d0dJaDR2VVV2allmTTlpVktLOUl6TGxBUUdWWjlOYUdGMmRDeWVoLVB5YkFpNWRFbmVSRVcwd1lrUDlaN2I1NFBKcEZfSWhocUJiUmFLbl9BRmFXTkllcFVwRmU0cW1GOGQ3UTRjNDhQMl9IbjcwektsN0k0c2FOVVE1aVk5cjJJYVFYUDFQM29LdXl0eGRRQ1RBLThPd205WkMtRWpJQXhXR3B0alE?oc=5",
-      "source": "Google News:GGB",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "HP",
-      "short": "HP — 業績／指引：Earnings Beat Could Be A Big Test For HP Stock (HPQ) - Yahoo Finance",
-      "detail": "HP\n重點：業績／指引\n標題：Earnings Beat Could Be A Big Test For HP Stock (HPQ) - Yahoo Finance\n摘要：<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjUwTEFWbjkxYm1SWFJRSU5FcnF0cFhZSHBfV1ZKX3paZWYzM3kxamVVbng1R040ZkxZQUhTSGNpeWRrYlNwY3hrNjBfalVxNzZvQXluMnU3cWRvRm9SdVJ1U3J4S0FrMjBHWndYM1p3ZktIM1lRYTVRX1pOTVZySmdhbU1jY29YdWd0Q25zVGtwQ3RSZDI3aA?oc=5\" target=\"_blank\">…\n來源：Google News:HP",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjUwTEFWbjkxYm1SWFJRSU5FcnF0cFhZSHBfV1ZKX3paZWYzM3kxamVVbng1R040ZkxZQUhTSGNpeWRrYlNwY3hrNjBfalVxNzZvQXluMnU3cWRvRm9SdVJ1U3J4S0FrMjBHWndYM1p3ZktIM1lRYTVRX1pOTVZySmdhbU1jY29YdWd0Q25zVGtwQ3RSZDI3aA?oc=5",
-      "source": "Google News:HP",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "INTU",
-      "short": "INTU — Intuit Inc. $INTU Shares Newly Bought by Annex Advisory Services LLC - MarketBeat",
-      "detail": "INTU\n重點：新聞\n標題：Intuit Inc. $INTU Shares Newly Bought by Annex Advisory Services LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNNWt5YWFEa3hlVDJMN3laMUJvdFZXbXR1YTZJaHJqNlpTazZaVFJWZ2JGRmNEb2lLRi1feVJEU21NQjhRX1BOUFBKSHNGTk5GWlpXWG1rbFF0X0k5LWZzV2ROekZkQi1uS3J4UHJGd1N0c3FPODdrREdQb3JqV3J4SXg0a0Q1WUVSa0s0RmpOMEZyUXFHWEw1UEktZy1keTE3blM1dFlXeVVBM…\n來源：Google News:INTU",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNWt5YWFEa3hlVDJMN3laMUJvdFZXbXR1YTZJaHJqNlpTazZaVFJWZ2JGRmNEb2lLRi1feVJEU21NQjhRX1BOUFBKSHNGTk5GWlpXWG1rbFF0X0k5LWZzV2ROekZkQi1uS3J4UHJGd1N0c3FPODdrREdQb3JqV3J4SXg0a0Q1WUVSa0s0RmpOMEZyUXFHWEw1UEktZy1keTE3blM1dFlXeVVBMEVfaW8tQlFfckNCQXVvWlRCUGFVbjl2RHpJM0E?oc=5",
-      "source": "Google News:INTU",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "KSS",
-      "short": "KSS — Kohl's Corporation $KSS Position Boosted by Annex Advisory Services LLC - MarketBeat",
-      "detail": "KSS\n重點：新聞\n標題：Kohl's Corporation $KSS Position Boosted by Annex Advisory Services LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOSGxOWFFlTnd5dzNIVEhaam01NzNNNEIzQ3lHMXNDallXZ0lMOHB2RjhRUktael9NQXVDVVZrdlFaX21Heng2RUt1MHFvMVRNU29RU1poenJzNTVSNWR5SXd4VnV5U05SMUstYkp2Vl9yYjBjOFJCcjhZZXZtdi1Ra2g0dHpDY1BaTk1nazA0Y2hIOGFKVVZTQ19zTXRhZ1hQaFNSUFFRVUVwM…\n來源：Google News:KSS",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSGxOWFFlTnd5dzNIVEhaam01NzNNNEIzQ3lHMXNDallXZ0lMOHB2RjhRUktael9NQXVDVVZrdlFaX21Heng2RUt1MHFvMVRNU29RU1poenJzNTVSNWR5SXd4VnV5U05SMUstYkp2Vl9yYjBjOFJCcjhZZXZtdi1Ra2g0dHpDY1BaTk1nazA0Y2hIOGFKVVZTQ19zTXRhZ1hQaFNSUFFRVUVwM3BRVG1GMDR5NWZWeC1NajdWOWllYlJWVHgwdmVRcTRn?oc=5",
-      "source": "Google News:KSS",
+      "symbol": "CCK",
+      "short": "CCK — 業績／指引：Crown Holdings (CCK) To Report Earnings Tomorrow: Here Is What To Expect",
+      "detail": "CCK\n重點：業績／指引\n標題：Crown Holdings (CCK) To Report Earnings Tomorrow: Here Is What To Expect\n摘要：Metal packaging products manufacturer Crown Holdings (NYSE:CCK) will be reporting earnings this Monday after the bell. Here’s what to expect.\n來源：Yahoo Finance:CCK",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crown-holdings-cck-report-earnings-033343005.html?.tsrc=rss",
+      "source": "Yahoo Finance:CCK",
       "kind": "news"
     }
   ]
