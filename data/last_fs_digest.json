@@ -1,115 +1,25 @@
 {
-  "title": "FS新聞 10-18 13:51",
-  "list_name": "FirstScreen_2026-10-18_135130_comma.txt",
-  "created_at": "2026-10-18T13:51:38.895534+00:00",
+  "title": "FS新聞 10-19 04:57",
+  "list_name": "FirstScreen_2026-10-19_045748_comma.txt",
+  "created_at": "2026-10-19T04:57:57.400765+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "ANET",
-      "short": "ANET — Arista Networks, Inc. $ANET Stock Bought by Frank Rimerman Advisors LLC - MarketBeat",
-      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Stock Bought by Frank Rimerman Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYlJ1bzJBSzYxT2JUeG90WUlyQkZVMnRlajFFdUlaYWwyTmthU05icW1rTkVnbEZiQThGUXFHWWZPVkhTSmV5V3AxLXRDY0I1NlhOcjk4Zkh3V0NmQkppSjlwbWQ0ZXhfTkEyaGxZSDlFZHNyYXdiNG0wOUZXV1BEWm1fUXJSZUFfS2ZwMUwzaDRZakh3LXNHcWo4TS1QZHZPaG1Cb1B5WXRKa…\n來源：Google News:ANET\n其他：Arista Networks, Inc. $ANET Stock Bought by Birch Hill Inve…; Arista Networks, Inc. $ANET Stock Holdings Raised by Forbes…",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYlJ1bzJBSzYxT2JUeG90WUlyQkZVMnRlajFFdUlaYWwyTmthU05icW1rTkVnbEZiQThGUXFHWWZPVkhTSmV5V3AxLXRDY0I1NlhOcjk4Zkh3V0NmQkppSjlwbWQ0ZXhfTkEyaGxZSDlFZHNyYXdiNG0wOUZXV1BEWm1fUXJSZUFfS2ZwMUwzaDRZakh3LXNHcWo4TS1QZHZPaG1Cb1B5WXRKamdiUzNocW9JMFBxOUZzbTRWby1CRDVsekZoMGExQg?oc=5",
-      "source": "Google News:ANET",
+      "symbol": "KSS",
+      "short": "KSS — 業績／指引：Kohl's (KSS) Stock Still Looks Like A Bargain On Earnings",
+      "detail": "KSS\n重點：業績／指引\n標題：Kohl's (KSS) Stock Still Looks Like A Bargain On Earnings\n摘要：Kohl's has quietly put in a sharp rebound. The real question for anyone looking at the shares today is whether that higher price can be backed up by its earnings power. With the retailer trading around US$21.59, the gap between recent share performance and the profit engine unde…\n來源：Yahoo Finance:KSS\n其他：Kohl's (KSS) Stock Still Looks Like A Bargain On Earnings -…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kohls-kss-stock-still-looks-220802616.html?.tsrc=rss",
+      "source": "Yahoo Finance:KSS",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "FTNT",
-      "short": "FTNT — Fortinet, Inc. $FTNT Stock Position Lifted by TD Waterhouse Canada Inc. - MarketBeat",
-      "detail": "FTNT\n重點：新聞\n標題：Fortinet, Inc. $FTNT Stock Position Lifted by TD Waterhouse Canada Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOUmNKMlZSdFpMdUJGTlVMQm9QcF9FS05IeTc4MTRQajJoOTdvRVZiaTJRUjhWRURXZVNCdkNleTdBWjJ1RUlxd0hMQVhaYzRzdk9TdVlfd0VKUF80MFM2RVFWenNMbUN0X05yS3JUSWNxa25KZlNRVzh3VVZ0OVdyenlCRm93VjUtMnhpOFV5MFdXMnhzcldyVGJGVGpfaGtHd3pmdzFmNy0yW…\n來源：Google News:FTNT\n其他：Fortinet, Inc. $FTNT Stock: Cyndeo Wealth Partners LLC Grow…; Fortinet, Inc. $FTNT Stock Acquired by Absolute Capital Man…",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUmNKMlZSdFpMdUJGTlVMQm9QcF9FS05IeTc4MTRQajJoOTdvRVZiaTJRUjhWRURXZVNCdkNleTdBWjJ1RUlxd0hMQVhaYzRzdk9TdVlfd0VKUF80MFM2RVFWenNMbUN0X05yS3JUSWNxa25KZlNRVzh3VVZ0OVdyenlCRm93VjUtMnhpOFV5MFdXMnhzcldyVGJGVGpfaGtHd3pmdzFmNy0yWmVZbXZuZnpwSEV4YjRoZmxHWm5yS0p1dXhPVUxv?oc=5",
-      "source": "Google News:FTNT",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce Inc. $CRM Stock: SteelPeak Wealth LLC Grows Holdings - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stock: SteelPeak Wealth LLC Grows Holdings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQTml2cXZqYmk2SUVxZVI0cEJsZ01rb0Q3S2dIeDZ1a1BoemtDY1FUbHhhTk5OWkRvWC1Zc2czNFJUbGdsN0pPa2hLZkZMMTRmQ2p0OFBlbmRLc3BRbVRtSTFJY0Z1ZV9xQ1FWRVFfdjVGeW9WZnd1RHF2SWdabHBXLTMyMk9kSi1uT25BV1RjS081NGY3NXNMTzBURjZ6VUxpWGRTVjBzV0RSc…\n來源：Google News:CRM\n其他：Salesforce Inc. $CRM Stock Position Trimmed by TD Waterhous…",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTml2cXZqYmk2SUVxZVI0cEJsZ01rb0Q3S2dIeDZ1a1BoemtDY1FUbHhhTk5OWkRvWC1Zc2czNFJUbGdsN0pPa2hLZkZMMTRmQ2p0OFBlbmRLc3BRbVRtSTFJY0Z1ZV9xQ1FWRVFfdjVGeW9WZnd1RHF2SWdabHBXLTMyMk9kSi1uT25BV1RjS081NGY3NXNMTzBURjZ6VUxpWGRTVjBzV0RScDJyYmZkbEZROVJCYVVsbFVhQi1B?oc=5",
-      "source": "Google News:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "EL",
-      "short": "EL — The Estee Lauder Companies Inc. $EL Stock: Banque Pictet & Cie SA Reduces Holdings - Ma…",
-      "detail": "EL\n重點：新聞\n標題：The Estee Lauder Companies Inc. $EL Stock: Banque Pictet & Cie SA Reduces Holdings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWG9fOEVMbnJMX2tMRV9CbUhVdmJhaTNUcXZiMXA5LXhNeG9JX3l5R3NyX0wybl9ZQlRuVGtYSEtuNG4xXzNxMUxibGRGT2RMMmVVeEFRM3gyREVsSW12R2xEcU9KdE5DOEpVWVdSSlduUWZ6YWxNMHA3ZjNNQ0lhSXI0RUN5NGY4YkJQS3dBSU5BZENtTm0xLUJPQWZMbF8yZ0VCdDBvd3YxN…\n來源：Google News:EL\n其他：The Estee Lauder Companies Inc. $EL Stock Sold by Curated W…",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWG9fOEVMbnJMX2tMRV9CbUhVdmJhaTNUcXZiMXA5LXhNeG9JX3l5R3NyX0wybl9ZQlRuVGtYSEtuNG4xXzNxMUxibGRGT2RMMmVVeEFRM3gyREVsSW12R2xEcU9KdE5DOEpVWVdSSlduUWZ6YWxNMHA3ZjNNQ0lhSXI0RUN5NGY4YkJQS3dBSU5BZENtTm0xLUJPQWZMbF8yZ0VCdDBvd3YxNlN2dlpISzRFbWhTREpoZ2E0cFFCdXZKVEFGWXRqQnh5YjQ1bUY2b1hIRA?oc=5",
-      "source": "Google News:EL",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "INTU",
-      "short": "INTU — Intuit Inc. $INTU Shares Sold by Vontobel Holding Ltd. - MarketBeat",
-      "detail": "INTU\n重點：新聞\n標題：Intuit Inc. $INTU Shares Sold by Vontobel Holding Ltd. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPUEtwTmdIaFVIcU41VjQzZWFGdEFQNUxBdE0xQXVVRDNqaVJ4b3BGTENXLWJaTEVMYm1Mdk1qZTFSNDRsN282aVhCRF9Kdm0xNVZqOVAxRGRMZF9KeGdwU2ZSNHZPT2VwTGNkdkk5Zlp2OWFRbmg2SHR5N1Qtc1BqYWFXQVlITUVhTEVrd3hmeGFELXZHWUxmeU80aU1TZmJVVDVUYnVSdWt6W…\n來源：Google News:INTU\n其他：INTU Stock In Focus: Jefferies Sees Recovery Opportunity De…",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUEtwTmdIaFVIcU41VjQzZWFGdEFQNUxBdE0xQXVVRDNqaVJ4b3BGTENXLWJaTEVMYm1Mdk1qZTFSNDRsN282aVhCRF9Kdm0xNVZqOVAxRGRMZF9KeGdwU2ZSNHZPT2VwTGNkdkk5Zlp2OWFRbmg2SHR5N1Qtc1BqYWFXQVlITUVhTEVrd3hmeGFELXZHWUxmeU80aU1TZmJVVDVUYnVSdWt6Wk9CaUc0WHlR?oc=5",
-      "source": "Google News:INTU",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "MRK",
-      "short": "MRK — Merck & Co., Inc. $MRK Stock: Birch Hill Investment Advisors LLC Cuts Holdings - Market…",
-      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Stock: Birch Hill Investment Advisors LLC Cuts Holdings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQNkZ0WW9nV1RuQlhGaHQ0LXp4ejZQOF9jcjF1SW04cmNvclFtQWJvbXVNcV8xZ0ZqeGFJRUZ0UFJRQnloVXVNNGZ5NUdOWmQ3cUVDMjBRY3VxRkxtcjJVcHgzV2Y3NmRKWFpjclplRkQ3QmJaa2pPcEcyN3FLYjhQdlYzUGlNMnhqdlJ2bkZscjdIUUhNaUFkNzI1RDRCR0kwd01OcHk2aW1PS…\n來源：Google News:MRK\n其他：Merck & Co., Inc. $MRK Stock: 1834 Investment Advisors Co. …",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNkZ0WW9nV1RuQlhGaHQ0LXp4ejZQOF9jcjF1SW04cmNvclFtQWJvbXVNcV8xZ0ZqeGFJRUZ0UFJRQnloVXVNNGZ5NUdOWmQ3cUVDMjBRY3VxRkxtcjJVcHgzV2Y3NmRKWFpjclplRkQ3QmJaa2pPcEcyN3FLYjhQdlYzUGlNMnhqdlJ2bkZscjdIUUhNaUFkNzI1RDRCR0kwd01OcHk2aW1PSUk2UXJNVkE5S0F5Z3IzYTF0WDZadzV3RTVEY0NRQW5hU3k?oc=5",
-      "source": "Google News:MRK",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "OXY",
-      "short": "OXY — Occidental Petroleum Corporation $OXY Stock: Counterpoint Mutual Funds LLC Grows Positi…",
-      "detail": "OXY\n重點：新聞\n標題：Occidental Petroleum Corporation $OXY Stock: Counterpoint Mutual Funds LLC Grows Position - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNU9kQjJlakl5SmxtR3dna3psZ1JsVEFBNVZ2cFF4Ri12RmZfZnpUUTBvM09QNWR2WThid3lRb2podTVTMUdVR1JUdFFlTEtXemo4a2ZJVmhNT3c0eTJsZXZRMEtPWE4zOElGY1RRcFVlUXZJeUF6VHRfTWJuMHFjY0tPSS1KeXI2X3JjeG1PdHBLOEtYakVUMmZzUERyVWtmODduT1pBZ25kZ…\n來源：Google News:OXY\n其他：Ardent Capital Management Inc. Acquires New Position in Occ…",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNU9kQjJlakl5SmxtR3dna3psZ1JsVEFBNVZ2cFF4Ri12RmZfZnpUUTBvM09QNWR2WThid3lRb2podTVTMUdVR1JUdFFlTEtXemo4a2ZJVmhNT3c0eTJsZXZRMEtPWE4zOElGY1RRcFVlUXZJeUF6VHRfTWJuMHFjY0tPSS1KeXI2X3JjeG1PdHBLOEtYakVUMmZzUERyVWtmODduT1pBZ25kZThvRFRqOUxtdGdvTlJZa2xSbTkzbFpFQWZXRERzU3VyMm53ZUpjMzdEemxuTVhKWGF5ek5FLWtn?oc=5",
-      "source": "Google News:OXY",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "TGT",
-      "short": "TGT — Target Corporation $TGT Stock: Vontobel Holding Ltd. Raises Holdings - MarketBeat",
-      "detail": "TGT\n重點：新聞\n標題：Target Corporation $TGT Stock: Vontobel Holding Ltd. Raises Holdings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOOGZBS2R0ajYyRHhMYWEzUmJfNU9qREZVUEFfWnhXQXQ2bGpwTGVSdi1IU0RETHNrUnhYSTk0azVpT2xMTmdxX3dXSklZdkQ4N2VTSUhCWERxVjdXT3dLcjBTeFNoajRHVVEzdzVXWnN0a2tHMXV6YjRIbmVaU2t6T0hkMVdoZ0xDTDlZSGZEcl9EMGhoeW9WVnhWUlJxblh3S3l1SjFZeTV6T…\n來源：Google News:TGT\n其他：Target Corporation $TGT Shares Sold by 1834 Investment Advi…",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOGZBS2R0ajYyRHhMYWEzUmJfNU9qREZVUEFfWnhXQXQ2bGpwTGVSdi1IU0RETHNrUnhYSTk0azVpT2xMTmdxX3dXSklZdkQ4N2VTSUhCWERxVjdXT3dLcjBTeFNoajRHVVEzdzVXWnN0a2tHMXV6YjRIbmVaU2t6T0hkMVdoZ0xDTDlZSGZEcl9EMGhoeW9WVnhWUlJxblh3S3l1SjFZeTV6TkhDaUp2d21MMUoyemRtM3B6cWhudHotV213?oc=5",
-      "source": "Google News:TGT",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "BHP",
-      "short": "BHP — 66,096 Shares of BHP Group Limited Sponsored ADR $BHP Acquired by SteelPeak Wealth LLC …",
-      "detail": "BHP\n重點：新聞\n標題：66,096 Shares of BHP Group Limited Sponsored ADR $BHP Acquired by SteelPeak Wealth LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNER1QlZWWThhQ3AzSGRnd1g1dVBnY2loYTljS0ZWOHVNdWpPeFVWaGpJVjdfc2FlNDQ5SG1HTVdxYWhtdm5GVzVDZGp6LXVuVXdZeE9LWVhZNHhFU3dTc2FZSGRsSVRkUm9jU3JrMFd1dzVwcTZOM2haTS14Z21YRktieEZQRThmVHE1UlRHa0pkWWZjWngxcHhQaG5RTmdSZnZmWjYtUFl1O…\n來源：Google News:BHP",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNER1QlZWWThhQ3AzSGRnd1g1dVBnY2loYTljS0ZWOHVNdWpPeFVWaGpJVjdfc2FlNDQ5SG1HTVdxYWhtdm5GVzVDZGp6LXVuVXdZeE9LWVhZNHhFU3dTc2FZSGRsSVRkUm9jU3JrMFd1dzVwcTZOM2haTS14Z21YRktieEZQRThmVHE1UlRHa0pkWWZjWngxcHhQaG5RTmdSZnZmWjYtUFl1OGlwT0g4MnVYdjNwOTZxSl9xbzNnYmcxNTBlbVptbWNsdWdqODB1eVRYN2RlV0o1VFJSSVE?oc=5",
-      "source": "Google News:BHP",
-      "kind": "news"
-    },
-    {
-      "n": 10,
       "symbol": "COF",
-      "short": "COF — 6,844 Capital One Financial Corporation $COF Shares Purchased by Frank Rimerman Advisor…",
-      "detail": "COF\n重點：新聞\n標題：6,844 Capital One Financial Corporation $COF Shares Purchased by Frank Rimerman Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYm5BYzE3bjBGYnFmV2dOcEhucG1OMFFGd3IxMjJvN3U2ZnNDUzBRVDVxRTBBM3YyVWIydG9jSWwtTTdqSzFuM3lXT05pOVgzVHBmVzh3ZXE3cV95N2V3UzV2NlBUdE1zVUNQZlg1WFNXd1RvaWdweE9YdThhMVJaSFRoZTFmcnlOaThBZUNwdlBra3FqZkxZbmx3b2dhaENpV2kzYnA2dURte…\n來源：Google News:COF",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYm5BYzE3bjBGYnFmV2dOcEhucG1OMFFGd3IxMjJvN3U2ZnNDUzBRVDVxRTBBM3YyVWIydG9jSWwtTTdqSzFuM3lXT05pOVgzVHBmVzh3ZXE3cV95N2V3UzV2NlBUdE1zVUNQZlg1WFNXd1RvaWdweE9YdThhMVJaSFRoZTFmcnlOaThBZUNwdlBra3FqZkxZbmx3b2dhaENpV2kzYnA2dURteThKcFFZR3RlZnhVOGl2SlgzNXFfSGJ3SVFYWE1VNnlrWXBPM2VERS1fOVg0UkxqVVpnSjhnMFJjSE40QQ?oc=5",
-      "source": "Google News:COF",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "FUTU",
-      "short": "FUTU — Futu Holdings Limited Sponsored ADR $FUTU Stock Sold by Vontobel Holding Ltd. - MarketB…",
-      "detail": "FUTU\n重點：新聞\n標題：Futu Holdings Limited Sponsored ADR $FUTU Stock Sold by Vontobel Holding Ltd. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNnNIMWlpNFZaVmdtMzdGUmFMZExjX3otTzhWWjhyMHlPeVhEUUV2NnozSGdCdHltVy1uREw2TXZ0b2IxMVp3MS02NzBRWFgxb1pDVGtWRWR6ZkQ2T0xpb0QtOTJwNXlOTVFaNlhYenA0emMtdFBnei1CMXcyaTVWUXlzakY3SXZZd1RmcFJqYl9aSUtnWS1VaGgzYTJFbnlVMXhmZUh4djd6S…\n來源：Google News:FUTU",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNnNIMWlpNFZaVmdtMzdGUmFMZExjX3otTzhWWjhyMHlPeVhEUUV2NnozSGdCdHltVy1uREw2TXZ0b2IxMVp3MS02NzBRWFgxb1pDVGtWRWR6ZkQ2T0xpb0QtOTJwNXlOTVFaNlhYenA0emMtdFBnei1CMXcyaTVWUXlzakY3SXZZd1RmcFJqYl9aSUtnWS1VaGgzYTJFbnlVMXhmZUh4djd6S3V2bkhLMXFiY2MzSm5raUxYTXRUenZSRy1qYi1CaXZDQk1nSk9RalE?oc=5",
-      "source": "Google News:FUTU",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "GPC",
-      "short": "GPC — Genuine Parts Company (NYSE:GPC) Stock Has Consensus Target Price of $146.00 According …",
-      "detail": "GPC\n重點：新聞\n標題：Genuine Parts Company (NYSE:GPC) Stock Has Consensus Target Price of $146.00 According to Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcDZ0bVpZeVE0ckhVeFhxN1ZhdWZUeU5hSk1CQ3BxaG1MV3k5NHAzbFpCTTVVaHlPY3YtMlloUzVCR1R5MmNadUZqWHZ6NUNnQXJqa0dWbTkzMXhiYVg5ZU1wTEl4YTVNTWRKUGh6QlRQMlRKZlRGeTF5dDRRaDhxTkZ1WUlMMHg5anYtWk1tWHFIN2hNNFFxODlKNEVYOVFhS1lCcS1JNVNxN…\n來源：Google News:GPC",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcDZ0bVpZeVE0ckhVeFhxN1ZhdWZUeU5hSk1CQ3BxaG1MV3k5NHAzbFpCTTVVaHlPY3YtMlloUzVCR1R5MmNadUZqWHZ6NUNnQXJqa0dWbTkzMXhiYVg5ZU1wTEl4YTVNTWRKUGh6QlRQMlRKZlRGeTF5dDRRaDhxTkZ1WUlMMHg5anYtWk1tWHFIN2hNNFFxODlKNEVYOVFhS1lCcS1JNVNxNDBZbi00YWI2MWgwdXE0VmFJTUl2SktRWW8xRXFLeTFoWGpNTDhwS3dWZTBIQW5CWWtWS0Uya2MtM0NJTlY5SmRxa1VVSQ?oc=5",
-      "source": "Google News:GPC",
+      "short": "COF — 業績／指引：Capital One (COF) Q3 Earnings: What To Expect",
+      "detail": "COF\n重點：業績／指引\n標題：Capital One (COF) Q3 Earnings: What To Expect\n摘要：Financial services company Capital One (NYSE:COF) will be reporting results this Tuesday after market hours. Here’s what investors should know.\n來源：Yahoo Finance:COF",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/capital-one-cof-q3-earnings-043817620.html?.tsrc=rss",
+      "source": "Yahoo Finance:COF",
       "kind": "news"
     }
   ]
