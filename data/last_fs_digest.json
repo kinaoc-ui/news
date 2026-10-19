@@ -1,20 +1,56 @@
 {
-  "title": "FS新聞 10-19 10:29",
-  "list_name": "FirstScreen_2026-10-19_102938_comma.txt",
-  "created_at": "2026-10-19T10:29:48.392095+00:00",
+  "title": "FS新聞 10-19 16:52",
+  "list_name": "FirstScreen_2026-10-19_165210_comma.txt",
+  "created_at": "2026-10-19T16:52:18.529575+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "INTU",
-      "short": "INTU — Intuit Inc. $INTU Stock: TD Waterhouse Canada Inc. Increases Position - MarketBeat",
-      "detail": "INTU\n重點：新聞\n標題：Intuit Inc. $INTU Stock: TD Waterhouse Canada Inc. Increases Position - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlVYb2trcHg5cjJvWW5waEZEWHpwbWFGT2pUYXhuejVtdF9teEdaTFdkRC1GancwYVVRSDZtLWlaRGc3VGRLd0dVYy0zajRRd05RbXBrNDNBcTloTzFiVi15YVp5Y3VpMlYwLUt2c2M3OVdjUU1yWFQ0Y1F1aHBLcjFzTmM5NEFmZHM3OW44aWJ2QUFNdVl1QTNBQUh0Q1NBQkc3bGFPVG00T…\n來源：Google News:INTU\n其他：7,913 Intuit Inc. $INTU Shares Sold by Cyndeo Wealth Partne…",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlVYb2trcHg5cjJvWW5waEZEWHpwbWFGT2pUYXhuejVtdF9teEdaTFdkRC1GancwYVVRSDZtLWlaRGc3VGRLd0dVYy0zajRRd05RbXBrNDNBcTloTzFiVi15YVp5Y3VpMlYwLUt2c2M3OVdjUU1yWFQ0Y1F1aHBLcjFzTmM5NEFmZHM3OW44aWJ2QUFNdVl1QTNBQUh0Q1NBQkc3bGFPVG00T1JYZXl2MmVBSWl2bjZ6Y3R1TXNieEwwWDZi?oc=5",
-      "source": "Google News:INTU",
+      "symbol": "CRM",
+      "short": "CRM — Salesforce Inc. $CRM Holdings Lifted by Generali Investments Management Co LLC - Market…",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Holdings Lifted by Generali Investments Management Co LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY01MTUtGcmNxamp1TUtBdVltQjRvZmh6dUFfZE93UG1FZzA3S1VBUEdnYVBQTU9CQ0R1aHc1aWQyM1I1LVJpWlQ1LVNUWDZzallGR2VSNUxBbDVNWHA1cXdpVEQtWWhOZW1xY1pxSVd1ZlJmT2RKQVhmYkNWQVJiYldfa1dzeUlOSWptR0hlWkYtU2pzZEZTQnJpS1cwUmE1ZFhtU0psNWZMT…\n來源：Google News:CRM\n其他：Learn Why The Bull Case For Salesforce (CRM) Could Change F…",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY01MTUtGcmNxamp1TUtBdVltQjRvZmh6dUFfZE93UG1FZzA3S1VBUEdnYVBQTU9CQ0R1aHc1aWQyM1I1LVJpWlQ1LVNUWDZzallGR2VSNUxBbDVNWHA1cXdpVEQtWWhOZW1xY1pxSVd1ZlJmT2RKQVhmYkNWQVJiYldfa1dzeUlOSWptR0hlWkYtU2pzZEZTQnJpS1cwUmE1ZFhtU0psNWZMTEY0bTh3OFBvY1RldXNXVmR6YU53N2pMZmZDY0NHSjBPcURTc3hpTEI0?oc=5",
+      "source": "Google News:CRM",
       "kind": "news"
     },
     {
       "n": 2,
+      "symbol": "EL",
+      "short": "EL — 業績／指引：Will Estee Lauder (EL) Beat Estimates Again in Its Next Earnings Report?",
+      "detail": "EL\n重點：業績／指引\n標題：Will Estee Lauder (EL) Beat Estimates Again in Its Next Earnings Report?\n摘要：Estee Lauder (EL) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.\n來源：Yahoo Finance:EL\n其他：Jefferies Financial Group Forecasts Strong Price Appreciati…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/estee-lauder-el-beat-estimates-151003542.html?.tsrc=rss",
+      "source": "Yahoo Finance:EL",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "INTU",
+      "short": "INTU — AI相關、業績／指引：Intuit to Acquire Sequence to Boost AI-Powered Mid-Market Offerings",
+      "detail": "INTU\n重點：AI相關、業績／指引\n標題：Intuit to Acquire Sequence to Boost AI-Powered Mid-Market Offerings\n摘要：INTU is set to acquire Sequence to enhance AI-powered revenue management, automate complex billing workflows and strengthen its mid-market ERP capabilities.\n來源：Yahoo Finance:INTU\n其他：Intuit Inc. $INTU Stock: TD Waterhouse Canada Inc. Increase…",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intuit-acquire-sequence-boost-ai-122000216.html?.tsrc=rss",
+      "source": "Yahoo Finance:INTU",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "MRK",
+      "short": "MRK — Merck’s 2.4% Dividend Yield: A Reliable Income Stream or a Risky Bet on Recovery?",
+      "detail": "MRK\n重點：新聞\n標題：Merck’s 2.4% Dividend Yield: A Reliable Income Stream or a Risky Bet on Recovery?\n摘要：Merck & Co., Inc. (NYSE:MRK) stands tall in the pharmaceutical world, thanks to its rich portfolio of patented medicines, strong ties with healthcare providers, global reach, and decades of investment in drug research. The crown jewel of its strategy is the oncology powerhouse K…\n來源：Yahoo Finance:MRK\n其他：13,487 Merck & Co., Inc. $MRK Shares Sold by Generali Inves…",
+      "url": "https://finance.yahoo.com/healthcare/articles/merck-2-4-dividend-yield-141630505.html?.tsrc=rss",
+      "source": "Yahoo Finance:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "OXY",
+      "short": "OXY — 業績／指引：Surging Earnings Estimates Signal Upside for Occidental (OXY) Stock",
+      "detail": "OXY\n重點：業績／指引\n標題：Surging Earnings Estimates Signal Upside for Occidental (OXY) Stock\n摘要：Occidental Petroleum (OXY) shares have started gaining and might continue moving higher in the near term, as indicated by solid earnings estimate revisions.\n來源：Yahoo Finance:OXY\n其他：Why Is Occidental Petroleum (NYSE:OXY) In Focus As Delevera…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/surging-earnings-estimates-signal-upside-152002954.html?.tsrc=rss",
+      "source": "Yahoo Finance:OXY",
+      "kind": "news"
+    },
+    {
+      "n": 6,
       "symbol": "A",
       "short": "A — If a Stock Market Crash Is Coming, History Says This 1 Strategy Has a Perfect Track Rec…",
       "detail": "A\n重點：新聞\n標題：If a Stock Market Crash Is Coming, History Says This 1 Strategy Has a Perfect Track Record - Yahoo Finance\n摘要：<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOSklQQUZjRnVsTXQ1R2szMmR1TW9kY1dwak5MRTVvcnBiQS1vVXFlS2pHOGNhd2NjMUxsbTlBTnFmcEozMW9iTFgzOGx4b25OT1l3bWd4ZWVEM3Y2OTR6enlZcVN6d2RmTzQ3ODQxbVdrckZQVmwzQkJFMi1DVW1ra05GaXZCcEZDQXhYZjJkcWoyUUZ3RUlzTUNjaDE5aEk?oc=5\" target=…\n來源：Google News:A",
@@ -23,7 +59,7 @@
       "kind": "news"
     },
     {
-      "n": 3,
+      "n": 7,
       "symbol": "ANET",
       "short": "ANET — Arista Networks, Inc. $ANET Shares Purchased by IFP Advisors Inc - MarketBeat",
       "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Shares Purchased by IFP Advisors Inc - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQN3RhVEg0TlFuMXdZV0dfWU1ic2tyMTQ3YVJFb3I3YlZlbjMxUVJENFNaU1gyd1cyaWZZUl8weHJmZzB4OHFSblBlMTBsNXZtMHlWMG5MOGQ2VmVLZ2FITEhvQlZLWUV1OVlvVUdPbWZFdzhjNzdSX21IdkhiRVF0OUg2TDNjTkw4X1JuMUpUZmE5VzhMZlZjZ1ZuVVBQenFCQlZzMFlJZDRnQ…\n來源：Google News:ANET",
@@ -32,16 +68,34 @@
       "kind": "news"
     },
     {
-      "n": 4,
-      "symbol": "BKNG",
-      "short": "BKNG — Booking Holdings Inc. $BKNG Stock Purchased by TD Waterhouse Canada Inc. - MarketBeat",
-      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Stock Purchased by TD Waterhouse Canada Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOS01CVzlSTExaZTFaVkk5cjl4VFpaaHRfenROb1pONkNJa21zUFF2dW9vT3BWQzRHUmhmWTgwTXNKbHYyUkdPRmJxYlZTdzhPTUlidnQ4VWc0SUdPX0dXVXpLa3RxTkxtUGgxdHZCZ3dFR2Q2SUxrUjZrOUJqa3ZvVVlDbkR2Szd5UmZKOW96UXRRb2MzMkpxZFFLRFQwdW1XUVYxQWE4OGl2T…\n來源：Google News:BKNG",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS01CVzlSTExaZTFaVkk5cjl4VFpaaHRfenROb1pONkNJa21zUFF2dW9vT3BWQzRHUmhmWTgwTXNKbHYyUkdPRmJxYlZTdzhPTUlidnQ4VWc0SUdPX0dXVXpLa3RxTkxtUGgxdHZCZ3dFR2Q2SUxrUjZrOUJqa3ZvVVlDbkR2Szd5UmZKOW96UXRRb2MzMkpxZFFLRFQwdW1XUVYxQWE4OGl2Ti1lSjdHWldZTXBqbG5qMHF2SFU4aVh2ZzZDV3NRNEx3?oc=5",
-      "source": "Google News:BKNG",
+      "n": 8,
+      "symbol": "BHP",
+      "short": "BHP — 業績／指引：BHP stock: At 21.89 times earnings, BHP stock trades in New York - ad-hoc-news.de",
+      "detail": "BHP\n重點：業績／指引\n標題：BHP stock: At 21.89 times earnings, BHP stock trades in New York - ad-hoc-news.de\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUGJia0o2UVRJZ0ZGNjFLV1NQNjhfTVNhU0oxUFQ2T3V1cUxVbloxdUxEUHFkWFhNbnJhNWJtOVhDNENsbjk1NG1uRkRDclFxaFR3Sk4zV1NtaFplbXNRVHhQbDNrd2wwTTRzSE5NXzVEakhsLTFHUF9Wb3RHRW5xZHhpZUJaNlI1Nmt5RU44Qnd1a05nSE1adU15TC1YY1JjY2xadlFXM0F6a…\n來源：Google News:BHP",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUGJia0o2UVRJZ0ZGNjFLV1NQNjhfTVNhU0oxUFQ2T3V1cUxVbloxdUxEUHFkWFhNbnJhNWJtOVhDNENsbjk1NG1uRkRDclFxaFR3Sk4zV1NtaFplbXNRVHhQbDNrd2wwTTRzSE5NXzVEakhsLTFHUF9Wb3RHRW5xZHhpZUJaNlI1Nmt5RU44Qnd1a05nSE1adU15TC1YY1JjY2xadlFXM0F6a05RZ2FadEhtUGlDdjlHY3NTVVVxVWZTMlE?oc=5",
+      "source": "Google News:BHP",
       "kind": "news"
     },
     {
-      "n": 5,
+      "n": 9,
+      "symbol": "BILL",
+      "short": "BILL — AI相關：BILL Launches New Suite of AI Capabilities to Put Finance Teams in Control of AI and Pr…",
+      "detail": "BILL\n重點：AI相關\n標題：BILL Launches New Suite of AI Capabilities to Put Finance Teams in Control of AI and Protect Every Dollar\n摘要：SAN JOSE, Calif., October 19, 2026--BILL (NYSE: BILL), the intelligent finance platform trusted by nearly 500,000 businesses to manage, move, and maximize their money, today announced new agentic capabilities designed to give finance teams greater control and confidence in how A…\n來源：Yahoo Finance:BILL",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bill-launches-suite-ai-capabilities-125500206.html?.tsrc=rss",
+      "source": "Yahoo Finance:BILL",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "BKNG",
+      "short": "BKNG — AI相關：Booking Holdings Inc. (BKNG) Is Building Its Own AI Agent. Can Cash Flow Defend the Mul…",
+      "detail": "BKNG\n重點：AI相關\n標題：Booking Holdings Inc. (BKNG) Is Building Its Own AI Agent. Can Cash Flow Defend the Multiple?\n摘要：Booking Holdings Inc. (NASDAQ:BKNG) is no longer only defending its travel marketplace from rival online agencies. It must also establish where its economics fit when artificial-intelligence agents can search for hotels and complete bookings for customers. On October 14, the com…\n來源：Yahoo Finance:BKNG",
+      "url": "https://finance.yahoo.com/technology/ai/articles/booking-holdings-inc-bkng-building-153121967.html?.tsrc=rss",
+      "source": "Yahoo Finance:BKNG",
+      "kind": "news"
+    },
+    {
+      "n": 11,
       "symbol": "BNY",
       "short": "BNY — Bank of New York Mellon Corporation $BNY Shares Bought by Robertson Stephens Wealth Man…",
       "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon Corporation $BNY Shares Bought by Robertson Stephens Wealth Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMkltM0lDZ245VXNfTTZPcjJXbklJMjRBSDlBa3RyTEQyb2VhVkdzc1M5LWI5NHRxbVM0aXB1Qmp6c0xhQndMM0VKV0ZxR2FfMnAzT0syVkZxQ3Blb3d2Q1RnMTNMVHNvTEJmVDBlbE9iTGdOWlYyWXBWaVl6UWQ1WDVDeHV6LUpDSWwzYk9NdW9oS2thR1V5Z2RiektDNk51ZmMtbVpTZGFxM…\n來源：Google News:BNY",
@@ -50,66 +104,12 @@
       "kind": "news"
     },
     {
-      "n": 6,
-      "symbol": "COF",
-      "short": "COF — 業績／指引：Capital One (COF) Q3 Earnings: What To Expect",
-      "detail": "COF\n重點：業績／指引\n標題：Capital One (COF) Q3 Earnings: What To Expect\n摘要：Financial services company Capital One (NYSE:COF) will be reporting results this Tuesday after market hours. Here’s what investors should know.\n來源：Yahoo Finance:COF",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/capital-one-cof-q3-earnings-043817620.html?.tsrc=rss",
-      "source": "Yahoo Finance:COF",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce Inc. $CRM Shares Sold by Robertson Stephens Wealth Management LLC - MarketBe…",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Shares Sold by Robertson Stephens Wealth Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUTh1SFAwUkdudlU3U2FXb1dxblhSWHpUNVVLM0lheUNUQWktSFh5ZGFmb000QmE1WmFxUkZiQVYxRFAzX3lnQjVYMTZWdE1WSFRGRE1yS3p0all3RlE5X1R4bkhqZlFPMGVNUy00WUdIWVpOM0RwdVpyOHUzcy1JU3AzTG9iNGpYY3g4bmJiWWdNcFFWdXpWajdpQ29yR05aZm56ZURvSTk1c…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUTh1SFAwUkdudlU3U2FXb1dxblhSWHpUNVVLM0lheUNUQWktSFh5ZGFmb000QmE1WmFxUkZiQVYxRFAzX3lnQjVYMTZWdE1WSFRGRE1yS3p0all3RlE5X1R4bkhqZlFPMGVNUy00WUdIWVpOM0RwdVpyOHUzcy1JU3AzTG9iNGpYY3g4bmJiWWdNcFFWdXpWajdpQ29yR05aZm56ZURvSTk1c2dxMkVGd0R6UWRjZlRsUnFCa3otWUlvNVZ6ZWZSZi14OHAxcjUw?oc=5",
-      "source": "Google News:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "DGX",
-      "short": "DGX — Quest Diagnostics (DGX) Stock Could Be Cheap Despite A 105% Run - Simply Wall Street",
-      "detail": "DGX\n重點：新聞\n標題：Quest Diagnostics (DGX) Stock Could Be Cheap Despite A 105% Run - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTjM5WDZwUGVpbWxkRWk0NHpBSWRkZTdaMzdfWXJtX3NKR2wxRlZoS3IyWExOTjBVUjBvSFZVRWdnZDM3dTVpZVVUVFJ0a2R5dkZ6RER6LTdNOGozSm9Oejl6VVkyTklrV21QSTVGT3UxWF8zQkt2THM1SWZHdUNYM3A5SHBpckxTckZjR01NNEZVWGE5M2RTQ0FsQWVTSERGSHVST1N5Qnc1V…\n來源：Google News:DGX",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTjM5WDZwUGVpbWxkRWk0NHpBSWRkZTdaMzdfWXJtX3NKR2wxRlZoS3IyWExOTjBVUjBvSFZVRWdnZDM3dTVpZVVUVFJ0a2R5dkZ6RER6LTdNOGozSm9Oejl6VVkyTklrV21QSTVGT3UxWF8zQkt2THM1SWZHdUNYM3A5SHBpckxTckZjR01NNEZVWGE5M2RTQ0FsQWVTSERGSHVST1N5Qnc1VTE3N204UWlOQVR3U29xTXRwRXVRZERRVUN3SXp2bkZkbEwtNkt60gHWAUFVX3lxTFBfNjA2a2tuemFzaXVfNU5FdzNBVkFSQUF6WUdFNWpwUTZqUi11TkhnOWJNUVBCYmcxWjdkcEoyM21OaEdJelpoOWp1b19EVGN1d0xPS3NGMi1uci1qM1R0NG5CS3JnT3g4R3BJbTZJRjRVeWlWWnNuaDZfdm1CVUctVXhaTVUzM0lOTGZ6c3R0QmJ1TUZlb08wbWVZUDNtZ0dqblkxX3VjODU1LTh0c3F3REplTF9EeDhBdnlwbjRYLWJQRHVfU2EyOVdyN09KMkpXYnk1a2c?oc=5",
-      "source": "Google News:DGX",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "EL",
-      "short": "EL — The Estee Lauder Companies Inc. $EL Stock: Vontobel Holding Ltd. Cuts Holdings - Market…",
-      "detail": "EL\n重點：新聞\n標題：The Estee Lauder Companies Inc. $EL Stock: Vontobel Holding Ltd. Cuts Holdings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTUdqb1N3ejlwMmk5eE5MREtQUHk5VTgwZUtqZzU4bWJhcjlPdHJJU09GUkFTbXVFTDN6WjdoYUJxTllwN0xwN1dTTThIVzNiWGNyUmtwTXo4UlQxZjUtZFFfRnJSVUJ1U05ER2swbGZ4WC1FaUFKMHhSWUpCUlo3Ym5EZkI4WkhRUzZZRmc3STFPWnh5bmJ3SENZS1V1ekdpaTJMMFEtUzlTW…\n來源：Google News:EL",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTUdqb1N3ejlwMmk5eE5MREtQUHk5VTgwZUtqZzU4bWJhcjlPdHJJU09GUkFTbXVFTDN6WjdoYUJxTllwN0xwN1dTTThIVzNiWGNyUmtwTXo4UlQxZjUtZFFfRnJSVUJ1U05ER2swbGZ4WC1FaUFKMHhSWUpCUlo3Ym5EZkI4WkhRUzZZRmc3STFPWnh5bmJ3SENZS1V1ekdpaTJMMFEtUzlTWENFRDkzTE85SmUtMlBzYThocXlycTBzOVM3T3NGa2RzSGZPRGtM?oc=5",
-      "source": "Google News:EL",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "GEN",
-      "short": "GEN — Gen Digital Inc. $GEN Shares Sold by Assenagon Asset Management S.A. - MarketBeat",
-      "detail": "GEN\n重點：新聞\n標題：Gen Digital Inc. $GEN Shares Sold by Assenagon Asset Management S.A. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamV3T0NaRlNzc3hFZVNsVVU4dERSRmo2RjFmLTQxRUVWODl5clRlRjB6c1VvV2tlYmhUY0d2NlNmdE0wd2JxTnBFem9fNEJwWXdnZGFfY2szOXJTN2N3ZDJxUnVmZVdMUnhaSXc3LXFDT19JVENfMGEtRkt6enpxQ1M2VXNnWGY0M1Bza2tBZ2U1UzRaQ1hyMG9paEpJZzNPWTZLT2FMdWJMS…\n來源：Google News:GEN",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamV3T0NaRlNzc3hFZVNsVVU4dERSRmo2RjFmLTQxRUVWODl5clRlRjB6c1VvV2tlYmhUY0d2NlNmdE0wd2JxTnBFem9fNEJwWXdnZGFfY2szOXJTN2N3ZDJxUnVmZVdMUnhaSXc3LXFDT19JVENfMGEtRkt6enpxQ1M2VXNnWGY0M1Bza2tBZ2U1UzRaQ1hyMG9paEpJZzNPWTZLT2FMdWJMSmFTRmU4clBiU1ViNlpkN0I4bVhjUFpiR0k?oc=5",
-      "source": "Google News:GEN",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "GGB",
-      "short": "GGB — Gerdau S.A. $GGB Stock: Assenagon Asset Management S.A. Boosts Holdings - MarketBeat",
-      "detail": "GGB\n重點：新聞\n標題：Gerdau S.A. $GGB Stock: Assenagon Asset Management S.A. Boosts Holdings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOWlJJdU9LUEljc0FfaUI2ajNFclhQM0ZrSm5iRW9HVXNtMktaVWQwak53a05NMDNqOTB2UWdFamNxVDN4WkxwVTdyd00wMTNWVkk1VXlYQmtxMkRRQnRpVDZPU1dCT284TFEyYUwzaDlNaTdQMS10TXpqeEstaTUzRjFJc3J4WnNoVk95dm9mTmdwM29MUkxGZ3E2anozR19UckR3OTQtNExib…\n來源：Google News:GGB",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWlJJdU9LUEljc0FfaUI2ajNFclhQM0ZrSm5iRW9HVXNtMktaVWQwak53a05NMDNqOTB2UWdFamNxVDN4WkxwVTdyd00wMTNWVkk1VXlYQmtxMkRRQnRpVDZPU1dCT284TFEyYUwzaDlNaTdQMS10TXpqeEstaTUzRjFJc3J4WnNoVk95dm9mTmdwM29MUkxGZ3E2anozR19UckR3OTQtNExibXV4d3laWjV2RXZBb1VTbndkZWc5ZzlKajZ2?oc=5",
-      "source": "Google News:GGB",
-      "kind": "news"
-    },
-    {
       "n": 12,
-      "symbol": "GPC",
-      "short": "GPC — 業績／指引：Genuine Parts Earnings: What To Look For From GPC",
-      "detail": "GPC\n重點：業績／指引\n標題：Genuine Parts Earnings: What To Look For From GPC\n摘要：Auto and industrial parts retailer Genuine Parts (NYSE:GPC) will be reporting earnings this Tuesday before the bell. Here’s what you need to know.\n來源：Yahoo Finance:GPC",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/genuine-parts-earnings-look-gpc-052617862.html?.tsrc=rss",
-      "source": "Yahoo Finance:GPC",
+      "symbol": "DEO",
+      "short": "DEO — 業績／指引：Diageo: CEO Dave Lewis Pulls Cost Out But Revenue Remains Problematic (NYSE:DEO) - Seek…",
+      "detail": "DEO\n重點：業績／指引\n標題：Diageo: CEO Dave Lewis Pulls Cost Out But Revenue Remains Problematic (NYSE:DEO) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUGJUY2UzVU9zU0Y0YTgyRjRHeFpWSmxjeG50eG9fT01YNF9hQzlGYjM5S2YzZTdBOUgxRVdWUHlYZERHMWJudVZIbEdSUm1Qak4tUGNSVXdvTExmVTNjSEdSMjFpRXRUdk1aRFF1VUttU3JJOE9ULTYyLWxYSWl3ZVA4ZVFfM24zUnZwcDdyY25kTUxGOU5aenZ6S1QtbFpadTMzazl1a1Y?o…\n來源：Google News:DEO",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUGJUY2UzVU9zU0Y0YTgyRjRHeFpWSmxjeG50eG9fT01YNF9hQzlGYjM5S2YzZTdBOUgxRVdWUHlYZERHMWJudVZIbEdSUm1Qak4tUGNSVXdvTExmVTNjSEdSMjFpRXRUdk1aRFF1VUttU3JJOE9ULTYyLWxYSWl3ZVA4ZVFfM24zUnZwcDdyY25kTUxGOU5aenZ6S1QtbFpadTMzazl1a1Y?oc=5",
+      "source": "Google News:DEO",
       "kind": "news"
     }
   ]
