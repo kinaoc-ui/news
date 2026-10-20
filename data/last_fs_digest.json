@@ -1,20 +1,74 @@
 {
-  "title": "FS新聞 10-20 09:48",
-  "list_name": "FirstScreen_2026-10-20_094751_comma.txt",
-  "created_at": "2026-10-20T09:48:01.305588+00:00",
+  "title": "FS新聞 10-20 14:51",
+  "list_name": "FirstScreen_2026-10-20_145132_comma.txt",
+  "created_at": "2026-10-20T14:51:41.890423+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "CCK",
-      "short": "CCK — 業績／指引：Crown Holdings (CCK) Stock Still Looks Undervalued Despite Its 55% Run",
-      "detail": "CCK\n重點：業績／指引\n標題：Crown Holdings (CCK) Stock Still Looks Undervalued Despite Its 55% Run\n摘要：Crown Holdings has delivered a strong share price run in recent years, which puts a spotlight on whether the cash the business can generate truly lines up with where the stock now trades. With fresh earnings news and expansion plans on the table, the open question is how far tho…\n來源：Yahoo Finance:CCK\n其他：Crown Holdings (CCK) Stock Still Looks Undervalued Despite …; Will Soft Fourth Quarter Outlook Change Crown Holdings (CCK…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/crown-holdings-cck-stock-still-091430178.html?.tsrc=rss",
-      "source": "Yahoo Finance:CCK",
+      "symbol": "GPC",
+      "short": "GPC — 業績／指引：Genuine Parts (GPC) Stock Could Be 46% Undervalued On Updated EPS Guidance - Simply Wal…",
+      "detail": "GPC\n重點：業績／指引\n標題：Genuine Parts (GPC) Stock Could Be 46% Undervalued On Updated EPS Guidance - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFM3cXJ6bTdjcEgyUGY2bkhHdjZleHVDOXl2SGRjLWNUcktNTFdyNndLSHhsZWZYMmNyOXhQSmZnZEk5QzdLX2RQTDBWYl9FWWx1TGs3MTFXU0dORUQ4bTVWWkJzZGJoRmpLT2t2SG9VY1A3X3FKeU9GN1pEMUR0eng4NTlVSXJfcDktdFh6NmJseFBPV0pocHI3bHFsdllnMzN4VmtYS1psZ…\n來源：Google News:GPC\n其他：Genuine Parts Company 2026 Q3 - Results - Earnings Call Pre…; Here's What Key Metrics Tell Us About Genuine Parts (GPC) Q…; Genuine Parts (NYSE:GPC) Issues Earnings Results, Beats Est…",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFM3cXJ6bTdjcEgyUGY2bkhHdjZleHVDOXl2SGRjLWNUcktNTFdyNndLSHhsZWZYMmNyOXhQSmZnZEk5QzdLX2RQTDBWYl9FWWx1TGs3MTFXU0dORUQ4bTVWWkJzZGJoRmpLT2t2SG9VY1A3X3FKeU9GN1pEMUR0eng4NTlVSXJfcDktdFh6NmJseFBPV0pocHI3bHFsdllnMzN4VmtYS1psZ0cxNXNBRFdvWU5Zek1TM1RGeG5ZZHF0eDRQZ0HSAcsBQVVfeXFMTmpjcHlLci1TcjlHMWhSdmdLZndQdFNvdHNMNWJNaDdEZmQ0aTEwS3JNTl9seXBaM3dmS2Jlc010VWdxRmZNOFlvaHl5NE85TEh5dzUxX0t1eld5T0FvRzR4UkhUMFFva0JSOUVIRUtZWWFGdFB1LWF1R3BFWFhnV21GWFR0d01aVkJrTjFqVzlMSmNvNk5pU0RacDNuTTk2ZG9IcjEteFdMS3VITDQxeGhrWEFfSnZFZE5XRjh1WkdNc21HVmgtZER4ejg?oc=5",
+      "source": "Google News:GPC",
       "kind": "news"
     },
     {
       "n": 2,
+      "symbol": "CRM",
+      "short": "CRM — AI相關、併購／交易：What to make of Salesforce's $5.7B acquisition",
+      "detail": "CRM\n重點：AI相關、併購／交易\n標題：What to make of Salesforce's $5.7B acquisition\n摘要：Salesforce (CRM) is acquiring AI-powered marketing platform Braze (BRZE) in a deal valued at $5.66 billion. The 8:30 Hosts Julie Hyman, Pras Subramanian, and Jake Conley take a closer look at the deal.\n來源：Yahoo Finance:CRM\n其他：Salesforce (CRM) Agrees $5.7 Billion All Stock Acquisition; Salesforce to Buy Braze for $5.66B, Expanding Real-Time AI …; Klaviyo shares jump 8% as Salesforce moves to acquire rival…",
+      "url": "https://finance.yahoo.com/video/what-to-make-of-salesforces-57b-acquisition-142919095.html?.tsrc=rss",
+      "source": "Yahoo Finance:CRM",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "CCK",
+      "short": "CCK — 業績／指引：Crown Holdings Shares Fall 1.7% Premarket as Q4 Earnings Outlook Misses Estimates",
+      "detail": "CCK\n重點：業績／指引\n標題：Crown Holdings Shares Fall 1.7% Premarket as Q4 Earnings Outlook Misses Estimates\n摘要：Crown Holdings Inc (NYSE:CCK) shares declined 1. 7% in premarket trading on Tuesday after the packaging manufacturer issued fourth-quarter earnings guidance below analysts’ expectations, despite reporting third-quarter revenue and adjusted earnings per share above market forecas…\n來源：Yahoo Finance:CCK\n其他：Crown Holdings (CCK) Could Be 16% Undervalued Following Str…; Crown Holdings (CCK) Stock Still Looks Undervalued Despite …; Crown Holdings (CCK) Stock Still Looks Undervalued Despite …",
+      "url": "https://investorshub.advfn.com/market-news/article/38360/crown-holdings-shares-fall-1-7-premarket-as-q4-earnings-outlook-misses-estimates?.tsrc=rss",
+      "source": "Yahoo Finance:CCK",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "IRDM",
+      "short": "IRDM — AI相關：Can Beats at Vicor (NASDAQ:VICR) and Iridium (NASDAQ:IRDM) Hold Up as Pegasystems (NASD…",
+      "detail": "IRDM\n重點：AI相關\n標題：Can Beats at Vicor (NASDAQ:VICR) and Iridium (NASDAQ:IRDM) Hold Up as Pegasystems (NASDAQ:PEGA) Faces an AI Software Test? - kalkine.ca\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTFpGLVV1SDgwQzJ1a0dMRFJwQXhhcnQxS1BqMVlBWUdlQUtXVWhrMmpVTkFSQk1ZRkJ4aDM3UVZ6LVc4Rkpqa3dDem1sZmFONjR6bDNZN0RIZUxJZzRaQ2pmWS1jX2ZOX25ZVkllaXpHTEtxOGpKaER6VFlNakptUHhGeW41SDMxSjlMNkJieDBQcnNpVE5MNHNISDRNb280SnZyakpNQmFha…\n來源：Google News:IRDM\n其他：Iridium Communications (NASDAQ:IRDM) Announces Quarterly Ea…; Iridium: Q3 Earnings Snapshot; Iridium Communications (IRDM) Q3 Earnings and Revenues Surp…",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTFpGLVV1SDgwQzJ1a0dMRFJwQXhhcnQxS1BqMVlBWUdlQUtXVWhrMmpVTkFSQk1ZRkJ4aDM3UVZ6LVc4Rkpqa3dDem1sZmFONjR6bDNZN0RIZUxJZzRaQ2pmWS1jX2ZOX25ZVkllaXpHTEtxOGpKaER6VFlNakptUHhGeW41SDMxSjlMNkJieDBQcnNpVE5MNHNISDRNb280SnZyakpNQmFhaXNoOF9ORFZVUi1XMXFiX1pFZ1dpVnhUTGpfWml5ODhnbGxGZWg2TDl3eHNXXzNaSEpQNlpGczFaTQ?oc=5",
+      "source": "Google News:IRDM",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "HCA",
+      "short": "HCA — 業績／指引：Analysts Estimate HCA Healthcare (HCA) to Report a Decline in Earnings: What to Look Ou…",
+      "detail": "HCA\n重點：業績／指引\n標題：Analysts Estimate HCA Healthcare (HCA) to Report a Decline in Earnings: What to Look Out for\n摘要：HCA (HCA) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.\n來源：Yahoo Finance:HCA\n其他：HCA Healthcare, Inc. $HCA Stock Position Reduced by TD Wate…; 4,161 HCA Healthcare, Inc. $HCA Shares Purchased by Assenag…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-estimate-hca-healthcare-hca-130010184.html?.tsrc=rss",
+      "source": "Yahoo Finance:HCA",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "ANET",
+      "short": "ANET — Arista Networks, Inc. $ANET Stock Sold by Sumitomo Mitsui DS Asset Management Company L…",
+      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Stock Sold by Sumitomo Mitsui DS Asset Management Company Ltd - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ3hnQ2tFaEtDcUREVTdicVpRVUgyczF5YVVQMEV3RldtNDZ2X2xwM1N5TnpPMzdPU1N5dkFlTlF2RUpmQXZXS2JHUjVlOWdYeHppMTl5NzVCSTJlbncydnpwUEQ1OVEtSnVua3hGbVRwek5OaVRvYzkwMFlBWmRNY1FFRkxHN3liQmo2bllpNmdNV3BObmw3dDhiRTMxb2tMeUVkQ2xUdnI2d…\n來源：Google News:ANET\n其他：Arista Networks, Inc. $ANET Stock: Ayrshire Capital Managem…",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ3hnQ2tFaEtDcUREVTdicVpRVUgyczF5YVVQMEV3RldtNDZ2X2xwM1N5TnpPMzdPU1N5dkFlTlF2RUpmQXZXS2JHUjVlOWdYeHppMTl5NzVCSTJlbncydnpwUEQ1OVEtSnVua3hGbVRwek5OaVRvYzkwMFlBWmRNY1FFRkxHN3liQmo2bllpNmdNV3BObmw3dDhiRTMxb2tMeUVkQ2xUdnI2dGpfcVVKOFA5Mi0zT0FlMnFCZFlsMWFBeEdwLUMxdW1ub09HR0FjTjR6S25qWkZsY0tYLW5xaw?oc=5",
+      "source": "Google News:ANET",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "BHP",
+      "short": "BHP — 業績／指引：Update: BHP Group's Copper Output Falls in Q1 on Grade Declines, Weather, Maintenance",
+      "detail": "BHP\n重點：業績／指引\n標題：Update: BHP Group's Copper Output Falls in Q1 on Grade Declines, Weather, Maintenance\n摘要：(Updates with production guidance in fifth paragraph.) BHP Group (BHP) said Monday that copper pr\n來源：Yahoo Finance:BHP\n其他：BHP holds FY27 copper guidance as BHP stock trades at EUR 7…",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/bhp-group-apos-copper-output-081439800.html?.tsrc=rss",
+      "source": "Yahoo Finance:BHP",
+      "kind": "news"
+    },
+    {
+      "n": 8,
       "symbol": "COF",
       "short": "COF — 18,397 Capital One Financial Corporation $COF Shares Acquired by TD Waterhouse Canada I…",
       "detail": "COF\n重點：新聞\n標題：18,397 Capital One Financial Corporation $COF Shares Acquired by TD Waterhouse Canada Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcEJXNmJlVXh2ckYxZGl4blhsVXh1WHVNRXhMVzJNTFVramtlTFBqT1dOakxHT0p2SWtWOGNhdjhOYWZhN3hCZmphMDFFZ1hsWHVQLUZJMXRsYjczWnpVZkl6TjNkYXJfYUJSZ25YVzl6NkJDVlhxZDM5bW1RMEYwdDJybnRTcUQ2STF3RTFFa0g2ZFJJaDlqTzVsay1XNHJNaGJiLTNwUElGN…\n來源：Google News:COF\n其他：Capital One Financial Corporation $COF Stock Purchased by I…",
@@ -23,93 +77,39 @@
       "kind": "news"
     },
     {
-      "n": 3,
-      "symbol": "HCA",
-      "short": "HCA — HCA Healthcare, Inc. $HCA Stock Position Reduced by TD Waterhouse Canada Inc. - MarketB…",
-      "detail": "HCA\n重點：新聞\n標題：HCA Healthcare, Inc. $HCA Stock Position Reduced by TD Waterhouse Canada Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQUW5kNkNuS2o2WlVYc3NhcjEtOHp1Y3E1NF9uaV94dUhVQWRGZXFwTW8xUDdRcjNWb1IwNmh4YmZBZ2ZXUENXVzhONVNNMGhwTnVnUjlXUENjMkJxOE1JaVdXYzUzeU1kV19tZU94RWJ4UndheXp1dnExM2hVXzYyTUFuekcwcWFIZDMtVDROTW1CdDlpTkEzWjdMczBzMnd5amtYQWpIT0Jwc…\n來源：Google News:HCA\n其他：4,161 HCA Healthcare, Inc. $HCA Shares Purchased by Assenag…",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUW5kNkNuS2o2WlVYc3NhcjEtOHp1Y3E1NF9uaV94dUhVQWRGZXFwTW8xUDdRcjNWb1IwNmh4YmZBZ2ZXUENXVzhONVNNMGhwTnVnUjlXUENjMkJxOE1JaVdXYzUzeU1kV19tZU94RWJ4UndheXp1dnExM2hVXzYyTUFuekcwcWFIZDMtVDROTW1CdDlpTkEzWjdMczBzMnd5amtYQWpIT0Jwc2tkazJOeHIwWFA1QTI2NDdFdEpsS2NLTVlQcV84T01XZDloem8?oc=5",
-      "source": "Google News:HCA",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "TGT",
-      "short": "TGT — Target Corporation $TGT Shares Sold by Columbia Asset Management - MarketBeat",
-      "detail": "TGT\n重點：新聞\n標題：Target Corporation $TGT Shares Sold by Columbia Asset Management - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxObDA5cW8yUUx4RWhtbVhXVm9QZ0FlRlNLZlN0UUM0NWp2c2xzQm5LZW1iNEZOR0xWa2ZhMmlMUWtxX0FUVk53X3ZiUVVFaXRycjBjeUl4ZmdiVDN2ZFFBa2lXemlFcVlnMzIzZlg4dTl1VDNVd2c1empXYlA3aC1RdFBQZ3JzV2UxM3pyQXREcjM0Y1hBS3lBTkptZWoyNVlwS29iVTZjcDFsc…\n來源：Google News:TGT\n其他：Target (TGT) Has an Income Story. Does It Also Have a Growt…",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObDA5cW8yUUx4RWhtbVhXVm9QZ0FlRlNLZlN0UUM0NWp2c2xzQm5LZW1iNEZOR0xWa2ZhMmlMUWtxX0FUVk53X3ZiUVVFaXRycjBjeUl4ZmdiVDN2ZFFBa2lXemlFcVlnMzIzZlg4dTl1VDNVd2c1empXYlA3aC1RdFBQZ3JzV2UxM3pyQXREcjM0Y1hBS3lBTkptZWoyNVlwS29iVTZjcDFscXF0WEJzeDlWVHpKQU5FaERiNm9oMXRMQQ?oc=5",
-      "source": "Google News:TGT",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "ALSN",
-      "short": "ALSN — Allison Transmission Holdings, Inc. $ALSN Stock: Assenagon Asset Management S.A. Reduce…",
-      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission Holdings, Inc. $ALSN Stock: Assenagon Asset Management S.A. Reduces Position - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQM2MyUW0xN1dYOUVZYVZqN25XUFNZRWdzZm4tNld4eU0zMlZzTUd5NzU2T2hvMkRQd2hvUzdvY3J0YlczUWxranRkRnVOcGJSVkMxZFJGWHhudkRXbDN3ZXUxc29PM1FYNFRlcVhOY3p5d2NtYWlrSHlhMm9RbUNaR09vM2hkNVJndXhzNUstVzAyajhTTjExSlBOSjRlU2s5MzN4U0RJdjZoM…\n來源：Google News:ALSN",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQM2MyUW0xN1dYOUVZYVZqN25XUFNZRWdzZm4tNld4eU0zMlZzTUd5NzU2T2hvMkRQd2hvUzdvY3J0YlczUWxranRkRnVOcGJSVkMxZFJGWHhudkRXbDN3ZXUxc29PM1FYNFRlcVhOY3p5d2NtYWlrSHlhMm9RbUNaR09vM2hkNVJndXhzNUstVzAyajhTTjExSlBOSjRlU2s5MzN4U0RJdjZoMkpFRF84N2s4eFpWUy1vdnFEMDFZaTNRX3A1c0xDYlU1YmtfZEpmYUR3ZTF6b0VkWmsyZnBzWk1OQ1VfZVU?oc=5",
-      "source": "Google News:ALSN",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "ANET",
-      "short": "ANET — Arista Networks Stock Fell 18% From Its Record in One Week. Here’s What the Selloff Mis…",
-      "detail": "ANET\n重點：新聞\n標題：Arista Networks Stock Fell 18% From Its Record in One Week. Here’s What the Selloff Missed and Where the Stock Could Go by 2030\n摘要：Key Stats for Arista Networks StockCurrent Price: $182. 95Target Price (Mid): ~$463Street Target: ~$245Potential Total Return: ~153%Annualized IRR: ~25% / yearWhat Happened?Arista Networks (ANET) closed at a record $216.\n來源：Yahoo Finance:ANET",
-      "url": "https://www.tikr.com/blog/arista-networks-stock-fell-18-from-its-record-in-one-week-heres-what-the-selloff-missed-and-where-the-stock-could-go-by-2030?ref=yahoofinance&.tsrc=rss",
-      "source": "Yahoo Finance:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "BHP",
-      "short": "BHP — 業績／指引：Update: BHP Group's Copper Output Falls in Q1 on Grade Declines, Weather, Maintenance",
-      "detail": "BHP\n重點：業績／指引\n標題：Update: BHP Group's Copper Output Falls in Q1 on Grade Declines, Weather, Maintenance\n摘要：(Updates with production guidance in fifth paragraph.) BHP Group (BHP) said Monday that copper pr\n來源：Yahoo Finance:BHP",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/bhp-group-apos-copper-output-081439800.html?.tsrc=rss",
-      "source": "Yahoo Finance:BHP",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "BKNG",
-      "short": "BKNG — AI相關：Booking Holdings Inc. (BKNG) Is Building Its Own AI Agent. Can Cash Flow Defend the Mul…",
-      "detail": "BKNG\n重點：AI相關\n標題：Booking Holdings Inc. (BKNG) Is Building Its Own AI Agent. Can Cash Flow Defend the Multiple?\n摘要：Booking Holdings Inc. (NASDAQ:BKNG) is no longer only defending its travel marketplace from rival online agencies. It must also establish where its economics fit when artificial-intelligence agents can search for hotels and complete bookings for customers. On October 14, the com…\n來源：Yahoo Finance:BKNG",
-      "url": "https://finance.yahoo.com/technology/ai/articles/booking-holdings-inc-bkng-building-153121967.html?.tsrc=rss",
-      "source": "Yahoo Finance:BKNG",
-      "kind": "news"
-    },
-    {
       "n": 9,
-      "symbol": "CARG",
-      "short": "CARG — CarGurus, Inc. $CARG Stock Purchased by Assenagon Asset Management S.A. - MarketBeat",
-      "detail": "CARG\n重點：新聞\n標題：CarGurus, Inc. $CARG Stock Purchased by Assenagon Asset Management S.A. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOWHJ6Sjc3aGRNODV4a09CNmdXSzB3MDByTWVNN2VCVnJxRFZMUlIzdXJOSkhLYS1jaVkwMmFKSzJ1R1ZYYzBMV21FbmNzQ05VUzkyb0NMdGp5Ty1zNnIwbkljSm1uc2YwTmdaZ21IX3Iydy1oMUdVZ0ppSGlMNGRmMVZTMXlKLUFNV0wydEFJN0ZUX1hQWll0UU1LZFVseVkxcjdDN1RuRjdlR…\n來源：Google News:CARG",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWHJ6Sjc3aGRNODV4a09CNmdXSzB3MDByTWVNN2VCVnJxRFZMUlIzdXJOSkhLYS1jaVkwMmFKSzJ1R1ZYYzBMV21FbmNzQ05VUzkyb0NMdGp5Ty1zNnIwbkljSm1uc2YwTmdaZ21IX3Iydy1oMUdVZ0ppSGlMNGRmMVZTMXlKLUFNV0wydEFJN0ZUX1hQWll0UU1LZFVseVkxcjdDN1RuRjdlRFZ4NXVoWG42LTBGT2NJZ3RMc2hFTXZYbjc0RVE?oc=5",
-      "source": "Google News:CARG",
+      "symbol": "FTNT",
+      "short": "FTNT — Fortinet, Inc. $FTNT Shares Sold by Sumitomo Mitsui DS Asset Management Company Ltd - M…",
+      "detail": "FTNT\n重點：新聞\n標題：Fortinet, Inc. $FTNT Shares Sold by Sumitomo Mitsui DS Asset Management Company Ltd - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZUktT2JfaDNzbkEtN1NwTGpUaF9XY19ydGZLT3Jsbno3MWdtZk5sd2JsR2tzWHhTUGJlVkFKbFI3Z2MtMF9XTTJ3N1NTUElJM0h0a2o0emNaeXE5S05ucVh4Vy04RkU1QXI0dVdGSHpOaWREalBvM2JseFNyUkRPQl9HamZkR3loTHVoM2lzN3dDUkstN1Q0MzlXSTR3ZDdvSXFubmkxSTNaR…\n來源：Google News:FTNT\n其他：CWA Asset Management Group LLC Buys 57,379 Shares of Fortin…",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZUktT2JfaDNzbkEtN1NwTGpUaF9XY19ydGZLT3Jsbno3MWdtZk5sd2JsR2tzWHhTUGJlVkFKbFI3Z2MtMF9XTTJ3N1NTUElJM0h0a2o0emNaeXE5S05ucVh4Vy04RkU1QXI0dVdGSHpOaWREalBvM2JseFNyUkRPQl9HamZkR3loTHVoM2lzN3dDUkstN1Q0MzlXSTR3ZDdvSXFubmkxSTNaRjlLZW1iTkh4WTF1TDdnSTFyTWQ3eXY2ZGV2bTZVUHBDMGJENHN6UDlvQ3NNNm4?oc=5",
+      "source": "Google News:FTNT",
       "kind": "news"
     },
     {
       "n": 10,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce Inc. $CRM Stock Sold by Arlington Financial Advisors LLC - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stock Sold by Arlington Financial Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxObDRyV3piMFNSaTVsSFdPZGhEN3NSN1pPbGtuTFgzSWtodmZLRnRlTGl4dzMyQkVFdWJnbEFrWHNTclRWU0luRGUwODhHZUpjTTc0NDJvclJ5bUxkZ3hoc0N3aEtJUFB6MWgwTEN0dGtCQ2QtY0Y5bXB6QlFqTUQyYmwwVGhadUM4SnRDS2tTb0Ztb1owSVFIOHd6MHVqcG1xc3dEMFh5RkxBR…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObDRyV3piMFNSaTVsSFdPZGhEN3NSN1pPbGtuTFgzSWtodmZLRnRlTGl4dzMyQkVFdWJnbEFrWHNTclRWU0luRGUwODhHZUpjTTc0NDJvclJ5bUxkZ3hoc0N3aEtJUFB6MWgwTEN0dGtCQ2QtY0Y5bXB6QlFqTUQyYmwwVGhadUM4SnRDS2tTb0Ztb1owSVFIOHd6MHVqcG1xc3dEMFh5RkxBRy1VQUI4Uk9Hd0pVNmlFQ3pyUUlNWGVqYUpS?oc=5",
-      "source": "Google News:CRM",
+      "symbol": "STRC",
+      "short": "STRC — Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock (NASDAQ:STRC) Dec…",
+      "detail": "STRC\n重點：新聞\n標題：Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock (NASDAQ:STRC) Declares Dividend of $0.04 - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNy1WZmFYaFpKQkRCbUhraHZXUnJXLWxTX3FrdjJKSlBlUHYtcjZ5V2hHWGJscjNoOFpILUlrSUJOMFZWNnFxUTFSYVV6UjJ0RVo3dmREN3JSdEcxV19iejRBTE10VVp3eHZVRjFEYWNHRU9PNU41Sl9uWVVNYWczZEYwcmNGUTRQMHFkUmVZODREM3IzX2lmamNDak9KU01SRHhyMnEzRjFUO…\n來源：Google News:STRC\n其他：Strategy Inc Variable Rate Series A Perpetual Stretch Prefe…",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNy1WZmFYaFpKQkRCbUhraHZXUnJXLWxTX3FrdjJKSlBlUHYtcjZ5V2hHWGJscjNoOFpILUlrSUJOMFZWNnFxUTFSYVV6UjJ0RVo3dmREN3JSdEcxV19iejRBTE10VVp3eHZVRjFEYWNHRU9PNU41Sl9uWVVNYWczZEYwcmNGUTRQMHFkUmVZODREM3IzX2lmamNDak9KU01SRHhyMnEzRjFUOU9zQnNXM3hpWVJOSHFQRFgzZ3pPVDc5cUQwbDV5a1F3Z0ZtaVY0WHU4MmdJNHAyQ3I0LUFYWllxdXhyYVhaRmgwS0pDcklZX3hIenI2b0JfQ3UwUQ?oc=5",
+      "source": "Google News:STRC",
       "kind": "news"
     },
     {
       "n": 11,
-      "symbol": "FSM",
-      "short": "FSM — Fortuna intersects 0.96 g/t gold over 350 meters at the Lindero Mine, Argentina",
-      "detail": "FSM\n重點：新聞\n標題：Fortuna intersects 0.96 g/t gold over 350 meters at the Lindero Mine, Argentina\n摘要：VANCOUVER, British Columbia, Oct. 20, 2026 (GLOBE NEWSWIRE) -- Fortuna Mining Corp. (NYSE: FSM | TSX: FVI) is pleased to report results from infill drilling designed to test open mineralization at depth and upgrade Inferred Mineral Resources below the current life-of-mine (“LOM”…\n來源：Yahoo Finance:FSM",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/fortuna-intersects-0-96-g-090000369.html?.tsrc=rss",
-      "source": "Yahoo Finance:FSM",
+      "symbol": "TGT",
+      "short": "TGT — 業績／指引：Should Value Investors Buy Target (TGT) Stock?",
+      "detail": "TGT\n重點：業績／指引\n標題：Should Value Investors Buy Target (TGT) Stock?\n摘要：Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.\n來源：Yahoo Finance:TGT\n其他：Target Corporation $TGT Shares Sold by Columbia Asset Manag…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/value-investors-buy-target-tgt-124004554.html?.tsrc=rss",
+      "source": "Yahoo Finance:TGT",
       "kind": "news"
     },
     {
       "n": 12,
-      "symbol": "FTNT",
-      "short": "FTNT — CWA Asset Management Group LLC Buys 57,379 Shares of Fortinet, Inc. $FTNT - MarketBeat",
-      "detail": "FTNT\n重點：新聞\n標題：CWA Asset Management Group LLC Buys 57,379 Shares of Fortinet, Inc. $FTNT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPbVB1VS1vWkV3S01lN1FLSHdnVFh2V1p1dzFCU0l4U3FwbFdmYVh5WTQyZVVLQlk0di16MnlmVXY4TEtGcENLdXpBNXlYcUo1WnRjc0Q4dlU4U0dUTzVNT2dvQ1hCWE10YlFvNE1ERmlNRldCQ0NrUnJ2VG1JdTVFZ01FOUM1cmtqVzI3ZnJwQ2JTVzBtSVR6U3MyNXVLdW5ldE9kbU04Szd1V…\n來源：Google News:FTNT",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbVB1VS1vWkV3S01lN1FLSHdnVFh2V1p1dzFCU0l4U3FwbFdmYVh5WTQyZVVLQlk0di16MnlmVXY4TEtGcENLdXpBNXlYcUo1WnRjc0Q4dlU4U0dUTzVNT2dvQ1hCWE10YlFvNE1ERmlNRldCQ0NrUnJ2VG1JdTVFZ01FOUM1cmtqVzI3ZnJwQ2JTVzBtSVR6U3MyNXVLdW5ldE9kbU04Szd1VUZESENocWtjSnFLS2xQUnFrMW53cWRfX2I2bmVpTmRB?oc=5",
-      "source": "Google News:FTNT",
+      "symbol": "A",
+      "short": "A — 宏觀：Inflation Is Back. Is A Stock Market Crash Next? - Trefis",
+      "detail": "A\n重點：宏觀\n標題：Inflation Is Back. Is A Stock Market Crash Next? - Trefis\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNOVZ1TjlRcl9ZR1JjREgtT05jbTlsMk4wNlRPQi03WThiMHgwNnFLdXRCb01BWUktTGNRZE9wUG91RFgxd2E1RWU1R29adzlldTBERkNwZjRVX3BsdUZDLVNzWlRrVTFXSW92RWRyZTM2cl8xNGJrbHQydUpuT3JqLVY0QTd3amlIaXdpOGNmd3pwcEhReHpPNXB0MkthYVFmWV80?oc=5\" ta…\n來源：Google News:A",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOVZ1TjlRcl9ZR1JjREgtT05jbTlsMk4wNlRPQi03WThiMHgwNnFLdXRCb01BWUktTGNRZE9wUG91RFgxd2E1RWU1R29adzlldTBERkNwZjRVX3BsdUZDLVNzWlRrVTFXSW92RWRyZTM2cl8xNGJrbHQydUpuT3JqLVY0QTd3amlIaXdpOGNmd3pwcEhReHpPNXB0MkthYVFmWV80?oc=5",
+      "source": "Google News:A",
       "kind": "news"
     }
   ]
