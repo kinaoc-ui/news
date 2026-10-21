@@ -1,29 +1,56 @@
 {
-  "title": "FS新聞 10-21 05:04",
-  "list_name": "FirstScreen_2026-10-21_050406_comma.txt",
-  "created_at": "2026-10-21T05:04:15.759255+00:00",
+  "title": "FS新聞 10-21 09:48",
+  "list_name": "FirstScreen_2026-10-21_094844_comma.txt",
+  "created_at": "2026-10-21T09:48:53.293528+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "COF",
-      "short": "COF — 業績／指引：Capital One (COF) Q3 2026 Earnings Call Transcript",
-      "detail": "COF\n重點：業績／指引\n標題：Capital One (COF) Q3 2026 Earnings Call Transcript\n摘要：Discover integration drives $1.8B in annualized synergies ahead of schedule.\n來源：Yahoo Finance:COF\n其他：What Capital One Financial (COF) Said on Its Q3 Earnings Ca…; Capital One (COF) Reports Q3 Earnings: What Key Metrics Hav…; Capital One Financial Corporation 2026 Q3 - Results - Earni…",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/capital-one-cof-q3-2026-earnings-call-transcript/?.tsrc=rss",
-      "source": "Yahoo Finance:COF",
+      "symbol": "BKNG",
+      "short": "BKNG — Booking Holdings Inc. $BKNG Stock Sold by Robeco Institutional Asset Management B.V. - …",
+      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Stock Sold by Robeco Institutional Asset Management B.V. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQk9zQmhKSkN1LVRneVo2OGt4U2xwSDVmS09wMDc1TENXZUQ4QlY0eGdxU3dybjhiR1gyUjd2bnRnMnF0MV9HMk9Ea09GbWc2UmdadS1adFFyN2M4ODQwY1c1a0pkUlQzQ1Bva2V6WXdQV3pRTkpMUm00SGhGQ0dHdGRBM20zYTB5Zi0teEtLcmNYb1RScWRhVXNSQW54X1Q3eEg4cjduTl9tQ…\n來源：Google News:BKNG\n其他：Booking Holdings Inc. $BKNG Stock Sold by SteelPeak Wealth …; Booking Holdings Inc. $BKNG Shares Purchased by Nisa Invest…",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQk9zQmhKSkN1LVRneVo2OGt4U2xwSDVmS09wMDc1TENXZUQ4QlY0eGdxU3dybjhiR1gyUjd2bnRnMnF0MV9HMk9Ea09GbWc2UmdadS1adFFyN2M4ODQwY1c1a0pkUlQzQ1Bva2V6WXdQV3pRTkpMUm00SGhGQ0dHdGRBM20zYTB5Zi0teEtLcmNYb1RScWRhVXNSQW54X1Q3eEg4cjduTl9tQS0xV09ZVHAtYUpNMmpoRVFfVGlHLWZpZXVEa1NJWWd0bkt0czJpbFBxTVhYbWI?oc=5",
+      "source": "Google News:BKNG",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "GPC",
-      "short": "GPC — 業績／指引：Genuine Parts (GPC) Stock Sinks As Q3 Earnings Meet Margin Doubts - Yahoo Finance",
-      "detail": "GPC\n重點：業績／指引\n標題：Genuine Parts (GPC) Stock Sinks As Q3 Earnings Meet Margin Doubts - Yahoo Finance\n摘要：<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOX29RRXVoN2R0OTFNYnBsTFloSXJsdDE2d29qTTRCMkdpOFlETWtOVEd3dThSRWRtLThXNm5WQm9GYXZDLURYRWVOeGdRWUtERlV1dFNvQkwwRkk4X1NfQ3I3R09FWVY5NGRwMWRCTTBfUExoR3gxa0cxeTFLZDdFcGZCZk45VHNXeTZzMXQ3Q1FTT1Rid3JVMVBB?oc=5\" target=\"_blank…\n來源：Google News:GPC\n其他：Genuine Parts (GPC) Stock Price And Q3 Earnings Clash Over …",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX29RRXVoN2R0OTFNYnBsTFloSXJsdDE2d29qTTRCMkdpOFlETWtOVEd3dThSRWRtLThXNm5WQm9GYXZDLURYRWVOeGdRWUtERlV1dFNvQkwwRkk4X1NfQ3I3R09FWVY5NGRwMWRCTTBfUExoR3gxa0cxeTFLZDdFcGZCZk45VHNXeTZzMXQ3Q1FTT1Rid3JVMVBB?oc=5",
-      "source": "Google News:GPC",
+      "symbol": "MRK",
+      "short": "MRK — 6,860 Merck & Co., Inc. $MRK Shares Sold by QV Investors Inc. - MarketBeat",
+      "detail": "MRK\n重點：新聞\n標題：6,860 Merck & Co., Inc. $MRK Shares Sold by QV Investors Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFN2eEw1akl4SnRod084Q0dmQnZpX2pySTZmMnJjMnNEa0NpWTE5UVdja3hERVQzdzBkZzY2UHNERU5hYnF0TWxfX0x3UkgtTjdsbUFNM0NjX2NEM2tfTGo0X1RTM19iSmJuRjhZMHBKRlVDUnN4ZHRZWmtBaWYyY2t5TzBrUlBjTEhVRnI0TlFsaFQ0VkxhUFN1OG9PR21HNTlPTlhkbUFTM…\n來源：Google News:MRK\n其他：Merck & Co., Inc. $MRK Stock Sold by Nisa Investment Adviso…; Why Are Market Participants Following Merck & Co. (NYSE:MRK…",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFN2eEw1akl4SnRod084Q0dmQnZpX2pySTZmMnJjMnNEa0NpWTE5UVdja3hERVQzdzBkZzY2UHNERU5hYnF0TWxfX0x3UkgtTjdsbUFNM0NjX2NEM2tfTGo0X1RTM19iSmJuRjhZMHBKRlVDUnN4ZHRZWmtBaWYyY2t5TzBrUlBjTEhVRnI0TlFsaFQ0VkxhUFN1OG9PR21HNTlPTlhkbUFTM1BoZ250MWthd1E?oc=5",
+      "source": "Google News:MRK",
       "kind": "news"
     },
     {
       "n": 3,
+      "symbol": "ANET",
+      "short": "ANET — Arista Networks, Inc. $ANET Stock: Robeco Institutional Asset Management B.V. Lowers Ho…",
+      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Stock: Robeco Institutional Asset Management B.V. Lowers Holdings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZEdVWGhrVF9wbnZSa3BtSXNUYUNtd0tlNmc5WEpxRTdXbjktbTZHemgzVHdxbjVBWkpWUjIwNkVDR2NpclhVZEhOLTEtR0lTUWo1My1ZMFBSejVVRlJMc3owcXNKd1N1a3NtbXlKbkltZkM3ZUdHb2U2WE5palhBVWxkY1loakVMOXp5OWUyZmEyZm50Q2EzQ2laa25USWM1ZFlzRWNwMW5jd…\n來源：Google News:ANET\n其他：Nisa Investment Advisors LLC Buys 7,020 Shares of Arista Ne…",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZEdVWGhrVF9wbnZSa3BtSXNUYUNtd0tlNmc5WEpxRTdXbjktbTZHemgzVHdxbjVBWkpWUjIwNkVDR2NpclhVZEhOLTEtR0lTUWo1My1ZMFBSejVVRlJMc3owcXNKd1N1a3NtbXlKbkltZkM3ZUdHb2U2WE5palhBVWxkY1loakVMOXp5OWUyZmEyZm50Q2EzQ2laa25USWM1ZFlzRWNwMW5jdUtmRWJVb09fMXhxaXVBdzRuVEs2ZmgwWGpmMV9JRlFUWU16VFVrOEFELUxIWEQ2Y0VvSDBzbGd3?oc=5",
+      "source": "Google News:ANET",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "FSK",
+      "short": "FSK — 115,282 FS KKR Capital Corp. $FSK Shares Sold by Maia Wealth LLC - MarketBeat",
+      "detail": "FSK\n重點：新聞\n標題：115,282 FS KKR Capital Corp. $FSK Shares Sold by Maia Wealth LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQb19wenQzdEVFOW5nbEpLM3V4SlNmZzBvTGZoZ29ROTFmdXRYRkZxWldEYzhsT2dxSS1BQ0V3ejN6akU3YzY1UE9ZbFUweENOR3ZnY2haVnFncE0wdV85enBFRHBKTnd3X0MxbVNMbFBNb3pDMllIVmVFOV9ONWV2RUMwTS1ORDVnRnpabWpScjd6MkR2dVRuTU94OUVtZHFiajk3V3R6VXAzN…\n來源：Google News:FSK\n其他：862,445 FS KKR Capital Corp. $FSK Shares Sold by Beach Poin…",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb19wenQzdEVFOW5nbEpLM3V4SlNmZzBvTGZoZ29ROTFmdXRYRkZxWldEYzhsT2dxSS1BQ0V3ejN6akU3YzY1UE9ZbFUweENOR3ZnY2haVnFncE0wdV85enBFRHBKTnd3X0MxbVNMbFBNb3pDMllIVmVFOV9ONWV2RUMwTS1ORDVnRnpabWpScjd6MkR2dVRuTU94OUVtZHFiajk3V3R6VXAzNzJYVTk1X2xBNkdweTAxcmJabmNFNA?oc=5",
+      "source": "Google News:FSK",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "INTU",
+      "short": "INTU — Intuit Inc. $INTU Stock Position Cut by Robeco Institutional Asset Management B.V. - Ma…",
+      "detail": "INTU\n重點：新聞\n標題：Intuit Inc. $INTU Stock Position Cut by Robeco Institutional Asset Management B.V. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU3ctaU9PcHR6Sno5ZnFlQ2N4b1o1a3YzTmdRTGNabHhGRThIS2pOLXpRWTRpZmEyaC1XTTd5d3VFVFRtX3Jrd3p4YmZQM05GeVg0ZG1DUm1TT2RDWWQ1Wm4wM2VYVnhXSEhNbUV5dDhrcHBMM0ItbGZyNjBXS2VDbGprNm1IX1V0N2ZLenFQZ1p1bXZtSXJPeDNBbm5GSU1qdFZ4azVRRXBuU…\n來源：Google News:INTU\n其他：Intuit Inc. $INTU Position Lifted by DUTCH ASSET Corp - Mar…",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU3ctaU9PcHR6Sno5ZnFlQ2N4b1o1a3YzTmdRTGNabHhGRThIS2pOLXpRWTRpZmEyaC1XTTd5d3VFVFRtX3Jrd3p4YmZQM05GeVg0ZG1DUm1TT2RDWWQ1Wm4wM2VYVnhXSEhNbUV5dDhrcHBMM0ItbGZyNjBXS2VDbGprNm1IX1V0N2ZLenFQZ1p1bXZtSXJPeDNBbm5GSU1qdFZ4azVRRXBuU2lHX0J3ZFphLXBDaHFPQkpXMU5kMmhNenFxOXFJZlZVOG1FcWtMbHhqa3ZR?oc=5",
+      "source": "Google News:INTU",
+      "kind": "news"
+    },
+    {
+      "n": 6,
       "symbol": "IRDM",
       "short": "IRDM — 業績／指引：Iridium Communications (IRDM) Stock Price Lags Strong Q3 Earnings",
       "detail": "IRDM\n重點：業績／指引\n標題：Iridium Communications (IRDM) Stock Price Lags Strong Q3 Earnings\n摘要：Iridium Communications has built its story around dependable satellite coverage and a premium valuation, yet Q3 2026 delivered a twist. The stock came into the release under pressure, with the share price down over the past week, month and quarter, and it slipped another 0.5% in…\n來源：Yahoo Finance:IRDM\n其他：Iridium Communications (IRDM) Stock Price Lags Strong Q3 Ea…",
@@ -32,7 +59,25 @@
       "kind": "news"
     },
     {
-      "n": 4,
+      "n": 7,
+      "symbol": "JD",
+      "short": "JD — JD.com, Inc. $JD Shares Acquired by Robeco Institutional Asset Management B.V. - Market…",
+      "detail": "JD\n重點：新聞\n標題：JD.com, Inc. $JD Shares Acquired by Robeco Institutional Asset Management B.V. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQOUM0blF5NmViU0todTlUSGRfVkdCcFh0OFFiaXZ4TVFtczA1OFZpN3FremVSWk5zWFFuRGNsaklYLURNQmM3clZTY04xbEVUdXNjdEszMFByQWIwdGVJVm5BaW9iQl9wVmtBYTF6VUhoQ0x6dzJ0VFlkX0hWSHlCVzJ2UHctX3BuODhPa053QkRCR1RNbV9Jb0hld0tUVmJfUXNDNTFNMHZBd…\n來源：Google News:JD\n其他：JD.com, Inc. (NASDAQ:JD) Stock Rated \"Moderate Buy\" by Sell…",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOUM0blF5NmViU0todTlUSGRfVkdCcFh0OFFiaXZ4TVFtczA1OFZpN3FremVSWk5zWFFuRGNsaklYLURNQmM3clZTY04xbEVUdXNjdEszMFByQWIwdGVJVm5BaW9iQl9wVmtBYTF6VUhoQ0x6dzJ0VFlkX0hWSHlCVzJ2UHctX3BuODhPa053QkRCR1RNbV9Jb0hld0tUVmJfUXNDNTFNMHZBdmFpWThjdC1URHlORVp4ejlENERXaU5KV2xKNFpZZkVSRU5sQQ?oc=5",
+      "source": "Google News:JD",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "TGT",
+      "short": "TGT — Target Corporation $TGT Stock Purchased by Robeco Institutional Asset Management B.V. -…",
+      "detail": "TGT\n重點：新聞\n標題：Target Corporation $TGT Stock Purchased by Robeco Institutional Asset Management B.V. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaDdQR2F6UWNCd2hUWEhCdE1pbjBFamViYjlyaHJJZTdGN2xUY2MyOXVsSUVpc0dBcl9sbGY3MEdmblBSQ3JncG9aLTViS28yOWRKVXJlMmJjaU5KTy12YkdkUWxsMnQ5Ni1FbDFqMDBKZ2wwRG1INnZtWGszRFZtS21XOE10ZDFnT0xmZl9DZk1reHpWRlAtVVc3Rjh2LXRNZXYyTHJ4THhOY…\n來源：Google News:TGT\n其他：20,581 Target Corporation $TGT Shares Acquired by Nisa Inve…",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaDdQR2F6UWNCd2hUWEhCdE1pbjBFamViYjlyaHJJZTdGN2xUY2MyOXVsSUVpc0dBcl9sbGY3MEdmblBSQ3JncG9aLTViS28yOWRKVXJlMmJjaU5KTy12YkdkUWxsMnQ5Ni1FbDFqMDBKZ2wwRG1INnZtWGszRFZtS21XOE10ZDFnT0xmZl9DZk1reHpWRlAtVVc3Rjh2LXRNZXYyTHJ4THhOYmpadzRzcTRkNHJiMDNMNkwwbkM5VWRCWnNMSWU0Y1duQjVjNm94VktyUkhBOTFHcE0?oc=5",
+      "source": "Google News:TGT",
+      "kind": "news"
+    },
+    {
+      "n": 9,
       "symbol": "A",
       "short": "A — 併購／交易、業績／指引：Why Did BRZE, HLT, HAS Stocks Hit 52-Week Highs Today?",
       "detail": "A\n重點：併購／交易、業績／指引\n標題：Why Did BRZE, HLT, HAS Stocks Hit 52-Week Highs Today?\n摘要：The rallies were triggered by an acquisition agreement, a stock exchange transfer and stronger earnings.\n來源：Yahoo Finance:CRM",
@@ -41,25 +86,7 @@
       "kind": "news"
     },
     {
-      "n": 5,
-      "symbol": "ALSN",
-      "short": "ALSN — Allison Transmission Is Too Cheap To Drive Past (NYSE:ALSN) - Seeking Alpha",
-      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission Is Too Cheap To Drive Past (NYSE:ALSN) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWNQTGRZM0FRMy00WVFSVm1lWTZ2Nk1tOTZkdXR1QXQyVE9pQU1LMWVQWEYzTjJVdUQ4Z3h2UG1xNHgzTlpPUTdhelI0dXdxZFg0VmJVZU92SVlaYWlpdHpIZllablZfYmE3U1BJTzhwUEQ3enUwTmdOTWxXajRIRHBpenpIMURGLVpIY0t3U252Zw?oc=5\" target=\"_blank\">Allison …\n來源：Google News:ALSN",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWNQTGRZM0FRMy00WVFSVm1lWTZ2Nk1tOTZkdXR1QXQyVE9pQU1LMWVQWEYzTjJVdUQ4Z3h2UG1xNHgzTlpPUTdhelI0dXdxZFg0VmJVZU92SVlaYWlpdHpIZllablZfYmE3U1BJTzhwUEQ3enUwTmdOTWxXajRIRHBpenpIMURGLVpIY0t3U252Zw?oc=5",
-      "source": "Google News:ALSN",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "ANET",
-      "short": "ANET — AI相關：Arista Networks (ANET) Unveils Etherlink SU 144, Is The AI Upside Already Priced In? - …",
-      "detail": "ANET\n重點：AI相關\n標題：Arista Networks (ANET) Unveils Etherlink SU 144, Is The AI Upside Already Priced In? - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGNISVRwSkRNVk82MmtFRUlrMGR3aUloYXNLaXJTNXlVN2U2dGZYZGY5SGJmcVVBMklBLXpXam1Kd0dsSkItZnJuRTM1cFVDMG9mM3RkVi1aWWFnQ0xMZnhDcFRvajRqOWhOWjc5SlE3b2VTQ3k4cFR4a1J1NVhMdllyMU13QUVHSGk0LXdLQUxsM3g3LU5qd0tsUGVIaDZvWTMyZFZPZ2dKd…\n來源：Google News:ANET",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGNISVRwSkRNVk82MmtFRUlrMGR3aUloYXNLaXJTNXlVN2U2dGZYZGY5SGJmcVVBMklBLXpXam1Kd0dsSkItZnJuRTM1cFVDMG9mM3RkVi1aWWFnQ0xMZnhDcFRvajRqOWhOWjc5SlE3b2VTQ3k4cFR4a1J1NVhMdllyMU13QUVHSGk0LXdLQUxsM3g3LU5qd0tsUGVIaDZvWTMyZFZPZ2dKdk0xQ0JnbWFla2t6eVA2eXdudENJeVZzbHFWWGNR0gHMAUFVX3lxTFBpLU1udDhRQmlmbGJEcjVQZTlic3Q3Y0NUYWhDTUk2YUx3TXdsOW9hUWNmVV9jYktMaTd2bWZZOUlEamhYcjJuNC1fM3E4SkFLWlBqQzhCSEdMc0xPR0FuT2JqcjZseFZEQlEyc1J5NlVIQUUydkhYR2hHcF9VU2dEQ2xNRnl1VFU1cnh2TnNnX3lpWEd5ME5ubDVwWkc2bDBNSUFIa0tIb3lDMU5hOXBNUUV4LUtPNGl2Vm1US1hKeDE5aDR1ckx2enhDMw?oc=5",
-      "source": "Google News:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 7,
+      "n": 10,
       "symbol": "BHP",
       "short": "BHP — BHP Group (ASX:BHP) Keeps Outlook After Copper Drop And Fatal Incident",
       "detail": "BHP\n重點：新聞\n標題：BHP Group (ASX:BHP) Keeps Outlook After Copper Drop And Fatal Incident\n摘要：BHP Group (ASX:BHP) reported a sharp quarterly copper production drop after a fatal incident and severe weather disruptions. The miner kept its full year production outlook unchanged while flagging record iron ore output in the same quarter. BHP highlighted ongoing progress at i…\n來源：Yahoo Finance:BHP",
@@ -68,48 +95,21 @@
       "kind": "news"
     },
     {
-      "n": 8,
-      "symbol": "BILL",
-      "short": "BILL — AI相關：Why BILL (BILL) Stock Is Trading Up Today",
-      "detail": "BILL\n重點：AI相關\n標題：Why BILL (BILL) Stock Is Trading Up Today\n摘要：Shares of financial automation platform BILL (NYSE:BILL) jumped 6% in the afternoon session after the company announced a live pilot with Visa and Billtrust to enable artificial intelligence agents to execute buyer invoice payments.\n來源：Yahoo Finance:BILL",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-bill-bill-stock-trading-213350669.html?.tsrc=rss",
-      "source": "Yahoo Finance:BILL",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "CRM",
-      "short": "CRM — AI相關、業績／指引：What Did Salesforce Stock Investors Miss Before The Run?",
-      "detail": "CRM\n重點：AI相關、業績／指引\n標題：What Did Salesforce Stock Investors Miss Before The Run?\n摘要：Salesforce (CRM) stock returned 42.8% between July 21 and October 19, 2026, against 2.7% for the S&amp;P 500. The advance turned out to be about a return to faster growth. The biggest one-day gain of the window occurred on August 27. That move came the day after management repor…\n來源：Yahoo Finance:CRM",
-      "url": "https://www.trefis.com/articles/619385/what-did-salesforce-stock-investors-miss-before-the-run/2026-10-20?.tsrc=rss",
-      "source": "Yahoo Finance:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "EC",
-      "short": "EC — Fitch Ratings Affirms Ecopetrol's National and International Ratings and Highlights Its…",
-      "detail": "EC\n重點：新聞\n標題：Fitch Ratings Affirms Ecopetrol's National and International Ratings and Highlights Its Financial Strength\n摘要：Ecopetrol S.A. (BVC: ECOPETROL; NYSE: EC) announces that, in its report dated October 20, 2026, Fitch Ratings (\"Fitch\") affirmed the Company's global credit rating at BB, with a Stable Outlook, and its standalone credit profile (SACP) at'bbb-'. In addition, Fitch affirmed Ecopet…\n來源：Yahoo Finance:EC",
-      "url": "https://finance.yahoo.com/energy/articles/fitch-ratings-affirms-ecopetrols-national-020400591.html?.tsrc=rss",
-      "source": "Yahoo Finance:EC",
-      "kind": "news"
-    },
-    {
       "n": 11,
-      "symbol": "NTNX",
-      "short": "NTNX — Nutanix, Inc. ($NTNX) CEO 2026 Pay Revealed - Quiver Quantitative",
-      "detail": "NTNX\n重點：新聞\n標題：Nutanix, Inc. ($NTNX) CEO 2026 Pay Revealed - Quiver Quantitative\n摘要：<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNbnEta1FKQW5yZXYxNFNYQnRCVmkxbC1RMW50WFlYVnZ1NjFaekRCV1Nzd2xKSDk2eC16Vnh3ZWNjNXViU3VvN3Zmc0RZQUxGb1UtaDdieVc4MmIwVHRrbmppaHFuS3dCVmI2al82WHItSGVCLS12QkF3blRHaWl2VGxIZ2FHRkh5QzEwbw?oc=5\" target=\"_blank\">Nutanix, Inc. ($…\n來源：Google News:NTNX",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbnEta1FKQW5yZXYxNFNYQnRCVmkxbC1RMW50WFlYVnZ1NjFaekRCV1Nzd2xKSDk2eC16Vnh3ZWNjNXViU3VvN3Zmc0RZQUxGb1UtaDdieVc4MmIwVHRrbmppaHFuS3dCVmI2al82WHItSGVCLS12QkF3blRHaWl2VGxIZ2FHRkh5QzEwbw?oc=5",
-      "source": "Google News:NTNX",
+      "symbol": "BNY",
+      "short": "BNY — Bank of New York Mellon Corporation $BNY Stock: Robeco Institutional Asset Management B…",
+      "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon Corporation $BNY Stock: Robeco Institutional Asset Management B.V. Trims Holdings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQS2ZrdmhZRF8wWV84ajVXMHBvM0w0QlhndXYyeWhNblN4WEloblN5RnpuSS1FM1ZLLUZmb09HeEZfVVl3cmlVVk54ZGltMWNsWWlJYUgyaG5mQjM2a3lQTkZyMFVYUFByZ2xMQmlGWVU5WFptemo5cVhwcXpTNTVuRnl5ZFMwV1hwZUlEYVNkTTZGME8tMXRGc0JfMDdUQjBFcmNvWkExMkNBa…\n來源：Google News:BNY",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQS2ZrdmhZRF8wWV84ajVXMHBvM0w0QlhndXYyeWhNblN4WEloblN5RnpuSS1FM1ZLLUZmb09HeEZfVVl3cmlVVk54ZGltMWNsWWlJYUgyaG5mQjM2a3lQTkZyMFVYUFByZ2xMQmlGWVU5WFptemo5cVhwcXpTNTVuRnl5ZFMwV1hwZUlEYVNkTTZGME8tMXRGc0JfMDdUQjBFcmNvWkExMkNBa2F4Tm02dmc0VGZHb1JNb014UFdONHFyeXlVSjU4Ni1HNkk2WDlwUXdBempfR1BuR3NoN0pyd0xNUld1b196MGw3VC1Md0dHd0JG?oc=5",
+      "source": "Google News:BNY",
       "kind": "news"
     },
     {
       "n": 12,
-      "symbol": "PYPL",
-      "short": "PYPL — 併購／交易：What Could A PayPal Holdings (PYPL) All Stock Takeover Mean For Investors?",
-      "detail": "PYPL\n重點：併購／交易\n標題：What Could A PayPal Holdings (PYPL) All Stock Takeover Mean For Investors?\n摘要：PayPal Holdings (NasdaqGS: PYPL) is again the subject of takeover talk, with renewed rumors of an all stock bid by a West Coast tech acquirer. People familiar with the situation describe the potential buyer as a large listed technology group, though its identity has not been dis…\n來源：Yahoo Finance:PYPL",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-paypal-holdings-pypl-stock-032027042.html?.tsrc=rss",
-      "source": "Yahoo Finance:PYPL",
+      "symbol": "CRM",
+      "short": "CRM — Salesforce Inc. $CRM Stock Holdings Cut by Maia Wealth LLC - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stock Holdings Cut by Maia Wealth LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxORE9OWDdzazA3LTBjR1FJVEg3VWFON0Vja2xKSTFHTXFWcWRRdExQLVo1RW12Rm5SRFBGM0pDVVcxWVl1VWRrRnJ6RnJ2aFNySFNvX180MVFNZVR2dXZFRFlZa0gybGxwd3dOYUVwQTdWcmlja05YMFpiTFJacmd2cm16dEh1Wko3bkNWRjFobUtMYlhabHRDWjZXYTVQc01HYXdtNTVpTEl4N…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORE9OWDdzazA3LTBjR1FJVEg3VWFON0Vja2xKSTFHTXFWcWRRdExQLVo1RW12Rm5SRFBGM0pDVVcxWVl1VWRrRnJ6RnJ2aFNySFNvX180MVFNZVR2dXZFRFlZa0gybGxwd3dOYUVwQTdWcmlja05YMFpiTFJacmd2cm16dEh1Wko3bkNWRjFobUtMYlhabHRDWjZXYTVQc01HYXdtNTVpTEl4N0Vjd3czekd2RFZXSG0x?oc=5",
+      "source": "Google News:CRM",
       "kind": "news"
     }
   ]
