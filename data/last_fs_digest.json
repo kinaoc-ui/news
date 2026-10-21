@@ -1,38 +1,74 @@
 {
-  "title": "FS新聞 10-21 09:48",
-  "list_name": "FirstScreen_2026-10-21_094844_comma.txt",
-  "created_at": "2026-10-21T09:48:53.293528+00:00",
+  "title": "FS新聞 10-21 14:58",
+  "list_name": "FirstScreen_2026-10-21_145829_comma.txt",
+  "created_at": "2026-10-21T14:58:39.745664+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "FTNT",
+      "short": "FTNT — Fortinet stock falls as Arete delivers rare double downgrade to sell",
+      "detail": "FTNT\n重點：新聞\n標題：Fortinet stock falls as Arete delivers rare double downgrade to sell\n摘要：Investing.com -- Fortinet (NASDAQ: FTNT) shares fell 2.7% in premarket trading Wednesday after Arete Research downgraded the cybersecurity company by two notches, from buy to sell, warning that a convergence of favorable growth drivers could make 2026 a peak year for the stock.\n來源：Yahoo Finance:FTNT\n其他：Axecap Investments LLC Sells 6,386 Shares of Fortinet, Inc.…; 29,024 Shares in Fortinet, Inc. $FTNT Bought by Range Finan…; Fortinet (NASDAQ:FTNT) Stock Gets Downgrade from Arete Rese…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fortinet-stock-falls-arete-delivers-123936188.html?.tsrc=rss",
+      "source": "Yahoo Finance:FTNT",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "COF",
+      "short": "COF — 業績／指引：COF Q3 Earnings Call Highlights Integration and Spending Plans",
+      "detail": "COF\n重點：業績／指引\n標題：COF Q3 Earnings Call Highlights Integration and Spending Plans\n摘要：Capital One's Q3 earnings beat estimates as Discover synergies accelerate, credit quality improves and marketing and network investments take center stage.\n來源：Yahoo Finance:COF\n其他：Capital One Stock Gains as Q3 Earnings Beat Estimates on Hi…; Capital One Financial: Robust Earnings Growth Will Push Sha…; COF Q3 Deep Dive: Marketing Investments and Discover Integr…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cof-q3-earnings-call-highlights-130000195.html?.tsrc=rss",
+      "source": "Yahoo Finance:COF",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "MRK",
+      "short": "MRK — European Commission Approves KEYTRUDA® (pembrolizumab) Plus Padcev® (enfortumab vedotin…",
+      "detail": "MRK\n重點：新聞\n標題：European Commission Approves KEYTRUDA® (pembrolizumab) Plus Padcev® (enfortumab vedotin-ejfv) as Perioperative Treatment for Adults With Resectable Muscle-Invasive Bladder Cancer (MIBC)\n摘要：RAHWAY, N.J., October 21, 2026--Merck (NYSE: MRK), known as MSD outside of the United States and Canada, today announced the European Commission (EC) has approved KEYTRUDA® (pembrolizumab), Merck’s anti-PD-1 therapy, in combination with Padcev® (enfortumab vedotin-ejfv), as neoa…\n來源：Yahoo Finance:MRK\n其他：Merck & Co., Inc. (NYSE:MRK) Cut to \"Strong Sell\" at Zacks …; Merck & Co., Inc. $MRK Stock Sold by Nisa Investment Adviso…; Why Are Market Participants Following Merck & Co. (NYSE:MRK…",
+      "url": "https://finance.yahoo.com/healthcare/articles/european-commission-approves-keytruda-pembrolizumab-104500304.html?.tsrc=rss",
+      "source": "Yahoo Finance:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "WFRD",
+      "short": "WFRD — 業績／指引：Weatherford International (NASDAQ:WFRD) Shares Up 6% After Better-Than-Expected Earning…",
+      "detail": "WFRD\n重點：業績／指引\n標題：Weatherford International (NASDAQ:WFRD) Shares Up 6% After Better-Than-Expected Earnings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdVE5TXB2LUpUUjhBRHR1TmlsTVc3UlAyaExIN01aanFYQ0hMUUw0Y0RpSEsyMFYxMTlWMl80S3dWbGNWcW1uR2U4YjVadFRpUEQxbmtabDdxdmhtcXlhM1pKaTJyMTQ2MkFMVVl4Qnc1UlZBLWxZSGF6ekk2bUtQTUk3SENucmdYRHdzb0hmV3RxSzhWRTRYdWtfLXNwaXA5OVV2dEpYbWJwN…\n來源：Google News:WFRD\n其他：Weatherford (NASDAQ:WFRD) beats Q3 2026 sales expectations …; Weatherford (NASDAQ:WFRD) beats Q3 2026 sales expectations",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdVE5TXB2LUpUUjhBRHR1TmlsTVc3UlAyaExIN01aanFYQ0hMUUw0Y0RpSEsyMFYxMTlWMl80S3dWbGNWcW1uR2U4YjVadFRpUEQxbmtabDdxdmhtcXlhM1pKaTJyMTQ2MkFMVVl4Qnc1UlZBLWxZSGF6ekk2bUtQTUk3SENucmdYRHdzb0hmV3RxSzhWRTRYdWtfLXNwaXA5OVV2dEpYbWJwNEowX1JOaVVNZFZ2UnA3NncycTJqREdnOHMwai1TZ0NuTDRMUFNPaGJWLUt6ZmJnOHFXWWc?oc=5",
+      "source": "Google News:WFRD",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "ANET",
+      "short": "ANET — Arista Networks, Inc. $ANET Shares Sold by Robbins Farley - MarketBeat",
+      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Shares Sold by Robbins Farley - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQbWppNDJwWEFOaGJzdDc3M2JRZGhPRmZHRWk4RFNacTRIVlNCMTBzV001dDQxTGI1VGc4Mlp0WnFycGdTRE9fbGFmRXRtcHpvdHhSeGpORTZTUldJX3dMSG51TmtzUUlKNmJFR2pyUTVId29CMkJtaDFNamhwZGhZVi1BNERMcHNjWUZuUDdXUTdNaHhPdzRNNlB5d3ZRYjVPVThKenNOV3JVU…\n來源：Google News:ANET\n其他：Arista Networks, Inc. $ANET Stock: Robeco Institutional Ass…",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbWppNDJwWEFOaGJzdDc3M2JRZGhPRmZHRWk4RFNacTRIVlNCMTBzV001dDQxTGI1VGc4Mlp0WnFycGdTRE9fbGFmRXRtcHpvdHhSeGpORTZTUldJX3dMSG51TmtzUUlKNmJFR2pyUTVId29CMkJtaDFNamhwZGhZVi1BNERMcHNjWUZuUDdXUTdNaHhPdzRNNlB5d3ZRYjVPVThKenNOV3JVUlRTTDZmcXBiZGVVUQ?oc=5",
+      "source": "Google News:ANET",
+      "kind": "news"
+    },
+    {
+      "n": 6,
       "symbol": "BKNG",
       "short": "BKNG — Booking Holdings Inc. $BKNG Stock Sold by Robeco Institutional Asset Management B.V. - …",
-      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Stock Sold by Robeco Institutional Asset Management B.V. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQk9zQmhKSkN1LVRneVo2OGt4U2xwSDVmS09wMDc1TENXZUQ4QlY0eGdxU3dybjhiR1gyUjd2bnRnMnF0MV9HMk9Ea09GbWc2UmdadS1adFFyN2M4ODQwY1c1a0pkUlQzQ1Bva2V6WXdQV3pRTkpMUm00SGhGQ0dHdGRBM20zYTB5Zi0teEtLcmNYb1RScWRhVXNSQW54X1Q3eEg4cjduTl9tQ…\n來源：Google News:BKNG\n其他：Booking Holdings Inc. $BKNG Stock Sold by SteelPeak Wealth …; Booking Holdings Inc. $BKNG Shares Purchased by Nisa Invest…",
+      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Stock Sold by Robeco Institutional Asset Management B.V. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQk9zQmhKSkN1LVRneVo2OGt4U2xwSDVmS09wMDc1TENXZUQ4QlY0eGdxU3dybjhiR1gyUjd2bnRnMnF0MV9HMk9Ea09GbWc2UmdadS1adFFyN2M4ODQwY1c1a0pkUlQzQ1Bva2V6WXdQV3pRTkpMUm00SGhGQ0dHdGRBM20zYTB5Zi0teEtLcmNYb1RScWRhVXNSQW54X1Q3eEg4cjduTl9tQ…\n來源：Google News:BKNG\n其他：Booking Holdings Inc. $BKNG Stock Sold by SteelPeak Wealth …",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQk9zQmhKSkN1LVRneVo2OGt4U2xwSDVmS09wMDc1TENXZUQ4QlY0eGdxU3dybjhiR1gyUjd2bnRnMnF0MV9HMk9Ea09GbWc2UmdadS1adFFyN2M4ODQwY1c1a0pkUlQzQ1Bva2V6WXdQV3pRTkpMUm00SGhGQ0dHdGRBM20zYTB5Zi0teEtLcmNYb1RScWRhVXNSQW54X1Q3eEg4cjduTl9tQS0xV09ZVHAtYUpNMmpoRVFfVGlHLWZpZXVEa1NJWWd0bkt0czJpbFBxTVhYbWI?oc=5",
       "source": "Google News:BKNG",
       "kind": "news"
     },
     {
-      "n": 2,
-      "symbol": "MRK",
-      "short": "MRK — 6,860 Merck & Co., Inc. $MRK Shares Sold by QV Investors Inc. - MarketBeat",
-      "detail": "MRK\n重點：新聞\n標題：6,860 Merck & Co., Inc. $MRK Shares Sold by QV Investors Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFN2eEw1akl4SnRod084Q0dmQnZpX2pySTZmMnJjMnNEa0NpWTE5UVdja3hERVQzdzBkZzY2UHNERU5hYnF0TWxfX0x3UkgtTjdsbUFNM0NjX2NEM2tfTGo0X1RTM19iSmJuRjhZMHBKRlVDUnN4ZHRZWmtBaWYyY2t5TzBrUlBjTEhVRnI0TlFsaFQ0VkxhUFN1OG9PR21HNTlPTlhkbUFTM…\n來源：Google News:MRK\n其他：Merck & Co., Inc. $MRK Stock Sold by Nisa Investment Adviso…; Why Are Market Participants Following Merck & Co. (NYSE:MRK…",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFN2eEw1akl4SnRod084Q0dmQnZpX2pySTZmMnJjMnNEa0NpWTE5UVdja3hERVQzdzBkZzY2UHNERU5hYnF0TWxfX0x3UkgtTjdsbUFNM0NjX2NEM2tfTGo0X1RTM19iSmJuRjhZMHBKRlVDUnN4ZHRZWmtBaWYyY2t5TzBrUlBjTEhVRnI0TlFsaFQ0VkxhUFN1OG9PR21HNTlPTlhkbUFTM1BoZ250MWthd1E?oc=5",
-      "source": "Google News:MRK",
+      "n": 7,
+      "symbol": "CRM",
+      "short": "CRM — Salesforce Acquires Braze: Upside Case Is Becoming Clearer (NYSE:CRM) - Seeking Alpha",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce Acquires Braze: Upside Case Is Becoming Clearer (NYSE:CRM) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOaGdkbTlpSnFDN0s4MmRfNnVLZWFibTFIOGtCbUJ1Vno1Nlp2bUtsN3l4QzlvQXlld3BZS043dTBwSS1sdER0Njg3ZXBiVUZCclhPSUQ4TkNMX3VxQ2dwYV91MlBYOGdRcUtoRktsbnBkdi13YVI5aTNzZWxDejBydm1DYmI0d202Nl9ROFJtU0FQaG5pX3BRcURZUGhXRGc?oc=5\" target=…\n來源：Google News:CRM\n其他：Salesforce Inc. $CRM Stock Holdings Increased by Quadrant C…",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaGdkbTlpSnFDN0s4MmRfNnVLZWFibTFIOGtCbUJ1Vno1Nlp2bUtsN3l4QzlvQXlld3BZS043dTBwSS1sdER0Njg3ZXBiVUZCclhPSUQ4TkNMX3VxQ2dwYV91MlBYOGdRcUtoRktsbnBkdi13YVI5aTNzZWxDejBydm1DYmI0d202Nl9ROFJtU0FQaG5pX3BRcURZUGhXRGc?oc=5",
+      "source": "Google News:CRM",
       "kind": "news"
     },
     {
-      "n": 3,
-      "symbol": "ANET",
-      "short": "ANET — Arista Networks, Inc. $ANET Stock: Robeco Institutional Asset Management B.V. Lowers Ho…",
-      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Stock: Robeco Institutional Asset Management B.V. Lowers Holdings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZEdVWGhrVF9wbnZSa3BtSXNUYUNtd0tlNmc5WEpxRTdXbjktbTZHemgzVHdxbjVBWkpWUjIwNkVDR2NpclhVZEhOLTEtR0lTUWo1My1ZMFBSejVVRlJMc3owcXNKd1N1a3NtbXlKbkltZkM3ZUdHb2U2WE5palhBVWxkY1loakVMOXp5OWUyZmEyZm50Q2EzQ2laa25USWM1ZFlzRWNwMW5jd…\n來源：Google News:ANET\n其他：Nisa Investment Advisors LLC Buys 7,020 Shares of Arista Ne…",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZEdVWGhrVF9wbnZSa3BtSXNUYUNtd0tlNmc5WEpxRTdXbjktbTZHemgzVHdxbjVBWkpWUjIwNkVDR2NpclhVZEhOLTEtR0lTUWo1My1ZMFBSejVVRlJMc3owcXNKd1N1a3NtbXlKbkltZkM3ZUdHb2U2WE5palhBVWxkY1loakVMOXp5OWUyZmEyZm50Q2EzQ2laa25USWM1ZFlzRWNwMW5jdUtmRWJVb09fMXhxaXVBdzRuVEs2ZmgwWGpmMV9JRlFUWU16VFVrOEFELUxIWEQ2Y0VvSDBzbGd3?oc=5",
-      "source": "Google News:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 4,
+      "n": 8,
       "symbol": "FSK",
       "short": "FSK — 115,282 FS KKR Capital Corp. $FSK Shares Sold by Maia Wealth LLC - MarketBeat",
       "detail": "FSK\n重點：新聞\n標題：115,282 FS KKR Capital Corp. $FSK Shares Sold by Maia Wealth LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQb19wenQzdEVFOW5nbEpLM3V4SlNmZzBvTGZoZ29ROTFmdXRYRkZxWldEYzhsT2dxSS1BQ0V3ejN6akU3YzY1UE9ZbFUweENOR3ZnY2haVnFncE0wdV85enBFRHBKTnd3X0MxbVNMbFBNb3pDMllIVmVFOV9ONWV2RUMwTS1ORDVnRnpabWpScjd6MkR2dVRuTU94OUVtZHFiajk3V3R6VXAzN…\n來源：Google News:FSK\n其他：862,445 FS KKR Capital Corp. $FSK Shares Sold by Beach Poin…",
@@ -41,7 +77,7 @@
       "kind": "news"
     },
     {
-      "n": 5,
+      "n": 9,
       "symbol": "INTU",
       "short": "INTU — Intuit Inc. $INTU Stock Position Cut by Robeco Institutional Asset Management B.V. - Ma…",
       "detail": "INTU\n重點：新聞\n標題：Intuit Inc. $INTU Stock Position Cut by Robeco Institutional Asset Management B.V. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU3ctaU9PcHR6Sno5ZnFlQ2N4b1o1a3YzTmdRTGNabHhGRThIS2pOLXpRWTRpZmEyaC1XTTd5d3VFVFRtX3Jrd3p4YmZQM05GeVg0ZG1DUm1TT2RDWWQ1Wm4wM2VYVnhXSEhNbUV5dDhrcHBMM0ItbGZyNjBXS2VDbGprNm1IX1V0N2ZLenFQZ1p1bXZtSXJPeDNBbm5GSU1qdFZ4azVRRXBuU…\n來源：Google News:INTU\n其他：Intuit Inc. $INTU Position Lifted by DUTCH ASSET Corp - Mar…",
@@ -50,66 +86,30 @@
       "kind": "news"
     },
     {
-      "n": 6,
-      "symbol": "IRDM",
-      "short": "IRDM — 業績／指引：Iridium Communications (IRDM) Stock Price Lags Strong Q3 Earnings",
-      "detail": "IRDM\n重點：業績／指引\n標題：Iridium Communications (IRDM) Stock Price Lags Strong Q3 Earnings\n摘要：Iridium Communications has built its story around dependable satellite coverage and a premium valuation, yet Q3 2026 delivered a twist. The stock came into the release under pressure, with the share price down over the past week, month and quarter, and it slipped another 0.5% in…\n來源：Yahoo Finance:IRDM\n其他：Iridium Communications (IRDM) Stock Price Lags Strong Q3 Ea…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/iridium-communications-irdm-stock-price-021128578.html?.tsrc=rss",
-      "source": "Yahoo Finance:IRDM",
+      "n": 10,
+      "symbol": "ROST",
+      "short": "ROST — Ross Stores, Inc. $ROST Shares Sold by Axecap Investments LLC - MarketBeat",
+      "detail": "ROST\n重點：新聞\n標題：Ross Stores, Inc. $ROST Shares Sold by Axecap Investments LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOGFDaFhyUzQ0VGl6RkhIT2xnQnNOeTVWY0kzSVM5N2g4b0VYNC1ZNkVpQ3EzVFZzbGo2S0lqVWxVTEpJT1hhVUtQV3drbXpNdVBJQWdzLTR2RHdWVE5WWEsyUTA2VVpZZVlYSkFLdEJkQVBfX052TE82LXE5TlFlOFl1b2E5QkUxbG0tRm5ITWxFdzVqaC1EUDhMNDVlTUJUVlMwUm85TkN1W…\n來源：Google News:ROST\n其他：5,482 Ross Stores, Inc. $ROST Shares Sold by Robeco Institu…",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOGFDaFhyUzQ0VGl6RkhIT2xnQnNOeTVWY0kzSVM5N2g4b0VYNC1ZNkVpQ3EzVFZzbGo2S0lqVWxVTEpJT1hhVUtQV3drbXpNdVBJQWdzLTR2RHdWVE5WWEsyUTA2VVpZZVlYSkFLdEJkQVBfX052TE82LXE5TlFlOFl1b2E5QkUxbG0tRm5ITWxFdzVqaC1EUDhMNDVlTUJUVlMwUm85TkN1WEd0WmF0SjRxM29aRzdLcXRZ?oc=5",
+      "source": "Google News:ROST",
       "kind": "news"
     },
     {
-      "n": 7,
-      "symbol": "JD",
-      "short": "JD — JD.com, Inc. $JD Shares Acquired by Robeco Institutional Asset Management B.V. - Market…",
-      "detail": "JD\n重點：新聞\n標題：JD.com, Inc. $JD Shares Acquired by Robeco Institutional Asset Management B.V. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQOUM0blF5NmViU0todTlUSGRfVkdCcFh0OFFiaXZ4TVFtczA1OFZpN3FremVSWk5zWFFuRGNsaklYLURNQmM3clZTY04xbEVUdXNjdEszMFByQWIwdGVJVm5BaW9iQl9wVmtBYTF6VUhoQ0x6dzJ0VFlkX0hWSHlCVzJ2UHctX3BuODhPa053QkRCR1RNbV9Jb0hld0tUVmJfUXNDNTFNMHZBd…\n來源：Google News:JD\n其他：JD.com, Inc. (NASDAQ:JD) Stock Rated \"Moderate Buy\" by Sell…",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOUM0blF5NmViU0todTlUSGRfVkdCcFh0OFFiaXZ4TVFtczA1OFZpN3FremVSWk5zWFFuRGNsaklYLURNQmM3clZTY04xbEVUdXNjdEszMFByQWIwdGVJVm5BaW9iQl9wVmtBYTF6VUhoQ0x6dzJ0VFlkX0hWSHlCVzJ2UHctX3BuODhPa053QkRCR1RNbV9Jb0hld0tUVmJfUXNDNTFNMHZBdmFpWThjdC1URHlORVp4ejlENERXaU5KV2xKNFpZZkVSRU5sQQ?oc=5",
-      "source": "Google News:JD",
+      "n": 11,
+      "symbol": "STRC",
+      "short": "STRC — Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock (NASDAQ:STRC) Dec…",
+      "detail": "STRC\n重點：新聞\n標題：Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock (NASDAQ:STRC) Declares Dividend Increase - $0.04 Per Share - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxNRFFmM0d4dGdHRXMxMExTUzdUalFNZ0poU2pkNkpFQ1FCSTA0bmpEcFdYc2NhSGUwN1htUXhXQ0ppUWNaWkxTVUJqSHRkdXBNSFVpbGIzYktqZHQxWHZjeXNaTE52MEJ5alh4NG9rSlllVnNEM1dDX2QtcDhlbnp1dzlOSlBVMmhMZFV4Z3ptb3JXXzdDNGd3ckpNaVZWbU51aHpNdmlMM1pxT…\n來源：Google News:STRC\n其他：Strategy Inc Variable Rate Series A Perpetual Stretch Prefe…",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNRFFmM0d4dGdHRXMxMExTUzdUalFNZ0poU2pkNkpFQ1FCSTA0bmpEcFdYc2NhSGUwN1htUXhXQ0ppUWNaWkxTVUJqSHRkdXBNSFVpbGIzYktqZHQxWHZjeXNaTE52MEJ5alh4NG9rSlllVnNEM1dDX2QtcDhlbnp1dzlOSlBVMmhMZFV4Z3ptb3JXXzdDNGd3ckpNaVZWbU51aHpNdmlMM1pxTDdPVFRzbE9HczllWXhvXy1Vd2wtRjJHdVNmWWNwOW1xc21TdVZndDhMb1hJZ244ODhHbW50c3UzbkhOMFN6enpmRXVlakh4M21OU2pfWjMzRDVSaGJ4VFloS0lySkE1NlMwRHdIeW9YVQ?oc=5",
+      "source": "Google News:STRC",
       "kind": "news"
     },
     {
-      "n": 8,
+      "n": 12,
       "symbol": "TGT",
       "short": "TGT — Target Corporation $TGT Stock Purchased by Robeco Institutional Asset Management B.V. -…",
       "detail": "TGT\n重點：新聞\n標題：Target Corporation $TGT Stock Purchased by Robeco Institutional Asset Management B.V. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaDdQR2F6UWNCd2hUWEhCdE1pbjBFamViYjlyaHJJZTdGN2xUY2MyOXVsSUVpc0dBcl9sbGY3MEdmblBSQ3JncG9aLTViS28yOWRKVXJlMmJjaU5KTy12YkdkUWxsMnQ5Ni1FbDFqMDBKZ2wwRG1INnZtWGszRFZtS21XOE10ZDFnT0xmZl9DZk1reHpWRlAtVVc3Rjh2LXRNZXYyTHJ4THhOY…\n來源：Google News:TGT\n其他：20,581 Target Corporation $TGT Shares Acquired by Nisa Inve…",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaDdQR2F6UWNCd2hUWEhCdE1pbjBFamViYjlyaHJJZTdGN2xUY2MyOXVsSUVpc0dBcl9sbGY3MEdmblBSQ3JncG9aLTViS28yOWRKVXJlMmJjaU5KTy12YkdkUWxsMnQ5Ni1FbDFqMDBKZ2wwRG1INnZtWGszRFZtS21XOE10ZDFnT0xmZl9DZk1reHpWRlAtVVc3Rjh2LXRNZXYyTHJ4THhOYmpadzRzcTRkNHJiMDNMNkwwbkM5VWRCWnNMSWU0Y1duQjVjNm94VktyUkhBOTFHcE0?oc=5",
       "source": "Google News:TGT",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "A",
-      "short": "A — 併購／交易、業績／指引：Why Did BRZE, HLT, HAS Stocks Hit 52-Week Highs Today?",
-      "detail": "A\n重點：併購／交易、業績／指引\n標題：Why Did BRZE, HLT, HAS Stocks Hit 52-Week Highs Today?\n摘要：The rallies were triggered by an acquisition agreement, a stock exchange transfer and stronger earnings.\n來源：Yahoo Finance:CRM",
-      "url": "https://stocktwits.com/news-articles/markets/equity/why-did-brze-hlt-has-stocks-hit-52-week-highs-today/cZxtFTNRBHl?.tsrc=rss",
-      "source": "Yahoo Finance:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "BHP",
-      "short": "BHP — BHP Group (ASX:BHP) Keeps Outlook After Copper Drop And Fatal Incident",
-      "detail": "BHP\n重點：新聞\n標題：BHP Group (ASX:BHP) Keeps Outlook After Copper Drop And Fatal Incident\n摘要：BHP Group (ASX:BHP) reported a sharp quarterly copper production drop after a fatal incident and severe weather disruptions. The miner kept its full year production outlook unchanged while flagging record iron ore output in the same quarter. BHP highlighted ongoing progress at i…\n來源：Yahoo Finance:BHP",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/bhp-group-asx-bhp-keeps-021358012.html?.tsrc=rss",
-      "source": "Yahoo Finance:BHP",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "BNY",
-      "short": "BNY — Bank of New York Mellon Corporation $BNY Stock: Robeco Institutional Asset Management B…",
-      "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon Corporation $BNY Stock: Robeco Institutional Asset Management B.V. Trims Holdings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQS2ZrdmhZRF8wWV84ajVXMHBvM0w0QlhndXYyeWhNblN4WEloblN5RnpuSS1FM1ZLLUZmb09HeEZfVVl3cmlVVk54ZGltMWNsWWlJYUgyaG5mQjM2a3lQTkZyMFVYUFByZ2xMQmlGWVU5WFptemo5cVhwcXpTNTVuRnl5ZFMwV1hwZUlEYVNkTTZGME8tMXRGc0JfMDdUQjBFcmNvWkExMkNBa…\n來源：Google News:BNY",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQS2ZrdmhZRF8wWV84ajVXMHBvM0w0QlhndXYyeWhNblN4WEloblN5RnpuSS1FM1ZLLUZmb09HeEZfVVl3cmlVVk54ZGltMWNsWWlJYUgyaG5mQjM2a3lQTkZyMFVYUFByZ2xMQmlGWVU5WFptemo5cVhwcXpTNTVuRnl5ZFMwV1hwZUlEYVNkTTZGME8tMXRGc0JfMDdUQjBFcmNvWkExMkNBa2F4Tm02dmc0VGZHb1JNb014UFdONHFyeXlVSjU4Ni1HNkk2WDlwUXdBempfR1BuR3NoN0pyd0xNUld1b196MGw3VC1Md0dHd0JG?oc=5",
-      "source": "Google News:BNY",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce Inc. $CRM Stock Holdings Cut by Maia Wealth LLC - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stock Holdings Cut by Maia Wealth LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxORE9OWDdzazA3LTBjR1FJVEg3VWFON0Vja2xKSTFHTXFWcWRRdExQLVo1RW12Rm5SRFBGM0pDVVcxWVl1VWRrRnJ6RnJ2aFNySFNvX180MVFNZVR2dXZFRFlZa0gybGxwd3dOYUVwQTdWcmlja05YMFpiTFJacmd2cm16dEh1Wko3bkNWRjFobUtMYlhabHRDWjZXYTVQc01HYXdtNTVpTEl4N…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORE9OWDdzazA3LTBjR1FJVEg3VWFON0Vja2xKSTFHTXFWcWRRdExQLVo1RW12Rm5SRFBGM0pDVVcxWVl1VWRrRnJ6RnJ2aFNySFNvX180MVFNZVR2dXZFRFlZa0gybGxwd3dOYUVwQTdWcmlja05YMFpiTFJacmd2cm16dEh1Wko3bkNWRjFobUtMYlhabHRDWjZXYTVQc01HYXdtNTVpTEl4N0Vjd3czekd2RFZXSG0x?oc=5",
-      "source": "Google News:CRM",
       "kind": "news"
     }
   ]
