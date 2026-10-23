@@ -1,115 +1,97 @@
 {
-  "title": "FS新聞 10-22 14:58",
-  "list_name": "FirstScreen_2026-10-22_145819_comma.txt",
-  "created_at": "2026-10-22T14:58:29.310090+00:00",
+  "title": "FS新聞 10-23 05:05",
+  "list_name": "FirstScreen_2026-10-23_050536_comma.txt",
+  "created_at": "2026-10-23T05:05:45.202873+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "DGX",
-      "short": "DGX — 業績／指引：QUEST DIAGNOSTICS ($DGX) Releases Q3 2026 Earnings - Quiver Quantitative",
-      "detail": "DGX\n重點：業績／指引\n標題：QUEST DIAGNOSTICS ($DGX) Releases Q3 2026 Earnings - Quiver Quantitative\n摘要：<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUtjcWdWX0hLMmQ0UTRPUEpoa1YyVkoza0s2T1gxc1BZYi1oOUZZLUU3cEM3X1pFV1hONXNXMEx2aWVhcHBBN3BWdWVWRksxand1TUoxUTRuNXhXM2F4TVJHV0VoRW5BOUJJbGR6U29qRGkzYjk3NTFhY2VVc2pEU0d2WFJ4RmpCdzNNdDQ1SFpVVzQ?oc=5\" target=\"_blank\">QUEST D…\n來源：Google News:DGX\n其他：Quest’s (NYSE:DGX) Q3 2026: beats on revenue; Quest’s (NYSE:DGX) Q3 2026: beats on revenue - Yahoo Finance; Quest Diagnostics (DGX) Q3 Earnings and Revenues Beat Estim…",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUtjcWdWX0hLMmQ0UTRPUEpoa1YyVkoza0s2T1gxc1BZYi1oOUZZLUU3cEM3X1pFV1hONXNXMEx2aWVhcHBBN3BWdWVWRksxand1TUoxUTRuNXhXM2F4TVJHV0VoRW5BOUJJbGR6U29qRGkzYjk3NTFhY2VVc2pEU0d2WFJ4RmpCdzNNdDQ1SFpVVzQ?oc=5",
-      "source": "Google News:DGX",
+      "symbol": "SLG",
+      "short": "SLG — 業績／指引：What SL Green Realty (SLG) Said on Its Q3 Earnings Call",
+      "detail": "SLG\n重點：業績／指引\n標題：What SL Green Realty (SLG) Said on Its Q3 Earnings Call\n摘要：SL Green Realty (NYSE:SLG) said its third-quarter performance reflected continued strength in Manhattan’s office leasing market, as the company surpassed 2 million square feet of leasing year to date and lifted leased occupancy to 95%. Chairman and Chief Executive Officer Marc H…\n來源：Yahoo Finance:SLG\n其他：SL Green Realty (SLG) Stock Rallies As Q3 Earnings Ease Bal…; SL Green (SLG) Q3 2026 Earnings Call Transcript; SL Green: Beating Market Expectations Yet Again (NYSE:SLG) …",
+      "url": "https://www.marketbeat.com/instant-alerts/transcript-what-sl-green-realty-slg-said-on-its-q3-earnings-call-2026-10-22/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance:SLG",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "HCA",
-      "short": "HCA — 業績／指引：Countdown to HCA (HCA) Q3 Earnings: A Look at Estimates Beyond Revenue and EPS",
-      "detail": "HCA\n重點：業績／指引\n標題：Countdown to HCA (HCA) Q3 Earnings: A Look at Estimates Beyond Revenue and EPS\n摘要：Evaluate the expected performance of HCA (HCA) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.\n來源：Yahoo Finance:HCA\n其他：Will HCA Healthcare's Q3 Earnings Benefit From Higher Admis…; HCA Healthcare, Inc. $HCA Shares Sold by Eagle Rock Investm…; HCA Healthcare, Inc. $HCA Stock Sold by Cooke & Bieler LP -…",
-      "url": "https://finance.yahoo.com/healthcare/articles/countdown-hca-hca-q3-earnings-121504068.html?.tsrc=rss",
-      "source": "Yahoo Finance:HCA",
+      "symbol": "ROKU",
+      "short": "ROKU — Roku (NASDAQ:ROKU) Stock Price Up 1.4% - Should You Buy? - MarketBeat",
+      "detail": "ROKU\n重點：新聞\n標題：Roku (NASDAQ:ROKU) Stock Price Up 1.4% - Should You Buy? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPU25XN2JDWDE2SXlHWEFxWGZyLU04cVdfQkdsR3ZIc1lsbHJDb0EwM1B1cXktOTJDbVFURFRDVEd1Uk1uQ09YdGxzckI3MGhVclBsdGJYMEprRVBfYk4zaFZVeWI3dFNyM3MxU25oOXZFaXdMU2N1MS01TEJueXZnT1hFYUZUVVBTcGZpc0dKYzl6blJCd3RCY3lQRG83M0xxZmp5WGxjZ1BiR…\n來源：Google News:ROKU\n其他：Roku (NASDAQ:ROKU) Reaches New 12-Month High - Here's Why -…",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU25XN2JDWDE2SXlHWEFxWGZyLU04cVdfQkdsR3ZIc1lsbHJDb0EwM1B1cXktOTJDbVFURFRDVEd1Uk1uQ09YdGxzckI3MGhVclBsdGJYMEprRVBfYk4zaFZVeWI3dFNyM3MxU25oOXZFaXdMU2N1MS01TEJueXZnT1hFYUZUVVBTcGZpc0dKYzl6blJCd3RCY3lQRG83M0xxZmp5WGxjZ1BiREpWUEE?oc=5",
+      "source": "Google News:ROKU",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "MDT",
-      "short": "MDT — Lmcg Investments LLC Acquires 21,269 Shares of Medtronic PLC $MDT - MarketBeat",
-      "detail": "MDT\n重點：新聞\n標題：Lmcg Investments LLC Acquires 21,269 Shares of Medtronic PLC $MDT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGdnelR4RnNzVUgwWHFvRWJTYXRBSDlHVng3Z1RFVDNPdi1UOFNYaktReDdLclpQUm1ZOUltaXRIeEFNSkJ0Ym5IVGVYWkVpb3pkZjJQNDZvZ25NblZqaWRCU1NKcWYwVVNCcXNpQ0RGWG1VYVpsU1lfSTFSeXljQVFZcUpmTUV4YWpIendVbk5fX3FtWnJ5b3lzZWJ2SllnWHRfQlEyclZVS…\n來源：Google News:MDT\n其他：Crossmark Global Holdings Inc. Sells 15,994 Shares of Medtr…; Medtronic PLC $MDT Holdings Trimmed by Cooke & Bieler LP - …",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGdnelR4RnNzVUgwWHFvRWJTYXRBSDlHVng3Z1RFVDNPdi1UOFNYaktReDdLclpQUm1ZOUltaXRIeEFNSkJ0Ym5IVGVYWkVpb3pkZjJQNDZvZ25NblZqaWRCU1NKcWYwVVNCcXNpQ0RGWG1VYVpsU1lfSTFSeXljQVFZcUpmTUV4YWpIendVbk5fX3FtWnJ5b3lzZWJ2SllnWHRfQlEyclZVS2VlV0lhWFFvV0tjM1FWSktnOW40Y2lQdw?oc=5",
-      "source": "Google News:MDT",
+      "symbol": "ANET",
+      "short": "ANET — Arista Networks (NYSE:ANET) Insider Sells 26,000 Shares of Stock - MarketBeat",
+      "detail": "ANET\n重點：新聞\n標題：Arista Networks (NYSE:ANET) Insider Sells 26,000 Shares of Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQREpTRHR5LUdGTjJBOEJRNjVfYkZhc3k2cHlPblVFbTBJUmJ1aXZPdVJUejdkU3RXb2M2LUFtVzR6bGZoTEw1MG0yeXI1SkRVS08zNWZ3bDV2TVdrUUZ2eVo1NFVjcFN1aDR5MVNsVnBfeEVrZ3k4ZWJzMTRVaGJQSmtJMndNeW8tR25ObVdrUTJlUFFnN2VGX0JOb0hCZndtOWFXOFA1MGt6Z…\n來源：Google News:ANET",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQREpTRHR5LUdGTjJBOEJRNjVfYkZhc3k2cHlPblVFbTBJUmJ1aXZPdVJUejdkU3RXb2M2LUFtVzR6bGZoTEw1MG0yeXI1SkRVS08zNWZ3bDV2TVdrUUZ2eVo1NFVjcFN1aDR5MVNsVnBfeEVrZ3k4ZWJzMTRVaGJQSmtJMndNeW8tR25ObVdrUTJlUFFnN2VGX0JOb0hCZndtOWFXOFA1MGt6ZUhMT1p0Z1g0aWhKdXJqd0lEN2tLR1E?oc=5",
+      "source": "Google News:ANET",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "MRK",
-      "short": "MRK — 業績／指引：Earnings Preview: Merck (MRK) Q3 Earnings Expected to Decline",
-      "detail": "MRK\n重點：業績／指引\n標題：Earnings Preview: Merck (MRK) Q3 Earnings Expected to Decline\n摘要：Merck (MRK) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.\n來源：Yahoo Finance:MRK\n其他：Merck & Co., Inc. $MRK Stock Sold by Inlet Private Wealth L…; Merck (MRK) Wins EU Approval For Perioperative Bladder Canc…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-merck-mrk-q3-130027019.html?.tsrc=rss",
-      "source": "Yahoo Finance:MRK",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "PDD",
-      "short": "PDD — 業績／指引：PDD Holdings (PDD) Stock Looks Cheap After A 39% Slide",
-      "detail": "PDD\n重點：業績／指引\n標題：PDD Holdings (PDD) Stock Looks Cheap After A 39% Slide\n摘要：PDD Holdings has seen its share price fall sharply over the past year, which puts a spotlight on one basic question for investors: Is the current valuation still in line with what the business is earning today and what those earnings may support over time? The stock is down 39.5…\n來源：Yahoo Finance:PDD\n其他：Learn Why The Bull Case For PDD Holdings Stock Could Change…; PDD Holdings (PDD) Faces A Texas Privacy Settlement As Unde…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-pdd-stock-looks-130811316.html?.tsrc=rss",
-      "source": "Yahoo Finance:PDD",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "BKNG",
-      "short": "BKNG — Booking Holdings Inc. $BKNG Stock Bought by Vest Financial LLC - MarketBeat",
-      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Stock Bought by Vest Financial LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNWjdNcEdBUGpSWnVaWlp0dGRSejlibUx2RHk3XzAxV0VST0tERWFEMkRndmd1LWdDQnJkRFRKelMxeHVUZXVCUVQ0WWhGWnhpWExoWGVNNlJkYkpWNHN0Q2dpbl9uUzIyNTlpS3h1Q1Q4d2twTjE0RkZJbVpyMnE5NVk2NDhoMnJmT2xwTk1mb1NVakhaSDJKQ0o5S1N5dFZvckMya2c0MWVRS…\n來源：Google News:BKNG\n其他：Booking Holdings Inc. $BKNG Stock: Hosking Partners LLP Low…",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWjdNcEdBUGpSWnVaWlp0dGRSejlibUx2RHk3XzAxV0VST0tERWFEMkRndmd1LWdDQnJkRFRKelMxeHVUZXVCUVQ0WWhGWnhpWExoWGVNNlJkYkpWNHN0Q2dpbl9uUzIyNTlpS3h1Q1Q4d2twTjE0RkZJbVpyMnE5NVk2NDhoMnJmT2xwTk1mb1NVakhaSDJKQ0o5S1N5dFZvckMya2c0MWVRSmFKdFFVZ3UtR05WZFZxQXJ5dTRn?oc=5",
-      "source": "Google News:BKNG",
-      "kind": "news"
-    },
-    {
-      "n": 7,
       "symbol": "CRM",
-      "short": "CRM — AI相關、併購／交易：Salesforce (CRM) Stock May Look Reasonable On Fresh AI Acquisition News - Simply Wall S…",
-      "detail": "CRM\n重點：AI相關、併購／交易\n標題：Salesforce (CRM) Stock May Look Reasonable On Fresh AI Acquisition News - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQcDV3d0tacG9KNm1PbnRoaW10OE4xSG9jWjRBMnd4NGxYMUloRnFlV0xYN3NJOGdtb1VCdHpNVjJBa0Z5c0lGWUlhcWJja21mUy10cXh2YkdWcFBLNmxadlMxVkZMX25ibWlQdEJ2Yk1QakVaVk93NXIzVWV5RDNwbzNvUUN4MEZwSmdxN1lFZ000UWI1WVp4S0tTT1hNUk1wR0FfNXE5MU1Qd…\n來源：Google News:CRM\n其他：Salesforce Inc. $CRM Stock: Cantor Fitzgerald Investment Ad…",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcDV3d0tacG9KNm1PbnRoaW10OE4xSG9jWjRBMnd4NGxYMUloRnFlV0xYN3NJOGdtb1VCdHpNVjJBa0Z5c0lGWUlhcWJja21mUy10cXh2YkdWcFBLNmxadlMxVkZMX25ibWlQdEJ2Yk1QakVaVk93NXIzVWV5RDNwbzNvUUN4MEZwSmdxN1lFZ000UWI1WVp4S0tTT1hNUk1wR0FfNXE5MU1QdkdjeHJkRTlqbkhvTld0WVVaVC0teGljemh10gHKAUFVX3lxTE5ITTdwZVlNeVhzakU0NDdxVk9XZ3NkdHpSSWZVM2J4cjZrSHhJQ1A0N2NDc1JUMXMwRTFQTFZoVHBMUUFVclQ2N3RQTFFZMVBsVlo3SzZ0YzREZjJCUVlGUGxySXVRYXRJTXIwODcxYXBZdGl3Yy1mYzFYdU44QmV1QTRONWRhNkhId3drTnp4UDk0U2Fkekt5MlNLdXAyUi0yNmQySVktSFlmNno4TjBZTEw4TlRjRzFCZkd6SVBmM3NUVVk2aG1HbXc?oc=5",
+      "short": "CRM — Salesforce (NYSE:CRM) Stock Price Up 3.6% - What's Next? - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Stock Price Up 3.6% - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxONDBBWE1Ocm1URGRZdUhiRFctdWpHWmdrbVl0YWRmNDVxanBoLXNaUEhPdGpQY0c4RXZEZUhfR1dtT1piLWtrdzlxRVV6SVdGbjREY3NYRHEwZmNtNXNqRTljMlg3WmZlM1lQYzROVC1RWUlvSHU1dkR0VTNFdkVSUG1xd241UUo3T29kQmNzQndEeVhMeThFRGJfWVEtTHBITlRKZXhpdlFTO…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONDBBWE1Ocm1URGRZdUhiRFctdWpHWmdrbVl0YWRmNDVxanBoLXNaUEhPdGpQY0c4RXZEZUhfR1dtT1piLWtrdzlxRVV6SVdGbjREY3NYRHEwZmNtNXNqRTljMlg3WmZlM1lQYzROVC1RWUlvSHU1dkR0VTNFdkVSUG1xd241UUo3T29kQmNzQndEeVhMeThFRGJfWVEtTHBITlRKZXhpdlFTODVt?oc=5",
       "source": "Google News:CRM",
       "kind": "news"
     },
     {
+      "n": 5,
+      "symbol": "HMC",
+      "short": "HMC — Honda Motor (NYSE:HMC) Hits New 12-Month High - Still a Buy? - MarketBeat",
+      "detail": "HMC\n重點：新聞\n標題：Honda Motor (NYSE:HMC) Hits New 12-Month High - Still a Buy? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNaW1WcFJDUzFJV3AyUXBzcTAwTlUzdnM2aE96Nk9IT3JVa1NIR1lRRGoxYnFpUVc0UFAyaWhSdng1VTlXTFdTVGF5NkdFLW9yUFg4X1c4VldpWHZseGl3NkhqWTBGWGlaRE51d0NVck91UVg0TFVmQVBKWEE2SGNvZTlvaWhzWmNwZ3ZVTXoyaFIxT3dESGdTa1BVdVFXRG9pb0dJczhQbk1RT…\n來源：Google News:HMC",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaW1WcFJDUzFJV3AyUXBzcTAwTlUzdnM2aE96Nk9IT3JVa1NIR1lRRGoxYnFpUVc0UFAyaWhSdng1VTlXTFdTVGF5NkdFLW9yUFg4X1c4VldpWHZseGl3NkhqWTBGWGlaRE51d0NVck91UVg0TFVmQVBKWEE2SGNvZTlvaWhzWmNwZ3ZVTXoyaFIxT3dESGdTa1BVdVFXRG9pb0dJczhQbk1RTUxqWS05NEszZFl5dw?oc=5",
+      "source": "Google News:HMC",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "MRK",
+      "short": "MRK — Merck (MRK) Wins EU Approval For KEYTRUDA Plus Padcev In Bladder Cancer",
+      "detail": "MRK\n重點：新聞\n標題：Merck (MRK) Wins EU Approval For KEYTRUDA Plus Padcev In Bladder Cancer\n摘要：Merck (NYSE:MRK) received European Commission approval for KEYTRUDA plus Padcev as a perioperative therapy for resectable muscle-invasive bladder cancer in the EU. The decision covers patients regardless of cisplatin eligibility, widening access to the regimen across a broader b…\n來源：Yahoo Finance:MRK",
+      "url": "https://finance.yahoo.com/healthcare/articles/merck-mrk-wins-eu-approval-221054950.html?.tsrc=rss",
+      "source": "Yahoo Finance:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "NESR",
+      "short": "NESR — National Energy Services Reunited (NASDAQ:NESR) Stock Price Down 8.5% - Time to Sell? -…",
+      "detail": "NESR\n重點：新聞\n標題：National Energy Services Reunited (NASDAQ:NESR) Stock Price Down 8.5% - Time to Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNTdJQi0zUU9zbF9VOG8wSy1wa3ROMmJpU2JsSWx0RGg4bU5WVlNjM2kwUzNud3lrb1ZPMlFzTU1IcHBibk5rbzhRelA4NEZQMHBJYnplZW04R2t0WGxJazY3Z1BVdGthTVVoUHowbHpIckllbkFJaG1BSW4tankyUFdNYW5JeVMwaktxLWlpSThUZHdULUVIbFZjMWUySDlMOE16bHFXdlhOa…\n來源：Google News:NESR",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNTdJQi0zUU9zbF9VOG8wSy1wa3ROMmJpU2JsSWx0RGg4bU5WVlNjM2kwUzNud3lrb1ZPMlFzTU1IcHBibk5rbzhRelA4NEZQMHBJYnplZW04R2t0WGxJazY3Z1BVdGthTVVoUHowbHpIckllbkFJaG1BSW4tankyUFdNYW5JeVMwaktxLWlpSThUZHdULUVIbFZjMWUySDlMOE16bHFXdlhOakM0NEhhTVYyN1paN0oyMDZwQndUSWlqOUxQYmJCenA1WW9GUWNSTWVseg?oc=5",
+      "source": "Google News:NESR",
+      "kind": "news"
+    },
+    {
       "n": 8,
-      "symbol": "INTU",
-      "short": "INTU — Intuit Inc. $INTU Stock Purchased by Sage Private Wealth Group LLC - MarketBeat",
-      "detail": "INTU\n重點：新聞\n標題：Intuit Inc. $INTU Stock Purchased by Sage Private Wealth Group LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUF9ZRjBaZDE1RFZJQTBLSjU5TmlfVVBXVUdhLWxHWDZxeEtnOEZJWHpEVXItam1fS0NkWi1fSm5wZTdpRnpOSWNaOEgtUk9jNE1rYk50RmlCYW56VGJIYVU5Z200RkhPMlEwcXdkVWRaVGwzUDkybFBlV1BhRndBRlVyYlpaQTlSU0o5SHQ4cEphVXVwUHBXUEN1UGlIbXdoTHEwc29wZlNIV…\n來源：Google News:INTU\n其他：The Zacks Analyst Blog Highlights Salesforce, S&P Global, I…",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUF9ZRjBaZDE1RFZJQTBLSjU5TmlfVVBXVUdhLWxHWDZxeEtnOEZJWHpEVXItam1fS0NkWi1fSm5wZTdpRnpOSWNaOEgtUk9jNE1rYk50RmlCYW56VGJIYVU5Z200RkhPMlEwcXdkVWRaVGwzUDkybFBlV1BhRndBRlVyYlpaQTlSU0o5SHQ4cEphVXVwUHBXUEN1UGlIbXdoTHEwc29wZlNIVlE5ZG5ERE4tMmNrUTFhc2pyR2FLVzJzSUU?oc=5",
-      "source": "Google News:INTU",
+      "symbol": "OKTA",
+      "short": "OKTA — AI相關：Is Okta (OKTA) Worth More Than Its Cash Flow Suggests?",
+      "detail": "OKTA\n重點：AI相關\n標題：Is Okta (OKTA) Worth More Than Its Cash Flow Suggests?\n摘要：Okta has surged in recent years as identity security moved closer to the center of enterprise IT, which now leaves a sharper question for you as an investor. Is a share price that reflects this kind of momentum supported by the cash the business can realistically generate over t…\n來源：Yahoo Finance:OKTA",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/okta-okta-worth-more-cash-042650616.html?.tsrc=rss",
+      "source": "Yahoo Finance:OKTA",
       "kind": "news"
     },
     {
       "n": 9,
-      "symbol": "LULU",
-      "short": "LULU — Lululemon (LULU) Stock Looks Overvalued Following Its 78% Five Year Slump",
-      "detail": "LULU\n重點：新聞\n標題：Lululemon (LULU) Stock Looks Overvalued Following Its 78% Five Year Slump\n摘要：lululemon athletica has seen its share price fall hard in recent years, which puts a spotlight on a simple question for investors who still follow the story. Do the cash flows of the business support where the stock trades today, or has sentiment moved further than the fundament…\n來源：Yahoo Finance:LULU\n其他：Wolfe Research Initiates Coverage on lululemon athletica (N…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lululemon-lulu-stock-looks-overvalued-131614165.html?.tsrc=rss",
-      "source": "Yahoo Finance:LULU",
-      "kind": "news"
-    },
-    {
-      "n": 10,
       "symbol": "SLB",
-      "short": "SLB — SLB (NYSE:SLB) Wins Saudi Well Contracts as Quarterly Results Put Drilling in View - Ka…",
-      "detail": "SLB\n重點：新聞\n標題：SLB (NYSE:SLB) Wins Saudi Well Contracts as Quarterly Results Put Drilling in View - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNbDVKOURlbndWemhOMkpxalEtYmlKeDNqbDdxWVdRRi1raExpY212UVR6Tk1ZZFpTRkxTZEZDc0Q4eG1iMFhtY043WGdIdmJQTXMtTmREakNlZjA0QnIwY3dFRTNEZlExRGNMWlpRR1Q4dEpybjktSmpKTEhfZ0ZRVGc1WWoyeV9OVmkxSDlmcUpXM0xVNUR6ai1VSlpmb0dNd3U0WHRDdmNJQ…\n來源：Google News:SLB\n其他：SLB Limited $SLB Stake Lowered by Canoe Financial LP - Mark…",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbDVKOURlbndWemhOMkpxalEtYmlKeDNqbDdxWVdRRi1raExpY212UVR6Tk1ZZFpTRkxTZEZDc0Q4eG1iMFhtY043WGdIdmJQTXMtTmREakNlZjA0QnIwY3dFRTNEZlExRGNMWlpRR1Q4dEpybjktSmpKTEhfZ0ZRVGc1WWoyeV9OVmkxSDlmcUpXM0xVNUR6ai1VSlpmb0dNd3U0WHRDdmNJQ1VNazhIM3BTbXJlc2tSSks1a2t2cw?oc=5",
+      "short": "SLB — 業績／指引：Earnings Report Might Change The Case For Investing In SLB Stock (SLB) - Yahoo Finance",
+      "detail": "SLB\n重點：業績／指引\n標題：Earnings Report Might Change The Case For Investing In SLB Stock (SLB) - Yahoo Finance\n摘要：<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXRhWWMxX3B4VHNFeGFqSTdRSGJha2lJd2l1eU5odHQ1dDJiRGJMU3dHejFoUjlMc1FkYUYwd3c5S0luUUFhY2d0SzM4NmNBdGRfXzR3US1xYmxpY1JtZEVXWXlEUEU3ak5mV0ZVY3FhdTE1V2RvMjVHaUp5UlFLcUhsbEtCUVVTNjQ1X3lWR0EtMnhOZlM2R19HX0FvUU0?oc=5\" target=…\n來源：Google News:SLB",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXRhWWMxX3B4VHNFeGFqSTdRSGJha2lJd2l1eU5odHQ1dDJiRGJMU3dHejFoUjlMc1FkYUYwd3c5S0luUUFhY2d0SzM4NmNBdGRfXzR3US1xYmxpY1JtZEVXWXlEUEU3ak5mV0ZVY3FhdTE1V2RvMjVHaUp5UlFLcUhsbEtCUVVTNjQ1X3lWR0EtMnhOZlM2R19HX0FvUU0?oc=5",
       "source": "Google News:SLB",
       "kind": "news"
     },
     {
-      "n": 11,
+      "n": 10,
       "symbol": "STT",
-      "short": "STT — 112,671 State Street Corporation $STT Shares Sold by Vest Financial LLC - MarketBeat",
-      "detail": "STT\n重點：新聞\n標題：112,671 State Street Corporation $STT Shares Sold by Vest Financial LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxONzZqOF9sSlI0ZE5mbGhaT0RmODV6LWM5QU5WTmJURk9SdHIxZ0xDUXd5UHlKeVpVbXFzNDY0N3BTN2d6aG9VUXN5NUdudHpmcmxzWGZ4dF9OVzNtSWtLdk1FOFM4cTdyclhldUhCWEFWdXpYTWRaUzJaVE95aHRtMndOS2RWZHdRcm8xZzAzWVdPeXBHNjB4SjdEM1BHb1pkbndlMnFHUXR4Q…\n來源：Google News:STT\n其他：6,965 State Street Corporation $STT Shares Bought by Cantor…",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONzZqOF9sSlI0ZE5mbGhaT0RmODV6LWM5QU5WTmJURk9SdHIxZ0xDUXd5UHlKeVpVbXFzNDY0N3BTN2d6aG9VUXN5NUdudHpmcmxzWGZ4dF9OVzNtSWtLdk1FOFM4cTdyclhldUhCWEFWdXpYTWRaUzJaVE95aHRtMndOS2RWZHdRcm8xZzAzWVdPeXBHNjB4SjdEM1BHb1pkbndlMnFHUXR4QWdFeTVqNnNMUFh5RjI3SmFCUVBndmQ5al84WENyTnN3?oc=5",
+      "short": "STT — State Street (NYSE:STT) Stock: Insider Hanley Ronald O Sells 14,554 Shares - MarketBeat",
+      "detail": "STT\n重點：新聞\n標題：State Street (NYSE:STT) Stock: Insider Hanley Ronald O Sells 14,554 Shares - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOUzNFZ3FJWGRYVC1odDQ3Z2U2NEFhQmJ0WmVVRURmSEFrN2E4RDVFbkRubjRvWHZPakVXSnQ3eUhUOGFtbU9zbkp0WkJwQkJET1hJWmpNVTZvRHZVVjQyQS0wMlBwNVUzQi1rYXpSaGJuN1oyUmp3TVNIa1NtRWdsX19TbGdiMnE4Q3ZQb3pKTzFUZHVaR1BURzFNNmJTeVU5ZTZvN1BEMWFkZ…\n來源：Google News:STT",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUzNFZ3FJWGRYVC1odDQ3Z2U2NEFhQmJ0WmVVRURmSEFrN2E4RDVFbkRubjRvWHZPakVXSnQ3eUhUOGFtbU9zbkp0WkJwQkJET1hJWmpNVTZvRHZVVjQyQS0wMlBwNVUzQi1rYXpSaGJuN1oyUmp3TVNIa1NtRWdsX19TbGdiMnE4Q3ZQb3pKTzFUZHVaR1BURzFNNmJTeVU5ZTZvN1BEMWFkZTFoZDVIUmJRR001bkhTSXBwX29qZFZXaldEd1JGS0RORDY?oc=5",
       "source": "Google News:STT",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "TGT",
-      "short": "TGT — 12,004 Target Corporation $TGT Shares Sold by Vest Financial LLC - MarketBeat",
-      "detail": "TGT\n重點：新聞\n標題：12,004 Target Corporation $TGT Shares Sold by Vest Financial LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLUh6SnFNNGRNQW9RVzdUamlfUzVrODZzbEdnZFBWdzhTN1prUE5aU1ozLUlZeWZrdlQwTnJac0VmbW5lVkxoMzhMNnhpRVloSGROX0t0VTE3U1MtM0YtSFRMQWJXaHZjSjVlZlNIcjZIWVhfaHREVmkzMnYtX2tXWmp6cW5BT2FxZEVfa2xZellTb2pncmE4QTI2aHl3ZVNPcjZsTUJjV0g0V…\n來源：Google News:TGT\n其他：Target Corporation $TGT Shares Purchased by TD Waterhouse C…",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLUh6SnFNNGRNQW9RVzdUamlfUzVrODZzbEdnZFBWdzhTN1prUE5aU1ozLUlZeWZrdlQwTnJac0VmbW5lVkxoMzhMNnhpRVloSGROX0t0VTE3U1MtM0YtSFRMQWJXaHZjSjVlZlNIcjZIWVhfaHREVmkzMnYtX2tXWmp6cW5BT2FxZEVfa2xZellTb2pncmE4QTI2aHl3ZVNPcjZsTUJjV0g0VWNPaUNxX2Nka2hGZ2xDNzhVSjAxOXU?oc=5",
-      "source": "Google News:TGT",
       "kind": "news"
     }
   ]
