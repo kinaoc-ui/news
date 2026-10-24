@@ -1,29 +1,38 @@
 {
-  "title": "FS新聞 10-24 04:50",
-  "list_name": "FirstScreen_2026-10-24_045000_comma.txt",
-  "created_at": "2026-10-24T04:50:08.868098+00:00",
+  "title": "FS新聞 10-24 09:17",
+  "list_name": "FirstScreen_2026-10-24_091714_comma.txt",
+  "created_at": "2026-10-24T09:17:22.789727+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "MRK",
+      "short": "MRK — Merck & Co., Inc. $MRK Stock Sold by Capital Investment Advisors LLC - MarketBeat",
+      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Stock Sold by Capital Investment Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTk3LW56cmVPZHloUEQyRlRoVmJvWnhVOWpmTlhiRmRuQVVsOTZWb0xsRDFyMDgtblhpRUJER3pwczQtU0NwYThiRFNiMl9NOHJOLWgwNml6YmpPYkpTLUFYSllsWkhZd3J3MTlaOFdwb0RoTlRnLUNPYkdnM250N3gwT2NxdDBOZ0NBN3BTZG5iUk5GVGFWVWpVUDRGSmVkal9XcDJvRzZ0V…\n來源：Google News:MRK\n其他：Can Merck (MRK) Stay Undervalued If Cash Flow Keeps Growing?",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTk3LW56cmVPZHloUEQyRlRoVmJvWnhVOWpmTlhiRmRuQVVsOTZWb0xsRDFyMDgtblhpRUJER3pwczQtU0NwYThiRFNiMl9NOHJOLWgwNml6YmpPYkpTLUFYSllsWkhZd3J3MTlaOFdwb0RoTlRnLUNPYkdnM250N3gwT2NxdDBOZ0NBN3BTZG5iUk5GVGFWVWpVUDRGSmVkal9XcDJvRzZ0VkVlaEk2em5vTjFKanM2VHNpaTN4b0o?oc=5",
+      "source": "Google News:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "ALSN",
+      "short": "ALSN — Allison Transmission Holdings, Inc. (NYSE:ALSN) Stock Has Average Target Price of $131.…",
+      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission Holdings, Inc. (NYSE:ALSN) Stock Has Average Target Price of $131.57 - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLXBLVkdUek52Y01DckZxOWlUY19SQWxOMHdmc1VkU3UxUkdwWWg0SnZPMElCbmZPOUY2S1Q5RXFWR3FoTFRIX2dlUUQyX1lKSVZOdldOMjBhd2V4OEJESG5PVkhyVUV5XzI0OFJ2WHFsUFFtREdEMmdSTnJFamNGUkVRU3ZzVGU5T1dqS3cxZGpfM0ZMd3RIUTBIRHlINHVqYldoZUFuVGxuV…\n來源：Google News:ALSN",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLXBLVkdUek52Y01DckZxOWlUY19SQWxOMHdmc1VkU3UxUkdwWWg0SnZPMElCbmZPOUY2S1Q5RXFWR3FoTFRIX2dlUUQyX1lKSVZOdldOMjBhd2V4OEJESG5PVkhyVUV5XzI0OFJ2WHFsUFFtREdEMmdSTnJFamNGUkVRU3ZzVGU5T1dqS3cxZGpfM0ZMd3RIUTBIRHlINHVqYldoZUFuVGxuVFR6VXRoWDA2QkNMMWVCTmpkTkN1cXN5cEV3SXRfZUNSZmVhNUhsVERnOGxOa1lxV2dFeHNHZA?oc=5",
+      "source": "Google News:ALSN",
+      "kind": "news"
+    },
+    {
+      "n": 3,
       "symbol": "DGX",
       "short": "DGX — 業績／指引：Quest Diagnostics (DGX) Stock Price Stalls After Strong Q3 Earnings",
-      "detail": "DGX\n重點：業績／指引\n標題：Quest Diagnostics (DGX) Stock Price Stalls After Strong Q3 Earnings\n摘要：Quest Diagnostics just posted Q3 2026 results that looked firm on paper while the stock barely flinched. Shares sit at about US$241.89, down 0.6% today and only modestly higher over the past month, even as revenue for the quarter reached roughly US$3.1b and adjusted earnings per…\n來源：Yahoo Finance:DGX\n其他：Quest Diagnostics (DGX) Backs At Home Cervical Cancer Scree…",
+      "detail": "DGX\n重點：業績／指引\n標題：Quest Diagnostics (DGX) Stock Price Stalls After Strong Q3 Earnings\n摘要：Quest Diagnostics just posted Q3 2026 results that looked firm on paper while the stock barely flinched. Shares sit at about US$241.89, down 0.6% today and only modestly higher over the past month, even as revenue for the quarter reached roughly US$3.1b and adjusted earnings per…\n來源：Yahoo Finance:DGX",
       "url": "https://finance.yahoo.com/markets/stocks/articles/quest-diagnostics-dgx-stock-price-031412910.html?.tsrc=rss",
       "source": "Yahoo Finance:DGX",
       "kind": "news"
     },
     {
-      "n": 2,
-      "symbol": "FTNT",
-      "short": "FTNT — Fortinet (NASDAQ:FTNT) Stock Jumps 4.1% on Analyst Upgrade - MarketBeat",
-      "detail": "FTNT\n重點：新聞\n標題：Fortinet (NASDAQ:FTNT) Stock Jumps 4.1% on Analyst Upgrade - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNTkNRMnB5bmRHZjNBYVpYTGJIQkdPX2ZHeF9xamFRNjVxLVcyb2xrZzV5QmZsTmVTdGxWU096N1ZSOVFya3VCS0tXNFRSNzN0RlN0dHZIVU9rVDZlU0ZJdlJURjBaMGpueno2aVNZaC0tQkJtMmJ1R3pVd1Z5ZWRvdVZvSGlFTlM1aXBkQWhTaW91Z0hCbGg4N0VKem1RQUs2eWNoMzcyVmVTd…\n來源：Google News:FTNT",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTkNRMnB5bmRHZjNBYVpYTGJIQkdPX2ZHeF9xamFRNjVxLVcyb2xrZzV5QmZsTmVTdGxWU096N1ZSOVFya3VCS0tXNFRSNzN0RlN0dHZIVU9rVDZlU0ZJdlJURjBaMGpueno2aVNZaC0tQkJtMmJ1R3pVd1Z5ZWRvdVZvSGlFTlM1aXBkQWhTaW91Z0hCbGg4N0VKem1RQUs2eWNoMzcyVmVTd3lqNGFOelpfX0o?oc=5",
-      "source": "Google News:FTNT",
-      "kind": "news"
-    },
-    {
-      "n": 3,
+      "n": 4,
       "symbol": "LNG",
       "short": "LNG — 業績／指引：Does Cheniere Energy (LNG) Still Look About Right On Earnings?",
       "detail": "LNG\n重點：業績／指引\n標題：Does Cheniere Energy (LNG) Still Look About Right On Earnings?\n摘要：Cheniere Energy has rewarded shareholders with a strong multi year run, so the live question now is whether the current share price can still be squared with what the business earns. Over the past 5 years, Cheniere Energy has delivered a total return of 203.6%, which puts real p…\n來源：Yahoo Finance:LNG",
@@ -32,16 +41,16 @@
       "kind": "news"
     },
     {
-      "n": 4,
-      "symbol": "PYPL",
-      "short": "PYPL — AI相關：PayPal Holdings (PYPL) Expands Payouts And AI Commerce, Is It Fully Valued?",
-      "detail": "PYPL\n重點：AI相關\n標題：PayPal Holdings (PYPL) Expands Payouts And AI Commerce, Is It Fully Valued?\n摘要：PayPal Holdings (PYPL) just expanded its reach on two fronts. A new payout deal with LianLian Global and an exclusive in app checkout role on Glance push its services deeper into creator and AI driven commerce. Recent deals have landed just as PayPal Holdings tries to rebuild mo…\n來源：Yahoo Finance:PYPL",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-holdings-pypl-expands-payouts-210959703.html?.tsrc=rss",
-      "source": "Yahoo Finance:PYPL",
+      "n": 5,
+      "symbol": "OKTA",
+      "short": "OKTA — AI相關：Qualys, Tenable, Cloudflare, CrowdStrike, and Okta shares skyrocket, what you need to k…",
+      "detail": "OKTA\n重點：AI相關\n標題：Qualys, Tenable, Cloudflare, CrowdStrike, and Okta shares skyrocket, what you need to know\n摘要：A number of stocks jumped in the afternoon session after cybersecurity stocks surged as investors reacted to a massive new wave of artificial intelligence-enabled cyber threats that industry experts have dubbed \"Black October.\"\n來源：Yahoo Finance:OKTA",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualys-tenable-cloudflare-crowdstrike-okta-063239672.html?.tsrc=rss",
+      "source": "Yahoo Finance:OKTA",
       "kind": "news"
     },
     {
-      "n": 5,
+      "n": 6,
       "symbol": "RITM",
       "short": "RITM — 業績／指引：Rithm Capital (RITM) Stock Jumps As Q3 Earnings Back Dividend Cover - Simply Wall Street",
       "detail": "RITM\n重點：業績／指引\n標題：Rithm Capital (RITM) Stock Jumps As Q3 Earnings Back Dividend Cover - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRDlxaEljdXZ6NVl4MzBTYzB5ajkwNHRkS2dkTzJFTHAxUEhPa1ZXektId2hSeFFjZUNPTHNPT2paX3ZmSk8xX2pCS2VzblBpM1IyYzdRVGdQSW9SOUFrYlV2MGlzcXdpRDhkN253a19Ec0QwYjZlS3VmZEE4SURIbmdFeG1Id0NPUXVsUVR6ZXFNblRya05nN0pzdW5FX3lpclBTNHdFQkgtS…\n來源：Google News:RITM",
@@ -50,25 +59,25 @@
       "kind": "news"
     },
     {
-      "n": 6,
-      "symbol": "SLB",
-      "short": "SLB — 業績／指引：SLB (SLB) Stock Jumps As Q3 Earnings Put Margin Repair Back In Play - Simply Wall Street",
-      "detail": "SLB\n重點：業績／指引\n標題：SLB (SLB) Stock Jumps As Q3 Earnings Put Margin Repair Back In Play - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmVGc0tqcFlqZmlyZmZIem45TTItWEo4MDY3NHVxV1hodTh6OHFxbmgwQlVRY3J6aXI3dWxHbDNoSFE2NUc3MjFmTkhRcFFONjRIU01BY3AxRjYyQUdjSGJiZm8yVG1Jd1NRWk1IR1JFRWt6NDhVaFFkQUhHbXBXeWRWUUtNckZ1VlIzUVVMZVE5WmVncUFGLVpURzBweF9PSWZVZjNyMWVpe…\n來源：Google News:SLB",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmVGc0tqcFlqZmlyZmZIem45TTItWEo4MDY3NHVxV1hodTh6OHFxbmgwQlVRY3J6aXI3dWxHbDNoSFE2NUc3MjFmTkhRcFFONjRIU01BY3AxRjYyQUdjSGJiZm8yVG1Jd1NRWk1IR1JFRWt6NDhVaFFkQUhHbXBXeWRWUUtNckZ1VlIzUVVMZVE5WmVncUFGLVpURzBweF9PSWZVZjNyMWVpeGNndmdRWFJxdUZDMmNq0gG-AUFVX3lxTE01WHZJSjM3cVUzaEF0d29KZHpyeUpDbEdqLW9kdHJnRVl3cjZRcEtFQk5ZdE91VlJ1bEJBMm9veGZuZTRfMzRPX2FnOExaMjJzVFdBWVVzT1J6bDFoZGg2SnpyU0t4RlZGN0VWSVc3eGhSdXBjcVhjaGt6R0tSMDBUWExKQmlmMFI0UWxKVlZURjRLMzhIVWRUR0xhSFRtRlJKUmRzWGRoZTM4eFhhRFAtRXVNUnpHWDRCZXVNTFE?oc=5",
-      "source": "Google News:SLB",
-      "kind": "news"
-    },
-    {
       "n": 7,
-      "symbol": "SLG",
-      "short": "SLG — 業績／指引：SL Green Realty (SLG) Stock Q3 Earnings Rebound Meets Dividend Coverage Doubts - Yahoo …",
-      "detail": "SLG\n重點：業績／指引\n標題：SL Green Realty (SLG) Stock Q3 Earnings Rebound Meets Dividend Coverage Doubts - Yahoo Finance\n摘要：<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWXlkc1NMM0cwaWxoVGZCc3NVSGdramRZbFB0Q05PdUVlMUw3TmJ4UWRZcGY4M2VVWHBxR0Jrd0NpVmZoWjdZa0xGcXI0eFlJM3JKYkNiUzgwTFRwNGs0N3pnTVFiaFZqajhOejlHUWhua2dFeFBCRmVHXzlPUVNJWUNKUGd2MGszQ2dSd1FfOWM?oc=5\" target=\"_blank\">SL Green Re…\n來源：Google News:SLG",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWXlkc1NMM0cwaWxoVGZCc3NVSGdramRZbFB0Q05PdUVlMUw3TmJ4UWRZcGY4M2VVWHBxR0Jrd0NpVmZoWjdZa0xGcXI0eFlJM3JKYkNiUzgwTFRwNGs0N3pnTVFiaFZqajhOejlHUWhua2dFeFBCRmVHXzlPUVNJWUNKUGd2MGszQ2dSd1FfOWM?oc=5",
-      "source": "Google News:SLG",
+      "symbol": "ROST",
+      "short": "ROST — Ross Stores (NASDAQ:ROST) Cut to \"Hold\" at Wall Street Zen - MarketBeat",
+      "detail": "ROST\n重點：新聞\n標題：Ross Stores (NASDAQ:ROST) Cut to \"Hold\" at Wall Street Zen - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHh2RzQ3b1lwTWZJamYybXBJU1RhbE5uOURBNVYxQTVFZW1weWtCUnNVYmdiYVc0UkdkeklDTHJFUXRsRGFwQlZFeFhwVUJuNkVHSVRMZzJFLXhXM2RTZnpYNXk4enJ0cGhIR2dsQ0dVTzNIY3lKU0pNRWVUWW9ZbW1GRjVocTdRLThSdENLVzRBRFB4MmhjN0UwME12ejRaM0RqeTBPdHItT…\n來源：Google News:ROST",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHh2RzQ3b1lwTWZJamYybXBJU1RhbE5uOURBNVYxQTVFZW1weWtCUnNVYmdiYVc0UkdkeklDTHJFUXRsRGFwQlZFeFhwVUJuNkVHSVRMZzJFLXhXM2RTZnpYNXk4enJ0cGhIR2dsQ0dVTzNIY3lKU0pNRWVUWW9ZbW1GRjVocTdRLThSdENLVzRBRFB4MmhjN0UwME12ejRaM0RqeTBPdHItTU1fc1ZFMmxUaVc4TkE?oc=5",
+      "source": "Google News:ROST",
       "kind": "news"
     },
     {
       "n": 8,
+      "symbol": "SLB",
+      "short": "SLB — 業績／指引：Why SLB (SLB) stock is up today",
+      "detail": "SLB\n重點：業績／指引\n標題：Why SLB (SLB) stock is up today\n摘要：Shares of oilfield services provider SLB (NYSE:SLB) jumped 6.9% in the afternoon session after the company reported third-quarter 2026 financial results, posting revenue of $9.45 billion and adjusted earnings per share of $0.64, both of which topped Wall Street expectations.\n來源：Yahoo Finance:SLB",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-slb-slb-stock-today-061639765.html?.tsrc=rss",
+      "source": "Yahoo Finance:SLB",
+      "kind": "news"
+    },
+    {
+      "n": 9,
       "symbol": "STRC",
       "short": "STRC — Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock (NASDAQ:STRC) Sha…",
       "detail": "STRC\n重點：新聞\n標題：Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock (NASDAQ:STRC) Shares Will Pay Dividend of $0.04 - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNYlY1Ylhiai1vRmRWX0FzaVpVNWFNQTJXNmtDUllfaXJrMjdOaTEzN2plUk5pMkQweXN0Zk9leWljcU1XRkZ1NVdrb0l4anVpUExEU2gxam8zdDNRaS1mdDg2UnM5T3NhbkxUdHVFZ0N2X25FRmItb083VWVjbEN2anlVQmh5ajZselJEa0NzNk1KclVWT0RMWjNmVmlDRmhPSUlpYlVkQ05od…\n來源：Google News:STRC",
