@@ -1,115 +1,34 @@
 {
-  "title": "FS新聞 10-25 14:11",
-  "list_name": "FirstScreen_2026-10-25_141115_comma.txt",
-  "created_at": "2026-10-25T14:11:23.173830+00:00",
+  "title": "FS新聞 10-26 05:03",
+  "list_name": "FirstScreen_2026-10-26_050320_comma.txt",
+  "created_at": "2026-10-26T05:03:28.949993+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "CRSP",
-      "short": "CRSP — NTV Asset Management LLC Acquires 61,443 Shares of CRISPR Therapeutics AG $CRSP - Marke…",
-      "detail": "CRSP\n重點：新聞\n標題：NTV Asset Management LLC Acquires 61,443 Shares of CRISPR Therapeutics AG $CRSP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcDVkb2FaYVFQbWhhX1dTUXVlT0pfYjVrWU5DNWFScnQ4QjlrQTJ1cGlfb1FHM3Fad3ljekY4MDRxRFdyU3hrbWxnWVAtX1V2Z20wbzRJTVJRLTVFQ1ZSWk53T1RfRFAzLVdwZEZ3TDFoM0g2cGpMYlVUZldieW5reDdzenBNMVdrZnpnRHJ4dlZiNkloWnlaV084cDVOQVY1aUFKVVF3cGlWU…\n來源：Google News:CRSP\n其他：CRISPR Therapeutics (CRSP) Promotes Andrew Silver To CFO As…",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcDVkb2FaYVFQbWhhX1dTUXVlT0pfYjVrWU5DNWFScnQ4QjlrQTJ1cGlfb1FHM3Fad3ljekY4MDRxRFdyU3hrbWxnWVAtX1V2Z20wbzRJTVJRLTVFQ1ZSWk53T1RfRFAzLVdwZEZ3TDFoM0g2cGpMYlVUZldieW5reDdzenBNMVdrZnpnRHJ4dlZiNkloWnlaV084cDVOQVY1aUFKVVF3cGlWUlZjRm5sLWJGR0JqbUlidnhIWDVJLVBGNFhLRnI2S3NEZWdqcHFLNHlxLQ?oc=5",
-      "source": "Google News:CRSP",
+      "symbol": "A",
+      "short": "A — AI相關：Mohamed El-Erian: One AI accident could trigger a stock market crash. Financial analyst…",
+      "detail": "A\n重點：AI相關\n標題：Mohamed El-Erian: One AI accident could trigger a stock market crash. Financial analysts are already modeling a scenario where a major AI failure forces governments to halt development. AI stocks plunge. Investment freezes. The shock spreads into the wide - X\n摘要：<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9fT2UtMjdYX1RBVDhQbEJ0elJvYzI2elpEX1IybFZ6UlFjeS1sNUlhSlc5dzIxcTJhalBZZ0VnOWxYcDFQTENLUkl1LXI4NTlhNnhFclhZNnlzS0c1Y2FnRG1VUEZ2dmZwQjBRcg?oc=5\" target=\"_blank\">Mohamed El-Erian: One AI accident could trigger a stock mark…\n來源：Google News:A",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fT2UtMjdYX1RBVDhQbEJ0elJvYzI2elpEX1IybFZ6UlFjeS1sNUlhSlc5dzIxcTJhalBZZ0VnOWxYcDFQTENLUkl1LXI4NTlhNnhFclhZNnlzS0c1Y2FnRG1VUEZ2dmZwQjBRcg?oc=5",
+      "source": "Google News:A",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "GEN",
-      "short": "GEN — Valley National Advisers Inc. Purchases 75,939 Shares of Gen Digital Inc. $GEN - Market…",
-      "detail": "GEN\n重點：新聞\n標題：Valley National Advisers Inc. Purchases 75,939 Shares of Gen Digital Inc. $GEN - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTXdlSjhWaDRkVmpQSWtpaEhuUmtsamk2SlJpWVZJYzJmVGhtZzhEWF9HOHlJMWpfYU0yQzUxdlNwRzZzYmtDWjRacnRZU3dyUjFWT1Z4TndEQk1GWTB2WmJSLVZuX0YwemRJSnVWOWM5MWpEMHkybmZRZ2dYMnhuTzJmM0w1XzUxTVMzS29MaS1XNG5meUhIbFdnbG5zWGNJbzBIbDNrcHV4U…\n來源：Google News:GEN\n其他：47,576 Gen Digital Inc. $GEN Shares Sold by Iridian Asset M…",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTXdlSjhWaDRkVmpQSWtpaEhuUmtsamk2SlJpWVZJYzJmVGhtZzhEWF9HOHlJMWpfYU0yQzUxdlNwRzZzYmtDWjRacnRZU3dyUjFWT1Z4TndEQk1GWTB2WmJSLVZuX0YwemRJSnVWOWM5MWpEMHkybmZRZ2dYMnhuTzJmM0w1XzUxTVMzS29MaS1XNG5meUhIbFdnbG5zWGNJbzBIbDNrcHV4UEdDQTc1LW1Oa2FyMi1IQ3ZzVnJLNEJoRVFjdDdGMnlIOThYMThP?oc=5",
-      "source": "Google News:GEN",
+      "symbol": "CCK",
+      "short": "CCK — 業績／指引：Should Strong Third Quarter Earnings Require Action From Crown Holdings (CCK) Investors…",
+      "detail": "CCK\n重點：業績／指引\n標題：Should Strong Third Quarter Earnings Require Action From Crown Holdings (CCK) Investors? - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNczBPSDZaUDhGQW5wM2JhbkM4RGt5WmpQYVR4Q1BqU2dKUUNfN1BxdXpaYzNWQWRIa2FUc0d3bjZMWHRGWExQdDBhWU5odnNmQ3BWQTl1X1RIVTZ0VW9IVy1DTXhJb2dPdmZrUmtpbmc2c1VELWFRVmxGZy1RcXFIWmg4a3pyeTBYSFF2NDVvTVVyY0V4T2FfSXJHNjVrN1otTXh2enFHSEJlV…\n來源：Google News:CCK",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNczBPSDZaUDhGQW5wM2JhbkM4RGt5WmpQYVR4Q1BqU2dKUUNfN1BxdXpaYzNWQWRIa2FUc0d3bjZMWHRGWExQdDBhWU5odnNmQ3BWQTl1X1RIVTZ0VW9IVy1DTXhJb2dPdmZrUmtpbmc2c1VELWFRVmxGZy1RcXFIWmg4a3pyeTBYSFF2NDVvTVVyY0V4T2FfSXJHNjVrN1otTXh2enFHSEJlVTdKVDJNX1pPLW9ZczFZcjNONktZTFZPUUVtYU93VXN0SdIB0AFBVV95cUxQVm53c0ZOOVdKVmF1eTY3N2dwaTBSeUotN1QzcDNUUmZTZ0d2WEhsVlNMaWthVmk2RGEtdkoyOEozZk5sRjBtNEpkYkM5cG40SGZQNUEzV01nN2FVZi1QQXVwSFN0WllaYVlxQjhXcU1nUTVwX0FLdFo0Rm0xY2FNeEVpREZDUkQzSlFyczJ4SW1uY2FwdUpCeXJsUkZTM2pfTkx0ckc2Q0dDYU5JUkdCenNmeGlselhWeXVuaXJXaWg1ZXJQMlhsZDJOWUVLQ2Vz?oc=5",
+      "source": "Google News:CCK",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "MRK",
-      "short": "MRK — Merck & Co., Inc. $MRK Stock: Valley National Advisers Inc. Lowers Holdings - MarketBeat",
-      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Stock: Valley National Advisers Inc. Lowers Holdings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFo5b2xXRUpfR3pzbG52M1RyNEFmWm52dl9OaGFYRFMwMVBFVm5yTHVpbV9uZUtSYlpPeTRUU0JxWUxEZEpNM1QtdktYTTBkYWpBdUN1XzQwckN0Z2doVnJ5N0twNDhxZGpva2dmOHF5Yl9iM1FPc2YtZUJtdmtFeGgzeThjRHpORXliYzFjdkZfOXpTYnhyLWZ0Z3BzQjhlWjE0ZkNMUjdUR…\n來源：Google News:MRK\n其他：Merck & Co., Inc. $MRK Stock: Mondrian Investment Partners …",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFo5b2xXRUpfR3pzbG52M1RyNEFmWm52dl9OaGFYRFMwMVBFVm5yTHVpbV9uZUtSYlpPeTRUU0JxWUxEZEpNM1QtdktYTTBkYWpBdUN1XzQwckN0Z2doVnJ5N0twNDhxZGpva2dmOHF5Yl9iM1FPc2YtZUJtdmtFeGgzeThjRHpORXliYzFjdkZfOXpTYnhyLWZ0Z3BzQjhlWjE0ZkNMUjdURl8teF9uNUZ1T05lem1DVzBvN2NtMF9EUFk3eGVj?oc=5",
-      "source": "Google News:MRK",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "ADT",
-      "short": "ADT — ADT Inc. $ADT Holdings Raised by Robeco Institutional Asset Management B.V. - MarketBeat",
-      "detail": "ADT\n重點：新聞\n標題：ADT Inc. $ADT Holdings Raised by Robeco Institutional Asset Management B.V. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQc1F2eXQxclpZLUN6UTI4UzRQeWd2T1ZFR3lFXzJhU0h3RVJJYmc1Q0ZZb2ppM2Jhc1BCN3FGUVFGZzNoTnVBV1RWYmNDUEgtWHRKTWttNnBDSl9hemR3RVNKeWFEbnFBWFpqdDUtOHpSOEFsbnczN3B3dFlKYVJoT3FzY1VsRmNiZ05heEtkZThYNDUyUXR1dHhQaUk0aDc2RmF0V1BkakwxS…\n來源：Google News:ADT",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc1F2eXQxclpZLUN6UTI4UzRQeWd2T1ZFR3lFXzJhU0h3RVJJYmc1Q0ZZb2ppM2Jhc1BCN3FGUVFGZzNoTnVBV1RWYmNDUEgtWHRKTWttNnBDSl9hemR3RVNKeWFEbnFBWFpqdDUtOHpSOEFsbnczN3B3dFlKYVJoT3FzY1VsRmNiZ05heEtkZThYNDUyUXR1dHhQaUk0aDc2RmF0V1BkakwxS0hVMW9CVlJBS1YtaEpnSl9NT3Z6d2tLdkpJZ25GdzZXV18?oc=5",
-      "source": "Google News:ADT",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "AEO",
-      "short": "AEO — American Eagle Outfitters, Inc. (NYSE:AEO) Stock Now Rated \"Hold\" by Sell-Side Brokerag…",
-      "detail": "AEO\n重點：新聞\n標題：American Eagle Outfitters, Inc. (NYSE:AEO) Stock Now Rated \"Hold\" by Sell-Side Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQkF5WjRQQXQ5MFNwNUZvY3oyM215WTZVN0RFQ2E3WWE0QUtmbFNHeWRfelRjNFFXcUZaS0pqWi03NGQ2R01HVkJsWUFOZGxlRGswS3FSLXVXeXlRX2kxZXlnNE9oY0ltbXhibkVwOVpLazFDcVJ2TW5zMlBEM18tZDJDcVVtbkVVa0ppR0lqaTFYM0kzRml3Q3BxMVRZd3o4dW4tZjlDTkt2c…\n來源：Google News:AEO",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQkF5WjRQQXQ5MFNwNUZvY3oyM215WTZVN0RFQ2E3WWE0QUtmbFNHeWRfelRjNFFXcUZaS0pqWi03NGQ2R01HVkJsWUFOZGxlRGswS3FSLXVXeXlRX2kxZXlnNE9oY0ltbXhibkVwOVpLazFDcVJ2TW5zMlBEM18tZDJDcVVtbkVVa0ppR0lqaTFYM0kzRml3Q3BxMVRZd3o4dW4tZjlDTkt2cFBLQ3laYW1WQnZuUUZ3dGMxVXNpLVkxODlvSmFWajliVE1Yam9VYnRsT0V5OUhES1gzVW9RVg?oc=5",
-      "source": "Google News:AEO",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "ALSN",
-      "short": "ALSN — Allison Transmission Holdings, Inc. $ALSN Shares Bought by Norris Perne & French LLP MI…",
-      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission Holdings, Inc. $ALSN Shares Bought by Norris Perne & French LLP MI - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV0tWdlBISzNRb05tVVduZTc3dW91SFdrT2FhWklTUGRhTTVvTkxBU1Z2eG9yQkNFOGlieDdmQjRoRGxQUzNKV2lUVDNyRUVSdnRkOHlfQ0NQMDhDNjI3Z3FqRVRDYzVwNWsxMWh6a1N2NWlHMU90Q3F0MzhJUUE2NjFfWXlZaktrZ1d3WVoxRDczWUJZTU04VkpIWXZvREtiY0hDZXlvcWVrR…\n來源：Google News:ALSN",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV0tWdlBISzNRb05tVVduZTc3dW91SFdrT2FhWklTUGRhTTVvTkxBU1Z2eG9yQkNFOGlieDdmQjRoRGxQUzNKV2lUVDNyRUVSdnRkOHlfQ0NQMDhDNjI3Z3FqRVRDYzVwNWsxMWh6a1N2NWlHMU90Q3F0MzhJUUE2NjFfWXlZaktrZ1d3WVoxRDczWUJZTU04VkpIWXZvREtiY0hDZXlvcWVrRDZ2R1lURDhsaWM4T2JpSWxoWmMyQWNtMkgwS0RPX2pGUFBjRlUxY3Y2MXBITks0TkU?oc=5",
-      "source": "Google News:ALSN",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "ANET",
-      "short": "ANET — Arista Networks, Inc. $ANET Stock Purchased by Norris Perne & French LLP MI - MarketBeat",
-      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Stock Purchased by Norris Perne & French LLP MI - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPMHkxSzlSTmZnRld6ZzhTdE0xNmNfVkptYUJUSTZ3RVNHUTdwSVhSM1JuOXpKNENubVBtT3hESV9LVGN3QmZZTkRpQWZOcVBlUDgyVm5keGdGWjB2WDk1UkY1R3kwNnJxRk1xaUZDbVFwWld5eTBMM0VjNFhfLWU3cllqU2ZsckxPX0lNV21WWklteUZlakJOTGpLdEhoRHdFaEhSYmtJRUtMa…\n來源：Google News:ANET",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMHkxSzlSTmZnRld6ZzhTdE0xNmNfVkptYUJUSTZ3RVNHUTdwSVhSM1JuOXpKNENubVBtT3hESV9LVGN3QmZZTkRpQWZOcVBlUDgyVm5keGdGWjB2WDk1UkY1R3kwNnJxRk1xaUZDbVFwWld5eTBMM0VjNFhfLWU3cllqU2ZsckxPX0lNV21WWklteUZlakJOTGpLdEhoRHdFaEhSYmtJRUtMaDdwTHdoWlBUOTRyZTltenVDaXI2SHJNcDBMdnc3dllFdw?oc=5",
-      "source": "Google News:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "BKNG",
-      "short": "BKNG — Booking Holdings Inc. $BKNG Stock: Sterling Capital Management LLC Lowers Position - Ma…",
-      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Stock: Sterling Capital Management LLC Lowers Position - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcUJhdTJJS3ZYRjVINk82LTNSczhocXhldVNreXJFR1QzaERPTUJDVXZpVmEzSnpxRno0SkRELVZPTWtLQ2JraUVueUZUTk5WdEFnVEY1T2tJUXBucUxmaHRsaFN2OTdpTjhMd212dzdoaDVZYmpPX0QzbkdKTUFQQmtnV3hkTTh3bzFhRllxV0lZRUhmSkNOUWNzSm5yaFM0SE1mRl80S2VhU…\n來源：Google News:BKNG",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcUJhdTJJS3ZYRjVINk82LTNSczhocXhldVNreXJFR1QzaERPTUJDVXZpVmEzSnpxRno0SkRELVZPTWtLQ2JraUVueUZUTk5WdEFnVEY1T2tJUXBucUxmaHRsaFN2OTdpTjhMd212dzdoaDVZYmpPX0QzbkdKTUFQQmtnV3hkTTh3bzFhRllxV0lZRUhmSkNOUWNzSm5yaFM0SE1mRl80S2VhUUFZV2FaZEtta282a3hzSzBqUVBCV2FOaVlvZnFwYjlsMmRadllxZmxtSWdPMA?oc=5",
-      "source": "Google News:BKNG",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "BNY",
-      "short": "BNY — 宏觀：Why Higher Rates Could Lift BNY Mellon Stock And Cash Management Fees",
-      "detail": "BNY\n重點：宏觀\n標題：Why Higher Rates Could Lift BNY Mellon Stock And Cash Management Fees\n摘要：Central banks are keeping rates high for longer, bond markets are under pressure and cash suddenly matters again. That mix can reshape how money-market and cash management stocks respond to this rate path, which creates both potential winners and risks to avoid. This article exp…\n來源：Yahoo Finance:BNY",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-higher-rates-could-lift-101130807.html?.tsrc=rss",
-      "source": "Yahoo Finance:BNY",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "BTG",
-      "short": "BTG — B2Gold Corp (NYSEAMERICAN:BTG) Stock Has Average Target Price of $6.81 - MarketBeat",
-      "detail": "BTG\n重點：新聞\n標題：B2Gold Corp (NYSEAMERICAN:BTG) Stock Has Average Target Price of $6.81 - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQTGZodEc0YlpxUXY5YnhxUzBtRThoSUhBV0FRakk2dmN3ZWRRRkVTX0E4T2c4OG43RWRySkRfdDFjQjBLcEk1VkRiUjNnSFc1Y3FYTERDNFVQMl9XeTRkQVBld0kwQnVaSkw0cldzVjFCQnphc2Z6TmpuQlBIUms4cmFJQUllYVF5ZEU4aW1VYmlkM2Q3bWsteTJIUHZ1bndXaElEODFrS2FPZ…\n來源：Google News:BTG",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTGZodEc0YlpxUXY5YnhxUzBtRThoSUhBV0FRakk2dmN3ZWRRRkVTX0E4T2c4OG43RWRySkRfdDFjQjBLcEk1VkRiUjNnSFc1Y3FYTERDNFVQMl9XeTRkQVBld0kwQnVaSkw0cldzVjFCQnphc2Z6TmpuQlBIUms4cmFJQUllYVF5ZEU4aW1VYmlkM2Q3bWsteTJIUHZ1bndXaElEODFrS2FPZ2t5WkdSTTdPVnVhbmpDbTB5MS1nWV9RWU1yYXVkb0R3?oc=5",
-      "source": "Google News:BTG",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce Inc. $CRM Stock Sold by Mountain Hill Investment Partners Corp. - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stock Sold by Mountain Hill Investment Partners Corp. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOYnFmNTZjT1VKX0ZDY0U5YmtkREFTekVucS00elFJV0pTU0dMa1l3RnBpRnFUeWZIQUdUUHdNTmtOYWlQMmhDSm1nV3dJaXFWNXJHNk5NcEVIcHM3MVJMUmtQWXptZFFLeGdRYldsU1I2SlpRWGgwUzNDNm84VHZQR2djMW9yMFV5QkdrLXBNcF9xM0Z0VFJKQWk1Ql9DMlRNYmJXSDJPX0puY…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYnFmNTZjT1VKX0ZDY0U5YmtkREFTekVucS00elFJV0pTU0dMa1l3RnBpRnFUeWZIQUdUUHdNTmtOYWlQMmhDSm1nV3dJaXFWNXJHNk5NcEVIcHM3MVJMUmtQWXptZFFLeGdRYldsU1I2SlpRWGgwUzNDNm84VHZQR2djMW9yMFV5QkdrLXBNcF9xM0Z0VFJKQWk1Ql9DMlRNYmJXSDJPX0puYTdKRlFQZkZwNExEVEVBMDE0cjZDM0pDNmFmZU5DbFlwbmw?oc=5",
-      "source": "Google News:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "FTNT",
-      "short": "FTNT — Sterling Capital Management LLC Buys 5,704 Shares of Fortinet, Inc. $FTNT - MarketBeat",
-      "detail": "FTNT\n重點：新聞\n標題：Sterling Capital Management LLC Buys 5,704 Shares of Fortinet, Inc. $FTNT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNS3VfaDZNVDNjTzRuVkpPNy0yQ2V2aTliSmt3TThkT201UTJGczUyT3Mzb1J2eDhQekQtVXlxUXllYm9wNVZnQlBfaXdNd1Job0xZLUhGMDZhNjJUcHo5eTZ4TDNhcGRGWTRoWm8zQjV1SnMySjJDU2ZhNGlpQXRkZlltTmNwMGdHaGhYckwwQ2pkbFRqYUNqazVzM2xPT0I2SXJKTjZpOVZ4N…\n來源：Google News:FTNT",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS3VfaDZNVDNjTzRuVkpPNy0yQ2V2aTliSmt3TThkT201UTJGczUyT3Mzb1J2eDhQekQtVXlxUXllYm9wNVZnQlBfaXdNd1Job0xZLUhGMDZhNjJUcHo5eTZ4TDNhcGRGWTRoWm8zQjV1SnMySjJDU2ZhNGlpQXRkZlltTmNwMGdHaGhYckwwQ2pkbFRqYUNqazVzM2xPT0I2SXJKTjZpOVZ4NHpkdWNLb2w0cUpReERaVXdFWTBCSXhBQUIwSFl0d2x3?oc=5",
-      "source": "Google News:FTNT",
+      "symbol": "COF",
+      "short": "COF — 業績／指引：Did Stronger Earnings Just Shift Capital One's (COF) Investment Narrative? - Simply Wal…",
+      "detail": "COF\n重點：業績／指引\n標題：Did Stronger Earnings Just Shift Capital One's (COF) Investment Narrative? - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMnFBOXBWMXVndlBtYkd3ZXV6RGQ0bXdNUGVRSnItTUx2dzI5bV9Uc0dVOVppdjZQTnE1Q3FQV2lxWWtpZENuT3gwVFg5cDhsbWV0QXpfTm5MOC1kd1JGcWJGM0dsUUlzZDZMMHlQdklRMUNvZ3ZDY2xpaks4b3cxcGpfbVAtX1ROM25HUkNlYlZsSk9xU0NRY3N5MkFiVnBlWGpSRU85YndZe…\n來源：Google News:COF",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMnFBOXBWMXVndlBtYkd3ZXV6RGQ0bXdNUGVRSnItTUx2dzI5bV9Uc0dVOVppdjZQTnE1Q3FQV2lxWWtpZENuT3gwVFg5cDhsbWV0QXpfTm5MOC1kd1JGcWJGM0dsUUlzZDZMMHlQdklRMUNvZ3ZDY2xpaks4b3cxcGpfbVAtX1ROM25HUkNlYlZsSk9xU0NRY3N5MkFiVnBlWGpSRU85YndZekFSaEJZaEtpNUNCbEV4NXhrUnJxS3pqaDh4TUxQSlpUTXZOS29MVV95bklTVDZyNFByd05wZUhFRl9Od9IB6wFBVV95cUxNUkk2UE5kRFloeDVVdEFQeDNSZlNYbU9FSTRacUFibXIxVW1rX2FGbmlBSktrdVRfLWV3dkRrUWJTQkJPdGhaMGFpYWdCWWpWZTVlY3V1WlJ3SkZLczVZT2VrNXJIVVVBOGkxZzFoc1AzeEV1SE5vRmlUR3U3SEZud1dYN0dtRFJpSlgzbGxSb3N6ckl3ZTBNV1VWZl92VWh4YktGS0RBd2Y4LUtHYkFZVUlrVU1NVzFjVG1DWHF6aXlxWUlPYXhfRUZOWlhVREJLZTFlc3BFekFiNDBjb00tRGVPRU14NUQwQ1A0?oc=5",
+      "source": "Google News:COF",
       "kind": "news"
     }
   ]
