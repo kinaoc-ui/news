@@ -1,34 +1,115 @@
 {
-  "title": "FS新聞 10-26 05:03",
-  "list_name": "FirstScreen_2026-10-26_050320_comma.txt",
-  "created_at": "2026-10-26T05:03:28.949993+00:00",
+  "title": "FS新聞 10-26 10:45",
+  "list_name": "FirstScreen_2026-10-26_104458_comma.txt",
+  "created_at": "2026-10-26T10:45:08.633738+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "A",
-      "short": "A — AI相關：Mohamed El-Erian: One AI accident could trigger a stock market crash. Financial analyst…",
-      "detail": "A\n重點：AI相關\n標題：Mohamed El-Erian: One AI accident could trigger a stock market crash. Financial analysts are already modeling a scenario where a major AI failure forces governments to halt development. AI stocks plunge. Investment freezes. The shock spreads into the wide - X\n摘要：<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9fT2UtMjdYX1RBVDhQbEJ0elJvYzI2elpEX1IybFZ6UlFjeS1sNUlhSlc5dzIxcTJhalBZZ0VnOWxYcDFQTENLUkl1LXI4NTlhNnhFclhZNnlzS0c1Y2FnRG1VUEZ2dmZwQjBRcg?oc=5\" target=\"_blank\">Mohamed El-Erian: One AI accident could trigger a stock mark…\n來源：Google News:A",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fT2UtMjdYX1RBVDhQbEJ0elJvYzI2elpEX1IybFZ6UlFjeS1sNUlhSlc5dzIxcTJhalBZZ0VnOWxYcDFQTENLUkl1LXI4NTlhNnhFclhZNnlzS0c1Y2FnRG1VUEZ2dmZwQjBRcg?oc=5",
-      "source": "Google News:A",
+      "symbol": "CRM",
+      "short": "CRM — Salesforce Inc. $CRM Stock Sold by Orange Investment Advisors Inc. - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stock Sold by Orange Investment Advisors Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd2VlSEo1anZCVkx5UlNfSjRBZVlXM3ZNZ1VOSUlBODJfNW1XVmVCcmstNl9MOHpRQ1VGVkV1TktkVzlQWEtjQ183N19nSXgwTUQzOFBWNDFjWGpsN0kxWktpbUhXWUYxNmpBRGJvbU5xZVExQzh1cnJmXzVFZVBpLWRtTzBWakhEZGV5SEJRYXRkX004UmZmTE9TZVBoeUxfb1paOTV2dnhNb…\n來源：Google News:CRM\n其他：Stocktwits M&A Watch: CRM, BRZE, TW, LEU Stocks In Focus",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd2VlSEo1anZCVkx5UlNfSjRBZVlXM3ZNZ1VOSUlBODJfNW1XVmVCcmstNl9MOHpRQ1VGVkV1TktkVzlQWEtjQ183N19nSXgwTUQzOFBWNDFjWGpsN0kxWktpbUhXWUYxNmpBRGJvbU5xZVExQzh1cnJmXzVFZVBpLWRtTzBWakhEZGV5SEJRYXRkX004UmZmTE9TZVBoeUxfb1paOTV2dnhNbzJ4b0VkSExRdVRMcXNfQ29fV3pEckprdw?oc=5",
+      "source": "Google News:CRM",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "CCK",
-      "short": "CCK — 業績／指引：Should Strong Third Quarter Earnings Require Action From Crown Holdings (CCK) Investors…",
-      "detail": "CCK\n重點：業績／指引\n標題：Should Strong Third Quarter Earnings Require Action From Crown Holdings (CCK) Investors? - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNczBPSDZaUDhGQW5wM2JhbkM4RGt5WmpQYVR4Q1BqU2dKUUNfN1BxdXpaYzNWQWRIa2FUc0d3bjZMWHRGWExQdDBhWU5odnNmQ3BWQTl1X1RIVTZ0VW9IVy1DTXhJb2dPdmZrUmtpbmc2c1VELWFRVmxGZy1RcXFIWmg4a3pyeTBYSFF2NDVvTVVyY0V4T2FfSXJHNjVrN1otTXh2enFHSEJlV…\n來源：Google News:CCK",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNczBPSDZaUDhGQW5wM2JhbkM4RGt5WmpQYVR4Q1BqU2dKUUNfN1BxdXpaYzNWQWRIa2FUc0d3bjZMWHRGWExQdDBhWU5odnNmQ3BWQTl1X1RIVTZ0VW9IVy1DTXhJb2dPdmZrUmtpbmc2c1VELWFRVmxGZy1RcXFIWmg4a3pyeTBYSFF2NDVvTVVyY0V4T2FfSXJHNjVrN1otTXh2enFHSEJlVTdKVDJNX1pPLW9ZczFZcjNONktZTFZPUUVtYU93VXN0SdIB0AFBVV95cUxQVm53c0ZOOVdKVmF1eTY3N2dwaTBSeUotN1QzcDNUUmZTZ0d2WEhsVlNMaWthVmk2RGEtdkoyOEozZk5sRjBtNEpkYkM5cG40SGZQNUEzV01nN2FVZi1QQXVwSFN0WllaYVlxQjhXcU1nUTVwX0FLdFo0Rm0xY2FNeEVpREZDUkQzSlFyczJ4SW1uY2FwdUpCeXJsUkZTM2pfTkx0ckc2Q0dDYU5JUkdCenNmeGlselhWeXVuaXJXaWg1ZXJQMlhsZDJOWUVLQ2Vz?oc=5",
-      "source": "Google News:CCK",
+      "symbol": "FTNT",
+      "short": "FTNT — Fortinet, Inc. $FTNT Stock Purchased by Brookstone Capital Management - MarketBeat",
+      "detail": "FTNT\n重點：新聞\n標題：Fortinet, Inc. $FTNT Stock Purchased by Brookstone Capital Management - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVY3VWtPRzRfSF9XdWx5dXpCYWFRTTRnY1RJS2V5ejl6TDF6dFFkakRJNkc3Q0p4U1NTQ185YldncUxCdEpXa25CWHJ3VEdsdHhKUHVDdGtiOV9lcTVtQWxOV190UEpGd2Fvd2VoV2hxYzNWZFktZGlNTmx4WTljUEllTlVlV0RGN3dlcWhYQno2dnFuWHduRjdhOWxEMzR4bnBobDZYT2VvU…\n來源：Google News:FTNT\n其他：Fortinet, Inc. (NASDAQ:FTNT) Stock Rated \"Hold\" by Sell-Sid…",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVY3VWtPRzRfSF9XdWx5dXpCYWFRTTRnY1RJS2V5ejl6TDF6dFFkakRJNkc3Q0p4U1NTQ185YldncUxCdEpXa25CWHJ3VEdsdHhKUHVDdGtiOV9lcTVtQWxOV190UEpGd2Fvd2VoV2hxYzNWZFktZGlNTmx4WTljUEllTlVlV0RGN3dlcWhYQno2dnFuWHduRjdhOWxEMzR4bnBobDZYT2VvU3h3UGhBWkE3enllRzJVVVIwaGZiV3JYQ3RGVlE?oc=5",
+      "source": "Google News:FTNT",
       "kind": "news"
     },
     {
       "n": 3,
+      "symbol": "HCA",
+      "short": "HCA — 業績／指引：HCA Healthcare earnings: what to look for from HCA",
+      "detail": "HCA\n重點：業績／指引\n標題：HCA Healthcare earnings: what to look for from HCA\n摘要：Hospital operator HCA Healthcare (NYSE:HCA) will be reporting results this Tuesday before market hours. Here’s what investors should know.\n來源：Yahoo Finance:HCA\n其他：HCA Healthcare Reports Soon: How Has The Stock Reacted To P…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hca-healthcare-earnings-look-hca-084647527.html?.tsrc=rss",
+      "source": "Yahoo Finance:HCA",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "MDT",
+      "short": "MDT — 311,002 Shares in Medtronic PLC $MDT Bought by Randolph Co Inc - MarketBeat",
+      "detail": "MDT\n重點：新聞\n標題：311,002 Shares in Medtronic PLC $MDT Bought by Randolph Co Inc - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQc210Vk1rSzh5UGhmUUFmSU5maWRZRTVtaFpQb0hBVDZyd2R4YWRFeEU5Vlo2Z2VpU0l3eWNXMjFuVEV2QWNBZEFrei1QUExsMmQzTUE5R25GaENhQjZCaXI1VnRRM1Q5X0RzY3B4Y0NXM0wyek9ySFNfWnl3X09TODBMekRCaTlrVHhJVkN1TkRaWkc2TUVUbEN4a2FUcWZkUVZiOC04X0tvM…\n來源：Google News:MDT\n其他：Medtronic PLC $MDT Holdings Boosted by Hedeker Wealth LLC -…",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc210Vk1rSzh5UGhmUUFmSU5maWRZRTVtaFpQb0hBVDZyd2R4YWRFeEU5Vlo2Z2VpU0l3eWNXMjFuVEV2QWNBZEFrei1QUExsMmQzTUE5R25GaENhQjZCaXI1VnRRM1Q5X0RzY3B4Y0NXM0wyek9ySFNfWnl3X09TODBMekRCaTlrVHhJVkN1TkRaWkc2TUVUbEN4a2FUcWZkUVZiOC04X0tvMGVtNnE0NnY4X2ZuRk8wdUc4TnhB?oc=5",
+      "source": "Google News:MDT",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "URBN",
+      "short": "URBN — Urban Outfitters, Inc. $URBN Stock Sold by Robeco Institutional Asset Management B.V. -…",
+      "detail": "URBN\n重點：新聞\n標題：Urban Outfitters, Inc. $URBN Stock Sold by Robeco Institutional Asset Management B.V. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX29PVHEyeFFndTVNVUR6UFRDamFOUGhUSFRnSThDVm51dmZ0aW1HeTJqLU94dEtUbzE3T0JabWREYzhpUGN5eTFxUEtVaGxQVTlaRHB4ZHF2cmNDYWtWTEsta1ZpTHJnYW1ZNFplTmNEdllOSkdNdmZMYWRxZDlocHotd0lQQ2JNX3ZjYzZQMVVtc2Jzc1ZRM0wzVnA1N0RjckJTMjVETGZlS…\n來源：Google News:URBN\n其他：Urban Outfitters, Inc. (NASDAQ:URBN) Stock Has Consensus Ta…",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX29PVHEyeFFndTVNVUR6UFRDamFOUGhUSFRnSThDVm51dmZ0aW1HeTJqLU94dEtUbzE3T0JabWREYzhpUGN5eTFxUEtVaGxQVTlaRHB4ZHF2cmNDYWtWTEsta1ZpTHJnYW1ZNFplTmNEdllOSkdNdmZMYWRxZDlocHotd0lQQ2JNX3ZjYzZQMVVtc2Jzc1ZRM0wzVnA1N0RjckJTMjVETGZlSEVXQV9ja2JUQmNSdVJ2ck1LYlhwb0hvZzlnU1lPekZsdWpzdXN3R0V1dl90NVA?oc=5",
+      "source": "Google News:URBN",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "ANET",
+      "short": "ANET — Arista Networks, Inc. $ANET Shares Purchased by Citizens Financial Group Inc. RI - Mark…",
+      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Shares Purchased by Citizens Financial Group Inc. RI - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPakoxTEQtcGMwN0tqRWVWaDVELThJQThMdkk4d2ExdklQMGsxTUh3RWs5a1Ftcm80bEd5YVlzdDhmSlZvRTdnNHdmU3pWWS01UlJzcjJLS1NRdVJDdU5ndGRTRDIzNmF6N1BVemhOdGRFTkdKX2ZmRTh5UkJVWE5tNkp3OVh2NzlDUnJmMkE3N29JLXR3eUZQOWZRZ3pPQjdQV2JVX2pTakdtb…\n來源：Google News:ANET",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPakoxTEQtcGMwN0tqRWVWaDVELThJQThMdkk4d2ExdklQMGsxTUh3RWs5a1Ftcm80bEd5YVlzdDhmSlZvRTdnNHdmU3pWWS01UlJzcjJLS1NRdVJDdU5ndGRTRDIzNmF6N1BVemhOdGRFTkdKX2ZmRTh5UkJVWE5tNkp3OVh2NzlDUnJmMkE3N29JLXR3eUZQOWZRZ3pPQjdQV2JVX2pTakdtbTRubWRZTktObDFYczZ1T2J0WENQWXA2XzZKM1ViYUlZSzRlU3BNRnpz?oc=5",
+      "source": "Google News:ANET",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "BKNG",
+      "short": "BKNG — Booking Holdings Inc. $BKNG Shares Sold by Provident Investment Management Inc. - Marke…",
+      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Shares Sold by Provident Investment Management Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbFRzb0syWUJiLXczNDJWbG9Zcm5GTTViMUhGd1BZa3hBMTJmd2NFNE9WbW14eVN1b2RiQmVGc2Y0YVBiQkRwVlZUMjRCSF9LaDlNaU4zcnVsNXJiYlRkTTVfbktvZ0NfNU5ZQ1V2QXVXWjNaLUVFRnc2VGtqdnRYVndNTmJrdTRxR2Z6cTMybFMzcXJyS3ZJVjdDenJLYmVyTHFraERRa1VuZ…\n來源：Google News:BKNG",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbFRzb0syWUJiLXczNDJWbG9Zcm5GTTViMUhGd1BZa3hBMTJmd2NFNE9WbW14eVN1b2RiQmVGc2Y0YVBiQkRwVlZUMjRCSF9LaDlNaU4zcnVsNXJiYlRkTTVfbktvZ0NfNU5ZQ1V2QXVXWjNaLUVFRnc2VGtqdnRYVndNTmJrdTRxR2Z6cTMybFMzcXJyS3ZJVjdDenJLYmVyTHFraERRa1VuZ2dDcWZyUjZDd0tKSlpSMGZBNW5YYUdoU0kxZXhXaFRHX0duaDd0WEVv?oc=5",
+      "source": "Google News:BKNG",
+      "kind": "news"
+    },
+    {
+      "n": 8,
       "symbol": "COF",
-      "short": "COF — 業績／指引：Did Stronger Earnings Just Shift Capital One's (COF) Investment Narrative? - Simply Wal…",
-      "detail": "COF\n重點：業績／指引\n標題：Did Stronger Earnings Just Shift Capital One's (COF) Investment Narrative? - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMnFBOXBWMXVndlBtYkd3ZXV6RGQ0bXdNUGVRSnItTUx2dzI5bV9Uc0dVOVppdjZQTnE1Q3FQV2lxWWtpZENuT3gwVFg5cDhsbWV0QXpfTm5MOC1kd1JGcWJGM0dsUUlzZDZMMHlQdklRMUNvZ3ZDY2xpaks4b3cxcGpfbVAtX1ROM25HUkNlYlZsSk9xU0NRY3N5MkFiVnBlWGpSRU85YndZe…\n來源：Google News:COF",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMnFBOXBWMXVndlBtYkd3ZXV6RGQ0bXdNUGVRSnItTUx2dzI5bV9Uc0dVOVppdjZQTnE1Q3FQV2lxWWtpZENuT3gwVFg5cDhsbWV0QXpfTm5MOC1kd1JGcWJGM0dsUUlzZDZMMHlQdklRMUNvZ3ZDY2xpaks4b3cxcGpfbVAtX1ROM25HUkNlYlZsSk9xU0NRY3N5MkFiVnBlWGpSRU85YndZekFSaEJZaEtpNUNCbEV4NXhrUnJxS3pqaDh4TUxQSlpUTXZOS29MVV95bklTVDZyNFByd05wZUhFRl9Od9IB6wFBVV95cUxNUkk2UE5kRFloeDVVdEFQeDNSZlNYbU9FSTRacUFibXIxVW1rX2FGbmlBSktrdVRfLWV3dkRrUWJTQkJPdGhaMGFpYWdCWWpWZTVlY3V1WlJ3SkZLczVZT2VrNXJIVVVBOGkxZzFoc1AzeEV1SE5vRmlUR3U3SEZud1dYN0dtRFJpSlgzbGxSb3N6ckl3ZTBNV1VWZl92VWh4YktGS0RBd2Y4LUtHYkFZVUlrVU1NVzFjVG1DWHF6aXlxWUlPYXhfRUZOWlhVREJLZTFlc3BFekFiNDBjb00tRGVPRU14NUQwQ1A0?oc=5",
+      "short": "COF — Capital One Financial Corporation $COF Stock: Citizens Financial Group Inc. RI Reduces …",
+      "detail": "COF\n重點：新聞\n標題：Capital One Financial Corporation $COF Stock: Citizens Financial Group Inc. RI Reduces Holdings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMDN6dUxBS0RMNVB2YkJoY05jOWctVGZKZ05MTmxITW50dFZEb2VXSkhTV29pMkp4cV9reDdCN1dZZ1IwRGxaSXhGc0RVYjU1a0xobHpKYkM2aVotajZLenl4TldqQ1BydXY5WlFNXzR5V2ZVbDBtTUFOMHRsYWtpSlVYcnFnRGptRG9zaVB2SDhFQ0pNdHQweVlBME1UcU5EVHZxNG1POW1sc…\n來源：Google News:COF",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMDN6dUxBS0RMNVB2YkJoY05jOWctVGZKZ05MTmxITW50dFZEb2VXSkhTV29pMkp4cV9reDdCN1dZZ1IwRGxaSXhGc0RVYjU1a0xobHpKYkM2aVotajZLenl4TldqQ1BydXY5WlFNXzR5V2ZVbDBtTUFOMHRsYWtpSlVYcnFnRGptRG9zaVB2SDhFQ0pNdHQweVlBME1UcU5EVHZxNG1POW1sckFPd3FTcmtmVlZBcGhJWUFlY1ROdHN6LWF5U1drcWJZS09IeC1UMzNRRUlQM3dSUXZCaFBsQjJUcWJpamdi?oc=5",
       "source": "Google News:COF",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "HMC",
+      "short": "HMC — 業績／指引：Honda Motor (NYSE:HMC) Trims Full-Year Guidance as Tariffs Weigh - Kalkine Media",
+      "detail": "HMC\n重點：業績／指引\n標題：Honda Motor (NYSE:HMC) Trims Full-Year Guidance as Tariffs Weigh - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWI5SnF5SGpwZzY3ZnVlY0NRREZFOWlfVUZSaHViRTVva2NLQXZGUnV5VjZVbG9nNHVRTFVSVExpU3RqQ2NyRk9hdDl2S1g1c1o1U19GQjhvMjRfeGg2M1FJRV81Mms0UGVpTXJsckJuNFpDSHFJVTNJZGswWTJiWF9YY2R3RFhRVkpvYTYwa2pqRk1KUURqRlNlWlVybkxzZUVZb1otUGFJU…\n來源：Google News:HMC",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWI5SnF5SGpwZzY3ZnVlY0NRREZFOWlfVUZSaHViRTVva2NLQXZGUnV5VjZVbG9nNHVRTFVSVExpU3RqQ2NyRk9hdDl2S1g1c1o1U19GQjhvMjRfeGg2M1FJRV81Mms0UGVpTXJsckJuNFpDSHFJVTNJZGswWTJiWF9YY2R3RFhRVkpvYTYwa2pqRk1KUURqRlNlWlVybkxzZUVZb1otUGFJUFk?oc=5",
+      "source": "Google News:HMC",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "IQV",
+      "short": "IQV — 業績／指引：IQVIA (IQV) Q3 earnings report preview: what to look for",
+      "detail": "IQV\n重點：業績／指引\n標題：IQVIA (IQV) Q3 earnings report preview: what to look for\n摘要：Clinical research company IQVIA (NYSE: IQV) will be reporting results this Tuesday before market open. Here’s what to expect.\n來源：Yahoo Finance:IQV",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/iqvia-iqv-q3-earnings-report-100647666.html?.tsrc=rss",
+      "source": "Yahoo Finance:IQV",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "LNG",
+      "short": "LNG — 3,749 Cheniere Energy, Inc. $LNG Shares Sold by Total Wealth Planning & Management Inc.…",
+      "detail": "LNG\n重點：新聞\n標題：3,749 Cheniere Energy, Inc. $LNG Shares Sold by Total Wealth Planning & Management Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTFByRVF0TmtHaklFV1BTUEEtdUpicHNYeFV2SWpwWEJIX0dmMVNkRDR2RVl3Y0FuYlJONC1teG8zclRzYjdHc05DMm44cHJTY1lyMjI4bDZuWHB0TTJ2RG41ZWs1WFFHd0xKU3dsY3RBd3lPa0NEMHNQZFY3YU1sQnREaXVsblBiRlFNN2xGUnV3dmlWYVhHYTlxYm5pRW5fdjl1ODRid2Zab…\n來源：Google News:LNG",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTFByRVF0TmtHaklFV1BTUEEtdUpicHNYeFV2SWpwWEJIX0dmMVNkRDR2RVl3Y0FuYlJONC1teG8zclRzYjdHc05DMm44cHJTY1lyMjI4bDZuWHB0TTJ2RG41ZWs1WFFHd0xKU3dsY3RBd3lPa0NEMHNQZFY3YU1sQnREaXVsblBiRlFNN2xGUnV3dmlWYVhHYTlxYm5pRW5fdjl1ODRid2ZablBvaXoweGoxbWlwSjZQVXJUdEx3NzlfVWRMMzRrcVFtSFJXYW1zd255bkk5VjE?oc=5",
+      "source": "Google News:LNG",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "NOG",
+      "short": "NOG — 37,981 Northern Oil and Gas, Inc. $NOG Shares Sold by Sterling Capital Management LLC -…",
+      "detail": "NOG\n重點：新聞\n標題：37,981 Northern Oil and Gas, Inc. $NOG Shares Sold by Sterling Capital Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPekJjTWZqV3F2U0I5cjRfeDdUWVU0bm51QWhZSU42VXZJWW1IaUtjckxwVEZsZXJzTVhmMVVEcGlyUFFkQ0FrcHd4UlV2TXZHVnl3RW41R1k1OXJfWlUtbV9fcUZ1QTFIVFp2aktfOUVvcV9wejN0VFV6MnhXNVZxbmRuSFlieTRVNEJEU01lV0ZKN2hNczRveW5HeXRselR4NzhnMVdfWUlLN…\n來源：Google News:NOG",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPekJjTWZqV3F2U0I5cjRfeDdUWVU0bm51QWhZSU42VXZJWW1IaUtjckxwVEZsZXJzTVhmMVVEcGlyUFFkQ0FrcHd4UlV2TXZHVnl3RW41R1k1OXJfWlUtbV9fcUZ1QTFIVFp2aktfOUVvcV9wejN0VFV6MnhXNVZxbmRuSFlieTRVNEJEU01lV0ZKN2hNczRveW5HeXRselR4NzhnMVdfWUlLNVN1NFBoRlNMUzQwWW5oMlJSZ2VjQlZOVjI3TkZOT3ZJUWdZdzhjNjlLU19Xb2J5QQ?oc=5",
+      "source": "Google News:NOG",
       "kind": "news"
     }
   ]
