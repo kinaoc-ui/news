@@ -1,115 +1,61 @@
 {
-  "title": "FS新聞 10-26 16:40",
-  "list_name": "FirstScreen_2026-10-26_164003_comma.txt",
-  "created_at": "2026-10-26T16:40:10.698293+00:00",
+  "title": "FS新聞 10-27 05:19",
+  "list_name": "FirstScreen_2026-10-27_051903_comma.txt",
+  "created_at": "2026-10-27T05:19:10.754430+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "PR",
-      "short": "PR — 業績／指引：Surging Earnings Estimates Signal Upside for Permian Resources (PR) Stock",
-      "detail": "PR\n重點：業績／指引\n標題：Surging Earnings Estimates Signal Upside for Permian Resources (PR) Stock\n摘要：Permian Resources (PR) shares have started gaining and might continue moving higher in the near term, as indicated by solid earnings estimate revisions.\n來源：Yahoo Finance:PR\n其他：Why Permian Resources (PR) is Poised to Beat Earnings Estim…; Permian Resources (NYSE:PR) Hits New 12-Month High - What's…; Permian Resources Corporation $PR Stock Sold by Leeward Inv…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/surging-earnings-estimates-signal-upside-152002564.html?.tsrc=rss",
-      "source": "Yahoo Finance:PR",
+      "symbol": "GGB",
+      "short": "GGB — 業績／指引：Gerdau (NYSE:GGB) Issues Quarterly Earnings Results - MarketBeat",
+      "detail": "GGB\n重點：業績／指引\n標題：Gerdau (NYSE:GGB) Issues Quarterly Earnings Results - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWZwYXVYa25ySFlVMkY1UDBfLXdtR1VhYk8xMVl4OFdGMHJvb1h4b3IzWEdTSUpYRzBOXzJlQWE5R3FQengtVTR4UjVuZ2UzNGU2bEtsODhmRlAyRUpHUlJjTWZoOVRWWERzd0IyS1hnVjZCN3pYZHYzS0tWNjlhcU40dEppcU5pTzBiN3N0cXNUQndnU1g5NEZ1eDItRjByM200V2g4dWhOV…\n來源：Google News:GGB\n其他：Gerdau: Q3 Earnings Snapshot",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWZwYXVYa25ySFlVMkY1UDBfLXdtR1VhYk8xMVl4OFdGMHJvb1h4b3IzWEdTSUpYRzBOXzJlQWE5R3FQengtVTR4UjVuZ2UzNGU2bEtsODhmRlAyRUpHUlJjTWZoOVRWWERzd0IyS1hnVjZCN3pYZHYzS0tWNjlhcU40dEppcU5pTzBiN3N0cXNUQndnU1g5NEZ1eDItRjByM200V2g4dWhOVDFhVHJfTDZ3?oc=5",
+      "source": "Google News:GGB",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "LNG",
-      "short": "LNG — Cheniere Energy (NYSE:LNG) Reaches New 12-Month High Following Analyst Upgrade - Market…",
-      "detail": "LNG\n重點：新聞\n標題：Cheniere Energy (NYSE:LNG) Reaches New 12-Month High Following Analyst Upgrade - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRFcxS1V5MGRBd3g5c2RSWjRhV3pRWDN5MkFrc3BObEdaTngzUUNYUmNwRTFDYlNndzc5NkpSVzBhaG5GSmx0UXZraHQxQWU3YVM5cDE4WjhZdlhRc3NoSzFXcWg1eTAwWUJmYWdmSlFIM1ByVjJERGQ3N3JaUFl4QWk5Q1N6S2k0enBNYlNFNkZ1dmxWaUlVRU15Z3hfNlVYTlN1Um9KeWxGa…\n來源：Google News:LNG\n其他：Cheniere Energy to Report Q3 Earnings: What's in the Offing?; 3,749 Cheniere Energy, Inc. $LNG Shares Sold by Total Wealt…",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRFcxS1V5MGRBd3g5c2RSWjRhV3pRWDN5MkFrc3BObEdaTngzUUNYUmNwRTFDYlNndzc5NkpSVzBhaG5GSmx0UXZraHQxQWU3YVM5cDE4WjhZdlhRc3NoSzFXcWg1eTAwWUJmYWdmSlFIM1ByVjJERGQ3N3JaUFl4QWk5Q1N6S2k0enBNYlNFNkZ1dmxWaUlVRU15Z3hfNlVYTlN1Um9KeWxGaGI3Nl9SVkR0akxvWlhYZkVtZWlxM3BzNWxVeWE5dFdYcV9Nc1lzeGc?oc=5",
-      "source": "Google News:LNG",
+      "symbol": "PYPL",
+      "short": "PYPL — 業績／指引：SOFI Vs PYPL: Which Fintech Stock Looks Better Ahead Of Q3 Earnings?",
+      "detail": "PYPL\n重點：業績／指引\n標題：SOFI Vs PYPL: Which Fintech Stock Looks Better Ahead Of Q3 Earnings?\n摘要：SoFi Technologies and PayPal Holdings will both report third-quarter (Q3) earnings results on Tuesday.\n來源：Yahoo Finance:PYPL\n其他：SOFI Vs PYPL: Which Fintech Stock Looks Better Ahead Of Q3 …",
+      "url": "https://stocktwits.com/news-articles/markets/equity/sofi-vs-pypl-which-fintech-stock-looks-better-ahead-of-q3-earnings/cZUIqAdRBzO?.tsrc=rss",
+      "source": "Yahoo Finance:PYPL",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "MDT",
-      "short": "MDT — 17,357 Shares of Medtronic PLC $MDT Bought by Total Wealth Planning & Management Inc. -…",
-      "detail": "MDT\n重點：新聞\n標題：17,357 Shares of Medtronic PLC $MDT Bought by Total Wealth Planning & Management Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVmFGbDNlSGdlQzB4Q3pTWm80cVNrX3o1cXkwMUg0cXVSaUZRTFozZ3owdmYwN0lwVG5vWGo3a25GMWgybHRvazhoeTBpSFkxajZvOGR5OVdWOFZ5d2xlSS1KaHVGck1PZHdmalZSM1NJRG1vZkRqNDZjOUZ2d1BWcUxDLU9rSGtzcENEQmtlQ3hWSFFhZ2wwanBEekM1OTNhLVBtdzlVcjh0Q…\n來源：Google News:MDT\n其他：311,002 Shares in Medtronic PLC $MDT Bought by Randolph Co …; Medtronic PLC $MDT Holdings Boosted by Hedeker Wealth LLC -…",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVmFGbDNlSGdlQzB4Q3pTWm80cVNrX3o1cXkwMUg0cXVSaUZRTFozZ3owdmYwN0lwVG5vWGo3a25GMWgybHRvazhoeTBpSFkxajZvOGR5OVdWOFZ5d2xlSS1KaHVGck1PZHdmalZSM1NJRG1vZkRqNDZjOUZ2d1BWcUxDLU9rSGtzcENEQmtlQ3hWSFFhZ2wwanBEekM1OTNhLVBtdzlVcjh0QXIzWHYzbVBhOWJjZWVvUEhFMDQzb2ZITTkyS29ITjlpemMxS0oyT3JmNmtTUWU?oc=5",
-      "source": "Google News:MDT",
+      "symbol": "ANET",
+      "short": "ANET — Arista Networks (NYSE:ANET) Shares Climb 2.7% - What's Next? - MarketBeat",
+      "detail": "ANET\n重點：新聞\n標題：Arista Networks (NYSE:ANET) Shares Climb 2.7% - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOT3pKbGlYWXotSUtQYUlVcmMwMndZUHRQdExoWG1tdVJCaWdXbVJjY1Btd0gwbzZaMS1DUW56WFM2X3ZTUlozQkdCRF9WSXc0UGZYNmdnYTVuYUNOajNiaG9kSGx0T2k4VmkzaWlaVTdwelBGcWFvV3U2cnV3V3cyWmhjanVneHB1dEZSa1Nva1NIZFdXOVVCd1Z6MGIzelEwUFI5cGcwY09CV…\n來源：Google News:ANET",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT3pKbGlYWXotSUtQYUlVcmMwMndZUHRQdExoWG1tdVJCaWdXbVJjY1Btd0gwbzZaMS1DUW56WFM2X3ZTUlozQkdCRF9WSXc0UGZYNmdnYTVuYUNOajNiaG9kSGx0T2k4VmkzaWlaVTdwelBGcWFvV3U2cnV3V3cyWmhjanVneHB1dEZSa1Nva1NIZFdXOVVCd1Z6MGIzelEwUFI5cGcwY09CVEJSVDI4eUZn?oc=5",
+      "source": "Google News:ANET",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "GEN",
-      "short": "GEN — 業績／指引：Gen Digital (GEN) Unveils Employee Financial Wellness Platform For The Workplace",
-      "detail": "GEN\n重點：業績／指引\n標題：Gen Digital (GEN) Unveils Employee Financial Wellness Platform For The Workplace\n摘要：Gen Digital (NasdaqGS:GEN) has launched Norton Money Workplace through its Norton LifeLock Benefit Solutions unit as a new employee financial wellness platform. The platform combines financial management, protection tools, personalized guidance, and planning features into a sing…\n來源：Yahoo Finance:GEN\n其他：Gen Digital to Report Q2 Earnings: What's in the Cards for …",
-      "url": "https://finance.yahoo.com/small-business/articles/gen-digital-gen-unveils-employee-151053899.html?.tsrc=rss",
-      "source": "Yahoo Finance:GEN",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "MRK",
-      "short": "MRK — LLY vs. MRK: Which Stock Offers the More Compelling Investment Case?",
-      "detail": "MRK\n重點：新聞\n標題：LLY vs. MRK: Which Stock Offers the More Compelling Investment Case?\n摘要：Lilly and Merck boast blockbuster drugs, expanding pipelines and new growth opportunities but pricing pressure, patent risks & competition shape their outlooks.\n來源：Yahoo Finance:MRK\n其他：Countdown to Merck (MRK) Q3 Earnings: A Look at Estimates B…",
-      "url": "https://finance.yahoo.com/healthcare/articles/lly-vs-mrk-stock-offers-123000815.html?.tsrc=rss",
-      "source": "Yahoo Finance:MRK",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "A",
-      "short": "A — 業績／指引：Fox Corp. Class A stock may move 5.5% on earnings release - Investing.com",
-      "detail": "A\n重點：業績／指引\n標題：Fox Corp. Class A stock may move 5.5% on earnings release - Investing.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNYkpCbHRqNm14dnJqeW1EMEhaSC04V3Z6c0VDNG8zODM4WWNSUDljSXBpZV9ZWGl0VUdBUTJ0WXQyY0FwQTd1NGdFYXBmTUhjOTMxWERFWE52dXdEY19Ed3EyOVhtb0VIOVllNFlUVlBabVljLUdVbjBQQU1MRlF5MkN5SlNrRUgxSC1JRDZfZ2xfZzJWa3RHdmwwT2dfMFV1cFNUQmlhR2lON…\n來源：Google News:A",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYkpCbHRqNm14dnJqeW1EMEhaSC04V3Z6c0VDNG8zODM4WWNSUDljSXBpZV9ZWGl0VUdBUTJ0WXQyY0FwQTd1NGdFYXBmTUhjOTMxWERFWE52dXdEY19Ed3EyOVhtb0VIOVllNFlUVlBabVljLUdVbjBQQU1MRlF5MkN5SlNrRUgxSC1JRDZfZ2xfZzJWa3RHdmwwT2dfMFV1cFNUQmlhR2lONjVoQUoyNUZpanZKVzg?oc=5",
-      "source": "Google News:A",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "ALSN",
-      "short": "ALSN — 業績／指引：Allison Transmission (ALSN) Earnings Expected to Grow: What to Know Ahead of Next Week'…",
-      "detail": "ALSN\n重點：業績／指引\n標題：Allison Transmission (ALSN) Earnings Expected to Grow: What to Know Ahead of Next Week's Release\n摘要：Allison Transmission (ALSN) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.\n來源：Yahoo Finance:ALSN",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/allison-transmission-alsn-earnings-expected-130011899.html?.tsrc=rss",
-      "source": "Yahoo Finance:ALSN",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "ARCC",
-      "short": "ARCC — 業績／指引：Ares Capital (ARCC) Upgraded to Buy: Here's What You Should Know",
-      "detail": "ARCC\n重點：業績／指引\n標題：Ares Capital (ARCC) Upgraded to Buy: Here's What You Should Know\n摘要：Ares Capital (ARCC) has been upgraded to a Zacks Rank #2 (Buy), reflecting growing optimism about the company's earnings prospects. This might drive the stock higher in the near term.\n來源：Yahoo Finance:ARCC",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ares-capital-arcc-upgraded-buy-150003084.html?.tsrc=rss",
-      "source": "Yahoo Finance:ARCC",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "BKNG",
-      "short": "BKNG — Booking Holdings Inc. $BKNG Shares Sold by Provident Investment Management Inc. - Marke…",
-      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Shares Sold by Provident Investment Management Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbFRzb0syWUJiLXczNDJWbG9Zcm5GTTViMUhGd1BZa3hBMTJmd2NFNE9WbW14eVN1b2RiQmVGc2Y0YVBiQkRwVlZUMjRCSF9LaDlNaU4zcnVsNXJiYlRkTTVfbktvZ0NfNU5ZQ1V2QXVXWjNaLUVFRnc2VGtqdnRYVndNTmJrdTRxR2Z6cTMybFMzcXJyS3ZJVjdDenJLYmVyTHFraERRa1VuZ…\n來源：Google News:BKNG",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbFRzb0syWUJiLXczNDJWbG9Zcm5GTTViMUhGd1BZa3hBMTJmd2NFNE9WbW14eVN1b2RiQmVGc2Y0YVBiQkRwVlZUMjRCSF9LaDlNaU4zcnVsNXJiYlRkTTVfbktvZ0NfNU5ZQ1V2QXVXWjNaLUVFRnc2VGtqdnRYVndNTmJrdTRxR2Z6cTMybFMzcXJyS3ZJVjdDenJLYmVyTHFraERRa1VuZ2dDcWZyUjZDd0tKSlpSMGZBNW5YYUdoU0kxZXhXaFRHX0duaDd0WEVv?oc=5",
-      "source": "Google News:BKNG",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "BXSL",
-      "short": "BXSL — Blackstone Secured Lending Fund (NYSE:BXSL) Stock Rated \"Market Perform\" in New Coverag…",
-      "detail": "BXSL\n重點：新聞\n標題：Blackstone Secured Lending Fund (NYSE:BXSL) Stock Rated \"Market Perform\" in New Coverage at Citizens Jmp - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaW84OG9QX2tyYmdCQloyeUxHMENoVWpkRU1WaHg5UkdKRjduZTVaVER6T1FaQVVHN3FtVE52Wi1PbUZZU3pnX0puYkNpbEVrOEFpQkItVnNYSXhVREg5QkdEelAyaERxbExWMUwtTVA4aFh4Y25qcFJBY1FzTkZnR3JKWi1DNEE1dmp4TGZkd0Rrc2pvbjVCSjFDSUMwWHdJTzA2UEtBTDE3N…\n來源：Google News:BXSL",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaW84OG9QX2tyYmdCQloyeUxHMENoVWpkRU1WaHg5UkdKRjduZTVaVER6T1FaQVVHN3FtVE52Wi1PbUZZU3pnX0puYkNpbEVrOEFpQkItVnNYSXhVREg5QkdEelAyaERxbExWMUwtTVA4aFh4Y25qcFJBY1FzTkZnR3JKWi1DNEE1dmp4TGZkd0Rrc2pvbjVCSjFDSUMwWHdJTzA2UEtBTDE3NHdtYVUzblRZQlNIUHJIZHJ2TnFySDJHZm5WbE9jQ3R5MU9TQlNmVklFMEpsVExreFJiYXdxX3dnaXQ3Q1NkN2tUek43SHB6VFhZ?oc=5",
-      "source": "Google News:BXSL",
-      "kind": "news"
-    },
-    {
-      "n": 11,
       "symbol": "CRM",
-      "short": "CRM — Salesforce Inc. $CRM Stock Sold by Orange Investment Advisors Inc. - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stock Sold by Orange Investment Advisors Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd2VlSEo1anZCVkx5UlNfSjRBZVlXM3ZNZ1VOSUlBODJfNW1XVmVCcmstNl9MOHpRQ1VGVkV1TktkVzlQWEtjQ183N19nSXgwTUQzOFBWNDFjWGpsN0kxWktpbUhXWUYxNmpBRGJvbU5xZVExQzh1cnJmXzVFZVBpLWRtTzBWakhEZGV5SEJRYXRkX004UmZmTE9TZVBoeUxfb1paOTV2dnhNb…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd2VlSEo1anZCVkx5UlNfSjRBZVlXM3ZNZ1VOSUlBODJfNW1XVmVCcmstNl9MOHpRQ1VGVkV1TktkVzlQWEtjQ183N19nSXgwTUQzOFBWNDFjWGpsN0kxWktpbUhXWUYxNmpBRGJvbU5xZVExQzh1cnJmXzVFZVBpLWRtTzBWakhEZGV5SEJRYXRkX004UmZmTE9TZVBoeUxfb1paOTV2dnhNbzJ4b0VkSExRdVRMcXNfQ29fV3pEckprdw?oc=5",
+      "short": "CRM — 併購／交易：Can Salesforce (NYSE:CRM) Make Its Latest Acquisition Pay Off? - Kalkine Media",
+      "detail": "CRM\n重點：併購／交易\n標題：Can Salesforce (NYSE:CRM) Make Its Latest Acquisition Pay Off? - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVY5SlVoQl8tTkliUTQ1c0E1NVZuVV9YOEtXRF9ydkJuRzZZSkoxcUhxUkJuYTJYSG1NR3RKVng2M1FUWTlfQm56ZUhkX1B6ZHNEYVVTaUdLRFpOMjR2TzN3MXNnRlNkUk9RR25SdHRjbXBUQlQyT05hMVI3TVRxNXNQQkdXUFZNSEVQVG95X3J3TWlULVBLcldQeGJMdHdqYnpSckVMYw?oc…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVY5SlVoQl8tTkliUTQ1c0E1NVZuVV9YOEtXRF9ydkJuRzZZSkoxcUhxUkJuYTJYSG1NR3RKVng2M1FUWTlfQm56ZUhkX1B6ZHNEYVVTaUdLRFpOMjR2TzN3MXNnRlNkUk9RR25SdHRjbXBUQlQyT05hMVI3TVRxNXNQQkdXUFZNSEVQVG95X3J3TWlULVBLcldQeGJMdHdqYnpSckVMYw?oc=5",
       "source": "Google News:CRM",
       "kind": "news"
     },
     {
-      "n": 12,
-      "symbol": "EL",
-      "short": "EL — 業績／指引：Estee Lauder (EL) Earnings Expected to Grow: Should You Buy?",
-      "detail": "EL\n重點：業績／指引\n標題：Estee Lauder (EL) Earnings Expected to Grow: Should You Buy?\n摘要：Estee Lauder (EL) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.\n來源：Yahoo Finance:EL",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/estee-lauder-el-earnings-expected-130007814.html?.tsrc=rss",
-      "source": "Yahoo Finance:EL",
+      "n": 5,
+      "symbol": "NTNX",
+      "short": "NTNX — 業績／指引：Cloud monitoring stocks Q2 teardown: Nutanix (NASDAQ:NTNX) vs the rest",
+      "detail": "NTNX\n重點：業績／指引\n標題：Cloud monitoring stocks Q2 teardown: Nutanix (NASDAQ:NTNX) vs the rest\n摘要：Wrapping up Q2 earnings, we look at the numbers and key takeaways for the cloud monitoring stocks, including Nutanix (NASDAQ:NTNX) and its peers.\n來源：Yahoo Finance:NTNX",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cloud-monitoring-stocks-q2-teardown-235847497.html?.tsrc=rss",
+      "source": "Yahoo Finance:NTNX",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "PR",
+      "short": "PR — 業績／指引：Permian Resources (PR) Stock Looks About Right For Its Earnings Story",
+      "detail": "PR\n重點：業績／指引\n標題：Permian Resources (PR) Stock Looks About Right For Its Earnings Story\n摘要：Permian Resources has delivered very strong gains over the past few years, and the share price performance now puts its earnings under a brighter spotlight. With the stock recently closing at US$25.77, the key issue for you is whether that kind of run is still supported by what …\n來源：Yahoo Finance:PR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-stock-looks-020610165.html?.tsrc=rss",
+      "source": "Yahoo Finance:PR",
       "kind": "news"
     }
   ]
