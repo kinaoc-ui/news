@@ -1,61 +1,115 @@
 {
-  "title": "FS新聞 10-27 05:19",
-  "list_name": "FirstScreen_2026-10-27_051903_comma.txt",
-  "created_at": "2026-10-27T05:19:10.754430+00:00",
+  "title": "FS新聞 10-27 10:11",
+  "list_name": "FirstScreen_2026-10-27_101134_comma.txt",
+  "created_at": "2026-10-27T10:11:42.110636+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "GGB",
-      "short": "GGB — 業績／指引：Gerdau (NYSE:GGB) Issues Quarterly Earnings Results - MarketBeat",
-      "detail": "GGB\n重點：業績／指引\n標題：Gerdau (NYSE:GGB) Issues Quarterly Earnings Results - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWZwYXVYa25ySFlVMkY1UDBfLXdtR1VhYk8xMVl4OFdGMHJvb1h4b3IzWEdTSUpYRzBOXzJlQWE5R3FQengtVTR4UjVuZ2UzNGU2bEtsODhmRlAyRUpHUlJjTWZoOVRWWERzd0IyS1hnVjZCN3pYZHYzS0tWNjlhcU40dEppcU5pTzBiN3N0cXNUQndnU1g5NEZ1eDItRjByM200V2g4dWhOV…\n來源：Google News:GGB\n其他：Gerdau: Q3 Earnings Snapshot",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWZwYXVYa25ySFlVMkY1UDBfLXdtR1VhYk8xMVl4OFdGMHJvb1h4b3IzWEdTSUpYRzBOXzJlQWE5R3FQengtVTR4UjVuZ2UzNGU2bEtsODhmRlAyRUpHUlJjTWZoOVRWWERzd0IyS1hnVjZCN3pYZHYzS0tWNjlhcU40dEppcU5pTzBiN3N0cXNUQndnU1g5NEZ1eDItRjByM200V2g4dWhOVDFhVHJfTDZ3?oc=5",
-      "source": "Google News:GGB",
+      "symbol": "ARCC",
+      "short": "ARCC — 併購／交易：Ares Capital Corporation Agrees to Acquire MidCap Financial Investment Corporation",
+      "detail": "ARCC\n重點：併購／交易\n標題：Ares Capital Corporation Agrees to Acquire MidCap Financial Investment Corporation\n摘要：NEW YORK, October 27, 2026--Ares Capital Corporation (NASDAQ: ARCC) (\"Ares Capital\") and MidCap Financial Investment Corporation (NASDAQ: MFIC) (\"MFIC\") announced today that they have entered into a definitive merger agreement under which Ares Capital will acquire MFIC in a stoc…\n來源：Yahoo Finance:ARCC\n其他：ARES CAPITAL CORPORATION ANNOUNCES SEPTEMBER 30, 2026 FINAN…; Ares Capital: Hold On Marked Down Loans Ahead Of Earnings (…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ares-capital-corporation-agrees-acquire-100000340.html?.tsrc=rss",
+      "source": "Yahoo Finance:ARCC",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "PYPL",
-      "short": "PYPL — 業績／指引：SOFI Vs PYPL: Which Fintech Stock Looks Better Ahead Of Q3 Earnings?",
-      "detail": "PYPL\n重點：業績／指引\n標題：SOFI Vs PYPL: Which Fintech Stock Looks Better Ahead Of Q3 Earnings?\n摘要：SoFi Technologies and PayPal Holdings will both report third-quarter (Q3) earnings results on Tuesday.\n來源：Yahoo Finance:PYPL\n其他：SOFI Vs PYPL: Which Fintech Stock Looks Better Ahead Of Q3 …",
-      "url": "https://stocktwits.com/news-articles/markets/equity/sofi-vs-pypl-which-fintech-stock-looks-better-ahead-of-q3-earnings/cZUIqAdRBzO?.tsrc=rss",
-      "source": "Yahoo Finance:PYPL",
+      "symbol": "HCA",
+      "short": "HCA — HCA Healthcare, Inc. $HCA Stock: Valley National Advisers Inc. Trims Stake - MarketBeat",
+      "detail": "HCA\n重點：新聞\n標題：HCA Healthcare, Inc. $HCA Stock: Valley National Advisers Inc. Trims Stake - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPdTdpMlNzM3FDVzBfYWZ5Zk1oQmZiYUZNblB3NnhKNVEtSUEtSW1MRjREVlkzQnplNWdmclgyeFZ1T2M5NDZlcUZjaGcwTVlQRy1mSmpsV2RPcWQydFp0OThJc01WQTg1MmhDWmk1UjlYOU5lcFVvLTJwZFgtdTVwcFplUjEwUkhhekZMNkstN1hMZzBYLWVhVGRISTdqSTZBVEpZZkdtbXVsb…\n來源：Google News:HCA\n其他：What Is Drawing Fresh Attention To HCA Healthcare (HCA)?; HCA Healthcare, Inc. $HCA Stock Bought by Hourglass Capital…",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdTdpMlNzM3FDVzBfYWZ5Zk1oQmZiYUZNblB3NnhKNVEtSUEtSW1MRjREVlkzQnplNWdmclgyeFZ1T2M5NDZlcUZjaGcwTVlQRy1mSmpsV2RPcWQydFp0OThJc01WQTg1MmhDWmk1UjlYOU5lcFVvLTJwZFgtdTVwcFplUjEwUkhhekZMNkstN1hMZzBYLWVhVGRISTdqSTZBVEpZZkdtbXVsb3Q4WkZrR05ORS1oMjFLY0p1azVwV2VsWndrbmpTWGpR?oc=5",
+      "source": "Google News:HCA",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "ANET",
-      "short": "ANET — Arista Networks (NYSE:ANET) Shares Climb 2.7% - What's Next? - MarketBeat",
-      "detail": "ANET\n重點：新聞\n標題：Arista Networks (NYSE:ANET) Shares Climb 2.7% - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOT3pKbGlYWXotSUtQYUlVcmMwMndZUHRQdExoWG1tdVJCaWdXbVJjY1Btd0gwbzZaMS1DUW56WFM2X3ZTUlozQkdCRF9WSXc0UGZYNmdnYTVuYUNOajNiaG9kSGx0T2k4VmkzaWlaVTdwelBGcWFvV3U2cnV3V3cyWmhjanVneHB1dEZSa1Nva1NIZFdXOVVCd1Z6MGIzelEwUFI5cGcwY09CV…\n來源：Google News:ANET",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT3pKbGlYWXotSUtQYUlVcmMwMndZUHRQdExoWG1tdVJCaWdXbVJjY1Btd0gwbzZaMS1DUW56WFM2X3ZTUlozQkdCRF9WSXc0UGZYNmdnYTVuYUNOajNiaG9kSGx0T2k4VmkzaWlaVTdwelBGcWFvV3U2cnV3V3cyWmhjanVneHB1dEZSa1Nva1NIZFdXOVVCd1Z6MGIzelEwUFI5cGcwY09CVEJSVDI4eUZn?oc=5",
-      "source": "Google News:ANET",
+      "symbol": "LNG",
+      "short": "LNG — Cheniere Energy, Inc. $LNG Stock Bought by Miller Howard Investments Inc. NY - MarketBe…",
+      "detail": "LNG\n重點：新聞\n標題：Cheniere Energy, Inc. $LNG Stock Bought by Miller Howard Investments Inc. NY - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPUV83RFZvN0ZGZzY1T1BuNWZaYlVPRUdEN3ZKd1NXY1oxQ0RlaE9vNUtibmw1N1pENjBDZ3p5VTVJU3BLR3V1WlVadEhKWXIxS09GdTd1Y1FqY3F4MkNSMXc2OFVvMTdQOXBOcHVmYnNDTTJuTjFBZmVYdTQzRGxPQ2FVRHd3YXR6Ym43WnI5RFhIS1g2dEViUGxIaE5nTXNpNVlZeWxhNVRJc…\n來源：Google News:LNG\n其他：Cheniere Energy, Inc. $LNG Shares Sold by CUSHING ASSET MAN…",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUV83RFZvN0ZGZzY1T1BuNWZaYlVPRUdEN3ZKd1NXY1oxQ0RlaE9vNUtibmw1N1pENjBDZ3p5VTVJU3BLR3V1WlVadEhKWXIxS09GdTd1Y1FqY3F4MkNSMXc2OFVvMTdQOXBOcHVmYnNDTTJuTjFBZmVYdTQzRGxPQ2FVRHd3YXR6Ym43WnI5RFhIS1g2dEViUGxIaE5nTXNpNVlZeWxhNVRJc1RwUnZYdUhiYUtNWjZuZ1ZJSHIybGx4NV9ncnEyQVdOOWVSQQ?oc=5",
+      "source": "Google News:LNG",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "CRM",
-      "short": "CRM — 併購／交易：Can Salesforce (NYSE:CRM) Make Its Latest Acquisition Pay Off? - Kalkine Media",
-      "detail": "CRM\n重點：併購／交易\n標題：Can Salesforce (NYSE:CRM) Make Its Latest Acquisition Pay Off? - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVY5SlVoQl8tTkliUTQ1c0E1NVZuVV9YOEtXRF9ydkJuRzZZSkoxcUhxUkJuYTJYSG1NR3RKVng2M1FUWTlfQm56ZUhkX1B6ZHNEYVVTaUdLRFpOMjR2TzN3MXNnRlNkUk9RR25SdHRjbXBUQlQyT05hMVI3TVRxNXNQQkdXUFZNSEVQVG95X3J3TWlULVBLcldQeGJMdHdqYnpSckVMYw?oc…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVY5SlVoQl8tTkliUTQ1c0E1NVZuVV9YOEtXRF9ydkJuRzZZSkoxcUhxUkJuYTJYSG1NR3RKVng2M1FUWTlfQm56ZUhkX1B6ZHNEYVVTaUdLRFpOMjR2TzN3MXNnRlNkUk9RR25SdHRjbXBUQlQyT05hMVI3TVRxNXNQQkdXUFZNSEVQVG95X3J3TWlULVBLcldQeGJMdHdqYnpSckVMYw?oc=5",
-      "source": "Google News:CRM",
+      "symbol": "A",
+      "short": "A — 併購／交易：Ares Capital Corporation Agrees to Acquire MidCap Financial Investment Corporation",
+      "detail": "A\n重點：併購／交易\n標題：Ares Capital Corporation Agrees to Acquire MidCap Financial Investment Corporation\n摘要：NEW YORK, October 27, 2026--Ares Capital Corporation (NASDAQ: ARCC) (\"Ares Capital\") and MidCap Financial Investment Corporation (NASDAQ: MFIC) (\"MFIC\") announced today that they have entered into a definitive merger agreement under which Ares Capital will acquire MFIC in a stoc…\n來源：Yahoo Finance:ARCC",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ares-capital-corporation-agrees-acquire-100000340.html?.tsrc=rss",
+      "source": "Yahoo Finance:ARCC",
       "kind": "news"
     },
     {
       "n": 5,
-      "symbol": "NTNX",
-      "short": "NTNX — 業績／指引：Cloud monitoring stocks Q2 teardown: Nutanix (NASDAQ:NTNX) vs the rest",
-      "detail": "NTNX\n重點：業績／指引\n標題：Cloud monitoring stocks Q2 teardown: Nutanix (NASDAQ:NTNX) vs the rest\n摘要：Wrapping up Q2 earnings, we look at the numbers and key takeaways for the cloud monitoring stocks, including Nutanix (NASDAQ:NTNX) and its peers.\n來源：Yahoo Finance:NTNX",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cloud-monitoring-stocks-q2-teardown-235847497.html?.tsrc=rss",
-      "source": "Yahoo Finance:NTNX",
+      "symbol": "AEO",
+      "short": "AEO — American Eagle Outfitters (NYSE:AEO) Share Price Crosses Above Two Hundred Day Moving A…",
+      "detail": "AEO\n重點：新聞\n標題：American Eagle Outfitters (NYSE:AEO) Share Price Crosses Above Two Hundred Day Moving Average - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNM1Jma0dmd1cwU1Nuc2QxWW9xc3RJSDhhRWgzSzBqak1XM1JoRExMY1FKRFlCbDdmMHJZOEhfNnB2V3VKaEZPbzlYNTc3Z0NjU2NEUXRWMW9DcXhncWtfdnpUY2RhSkZsWjFjckUzTTRTZlZjdDFUTUVPWjc4MGFFcDB4R2kyOUdnZ0hWMTZINUExc3otSExiQi1fUldHWnBsWHlYUTY5anhjS…\n來源：Google News:AEO",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNM1Jma0dmd1cwU1Nuc2QxWW9xc3RJSDhhRWgzSzBqak1XM1JoRExMY1FKRFlCbDdmMHJZOEhfNnB2V3VKaEZPbzlYNTc3Z0NjU2NEUXRWMW9DcXhncWtfdnpUY2RhSkZsWjFjckUzTTRTZlZjdDFUTUVPWjc4MGFFcDB4R2kyOUdnZ0hWMTZINUExc3otSExiQi1fUldHWnBsWHlYUTY5anhjSWhvM0xMcVNwQ05kZ19QUDFPWmQ2UXIwRmd3YUsyR0pqZDNqYU03WF9wWW5jSnVsb2JiTkxRcXZralFFZzBJZWFVTHZwNEVVUVh0?oc=5",
+      "source": "Google News:AEO",
       "kind": "news"
     },
     {
       "n": 6,
-      "symbol": "PR",
-      "short": "PR — 業績／指引：Permian Resources (PR) Stock Looks About Right For Its Earnings Story",
-      "detail": "PR\n重點：業績／指引\n標題：Permian Resources (PR) Stock Looks About Right For Its Earnings Story\n摘要：Permian Resources has delivered very strong gains over the past few years, and the share price performance now puts its earnings under a brighter spotlight. With the stock recently closing at US$25.77, the key issue for you is whether that kind of run is still supported by what …\n來源：Yahoo Finance:PR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-stock-looks-020610165.html?.tsrc=rss",
-      "source": "Yahoo Finance:PR",
+      "symbol": "CRM",
+      "short": "CRM — 3,140 Salesforce Inc. $CRM Shares Sold by Plimoth Trust Co. LLC - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：3,140 Salesforce Inc. $CRM Shares Sold by Plimoth Trust Co. LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWNEbWYzSVBvdVZOMG40UG9DOFFKbHQzdUxzbDlZMVBFSUZsT0hwVHZNbzRpZFo1WDZBRXd3TDBSYnNvRFdpMGZ6QlVWM04xcVlHbE13dXdBVzZLQXBVdzZ3dnVfT0JjYVIwTTdfVmwwRXFaR00yRjJjdzR4TDFhNkJhUW45SHgyZFpGXzVMbC01bEdGQlRlZVM2WnpOU29zbktpZVZ5RmVYW…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWNEbWYzSVBvdVZOMG40UG9DOFFKbHQzdUxzbDlZMVBFSUZsT0hwVHZNbzRpZFo1WDZBRXd3TDBSYnNvRFdpMGZ6QlVWM04xcVlHbE13dXdBVzZLQXBVdzZ3dnVfT0JjYVIwTTdfVmwwRXFaR00yRjJjdzR4TDFhNkJhUW45SHgyZFpGXzVMbC01bEdGQlRlZVM2WnpOU29zbktpZVZ5RmVYWWRDMndoUk9Ibnh3MXhxVWRsWA?oc=5",
+      "source": "Google News:CRM",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "FDX",
+      "short": "FDX — FedEx (FDX) Names A New CFO, Is The Stock Still 15% Undervalued?",
+      "detail": "FDX\n重點：新聞\n標題：FedEx (FDX) Names A New CFO, Is The Stock Still 15% Undervalued?\n摘要：FedEx (FDX) turned investors’ attention to its leadership bench on October 26, 2026, after naming experienced finance executive Jamere Jackson as Chief Financial Officer and Executive Vice President, effective November 30. The leadership move lands as FedEx shares trade at US$30…\n來源：Yahoo Finance:FDX",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fedex-fdx-names-cfo-stock-090733517.html?.tsrc=rss",
+      "source": "Yahoo Finance:FDX",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "FSK",
+      "short": "FSK — 147,065 FS KKR Capital Corp. $FSK Shares Bought by Apollon Wealth Management LLC - Mark…",
+      "detail": "FSK\n重點：新聞\n標題：147,065 FS KKR Capital Corp. $FSK Shares Bought by Apollon Wealth Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUGxLWm02dGM2S0NsZk01Nk5Cdm55RTZnaU8xV0lnXzYwT19IQzRJVjhsYzgxdDZmSmZkRUVjVWpFdG5lSWxHTmpBN3lIQ2tNMTAtMUFaSlpCTXB5NGI2WnJkRlhNWGw2MVpJZ0pDa3JhZVJEaDU1YV84NW9XbjM2Y0ZUY1JRQWRpRVgzNUVocmZyOFFsY25SM2tXVUJaVlZxeHhQUGkxOTJCT…\n來源：Google News:FSK",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUGxLWm02dGM2S0NsZk01Nk5Cdm55RTZnaU8xV0lnXzYwT19IQzRJVjhsYzgxdDZmSmZkRUVjVWpFdG5lSWxHTmpBN3lIQ2tNMTAtMUFaSlpCTXB5NGI2WnJkRlhNWGw2MVpJZ0pDa3JhZVJEaDU1YV84NW9XbjM2Y0ZUY1JRQWRpRVgzNUVocmZyOFFsY25SM2tXVUJaVlZxeHhQUGkxOTJCTXg2S1MtTzRBQ19nM0NPbWdVaFIxdUd2N2hDNVpsaTNRcW1uQk10Q2NHRA?oc=5",
+      "source": "Google News:FSK",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "FTNT",
+      "short": "FTNT — AI相關：What Fortinet (FTNT)'s Atos Partnership Expansion Means For Shareholders",
+      "detail": "FTNT\n重點：AI相關\n標題：What Fortinet (FTNT)'s Atos Partnership Expansion Means For Shareholders\n摘要：Atos recently announced an expansion of its long running partnership with Fortinet into a global engagement model, combining Fortinet security technologies with Atos managed cybersecurity, consulting and integration services across hybrid and multi cloud environments. The new Fo…\n來源：Yahoo Finance:FTNT",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fortinet-ftnt-atos-partnership-expansion-051035938.html?.tsrc=rss",
+      "source": "Yahoo Finance:FTNT",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "GSAT",
+      "short": "GSAT — Globalstar (NASDAQ:GSAT) Shares Break Above 50 Day Moving Average - Should You Sell? - …",
+      "detail": "GSAT\n重點：新聞\n標題：Globalstar (NASDAQ:GSAT) Shares Break Above 50 Day Moving Average - Should You Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSXhqVFVZRnVQN1pPd1lscFFfTlBEMk1XSVlheHNCXzJIb3FYSXRLSUdoLUYyQS1TN2pnbnFNUnNQZG1CQW5wUWFGc1UwNFNidXBzaDdadG5CN2pRZkhULUhlLWE1czhsS0xYU0tSX1dsRktBUzZyZExXcWp4U3dHbmhESkd2VkdfcFM2QVJOVlBLdUNQUEZINzktTkNvdFE4dnYzRzNBeXFEd…\n來源：Google News:GSAT",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSXhqVFVZRnVQN1pPd1lscFFfTlBEMk1XSVlheHNCXzJIb3FYSXRLSUdoLUYyQS1TN2pnbnFNUnNQZG1CQW5wUWFGc1UwNFNidXBzaDdadG5CN2pRZkhULUhlLWE1czhsS0xYU0tSX1dsRktBUzZyZExXcWp4U3dHbmhESkd2VkdfcFM2QVJOVlBLdUNQUEZINzktTkNvdFE4dnYzRzNBeXFEdDJsZGh0cGFOVFNhM3djRFFiN2NROVV5dS14MTAzdUJnQWFwR3ZSZ2ZfYndB?oc=5",
+      "source": "Google News:GSAT",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "INTU",
+      "short": "INTU — Apollon Wealth Management LLC Acquires 3,506 Shares of Intuit Inc. $INTU - MarketBeat",
+      "detail": "INTU\n重點：新聞\n標題：Apollon Wealth Management LLC Acquires 3,506 Shares of Intuit Inc. $INTU - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOSnVfZUw4c0VFak9wRFZ1SlFtZ01HQWcwWlJ2ZWFIcGtRaDdaYnFOZHZOUjgyMTFES1JNTjAxZE9fSFlteXp5dmZrZDRQVm1YUFYtVEs3TFhiUHdjZVBNZWJKZGRsVGRFYkxBTm5hM2RqM21oR2hndmwycnVkMmdKZUE5cFVROFVmRXNYOHp1T1p4aXEweGdlVnhZSk9MOFdyU2V0bTNMZ3BLX…\n來源：Google News:INTU",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSnVfZUw4c0VFak9wRFZ1SlFtZ01HQWcwWlJ2ZWFIcGtRaDdaYnFOZHZOUjgyMTFES1JNTjAxZE9fSFlteXp5dmZrZDRQVm1YUFYtVEs3TFhiUHdjZVBNZWJKZGRsVGRFYkxBTm5hM2RqM21oR2hndmwycnVkMmdKZUE5cFVROFVmRXNYOHp1T1p4aXEweGdlVnhZSk9MOFdyU2V0bTNMZ3BLX3kzaTlEekswa0k3SmpUV09FWTh4ckpETTNfWGFoWDVR?oc=5",
+      "source": "Google News:INTU",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "IRDM",
+      "short": "IRDM — Iridium Communications Inc $IRDM Stock Purchased by CUSHING ASSET MANAGEMENT LP dba NXG…",
+      "detail": "IRDM\n重點：新聞\n標題：Iridium Communications Inc $IRDM Stock Purchased by CUSHING ASSET MANAGEMENT LP dba NXG INVESTMENT MANAGEMENT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSVl5NEJtZ3E5NVJjOGRHTmIwSXFMYXlEUzd2OE5SZ21rLTNrSHd2cFlXZ2R0dzhjWFh2R3lqaEhCZ0pjeW9LeEFNRkdYSlBWQXh3VDQ4Zkp2bkt1NmJTdnRoQW9RRGM5NFF3Wlc4a05xdzYzY1BpM2RLc2FMclFvWW1YaVlrU2gtRHdxeXR0d1FWTVg5UHZQaUJXTE0yZlpKZ0kydmI4NkpfQ…\n來源：Google News:IRDM",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSVl5NEJtZ3E5NVJjOGRHTmIwSXFMYXlEUzd2OE5SZ21rLTNrSHd2cFlXZ2R0dzhjWFh2R3lqaEhCZ0pjeW9LeEFNRkdYSlBWQXh3VDQ4Zkp2bkt1NmJTdnRoQW9RRGM5NFF3Wlc4a05xdzYzY1BpM2RLc2FMclFvWW1YaVlrU2gtRHdxeXR0d1FWTVg5UHZQaUJXTE0yZlpKZ0kydmI4NkpfQ0NCWm0yVkp0cm1Halc0b202MmtvQzFsc1BNR25lN0U3VXpEQVc0UnRYenlSSUl0dFdaVFlCWVZJMG9sR0Y1OFdwU2Vab1NMU0ROU0lHX2o1MzhUdw?oc=5",
+      "source": "Google News:IRDM",
       "kind": "news"
     }
   ]
