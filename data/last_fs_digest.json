@@ -1,20 +1,56 @@
 {
-  "title": "FS新聞 10-28 05:58",
-  "list_name": "FirstScreen_2026-10-28_055813_comma.txt",
-  "created_at": "2026-10-28T05:58:21.283847+00:00",
+  "title": "FS新聞 10-28 10:57",
+  "list_name": "FirstScreen_2026-10-28_105713_comma.txt",
+  "created_at": "2026-10-28T10:57:21.621128+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "HCA",
-      "short": "HCA — 業績／指引：HCA Healthcare shares slide following third-quarter earnings call - The Business Journa…",
-      "detail": "HCA\n重點：業績／指引\n標題：HCA Healthcare shares slide following third-quarter earnings call - The Business Journals\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYmFoU3RUbDlQLUdqTzJRX2gyanNWYjY3SDFiRGJjeWQ3ZHViaDZSbE4zbnF4dHBKS2w2YXdoV0hNUE9aVXFOSEhYSzM5ZHlPdGI3YXp1c3B5dXN2U19xMjVHZzdrTkRMaXFwNnhjOFdjdzFuNmRrRE5JYk5UdkVMaFB2NFp5TFVSYlhQSjBOdXFtVzYwRmlibjhZaWhqVzlSbFMtTlY2Qlg?o…\n來源：Google News:HCA\n其他：HCA Healthcare, Inc. (NYSE:HCA) to Issue Quarterly Dividend…",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYmFoU3RUbDlQLUdqTzJRX2gyanNWYjY3SDFiRGJjeWQ3ZHViaDZSbE4zbnF4dHBKS2w2YXdoV0hNUE9aVXFOSEhYSzM5ZHlPdGI3YXp1c3B5dXN2U19xMjVHZzdrTkRMaXFwNnhjOFdjdzFuNmRrRE5JYk5UdkVMaFB2NFp5TFVSYlhQSjBOdXFtVzYwRmlibjhZaWhqVzlSbFMtTlY2Qlg?oc=5",
-      "source": "Google News:HCA",
+      "symbol": "BKNG",
+      "short": "BKNG — 33,039 Shares in Booking Holdings Inc. $BKNG Purchased by Busey Bank - MarketBeat",
+      "detail": "BKNG\n重點：新聞\n標題：33,039 Shares in Booking Holdings Inc. $BKNG Purchased by Busey Bank - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGR2Q2FXVUFNa0IzT2tvWTh2c0pMaVMxcjN1TjRBZ2hWVjIxbmRzZjBobG1oZnF1Qm13ZkhDb0RxVjRsM1hiMm4xZDlxMVIzaVlSWXdiQ00yZTQ1Z2k3dVJmelZrSFIxNVFvUFNTWG1FR2N2czJtTkZyMmkzUmc5c1FqUXhueFM2M3ViZ0NCLXdNSTgybHllZnFIb2phVUFFdXdteGVTclBlM…\n來源：Google News:BKNG\n其他：Booking Holdings Inc. $BKNG Stock: Great Lakes Retirement I…",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGR2Q2FXVUFNa0IzT2tvWTh2c0pMaVMxcjN1TjRBZ2hWVjIxbmRzZjBobG1oZnF1Qm13ZkhDb0RxVjRsM1hiMm4xZDlxMVIzaVlSWXdiQ00yZTQ1Z2k3dVJmelZrSFIxNVFvUFNTWG1FR2N2czJtTkZyMmkzUmc5c1FqUXhueFM2M3ViZ0NCLXdNSTgybHllZnFIb2phVUFFdXdteGVTclBlMjhBUXJ2TUhpcEh0b0RTYUFlWVA1T1FEQlk1?oc=5",
+      "source": "Google News:BKNG",
       "kind": "news"
     },
     {
       "n": 2,
+      "symbol": "HCA",
+      "short": "HCA — 業績／指引：HCA Healthcare (HCA) Stock Dips After Q3 Earnings Expose Margin Strain",
+      "detail": "HCA\n重點：業績／指引\n標題：HCA Healthcare (HCA) Stock Dips After Q3 Earnings Expose Margin Strain\n摘要：HCA Healthcare just printed Q3 2026 numbers that keep the long running thesis intact: strong hospital demand and tight cost control, even as the stock slipped about 3.3% the day after the release. You are looking at a company that delivered roughly US$19.8b in quarterly revenue …\n來源：Yahoo Finance:HCA\n其他：HCA Healthcare shares slide following third-quarter earning…",
+      "url": "https://finance.yahoo.com/healthcare/articles/hca-healthcare-hca-stock-dips-101846617.html?.tsrc=rss",
+      "source": "Yahoo Finance:HCA",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "IQV",
+      "short": "IQV — 業績／指引：IQVIA (IQV) Q3 Earnings Beat Meets Valuation And Debt Questions",
+      "detail": "IQV\n重點：業績／指引\n標題：IQVIA (IQV) Q3 Earnings Beat Meets Valuation And Debt Questions\n摘要：IQVIA Holdings slipped about 0.8% in the first trading session after its Q3 2026 release, a muted move for a stock that has quietly added roughly 9.7% over the past three months. The reaction looks modest next to what the company just put on the tape. Revenue reached about US$4.…\n來源：Yahoo Finance:IQV\n其他：IQVIA (IQV) Q3 Earnings Lift Guidance As Margins Keep Build…",
+      "url": "https://finance.yahoo.com/healthcare/articles/iqvia-iqv-q3-earnings-beat-080912329.html?.tsrc=rss",
+      "source": "Yahoo Finance:IQV",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "TTE",
+      "short": "TTE — 106,385 TotalEnergies SE Sponsored ADR $TTE Shares Sold by Generali Asset Management SP…",
+      "detail": "TTE\n重點：新聞\n標題：106,385 TotalEnergies SE Sponsored ADR $TTE Shares Sold by Generali Asset Management SPA SGR - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ2FZMHNRTDVaWU5fanNmMHB4M2d4Z0FReFBZcEhJUmY5Y2JreEFfTzdRTzljSWgxZHpnbUVPVHVZVURYRG40aU14SnotVndmZXNxaGszcjluYTA5SU5vMzJPblYxcTVPTEJWS2VvNF9IeGFZMDFDcW5nMzMyc085QWNieDA5YUdQWnBDWndXbUZ2ZFhTWlRwelRENlZBZUpkbk1Bc1hFbms3R…\n來源：Google News:TTE\n其他：United States: TotalEnergies Enters 26 Chevron-Operated Off…",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ2FZMHNRTDVaWU5fanNmMHB4M2d4Z0FReFBZcEhJUmY5Y2JreEFfTzdRTzljSWgxZHpnbUVPVHVZVURYRG40aU14SnotVndmZXNxaGszcjluYTA5SU5vMzJPblYxcTVPTEJWS2VvNF9IeGFZMDFDcW5nMzMyc085QWNieDA5YUdQWnBDWndXbUZ2ZFhTWlRwelRENlZBZUpkbk1Bc1hFbms3R185dnlCOTJQZXctQzh2bFl3SmZlaE5SUDlOSDJhUzIzQmZkYjdMNXZoYndiSVhISGswVm1lQVV6YXdxdw?oc=5",
+      "source": "Google News:TTE",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "A",
+      "short": "A — 業績／指引：IQVIA (IQV) Q3 Earnings Beat Meets Valuation And Debt Questions",
+      "detail": "A\n重點：業績／指引\n標題：IQVIA (IQV) Q3 Earnings Beat Meets Valuation And Debt Questions\n摘要：IQVIA Holdings slipped about 0.8% in the first trading session after its Q3 2026 release, a muted move for a stock that has quietly added roughly 9.7% over the past three months. The reaction looks modest next to what the company just put on the tape. Revenue reached about US$4.…\n來源：Yahoo Finance:IQV",
+      "url": "https://finance.yahoo.com/healthcare/articles/iqvia-iqv-q3-earnings-beat-080912329.html?.tsrc=rss",
+      "source": "Yahoo Finance:IQV",
+      "kind": "news"
+    },
+    {
+      "n": 6,
       "symbol": "ADT",
       "short": "ADT — Morgan Stanley cuts target for ADT stock to USD 7.25 - ad-hoc-news.de",
       "detail": "ADT\n重點：新聞\n標題：Morgan Stanley cuts target for ADT stock to USD 7.25 - ad-hoc-news.de\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWpYQVhiMFNPOE1NeVNfMUw4S205ODBYeWR6R1JOeG95NXhSWVdJNnl4UTcwb3liZHlxNUxjNlhxOE5uUlNDaDZlXzEzU1lad2ItckJQQVlDdGtpTGI5RHlCVlVHYmdoS2g4TDFxR2lJOWN0UURIbkNVNDVQRHpiNDBoMnFiWDVzNFdZeEQwcFZWNC1CLWlwbGd6TFhWSHU5OS1VQkpXWkpUM…\n來源：Google News:ADT",
@@ -23,43 +59,43 @@
       "kind": "news"
     },
     {
-      "n": 3,
-      "symbol": "BILL",
-      "short": "BILL — BILL Holdings, Inc. ($BILL) CEO and COB 2026 Pay Revealed - Quiver Quantitative",
-      "detail": "BILL\n重點：新聞\n標題：BILL Holdings, Inc. ($BILL) CEO and COB 2026 Pay Revealed - Quiver Quantitative\n摘要：<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPSEVuaThwY1BqSzlXLTJXVS1WWUlRdnBhbFlYNGNTenpPamt2NDNoOGtBbGtPUzdieEpvUEM4dV9ERVZnRm9mWnQwUzVqTHg5QS15c2ZTSENqU1I0d0k2TUc3YUlsd1ZXTGNOMFRqZjRyWEtLaHVkbGJlMXpfem1JMGktZkRjbFRNd3ZNeTRIWTVVM0RKb3RkUzNWZXBpQjg?oc=5\" target=…\n來源：Google News:BILL",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSEVuaThwY1BqSzlXLTJXVS1WWUlRdnBhbFlYNGNTenpPamt2NDNoOGtBbGtPUzdieEpvUEM4dV9ERVZnRm9mWnQwUzVqTHg5QS15c2ZTSENqU1I0d0k2TUc3YUlsd1ZXTGNOMFRqZjRyWEtLaHVkbGJlMXpfem1JMGktZkRjbFRNd3ZNeTRIWTVVM0RKb3RkUzNWZXBpQjg?oc=5",
-      "source": "Google News:BILL",
+      "n": 7,
+      "symbol": "ARCC",
+      "short": "ARCC — 併購／交易、業績／指引：Ares Capital (NASDAQ:ARCC) Q3 2026 Earnings: USD 328M Net Investment Income Alongside a…",
+      "detail": "ARCC\n重點：併購／交易、業績／指引\n標題：Ares Capital (NASDAQ:ARCC) Q3 2026 Earnings: USD 328M Net Investment Income Alongside a USD 2.6B Merger - kalkine.ca\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT21wTDNLN2hqZ0REOE9uWW0wWGliNGpyV1QzYVBCNU1BUUJPUHRrXzMwVkdqZFlOMmpjbUFObVFBQThPNTdaX2RibkdMeDlEWmZJcUFxWkR4RGJ2bUp5VDZFd0dDQTM5MmJQZE9HX0lYRTVfekU3cWtQQllPNTBmR19YUDJZakpvUUFIUkZKcW9FTVBwT25DcjU5OXNIU3dDSUhmeVRCMjNCa…\n來源：Google News:ARCC",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT21wTDNLN2hqZ0REOE9uWW0wWGliNGpyV1QzYVBCNU1BUUJPUHRrXzMwVkdqZFlOMmpjbUFObVFBQThPNTdaX2RibkdMeDlEWmZJcUFxWkR4RGJ2bUp5VDZFd0dDQTM5MmJQZE9HX0lYRTVfekU3cWtQQllPNTBmR19YUDJZakpvUUFIUkZKcW9FTVBwT25DcjU5OXNIU3dDSUhmeVRCMjNCa3NoUUdJc2pqOFNmQzFONVBncHZYdEQ3SHQtUFZ1S2xBY2dZVlF5?oc=5",
+      "source": "Google News:ARCC",
       "kind": "news"
     },
     {
-      "n": 4,
+      "n": 8,
       "symbol": "ECL",
-      "short": "ECL — AI相關、業績／指引：Ecolab (ECL) Q3 2026 Earnings Call Transcript",
-      "detail": "ECL\n重點：AI相關、業績／指引\n標題：Ecolab (ECL) Q3 2026 Earnings Call Transcript\n摘要：AI-driven water and cooling demand accelerates high-tech segment growth to 63% organic sales.\n來源：Yahoo Finance:ECL",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/27/ecolab-ecl-q3-2026-earnings-call-transcript/?.tsrc=rss",
+      "short": "ECL — 業績／指引：Ecolab (ECL) Q3 Earnings Showcase Margin Strength Despite EPS Drag",
+      "detail": "ECL\n重點：業績／指引\n標題：Ecolab (ECL) Q3 Earnings Showcase Margin Strength Despite EPS Drag\n摘要：Ecolab entered Q3 2026 earnings priced for perfection, trading on a P/E of 39.2x and already carrying a premium reputation in global water, hygiene and specialty chemicals. The stock barely flinched on the release, edging about 0.8% higher to roughly US$291, yet the numbers carr…\n來源：Yahoo Finance:ECL",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ecolab-ecl-q3-earnings-showcase-071658740.html?.tsrc=rss",
       "source": "Yahoo Finance:ECL",
       "kind": "news"
     },
     {
-      "n": 5,
-      "symbol": "GGB",
-      "short": "GGB — 業績／指引：What Gerdau (GGB) Said on Its Q3 Earnings Call",
-      "detail": "GGB\n重點：業績／指引\n標題：What Gerdau (GGB) Said on Its Q3 Earnings Call\n摘要：Gerdau (NYSE:GGB) reported third-quarter 2026 EBITDA of BRL 3.8 billion and an EBITDA margin of 20.2%, its highest margin since the second quarter of 2023, as strong North American demand and operating performance offset continued pressure in Brazil. Adjusted net income reached …\n來源：Yahoo Finance:GGB",
-      "url": "https://www.marketbeat.com/instant-alerts/transcript-what-gerdau-ggb-said-on-its-q3-earnings-call-2026-10-27/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "Yahoo Finance:GGB",
+      "n": 9,
+      "symbol": "LULU",
+      "short": "LULU — lululemon athletica (NASDAQ:LULU) Shares Break Above 50 Day Moving Average - Time to Se…",
+      "detail": "LULU\n重點：新聞\n標題：lululemon athletica (NASDAQ:LULU) Shares Break Above 50 Day Moving Average - Time to Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWEhURG8zaW1MS0hPazZyVVBwUmZrMkRuM2h5cFVuZVhhaE92T1ZIM0tmSTgtUFF5NDBOTFk3aTNxY0VEZVdaQjFVRFdoWURyQndnenViaGFET2xtM3diUU5IWHJSNEstREZueDh1RkEzT2R6R2xpY2J3eHA1dVRCTmxpZmQ3aXRzdENyeXBjeWduUEcwR1F3VFZmOG5lN2Z5U0o1bEoxSzZWV…\n來源：Google News:LULU",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWEhURG8zaW1MS0hPazZyVVBwUmZrMkRuM2h5cFVuZVhhaE92T1ZIM0tmSTgtUFF5NDBOTFk3aTNxY0VEZVdaQjFVRFdoWURyQndnenViaGFET2xtM3diUU5IWHJSNEstREZueDh1RkEzT2R6R2xpY2J3eHA1dVRCTmxpZmQ3aXRzdENyeXBjeWduUEcwR1F3VFZmOG5lN2Z5U0o1bEoxSzZWVUpYT3FLOFZFVzVFQ1J1bUhZWXRUcnc5bWtnQ1ZJMnpUd0ZfRjB5Smh2anNGOE9aTUlHM0E?oc=5",
+      "source": "Google News:LULU",
       "kind": "news"
     },
     {
-      "n": 6,
-      "symbol": "IQV",
-      "short": "IQV — 業績／指引：IQVIA (IQV) Q3 Earnings Lift Guidance As Margins Keep Building - Simply Wall Street",
-      "detail": "IQV\n重點：業績／指引\n標題：IQVIA (IQV) Q3 Earnings Lift Guidance As Margins Keep Building - Simply Wall Street\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWWJLdnBDSTVwSm1xYU9YREt2cllzbnNWNGctWE1CZHhmS01WVHI4QmZyMTlXUVRDRWRjTzItRFQzc0p3NzNEbTlGNjRBWnp2Y3FDMkVpNTQtSFMyQmVYcHRNUVViR3FYUjd2MXNVUlBBSDloallnWnUxdEtsYjZzcmNCZlhDNGRxX3c4ZHkyU2dTQWZUNW9HV09tS3E1cDlpNGliQlpURndnO…\n來源：Google News:IQV",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWWJLdnBDSTVwSm1xYU9YREt2cllzbnNWNGctWE1CZHhmS01WVHI4QmZyMTlXUVRDRWRjTzItRFQzc0p3NzNEbTlGNjRBWnp2Y3FDMkVpNTQtSFMyQmVYcHRNUVViR3FYUjd2MXNVUlBBSDloallnWnUxdEtsYjZzcmNCZlhDNGRxX3c4ZHkyU2dTQWZUNW9HV09tS3E1cDlpNGliQlpURndnOWZhR001Ul9aLVdUQVlzaU41QUVPaGNZNHFPekc2MFN4V1JERzFZODFtWHEyZ1BQeFNoUVHSAeMBQVVfeXFMUEZzUHFhQUhyZG43Y3RPbG1LSTEzbWFiMGtNN2NIWEFOajRyZXFBajJOTnNkMVJsTUY4S1ZCVGhCZ3lsVXhZZ1AyYmRlQ1MtM2t0QlpNdWFWYXhvejl2Mm9ua0o5ZmN6d1ozaDFPTnEtNDZDVzJSMTJ1ZUROQjZYVWlyaTMweVZYd2JoOVM3dmNPZ0d5M3hmT0VWekN3dVM3V3FOOWpwTkU1MlBxUVdHamNJSHdqRnkwbU9qT0lkYWxIbFNlazFHTzF0S2tZM3QwVjgzbk50NzY3azIxRTRkemhQa3c?oc=5",
-      "source": "Google News:IQV",
+      "n": 10,
+      "symbol": "MDT",
+      "short": "MDT — WestEnd Advisors LLC Acquires 71,480 Shares of Medtronic PLC $MDT - MarketBeat",
+      "detail": "MDT\n重點：新聞\n標題：WestEnd Advisors LLC Acquires 71,480 Shares of Medtronic PLC $MDT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMm5GREtwY3U2a3FwejJaVXVDQ21YNGNPbVQ0eGVoazJ6SlEyRURjc0tUYUdRLTE0U05lSGEtVnp2SEFDUGRMejgyWGFwTnlGRjltd0pwU2o4d1J4MjgyQVlzNG1QZlVaMk1LNFhwdFZOWm9IeU5xc1Y2STVWTjZicGRST2dnN0hfMXlQZXVOSnI1a0pvalZzTEZYUjVIZzhOU01obklWM2V0Z…\n來源：Google News:MDT",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMm5GREtwY3U2a3FwejJaVXVDQ21YNGNPbVQ0eGVoazJ6SlEyRURjc0tUYUdRLTE0U05lSGEtVnp2SEFDUGRMejgyWGFwTnlGRjltd0pwU2o4d1J4MjgyQVlzNG1QZlVaMk1LNFhwdFZOWm9IeU5xc1Y2STVWTjZicGRST2dnN0hfMXlQZXVOSnI1a0pvalZzTEZYUjVIZzhOU01obklWM2V0ZHpYT2UwSC10ZV93b01XTTdpR3paLUx2Zw?oc=5",
+      "source": "Google News:MDT",
       "kind": "news"
     },
     {
-      "n": 7,
+      "n": 11,
       "symbol": "MRK",
       "short": "MRK — 業績／指引：Merck (MRK) reports Q3: everything you need to know ahead of earnings",
       "detail": "MRK\n重點：業績／指引\n標題：Merck (MRK) reports Q3: everything you need to know ahead of earnings\n摘要：Global pharmaceutical company Merck (NYSE:MRK) will be reporting earnings this Thursday before market open. Here’s what investors should know.\n來源：Yahoo Finance:MRK",
@@ -68,12 +104,12 @@
       "kind": "news"
     },
     {
-      "n": 8,
-      "symbol": "NTNX",
-      "short": "NTNX — 業績／指引：Nutanix (NTNX) Stock Fair Value Edges Higher On Hybrid Cloud And VMware Replacement Vie…",
-      "detail": "NTNX\n重點：業績／指引\n標題：Nutanix (NTNX) Stock Fair Value Edges Higher On Hybrid Cloud And VMware Replacement Views\n摘要：The fair value estimate for Nutanix has shifted from US$76.76 to US$79.27, reflecting updated inputs in the current model. Analysts linking Nutanix to VMware replacement projects and hybrid cloud demand see these themes as important for how that price target revision is interpre…\n來源：Yahoo Finance:NTNX",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nutanix-ntnx-stock-fair-value-010705014.html?.tsrc=rss",
-      "source": "Yahoo Finance:NTNX",
+      "n": 12,
+      "symbol": "PR",
+      "short": "PR — Permian Resources Corporation $PR Stock Sold by Sterling Capital Management LLC - Marke…",
+      "detail": "PR\n重點：新聞\n標題：Permian Resources Corporation $PR Stock Sold by Sterling Capital Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNE1qcUN4N25pRXZ2SUp1VVNOYkJpUy13dGx6WWJVaVRTU3ZyblNrNjlrMWs1TWYzS3VmVi11U0dOVHFjX2VpNHNRb0R1TFR1enlOVnFEdHZ6cElBVGFDYXNQN0Y1Yk5nLTFBOWNKeXg5d2ZFaFQzOWhOc0tpVlJBcjh1UUE4NnQ2cHl6VGZFOHZXT1ljanNDM0loUlBCRzFNZ0wwUmNIMkl4Z…\n來源：Google News:PR",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNE1qcUN4N25pRXZ2SUp1VVNOYkJpUy13dGx6WWJVaVRTU3ZyblNrNjlrMWs1TWYzS3VmVi11U0dOVHFjX2VpNHNRb0R1TFR1enlOVnFEdHZ6cElBVGFDYXNQN0Y1Yk5nLTFBOWNKeXg5d2ZFaFQzOWhOc0tpVlJBcjh1UUE4NnQ2cHl6VGZFOHZXT1ljanNDM0loUlBCRzFNZ0wwUmNIMkl4Z1VqUmZrMi0tYlNzcWQ3b3NSVXN5Y2RHTkpLelJYQmZ6aHFlWUNIZGF0bHZ3?oc=5",
+      "source": "Google News:PR",
       "kind": "news"
     }
   ]
