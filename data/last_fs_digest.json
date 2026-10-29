@@ -1,115 +1,43 @@
 {
-  "title": "FS新聞 10-28 16:30",
-  "list_name": "FirstScreen_2026-10-28_163047_comma.txt",
-  "created_at": "2026-10-28T16:30:58.246580+00:00",
+  "title": "FS新聞 10-29 06:04",
+  "list_name": "FirstScreen_2026-10-29_060450_comma.txt",
+  "created_at": "2026-10-29T06:04:57.316220+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "PYPL",
-      "short": "PYPL — 業績／指引：PayPal (PYPL) Stock May Be Undervalued Despite Raised Profit Guidance",
-      "detail": "PYPL\n重點：業績／指引\n標題：PayPal (PYPL) Stock May Be Undervalued Despite Raised Profit Guidance\n摘要：PayPal Holdings has seen its share price fall sharply over the past few years, and a recent mix of cost cuts, partnerships and profit targets has put fresh attention on whether the current valuation still lines up with its earnings power. With the stock closing at US$56.09, the …\n來源：Yahoo Finance:PYPL\n其他：PayPal's Q3 Earnings Beat, Transaction Revenues & TPV Rises…; PayPal Q3 Earnings Call Highlights Growth and 2027 Investme…; PYPL Stock Gets Mixed Calls After Earnings — Clear Street R…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-pypl-stock-may-undervalued-160703611.html?.tsrc=rss",
-      "source": "Yahoo Finance:PYPL",
+      "symbol": "FDX",
+      "short": "FDX — 業績／指引：FedEx Q1 Earnings Call Highlights",
+      "detail": "FDX\n重點：業績／指引\n標題：FedEx Q1 Earnings Call Highlights\n摘要：FedEx (NYSE:FDX) reported higher revenue, earnings and free cash flow in its third calendar quarter, supported by growth in business-to-business shipping, international air freight and premium business-to-consumer services. The company raised and narrowed its full-year adjusted …\n來源：Yahoo Finance:FDX\n其他：FedEx (FDX) Q3 2026 Earnings Call Transcript; FedEx Corporation 2026 Q3 - Results - Earnings Call Present…",
+      "url": "https://www.marketbeat.com/instant-alerts/transcript-fedex-q1-earnings-call-highlights-2026-10-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance:FDX",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "ANET",
-      "short": "ANET — 業績／指引：Is ANET Stock a Smart Investment Option Before Q3 Earnings Release? - Zacks Investment …",
-      "detail": "ANET\n重點：業績／指引\n標題：Is ANET Stock a Smart Investment Option Before Q3 Earnings Release? - Zacks Investment Research\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmE3djVBQldaaEpnblhNQU1VYlZlT1FSUG9iRTNjUTRwdUE0WWdid0lzRTZNZlN1YUI5Zkc5LWUwV0RQWTlDTW1sMHJoWUVEd3lUeVBzZ0p3SUdTTTVyWWlhLVJrZkxFOVZJRUVYdVNEa0JLTmJpMWx2MWVRazZDTW1fNEhxU0Q3T1QyTlhGQmJwMDE0RUs4alZCZWZqdUUxMnVoai1QNzlRb…\n來源：Google News:ANET\n其他：Is ANET Stock a Smart Investment Option Before Q3 Earnings …; Is ANET Stock a Smart Investment Option Before Q3 Earnings …",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmE3djVBQldaaEpnblhNQU1VYlZlT1FSUG9iRTNjUTRwdUE0WWdid0lzRTZNZlN1YUI5Zkc5LWUwV0RQWTlDTW1sMHJoWUVEd3lUeVBzZ0p3SUdTTTVyWWlhLVJrZkxFOVZJRUVYdVNEa0JLTmJpMWx2MWVRazZDTW1fNEhxU0Q3T1QyTlhGQmJwMDE0RUs4alZCZWZqdUUxMnVoai1QNzlRbWM?oc=5",
-      "source": "Google News:ANET",
+      "symbol": "GEN",
+      "short": "GEN — 業績／指引：Gen Digital Q2 Earnings Call Highlights",
+      "detail": "GEN\n重點：業績／指引\n標題：Gen Digital Q2 Earnings Call Highlights\n摘要：Gen Digital (NASDAQ:GEN) reported double-digit revenue and bookings growth in its fiscal second quarter of 2027, supported by continued expansion in its cyber safety and trust-based solutions businesses. The company also raised its full-year revenue and earnings outlook. Revenue…\n來源：Yahoo Finance:GEN\n其他：Gen Digital (NASDAQ:GEN) Announces Quarterly Earnings Resul…; Gen Digital Q2 2027 Earnings Call Transcript - Benzinga",
+      "url": "https://www.marketbeat.com/instant-alerts/transcript-gen-digital-q2-earnings-call-highlights-2026-10-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance:GEN",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "HCA",
-      "short": "HCA — 業績／指引：HCA’s bottom line suffers as ACA coverage losses mount",
-      "detail": "HCA\n重點：業績／指引\n標題：HCA’s bottom line suffers as ACA coverage losses mount\n摘要：The hospital operator has lost about $950 million in pretax earnings this year as more patients leaving the exchanges jacks up uncompensated care costs and delays elective surgeries.\n來源：Yahoo Finance:HCA\n其他：HCA Healthcare (HCA) Stock Dips After Q3 Earnings Expose Ma…; HCA Healthcare (HCA) Stock Dips After Q3 Earnings Expose Ma…",
-      "url": "https://www.healthcaredive.com/news/hcas-bottom-line-suffers-aca-coverage-losses-mount/873032/?.tsrc=rss",
-      "source": "Yahoo Finance:HCA",
+      "symbol": "FTNT",
+      "short": "FTNT — AI相關、業績／指引：Fortinet (FTNT) Q3 2026 Earnings Call Transcript",
+      "detail": "FTNT\n重點：AI相關、業績／指引\n標題：Fortinet (FTNT) Q3 2026 Earnings Call Transcript\n摘要：AI infrastructure security demand drives 20% revenue growth and record operating margins.\n來源：Yahoo Finance:FTNT",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/29/fortinet-ftnt-q3-2026-earnings-call-transcript/?.tsrc=rss",
+      "source": "Yahoo Finance:FTNT",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "BKNG",
-      "short": "BKNG — 33,039 Shares in Booking Holdings Inc. $BKNG Purchased by Busey Bank - MarketBeat",
-      "detail": "BKNG\n重點：新聞\n標題：33,039 Shares in Booking Holdings Inc. $BKNG Purchased by Busey Bank - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGR2Q2FXVUFNa0IzT2tvWTh2c0pMaVMxcjN1TjRBZ2hWVjIxbmRzZjBobG1oZnF1Qm13ZkhDb0RxVjRsM1hiMm4xZDlxMVIzaVlSWXdiQ00yZTQ1Z2k3dVJmelZrSFIxNVFvUFNTWG1FR2N2czJtTkZyMmkzUmc5c1FqUXhueFM2M3ViZ0NCLXdNSTgybHllZnFIb2phVUFFdXdteGVTclBlM…\n來源：Google News:BKNG\n其他：Booking Holdings Inc. $BKNG Stock: Great Lakes Retirement I…",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGR2Q2FXVUFNa0IzT2tvWTh2c0pMaVMxcjN1TjRBZ2hWVjIxbmRzZjBobG1oZnF1Qm13ZkhDb0RxVjRsM1hiMm4xZDlxMVIzaVlSWXdiQ00yZTQ1Z2k3dVJmelZrSFIxNVFvUFNTWG1FR2N2czJtTkZyMmkzUmc5c1FqUXhueFM2M3ViZ0NCLXdNSTgybHllZnFIb2phVUFFdXdteGVTclBlMjhBUXJ2TUhpcEh0b0RTYUFlWVA1T1FEQlk1?oc=5",
-      "source": "Google News:BKNG",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "GGB",
-      "short": "GGB — 業績／指引：Gerdau (NYSE:GGB) Shares Down 4.1% on Disappointing Earnings - MarketBeat",
-      "detail": "GGB\n重點：業績／指引\n標題：Gerdau (NYSE:GGB) Shares Down 4.1% on Disappointing Earnings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPaWs2aGx6YUotZDdPVXE1NjdFN29YbGNtQkJfdXpxVDB5QjhxdFNLYUVNYVB0bDRPc1pEV3g5ZV9wTHVXQW1kaV8tTlczYVNPTnlZT2phNXZocldybzlMNXZWTTZOcldiakRRUGlhdzZFRzA3NTZ3U1U1UVlwMmNwM2xsMzlzajM0V2JKbnNMQVdpMk1WM2VCV2xSRFBsODRhWm9ob0FMOUcxY…\n來源：Google News:GGB\n其他：Gerdau (GGB) Q3 2026 Earnings Call Transcript",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaWs2aGx6YUotZDdPVXE1NjdFN29YbGNtQkJfdXpxVDB5QjhxdFNLYUVNYVB0bDRPc1pEV3g5ZV9wTHVXQW1kaV8tTlczYVNPTnlZT2phNXZocldybzlMNXZWTTZOcldiakRRUGlhdzZFRzA3NTZ3U1U1UVlwMmNwM2xsMzlzajM0V2JKbnNMQVdpMk1WM2VCV2xSRFBsODRhWm9ob0FMOUcxY2xmVXZZZnVDWjBvUWM?oc=5",
-      "source": "Google News:GGB",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "LULU",
-      "short": "LULU — 業績／指引：Does Lowered Revenue Outlook Change The Bull Case For Lululemon Stock (LULU)?",
-      "detail": "LULU\n重點：業績／指引\n標題：Does Lowered Revenue Outlook Change The Bull Case For Lululemon Stock (LULU)?\n摘要：Lululemon athletica recently cut its fiscal third quarter revenue outlook and is overhauling leadership, including a new CEO, chief product officer, and the board appointment of former product head Tara Poseley. The combination of softer guidance, a refreshed product leadership …\n來源：Yahoo Finance:LULU\n其他：lululemon athletica (NASDAQ:LULU) Shares Break Above 50 Day…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-lowered-revenue-outlook-change-120629334.html?.tsrc=rss",
-      "source": "Yahoo Finance:LULU",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "NTNX",
-      "short": "NTNX — AI相關、業績／指引：Earnings Beat Could Be A Big Test For Nutanix Stock (NTNX)",
-      "detail": "NTNX\n重點：AI相關、業績／指引\n標題：Earnings Beat Could Be A Big Test For Nutanix Stock (NTNX)\n摘要：Nutanix recently paired strong Q2 results with new AI-focused alliances, including Supermicro and Netris, aimed at simplifying enterprise and neocloud AI infrastructure. The mix of better-than-expected quarterly performance and concrete AI stack offerings positions Nutanix squar…\n來源：Yahoo Finance:NTNX\n其他：How Earnings Beat Will Impact Nutanix (NTNX) Stock - Simply…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-could-big-test-150801774.html?.tsrc=rss",
-      "source": "Yahoo Finance:NTNX",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "PR",
-      "short": "PR — 業績／指引：Permian Resources (PR) Earnings Expected to Grow: What to Know Ahead of Next Week's Rel…",
-      "detail": "PR\n重點：業績／指引\n標題：Permian Resources (PR) Earnings Expected to Grow: What to Know Ahead of Next Week's Release\n摘要：Permian Resources (PR) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.\n來源：Yahoo Finance:PR\n其他：Permian Resources Corporation $PR Stock Sold by Sterling Ca…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-earnings-expected-130005691.html?.tsrc=rss",
-      "source": "Yahoo Finance:PR",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "STRC",
-      "short": "STRC — Strategy Shareholders Approve Daily Dividends on Its Four Preferred Stocks",
-      "detail": "STRC\n重點：新聞\n標題：Strategy Shareholders Approve Daily Dividends on Its Four Preferred Stocks\n摘要：STRC moves to a daily record date on Nov. 1 and STRF, STRK and STRD follow on Jan. 1, once the amended share terms are filed and take effect.\n來源：Yahoo Finance:STRC\n其他：Strategy Inc Variable Rate Series A Perpetual Stretch Prefe…",
-      "url": "https://unchainedcrypto.com/strategy-shareholders-approve-daily-dividends-on-its-four-preferred-stocks/?.tsrc=rss",
-      "source": "Yahoo Finance:STRC",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "TRMB",
-      "short": "TRMB — 業績／指引：Will Trimble (TRMB) Beat Estimates Again in Its Next Earnings Report?",
-      "detail": "TRMB\n重點：業績／指引\n標題：Will Trimble (TRMB) Beat Estimates Again in Its Next Earnings Report?\n摘要：Trimble (TRMB) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.\n來源：Yahoo Finance:TRMB\n其他：Trimble Navigation (TRMB) Earnings Expected to Grow: What t…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trimble-trmb-beat-estimates-again-151002305.html?.tsrc=rss",
-      "source": "Yahoo Finance:TRMB",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "VLTO",
-      "short": "VLTO — 業績／指引：Why Veralto (VLTO) is Poised to Beat Earnings Estimates Again",
-      "detail": "VLTO\n重點：業績／指引\n標題：Why Veralto (VLTO) is Poised to Beat Earnings Estimates Again\n摘要：Veralto (VLTO) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.\n來源：Yahoo Finance:VLTO\n其他：Veralto (VLTO) reports earnings tomorrow: what to expect",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-veralto-vlto-poised-beat-151003964.html?.tsrc=rss",
-      "source": "Yahoo Finance:VLTO",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "A",
-      "short": "A — AI相關：As Anthropic gets set for a stock market listing, what risks is AI creating? - www.then…",
-      "detail": "A\n重點：AI相關\n標題：As Anthropic gets set for a stock market listing, what risks is AI creating? - www.thenationalnews.com\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbjBUT2pHNFYxWEtaZ3VGU01xS3oxV05NODg0X01UM3B0WHpvQ3BPYVZnNUhqWXVYZUFuQVR6NExVWU5ZbmRXcU5YcmItVXU5djdiaDR3V0FIS3dCazdWZTQzUFAxSDAycW1tUm5JZ0ViSlhXV1FSOVVreF9PSEZ6U1diX0ZMZWRURGlFQ0VtTTVQSnJLaG96ZnFFbkZRUkZEalBBRG9pVXFWQ…\n來源：Google News:A",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbjBUT2pHNFYxWEtaZ3VGU01xS3oxV05NODg0X01UM3B0WHpvQ3BPYVZnNUhqWXVYZUFuQVR6NExVWU5ZbmRXcU5YcmItVXU5djdiaDR3V0FIS3dCazdWZTQzUFAxSDAycW1tUm5JZ0ViSlhXV1FSOVVreF9PSEZ6U1diX0ZMZWRURGlFQ0VtTTVQSnJLaG96ZnFFbkZRUkZEalBBRG9pVXFWQXAwVnJVUlAzTTZzUWhQUjczc1R0a1dqUXF3TFRNT2phaXBSU0tWbXc?oc=5",
-      "source": "Google News:A",
+      "symbol": "MDT",
+      "short": "MDT — Medtronic PLC (NYSE:MDT) Sees Significant Increase in Short Interest - MarketBeat",
+      "detail": "MDT\n重點：新聞\n標題：Medtronic PLC (NYSE:MDT) Sees Significant Increase in Short Interest - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzZQR0x2b2ZjdGNlRzM3LVlaM1lkdTJDVG11NGhodFNiQXNOYklIc0VGTFBabnl2dkRRVEVXRnNOMzkzSHVxcjFpaXNnVjdvS3pkVWpZQlNMb19IUFAxdm9hd2ZtUFZoclU4T0phQV9JU2JmdkZoc3ZiMVc2SjA2YTRsVnpZeWFqR2xQOG5jVkpLY0UydmFpMm91dXBoRkJsNVJSMFBCR3lNV…\n來源：Google News:MDT",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzZQR0x2b2ZjdGNlRzM3LVlaM1lkdTJDVG11NGhodFNiQXNOYklIc0VGTFBabnl2dkRRVEVXRnNOMzkzSHVxcjFpaXNnVjdvS3pkVWpZQlNMb19IUFAxdm9hd2ZtUFZoclU4T0phQV9JU2JmdkZoc3ZiMVc2SjA2YTRsVnpZeWFqR2xQOG5jVkpLY0UydmFpMm91dXBoRkJsNVJSMFBCR3lNVTVibFFmWDEzM0pSTVdWN3dyVVdFWFhxTjZOdUY4?oc=5",
+      "source": "Google News:MDT",
       "kind": "news"
     }
   ]
