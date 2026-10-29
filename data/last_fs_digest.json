@@ -1,43 +1,115 @@
 {
-  "title": "FS新聞 10-29 06:04",
-  "list_name": "FirstScreen_2026-10-29_060450_comma.txt",
-  "created_at": "2026-10-29T06:04:57.316220+00:00",
+  "title": "FS新聞 10-29 11:17",
+  "list_name": "FirstScreen_2026-10-29_111714_comma.txt",
+  "created_at": "2026-10-29T11:17:21.541157+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "FDX",
-      "short": "FDX — 業績／指引：FedEx Q1 Earnings Call Highlights",
-      "detail": "FDX\n重點：業績／指引\n標題：FedEx Q1 Earnings Call Highlights\n摘要：FedEx (NYSE:FDX) reported higher revenue, earnings and free cash flow in its third calendar quarter, supported by growth in business-to-business shipping, international air freight and premium business-to-consumer services. The company raised and narrowed its full-year adjusted …\n來源：Yahoo Finance:FDX\n其他：FedEx (FDX) Q3 2026 Earnings Call Transcript; FedEx Corporation 2026 Q3 - Results - Earnings Call Present…",
-      "url": "https://www.marketbeat.com/instant-alerts/transcript-fedex-q1-earnings-call-highlights-2026-10-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "Yahoo Finance:FDX",
+      "symbol": "CRM",
+      "short": "CRM — 3,006 Salesforce Inc. $CRM Shares Sold by Simplify Asset Management Inc. - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：3,006 Salesforce Inc. $CRM Shares Sold by Simplify Asset Management Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSnV4YVE3d3dBUGtjVFk1OGx0eDUza0lMYTZkOU8zMDU1THFVZFdDVzR6MTRxWU93cFBrYmk3aHM1OUN2MnZaZkdkMWhXLW1JdzVOSGVyRG8ycGdjaFE2MGlCdlEzdFFKWEUwTTdkWTFQbHFLT1lnQU9SWFpSbG9SOTVVb3Y4QmFJalY4Z1FteFNZakVqRXlELXJFZVVGOGtwNnY1YU1uWWpOT…\n來源：Google News:CRM\n其他：Salesforce Inc. $CRM Shares Purchased by LaFleur & Godfrey …; Motley Fool Asset Management LLC Sells 3,249 Shares of Sale…; Oppenheimer & Co. Inc. Sells 4,849 Shares of Salesforce Inc…",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSnV4YVE3d3dBUGtjVFk1OGx0eDUza0lMYTZkOU8zMDU1THFVZFdDVzR6MTRxWU93cFBrYmk3aHM1OUN2MnZaZkdkMWhXLW1JdzVOSGVyRG8ycGdjaFE2MGlCdlEzdFFKWEUwTTdkWTFQbHFLT1lnQU9SWFpSbG9SOTVVb3Y4QmFJalY4Z1FteFNZakVqRXlELXJFZVVGOGtwNnY1YU1uWWpOTFZQSmRSZ1RNR3JpbWtXSkVKcVZJYk1jTnN1RE9GdA?oc=5",
+      "source": "Google News:CRM",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "GEN",
-      "short": "GEN — 業績／指引：Gen Digital Q2 Earnings Call Highlights",
-      "detail": "GEN\n重點：業績／指引\n標題：Gen Digital Q2 Earnings Call Highlights\n摘要：Gen Digital (NASDAQ:GEN) reported double-digit revenue and bookings growth in its fiscal second quarter of 2027, supported by continued expansion in its cyber safety and trust-based solutions businesses. The company also raised its full-year revenue and earnings outlook. Revenue…\n來源：Yahoo Finance:GEN\n其他：Gen Digital (NASDAQ:GEN) Announces Quarterly Earnings Resul…; Gen Digital Q2 2027 Earnings Call Transcript - Benzinga",
-      "url": "https://www.marketbeat.com/instant-alerts/transcript-gen-digital-q2-earnings-call-highlights-2026-10-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "Yahoo Finance:GEN",
+      "symbol": "A",
+      "short": "A — 業績／指引：F5 Beat on Revenue and Still Dropped 20%. One Soft Guide Was All It Took for a Stock Up…",
+      "detail": "A\n重點：業績／指引\n標題：F5 Beat on Revenue and Still Dropped 20%. One Soft Guide Was All It Took for a Stock Up 80% This Year. - 24/7 Wall St.\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU3haTmluWG52STFrU0NqcDlnZE1ETlFrQzVVblZSODJPNDh4RTBEVkJqWFFMX2o5dFdTWFprX3hyeGpQQUVCLWFiMFNNLUdJSkg1QXNCYXVDbWIxaXBHSWVpMElFTDY1VWFfOVEwOURvMU50RFBweFp4dHNoOWoyclpJV01jUnRTRFhKdDY2WXM5blZOcTNyNHVjb0N4bFIxLVBWaEczSGVTc…\n來源：Google News:A\n其他：F5 Beat on Revenue and Still Dropped 20%. One Soft Guide Wa…; Will Danoff: If a Stock Has Doubled, Have You Missed Your C…",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU3haTmluWG52STFrU0NqcDlnZE1ETlFrQzVVblZSODJPNDh4RTBEVkJqWFFMX2o5dFdTWFprX3hyeGpQQUVCLWFiMFNNLUdJSkg1QXNCYXVDbWIxaXBHSWVpMElFTDY1VWFfOVEwOURvMU50RFBweFp4dHNoOWoyclpJV01jUnRTRFhKdDY2WXM5blZOcTNyNHVjb0N4bFIxLVBWaEczSGVTc1dseHdYZFZrRHEzbVJXZmlEU29veFlNQ2FCTGNwcUhQR3ZldnBncHRJdlZ5am1fdw?oc=5",
+      "source": "Google News:A",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "FTNT",
-      "short": "FTNT — AI相關、業績／指引：Fortinet (FTNT) Q3 2026 Earnings Call Transcript",
-      "detail": "FTNT\n重點：AI相關、業績／指引\n標題：Fortinet (FTNT) Q3 2026 Earnings Call Transcript\n摘要：AI infrastructure security demand drives 20% revenue growth and record operating margins.\n來源：Yahoo Finance:FTNT",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/29/fortinet-ftnt-q3-2026-earnings-call-transcript/?.tsrc=rss",
-      "source": "Yahoo Finance:FTNT",
+      "symbol": "FDX",
+      "short": "FDX — What Does FedEx (FDX) Gain From Naming Jamere Jackson As CFO? - Simply Wall St",
+      "detail": "FDX\n重點：新聞\n標題：What Does FedEx (FDX) Gain From Naming Jamere Jackson As CFO? - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV3lrRXNVbXY2ODBNOTd6cDdJRHBzLWhyMlZfMEp1VWExMmNONHh2YnhZeFlpbW9HSjgxX19Ld04wTWQyM2R3czhJeXJLMWEzZFRUOFd1LUlTSHZsY0szRnBQbnFwNHcxNE1nc2lFQ191Ql9hSXl0b2h5c29BUThmU3VsVW5zdnZIVmNRQnB4SHFsNk8tZWpjcHlOdlB3cF9pZTM5dkM3aktSQ…\n來源：Google News:FDX\n其他：FedEx Q1 Earnings Call Highlights; FedEx (FDX) Q3 2026 Earnings Call Transcript",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV3lrRXNVbXY2ODBNOTd6cDdJRHBzLWhyMlZfMEp1VWExMmNONHh2YnhZeFlpbW9HSjgxX19Ld04wTWQyM2R3czhJeXJLMWEzZFRUOFd1LUlTSHZsY0szRnBQbnFwNHcxNE1nc2lFQ191Ql9hSXl0b2h5c29BUThmU3VsVW5zdnZIVmNRQnB4SHFsNk8tZWpjcHlOdlB3cF9pZTM5dkM3aktSQVR1MmIyZFBkZW55UGI4TU9JVHJlZnF5Y1HSAcgBQVVfeXFMUEt6WmF4Tnk3OFh4SXNsUXVNWUtXSGJTcDA0aXhvY3Vic1RHY3pfRzNXT21zS0gzUFpMNms5dnFxRHd3ZzBnVTg2eGZ0N0RWVExENS1BX0Y1TkVtb0dBMjYtdFpnenk0R0tpM1RDQzBfcDBvaWxDQWlpdkdMVG9QdG9YWXNxZzFhbk93TUtvOTV4Z25mN2VDR2R4UlNlakllOGlwZ09MOGUzZkMtOVNuZzZ5c2tGbXFBeHhNN1lWZTVfZUZsWW5zcXU?oc=5",
+      "source": "Google News:FDX",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "MDT",
-      "short": "MDT — Medtronic PLC (NYSE:MDT) Sees Significant Increase in Short Interest - MarketBeat",
-      "detail": "MDT\n重點：新聞\n標題：Medtronic PLC (NYSE:MDT) Sees Significant Increase in Short Interest - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzZQR0x2b2ZjdGNlRzM3LVlaM1lkdTJDVG11NGhodFNiQXNOYklIc0VGTFBabnl2dkRRVEVXRnNOMzkzSHVxcjFpaXNnVjdvS3pkVWpZQlNMb19IUFAxdm9hd2ZtUFZoclU4T0phQV9JU2JmdkZoc3ZiMVc2SjA2YTRsVnpZeWFqR2xQOG5jVkpLY0UydmFpMm91dXBoRkJsNVJSMFBCR3lNV…\n來源：Google News:MDT",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzZQR0x2b2ZjdGNlRzM3LVlaM1lkdTJDVG11NGhodFNiQXNOYklIc0VGTFBabnl2dkRRVEVXRnNOMzkzSHVxcjFpaXNnVjdvS3pkVWpZQlNMb19IUFAxdm9hd2ZtUFZoclU4T0phQV9JU2JmdkZoc3ZiMVc2SjA2YTRsVnpZeWFqR2xQOG5jVkpLY0UydmFpMm91dXBoRkJsNVJSMFBCR3lNVTVibFFmWDEzM0pSTVdWN3dyVVdFWFhxTjZOdUY4?oc=5",
-      "source": "Google News:MDT",
+      "symbol": "MRK",
+      "short": "MRK — 業績／指引：Merck: Q3 Earnings Snapshot",
+      "detail": "MRK\n重點：業績／指引\n標題：Merck: Q3 Earnings Snapshot\n摘要：(MRK) on Thursday reported third-quarter earnings of $5.The Rahway, New Jersey-based company said it had net income of $2.\n來源：Yahoo Finance:MRK\n其他：Merck & Co., Inc. $MRK Stock Position Trimmed by Stockman W…; 17,813 Merck & Co., Inc. $MRK Shares Sold by D.A. Davidson …",
+      "url": "https://finance.yahoo.com/healthcare/articles/merck-q3-earnings-snapshot-103936710.html?.tsrc=rss",
+      "source": "Yahoo Finance:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "BNY",
+      "short": "BNY — 14,803 Bank of New York Mellon Corporation $BNY Shares Acquired by North Dakota State I…",
+      "detail": "BNY\n重點：新聞\n標題：14,803 Bank of New York Mellon Corporation $BNY Shares Acquired by North Dakota State Investment Board - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa2VPMlNCVXEtZTVmSFl4TFgzUWpvcEI4M2xQTGliQjE3bFJIbHNSaFpVTnVkTTAtVkRqMTlFTGMxc1lCRWF0bTQxWm9vdWdVT1YxOUZLR2hfWDFqbXRvOEoxbHpPa0I1ajMzM08wVGU3UmJwZ2pCV2g1a1g1X2hyem5tV3plb19pZjFNenZkSjQwMGc3dUtoRGJnMmt2VV9YUjNSMGRmcXEwe…\n來源：Google News:BNY\n其他：Bank of New York Mellon Corporation $BNY Stock Holdings Les…",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa2VPMlNCVXEtZTVmSFl4TFgzUWpvcEI4M2xQTGliQjE3bFJIbHNSaFpVTnVkTTAtVkRqMTlFTGMxc1lCRWF0bTQxWm9vdWdVT1YxOUZLR2hfWDFqbXRvOEoxbHpPa0I1ajMzM08wVGU3UmJwZ2pCV2g1a1g1X2hyem5tV3plb19pZjFNenZkSjQwMGc3dUtoRGJnMmt2VV9YUjNSMGRmcXEweW11VnhzcjItMC1mNWx1WGZtV2VuaGpSZFktNDJpZXJwbDJkeVhUbEZpRkxETlZycmE4cFFGTVhuZ0hzYURsTzRybGZ5MlFSM1k?oc=5",
+      "source": "Google News:BNY",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "FTNT",
+      "short": "FTNT — Fortinet, Inc. $FTNT Stock: Motley Fool Asset Management LLC Raises Stake - MarketBeat",
+      "detail": "FTNT\n重點：新聞\n標題：Fortinet, Inc. $FTNT Stock: Motley Fool Asset Management LLC Raises Stake - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNRk1JcUJNa0NVM2QyYW1Pei15WGhOTWhrcWZyQzNmamFvdjd6NnZPTHgxeTc0YXMwbllzQmMtRnFyVGpBdzdnZkdCY1c3ZHhDVTk5V1BYTDBESUZ5Yi1kQ3JLa2xQZ1RoQzJvcWJPaHFuN0hmd0l3OGlJREliRnZ3R2JLWGZIb3NqQ3kyeXZ4SFRIRWFZVVhkOU9GQ25zNVhhRHNYOTRyUXk0U…\n來源：Google News:FTNT\n其他：Fortinet (FTNT) Q3 2026 Earnings Call Transcript",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRk1JcUJNa0NVM2QyYW1Pei15WGhOTWhrcWZyQzNmamFvdjd6NnZPTHgxeTc0YXMwbllzQmMtRnFyVGpBdzdnZkdCY1c3ZHhDVTk5V1BYTDBESUZ5Yi1kQ3JLa2xQZ1RoQzJvcWJPaHFuN0hmd0l3OGlJREliRnZ3R2JLWGZIb3NqQ3kyeXZ4SFRIRWFZVVhkOU9GQ25zNVhhRHNYOTRyUXk0U2JteGhGX3puYnFDSXlWNFZvZGxoY3RhWXVrZzg1bHBn?oc=5",
+      "source": "Google News:FTNT",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "OKTA",
+      "short": "OKTA — Okta, Inc. $OKTA Stake Decreased by Smith Group Asset Management LLC - MarketBeat",
+      "detail": "OKTA\n重點：新聞\n標題：Okta, Inc. $OKTA Stake Decreased by Smith Group Asset Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNWVJNR3VSYVhBdDRrSjhHXzVsVEpFWmNFTjRYZGVyOEc1SVloc1NQWFJVTUFHRWR4c1hkWFBiYVZUdkY4WTZjdGRaX3F3bkdFRWYwOUxNRVBSZ1ZwR09kUmUxbVNRN2FDdTNlV3lwTUx5OHdXdWs1ZXNhYVNOU1NLbzdwaHpoX1ltUWRPa2l1cmI0N19FdDVrOFgzbEpBcy1keHYtbVV3NGlSU…\n來源：Google News:OKTA\n其他：7,395 Shares of Okta, Inc. $OKTA Acquired by Hanseatic Mana…",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWVJNR3VSYVhBdDRrSjhHXzVsVEpFWmNFTjRYZGVyOEc1SVloc1NQWFJVTUFHRWR4c1hkWFBiYVZUdkY4WTZjdGRaX3F3bkdFRWYwOUxNRVBSZ1ZwR09kUmUxbVNRN2FDdTNlV3lwTUx5OHdXdWs1ZXNhYVNOU1NLbzdwaHpoX1ltUWRPa2l1cmI0N19FdDVrOFgzbEpBcy1keHYtbVV3NGlSUnlMU3hMSUowMVlyTkNNY2RRc0t3bUxfX2JM?oc=5",
+      "source": "Google News:OKTA",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "TGT",
+      "short": "TGT — Convergence Financial LLC Buys 8,736 Shares of Target Corporation $TGT - MarketBeat",
+      "detail": "TGT\n重點：新聞\n標題：Convergence Financial LLC Buys 8,736 Shares of Target Corporation $TGT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZnJycktZOGJTSk42aXFXYTVxQVhxdDloYlpUSXVSbVp5VEswWmRfMlUyOVBGd1h1VnBra1ZEZ1dnZnlXbDU5NjRWUXV1dFoyVy1JM3JtdEUyT29KSzFGNUE4M0llTEVGMGJ0Q3Naa2RDMElVVVJXYjhQVGJ3Uk1mX3FQdzY0Nkd1UVRuSTFJOXZVM21ZZWU1SjZ4b1A3S3VjaFZYSGItRkdQd…\n來源：Google News:TGT\n其他：Target Corporation $TGT Stock Holdings Increased by Asset M…",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZnJycktZOGJTSk42aXFXYTVxQVhxdDloYlpUSXVSbVp5VEswWmRfMlUyOVBGd1h1VnBra1ZEZ1dnZnlXbDU5NjRWUXV1dFoyVy1JM3JtdEUyT29KSzFGNUE4M0llTEVGMGJ0Q3Naa2RDMElVVVJXYjhQVGJ3Uk1mX3FQdzY0Nkd1UVRuSTFJOXZVM21ZZWU1SjZ4b1A3S3VjaFZYSGItRkdQd21iM2s1a1FiS3BHNVQ1OEE4bEhlMjU3bWdkS2tDNg?oc=5",
+      "source": "Google News:TGT",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "ANET",
+      "short": "ANET — 173,321 Arista Networks, Inc. $ANET Shares Sold by Smith Group Asset Management LLC - M…",
+      "detail": "ANET\n重點：新聞\n標題：173,321 Arista Networks, Inc. $ANET Shares Sold by Smith Group Asset Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWXEtNi0wSkE3Zl9PN0hzWi1VaU5tbGFTOEplem5WNi15NHZDcFYwZ2tLRkFpc3ZQTU43M0w0VWRFRmJuVjNDcko5REV0WnhnYnJKYTRsVlR6TGZWTmhhVzJzbXE4cWZUWXhyUmp6YUY3cTByb1dqOXFYdGZ0N1R5UE1MZFAtV19RYnY1dU9rTzNnd3l0ajdXZFVsTllBTE54UGJLUVU5TkFFT…\n來源：Google News:ANET",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWXEtNi0wSkE3Zl9PN0hzWi1VaU5tbGFTOEplem5WNi15NHZDcFYwZ2tLRkFpc3ZQTU43M0w0VWRFRmJuVjNDcko5REV0WnhnYnJKYTRsVlR6TGZWTmhhVzJzbXE4cWZUWXhyUmp6YUY3cTByb1dqOXFYdGZ0N1R5UE1MZFAtV19RYnY1dU9rTzNnd3l0ajdXZFVsTllBTE54UGJLUVU5TkFFTVR6UzFSekMycm1yYUN5QUlrY2NVQ0UtRlNOS0tjV2VCNm5HYjdkbWVGTzA0TQ?oc=5",
+      "source": "Google News:ANET",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "BKNG",
+      "short": "BKNG — Booking Holdings Inc. $BKNG Stock Sold by Vantage Investment Partners LLC - MarketBeat",
+      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Stock Sold by Vantage Investment Partners LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNbm8wSVB3el9BWVAxbXlidkFVc2NpQXVDNm85cVNsZVlFQWUtTUVXeXNCdUowdTFrWXFmMXJpejUtN1EwNGxsV3lEZFZWTFdxS1lnbTlQamZxMEhVM0Y4MFIzM3BZQ3dGRVo5LTZHYkxNZ256RFBPZG10X1lwN1o2MTBzc3NTMXVUQjRNXzctd0VKaC1hRGZ0ajFYRldVOVV1Vy1UamFzX01rN…\n來源：Google News:BKNG",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbm8wSVB3el9BWVAxbXlidkFVc2NpQXVDNm85cVNsZVlFQWUtTUVXeXNCdUowdTFrWXFmMXJpejUtN1EwNGxsV3lEZFZWTFdxS1lnbTlQamZxMEhVM0Y4MFIzM3BZQ3dGRVo5LTZHYkxNZ256RFBPZG10X1lwN1o2MTBzc3NTMXVUQjRNXzctd0VKaC1hRGZ0ajFYRldVOVV1Vy1UamFzX01rN1RDNlJzS1dvVHN3ZzRnUWRlQldCd3Z2V2M0Mmh3UENZYWM?oc=5",
+      "source": "Google News:BKNG",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "COF",
+      "short": "COF — 6,571 Capital One Financial Corporation $COF Shares Sold by Park Avenue Securities LLC …",
+      "detail": "COF\n重點：新聞\n標題：6,571 Capital One Financial Corporation $COF Shares Sold by Park Avenue Securities LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRHFCb0xkOE1YWGN2ZHF5N0hYTE9QTE9vajJxRnZWOURxTUw4N3J1a0Voc3BOZ2dyaXRlREJ2VlJTa0dCR0VJRzB5RG54Q2tjeVo2amZWWGRYRzZQUVlRTVhudzd3dm5fMXBILXJOWFBjdS1TRXgwRUt3dkJXQ2JCbzdDcVBibU1EMzhMSlptdmNVdksxdDVNc2piM29jTFhpRGR1RzFhU1pLY…\n來源：Google News:COF",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRHFCb0xkOE1YWGN2ZHF5N0hYTE9QTE9vajJxRnZWOURxTUw4N3J1a0Voc3BOZ2dyaXRlREJ2VlJTa0dCR0VJRzB5RG54Q2tjeVo2amZWWGRYRzZQUVlRTVhudzd3dm5fMXBILXJOWFBjdS1TRXgwRUt3dkJXQ2JCbzdDcVBibU1EMzhMSlptdmNVdksxdDVNc2piM29jTFhpRGR1RzFhU1pLY3lMN3hWZW9wTnFVUlRiVGhadVRGYjUtbU9wOV8teWFpdlpfMlMxTGJGaDBDSy1oUzZ1cWc?oc=5",
+      "source": "Google News:COF",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "CRSP",
+      "short": "CRSP — CRISPR Therapeutics (NASDAQ:CRSP) Stock Crosses Above 200-Day Moving Average - Should Y…",
+      "detail": "CRSP\n重點：新聞\n標題：CRISPR Therapeutics (NASDAQ:CRSP) Stock Crosses Above 200-Day Moving Average - Should You Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTGt5TTBvMDlvR1J0bzQ0dVZqVlNfdElHekpxcEhob05aODVqNUpJZWdESjBKU2N6QmR0UDNSNU5aWkdRT1lUUndxYkIwRnVCel9GSTFOeGFmYmQtZ1NRbXV3TWE3VE5UeXhXSzE4V2c5aDJ1eEU2MDJYMElRTUxHcjRhbno4VWhRZWlfWGRka3ZjOEoybkJKNDdlMEk4aV8zaktPY1JhS1plY…\n來源：Google News:CRSP",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTGt5TTBvMDlvR1J0bzQ0dVZqVlNfdElHekpxcEhob05aODVqNUpJZWdESjBKU2N6QmR0UDNSNU5aWkdRT1lUUndxYkIwRnVCel9GSTFOeGFmYmQtZ1NRbXV3TWE3VE5UeXhXSzE4V2c5aDJ1eEU2MDJYMElRTUxHcjRhbno4VWhRZWlfWGRka3ZjOEoybkJKNDdlMEk4aV8zaktPY1JhS1plY0I5SUlPSkxWSTBjNGlFbmM1R3pZU2M4SjU3OUw4aGZRSXU3R2wxRF9tVkxTVTRyeExIeGppbmdiNmw?oc=5",
+      "source": "Google News:CRSP",
       "kind": "news"
     }
   ]
