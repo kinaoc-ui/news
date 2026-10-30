@@ -1,20 +1,65 @@
 {
-  "title": "FS新聞 10-30 11:10",
-  "list_name": "FirstScreen_2026-10-30_111003_comma.txt",
-  "created_at": "2026-10-30T11:10:11.444384+00:00",
+  "title": "FS新聞 10-30 16:36",
+  "list_name": "FirstScreen_2026-10-30_163604_comma.txt",
+  "created_at": "2026-10-30T16:36:12.555997+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "FTNT",
+      "short": "FTNT — 業績／指引：Fortinet (NASDAQ:FTNT) Releases Q4 2026 Earnings Guidance - MarketBeat",
+      "detail": "FTNT\n重點：業績／指引\n標題：Fortinet (NASDAQ:FTNT) Releases Q4 2026 Earnings Guidance - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPLWFfbVVlQVRGZmlOak5HYW52aXBtWmlRbHVDUlVqdHZUZVk4Q2hkeW9vbzd1NlNYSXFPRlF5VE1CWlh5TGpVY19IcGJzemJDaXhHOGNkN2JkTkJWNktEbUJKSW5SV1ZMeVk3Nlo1NXY0NEF2NElDOXJ6c3NzcnZic3A5OTZkNkEyNGxIZy1Va2JZNXpPUUpoRFhmQWdVSllxRUs4U2s3UFFoS…\n來源：Google News:FTNT\n其他：Fortinet (NASDAQ:FTNT) Passes All Eight Growth Tests With A…; Fortinet (FTNT) Loses 22.2% in 4 Weeks, Here's Why a Trend …",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLWFfbVVlQVRGZmlOak5HYW52aXBtWmlRbHVDUlVqdHZUZVk4Q2hkeW9vbzd1NlNYSXFPRlF5VE1CWlh5TGpVY19IcGJzemJDaXhHOGNkN2JkTkJWNktEbUJKSW5SV1ZMeVk3Nlo1NXY0NEF2NElDOXJ6c3NzcnZic3A5OTZkNkEyNGxIZy1Va2JZNXpPUUpoRFhmQWdVSllxRUs4U2s3UFFoSXp4M3Z2SzVuZGZqR1NxQWc?oc=5",
+      "source": "Google News:FTNT",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "MRK",
+      "short": "MRK — Merck & Co., Inc. (NYSE:MRK) Stock Price Expected to Rise, Guggenheim Analyst Says - Ma…",
+      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. (NYSE:MRK) Stock Price Expected to Rise, Guggenheim Analyst Says - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbTkxNVc2SVR4YUc4d1BsTXoxcU04cTBRSTdlRFJ5bHlCX3V6cnFWUy03S29pTVRlcHRJejRVZHh6RWZfNmxyNXVacjRhZkhsXzZzLURCVzF3dU1JTThzSGZmYUZ3V0RJTFMyQnJ5TG45TXhjVVNzUkNvRk5KUUItNFBfU2FRNDlYalBKWHFvSXRwRWlfZExWejM1a1l0U1JSYTRMZUE4U1ZoQ…\n來源：Google News:MRK\n其他：Merck Q3 Earnings Call Highlights Pipeline Progress and Rai…; Merck & Co., Inc. Q3 Earnings Call Highlights",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbTkxNVc2SVR4YUc4d1BsTXoxcU04cTBRSTdlRFJ5bHlCX3V6cnFWUy03S29pTVRlcHRJejRVZHh6RWZfNmxyNXVacjRhZkhsXzZzLURCVzF3dU1JTThzSGZmYUZ3V0RJTFMyQnJ5TG45TXhjVVNzUkNvRk5KUUItNFBfU2FRNDlYalBKWHFvSXRwRWlfZExWejM1a1l0U1JSYTRMZUE4U1ZoQml6QzlSZjd4WnBwYkg3dkFNRXZ0b3FCMmZHWURfQ211VHQtaTdMclE?oc=5",
+      "source": "Google News:MRK",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "STRC",
+      "short": "STRC — Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock (NASDAQ:STRC) to …",
+      "detail": "STRC\n重點：新聞\n標題：Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock (NASDAQ:STRC) to Issue Dividend of $0.04 - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSTVrUWlveURuVjZjSXBibkNvTDE0d3lJNk0wQV9fU2RLMjJKcEh4OHFvUF92RW9OSVIzUGRZWmpDcW16R3ozU1UxTFNQcHVDUnY1VlJRRnprUGM4XzZQWXRYX3FJS2M5Vk5XQ2kwS2w4TmdLcEVXUllwMVBveDlJOVdxRmo5R25xQ1gxN1FLZ0ZTT0NTMGxKTlh6WTh3ZHc3X3JPU2p3WWJUY…\n來源：Google News:STRC\n其他：Strategy Inc Variable Rate Series A Perpetual Stretch Prefe…; Strategy Inc Variable Rate Series A Perpetual Stretch Prefe…",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSTVrUWlveURuVjZjSXBibkNvTDE0d3lJNk0wQV9fU2RLMjJKcEh4OHFvUF92RW9OSVIzUGRZWmpDcW16R3ozU1UxTFNQcHVDUnY1VlJRRnprUGM4XzZQWXRYX3FJS2M5Vk5XQ2kwS2w4TmdLcEVXUllwMVBveDlJOVdxRmo5R25xQ1gxN1FLZ0ZTT0NTMGxKTlh6WTh3ZHc3X3JPU2p3WWJUYlh2NlVWYUxqV3MybWVlclR4UE93V0N5MWVrYThJWWsybU1HR3RELURnaXFMMDU3X0pZUEpIVTJWY3kzSEdIVHRWbDFQd20xVldMdE9UdFRTY0dFQQ?oc=5",
+      "source": "Google News:STRC",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "CRM",
+      "short": "CRM — Salesforce (NYSE:CRM) Shares Cross Below 50-Day Moving Average - What's Next? - MarketB…",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Shares Cross Below 50-Day Moving Average - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNMG5ycGdEMmhtSXJTVDZPWF9JM3ZocWt6NnR4a3A1Wi1nNFZMc3FMRkxSa0FseE9EYjZyZmZnaXpOU295QXBZNVo4aHpEeEN6WnF2NU14UmFIekpXMURCdzhXY0dUQ3lqS2FRdmZsdTVXd2YwOHlmVllkQlh5dlZsV1JITG80MlRqa1hNcllLNFJLQlE5VDVsWlNSWlRUMGdGWW1JRHN1aXdVN…\n來源：Google News:CRM\n其他：Salesforce Inc. $CRM Shares Sold by North Star Investment M…",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMG5ycGdEMmhtSXJTVDZPWF9JM3ZocWt6NnR4a3A1Wi1nNFZMc3FMRkxSa0FseE9EYjZyZmZnaXpOU295QXBZNVo4aHpEeEN6WnF2NU14UmFIekpXMURCdzhXY0dUQ3lqS2FRdmZsdTVXd2YwOHlmVllkQlh5dlZsV1JITG80MlRqa1hNcllLNFJLQlE5VDVsWlNSWlRUMGdGWW1JRHN1aXdVNmFsbndIMklfVW9MRllQQV9UZXJoNDFndFNDcjdXMHpDMA?oc=5",
+      "source": "Google News:CRM",
+      "kind": "news"
+    },
+    {
+      "n": 5,
       "symbol": "TGT",
       "short": "TGT — North Dakota State Investment Board Sells 11,511 Shares of Target Corporation $TGT - Ma…",
-      "detail": "TGT\n重點：新聞\n標題：North Dakota State Investment Board Sells 11,511 Shares of Target Corporation $TGT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdzFsVThsNWgxeEtDeGFRdHozN1hQa0szWnc3RUloY0U3NUVDdVR3c3NWcEtUQWs3TGRjTlZZSV9YRTFtUkJDd19nUEw2WXJDbmQyVUZicmNvblg3QkJMN21fdHdHd1Y0djFDUHJBalZwNHl2QUQ0OElPd3dQTFk0aHViRUNaYmItYlQwOHB5WmN1RU9ZOXVQZFR3TlM0VTFqd05rLVZ1VUNxa…\n來源：Google News:TGT\n其他：Target Corporation $TGT Stock: Bokf Na Boosts Holdings - Ma…",
+      "detail": "TGT\n重點：新聞\n標題：North Dakota State Investment Board Sells 11,511 Shares of Target Corporation $TGT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdzFsVThsNWgxeEtDeGFRdHozN1hQa0szWnc3RUloY0U3NUVDdVR3c3NWcEtUQWs3TGRjTlZZSV9YRTFtUkJDd19nUEw2WXJDbmQyVUZicmNvblg3QkJMN21fdHdHd1Y0djFDUHJBalZwNHl2QUQ0OElPd3dQTFk0aHViRUNaYmItYlQwOHB5WmN1RU9ZOXVQZFR3TlM0VTFqd05rLVZ1VUNxa…\n來源：Google News:TGT\n其他：Target Corporation $TGT Shares Bought by Park Avenue Securi…",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdzFsVThsNWgxeEtDeGFRdHozN1hQa0szWnc3RUloY0U3NUVDdVR3c3NWcEtUQWs3TGRjTlZZSV9YRTFtUkJDd19nUEw2WXJDbmQyVUZicmNvblg3QkJMN21fdHdHd1Y0djFDUHJBalZwNHl2QUQ0OElPd3dQTFk0aHViRUNaYmItYlQwOHB5WmN1RU9ZOXVQZFR3TlM0VTFqd05rLVZ1VUNxa3lOeGxqRTN6MkdmelpmQU91SnkwR2UwaGFTeUUzMnNxUHA5M19wSnVOeW84S18?oc=5",
       "source": "Google News:TGT",
       "kind": "news"
     },
     {
-      "n": 2,
+      "n": 6,
+      "symbol": "A",
+      "short": "A — AI相關：Microsoft Is a Stock Wall Street Remains Comfortable With Even as AI Trade Skids - Barr…",
+      "detail": "A\n重點：AI相關\n標題：Microsoft Is a Stock Wall Street Remains Comfortable With Even as AI Trade Skids - Barron's\n摘要：<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQQm83cDFsbEdqcE1sQUN1TmJjbW50dVp3UUlJZ3QyRzE5U3FBVzNtZGpmMkFRTVlNa0VvYVpnSFNheGp4bGNRakY3ZHZfSnViNmU1VHd4TTRuOU5qd3pOSVYzWlhQZU1qSVFJSGFvWnAxSHZ6MnJ5b1Ztd3ppb1l3M2RodUFNdw?oc=5\" target=\"_blank\">Microsoft Is a Stock Wal…\n來源：Google News:A",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQm83cDFsbEdqcE1sQUN1TmJjbW50dVp3UUlJZ3QyRzE5U3FBVzNtZGpmMkFRTVlNa0VvYVpnSFNheGp4bGNRakY3ZHZfSnViNmU1VHd4TTRuOU5qd3pOSVYzWlhQZU1qSVFJSGFvWnAxSHZ6MnJ5b1Ztd3ppb1l3M2RodUFNdw?oc=5",
+      "source": "Google News:A",
+      "kind": "news"
+    },
+    {
+      "n": 7,
       "symbol": "ALSN",
       "short": "ALSN — Allison Transmission Holdings, Inc. $ALSN Shares Acquired by Soltis Investment Advisors…",
       "detail": "ALSN\n重點：新聞\n標題：Allison Transmission Holdings, Inc. $ALSN Shares Acquired by Soltis Investment Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeUtUdDAwQ2pxWW8wdW1aR2RZU21GR3M3QTN6Zl9MUV9SOFFHd24tcGlXSjQzbWtpUnh2ZC15amlsY3IwRkFCTm0wRUQyako2Q1NLNTZPc3hNZXJCcWZJU2ZvekxpZGxtS1I1RnJpMTBVWnUxQXJGQl9YZ2Fualc0R0FNR245WUN6TWlPWmdaV3VrcGJHVkQ1MGR6NHhqS1Z0bHNiSVlXSDNwV…\n來源：Google News:ALSN",
@@ -23,7 +68,7 @@
       "kind": "news"
     },
     {
-      "n": 3,
+      "n": 8,
       "symbol": "ANET",
       "short": "ANET — Arista Networks, Inc. $ANET Shares Newly Acquired by Partners Wealth Management LLC - M…",
       "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Shares Newly Acquired by Partners Wealth Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQmJZMk1MTzM2SzdIMTVYVk9RcEt6bFYxelBmYWZvQVZDSVNMREhxT3Bya2tXMzFpZ282eVdkU0xJc1JaWDNpQWZfYXd2S0l1ZGZQaDh1WElUN3VlSlB2aVNkbGxIMjhoVERlNnQyS2hFMVBpdXdubXpZMS1iN2hYU0tWNHJXUEZucHRfdmFvMEdWMm16WTdLVmxCanZqY2ZJcnpJQlJXTGVFd…\n來源：Google News:ANET",
@@ -32,7 +77,25 @@
       "kind": "news"
     },
     {
-      "n": 4,
+      "n": 9,
+      "symbol": "BHP",
+      "short": "BHP — 業績／指引：BHP stock: Copper output falls 19% while fiscal 2027 guidance holds - ad-hoc-news.de",
+      "detail": "BHP\n重點：業績／指引\n標題：BHP stock: Copper output falls 19% while fiscal 2027 guidance holds - ad-hoc-news.de\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOMGE3bEs0bVZhX3IzRWNIcUFWSTdQM3ZKSHJfVkFLT2daUGMxX21KbTVkN2RtZEI2dm05eVRrSG9KOTI0ajhsQllibE5OWURodXd1eWVJZkk0MTVILVNGbW5QNy0zTnFiaUFnZUMxSHg1OEkwdDJCdjd5WHIybUF2cDh5bHl0VDVLOEhPdnM5NE1VX0RLejVCbTJpNXVaNzlDSHRNM0Q3VlRBa…\n來源：Google News:BHP",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMGE3bEs0bVZhX3IzRWNIcUFWSTdQM3ZKSHJfVkFLT2daUGMxX21KbTVkN2RtZEI2dm05eVRrSG9KOTI0ajhsQllibE5OWURodXd1eWVJZkk0MTVILVNGbW5QNy0zTnFiaUFnZUMxSHg1OEkwdDJCdjd5WHIybUF2cDh5bHl0VDVLOEhPdnM5NE1VX0RLejVCbTJpNXVaNzlDSHRNM0Q3VlRBaWtDSjhXM0N1LS1yaHNyeHBKZ2NLbFl1WGItUHFV?oc=5",
+      "source": "Google News:BHP",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "BKNG",
+      "short": "BKNG — 業績／指引：Booking Holdings' Q3 Earnings Ahead: What's in Store for the Stock?",
+      "detail": "BKNG\n重點：業績／指引\n標題：Booking Holdings' Q3 Earnings Ahead: What's in Store for the Stock?\n摘要：BKNG's Q3 earnings are likely to face currency headwinds, travel disruptions and marketing costs, even as loyalty gains and Connected Trip growth offer support.\n來源：Yahoo Finance:BKNG",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/booking-holdings-q3-earnings-ahead-133500743.html?.tsrc=rss",
+      "source": "Yahoo Finance:BKNG",
+      "kind": "news"
+    },
+    {
+      "n": 11,
       "symbol": "BNY",
       "short": "BNY — Bank of New York Mellon Corporation $BNY Stock Position Decreased by Smith Group Asset …",
       "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon Corporation $BNY Stock Position Decreased by Smith Group Asset Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcGhsOEJ4dl90YmRSUTlIallqd2cyU0xvbXpRcUVZRTBPMkdSZHhYdWZ5RUlmSEpWc1ZNZFdtU2MyeHZ0WXNEQ1R5OVJFeExkOHY1Q0M0b0ZoNTI5SXo0ZWpESzJQLU5fV252TU1MemQxMTI5M185a0dMT2ViSVhVeFRBcW9LZEpQdUhKMEdBLTQ2ZUtsaTRxM1lnNHZMMkRBVTVyRHdNMmY2L…\n來源：Google News:BNY",
@@ -41,75 +104,12 @@
       "kind": "news"
     },
     {
-      "n": 5,
+      "n": 12,
       "symbol": "CARG",
       "short": "CARG — CarGurus (NASDAQ:CARG) Stock Price Crosses Above Fifty Day Moving Average - Here's What…",
       "detail": "CARG\n重點：新聞\n標題：CarGurus (NASDAQ:CARG) Stock Price Crosses Above Fifty Day Moving Average - Here's What Happened - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTzBCYVV2WWN5ZjllNnRKZWI3bGxzR2hQeWdJcG5aRU0zeWQtZHdrVzluOVhzbUE2bmdBTmJTdVloclBvUkluN2VRQlNyZmd4bTFDcW5HeXBQczNGR3hsejZSUGxGR2x5V2VtN3pmOWtuRGtNVjZKVjBHQzdPdGUyaXExZ0NWM1BkYU5JekYyNUh1TFplWHExbnV5SFFvcEpubVFZcFRQYVBHU…\n來源：Google News:CARG",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTzBCYVV2WWN5ZjllNnRKZWI3bGxzR2hQeWdJcG5aRU0zeWQtZHdrVzluOVhzbUE2bmdBTmJTdVloclBvUkluN2VRQlNyZmd4bTFDcW5HeXBQczNGR3hsejZSUGxGR2x5V2VtN3pmOWtuRGtNVjZKVjBHQzdPdGUyaXExZ0NWM1BkYU5JekYyNUh1TFplWHExbnV5SFFvcEpubVFZcFRQYVBHUHZiNGJNeFUtZXZRMVRpWkxjakp5TnZwVl80WkxDUURXNW52SG1SODhCQzd3c1ZjaHpPR2pHUlpFTElVZw?oc=5",
       "source": "Google News:CARG",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "COO",
-      "short": "COO — Cooper Companies (COO) Faces A CEO Exit, Is The Stock Still Cheap?",
-      "detail": "COO\n重點：新聞\n標題：Cooper Companies (COO) Faces A CEO Exit, Is The Stock Still Cheap?\n摘要：Cooper Companies (COO) is undergoing a leadership change after Albert White stepped down as president and CEO. Board member Walter Rosebrough has stepped in as executive chair and is overseeing day-to-day operations. Recent trading tells you investors are still cautious on Coope…\n來源：Yahoo Finance:COO",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cooper-companies-coo-faces-ceo-061442141.html?.tsrc=rss",
-      "source": "Yahoo Finance:COO",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce (NYSE:CRM) Shares Cross Below 50-Day Moving Average - What's Next? - MarketB…",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Shares Cross Below 50-Day Moving Average - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNMG5ycGdEMmhtSXJTVDZPWF9JM3ZocWt6NnR4a3A1Wi1nNFZMc3FMRkxSa0FseE9EYjZyZmZnaXpOU295QXBZNVo4aHpEeEN6WnF2NU14UmFIekpXMURCdzhXY0dUQ3lqS2FRdmZsdTVXd2YwOHlmVllkQlh5dlZsV1JITG80MlRqa1hNcllLNFJLQlE5VDVsWlNSWlRUMGdGWW1JRHN1aXdVN…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMG5ycGdEMmhtSXJTVDZPWF9JM3ZocWt6NnR4a3A1Wi1nNFZMc3FMRkxSa0FseE9EYjZyZmZnaXpOU295QXBZNVo4aHpEeEN6WnF2NU14UmFIekpXMURCdzhXY0dUQ3lqS2FRdmZsdTVXd2YwOHlmVllkQlh5dlZsV1JITG80MlRqa1hNcllLNFJLQlE5VDVsWlNSWlRUMGdGWW1JRHN1aXdVNmFsbndIMklfVW9MRllQQV9UZXJoNDFndFNDcjdXMHpDMA?oc=5",
-      "source": "Google News:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "FTNT",
-      "short": "FTNT — Fortinet (NASDAQ:FTNT) Stock Price Crosses Below 50 Day Moving Average on Analyst Downg…",
-      "detail": "FTNT\n重點：新聞\n標題：Fortinet (NASDAQ:FTNT) Stock Price Crosses Below 50 Day Moving Average on Analyst Downgrade - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbFF4cDFVNUVCT0F3X2RiQlNBcnVCUnB1UW1zWFp1Tllqbm5GWXZRbDY2dkZsczNxZjQtZXdvWVRzLXFhWHJSR21mM015U2ExZXJuTThNT1JucmdSQlE5WGtFTHBtUXBrQWM5UWZPTldnVi1MRjE2RXA1S0h5TTJyWVBScEREYzJlUWFuNGhVMmN0Nmw4eTkwWElac3lTOC16dlpybEVqN0FxS…\n來源：Google News:FTNT",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbFF4cDFVNUVCT0F3X2RiQlNBcnVCUnB1UW1zWFp1Tllqbm5GWXZRbDY2dkZsczNxZjQtZXdvWVRzLXFhWHJSR21mM015U2ExZXJuTThNT1JucmdSQlE5WGtFTHBtUXBrQWM5UWZPTldnVi1MRjE2RXA1S0h5TTJyWVBScEREYzJlUWFuNGhVMmN0Nmw4eTkwWElac3lTOC16dlpybEVqN0FxS21qd1NHd04wZWZjMmx3OXVpemRDMWg0WWZiMXhHODRSem81RWV0TG1PZ1NHcFJPSE5kaUgzZWZQcw?oc=5",
-      "source": "Google News:FTNT",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "GAP",
-      "short": "GAP — GAP (NYSE:GAP) Shares Break Above 50-Day Moving Average - Here's What Happened - Market…",
-      "detail": "GAP\n重點：新聞\n標題：GAP (NYSE:GAP) Shares Break Above 50-Day Moving Average - Here's What Happened - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQOUFmM19nV0tEZ0FYaWh5d0lfNGZjR0gxZUZncFc0SndnR2RlcDNHMlU1UWNaR2tpWDRBaGc2SW5FLURDcmcybkhLRkJiY1VQNWR6MEQtWUp1ajhtQ0ptalg2cXRvM2I3YmRSckNPSjBhV1NjeFJpZlNkalloVXYzWmdiSW9hV2tjdUE1LWk0SmFnbnRYQ0YydjlCZEp2c01JczNwNnNkNXRZd…\n來源：Google News:GAP",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOUFmM19nV0tEZ0FYaWh5d0lfNGZjR0gxZUZncFc0SndnR2RlcDNHMlU1UWNaR2tpWDRBaGc2SW5FLURDcmcybkhLRkJiY1VQNWR6MEQtWUp1ajhtQ0ptalg2cXRvM2I3YmRSckNPSjBhV1NjeFJpZlNkalloVXYzWmdiSW9hV2tjdUE1LWk0SmFnbnRYQ0YydjlCZEp2c01JczNwNnNkNXRZd3ZCS21pWExWNlhkMGxDdi1US1kzMTJSajhGWW1hS2lDYVZaUQ?oc=5",
-      "source": "Google News:GAP",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "MDT",
-      "short": "MDT — 35,100 Medtronic PLC $MDT Shares Acquired by Soltis Investment Advisors LLC - MarketBeat",
-      "detail": "MDT\n重點：新聞\n標題：35,100 Medtronic PLC $MDT Shares Acquired by Soltis Investment Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPTU1PWG1tdUNtWWNtQmU1MnE2WUNTOFZTcGh2a0pJeXdIOGhLTHBuZW5WRjhMMGptUktJTi1CSWs3bGRITnBqb29wa1FMTFdnX0RlcnJGS1BPSU5QWkRHYk1zYjBnc2xPVGxKekNkejBpU3JsdGdENlJxd0dudFJ5LWRLT0x6OFo4VUk2bkp2S1EyZjJoRGRjeFpaaldaZ0ROS2xIQV9TTmhnZ…\n來源：Google News:MDT",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTU1PWG1tdUNtWWNtQmU1MnE2WUNTOFZTcGh2a0pJeXdIOGhLTHBuZW5WRjhMMGptUktJTi1CSWs3bGRITnBqb29wa1FMTFdnX0RlcnJGS1BPSU5QWkRHYk1zYjBnc2xPVGxKekNkejBpU3JsdGdENlJxd0dudFJ5LWRLT0x6OFo4VUk2bkp2S1EyZjJoRGRjeFpaaldaZ0ROS2xIQV9TTmhnZUtXaUR5RjV5TFU3SWcxbzBiR1IzOHRSMkNFYlFIeHJqaVhhZ00?oc=5",
-      "source": "Google News:MDT",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "MRK",
-      "short": "MRK — Merck & Co., Inc. $MRK Stake Lessened by Soltis Investment Advisors LLC - MarketBeat",
-      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Stake Lessened by Soltis Investment Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmdUcEJKYXNFM1BubXJPbGhyYmFnS2RTSzZRMnZNR3p1NnlybzY1MjJ4Ylp0bWtDczBOaEVDdXVNZ2thS1owRThmWkxjbVU0bGRUWkFwOFFpN0pnWDk0U3kwdnRESGJERmtVdUsxMHliSWgycUREeWRCSGdGREZGemNnVVdocjkzcG1KM1ZwemNuOGJSd1JuLVhEbk5Pd0NPRVZGQUxYMXJ4d…\n來源：Google News:MRK",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmdUcEJKYXNFM1BubXJPbGhyYmFnS2RTSzZRMnZNR3p1NnlybzY1MjJ4Ylp0bWtDczBOaEVDdXVNZ2thS1owRThmWkxjbVU0bGRUWkFwOFFpN0pnWDk0U3kwdnRESGJERmtVdUsxMHliSWgycUREeWRCSGdGREZGemNnVVdocjkzcG1KM1ZwemNuOGJSd1JuLVhEbk5Pd0NPRVZGQUxYMXJ4dDIxZFl0bDEyb0dTb1VJejNpak9vZHJMVThT?oc=5",
-      "source": "Google News:MRK",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "NVCR",
-      "short": "NVCR — 業績／指引：Novocure (NASDAQ:NVCR) Posts 16% Revenue Growth in Q3 2026, Raises Full-Year Guidance -…",
-      "detail": "NVCR\n重點：業績／指引\n標題：Novocure (NASDAQ:NVCR) Posts 16% Revenue Growth in Q3 2026, Raises Full-Year Guidance - Kalkine\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeUdRNjhRSlBmbDVlN0lXVDZnSWNtZjdscnVqNzdsS0dvaUlCUWZkcm5VUng3aDE0eUhsMXliNTd3YVFIYXczc043ODlwb3JodUkzX3dOaGEyaEpFb2JaUFIxNWNzLXpPb3pKWVMtX195S2MtbWxTYlJnanc3c2twMkUwTnBJcVB6cXhxaElncVFTckU2V0VianhVZW5WaGZiVTdOd0EtX1dPM…\n來源：Google News:NVCR",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeUdRNjhRSlBmbDVlN0lXVDZnSWNtZjdscnVqNzdsS0dvaUlCUWZkcm5VUng3aDE0eUhsMXliNTd3YVFIYXczc043ODlwb3JodUkzX3dOaGEyaEpFb2JaUFIxNWNzLXpPb3pKWVMtX195S2MtbWxTYlJnanc3c2twMkUwTnBJcVB6cXhxaElncVFTckU2V0VianhVZW5WaGZiVTdOd0EtX1dPMm9RYWFrZGxGdEdYTi1kWnU0S2stOGl5TzBvR05HUg?oc=5",
-      "source": "Google News:NVCR",
       "kind": "news"
     }
   ]
