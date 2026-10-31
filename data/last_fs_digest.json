@@ -1,56 +1,38 @@
 {
-  "title": "FS新聞 10-31 10:43",
-  "list_name": "FirstScreen_2026-10-31_104316_comma.txt",
-  "created_at": "2026-10-31T10:43:23.732208+00:00",
+  "title": "FS新聞 10-31 15:39",
+  "list_name": "FirstScreen_2026-10-31_153922_comma.txt",
+  "created_at": "2026-10-31T15:39:30.623539+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "BKNG",
-      "short": "BKNG — Booking Holdings Inc. $BKNG Stock Acquired by Americana Partners LLC - MarketBeat",
-      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Stock Acquired by Americana Partners LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNmM5bVFNbmJCLVp1eHFCc29GXzl2RnpuUWZNMG01aHlwR2JKNTVGX2dVQ21HMFA4WE0yS2dRZV9MVlNCdnNHQ252MEJ0OTFFZy1yUDFMVXJ1TXVILThfWWdrX2FzUmVYRWVSeURQQ1NFTFlFSlJzd3cya2ktSGRvdERfWjMySWd3VUVFZmVqcm9iUlJjeFRUSG5oaFVPWGNtX0FFeVN4X1FVZ…\n來源：Google News:BKNG\n其他：Booking Holdings Inc. $BKNG Stock: Birinyi Associates Inc. …",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNmM5bVFNbmJCLVp1eHFCc29GXzl2RnpuUWZNMG01aHlwR2JKNTVGX2dVQ21HMFA4WE0yS2dRZV9MVlNCdnNHQ252MEJ0OTFFZy1yUDFMVXJ1TXVILThfWWdrX2FzUmVYRWVSeURQQ1NFTFlFSlJzd3cya2ktSGRvdERfWjMySWd3VUVFZmVqcm9iUlJjeFRUSG5oaFVPWGNtX0FFeVN4X1FVZ1VGeHJOV2lWMVY2NEVlOGxkX1oxRVlVZ1dnX2c?oc=5",
-      "source": "Google News:BKNG",
+      "symbol": "CRM",
+      "short": "CRM — AI相關、業績／指引：Presentations.AI Launches AI Sales Enablement Deck Generator With Salesforce to PowerPo…",
+      "detail": "CRM\n重點：AI相關、業績／指引\n標題：Presentations.AI Launches AI Sales Enablement Deck Generator With Salesforce to PowerPoint Automation, Live Presentation Refresh, Editable PowerPoint Export and a Presentation API at $0.10 Per Slide\n摘要：Revenue teams can now generate prospect-specific sales decks from one approved master and connected CRM records, automate presentation updates from Salesforce, HubSpot, Pipedrive, Looker, Tableau, Mixpanel, Google Sheets, Snowflake and BigQuery, govern changes through three appr…\n來源：Yahoo Finance:CRM\n其他：10,091 Shares in Salesforce Inc. $CRM Purchased by Greenup …; Payden & Rygel Makes New Investment in Salesforce Inc. $CRM…",
+      "url": "https://finance.yahoo.com/technology/ai/articles/presentations-ai-launches-ai-sales-133900758.html?.tsrc=rss",
+      "source": "Yahoo Finance:CRM",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "CRM",
-      "short": "CRM — Payden & Rygel Makes New Investment in Salesforce Inc. $CRM - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Payden & Rygel Makes New Investment in Salesforce Inc. $CRM - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxObGxldjlsV3RuQmYxT2g1Y3RnUGlxbmk3eDZYQkNkTU8wTm1NMWVNXzNZU2NkLTlpWElrWHNDNHdwTjM2R1FFTDJBdzM0U3JZdlNOZmRzYmx4dFBKV2pXZ2FoUkRuSWZkLWNRbTY2WHNNOEd6aDI4a3ZpdzJHeG0xWG4wNWk5YlFVd1piWGI1V2NhMXhXLVVZb2ZFSnU0UFIzcHYwRGIwQjMze…\n來源：Google News:CRM\n其他：Salesforce Inc. $CRM Shares Newly Purchased by Partners Wea…",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObGxldjlsV3RuQmYxT2g1Y3RnUGlxbmk3eDZYQkNkTU8wTm1NMWVNXzNZU2NkLTlpWElrWHNDNHdwTjM2R1FFTDJBdzM0U3JZdlNOZmRzYmx4dFBKV2pXZ2FoUkRuSWZkLWNRbTY2WHNNOEd6aDI4a3ZpdzJHeG0xWG4wNWk5YlFVd1piWGI1V2NhMXhXLVVZb2ZFSnU0UFIzcHYwRGIwQjMzeDJ2YXdxUTBwU0VMeGs?oc=5",
-      "source": "Google News:CRM",
+      "symbol": "TGT",
+      "short": "TGT — TD Cowen Begins Coverage on Target (NYSE:TGT) - MarketBeat",
+      "detail": "TGT\n重點：新聞\n標題：TD Cowen Begins Coverage on Target (NYSE:TGT) - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2lYWTk5N0JfVW1uSTFYYzFUWTgzRHhxd3hoUVBqcGN3LUpZNGJGa2xIMThLY29UTHVLUGlJclJpa2JQaVFLWGtkcVdaU1d0aWR4d29KOE9naWdJTGpWM0l2WWNiSnQxZW9sdndBSWZMR2pvLW0xYUZtZ3BCWHQtVWozUGFKMHJOV3BxMEsyVlExakdjakxPVk9sa0ZmVS01R2pxSWlVMWk?o…\n來源：Google News:TGT\n其他：291,563 Target Corporation $TGT Shares Purchased by VIRGINI…",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2lYWTk5N0JfVW1uSTFYYzFUWTgzRHhxd3hoUVBqcGN3LUpZNGJGa2xIMThLY29UTHVLUGlJclJpa2JQaVFLWGtkcVdaU1d0aWR4d29KOE9naWdJTGpWM0l2WWNiSnQxZW9sdndBSWZMR2pvLW0xYUZtZ3BCWHQtVWozUGFKMHJOV3BxMEsyVlExakdjakxPVk9sa0ZmVS01R2pxSWlVMWk?oc=5",
+      "source": "Google News:TGT",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "PYPL",
-      "short": "PYPL — What Could PayPal Holdings (PYPL) Gain From Its New Creator Payout Push?",
-      "detail": "PYPL\n重點：新聞\n標題：What Could PayPal Holdings (PYPL) Gain From Its New Creator Payout Push?\n摘要：PayPal Holdings (NasdaqGS:PYPL) and LianLian Global announced a new global payout partnership for creators, influencers, and contractors. The tie up enables mass disbursements directly into PayPal wallets for cross border recipients using LianLian Global's payout infrastructure.…\n來源：Yahoo Finance:PYPL\n其他：PYPL Q3 deep dive: diversification in financial services an…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-paypal-holdings-pypl-gain-042347122.html?.tsrc=rss",
-      "source": "Yahoo Finance:PYPL",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "SLB",
-      "short": "SLB — Americana Partners LLC Purchases 87,990 Shares of SLB Limited $SLB - MarketBeat",
-      "detail": "SLB\n重點：新聞\n標題：Americana Partners LLC Purchases 87,990 Shares of SLB Limited $SLB - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX0N3X3FYdDlHVHA1Ukx2MmJDWmU1dS1Db1Z5WTkyQmFGbVBHd2pHQ1ZXVTk3ZHkzM0F2LWphNnBpSkRKUkdra3RGMDhsZ2poZXF1aTZwdGtCZzBsWmlkYzNLR1ZfWnBXSmZwekxPeWNrekE0MnA1Zzd5d0szdnNUa1ZSRlY1VzRmOFVvVndCNFNtbHRXSV9jSjRFRzJuc0hGY1lvUTgzTHMzO…\n來源：Google News:SLB\n其他：SLB Limited (NYSE:SLB) Stock Has Consensus Target Price of …",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX0N3X3FYdDlHVHA1Ukx2MmJDWmU1dS1Db1Z5WTkyQmFGbVBHd2pHQ1ZXVTk3ZHkzM0F2LWphNnBpSkRKUkdra3RGMDhsZ2poZXF1aTZwdGtCZzBsWmlkYzNLR1ZfWnBXSmZwekxPeWNrekE0MnA1Zzd5d0szdnNUa1ZSRlY1VzRmOFVvVndCNFNtbHRXSV9jSjRFRzJuc0hGY1lvUTgzTHMzOTNNNktLQkg1aFRwakVnWks4bVNtUzQtTEE?oc=5",
-      "source": "Google News:SLB",
-      "kind": "news"
-    },
-    {
-      "n": 5,
       "symbol": "A",
       "short": "A — If I Could Only Buy and Hold 1 Dividend Stock Heading Into the Eye of a Stock Market St…",
-      "detail": "A\n重點：新聞\n標題：If I Could Only Buy and Hold 1 Dividend Stock Heading Into the Eye of a Stock Market Storm, This Would Be It - The Motley Fool\n摘要：<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ0tFeWxoUUJ5WEtHRk42OEVMUnB5bmNuN3BDb2xrajRqbzVqXzRMMGtPRzZZdkFocDNNRlZOa1JBQW1NM2JSbFBGeEdhTXRiUWdmVUZlX01mZDlzMzc5c3ZzZHllVFFWS1BzQ2w1WG05ZDJjUXZ0SDYwYVhTNDRvajByWmplc015WHRiUnBpUEM2RHQ3LWFBXw?oc=5\" target=\"_blank\">…\n來源：Google News:A",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ0tFeWxoUUJ5WEtHRk42OEVMUnB5bmNuN3BDb2xrajRqbzVqXzRMMGtPRzZZdkFocDNNRlZOa1JBQW1NM2JSbFBGeEdhTXRiUWdmVUZlX01mZDlzMzc5c3ZzZHllVFFWS1BzQ2w1WG05ZDJjUXZ0SDYwYVhTNDRvajByWmplc015WHRiUnBpUEM2RHQ3LWFBXw?oc=5",
+      "detail": "A\n重點：新聞\n標題：If I Could Only Buy and Hold 1 Dividend Stock Heading Into the Eye of a Stock Market Storm, This Would Be It - Yahoo Finance\n摘要：<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNQVQ0WUM4bW9ZM21kOE9yd0ZXdGJ1M3N0RnNpQ3laZDhqM2o4OVJoUkJOdzNQNklnaWdXUzBBUFdBVktVX3VSRHV6ZF85U0J3TWN5a29CRFV5a0VSZU1mVW1xTk5OQ0d5amtzb2JPWkRBZ0x1QVJweWdFVDB1RDYyQU1yeWI4YUVxOXFTSG83Yw?oc=5\" target=\"_blank\">If I Could O…\n來源：Google News:A",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQVQ0WUM4bW9ZM21kOE9yd0ZXdGJ1M3N0RnNpQ3laZDhqM2o4OVJoUkJOdzNQNklnaWdXUzBBUFdBVktVX3VSRHV6ZF85U0J3TWN5a29CRFV5a0VSZU1mVW1xTk5OQ0d5amtzb2JPWkRBZ0x1QVJweWdFVDB1RDYyQU1yeWI4YUVxOXFTSG83Yw?oc=5",
       "source": "Google News:A",
       "kind": "news"
     },
     {
-      "n": 6,
+      "n": 4,
       "symbol": "ANET",
       "short": "ANET — Arista Networks, Inc. $ANET Stock: VIRGINIA RETIREMENT SYSTEMS ET Al Cuts Holdings - Ma…",
       "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Stock: VIRGINIA RETIREMENT SYSTEMS ET Al Cuts Holdings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb1U4V1l5M0ItS09WdmtjWmpLMUpHTWJYcnduejRPNlVSclQyR2hyWi0ycWUyR2FIRDZYcm1jSzZvaTdCVWswTVozZDJJd1hHYUlWc2d5b2JWVjRjODdITkdhM19jLUFMWDA4VGZ4NXN0M3RDMkNlLWVNamFkcGJiUzlYSnd3bEkzYTJteDdKM3Y0M0JFdkNSdWtzWVBVZ0kwaTJBZ2dmdkw5U…\n來源：Google News:ANET",
@@ -59,16 +41,7 @@
       "kind": "news"
     },
     {
-      "n": 7,
-      "symbol": "BDX",
-      "short": "BDX — Becton Dickinson (BDX) Stock Could Be 15% Undervalued Despite Stent Graft Launch - Simp…",
-      "detail": "BDX\n重點：新聞\n標題：Becton Dickinson (BDX) Stock Could Be 15% Undervalued Despite Stent Graft Launch - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNU281T1A5TDNRZ19vMXBRV1VWb3NRelpKa1p3Ujh1WGxweW01Wm05dWVNOXF3UkN0SWlsdlRGMzgxM010cmJsYmtoWGlwQ1FZM3NqUVdReFROSExJTXJZdHQ0TUhTU1JobnNDVVp2V1hqS2JYMEJNV29WVkFqRFppRVJRY2ZuaWJCdTk1Q1MxV3pBek5ya2dfSFcyYWp4RzNXUFZFTWEtVHBye…\n來源：Google News:BDX",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU281T1A5TDNRZ19vMXBRV1VWb3NRelpKa1p3Ujh1WGxweW01Wm05dWVNOXF3UkN0SWlsdlRGMzgxM010cmJsYmtoWGlwQ1FZM3NqUVdReFROSExJTXJZdHQ0TUhTU1JobnNDVVp2V1hqS2JYMEJNV29WVkFqRFppRVJRY2ZuaWJCdTk1Q1MxV3pBek5ya2dfSFcyYWp4RzNXUFZFTWEtVHByenhhakpJSWt2U1d5a3FRX09MQnBrdmJQSVljUUFxVEE4UXBmTGPSAdQBQVVfeXFMTlc4OHppR01zYUJfVmVoV3pqaExDWlEyTmpVV18tT05NOHE3bFFDWVk5Z2c1eTRaRTFqLXNhaWlmaU9TR0Z2ZlBDdXRaVEJackQ5NTRfRmNlcEoxSmNpVWE1cnQ3enFoa3YzbnZzQlVMQU4tWGsxOGlDNGFaZFdoT2NRMUx5UTFrdUppUVpZdmJXb0tjam5kUDVsYTVtdThudDNQVldLbEJMWjJaOEVQNjEzN2IwSUxpVFQzb3dza1IwaFVoVmo3M0xxdFZjbXlmRUdfZGo?oc=5",
-      "source": "Google News:BDX",
-      "kind": "news"
-    },
-    {
-      "n": 8,
+      "n": 5,
       "symbol": "BHP",
       "short": "BHP — 業績／指引：BHP stock faces copper setback as FY2027 guidance holds - ad-hoc-news.de",
       "detail": "BHP\n重點：業績／指引\n標題：BHP stock faces copper setback as FY2027 guidance holds - ad-hoc-news.de\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQVGxxMklfYVNWeHVINUg4QVVNTnIwS3ZEc3J0b0hpbEtUQk9CWGRuMnpSXy1GRWVNTk5Kbjh4VjE0OGt0N1NXcFUxci1ERjQzQW5Fd2pqb0c3S0RCU3EtcHpQdklPVWZqUXFtQXJyTUgwOVctNFIzYmpyeXA3cU9xYXJUMEhwX0dEMmZxMDlwSkp4ZmNNZlJONVNVbkd6Q05xd2VyMVNSQ0tTV…\n來源：Google News:BHP",
@@ -77,7 +50,16 @@
       "kind": "news"
     },
     {
-      "n": 9,
+      "n": 6,
+      "symbol": "BKNG",
+      "short": "BKNG — Booking Holdings Inc. $BKNG Stock Acquired by Americana Partners LLC - MarketBeat",
+      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Stock Acquired by Americana Partners LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNmM5bVFNbmJCLVp1eHFCc29GXzl2RnpuUWZNMG01aHlwR2JKNTVGX2dVQ21HMFA4WE0yS2dRZV9MVlNCdnNHQ252MEJ0OTFFZy1yUDFMVXJ1TXVILThfWWdrX2FzUmVYRWVSeURQQ1NFTFlFSlJzd3cya2ktSGRvdERfWjMySWd3VUVFZmVqcm9iUlJjeFRUSG5oaFVPWGNtX0FFeVN4X1FVZ…\n來源：Google News:BKNG",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNmM5bVFNbmJCLVp1eHFCc29GXzl2RnpuUWZNMG01aHlwR2JKNTVGX2dVQ21HMFA4WE0yS2dRZV9MVlNCdnNHQ252MEJ0OTFFZy1yUDFMVXJ1TXVILThfWWdrX2FzUmVYRWVSeURQQ1NFTFlFSlJzd3cya2ktSGRvdERfWjMySWd3VUVFZmVqcm9iUlJjeFRUSG5oaFVPWGNtX0FFeVN4X1FVZ1VGeHJOV2lWMVY2NEVlOGxkX1oxRVlVZ1dnX2c?oc=5",
+      "source": "Google News:BKNG",
+      "kind": "news"
+    },
+    {
+      "n": 7,
       "symbol": "BNY",
       "short": "BNY — Bank of New York Mellon Corporation $BNY Stock: VIRGINIA RETIREMENT SYSTEMS ET Al Cuts …",
       "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon Corporation $BNY Stock: VIRGINIA RETIREMENT SYSTEMS ET Al Cuts Position - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUXBRMllnVW1oTmJQTF81T2tuX0pPOXY0VGFsWUNtWmQyWVNIT05EYVRXdzZ2NnNSLVdLd1Q3aUtDbktUM3N0cy15eUx0bjh0eUNaNV9vTERIT3JwcWVuUXU0TnRSX25Nc0VYSjNvMnRwLVJCSFBGeTh5dkhiUkZ5YWpFcE9XaWc1NFh5UVNIaHdqbkZtVVZlYWltanVPcnBoWjRNM1B6cTV2V…\n來源：Google News:BNY",
@@ -86,7 +68,7 @@
       "kind": "news"
     },
     {
-      "n": 10,
+      "n": 8,
       "symbol": "BTG",
       "short": "BTG — B2Gold (NYSEAMERICAN:BTG) Stock Price Crosses Below 200 Day Moving Average - Here's Why…",
       "detail": "BTG\n重點：新聞\n標題：B2Gold (NYSEAMERICAN:BTG) Stock Price Crosses Below 200 Day Moving Average - Here's Why - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY0h6Q1VsQXFCYWYtWGtsSG1XZVpJZ0hMRDM4eGNRLWxUbGxxclFmNnFmOEVhV0FJakpoaFJnSmlPOV9GSVkxLXJjaWdLM3E1Q3RGY1dTaU85MFdoSUtjZ25rVjRxQjFfSmJOanAtTzdib1NUZVZTZy1FdDNXRmVkcERZZWlHNmJjSVlDblFGVlpzV2ROTC1FRDZWQ2xtVGRGZXpYTTFxNUl3S…\n來源：Google News:BTG",
@@ -95,21 +77,39 @@
       "kind": "news"
     },
     {
-      "n": 11,
-      "symbol": "CARG",
-      "short": "CARG — CarGurus (NASDAQ:CARG) Upgraded at Wall Street Zen - MarketBeat",
-      "detail": "CARG\n重點：新聞\n標題：CarGurus (NASDAQ:CARG) Upgraded at Wall Street Zen - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ0lBRnpqdFFjbDdXUWNFazlqdnpqMnp4XzdLbFF0eUlZclFHNFJYUEZTMkhPZW9YZ0haVnVFakVVMTlqRlpfbUVlU0lsUi1PZzUya0pKdnItZ1d3RHc1YnhYQUlVSTUwOTRhdHVRSUpPSU1FVHY3c3drc1lFc201aVUyWnJzRlQ2R2ZaQUE2X280LXViNVU0Y1F4ZzdySXJnNnRnV2tFeDhnM…\n來源：Google News:CARG",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ0lBRnpqdFFjbDdXUWNFazlqdnpqMnp4XzdLbFF0eUlZclFHNFJYUEZTMkhPZW9YZ0haVnVFakVVMTlqRlpfbUVlU0lsUi1PZzUya0pKdnItZ1d3RHc1YnhYQUlVSTUwOTRhdHVRSUpPSU1FVHY3c3drc1lFc201aVUyWnJzRlQ2R2ZaQUE2X280LXViNVU0Y1F4ZzdySXJnNnRnV2tFeDhnM0xTSThV?oc=5",
-      "source": "Google News:CARG",
+      "n": 9,
+      "symbol": "EL",
+      "short": "EL — Estee Lauder Companies (NYSE:EL) Coverage Initiated by Analysts at TD Cowen - MarketBeat",
+      "detail": "EL\n重點：新聞\n標題：Estee Lauder Companies (NYSE:EL) Coverage Initiated by Analysts at TD Cowen - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeHNUdjlZQXQ1TS1tZ25qcTFOakdWYUlWY3lqQkVVR2VNUVlXcWE1b3RFemhqSEh4YVU1RGRPSWpsOG1JMHg3dWlyZU92bUE0M3RaYWp2cWJZR0M1U0Y5bU1UWUhPTnBCWU50M2lWdGhSc2RjSjVjeUt4Q05TU1dOSjJRS2hJd0tHZXdFcmR3S3lZd1dYd3VmVFZaZlRQa2F5RnNRempOV19Sc…\n來源：Google News:EL",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeHNUdjlZQXQ1TS1tZ25qcTFOakdWYUlWY3lqQkVVR2VNUVlXcWE1b3RFemhqSEh4YVU1RGRPSWpsOG1JMHg3dWlyZU92bUE0M3RaYWp2cWJZR0M1U0Y5bU1UWUhPTnBCWU50M2lWdGhSc2RjSjVjeUt4Q05TU1dOSjJRS2hJd0tHZXdFcmR3S3lZd1dYd3VmVFZaZlRQa2F5RnNRempOV19ScFcxSGhtYTJ5dkYxQXhKOWo3SWtHTE1rT09KZFI1cmlpZHZ1NEVl?oc=5",
+      "source": "Google News:EL",
       "kind": "news"
     },
     {
-      "n": 12,
+      "n": 10,
       "symbol": "FTNT",
       "short": "FTNT — Fortinet, Inc. $FTNT Stock Bought by Soltis Investment Advisors LLC - MarketBeat",
       "detail": "FTNT\n重點：新聞\n標題：Fortinet, Inc. $FTNT Stock Bought by Soltis Investment Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeWpKQzluQU8yN0VNWnNOWmxIbEtnOUdRUWxaSGwyYWlObFo1cEl6M25QNTlmNkhLQVE5NnRDQVh5NE1LN2RoMTdfMWxkQVdhdGlZX0xrLXpkd280ZlFTa1NZZUQzT0l2SElDbDg5aEs0bzhEczluZThyenVaeHpkVlY0ODBZLWtZa2EwOUt1LUxKQXpjUlUxWlJKVWtGYmtaUTQ2V0RqaWVzY…\n來源：Google News:FTNT",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeWpKQzluQU8yN0VNWnNOWmxIbEtnOUdRUWxaSGwyYWlObFo1cEl6M25QNTlmNkhLQVE5NnRDQVh5NE1LN2RoMTdfMWxkQVdhdGlZX0xrLXpkd280ZlFTa1NZZUQzT0l2SElDbDg5aEs0bzhEczluZThyenVaeHpkVlY0ODBZLWtZa2EwOUt1LUxKQXpjUlUxWlJKVWtGYmtaUTQ2V0RqaWVzYk1WMzNWTmhwUDRxa3plLXZvWEdMVGo0dkE?oc=5",
       "source": "Google News:FTNT",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "INTU",
+      "short": "INTU — VIRGINIA RETIREMENT SYSTEMS ET Al Buys 32,400 Shares of Intuit Inc. $INTU - MarketBeat",
+      "detail": "INTU\n重點：新聞\n標題：VIRGINIA RETIREMENT SYSTEMS ET Al Buys 32,400 Shares of Intuit Inc. $INTU - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQenZmNGJJb0VoelZRbl9LWnlQN1FyZmpvUzJRZWw5blNKSDBOcm9yMWl0NXR6cUxlcklYbFNiQTdHWHNSWTdPUEowcUxXVGNNVmxuR0JCakp4bER6R2ZWak5GWUtOSU53dmRYclRCUjFOdVAwamJ0SFFfYzBBcG5RMGRCc0lJUUJKX2xxeXVoRzBUTmZXTnQ5aG4tcG5hQkNvSU1FelhoYVR5R…\n來源：Google News:INTU",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQenZmNGJJb0VoelZRbl9LWnlQN1FyZmpvUzJRZWw5blNKSDBOcm9yMWl0NXR6cUxlcklYbFNiQTdHWHNSWTdPUEowcUxXVGNNVmxuR0JCakp4bER6R2ZWak5GWUtOSU53dmRYclRCUjFOdVAwamJ0SFFfYzBBcG5RMGRCc0lJUUJKX2xxeXVoRzBUTmZXTnQ5aG4tcG5hQkNvSU1FelhoYVR5RlpZdUdLS2lNU1BhM0lMa2FSTFo5aFhwVm9xdjBQb3MtWQ?oc=5",
+      "source": "Google News:INTU",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "KSS",
+      "short": "KSS — Kohl's (NYSE:KSS) Coverage Initiated by Analysts at TD Cowen - MarketBeat",
+      "detail": "KSS\n重點：新聞\n標題：Kohl's (NYSE:KSS) Coverage Initiated by Analysts at TD Cowen - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGdlaU1ONWxxVDNfMGE3NkJLUXYzSGlpT1dnRHFUUjdrUS1la2pzVWoyZlk4bVdIVEdaazM2d2ZDMWltNlBScG5NZkNGZjBUSHJXQU91anVQN2l2WEwyX1ZLV0hlT0FwaTNVaTRrOExzNTNveDhBdDc4NkdUbkRjQVQyUkVxTkFlelNlcThWeG9WYnhQSFFWTUdLYVplYUZlZVAxVXJ5b2txV…\n來源：Google News:KSS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGdlaU1ONWxxVDNfMGE3NkJLUXYzSGlpT1dnRHFUUjdrUS1la2pzVWoyZlk4bVdIVEdaazM2d2ZDMWltNlBScG5NZkNGZjBUSHJXQU91anVQN2l2WEwyX1ZLV0hlT0FwaTNVaTRrOExzNTNveDhBdDc4NkdUbkRjQVQyUkVxTkFlelNlcThWeG9WYnhQSFFWTUdLYVplYUZlZVAxVXJ5b2txV1RCdVZnbVowaEtxTDQwNmlB?oc=5",
+      "source": "Google News:KSS",
       "kind": "news"
     }
   ]
