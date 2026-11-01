@@ -1,38 +1,74 @@
 {
-  "title": "FS新聞 11-01 06:29",
-  "list_name": "FirstScreen_2026-11-01_062909_comma.txt",
-  "created_at": "2026-11-01T06:29:17.981110+00:00",
+  "title": "FS新聞 11-01 11:39",
+  "list_name": "FirstScreen_2026-11-01_113948_comma.txt",
+  "created_at": "2026-11-01T11:39:56.960589+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "VLTO",
-      "short": "VLTO — 業績／指引：Does Veralto (VLTO) Still Look Undervalued After Raised Guidance?",
-      "detail": "VLTO\n重點：業績／指引\n標題：Does Veralto (VLTO) Still Look Undervalued After Raised Guidance?\n摘要：Veralto has delivered a solid multi year share price run, and the recent upswing now puts a sharper spotlight on a simple question for investors: Does the current US$111.10 price tag line up with the cash flows the business is expected to generate over time? Over the past 3 year…\n來源：Yahoo Finance:VLTO\n其他：Earnings Beat Might Change The Case For Veralto (VLTO) Stock; Earnings Beat Might Change The Case For Veralto (VLTO) Stoc…; Veralto (VLTO) Stock Price Climbs As Q3 Earnings Reinforce …",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-veralto-vlto-still-look-041934560.html?.tsrc=rss",
-      "source": "Yahoo Finance:VLTO",
+      "symbol": "GPC",
+      "short": "GPC — Genuine Parts Company $GPC Stock Sold by ProShare Advisors LLC - MarketBeat",
+      "detail": "GPC\n重點：新聞\n標題：Genuine Parts Company $GPC Stock Sold by ProShare Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOV09EaVkzRVpMR2gzNmh3S0MxdExfT2Vtb085eG5vYWUzMFF5R1ROeG9EVjNJQUQ1eU92M3k2dkg0UWxLTk05MWE4SkxYcmUtSkQ4dzN4R2pjTjdSNVc0cEpLUm9LbWJ5YnkxUzFBbWU0OE13bDdLUW5fa2UxVGRpXzV2S2F6TGViemRCVDhEV0hWWS1jTm9xdERkSF9zVERfcUpKXzJtanJSb…\n來源：Google News:GPC\n其他：Can Genuine Parts Company (NYSE:GPC) Protect Its Dividend R…",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV09EaVkzRVpMR2gzNmh3S0MxdExfT2Vtb085eG5vYWUzMFF5R1ROeG9EVjNJQUQ1eU92M3k2dkg0UWxLTk05MWE4SkxYcmUtSkQ4dzN4R2pjTjdSNVc0cEpLUm9LbWJ5YnkxUzFBbWU0OE13bDdLUW5fa2UxVGRpXzV2S2F6TGViemRCVDhEV0hWWS1jTm9xdERkSF9zVERfcUpKXzJtanJSbmpPam5SeUU2UldSY0pwd3FFVUpxWQ?oc=5",
+      "source": "Google News:GPC",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "THC",
-      "short": "THC — 業績／指引：Raised Guidance Might Change The Case For Investing In Tenet Healthcare Stock (THC)",
-      "detail": "THC\n重點：業績／指引\n標題：Raised Guidance Might Change The Case For Investing In Tenet Healthcare Stock (THC)\n摘要：Tenet Healthcare reported third quarter 2026 sales of US$5.63b and net income of US$1.0b, alongside nine month net income of US$2.53b, and raised full year guidance for revenue, earnings and diluted EPS. Management credited higher acuity procedures in United Surgical Partners In…\n來源：Yahoo Finance:THC\n其他：5% Above Fair Value? Tenet Healthcare (THC) On Raised 2026 …; How Investors May Respond To Tenet Healthcare (THC) Raised …",
-      "url": "https://finance.yahoo.com/healthcare/articles/raised-guidance-might-change-case-051725251.html?.tsrc=rss",
-      "source": "Yahoo Finance:THC",
+      "symbol": "LNG",
+      "short": "LNG — Cheniere Energy, Inc. $LNG Shares Newly Acquired by International Assets Investment Man…",
+      "detail": "LNG\n重點：新聞\n標題：Cheniere Energy, Inc. $LNG Shares Newly Acquired by International Assets Investment Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNC0zUGc3SDltakVCUVFwbUxQUUR4bms3MEZUQ2ZyT01SWEZib0JZYnhpd3RYYWtJeVdqaWRiakxvMUJrVXVEcDRfdWMyS1lObjFJbkxuMHgyVmdUdTBnYmlpQXR2TnlieGIwWnJpWkk3Sm81bUJaeUxHbGw4eHlJeDh1XzJPM01KWTVieUtGNFN0R1BJaVExX182S1FoQUo5V01URE9XMnRYc…\n來源：Google News:LNG\n其他：What Cheniere Energy (LNG)'s Raised Guidance Means For Shar…",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNC0zUGc3SDltakVCUVFwbUxQUUR4bms3MEZUQ2ZyT01SWEZib0JZYnhpd3RYYWtJeVdqaWRiakxvMUJrVXVEcDRfdWMyS1lObjFJbkxuMHgyVmdUdTBnYmlpQXR2TnlieGIwWnJpWkk3Sm81bUJaeUxHbGw4eHlJeDh1XzJPM01KWTVieUtGNFN0R1BJaVExX182S1FoQUo5V01URE9XMnRYcm9Qalh3ZWpHMFNJa1J5eUNYNHhISlYySmxCa08yOXZCamUwcUlfMmhnQ2M3Qkg3MTJBLWtnR1o1R0p3bWF0eFJLVA?oc=5",
+      "source": "Google News:LNG",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "LNG",
-      "short": "LNG — 業績／指引：What Cheniere Energy (LNG)'s Raised Guidance Means For Shareholders",
-      "detail": "LNG\n重點：業績／指引\n標題：What Cheniere Energy (LNG)'s Raised Guidance Means For Shareholders\n摘要：Cheniere Energy reported third quarter 2026 revenue of US$6.17b and net income of US$1.17b, raised full year 2026 earnings guidance, and declared a higher quarterly dividend of US$0.625 per share payable in November 2026. The combination of upgraded guidance, Corpus Christi expa…\n來源：Yahoo Finance:LNG\n其他：Cheniere Energy (LNG) Stock Fair Value Edges Higher After A…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cheniere-energy-lng-raised-guidance-060657179.html?.tsrc=rss",
-      "source": "Yahoo Finance:LNG",
+      "symbol": "OXY",
+      "short": "OXY — Occidental Petroleum Corporation $OXY Shares Acquired by Parcion Private Wealth LLC - M…",
+      "detail": "OXY\n重點：新聞\n標題：Occidental Petroleum Corporation $OXY Shares Acquired by Parcion Private Wealth LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWTdUTnVNeWNXSW1FSnlyWUs0dF9XNjZkUFJ1cW9YZzJYVlBpTmtyQXNNU3JOWlphQ3pOYnhkYXZ3Xy1uZFZLeldqZkc2R21fd1hMd0N0SHRXUHV0eTdZeFJ0dzF4N0pCVnktZi1xcDRlYjJpWEEwcUZVeDZnMVh2bTZwZk56QU5OWE5CX3hWTkN6Rm1TcGIyYWFqOXRDNXV3emlXNnhfMHAwT…\n來源：Google News:OXY\n其他：Occidental Petroleum Corporation $OXY Holdings Trimmed by C…",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWTdUTnVNeWNXSW1FSnlyWUs0dF9XNjZkUFJ1cW9YZzJYVlBpTmtyQXNNU3JOWlphQ3pOYnhkYXZ3Xy1uZFZLeldqZkc2R21fd1hMd0N0SHRXUHV0eTdZeFJ0dzF4N0pCVnktZi1xcDRlYjJpWEEwcUZVeDZnMVh2bTZwZk56QU5OWE5CX3hWTkN6Rm1TcGIyYWFqOXRDNXV3emlXNnhfMHAwTmFJTnRYQVVYbk5OWXVGQUQtaWZMVWZQOHZQbWpGS09YRUNoeGx4OWh3TWttTkdhTDA?oc=5",
+      "source": "Google News:OXY",
       "kind": "news"
     },
     {
       "n": 4,
+      "symbol": "ROST",
+      "short": "ROST — Ross Stores, Inc. $ROST Holdings Boosted by International Assets Investment Management …",
+      "detail": "ROST\n重點：新聞\n標題：Ross Stores, Inc. $ROST Holdings Boosted by International Assets Investment Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU3FzQzQ2MlVQTmlsOENnakZWNXZVbWo4eFp3dmlBM19CUkJ0RXI4eG5iVmVsRWM3eVo2d0hFSXFJVFBmdUI3cjczNHlfUmdSVWpSQkVSTHVxVHVLaF9YUjRXMmxrSzNyMzF5cFdLeENpTWN0TXFwUDhkQ3ZoZkhkVW50Y1JsdnBDOWEyMnpMZXpFQmtLVFY2YV9MZjZLcDZSOHM0YUNIUTM4R…\n來源：Google News:ROST\n其他：Wall Street Zen Upgrades Ross Stores (NASDAQ:ROST) to Buy -…",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU3FzQzQ2MlVQTmlsOENnakZWNXZVbWo4eFp3dmlBM19CUkJ0RXI4eG5iVmVsRWM3eVo2d0hFSXFJVFBmdUI3cjczNHlfUmdSVWpSQkVSTHVxVHVLaF9YUjRXMmxrSzNyMzF5cFdLeENpTWN0TXFwUDhkQ3ZoZkhkVW50Y1JsdnBDOWEyMnpMZXpFQmtLVFY2YV9MZjZLcDZSOHM0YUNIUTM4RzNZYmtCQlUzZC1mckVxc2pqN0x3VjdyaXJ4YU10aGtaS0hTaHBFWTdReENtNWpheXdoU0tkS2FB?oc=5",
+      "source": "Google News:ROST",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "TGT",
+      "short": "TGT — ProShare Advisors LLC Sells 35,220 Shares of Target Corporation $TGT - MarketBeat",
+      "detail": "TGT\n重點：新聞\n標題：ProShare Advisors LLC Sells 35,220 Shares of Target Corporation $TGT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQdk5pQ0l4Vjhjc25hRTA2NFRPY2RmMF9pem44a2tlOGY2eGNrdllNejlKQ3pqa1NiLUR3MXVVR1VOTUtmQlk2bUd5Nm10cUhKOGhUamNXVXBaX081WnRWNFNNZ2ZZSmVlRXl2SlZXbENET0pTS1pKTkpuWU9kT0wzQVc0TnJrOHpWUTZpWVFqQmRwZjFCbk9qdTk3MjgyQ0V4N1lrendEUXhCS…\n來源：Google News:TGT\n其他：51,906 Target Corporation $TGT Shares Purchased by Internat…",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdk5pQ0l4Vjhjc25hRTA2NFRPY2RmMF9pem44a2tlOGY2eGNrdllNejlKQ3pqa1NiLUR3MXVVR1VOTUtmQlk2bUd5Nm10cUhKOGhUamNXVXBaX081WnRWNFNNZ2ZZSmVlRXl2SlZXbENET0pTS1pKTkpuWU9kT0wzQVc0TnJrOHpWUTZpWVFqQmRwZjFCbk9qdTk3MjgyQ0V4N1lrendEUXhCSzREcG1naXJnVUxMeU9ENE41X0hvNkZIVEZ2QWc?oc=5",
+      "source": "Google News:TGT",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "THC",
+      "short": "THC — 業績／指引：Is Tenet Healthcare (THC) Still A Bargain Or Fully Priced?",
+      "detail": "THC\n重點：業績／指引\n標題：Is Tenet Healthcare (THC) Still A Bargain Or Fully Priced?\n摘要：Tenet Healthcare has turned into one of the stronger performers in the hospital sector over recent years, which naturally raises a sharper question for investors. Is the current share price still grounded in the company’s earnings profile or has sentiment moved ahead of the unde…\n來源：Yahoo Finance:THC\n其他：Raised Guidance Might Change The Case For Investing In Tene…",
+      "url": "https://finance.yahoo.com/healthcare/articles/tenet-healthcare-thc-still-bargain-081318039.html?.tsrc=rss",
+      "source": "Yahoo Finance:THC",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "VLTO",
+      "short": "VLTO — 業績／指引：Veralto (VLTO) Jumps After Earnings, Is The Upside Already Priced In?",
+      "detail": "VLTO\n重點：業績／指引\n標題：Veralto (VLTO) Jumps After Earnings, Is The Upside Already Priced In?\n摘要：Veralto (VLTO) just posted its third quarter 2026 results, reporting higher sales, net income and earnings per share, along with fresh details on its ongoing share repurchase activity. Veralto’s latest earnings update has been met with clear enthusiasm, with a 1-day share price …\n來源：Yahoo Finance:VLTO\n其他：Does Veralto (VLTO) Still Look Undervalued After Raised Gui…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/veralto-vlto-jumps-earnings-upside-101328204.html?.tsrc=rss",
+      "source": "Yahoo Finance:VLTO",
+      "kind": "news"
+    },
+    {
+      "n": 8,
       "symbol": "ADT",
       "short": "ADT — 併購／交易：ADT (ADT) Has A 20% Overvaluation View As Its $10 Buyout Nears",
       "detail": "ADT\n重點：併購／交易\n標題：ADT (ADT) Has A 20% Overvaluation View As Its $10 Buyout Nears\n摘要：ADT (ADT) is suddenly in play. Thrive Holdings has agreed to acquire the security provider in an all cash deal at $10 a share, valuing the business at $15.3b including debt. The stock has swung sharply on the deal news, with a 7 day share price return of 42.9% and a 30 day move …\n來源：Yahoo Finance:ADT",
@@ -41,48 +77,39 @@
       "kind": "news"
     },
     {
-      "n": 5,
-      "symbol": "FTNT",
-      "short": "FTNT — 業績／指引：Fortinet, Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:FTNT) 2026-10-31 …",
-      "detail": "FTNT\n重點：業績／指引\n標題：Fortinet, Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:FTNT) 2026-10-31 - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0lEUVNSOEFPT1AzeEtvWjAyaUs1bWtySVZ1a2w3NWNmVGgtWk1nVEVoeU53VWZVOWlscmV0Z1BLc3p1ZzVCRlFxWVJlYUh2ZEJ6ZndHUU9iblh0WlYzNi1nbGZ3Qm9HaHVyVXlrU2I0UC1scExHNjVYY1RXZk9vUGJLc080QTE0aW0tb09JNDMweDhyRjIwejJtdmE?oc=5\" target=\"_bl…\n來源：Google News:FTNT",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0lEUVNSOEFPT1AzeEtvWjAyaUs1bWtySVZ1a2w3NWNmVGgtWk1nVEVoeU53VWZVOWlscmV0Z1BLc3p1ZzVCRlFxWVJlYUh2ZEJ6ZndHUU9iblh0WlYzNi1nbGZ3Qm9HaHVyVXlrU2I0UC1scExHNjVYY1RXZk9vUGJLc080QTE0aW0tb09JNDMweDhyRjIwejJtdmE?oc=5",
-      "source": "Google News:FTNT",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "LW",
-      "short": "LW — 業績／指引：Does Lamb Weston Holdings (LW) Look Fully Valued Despite Antitrust Risk?",
-      "detail": "LW\n重點：業績／指引\n標題：Does Lamb Weston Holdings (LW) Look Fully Valued Despite Antitrust Risk?\n摘要：Lamb Weston Holdings has bounced recently, with the share price at US$54.08 after a sharp reset in prior years, which puts fresh attention on whether that recovery lines up with what the business is actually earning. With investors also watching ongoing antitrust litigation in t…\n來源：Yahoo Finance:LW",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-lamb-weston-holdings-lw-020820394.html?.tsrc=rss",
-      "source": "Yahoo Finance:LW",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "NVCR",
-      "short": "NVCR — 業績／指引：NovoCure Limited 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:NVCR) 2026-10-3…",
-      "detail": "NVCR\n重點：業績／指引\n標題：NovoCure Limited 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:NVCR) 2026-10-31 - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHg3blVtMEFPYmdBWkU0bkRSWUdQbkVGMURiVjZ0NWNERW02U2c3RktfYkJaT09oSGJlc0s0dUNxRzVrbUhKS1FOLWQzRUV6MFdGYkhhM1QyQVNMTFcxM0N0Vjhuck9qbVAtTks2cWgybE5YblprOEhXWXREbGxoNjBpNmJMbjdRM2JzZGExRy1YMU5XLVVqTDg0bE56M2JnLWc?oc=5\" tar…\n來源：Google News:NVCR",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHg3blVtMEFPYmdBWkU0bkRSWUdQbkVGMURiVjZ0NWNERW02U2c3RktfYkJaT09oSGJlc0s0dUNxRzVrbUhKS1FOLWQzRUV6MFdGYkhhM1QyQVNMTFcxM0N0Vjhuck9qbVAtTks2cWgybE5YblprOEhXWXREbGxoNjBpNmJMbjdRM2JzZGExRy1YMU5XLVVqTDg0bE56M2JnLWc?oc=5",
-      "source": "Google News:NVCR",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "ROST",
-      "short": "ROST — Wall Street Zen Upgrades Ross Stores (NASDAQ:ROST) to Buy - MarketBeat",
-      "detail": "ROST\n重點：新聞\n標題：Wall Street Zen Upgrades Ross Stores (NASDAQ:ROST) to Buy - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT3NNdUdYTlM5OENYNUZtNGE0NkpIVF9zc0NaWVhqV2xzbm1aWWxHckRjMGY1c3dpRW9EMGdwOFdKRHBjYmZTemViRy1PSHM2WDEwa3RUalZnLXNOalRKMXJVODJvb2hYRUhwcEFqRV9COGRscUc5aXk1Qldnc090TXpwNWlBaEdDa213TzV1cWZNTHkwajNrVDR2YWZvSm9qOVB2TjU1RjZoV…\n來源：Google News:ROST",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT3NNdUdYTlM5OENYNUZtNGE0NkpIVF9zc0NaWVhqV2xzbm1aWWxHckRjMGY1c3dpRW9EMGdwOFdKRHBjYmZTemViRy1PSHM2WDEwa3RUalZnLXNOalRKMXJVODJvb2hYRUhwcEFqRV9COGRscUc5aXk1Qldnc090TXpwNWlBaEdDa213TzV1cWZNTHkwajNrVDR2YWZvSm9qOVB2TjU1RjZoV3lwSE9ibldRXzdlbVhI?oc=5",
-      "source": "Google News:ROST",
-      "kind": "news"
-    },
-    {
       "n": 9,
-      "symbol": "TTE",
-      "short": "TTE — 業績／指引：TotalEnergies (ENXTPA:TTE) Stock May Be A Bargain On Cronos Gas Progress",
-      "detail": "TTE\n重點：業績／指引\n標題：TotalEnergies (ENXTPA:TTE) Stock May Be A Bargain On Cronos Gas Progress\n摘要：TotalEnergies has delivered a strong run in recent years, which puts sharper focus on whether the current share price lines up with what its earnings can support. With that performance on the board and fresh project news in the background, the question now is how much of those p…\n來源：Yahoo Finance:TTE",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/totalenergies-enxtpa-tte-stock-may-032029276.html?.tsrc=rss",
-      "source": "Yahoo Finance:TTE",
+      "symbol": "ALSN",
+      "short": "ALSN — 業績／指引：Allison Transmission (ALSN) Q3 earnings report preview: what to look for",
+      "detail": "ALSN\n重點：業績／指引\n標題：Allison Transmission (ALSN) Q3 earnings report preview: what to look for\n摘要：Transmission provider Allison Transmission (NYSE:ALSN) will be announcing earnings results this Monday after market close. Here’s what to expect.\n來源：Yahoo Finance:ALSN",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/allison-transmission-alsn-q3-earnings-081900821.html?.tsrc=rss",
+      "source": "Yahoo Finance:ALSN",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "ANET",
+      "short": "ANET — Arista Networks, Inc. $ANET Shares Purchased by Summit Global Investments - MarketBeat",
+      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Shares Purchased by Summit Global Investments - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOS01qU0tYSmpOVkY2YmJ4bFFNYmt2dWFKYlg1eVN4ZVVyQXJ0WHpfbW91dDctQ3dTNkVSTFhhSmFDV0dROHdoTS1NYVU4QlE5bFRvenJNRU1uQWVaZ2JQbjZOWWZaQU03aFhpTTIwZWxKX2dmMlI3dHBTdnZXMnB1YnEyMTFuZE1rczJtdXZuNEp6SHVNdmQxSDNrdmZOVXF5T0J5RmFIS2pvc…\n來源：Google News:ANET",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS01qU0tYSmpOVkY2YmJ4bFFNYmt2dWFKYlg1eVN4ZVVyQXJ0WHpfbW91dDctQ3dTNkVSTFhhSmFDV0dROHdoTS1NYVU4QlE5bFRvenJNRU1uQWVaZ2JQbjZOWWZaQU03aFhpTTIwZWxKX2dmMlI3dHBTdnZXMnB1YnEyMTFuZE1rczJtdXZuNEp6SHVNdmQxSDNrdmZOVXF5T0J5RmFIS2pvcERpTWczWlpxWVhkX0pKQ3JuNkNmU0g4VmpDaXFUb3p6Yw?oc=5",
+      "source": "Google News:ANET",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "BNY",
+      "short": "BNY — Bank of New York Mellon Corporation $BNY Stock Purchased by Summit Global Investments -…",
+      "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon Corporation $BNY Stock Purchased by Summit Global Investments - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaTBsTk1hX3FXelJPZHpjRlNQXzRkbEV4QmVLb21hVkVFejd2bG1LMjFfb1pLOF9pVEpNeWk0YnFYNXQwUXZfTGFHUzIwdjk2czBqd05XcHY0TjRkOWhPTUw2UDRhaHRQNGQyajctR2FDSTNzYXFJZzk0bjhpcVJoRExuVE1UZmI2eWY1SUt5SFU0UlROMzRsQnJVcWZpSEZ2VC1sc3QtNmZyR…\n來源：Google News:BNY",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaTBsTk1hX3FXelJPZHpjRlNQXzRkbEV4QmVLb21hVkVFejd2bG1LMjFfb1pLOF9pVEpNeWk0YnFYNXQwUXZfTGFHUzIwdjk2czBqd05XcHY0TjRkOWhPTUw2UDRhaHRQNGQyajctR2FDSTNzYXFJZzk0bjhpcVJoRExuVE1UZmI2eWY1SUt5SFU0UlROMzRsQnJVcWZpSEZ2VC1sc3QtNmZyRVQ1aG9HUElnSDRQSEplRWVJRkt5aU1xbms3TlFiclJYRkxYekI5TTBjMzFEaVBMZ2h6dXc?oc=5",
+      "source": "Google News:BNY",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "COF",
+      "short": "COF — Capital One Financial Corporation $COF Shares Bought by International Assets Investment…",
+      "detail": "COF\n重點：新聞\n標題：Capital One Financial Corporation $COF Shares Bought by International Assets Investment Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRzY1TXBwVjF0T1V5UDhXQ185TFd1MXE2MDhlQ09PRHVtLUlvUUFuNld6Q1I1VWFFcGd6M0lIMnM4bE1KR0pyVjJNZVlTZ0Q5TVloZ2UyY29kUVJud0Z0OHpjcTV0dFRYUDdXNWUyc3hCbGZtOWI3VkRmQnlBNGVtVmNoNXhNUTk5Smlwak1TTGNEelA2cEZLdXhyME1MRFpsZ3k1d3Z0LXZia…\n來源：Google News:COF",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRzY1TXBwVjF0T1V5UDhXQ185TFd1MXE2MDhlQ09PRHVtLUlvUUFuNld6Q1I1VWFFcGd6M0lIMnM4bE1KR0pyVjJNZVlTZ0Q5TVloZ2UyY29kUVJud0Z0OHpjcTV0dFRYUDdXNWUyc3hCbGZtOWI3VkRmQnlBNGVtVmNoNXhNUTk5Smlwak1TTGNEelA2cEZLdXhyME1MRFpsZ3k1d3Z0LXZianNCWXpVeXNtcXJ3NG9CVk5hbmJIT2NnamRoVjY2STk2b01ZS0NQb29Eb3dVdkhVNmVEQVluX1pZYldPbXVGU3lWVXU2Q0Z6c3Jz?oc=5",
+      "source": "Google News:COF",
       "kind": "news"
     }
   ]
