@@ -1,52 +1,115 @@
 {
-  "title": "FS新聞 11-02 06:30",
-  "list_name": "FirstScreen_2026-11-02_063004_comma.txt",
-  "created_at": "2026-11-02T06:30:11.658555+00:00",
+  "title": "FS新聞 11-02 13:04",
+  "list_name": "FirstScreen_2026-11-02_130424_comma.txt",
+  "created_at": "2026-11-02T13:04:32.142010+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "A",
-      "short": "A — 業績／指引：Weekly Market Wrap: Intel’s 29% crash turned Big Tech earnings into a stock-market sell…",
-      "detail": "A\n重點：業績／指引\n標題：Weekly Market Wrap: Intel’s 29% crash turned Big Tech earnings into a stock-market sell-off - Mitrade\n摘要：<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBySVVoc0FhQXN0YURLZEVUNVczYnhfNzFkM2NpdDBzMHNmYW12QW1Kc00zMEJ2UUU1T3FrcDBTTFZxbzZ6ODZuUm4xVnZsYXU0YS1yNmYycEJqTnpWbWV6RWdEQ3lnd3JlV3NIWFZ0UnA0UQ?oc=5\" target=\"_blank\">Weekly Market Wrap: Intel’s 29% crash turned Big Tec…\n來源：Google News:A",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBySVVoc0FhQXN0YURLZEVUNVczYnhfNzFkM2NpdDBzMHNmYW12QW1Kc00zMEJ2UUU1T3FrcDBTTFZxbzZ6ODZuUm4xVnZsYXU0YS1yNmYycEJqTnpWbWV6RWdEQ3lnd3JlV3NIWFZ0UnA0UQ?oc=5",
-      "source": "Google News:A",
+      "symbol": "EL",
+      "short": "EL — 業績／指引：Estée Lauder Shares Rise 5.2% as Q1 Earnings Beat Forecasts and FY2027 Outlook Improves",
+      "detail": "EL\n重點：業績／指引\n標題：Estée Lauder Shares Rise 5.2% as Q1 Earnings Beat Forecasts and FY2027 Outlook Improves\n摘要：The Estée Lauder Companies Inc. (NYSE:EL) shares climbed 5.\n來源：Yahoo Finance:EL\n其他：Estee Lauder stock jumps on earnings beat and raised outlook; LAUDER (ESTEE)S ($EL) Releases Q1 2027 Earnings - Quiver Qu…; Estee Lauder (EL) Tops Q1 Earnings and Revenue Estimates",
+      "url": "https://investorshub.advfn.com/market-news/article/39027/estee-lauder-shares-rise-5-2-as-q1-earnings-beat-forecasts-and-fy2027-outlook-improves?.tsrc=rss",
+      "source": "Yahoo Finance:EL",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "GEN",
-      "short": "GEN — 業績／指引：Gen Digital Inc. 2027 Q2 - Results - Earnings Call Presentation (NASDAQ:GEN) 2026-11-01…",
-      "detail": "GEN\n重點：業績／指引\n標題：Gen Digital Inc. 2027 Q2 - Results - Earnings Call Presentation (NASDAQ:GEN) 2026-11-01 - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVlFxVVBkOGM3T3pxYUxOdEtnX3FsYndxLWRocEZXenV3bVh3Z1JLbGpSNU1jQmJEdldvN1RrSWttbVEyaGV4XzRUMXViUTA2b21GZ1NES3ZxS0lLWmxEX2hGNHYyZlBTNkliWXF5MGxSVi1tOHBXUkluYlZIU2hGclhBX2pjN0hhYXROOEdDNV82NkZDUko1RnRkQzlxUEta?oc=5\" target…\n來源：Google News:GEN",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVlFxVVBkOGM3T3pxYUxOdEtnX3FsYndxLWRocEZXenV3bVh3Z1JLbGpSNU1jQmJEdldvN1RrSWttbVEyaGV4XzRUMXViUTA2b21GZ1NES3ZxS0lLWmxEX2hGNHYyZlBTNkliWXF5MGxSVi1tOHBXUkluYlZIU2hGclhBX2pjN0hhYXROOEdDNV82NkZDUko1RnRkQzlxUEta?oc=5",
-      "source": "Google News:GEN",
+      "symbol": "ANET",
+      "short": "ANET — Arista Networks, Inc. $ANET Stock: ProShare Advisors LLC Boosts Position - MarketBeat",
+      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Stock: ProShare Advisors LLC Boosts Position - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeXA5UXZ6cmJHWWg2a01sX1NKY0p4bklMTURKanlHQ19jazBrdDZMS01MMTNwSXhGbVlGZFNrQjM4TmNYYjBKNU1SRFBSOTlremZUek5PUjJxSXVkNFpNbVVWY1k5eDVGQlhYS0VhMl81ckZ4ZnBZc01RMjdCUjdYalBlOUFGV3RpbV8wcVVEazJVd0NtMTlOMVlqVWtWS3RTNTFXYVZOSWhXU…\n來源：Google News:ANET\n其他：Vise Technologies Inc. Purchases 45,012 Shares of Arista Ne…",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeXA5UXZ6cmJHWWg2a01sX1NKY0p4bklMTURKanlHQ19jazBrdDZMS01MMTNwSXhGbVlGZFNrQjM4TmNYYjBKNU1SRFBSOTlremZUek5PUjJxSXVkNFpNbVVWY1k5eDVGQlhYS0VhMl81ckZ4ZnBZc01RMjdCUjdYalBlOUFGV3RpbV8wcVVEazJVd0NtMTlOMVlqVWtWS3RTNTFXYVZOSWhXUHUtbmdkb1dBbG5uTGpyU2UxV00yMUFmQzc4eFNqTA?oc=5",
+      "source": "Google News:ANET",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "GPC",
-      "short": "GPC — Can Genuine Parts (NYSE:GPC) Protect Its Dividend Record? - Kalkine Media",
-      "detail": "GPC\n重點：新聞\n標題：Can Genuine Parts (NYSE:GPC) Protect Its Dividend Record? - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxObjItbThYLXY4bld4NmlKcGtPeEtTdzFzeGdlM3BFcWxzR0lCMWw5SWRxbm1uY3RnUFJSOFJkLUhBNWo3TjhvTHZpY2lTaHVnUFdvWFZNaElRVXM5dFRLOUxWVHhHT2VzMnNBYVBzVWRweFpITnJaV182NHQ0b3JleXVWZnhKU1QzNjZTWUNjRkxzanZJRTBCOEpDNC1HZw?oc=5\" target=\"…\n來源：Google News:GPC",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObjItbThYLXY4bld4NmlKcGtPeEtTdzFzeGdlM3BFcWxzR0lCMWw5SWRxbm1uY3RnUFJSOFJkLUhBNWo3TjhvTHZpY2lTaHVnUFdvWFZNaElRVXM5dFRLOUxWVHhHT2VzMnNBYVBzVWRweFpITnJaV182NHQ0b3JleXVWZnhKU1QzNjZTWUNjRkxzanZJRTBCOEpDNC1HZw?oc=5",
-      "source": "Google News:GPC",
+      "symbol": "BKNG",
+      "short": "BKNG — Glenview Trust Co Sells 8,975 Shares of Booking Holdings Inc. $BKNG - MarketBeat",
+      "detail": "BKNG\n重點：新聞\n標題：Glenview Trust Co Sells 8,975 Shares of Booking Holdings Inc. $BKNG - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPejY2Y1lWVExieTRya2h4cGo0aVhKOEZtZTBFcUtrdnd4aHk3Z0hMVGRzUDNFSXNWdjk4aXl5WVlXaW8zQUlEUVhTME9jWDlnVHh1U05sRTVzSXBTVFpHZzdESGRUS01Ra2FzRnFjazNuc2VwUWFXUi1vVGRjTWhOOXVtRFhEdmdrUXZCbFZLNVBmSGxhMkJtZUUwTFJLWkVWMkxiOEx3VTA4N…\n來源：Google News:BKNG\n其他：Booking earnings: what to look for from BKNG",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPejY2Y1lWVExieTRya2h4cGo0aVhKOEZtZTBFcUtrdnd4aHk3Z0hMVGRzUDNFSXNWdjk4aXl5WVlXaW8zQUlEUVhTME9jWDlnVHh1U05sRTVzSXBTVFpHZzdESGRUS01Ra2FzRnFjazNuc2VwUWFXUi1vVGRjTWhOOXVtRFhEdmdrUXZCbFZLNVBmSGxhMkJtZUUwTFJLWkVWMkxiOEx3VTA4NFdYN29ZOTV0bzkwOFUweHVIQUV0MTNzdFE?oc=5",
+      "source": "Google News:BKNG",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "LNG",
-      "short": "LNG — 業績／指引：Earnings Guidance Raise Change The Bull Case For Cheniere Energy (LNG)? - Simply Wall St",
-      "detail": "LNG\n重點：業績／指引\n標題：Earnings Guidance Raise Change The Bull Case For Cheniere Energy (LNG)? - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUHBZc2tWRjA4VUE4QTJXNVh3MEVsQWxDaGRCdGJCZTFHbFNyeVdxaVR6NnRmMU5yaWVaR1NSS1BNbzc0SXNMV2VSRWlCQW9tYkwtU2d6OXhqanpGU1FGbVlCNk9uY2lZa196QVVWWUdOamdmOWVuSHFpYUl5X2tOVDdKNUgwVzlkZkpKM3lfTy1DWFlRZW5iVnBNNUhOMUtXZHNFM3V1QWxoR…\n來源：Google News:LNG",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUHBZc2tWRjA4VUE4QTJXNVh3MEVsQWxDaGRCdGJCZTFHbFNyeVdxaVR6NnRmMU5yaWVaR1NSS1BNbzc0SXNMV2VSRWlCQW9tYkwtU2d6OXhqanpGU1FGbVlCNk9uY2lZa196QVVWWUdOamdmOWVuSHFpYUl5X2tOVDdKNUgwVzlkZkpKM3lfTy1DWFlRZW5iVnBNNUhOMUtXZHNFM3V1QWxoRmRYRGlxZG9keHVsQTdYRHlnT0lRSExxaXVtdjFQbNIBzgFBVV95cUxNdDFRQ0ZBYUlRSFNFaDlWdWc4ZTJQbG9GaGZLSW9rU3RJUExRLXNIcnN4X3VUNzYwempfdnhsWmlXNzk5SjVHc3hvUHg3Q0UyNEtDUjlXMjA3QkxfUEQ0SFd4ZVZrTl9oRDdia3ZxZzgzMzdSa0Nrc2JVU3RhRi1SUXVRUVJ6dlZ3bGw4R1MzbUFBaDZ4a3ZWdGI1cnN1b0dlU3lmLW4yQjh5cUpjVTBPdVpmb0tiZEx5emYyWWVRNV9kZ0tPclkzaTlSc29uUQ?oc=5",
-      "source": "Google News:LNG",
+      "symbol": "COF",
+      "short": "COF — 66,987 Capital One Financial Corporation $COF Shares Sold by Sumitomo Mitsui Trust Grou…",
+      "detail": "COF\n重點：新聞\n標題：66,987 Capital One Financial Corporation $COF Shares Sold by Sumitomo Mitsui Trust Group Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM1phNVpPOVlCUmNMX3pVLUxzUHo5cHIyOE5ENzY1cWxSaWZySmxiQ0dQZm1IT0tkUGNJWkFjcWh4RS1fZll0QTBqb2NNU2lXU19RRzN5WkM0anRKZjlYR3c4LThEeGlsc21ZSUpTLVJxOWRSckRkRm9TWGRkWGV6dloyNVRscjNTVm0tM3RSZk1yWTdUSDFheUlXMnFIS2ZUS2pZWGpiZndxc…\n來源：Google News:COF\n其他：Capital One Financial Corporation $COF Stock: Vise Technolo…",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM1phNVpPOVlCUmNMX3pVLUxzUHo5cHIyOE5ENzY1cWxSaWZySmxiQ0dQZm1IT0tkUGNJWkFjcWh4RS1fZll0QTBqb2NNU2lXU19RRzN5WkM0anRKZjlYR3c4LThEeGlsc21ZSUpTLVJxOWRSckRkRm9TWGRkWGV6dloyNVRscjNTVm0tM3RSZk1yWTdUSDFheUlXMnFIS2ZUS2pZWGpiZndxcllOY2ZjRG9KanQzNFI3SnVFYWZpUURxLThrUHJPenBmRmZQR0tCWVJUeGdIWkFSTlpXV3piLWlMRms4Zw?oc=5",
+      "source": "Google News:COF",
       "kind": "news"
     },
     {
       "n": 5,
+      "symbol": "LNG",
+      "short": "LNG — Cheniere Energy, Inc. $LNG Stock Holdings Lessened by VIRGINIA RETIREMENT SYSTEMS ET Al…",
+      "detail": "LNG\n重點：新聞\n標題：Cheniere Energy, Inc. $LNG Stock Holdings Lessened by VIRGINIA RETIREMENT SYSTEMS ET Al - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeUNWV1hNRmdBY2M1dFRhNVBQeGcwSzFHcXVSRXNUamVOOXFCRkR5djZMX2J4a2tfWWJ1ZUl3Q1ZEMmlDNmNmeXZMTEhaUkxsbW04N0MwYTc5N1FaN2pjNDdfOURIR28zRkVjVXVNR1g5NFFzZzlqR01wWXhDVzFlTnF5WTBOVHdkcVc2bmY3ckZ6SnR6cWtJcEVYUHJ1bXVMQ29wd2dwQk8yd…\n來源：Google News:LNG\n其他：Cheniere Energy, Inc. $LNG Holdings Decreased by Hennessy A…",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeUNWV1hNRmdBY2M1dFRhNVBQeGcwSzFHcXVSRXNUamVOOXFCRkR5djZMX2J4a2tfWWJ1ZUl3Q1ZEMmlDNmNmeXZMTEhaUkxsbW04N0MwYTc5N1FaN2pjNDdfOURIR28zRkVjVXVNR1g5NFFzZzlqR01wWXhDVzFlTnF5WTBOVHdkcVc2bmY3ckZ6SnR6cWtJcEVYUHJ1bXVMQ29wd2dwQk8ydjQyemtYMWwzVkl1b2w0MlhmQ3Rlbzl2ZlB0aFJ4UFFndTZfdGI2ZGV1bVNXbXU2TllsTkE?oc=5",
+      "source": "Google News:LNG",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "PYPL",
+      "short": "PYPL — PayPal Holdings, Inc. $PYPL Holdings Increased by International Assets Investment Manag…",
+      "detail": "PYPL\n重點：新聞\n標題：PayPal Holdings, Inc. $PYPL Holdings Increased by International Assets Investment Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNEU5Z2RVeS1KaW14MUk2cENMaXZoRXFkSFdVeXNhNGh1YWotcDQ0UEp1dGNseTNCSG5WM3k1MUxsV3A5S0l4d0d3aUdya0t6eVVLRWpZcVhQVWNIbVc0aXZfV2tIdEt0N3prc3ItWWZ4ZzU0RzIwclpuRTlpMWhNbjdhRnBjZm5LdGJrSUNqdXJQNXlBd3VXV2UwQjd2MnhUdG1vLUYwckc2Z…\n來源：Google News:PYPL\n其他：Zacks Industry Outlook Highlights Visa, Mastercard, PayPal,…",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNEU5Z2RVeS1KaW14MUk2cENMaXZoRXFkSFdVeXNhNGh1YWotcDQ0UEp1dGNseTNCSG5WM3k1MUxsV3A5S0l4d0d3aUdya0t6eVVLRWpZcVhQVWNIbVc0aXZfV2tIdEt0N3prc3ItWWZ4ZzU0RzIwclpuRTlpMWhNbjdhRnBjZm5LdGJrSUNqdXJQNXlBd3VXV2UwQjd2MnhUdG1vLUYwckc2ZGJXdXJpZVBIZ0ZYSFcydUtlY0kzT2ZQV3U3OUhuS1B6UFI1M0wtbTN5dXgtcHRjclV0LVI2UDZzcVNWOWZVZ0E?oc=5",
+      "source": "Google News:PYPL",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "ROST",
+      "short": "ROST — Ross Stores, Inc. $ROST Shares Purchased by ProShare Advisors LLC - MarketBeat",
+      "detail": "ROST\n重點：新聞\n標題：Ross Stores, Inc. $ROST Shares Purchased by ProShare Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN2lJSW5fUkVTbkk2aHZGNW1Ea1ZVamtnSDBYQjJwbC1Ld2NuX21qMGRBMU11QTlfazc2M3ZJdEtpMUZGbGxOS0NvUWRhSjBsOHowUUFfb093VXFRV3FERS05ZElUT0F0a1RWckE4VU1rSTBwYW9TemtNVlBwZzdSb3NMM1JGSnh5cDhqbXhVVlFUWTZmX0U2T3l5THZwbjh5dFF6R2EzOWJ6Z…\n來源：Google News:ROST\n其他：Ross Stores, Inc. $ROST Stock Sold by Soltis Investment Adv…",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN2lJSW5fUkVTbkk2aHZGNW1Ea1ZVamtnSDBYQjJwbC1Ld2NuX21qMGRBMU11QTlfazc2M3ZJdEtpMUZGbGxOS0NvUWRhSjBsOHowUUFfb093VXFRV3FERS05ZElUT0F0a1RWckE4VU1rSTBwYW9TemtNVlBwZzdSb3NMM1JGSnh5cDhqbXhVVlFUWTZmX0U2T3l5THZwbjh5dFF6R2EzOWJ6ZjhPN2lQZmZKOTRmT0U4T25xc0NGcmw?oc=5",
+      "source": "Google News:ROST",
+      "kind": "news"
+    },
+    {
+      "n": 8,
       "symbol": "SLB",
-      "short": "SLB — SLB (SLB) Stock Could Be 35% Undervalued After Strong Q3 Outlook - Simply Wall St",
-      "detail": "SLB\n重點：新聞\n標題：SLB (SLB) Stock Could Be 35% Undervalued After Strong Q3 Outlook - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOcGI2ZnJKX2JQLUxCT19FcG5nSVdBS0JjUlE2M21zcVFRbjZoRlU4M0RrSkxmUlRjY3hPNDBzVUUxRW13SFhOTGliNE5SVHJrOGV6R2hnbWFUZFlqTUVBVmVpdE1Ed1NicEZxRkoxZmtsejZ2endjejRiSU9RalRsMzRvSVZ3a3ZyUHI0LXZ1dUp4WXB4ZU5ScHlSdjZIQkgzc1Vvbl9UTUkzU…\n來源：Google News:SLB",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcGI2ZnJKX2JQLUxCT19FcG5nSVdBS0JjUlE2M21zcVFRbjZoRlU4M0RrSkxmUlRjY3hPNDBzVUUxRW13SFhOTGliNE5SVHJrOGV6R2hnbWFUZFlqTUVBVmVpdE1Ed1NicEZxRkoxZmtsejZ2endjejRiSU9RalRsMzRvSVZ3a3ZyUHI0LXZ1dUp4WXB4ZU5ScHlSdjZIQkgzc1Vvbl9UTUkzUkV6YUY0aXZoX3oySU96SDhSMElB0gG-AUFVX3lxTE5wYjZmckpfYlAtTEJPX0VwbmdJV0FLQmNSUTYzbXNxUVFuNmhGVTgzRGtKTGZSVGNjeE80MHNVRTFFbXdIWE5MaWI0TlJUcms4ZXpHaGdtYVRkWWpNRUFWZWl0TUR3U2JwRnFGSjFma2x6NnZ6d2N6NGJJT1FqVGwzNG9JVndrdnJQcjQtdnV1SnhZcHhlTlJweVJ2NkhCSDNzVW9uX1RNSTNSRXphRjRpdmhfejJJT3pIOFIwSUE?oc=5",
+      "short": "SLB — 25,071 SLB Limited $SLB Shares Sold by Sumitomo Mitsui Trust Group Inc. - MarketBeat",
+      "detail": "SLB\n重點：新聞\n標題：25,071 SLB Limited $SLB Shares Sold by Sumitomo Mitsui Trust Group Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWlVsdHJQSmJHU25kbHJMR1lyUllFUi1INXBmeWtEWUlYSUNpc2xCYlU2amdRMy1VUTV5N3ZSMkNvTXBJSDRpZWc2OGhKRm1scUNhRzF6dXZZbkY1RGNuYWJUdUM1Z2w2WGxUSjRKaTBSOGVmeHktT2djTjhfaWRrX2c5ak0yeGtVdk81emtnR2s3bHdLOWNGSTliR2tFRmZrUjBQNmVReFBBc…\n來源：Google News:SLB\n其他：SLB Limited $SLB Stock: Park Avenue Securities LLC Reduces …",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWlVsdHJQSmJHU25kbHJMR1lyUllFUi1INXBmeWtEWUlYSUNpc2xCYlU2amdRMy1VUTV5N3ZSMkNvTXBJSDRpZWc2OGhKRm1scUNhRzF6dXZZbkY1RGNuYWJUdUM1Z2w2WGxUSjRKaTBSOGVmeHktT2djTjhfaWRrX2c5ak0yeGtVdk81emtnR2s3bHdLOWNGSTliR2tFRmZrUjBQNmVReFBBcXZhTkV4NWprVEdrcTQycENaRTlKNldDY3JCYy05dg?oc=5",
       "source": "Google News:SLB",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "ADT",
+      "short": "ADT — 業績／指引：Earnings to watch: ADT (ADT) reports Q3 results tomorrow",
+      "detail": "ADT\n重點：業績／指引\n標題：Earnings to watch: ADT (ADT) reports Q3 results tomorrow\n摘要：Security technology and services company ADT (NYSE:ADT) will be reporting earnings this Tuesday before market hours. Here’s what to look for.\n來源：Yahoo Finance:ADT",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-adt-adt-reports-074136927.html?.tsrc=rss",
+      "source": "Yahoo Finance:ADT",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "BNY",
+      "short": "BNY — Bank of New York Mellon Corporation $BNY Shares Sold by Sumitomo Mitsui Trust Group Inc…",
+      "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon Corporation $BNY Shares Sold by Sumitomo Mitsui Trust Group Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcnFnd09YTzhWaGlzMDJobGdLVkdfcjJkanFfTVEzeVRkV01DY0szVDUtRDI4X1l3QzNOLTFnZEsyZnFPVFRtS0R3ZFZRSVZiYWhzM1A3RXVGTEJzdXlrb0t3SHVhWGI3TzRFNUR1cUdKaFA3RVh0VHZJNkdZclczZG9ESkF0WEFXcExrNGxtcElGa2xtanR2UHVVdzVvTHhycEdsX0FNd1pjR…\n來源：Google News:BNY",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcnFnd09YTzhWaGlzMDJobGdLVkdfcjJkanFfTVEzeVRkV01DY0szVDUtRDI4X1l3QzNOLTFnZEsyZnFPVFRtS0R3ZFZRSVZiYWhzM1A3RXVGTEJzdXlrb0t3SHVhWGI3TzRFNUR1cUdKaFA3RVh0VHZJNkdZclczZG9ESkF0WEFXcExrNGxtcElGa2xtanR2UHVVdzVvTHhycEdsX0FNd1pjRS15UFp6aTZXQ3BXaVppZmZDSXRaMk5VNGw1UzJCOGU2WHN3MVlUR2poRFhZNzZzNmdIVDZsXw?oc=5",
+      "source": "Google News:BNY",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "CRM",
+      "short": "CRM — Salesforce Inc. $CRM Stock Sold by Greenleaf Trust - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stock Sold by Greenleaf Trust - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlV2N051c3MzaGtMRE1WQmxYYzhPR3Q1bDhOV0t5WmRGeXYxSEg1S0xhb2g3Zm5ETnFKbDQzX2tEaF9ERElvUFhBbVByRWpjSGFRTWF2S1lUN1p2dzRJRUhKOTFBb2xYSEExZEZiem52dVpVVXJsM2RIS0liM2pvdldCT1J4WHVKd1R2T1FSZlFDc3dwX09WUFBIT2Zab2J0VDVHcmR6UUlyQ…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlV2N051c3MzaGtMRE1WQmxYYzhPR3Q1bDhOV0t5WmRGeXYxSEg1S0xhb2g3Zm5ETnFKbDQzX2tEaF9ERElvUFhBbVByRWpjSGFRTWF2S1lUN1p2dzRJRUhKOTFBb2xYSEExZEZiem52dVpVVXJsM2RIS0liM2pvdldCT1J4WHVKd1R2T1FSZlFDc3dwX09WUFBIT2Zab2J0VDVHcmR6UUlyQXpIc2c?oc=5",
+      "source": "Google News:CRM",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "FRSH",
+      "short": "FRSH — 業績／指引：Freshworks (FRSH) reports Q3: everything you need to know ahead of earnings",
+      "detail": "FRSH\n重點：業績／指引\n標題：Freshworks (FRSH) reports Q3: everything you need to know ahead of earnings\n摘要：Business software provider Freshworks (NASDAQ:FRSH) will be announcing earnings results this Tuesday after market hours. Here’s what to expect.\n來源：Yahoo Finance:FRSH",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/freshworks-frsh-reports-q3-everything-113336623.html?.tsrc=rss",
+      "source": "Yahoo Finance:FRSH",
       "kind": "news"
     }
   ]
