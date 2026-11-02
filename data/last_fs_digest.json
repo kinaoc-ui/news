@@ -1,115 +1,52 @@
 {
-  "title": "FS新聞 11-01 16:40",
-  "list_name": "FirstScreen_2026-11-01_164040_comma.txt",
-  "created_at": "2026-11-01T16:40:50.181764+00:00",
+  "title": "FS新聞 11-02 06:30",
+  "list_name": "FirstScreen_2026-11-02_063004_comma.txt",
+  "created_at": "2026-11-02T06:30:11.658555+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "ANET",
-      "short": "ANET — Arista Networks, Inc. $ANET Shares Sold by Sumitomo Mitsui Trust Group Inc. - MarketBeat",
-      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Shares Sold by Sumitomo Mitsui Trust Group Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQSnp6Y1dwMDNNUHdWRENiaHF4enFQb0pGMy0yaWRtbXlHSHBDcHltUHBJUXczNHpkeURRcUgtazZUbHBOLUhPV0hKQ2dfaEtaeGwteEowWXAyUmc2WE9NaGd4MmdsVVVGM2I5dkNVMk02bG0yTmJMd0I1UC1QenlSbWtBVUpudXA1bEMzS0dJUFRKb05pNkl5RjZlNmV4eDJOdmJqNnlkVVR2T…\n來源：Google News:ANET\n其他：Arista Networks, Inc. $ANET Shares Purchased by Summit Glob…",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSnp6Y1dwMDNNUHdWRENiaHF4enFQb0pGMy0yaWRtbXlHSHBDcHltUHBJUXczNHpkeURRcUgtazZUbHBOLUhPV0hKQ2dfaEtaeGwteEowWXAyUmc2WE9NaGd4MmdsVVVGM2I5dkNVMk02bG0yTmJMd0I1UC1QenlSbWtBVUpudXA1bEMzS0dJUFRKb05pNkl5RjZlNmV4eDJOdmJqNnlkVVR2TmN3ZXdpRzBZbmtScklYeVl1ZWFhS0wtaG9tLVN5cVVOREE?oc=5",
-      "source": "Google News:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 2,
-      "symbol": "BKNG",
-      "short": "BKNG — Booking Holdings Inc. $BKNG Stake Trimmed by Sumitomo Mitsui Trust Group Inc. - MarketB…",
-      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Stake Trimmed by Sumitomo Mitsui Trust Group Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTmF0WWF4N01JODZ2Y25UMHhVRVprblZrWmg0MzlCeXE0bHJEOWh2VU9ZNWRLMy1NN1FFSXozT01UNEtjTGxUMGR4NVJia0l1UnMzQ0d2cG9Bd2pMZE5ubE0xczRTZ09PeFhIY2s3M2JIREFOT29vVmxsb21YQnBjcGNTWGdXU2p6MHV0LUpIb0lYalVzd0RCZjROVF9nT3g2dTZORm9hSWVmN…\n來源：Google News:BKNG\n其他：582,880 Shares in Booking Holdings Inc. $BKNG Bought by Mir…",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTmF0WWF4N01JODZ2Y25UMHhVRVprblZrWmg0MzlCeXE0bHJEOWh2VU9ZNWRLMy1NN1FFSXozT01UNEtjTGxUMGR4NVJia0l1UnMzQ0d2cG9Bd2pMZE5ubE0xczRTZ09PeFhIY2s3M2JIREFOT29vVmxsb21YQnBjcGNTWGdXU2p6MHV0LUpIb0lYalVzd0RCZjROVF9nT3g2dTZORm9hSWVmNmd0Rlh6Qzc5WjdlX3JHdkhlR0FFR2pfWkIwU0Q0QmdoOHQ3Qm9J?oc=5",
-      "source": "Google News:BKNG",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce Inc. $CRM Stock Sold by Profund Advisors LLC - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stock Sold by Profund Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0p3Ui00UHBFZ21wdngwOUx0emdSWlpPUFR4TWg0dDZTaXJYQVhqMjBZNWFYbGpMSWdmWG9yUDJkQnVKMmphMzBMeFBRckFhV1A2dnctQ0p4dTJYM3ZtVEplSHNjVUpYUmpfTVBhNzd0Si1pMlIwTVhXTlFZN09XRGo5ZVM1TFlvQ05sY2RrZ3dOX2ZyczZxVmxTSk1zQV85cmNkNDFSU3M1Q…\n來源：Google News:CRM\n其他：Salesforce Inc. $CRM Stock: Glenview Trust Co Lowers Stake …",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0p3Ui00UHBFZ21wdngwOUx0emdSWlpPUFR4TWg0dDZTaXJYQVhqMjBZNWFYbGpMSWdmWG9yUDJkQnVKMmphMzBMeFBRckFhV1A2dnctQ0p4dTJYM3ZtVEplSHNjVUpYUmpfTVBhNzd0Si1pMlIwTVhXTlFZN09XRGo5ZVM1TFlvQ05sY2RrZ3dOX2ZyczZxVmxTSk1zQV85cmNkNDFSU3M1QVVKQWExWnpVVGQ?oc=5",
-      "source": "Google News:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "INTU",
-      "short": "INTU — Intuit Inc. $INTU Stock Bought by International Assets Investment Management LLC - Mark…",
-      "detail": "INTU\n重點：新聞\n標題：Intuit Inc. $INTU Stock Bought by International Assets Investment Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ0JRMlZZWXotZE5MTTR4U0RhSW1aRUp3QkdKUXBEbnJEd0VSZmhVTGE2Q1YxLVZGOGdUZW96ZGZibS1WclN6N2xiNERVQUhOYl9ObHo2LVBpbVRLcUFVcEl4NExJWElXMXpNbXFUNnN6SWxGLVRzUURKLWU0NTVQRjlyTi1kbVZ6WDJsWU83SzF5dEowS0Q2YUgtbGpReEt2R1dnYU5ySVlLe…\n來源：Google News:INTU\n其他：11,781 Shares of Intuit Inc. $INTU Bought by Aviance Capita…",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ0JRMlZZWXotZE5MTTR4U0RhSW1aRUp3QkdKUXBEbnJEd0VSZmhVTGE2Q1YxLVZGOGdUZW96ZGZibS1WclN6N2xiNERVQUhOYl9ObHo2LVBpbVRLcUFVcEl4NExJWElXMXpNbXFUNnN6SWxGLVRzUURKLWU0NTVQRjlyTi1kbVZ6WDJsWU83SzF5dEowS0Q2YUgtbGpReEt2R1dnYU5ySVlLelI5cDV4R3RodU1UUTZWS1RkXzg2VDRNZFF5Vy1RUUJrMFd0amh0a0M5cmpR?oc=5",
-      "source": "Google News:INTU",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "TGT",
-      "short": "TGT — ProShare Advisors LLC Sells 35,220 Shares of Target Corporation $TGT - MarketBeat",
-      "detail": "TGT\n重點：新聞\n標題：ProShare Advisors LLC Sells 35,220 Shares of Target Corporation $TGT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQdk5pQ0l4Vjhjc25hRTA2NFRPY2RmMF9pem44a2tlOGY2eGNrdllNejlKQ3pqa1NiLUR3MXVVR1VOTUtmQlk2bUd5Nm10cUhKOGhUamNXVXBaX081WnRWNFNNZ2ZZSmVlRXl2SlZXbENET0pTS1pKTkpuWU9kT0wzQVc0TnJrOHpWUTZpWVFqQmRwZjFCbk9qdTk3MjgyQ0V4N1lrendEUXhCS…\n來源：Google News:TGT\n其他：51,906 Target Corporation $TGT Shares Purchased by Internat…",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdk5pQ0l4Vjhjc25hRTA2NFRPY2RmMF9pem44a2tlOGY2eGNrdllNejlKQ3pqa1NiLUR3MXVVR1VOTUtmQlk2bUd5Nm10cUhKOGhUamNXVXBaX081WnRWNFNNZ2ZZSmVlRXl2SlZXbENET0pTS1pKTkpuWU9kT0wzQVc0TnJrOHpWUTZpWVFqQmRwZjFCbk9qdTk3MjgyQ0V4N1lrendEUXhCSzREcG1naXJnVUxMeU9ENE41X0hvNkZIVEZ2QWc?oc=5",
-      "source": "Google News:TGT",
-      "kind": "news"
-    },
-    {
-      "n": 6,
       "symbol": "A",
-      "short": "A — 業績／指引：A Stock Market Smackdown Week: Elections, Jobs Data, Iran And Earnings - Investor's Bus…",
-      "detail": "A\n重點：業績／指引\n標題：A Stock Market Smackdown Week: Elections, Jobs Data, Iran And Earnings - Investor's Business Daily\n摘要：<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHBzeXBHbWkwcWR3ZkV0WElJWWxaTGZDdm1rdmhMMVRnekZOUHhEcy1UVjhydmZaeWkyWTNNUVBmYzYzSjFMMzdaVzhiM3RlNUpTeU5iRUNxdXc5bkN0NUI4M2tpbXFzTnZuYWotRDVaenE0MkFUejhHNlVhbWJkdUFLcFEtYVFTWk1laUtORUt6Z2lXelFEbW9TUDVGVE8y?oc=5\" target…\n來源：Google News:A",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHBzeXBHbWkwcWR3ZkV0WElJWWxaTGZDdm1rdmhMMVRnekZOUHhEcy1UVjhydmZaeWkyWTNNUVBmYzYzSjFMMzdaVzhiM3RlNUpTeU5iRUNxdXc5bkN0NUI4M2tpbXFzTnZuYWotRDVaenE0MkFUejhHNlVhbWJkdUFLcFEtYVFTWk1laUtORUt6Z2lXelFEbW9TUDVGVE8y?oc=5",
+      "short": "A — 業績／指引：Weekly Market Wrap: Intel’s 29% crash turned Big Tech earnings into a stock-market sell…",
+      "detail": "A\n重點：業績／指引\n標題：Weekly Market Wrap: Intel’s 29% crash turned Big Tech earnings into a stock-market sell-off - Mitrade\n摘要：<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBySVVoc0FhQXN0YURLZEVUNVczYnhfNzFkM2NpdDBzMHNmYW12QW1Kc00zMEJ2UUU1T3FrcDBTTFZxbzZ6ODZuUm4xVnZsYXU0YS1yNmYycEJqTnpWbWV6RWdEQ3lnd3JlV3NIWFZ0UnA0UQ?oc=5\" target=\"_blank\">Weekly Market Wrap: Intel’s 29% crash turned Big Tec…\n來源：Google News:A",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBySVVoc0FhQXN0YURLZEVUNVczYnhfNzFkM2NpdDBzMHNmYW12QW1Kc00zMEJ2UUU1T3FrcDBTTFZxbzZ6ODZuUm4xVnZsYXU0YS1yNmYycEJqTnpWbWV6RWdEQ3lnd3JlV3NIWFZ0UnA0UQ?oc=5",
       "source": "Google News:A",
       "kind": "news"
     },
     {
-      "n": 7,
-      "symbol": "AEO",
-      "short": "AEO — 業績／指引：American Eagle Outfitters (AEO) Following Earnings Beats Looks Cheap Versus Peers - Sim…",
-      "detail": "AEO\n重點：業績／指引\n標題：American Eagle Outfitters (AEO) Following Earnings Beats Looks Cheap Versus Peers - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaXZjZzJYRVk0VWd6U3FJZldwc2dPV2dVSEk1QjhUZHFQYzF2SU1WNzVvTWNhd2lrb180VTF1a2FNdGptSlp6SERMaC1xMV9uSS1mNDl4dTRlZXNRNm9UN0dTdGdRcjFmQjJ1LWJNUmFKS3hZWmdiNXl2bFNLVFY0ZThRYk1KNXJzOW12Q1oyalNYVnV5bVpjQ2RwOVFVU3A4b1F2N2pUZFRsM…\n來源：Google News:AEO",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaXZjZzJYRVk0VWd6U3FJZldwc2dPV2dVSEk1QjhUZHFQYzF2SU1WNzVvTWNhd2lrb180VTF1a2FNdGptSlp6SERMaC1xMV9uSS1mNDl4dTRlZXNRNm9UN0dTdGdRcjFmQjJ1LWJNUmFKS3hZWmdiNXl2bFNLVFY0ZThRYk1KNXJzOW12Q1oyalNYVnV5bVpjQ2RwOVFVU3A4b1F2N2pUZFRsMnZmVDBHcXBKMm9jd1h2SzhaNzBIaUJVQkVPSlB4TlZuQ2lSSW9VeG5nZHZB0gHbAUFVX3lxTE9ESVY3OWFXb0d4TE5EN2JGcDBwcnBCWXJkSVowajBscHBQRllkUFh1UThwSy1EcGdEN2RiVHI1emFrUzhfcXNRQmd4ZEVlQ0h1aGZHVVpKRElxc3p0VWpyb2ttVVBKSnZFWlhfaU5CYlF0TmdhNEF4dEg1YjhUdXB4ZWp6dVZRakhqUmRHOVhzRUFRQnhPZEE0Slk4MllteEx6MDRMLXp5VDRldXJIWFhqY0dXN3hGeWJKNndScmZwaXdIWFVXb1dpc0pIODdqY082WVNrVVZCUkZlVQ?oc=5",
-      "source": "Google News:AEO",
+      "n": 2,
+      "symbol": "GEN",
+      "short": "GEN — 業績／指引：Gen Digital Inc. 2027 Q2 - Results - Earnings Call Presentation (NASDAQ:GEN) 2026-11-01…",
+      "detail": "GEN\n重點：業績／指引\n標題：Gen Digital Inc. 2027 Q2 - Results - Earnings Call Presentation (NASDAQ:GEN) 2026-11-01 - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVlFxVVBkOGM3T3pxYUxOdEtnX3FsYndxLWRocEZXenV3bVh3Z1JLbGpSNU1jQmJEdldvN1RrSWttbVEyaGV4XzRUMXViUTA2b21GZ1NES3ZxS0lLWmxEX2hGNHYyZlBTNkliWXF5MGxSVi1tOHBXUkluYlZIU2hGclhBX2pjN0hhYXROOEdDNV82NkZDUko1RnRkQzlxUEta?oc=5\" target…\n來源：Google News:GEN",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVlFxVVBkOGM3T3pxYUxOdEtnX3FsYndxLWRocEZXenV3bVh3Z1JLbGpSNU1jQmJEdldvN1RrSWttbVEyaGV4XzRUMXViUTA2b21GZ1NES3ZxS0lLWmxEX2hGNHYyZlBTNkliWXF5MGxSVi1tOHBXUkluYlZIU2hGclhBX2pjN0hhYXROOEdDNV82NkZDUko1RnRkQzlxUEta?oc=5",
+      "source": "Google News:GEN",
       "kind": "news"
     },
     {
-      "n": 8,
-      "symbol": "BNY",
-      "short": "BNY — Bank of New York Mellon Corporation $BNY Stock Purchased by Summit Global Investments -…",
-      "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon Corporation $BNY Stock Purchased by Summit Global Investments - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaTBsTk1hX3FXelJPZHpjRlNQXzRkbEV4QmVLb21hVkVFejd2bG1LMjFfb1pLOF9pVEpNeWk0YnFYNXQwUXZfTGFHUzIwdjk2czBqd05XcHY0TjRkOWhPTUw2UDRhaHRQNGQyajctR2FDSTNzYXFJZzk0bjhpcVJoRExuVE1UZmI2eWY1SUt5SFU0UlROMzRsQnJVcWZpSEZ2VC1sc3QtNmZyR…\n來源：Google News:BNY",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaTBsTk1hX3FXelJPZHpjRlNQXzRkbEV4QmVLb21hVkVFejd2bG1LMjFfb1pLOF9pVEpNeWk0YnFYNXQwUXZfTGFHUzIwdjk2czBqd05XcHY0TjRkOWhPTUw2UDRhaHRQNGQyajctR2FDSTNzYXFJZzk0bjhpcVJoRExuVE1UZmI2eWY1SUt5SFU0UlROMzRsQnJVcWZpSEZ2VC1sc3QtNmZyRVQ1aG9HUElnSDRQSEplRWVJRkt5aU1xbms3TlFiclJYRkxYekI5TTBjMzFEaVBMZ2h6dXc?oc=5",
-      "source": "Google News:BNY",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "COF",
-      "short": "COF — Capital One Financial Corporation $COF Shares Bought by International Assets Investment…",
-      "detail": "COF\n重點：新聞\n標題：Capital One Financial Corporation $COF Shares Bought by International Assets Investment Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRzY1TXBwVjF0T1V5UDhXQ185TFd1MXE2MDhlQ09PRHVtLUlvUUFuNld6Q1I1VWFFcGd6M0lIMnM4bE1KR0pyVjJNZVlTZ0Q5TVloZ2UyY29kUVJud0Z0OHpjcTV0dFRYUDdXNWUyc3hCbGZtOWI3VkRmQnlBNGVtVmNoNXhNUTk5Smlwak1TTGNEelA2cEZLdXhyME1MRFpsZ3k1d3Z0LXZia…\n來源：Google News:COF",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRzY1TXBwVjF0T1V5UDhXQ185TFd1MXE2MDhlQ09PRHVtLUlvUUFuNld6Q1I1VWFFcGd6M0lIMnM4bE1KR0pyVjJNZVlTZ0Q5TVloZ2UyY29kUVJud0Z0OHpjcTV0dFRYUDdXNWUyc3hCbGZtOWI3VkRmQnlBNGVtVmNoNXhNUTk5Smlwak1TTGNEelA2cEZLdXhyME1MRFpsZ3k1d3Z0LXZianNCWXpVeXNtcXJ3NG9CVk5hbmJIT2NnamRoVjY2STk2b01ZS0NQb29Eb3dVdkhVNmVEQVluX1pZYldPbXVGU3lWVXU2Q0Z6c3Jz?oc=5",
-      "source": "Google News:COF",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "DEO",
-      "short": "DEO — Diageo plc $DEO Stock: Grandfield & Dodd LLC Trims Stake - MarketBeat",
-      "detail": "DEO\n重點：新聞\n標題：Diageo plc $DEO Stock: Grandfield & Dodd LLC Trims Stake - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNV0JvUC1vQmtZalI0LWZZdUVocUVFeXJ1eUpHSVZuZTJfOVBENDNDR1FJVkw1ckh3azhXSHNMZUtrM3FXRTZHdVpOY2V4UEVFMUR4Z1JhQXhUVHpYTlJ0dksySlFuclJGUDE4VDhkcU5QVkFUcXNncjNTMTJsVW05MUdqbjFQbE9oZzh0LTBfaTdPc2FzdExVWktBcE5SS0QyTWg2UFVyWXFlR…\n來源：Google News:DEO",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV0JvUC1vQmtZalI0LWZZdUVocUVFeXJ1eUpHSVZuZTJfOVBENDNDR1FJVkw1ckh3azhXSHNMZUtrM3FXRTZHdVpOY2V4UEVFMUR4Z1JhQXhUVHpYTlJ0dksySlFuclJGUDE4VDhkcU5QVkFUcXNncjNTMTJsVW05MUdqbjFQbE9oZzh0LTBfaTdPc2FzdExVWktBcE5SS0QyTWg2UFVyWXFlRmRfRDY0OGw3NA?oc=5",
-      "source": "Google News:DEO",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "FTNT",
-      "short": "FTNT — Fortinet, Inc. $FTNT Stock: ProShare Advisors LLC Boosts Holdings - MarketBeat",
-      "detail": "FTNT\n重點：新聞\n標題：Fortinet, Inc. $FTNT Stock: ProShare Advisors LLC Boosts Holdings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQbEVUX3ZwcGM1QUpJbTBoOWlub2R3TjZWQ1BCNVI0TWdaNi16S1pWNXlsbEZGOWFza0R0YjhJX2ZoaXVWOHlOc0gwNmNzR2pPZTlROUNBcEJ2WGh5WmI2WXRPUzluVUx0VlFnQTFDNFozaE40N0Y2TmMxX2FCc0xQLW40WnF1blF3cFZWaWMyTlFpRUJDa0FIVWRzQWpxZHpEWlR5cU5YT194N…\n來源：Google News:FTNT",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbEVUX3ZwcGM1QUpJbTBoOWlub2R3TjZWQ1BCNVI0TWdaNi16S1pWNXlsbEZGOWFza0R0YjhJX2ZoaXVWOHlOc0gwNmNzR2pPZTlROUNBcEJ2WGh5WmI2WXRPUzluVUx0VlFnQTFDNFozaE40N0Y2TmMxX2FCc0xQLW40WnF1blF3cFZWaWMyTlFpRUJDa0FIVWRzQWpxZHpEWlR5cU5YT194NXZtcnRmZkc0QVNtNVVoNW1aTkFwQQ?oc=5",
-      "source": "Google News:FTNT",
-      "kind": "news"
-    },
-    {
-      "n": 12,
+      "n": 3,
       "symbol": "GPC",
-      "short": "GPC — Genuine Parts Company $GPC Stock Sold by ProShare Advisors LLC - MarketBeat",
-      "detail": "GPC\n重點：新聞\n標題：Genuine Parts Company $GPC Stock Sold by ProShare Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOV09EaVkzRVpMR2gzNmh3S0MxdExfT2Vtb085eG5vYWUzMFF5R1ROeG9EVjNJQUQ1eU92M3k2dkg0UWxLTk05MWE4SkxYcmUtSkQ4dzN4R2pjTjdSNVc0cEpLUm9LbWJ5YnkxUzFBbWU0OE13bDdLUW5fa2UxVGRpXzV2S2F6TGViemRCVDhEV0hWWS1jTm9xdERkSF9zVERfcUpKXzJtanJSb…\n來源：Google News:GPC",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV09EaVkzRVpMR2gzNmh3S0MxdExfT2Vtb085eG5vYWUzMFF5R1ROeG9EVjNJQUQ1eU92M3k2dkg0UWxLTk05MWE4SkxYcmUtSkQ4dzN4R2pjTjdSNVc0cEpLUm9LbWJ5YnkxUzFBbWU0OE13bDdLUW5fa2UxVGRpXzV2S2F6TGViemRCVDhEV0hWWS1jTm9xdERkSF9zVERfcUpKXzJtanJSbmpPam5SeUU2UldSY0pwd3FFVUpxWQ?oc=5",
+      "short": "GPC — Can Genuine Parts (NYSE:GPC) Protect Its Dividend Record? - Kalkine Media",
+      "detail": "GPC\n重點：新聞\n標題：Can Genuine Parts (NYSE:GPC) Protect Its Dividend Record? - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxObjItbThYLXY4bld4NmlKcGtPeEtTdzFzeGdlM3BFcWxzR0lCMWw5SWRxbm1uY3RnUFJSOFJkLUhBNWo3TjhvTHZpY2lTaHVnUFdvWFZNaElRVXM5dFRLOUxWVHhHT2VzMnNBYVBzVWRweFpITnJaV182NHQ0b3JleXVWZnhKU1QzNjZTWUNjRkxzanZJRTBCOEpDNC1HZw?oc=5\" target=\"…\n來源：Google News:GPC",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObjItbThYLXY4bld4NmlKcGtPeEtTdzFzeGdlM3BFcWxzR0lCMWw5SWRxbm1uY3RnUFJSOFJkLUhBNWo3TjhvTHZpY2lTaHVnUFdvWFZNaElRVXM5dFRLOUxWVHhHT2VzMnNBYVBzVWRweFpITnJaV182NHQ0b3JleXVWZnhKU1QzNjZTWUNjRkxzanZJRTBCOEpDNC1HZw?oc=5",
       "source": "Google News:GPC",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "LNG",
+      "short": "LNG — 業績／指引：Earnings Guidance Raise Change The Bull Case For Cheniere Energy (LNG)? - Simply Wall St",
+      "detail": "LNG\n重點：業績／指引\n標題：Earnings Guidance Raise Change The Bull Case For Cheniere Energy (LNG)? - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUHBZc2tWRjA4VUE4QTJXNVh3MEVsQWxDaGRCdGJCZTFHbFNyeVdxaVR6NnRmMU5yaWVaR1NSS1BNbzc0SXNMV2VSRWlCQW9tYkwtU2d6OXhqanpGU1FGbVlCNk9uY2lZa196QVVWWUdOamdmOWVuSHFpYUl5X2tOVDdKNUgwVzlkZkpKM3lfTy1DWFlRZW5iVnBNNUhOMUtXZHNFM3V1QWxoR…\n來源：Google News:LNG",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUHBZc2tWRjA4VUE4QTJXNVh3MEVsQWxDaGRCdGJCZTFHbFNyeVdxaVR6NnRmMU5yaWVaR1NSS1BNbzc0SXNMV2VSRWlCQW9tYkwtU2d6OXhqanpGU1FGbVlCNk9uY2lZa196QVVWWUdOamdmOWVuSHFpYUl5X2tOVDdKNUgwVzlkZkpKM3lfTy1DWFlRZW5iVnBNNUhOMUtXZHNFM3V1QWxoRmRYRGlxZG9keHVsQTdYRHlnT0lRSExxaXVtdjFQbNIBzgFBVV95cUxNdDFRQ0ZBYUlRSFNFaDlWdWc4ZTJQbG9GaGZLSW9rU3RJUExRLXNIcnN4X3VUNzYwempfdnhsWmlXNzk5SjVHc3hvUHg3Q0UyNEtDUjlXMjA3QkxfUEQ0SFd4ZVZrTl9oRDdia3ZxZzgzMzdSa0Nrc2JVU3RhRi1SUXVRUVJ6dlZ3bGw4R1MzbUFBaDZ4a3ZWdGI1cnN1b0dlU3lmLW4yQjh5cUpjVTBPdVpmb0tiZEx5emYyWWVRNV9kZ0tPclkzaTlSc29uUQ?oc=5",
+      "source": "Google News:LNG",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "SLB",
+      "short": "SLB — SLB (SLB) Stock Could Be 35% Undervalued After Strong Q3 Outlook - Simply Wall St",
+      "detail": "SLB\n重點：新聞\n標題：SLB (SLB) Stock Could Be 35% Undervalued After Strong Q3 Outlook - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOcGI2ZnJKX2JQLUxCT19FcG5nSVdBS0JjUlE2M21zcVFRbjZoRlU4M0RrSkxmUlRjY3hPNDBzVUUxRW13SFhOTGliNE5SVHJrOGV6R2hnbWFUZFlqTUVBVmVpdE1Ed1NicEZxRkoxZmtsejZ2endjejRiSU9RalRsMzRvSVZ3a3ZyUHI0LXZ1dUp4WXB4ZU5ScHlSdjZIQkgzc1Vvbl9UTUkzU…\n來源：Google News:SLB",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcGI2ZnJKX2JQLUxCT19FcG5nSVdBS0JjUlE2M21zcVFRbjZoRlU4M0RrSkxmUlRjY3hPNDBzVUUxRW13SFhOTGliNE5SVHJrOGV6R2hnbWFUZFlqTUVBVmVpdE1Ed1NicEZxRkoxZmtsejZ2endjejRiSU9RalRsMzRvSVZ3a3ZyUHI0LXZ1dUp4WXB4ZU5ScHlSdjZIQkgzc1Vvbl9UTUkzUkV6YUY0aXZoX3oySU96SDhSMElB0gG-AUFVX3lxTE5wYjZmckpfYlAtTEJPX0VwbmdJV0FLQmNSUTYzbXNxUVFuNmhGVTgzRGtKTGZSVGNjeE80MHNVRTFFbXdIWE5MaWI0TlJUcms4ZXpHaGdtYVRkWWpNRUFWZWl0TUR3U2JwRnFGSjFma2x6NnZ6d2N6NGJJT1FqVGwzNG9JVndrdnJQcjQtdnV1SnhZcHhlTlJweVJ2NkhCSDNzVW9uX1RNSTNSRXphRjRpdmhfejJJT3pIOFIwSUE?oc=5",
+      "source": "Google News:SLB",
       "kind": "news"
     }
   ]
