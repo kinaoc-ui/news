@@ -1,106 +1,115 @@
 {
-  "title": "FS新聞 11-04 06:45",
-  "list_name": "FirstScreen_2026-11-04_064512_comma.txt",
-  "created_at": "2026-11-04T06:45:21.077788+00:00",
+  "title": "FS新聞 11-04 12:45",
+  "list_name": "FirstScreen_2026-11-04_124551_comma.txt",
+  "created_at": "2026-11-04T12:45:59.352561+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "ALSN",
+      "short": "ALSN — 業績／指引：Allison Transmission (ALSN) Stock May Be 49% Undervalued Despite Raised Guidance",
+      "detail": "ALSN\n重點：業績／指引\n標題：Allison Transmission (ALSN) Stock May Be 49% Undervalued Despite Raised Guidance\n摘要：Allison Transmission Holdings has delivered a very strong run over the past few years, which puts a spotlight on whether the current share price lines up with the cash the business is expected to generate. With the company leaning heavily on its ability to turn earnings into cas…\n來源：Yahoo Finance:ALSN\n其他：Allison Transmission (ALSN) Stock May Be 49% Undervalued De…; Allison Transmission (NYSE:ALSN) Stock Crosses Above Two Hu…; Allison Transmission Holdings (ALSN) Raised Full Year 2026 …",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/allison-transmission-alsn-stock-may-091240971.html?.tsrc=rss",
+      "source": "Yahoo Finance:ALSN",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "TRMB",
+      "short": "TRMB — 業績／指引：Trimble (NASDAQ:TRMB) posts Q3 2026 sales in line with estimates but stock drops",
+      "detail": "TRMB\n重點：業績／指引\n標題：Trimble (NASDAQ:TRMB) posts Q3 2026 sales in line with estimates but stock drops\n摘要：Geospatial technology provider Trimble (NASDAQ:TRMB) met Wall Street’s revenue expectations in Q3 2026, with revenue up 7.3% year on year to $966.8 million. On the other hand, next quarter’s revenue guidance of $1.05 billion was less impressive, coming in 0.6% below analysts’ co…\n來源：Yahoo Finance:TRMB\n其他：What Does Trimble (TRMB) Gain From Adding Matthew C. Brown …; Trimble: Q3 Earnings Snapshot; Trimble Announces Third Quarter 2026 Results and Updates Fu…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trimble-nasdaq-trmb-posts-q3-121604856.html?.tsrc=rss",
+      "source": "Yahoo Finance:TRMB",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "INTU",
+      "short": "INTU — Intuit Inc. $INTU Shares Purchased by Vise Technologies Inc. - MarketBeat",
+      "detail": "INTU\n重點：新聞\n標題：Intuit Inc. $INTU Shares Purchased by Vise Technologies Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGxwSFE1dDhrak5CUlh3M2xTLUdlamFMcE9WbHBfYzFIUzVzNTdJTlZkXzBRZUgwdm1QSVp6VVBVQUNYT2kzRi1XeDhDMmJMS3ZLTnR1a241dDVsbU1xaVBlQzRHYUc3U3p5LVFDY24tV25YYzNuWDhMaFhkMFJjQkdEblppalh2WlFrbkdyRVUyUExyUGR5MHdRcFNCbExfQjM3TGpHWFVxR…\n來源：Google News:INTU\n其他：7,937 Intuit Inc. $INTU Shares Sold by Lyell Wealth Managem…; Intuit Inc. $INTU Stock Position Boosted by Aware Super Pty…",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGxwSFE1dDhrak5CUlh3M2xTLUdlamFMcE9WbHBfYzFIUzVzNTdJTlZkXzBRZUgwdm1QSVp6VVBVQUNYT2kzRi1XeDhDMmJMS3ZLTnR1a241dDVsbU1xaVBlQzRHYUc3U3p5LVFDY24tV25YYzNuWDhMaFhkMFJjQkdEblppalh2WlFrbkdyRVUyUExyUGR5MHdRcFNCbExfQjM3TGpHWFVxR0pUOXI4NmNpekEzY0UzV1E?oc=5",
+      "source": "Google News:INTU",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "MDT",
+      "short": "MDT — Medtronic PLC $MDT Shares Sold by Factory Mutual Insurance Co. - MarketBeat",
+      "detail": "MDT\n重點：新聞\n標題：Medtronic PLC $MDT Shares Sold by Factory Mutual Insurance Co. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGhmMDlPbDR0VjdzZWlfdnZWUUcxX1IxaWV0cERmZFJvaWV2SzB1SFA4aGNJdWtBazJMZkVDOTA1Zl9ZR2F3cXVTbS1PV0ctQmx5YkI2d0w5QXJlLXk1eUo4a3BORUhlSGdCalhGYzdQa1hQSkRiWGRoOXFZYjZBVnk0Yk1Ld01VZEcxUFlFMHc1OVQxRDF6R2VvWVFrV0ktZmRLOTlWRFA3V…\n來源：Google News:MDT\n其他：Associated Banc Corp Purchases 97,013 Shares of Medtronic P…; Medtronic PLC (NYSE:MDT) Stock Now Rated \"Moderate Buy\" by …",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGhmMDlPbDR0VjdzZWlfdnZWUUcxX1IxaWV0cERmZFJvaWV2SzB1SFA4aGNJdWtBazJMZkVDOTA1Zl9ZR2F3cXVTbS1PV0ctQmx5YkI2d0w5QXJlLXk1eUo4a3BORUhlSGdCalhGYzdQa1hQSkRiWGRoOXFZYjZBVnk0Yk1Ld01VZEcxUFlFMHc1OVQxRDF6R2VvWVFrV0ktZmRLOTlWRFA3VEJzaFZHQl9JM1k2SlR4b1FfSVNn?oc=5",
+      "source": "Google News:MDT",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "STT",
+      "short": "STT — State Street Corporation $STT Shares Newly Bought by Aware Super Pty Ltd as trustee of …",
+      "detail": "STT\n重點：新聞\n標題：State Street Corporation $STT Shares Newly Bought by Aware Super Pty Ltd as trustee of Aware Super - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZDl3TlRCQzdJb3RZNHNfSE1mMkxDa213eEFTM1lBRWNJR0IzNTdRVnVOdjdmbXIwTWRZa3l4V3hiUEQyRk1jRmMyem15bllkRGJ5elZQd2htdWNxbFlPZ2VXVDA2dnQ2MV9Ua2pGcjA3UHNMMDlYN2NoYXh1ajM5MmU5VDhXaDFwYVpPQlRIT0ZITzNVRENpenBvREdKU1Z2Yjctc3VHa1dGW…\n來源：Google News:STT\n其他：State Street Corporation $STT Shares Newly Purchased by Ban…; AIA Group Ltd Acquires 10,078 Shares of State Street Corpor…",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZDl3TlRCQzdJb3RZNHNfSE1mMkxDa213eEFTM1lBRWNJR0IzNTdRVnVOdjdmbXIwTWRZa3l4V3hiUEQyRk1jRmMyem15bllkRGJ5elZQd2htdWNxbFlPZ2VXVDA2dnQ2MV9Ua2pGcjA3UHNMMDlYN2NoYXh1ajM5MmU5VDhXaDFwYVpPQlRIT0ZITzNVRENpenBvREdKU1Z2Yjctc3VHa1dGWVhJWS01Y3l1N1lyZTB2LXI5NHJmd3hfbzd5R1lyaUsyUWpMYzVXd0JNckVaUzZmNDFWd3RMeTBMMndHc1hDMlpoblp1MA?oc=5",
+      "source": "Google News:STT",
+      "kind": "news"
+    },
+    {
+      "n": 6,
       "symbol": "ANET",
       "short": "ANET — AI相關、業績／指引：How Investors Are Reacting To Arista Networks (ANET) Earnings Beat",
-      "detail": "ANET\n重點：AI相關、業績／指引\n標題：How Investors Are Reacting To Arista Networks (ANET) Earnings Beat\n摘要：Arista Networks reported third quarter 2026 revenue of US$3.66b and net income of US$1.56b, with earnings per share ahead of Wall Street forecasts and guidance for the December quarter that management set above analyst expectations. The business lifted its full year outlook, hig…\n來源：Yahoo Finance:ANET\n其他：Arista Networks Inc (ANET) Q3 2026 Earnings Call Highlights…; What Arista Networks (ANET) Said on Its Q3 Earnings Call; Arista Networks (NYSE:ANET) Major Shareholder Sells $45,860…",
+      "detail": "ANET\n重點：AI相關、業績／指引\n標題：How Investors Are Reacting To Arista Networks (ANET) Earnings Beat\n摘要：Arista Networks reported third quarter 2026 revenue of US$3.66b and net income of US$1.56b, with earnings per share ahead of Wall Street forecasts and guidance for the December quarter that management set above analyst expectations. The business lifted its full year outlook, hig…\n來源：Yahoo Finance:ANET\n其他：Arista Networks Inc (ANET) Q3 2026 Earnings Call Highlights…",
       "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-arista-networks-anet-051548858.html?.tsrc=rss",
       "source": "Yahoo Finance:ANET",
       "kind": "news"
     },
     {
-      "n": 2,
-      "symbol": "ALSN",
-      "short": "ALSN — 併購／交易、業績／指引：Allison Transmission Holdings (ALSN) Raised Full Year 2026 Guidance Again",
-      "detail": "ALSN\n重點：併購／交易、業績／指引\n標題：Allison Transmission Holdings (ALSN) Raised Full Year 2026 Guidance Again\n摘要：Allison Transmission Holdings (NYSE: ALSN) reported strong third quarter 2026 results after closing its Allison Off-Highway acquisition. The newly acquired Off-Highway unit contributed to higher revenue in the period and stronger cash generation across the business. Management r…\n來源：Yahoo Finance:ALSN\n其他：Allison Transmission (ALSN) Stock Jumps As Q3 Earnings Fuel…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/allison-transmission-holdings-alsn-raised-062200201.html?.tsrc=rss",
-      "source": "Yahoo Finance:ALSN",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "BKNG",
-      "short": "BKNG — 業績／指引：Booking Q3 Earnings Call Highlights",
-      "detail": "BKNG\n重點：業績／指引\n標題：Booking Q3 Earnings Call Highlights\n摘要：Booking (NASDAQ:BKNG) reported third-quarter results that exceeded the high end of its guidance for room nights, gross bookings, adjusted revenue and adjusted EBITDA, while outlining a more cautious outlook for the fourth quarter amid moderating international travel demand and d…\n來源：Yahoo Finance:BKNG\n其他：BOOKING HOLDINGS ($BKNG) Releases Q3 2026 Earnings - Quiver…",
-      "url": "https://www.marketbeat.com/instant-alerts/transcript-booking-q3-earnings-call-highlights-2026-11-03/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "Yahoo Finance:BKNG",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "FRSH",
-      "short": "FRSH — AI相關、業績／指引：Freshworks Inc (FRSH) Q3 2026 Earnings Call Highlights: Total ARR Tops $1 Billion as Ma…",
-      "detail": "FRSH\n重點：AI相關、業績／指引\n標題：Freshworks Inc (FRSH) Q3 2026 Earnings Call Highlights: Total ARR Tops $1 Billion as Margins ...\n摘要：Freshworks Inc (FRSH) beat revenue and profit estimates with 14% growth and record free cash flow, while EX ARR climbed 22% and AI adoption accelerated.\n來源：Yahoo Finance:FRSH\n其他：What Freshworks (FRSH) Said on Its Q3 Earnings Call",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/freshworks-inc-frsh-q3-2026-050923265.html?.tsrc=rss",
-      "source": "Yahoo Finance:FRSH",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "TARS",
-      "short": "TARS — 業績／指引：Tarsus Pharmaceuticals Q3 Earnings Call Highlights",
-      "detail": "TARS\n重點：業績／指引\n標題：Tarsus Pharmaceuticals Q3 Earnings Call Highlights\n摘要：Tarsus Pharmaceuticals (NASDAQ:TARS) reported record third-quarter sales for XDEMVY and raised its full-year revenue outlook, citing increased patient demand, deeper prescribing activity among eye care professionals and a growing contribution from retreatment prescriptions. XDEM…\n來源：Yahoo Finance:TARS\n其他：Tarsus Pharmaceuticals, Inc. (TARS) Reports Q3 Loss, Tops R…",
-      "url": "https://www.marketbeat.com/instant-alerts/transcript-tarsus-pharmaceuticals-q3-earnings-call-highlights-2026-11-03/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "Yahoo Finance:TARS",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "ADT",
-      "short": "ADT — 併購／交易、業績／指引：ADT: 3 Key Takeaways for Long-Term Investors",
-      "detail": "ADT\n重點：併購／交易、業績／指引\n標題：ADT: 3 Key Takeaways for Long-Term Investors\n摘要：Its recurring monitoring revenue and dealer network matter as much as the buyout price while approvals remain pending.\n來源：Yahoo Finance:ADT",
-      "url": "https://www.fool.com/earnings/takeaways/2026/11/03/adt-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
-      "source": "Yahoo Finance:ADT",
-      "kind": "news"
-    },
-    {
       "n": 7,
-      "symbol": "DNLI",
-      "short": "DNLI — 業績／指引：Denali Therapeutics Q3 Earnings Call Highlights",
-      "detail": "DNLI\n重點：業績／指引\n標題：Denali Therapeutics Q3 Earnings Call Highlights\n摘要：Denali Therapeutics (NASDAQ:DNLI) reported third-quarter 2026 net product revenue of $17.8 million from AVLAYAH, its treatment for Hunter syndrome, as expanding payer coverage and transitions of clinical-trial participants to commercial therapy supported a faster-than-expected l…\n來源：Yahoo Finance:DNLI",
-      "url": "https://www.marketbeat.com/instant-alerts/transcript-denali-therapeutics-q3-earnings-call-highlights-2026-11-03/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "Yahoo Finance:DNLI",
+      "symbol": "BKNG",
+      "short": "BKNG — 14,400 Booking Holdings Inc. $BKNG Shares Bought by Rakuten Investment Management Inc. …",
+      "detail": "BKNG\n重點：新聞\n標題：14,400 Booking Holdings Inc. $BKNG Shares Bought by Rakuten Investment Management Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOE00S0lDeDRkVGZ5Y2d6SzBWQ1ZrY0lJS0p5YTNtcmRVOUtUTVd4Tm9PV2Y0RWNjbzhlcVlldktZUnRXX1BWeE1JRmZqdFJYdmhpemtBaFllei0tRjA2NTBlWk1IMnJtamdUVTE5MzJZcXdVRGJJQmkwZUZ2TzFvNVBhYjA3UkJkdE8xUnVyT1B2eUl1eUlpRkxaUjI5aFdCSXB6TW5NSWJmT…\n來源：Google News:BKNG\n其他：Booking Holdings Inc (BKNG) (Q3 2026) Earnings Call Highlig…",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOE00S0lDeDRkVGZ5Y2d6SzBWQ1ZrY0lJS0p5YTNtcmRVOUtUTVd4Tm9PV2Y0RWNjbzhlcVlldktZUnRXX1BWeE1JRmZqdFJYdmhpemtBaFllei0tRjA2NTBlWk1IMnJtamdUVTE5MzJZcXdVRGJJQmkwZUZ2TzFvNVBhYjA3UkJkdE8xUnVyT1B2eUl1eUlpRkxaUjI5aFdCSXB6TW5NSWJmTDRFcFQ4V0t1YmNMWWxrS25GbUZJTWNIT1ZQcFlJREt5SzJKa25XcEluTkh5NlByZmM?oc=5",
+      "source": "Google News:BKNG",
       "kind": "news"
     },
     {
       "n": 8,
-      "symbol": "EL",
-      "short": "EL — 業績／指引：Estée Lauder (EL) Q1 Earnings Fuel Profit Recovery Despite Cash Questions - Simply Wall…",
-      "detail": "EL\n重點：業績／指引\n標題：Estée Lauder (EL) Q1 Earnings Fuel Profit Recovery Despite Cash Questions - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaXRsVFdOMTAtdk5heEtCY2FJMlNQUWVVQjBsYzc0bjZ3NlRaRG12LTZjalE5QTF1bEYtQk5zREFtR3ZTTTNjaVVWUWVGMXlSR0FEWGRHaV83MVZWaHc3YWxzeHlwOUtRd2FIY2oxS0ExZEdoQlV3QldyX05ybkJ1UWJmSFZqSVJNczRlaFdrOVVTa29zeWxmOVh2bFc3OEZBRGlrbUNMaDY3c…\n來源：Google News:EL",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaXRsVFdOMTAtdk5heEtCY2FJMlNQUWVVQjBsYzc0bjZ3NlRaRG12LTZjalE5QTF1bEYtQk5zREFtR3ZTTTNjaVVWUWVGMXlSR0FEWGRHaV83MVZWaHc3YWxzeHlwOUtRd2FIY2oxS0ExZEdoQlV3QldyX05ybkJ1UWJmSFZqSVJNczRlaFdrOVVTa29zeWxmOVh2bFc3OEZBRGlrbUNMaDY3cWJLekFmaUZDTDJfdVB5cm5zSUNOSDctRzhPdnFLR3kzSV90anFkdmpMb9IB2gFBVV95cUxQS0x6NTdkWTVVLWFTMnZZbEMtVTlWN2NtU05oUmlLQURPYmNfd2pUYk9oTlVkTnB5bTR6ckVQMnhHVnZveWtxZ0w3WWhFOTFiYjlXUk5ydnVLY1hVNmJIdUFtaDQ2dTZEajFCNkRtMW5EYTZyRTJidnlnQXVjOW1jd191WUZqZVFDTnNtbEo4cTc1M2NGd2xPZ3ZJV2swOXFfVEFDeFI4Uzd2V0dwR01Pd3hRVFR5cEwtaXJGVUpOOEJ2OU9yRzFJNlZHMTgtazZZX1laTG8tNkR0QQ?oc=5",
-      "source": "Google News:EL",
+      "symbol": "BNY",
+      "short": "BNY — 95,500 Bank of New York Mellon Corporation $BNY Shares Sold by Hikari Power Ltd - Marke…",
+      "detail": "BNY\n重點：新聞\n標題：95,500 Bank of New York Mellon Corporation $BNY Shares Sold by Hikari Power Ltd - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSkRzSlI0eXhwMW55WDhxdWE5ODM5aWk2SldGdkU2ZWt4MW1NSjQ3b0E4TG41S3kzdUdyclE2NDV0enhfQzlOY1JuZDlPcG4xUnhtRlhfVDFoX2ZZdFBONld5NlBJc29aWTU4amdpMUZqM3NqXzBUWllsSkgzVnItQWw1NG1sbzdKUnpVUlZfYUpXVElyNkpMWlZ3VzRLSzAycGcyTlNfUkdfM…\n來源：Google News:BNY\n其他：Bank of New York Mellon Corporation $BNY Position Cut by GR…",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSkRzSlI0eXhwMW55WDhxdWE5ODM5aWk2SldGdkU2ZWt4MW1NSjQ3b0E4TG41S3kzdUdyclE2NDV0enhfQzlOY1JuZDlPcG4xUnhtRlhfVDFoX2ZZdFBONld5NlBJc29aWTU4amdpMUZqM3NqXzBUWllsSkgzVnItQWw1NG1sbzdKUnpVUlZfYUpXVElyNkpMWlZ3VzRLSzAycGcyTlNfUkdfMDdmS0FoOVdvT2dSdUJKekZYTk01RmJ2SkJGSWRLZHM2cWN4YmFHWDFfbg?oc=5",
+      "source": "Google News:BNY",
       "kind": "news"
     },
     {
       "n": 9,
-      "symbol": "PYPL",
-      "short": "PYPL — 併購／交易：PYPL Stock Crash: Mizuho Highlights Three Key Risks For PayPal After Stripe, Advent Rep…",
-      "detail": "PYPL\n重點：併購／交易\n標題：PYPL Stock Crash: Mizuho Highlights Three Key Risks For PayPal After Stripe, Advent Reportedly Abandon Takeover Bid - Stocktwits\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPTzBBdlVOV0EwS0stNDl1SWxfVmhhajlTNjNIVkw5ZEhVbnpYRkxmdzFRcmNTRTc4aUJrTHZiQmJfRzJORFNjRTI3bUc3dzdBeDg3R3BuY3pzRGozRTM5dHp3Tk1wbm8tdFAtT1o0Y0w1Y3VpNG53c1FhZGdfc0V6bmoxX2s0VzdkVmFBSm5xamhiNGIwOF9naWVOSUFNZGl5Z1k2emJFSlM1O…\n來源：Google News:PYPL",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPTzBBdlVOV0EwS0stNDl1SWxfVmhhajlTNjNIVkw5ZEhVbnpYRkxmdzFRcmNTRTc4aUJrTHZiQmJfRzJORFNjRTI3bUc3dzdBeDg3R3BuY3pzRGozRTM5dHp3Tk1wbm8tdFAtT1o0Y0w1Y3VpNG53c1FhZGdfc0V6bmoxX2s0VzdkVmFBSm5xamhiNGIwOF9naWVOSUFNZGl5Z1k2emJFSlM1OUFBaUd4NnlBam1FdElpLXYxaVJwTHdmX3dQbEZJTV9RX3VPQ1VnaUYzSW1xTEo1NHp0ZXlpTUlGZ2hTUjlBYmN5cVZQZjlBdG1GTUFUYXR5cTloUnlieE9hVDFJNzlLZw?oc=5",
-      "source": "Google News:PYPL",
+      "symbol": "COF",
+      "short": "COF — Capital One Financial Corporation $COF Stock Acquired by Provenance Wealth Advisors LLC…",
+      "detail": "COF\n重點：新聞\n標題：Capital One Financial Corporation $COF Stock Acquired by Provenance Wealth Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQamprTDRCOWZxdGx0bG9WYzBQaWp1cmpoM1JReWQwNzBlVXBFS3JyQ2hzQmdldFUwZURMWTUyd18wMC1qWGxTMzlqRDRvOW5PRGxNOUFFMU91MG51NUdSekdEVE5ZSGpzSXNYc204eWdyM2pPRVRUdEwweTh4QXQ4ZldKdG1MakptU3dhTkZqSmxiQ3B1Z0hKMWZPdEFicWhYQkh2N3NySEE0c…\n來源：Google News:COF\n其他：213,209 Shares of Capital One Financial Corporation $COF Ac…",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQamprTDRCOWZxdGx0bG9WYzBQaWp1cmpoM1JReWQwNzBlVXBFS3JyQ2hzQmdldFUwZURMWTUyd18wMC1qWGxTMzlqRDRvOW5PRGxNOUFFMU91MG51NUdSekdEVE5ZSGpzSXNYc204eWdyM2pPRVRUdEwweTh4QXQ4ZldKdG1MakptU3dhTkZqSmxiQ3B1Z0hKMWZPdEFicWhYQkh2N3NySEE0c05XbXhEX2dEbjF3OE03ZHFhbkdtSjdzeVAwMHFKSHpZUUoycEJXd2J1ZF9weXczVVVYYVhkSg?oc=5",
+      "source": "Google News:COF",
       "kind": "news"
     },
     {
       "n": 10,
-      "symbol": "TGT",
-      "short": "TGT — 業績／指引：Target (NYSE:TGT) Trims Guidance Ahead of A Cautious Holiday Stretch - Kalkine Media",
-      "detail": "TGT\n重點：業績／指引\n標題：Target (NYSE:TGT) Trims Guidance Ahead of A Cautious Holiday Stretch - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeEdrVnRrcUdSUUhrZzd6RnRtTkZ1Umg2SWtKVGMyY0xzTFp1LU5XMUZ0dW5nVzA5Q2RBYURoRmN3c3ZtQXNjcXpUTGJvOEU1cmNubDlZaUltVC1IeUZYd1pWd1Z5cVBUUGNlMURPbFBPakhwY1BqaFpSdHJPeHJMVEhVRUFFMlJPdHhxazFNY1lmand5ZUxWV3FOb2VLbHhOSklVRWFJc3ZIN…\n來源：Google News:TGT",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeEdrVnRrcUdSUUhrZzd6RnRtTkZ1Umg2SWtKVGMyY0xzTFp1LU5XMUZ0dW5nVzA5Q2RBYURoRmN3c3ZtQXNjcXpUTGJvOEU1cmNubDlZaUltVC1IeUZYd1pWd1Z5cVBUUGNlMURPbFBPakhwY1BqaFpSdHJPeHJMVEhVRUFFMlJPdHhxazFNY1lmand5ZUxWV3FOb2VLbHhOSklVRWFJc3ZINnM?oc=5",
-      "source": "Google News:TGT",
+      "symbol": "CRM",
+      "short": "CRM — Salesforce Inc. $CRM Stock: Rakuten Investment Management Inc. Raises Position - Market…",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stock: Rakuten Investment Management Inc. Raises Position - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxONGtpWkdDS2xIWUpaRkcyMWJGVVgyTGd4V0dJWS1sQ1FTU015a3VyT3lLbTNMZEdzZFNxTGJrT0JLNjZJcUh1eUgxUzZlbENUNll5UHdyZGJmQmxORGxtT0trdzVERzRCVGFLQ3JwUjlQb3g3RmRwaXBnT0RlS0NLYjExTHJJRWVpVldLeDNjd3J6VGVXRjdWeW5TNTkwQ0pCbEVkajZQTktFb…\n來源：Google News:CRM\n其他：Salesforce Inc. $CRM Shares Newly Acquired by First Nebrask…",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONGtpWkdDS2xIWUpaRkcyMWJGVVgyTGd4V0dJWS1sQ1FTU015a3VyT3lLbTNMZEdzZFNxTGJrT0JLNjZJcUh1eUgxUzZlbENUNll5UHdyZGJmQmxORGxtT0trdzVERzRCVGFLQ3JwUjlQb3g3RmRwaXBnT0RlS0NLYjExTHJJRWVpVldLeDNjd3J6VGVXRjdWeW5TNTkwQ0pCbEVkajZQTktFbVZmTEdBYTFRTVVtdVFGZXVpdzFWazZxWXR1T0dDUFFYVmI1YWFj?oc=5",
+      "source": "Google News:CRM",
       "kind": "news"
     },
     {
       "n": 11,
-      "symbol": "TRMB",
-      "short": "TRMB — 業績／指引：Trimble (TRMB) Heads Into Earnings As Its Subscription Story Still Points To Undervalued",
-      "detail": "TRMB\n重點：業績／指引\n標題：Trimble (TRMB) Heads Into Earnings As Its Subscription Story Still Points To Undervalued\n摘要：Upcoming Q3 earnings and governance focus Trimble (TRMB) heads into a busy Nov. 4, with third quarter 2026 results and an earnings call scheduled before the open, alongside a governance and compliance presentation at the U.S. GRC Summit. Trimble’s share price has climbed 14.1% o…\n來源：Yahoo Finance:TRMB",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trimble-trmb-heads-earnings-subscription-020746241.html?.tsrc=rss",
-      "source": "Yahoo Finance:TRMB",
+      "symbol": "HCA",
+      "short": "HCA — 38,768 Shares in HCA Healthcare, Inc. $HCA Purchased by Mirae Asset Global Investments …",
+      "detail": "HCA\n重點：新聞\n標題：38,768 Shares in HCA Healthcare, Inc. $HCA Purchased by Mirae Asset Global Investments Co. Ltd. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd1lXY1FvUVNldll5UWxiS1VpSDR5X1ZZX2V1VWpERXN6elRUVTJDb0d6bUVKX0xqLUJoT1I2VXBWbGl3bHAwcUVPMXRYbU45VEpIemNXZTBvTjRXdGRieDhON29QTWViTjRLdVlKUEdOZnl3SzZjMDd0WGtzb28xM3FNOVVVRnJHTjBpWkFydGJ4UWRRa3NyY1kwbGFVblhybzhTdEFFeDkyb…\n來源：Google News:HCA\n其他：HCA Healthcare, Inc. $HCA Holdings Decreased by ProShare Ad…",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd1lXY1FvUVNldll5UWxiS1VpSDR5X1ZZX2V1VWpERXN6elRUVTJDb0d6bUVKX0xqLUJoT1I2VXBWbGl3bHAwcUVPMXRYbU45VEpIemNXZTBvTjRXdGRieDhON29QTWViTjRLdVlKUEdOZnl3SzZjMDd0WGtzb28xM3FNOVVVRnJHTjBpWkFydGJ4UWRRa3NyY1kwbGFVblhybzhTdEFFeDkybVZQVVQ1R29OeU1rTUdTUURSd2ppV0tZM18tRmdIVmF0UHp1SHFJcUZEN28tZWJWVFR4Z0lRa00xNWs?oc=5",
+      "source": "Google News:HCA",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "MRK",
+      "short": "MRK — Merck & Co., Inc. $MRK Shares Acquired by Rakuten Investment Management Inc. - MarketBe…",
+      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Shares Acquired by Rakuten Investment Management Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNbkg3TEZtM1NmWXJqN3NxMmRRZ0JoeTVGUmtzRkdZSDZ4dEJONURoSWExbXV2Z09lNEltamFkZ21sZ3lucTlldWNJMGNxMDVlY3p6c2lrdGFCal9Fc3VxMnhnZWR6ZmwxcS1zU091UTV5a2draXRNUF93eURqNUtTRWI3OWFmSmh0Y2VCcU5WUE45aWZxVG1YcFRtLXRZZ200TjVlSk93ZUdZW…\n來源：Google News:MRK\n其他：8,663 Merck & Co., Inc. $MRK Shares Sold by Factory Mutual …",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbkg3TEZtM1NmWXJqN3NxMmRRZ0JoeTVGUmtzRkdZSDZ4dEJONURoSWExbXV2Z09lNEltamFkZ21sZ3lucTlldWNJMGNxMDVlY3p6c2lrdGFCal9Fc3VxMnhnZWR6ZmwxcS1zU091UTV5a2draXRNUF93eURqNUtTRWI3OWFmSmh0Y2VCcU5WUE45aWZxVG1YcFRtLXRZZ200TjVlSk93ZUdZWFpBaXVnd2RqU0FtSGF1aHJMc1V5VlZtUDZRczZMRjVn?oc=5",
+      "source": "Google News:MRK",
       "kind": "news"
     }
   ]
