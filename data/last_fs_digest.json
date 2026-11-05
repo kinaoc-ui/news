@@ -1,42 +1,42 @@
 {
-  "title": "FS新聞 11-05 12:55",
-  "list_name": "FirstScreen_2026-11-05_125551_comma.txt",
-  "created_at": "2026-11-05T12:55:58.063655+00:00",
+  "title": "FS新聞 11-05 17:55",
+  "list_name": "FirstScreen_2026-11-05_175510_comma.txt",
+  "created_at": "2026-11-05T17:55:16.999937+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "DNOW",
-      "short": "DNOW — 業績／指引：DNOW (NYSE:DNOW) misses Q3 2026 sales expectations",
-      "detail": "DNOW\n重點：業績／指引\n標題：DNOW (NYSE:DNOW) misses Q3 2026 sales expectations\n摘要：Energy and industrial distributor DNOW (NYSE:DNOW) fell short of the market’s revenue expectations in Q3 2026, but revenue rose 111% year on year to $1.34 billion. Its non-GAAP profit of $0.18 per share was 21.6% above analysts’ consensus estimates.\n來源：Yahoo Finance:DNOW\n其他：DNOW (NYSE:DNOW) misses Q3 2026 sales expectations - Financ…; NOW ($DNOW) Releases Q3 2026 Earnings - Quiver Quantitative; DNOW: Q3 Earnings Snapshot",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dnow-nyse-dnow-misses-q3-123241512.html?.tsrc=rss",
-      "source": "Yahoo Finance:DNOW",
+      "symbol": "BDX",
+      "short": "BDX — 業績／指引：BDX Stock Down in Pre-Market Despite Q4 Earnings & Revenue Beat",
+      "detail": "BDX\n重點：業績／指引\n標題：BDX Stock Down in Pre-Market Despite Q4 Earnings & Revenue Beat\n摘要：BD stock lost 6.4% in pre-market trading despite Q4 earnings and revenue beat, as its subdued fiscal 2027 revenue growth outlook raises investor concerns.\n來源：Yahoo Finance:BDX\n其他：BD’s (NYSE:BDX) Q3 CY2026: beats on revenue, but full year …; BD’s (NYSE:BDX) Q3 CY2026: beats on revenue, but full year …; Compared to Estimates, Becton Dickinson (BDX) Q4 Earnings: …",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bdx-stock-down-pre-market-164500985.html?.tsrc=rss",
+      "source": "Yahoo Finance:BDX",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "TGT",
-      "short": "TGT — There's A Lot To Like About Target's (NYSE:TGT) Upcoming US$1.16 Dividend - Simply Wall…",
-      "detail": "TGT\n重點：新聞\n標題：There's A Lot To Like About Target's (NYSE:TGT) Upcoming US$1.16 Dividend - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOUGFjdmxCN28tNDFKem9CcWJVNjVlNjZuc3NDeWJGcTRFMmtDT18yQ3c4T1R1S0tfOVJVMjZlSS1qMW1maU4zU1V0SEFwVkxlMmgwVmxBWXl5RE5nVlNYb2RaQUFHSWpIQmVaM0U0bXFBWDk5akpsck5vdmVBTkZWNXI5NTN3ZjZBOXV2bV9HUFNDREJGcVlfRjdKZHIwWXZkTXZxSHQxZWswe…\n來源：Google News:TGT\n其他：Target May Take Cautious Fourth-Quarter View Amid Slowing S…; 26,127 Target Corporation $TGT Shares Sold by Pzena Investm…; 18,311 Shares in Target Corporation $TGT Acquired by Associ…",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUGFjdmxCN28tNDFKem9CcWJVNjVlNjZuc3NDeWJGcTRFMmtDT18yQ3c4T1R1S0tfOVJVMjZlSS1qMW1maU4zU1V0SEFwVkxlMmgwVmxBWXl5RE5nVlNYb2RaQUFHSWpIQmVaM0U0bXFBWDk5akpsck5vdmVBTkZWNXI5NTN3ZjZBOXV2bV9HUFNDREJGcVlfRjdKZHIwWXZkTXZxSHQxZWswek1FaHRsb01pakI1T292MXRrcTZhSFZ0VlpDaHlpZWl5dGPSAdIBQVVfeXFMT2ZRUmhIWnh4ZmZPTlJpLVFjeW4wZHVhTU9VZUZ2ME5SQWFXX2ZNMTB2dFh1c3ZhcFFMVlVVVjFwclZQZWRPZUs0YVE5MHJ3UGUxRW5lWHBZaFZvcjM3eGxMR3FXOGxseU1jZDFsWkhJT3ExSDdEU0pJcTBTVVM4UFBUemNFcG9xZ1hnWXA5bC1YeDJ5Z2hha2RNWFh6QnZrc056YU1Ra1ZfSUJaWVRhdWFLZWFwMUxqZmFXZFlxMEY3V2xrV0RJdHBWZk5Ub3hqZjR3?oc=5",
-      "source": "Google News:TGT",
+      "symbol": "DNOW",
+      "short": "DNOW — 業績／指引：DNOW Stock Slides Into Focus After Mixed Earnings Report - Simply Wall St",
+      "detail": "DNOW\n重點：業績／指引\n標題：DNOW Stock Slides Into Focus After Mixed Earnings Report - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOSDNPNWYzRHZlS2ljQVZiZzBRQVNmQ3MyVmk5SXlpV21GTl80UlAwOTFuazJSVnN0NDdWaXczZzdmV3V6MnR1cWttZ1A1UHhXdEY1Ry1pbzRLNmMxbjF6SEVQdV9tS1Q4dGRwRWY3SHRqaEpMMmtRQS0yWTVldmNvYURzUEV2ZUpuZm1RNHNacy02YTEyX05WWDk5dUJ6SkpaV3JEam1fWVZyT…\n來源：Google News:DNOW\n其他：Dnow Q3 2026 Earnings Call Transcript - Benzinga; DNOW (NYSE:DNOW) misses Q3 2026 sales expectations; DNOW (NYSE:DNOW) misses Q3 2026 sales expectations - Tradin…",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSDNPNWYzRHZlS2ljQVZiZzBRQVNmQ3MyVmk5SXlpV21GTl80UlAwOTFuazJSVnN0NDdWaXczZzdmV3V6MnR1cWttZ1A1UHhXdEY1Ry1pbzRLNmMxbjF6SEVQdV9tS1Q4dGRwRWY3SHRqaEpMMmtRQS0yWTVldmNvYURzUEV2ZUpuZm1RNHNacy02YTEyX05WWDk5dUJ6SkpaV3JEam1fWVZyT3RfQjlVQVFma0FpejBfaFFLdEVjUdIBxAFBVV95cUxOLTNmTmpCQ2NBSkhQZVBJTkhGQlgtQWU3WEdWcy0wWEZXR2hqYUdFVEFnS3RQY2FSa1A2ZHRGS0s4UkswM3B6bEp3djRSb2NWZzdTR09abmZlR3gwR21mTEdwVlBPbW9pVmtMVTNwVE5mRWlxVm0zZFpiTzU5ZnFXZFNncFZiQm5Cbm9vdTcwYVNRUm9pWHIyUW5uQUJ6X2FXSFlUZnpPRUNwRnItc1lIc0xWaEZYeW9wR0VveXJWcHB6dVdD?oc=5",
+      "source": "Google News:DNOW",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "BDX",
-      "short": "BDX — 業績／指引：BECTON, DICKINSON ($BDX) Releases Q4 2026 Earnings - Quiver Quantitative",
-      "detail": "BDX\n重點：業績／指引\n標題：BECTON, DICKINSON ($BDX) Releases Q4 2026 Earnings - Quiver Quantitative\n摘要：<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQcWZXVE5URk1MV1pNanNLcVRJcGU4VHhleXFaSk5Ob2JBbk9oVXZZenIxZjlxM0YtNU5SamJzdjRMVGE5UHJVQnItdXQyeHIzUXI2WVZFNTNHNFM5SkdiMlhtNFhLX2NNVlNYeXdZMm9WZ1RqUUpjYXo0azFoZjBoSkpmR1dzR1dZcENGMEs5U1Z0NENPNUE?oc=5\" target=\"_blank\">BEC…\n來源：Google News:BDX\n其他：Becton Dickinson: Fiscal Q4 Earnings Snapshot; BD Board Increases Dividend for 55th Consecutive Year, Auth…",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcWZXVE5URk1MV1pNanNLcVRJcGU4VHhleXFaSk5Ob2JBbk9oVXZZenIxZjlxM0YtNU5SamJzdjRMVGE5UHJVQnItdXQyeHIzUXI2WVZFNTNHNFM5SkdiMlhtNFhLX2NNVlNYeXdZMm9WZ1RqUUpjYXo0azFoZjBoSkpmR1dzR1dZcENGMEs5U1Z0NENPNUE?oc=5",
-      "source": "Google News:BDX",
+      "symbol": "SLB",
+      "short": "SLB — 業績／指引：SLB: 3 Key Takeaways for Long-Term Investors",
+      "detail": "SLB\n重點：業績／指引\n標題：SLB: 3 Key Takeaways for Long-Term Investors\n摘要：Multiyear offshore contracts and emerging market expansion are locking in revenue visibility beyond commodity cycles.\n來源：Yahoo Finance:SLB\n其他：SLB OneSubsea Awarded Contract for Lyra Field Development O…; At Lyra, first oil is planned three years after discovery. …; SLB Limited $SLB Shares Purchased by Rakuten Investment Man…",
+      "url": "https://www.fool.com/earnings/takeaways/2026/11/05/slb-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
+      "source": "Yahoo Finance:SLB",
       "kind": "news"
     },
     {
       "n": 4,
       "symbol": "BKNG",
-      "short": "BKNG — Did a Quarter Beating Expectations Drive Booking Holdings (NASDAQ:BKNG) Up a Reported 9…",
-      "detail": "BKNG\n重點：新聞\n標題：Did a Quarter Beating Expectations Drive Booking Holdings (NASDAQ:BKNG) Up a Reported 9.83%? - Kalkine\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGMyZTdiS1FKR2dCaDV3cVpibFF5ZEd3dXd3WG9JU08yZklZR2V6QW9PUktzb19IdTBBeGZWUGI5S0JoMnBtR2N5YTFxcWJiWjNvZVl6NmdIUlA5c0RtSEJLeVM3MXdTVUt3UWlRZHFBWFZsQzVKeFZNVVE4VWk1ZmRkMDdKM3hYck9LQnUwNEltTWNFWTV4MkhLQnN1a194R0FQMVg1VTB2a…\n來源：Google News:BKNG\n其他：BKNG Stock Gains 9.83%, Testing Key Resistance In Focus - J…; Booking Holdings Inc. 2026 Q3 - Results - Earnings Call Pre…",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGMyZTdiS1FKR2dCaDV3cVpibFF5ZEd3dXd3WG9JU08yZklZR2V6QW9PUktzb19IdTBBeGZWUGI5S0JoMnBtR2N5YTFxcWJiWjNvZVl6NmdIUlA5c0RtSEJLeVM3MXdTVUt3UWlRZHFBWFZsQzVKeFZNVVE4VWk1ZmRkMDdKM3hYck9LQnUwNEltTWNFWTV4MkhLQnN1a194R0FQMVg1VTB2alo3Rk42NHprcHAtbk9kSXU0NWhn?oc=5",
+      "short": "BKNG — AI相關、業績／指引：Booking Holdings: AI Proves To Be A Revenue Multiplier (Rating Upgrade) (NASDAQ:BKNG) -…",
+      "detail": "BKNG\n重點：AI相關、業績／指引\n標題：Booking Holdings: AI Proves To Be A Revenue Multiplier (Rating Upgrade) (NASDAQ:BKNG) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEZYUEE0VWZ6Nk1lTmxWTGROVXdOQTZzTTg4bWhVWUtUS3RfTUh2ZUJPX2wwRVV4dW5LbTlmNnhiWUsybFNxaFNORWJjVmtJdV9GWXZVV1lDalM4MDlZbDg1SDZyODlQN3ZZc0tlZjFEbjV2RlpBNVRoWk1iNlhJSDJVRVgtaEF2d2ViYkU1MXJTSlVCeEhBd1V4ZllZcFd4c3pCcEpaRWZiT…\n來源：Google News:BKNG\n其他：Booking Holdings Jumped 14% in a Week. Its Forward P/E Show…; Did a Quarter Beating Expectations Drive Booking Holdings (…; BKNG Stock Gains 9.83%, Testing Key Resistance In Focus - J…",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEZYUEE0VWZ6Nk1lTmxWTGROVXdOQTZzTTg4bWhVWUtUS3RfTUh2ZUJPX2wwRVV4dW5LbTlmNnhiWUsybFNxaFNORWJjVmtJdV9GWXZVV1lDalM4MDlZbDg1SDZyODlQN3ZZc0tlZjFEbjV2RlpBNVRoWk1iNlhJSDJVRVgtaEF2d2ViYkU1MXJTSlVCeEhBd1V4ZllZcFd4c3pCcEpaRWZiT0hzd3c?oc=5",
       "source": "Google News:BKNG",
       "kind": "news"
     },
@@ -51,65 +51,65 @@
     },
     {
       "n": 6,
-      "symbol": "NWS",
-      "short": "NWS — News Corporation $NWS Shares Newly Purchased by Bank Julius Baer & Co. Ltd Zurich - Mar…",
-      "detail": "NWS\n重點：新聞\n標題：News Corporation $NWS Shares Newly Purchased by Bank Julius Baer & Co. Ltd Zurich - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTzJCU3l2REJwVnJndGM1aERlM2JuVG1hekstVjNZa05Bd0RPX2JxSEZwT0xWZWFTel91bFJwQ3M0MG5EM1VHOVRuTkxORUl5SDFUY0FoY0FSRDhSOU53U3Q2ejA5M1JHZ2E4Wk1MWVRtY0o3SlY5Z1hjX0lNVkVleFNMV3RVOVZMODVhR1JDa2FrTGJkMXA2b0xCaGhJVFBUb3ZtNi03YUgxM…\n來源：Google News:NWS\n其他：News Corporation $NWS Stock: Asset Management One Co. Ltd. …; News Corp (NWS) (Q1 2027) Earnings Call Highlights: Record …",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTzJCU3l2REJwVnJndGM1aERlM2JuVG1hekstVjNZa05Bd0RPX2JxSEZwT0xWZWFTel91bFJwQ3M0MG5EM1VHOVRuTkxORUl5SDFUY0FoY0FSRDhSOU53U3Q2ejA5M1JHZ2E4Wk1MWVRtY0o3SlY5Z1hjX0lNVkVleFNMV3RVOVZMODVhR1JDa2FrTGJkMXA2b0xCaGhJVFBUb3ZtNi03YUgxMHlMeFN1U2dFb19oTS1Fejk0T1l3cTVGdXMtNHo0cUp4MnFPMVM3NXJtbg?oc=5",
-      "source": "Google News:NWS",
+      "symbol": "TGT",
+      "short": "TGT — There's A Lot To Like About Target's (NYSE:TGT) Upcoming US$1.16 Dividend - Simply Wall…",
+      "detail": "TGT\n重點：新聞\n標題：There's A Lot To Like About Target's (NYSE:TGT) Upcoming US$1.16 Dividend - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOUGFjdmxCN28tNDFKem9CcWJVNjVlNjZuc3NDeWJGcTRFMmtDT18yQ3c4T1R1S0tfOVJVMjZlSS1qMW1maU4zU1V0SEFwVkxlMmgwVmxBWXl5RE5nVlNYb2RaQUFHSWpIQmVaM0U0bXFBWDk5akpsck5vdmVBTkZWNXI5NTN3ZjZBOXV2bV9HUFNDREJGcVlfRjdKZHIwWXZkTXZxSHQxZWswe…\n來源：Google News:TGT\n其他：Target May Take Cautious Fourth-Quarter View Amid Slowing S…; 26,127 Target Corporation $TGT Shares Sold by Pzena Investm…",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUGFjdmxCN28tNDFKem9CcWJVNjVlNjZuc3NDeWJGcTRFMmtDT18yQ3c4T1R1S0tfOVJVMjZlSS1qMW1maU4zU1V0SEFwVkxlMmgwVmxBWXl5RE5nVlNYb2RaQUFHSWpIQmVaM0U0bXFBWDk5akpsck5vdmVBTkZWNXI5NTN3ZjZBOXV2bV9HUFNDREJGcVlfRjdKZHIwWXZkTXZxSHQxZWswek1FaHRsb01pakI1T292MXRrcTZhSFZ0VlpDaHlpZWl5dGPSAdIBQVVfeXFMT2ZRUmhIWnh4ZmZPTlJpLVFjeW4wZHVhTU9VZUZ2ME5SQWFXX2ZNMTB2dFh1c3ZhcFFMVlVVVjFwclZQZWRPZUs0YVE5MHJ3UGUxRW5lWHBZaFZvcjM3eGxMR3FXOGxseU1jZDFsWkhJT3ExSDdEU0pJcTBTVVM4UFBUemNFcG9xZ1hnWXA5bC1YeDJ5Z2hha2RNWFh6QnZrc056YU1Ra1ZfSUJaWVRhdWFLZWFwMUxqZmFXZFlxMEY3V2xrV0RJdHBWZk5Ub3hqZjR3?oc=5",
+      "source": "Google News:TGT",
       "kind": "news"
     },
     {
       "n": 7,
-      "symbol": "SLB",
-      "short": "SLB — At Lyra, first oil is planned three years after discovery. SLB OneSubsea won the contra…",
-      "detail": "SLB\n重點：新聞\n標題：At Lyra, first oil is planned three years after discovery. SLB OneSubsea won the contract. - Stock Titan\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPWlRacndXa1JHMmM0ZEhWajd3UEJKVlpMZy1uYVpKMDNwWjdOZ2RpWTVIYkNZYkhUb1E4eGpfQkI1anJDNEp3Z3dPeTZvOXBJa2c0bzcyT2YwSnFsTjRpaTBqenhMOXVuM0NoZURfdGsxcUJIWWVEbmlacTk1TEhLOFBqZ3M4bzB3ak9BdFFfSm81Y1huMFJIb2RxX2hzVVE0UTdzRHlsOXNsU…\n來源：Google News:SLB\n其他：SLB Limited $SLB Shares Purchased by Rakuten Investment Man…; SLB Limited $SLB Stock Acquired by Provenance Wealth Adviso…",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWlRacndXa1JHMmM0ZEhWajd3UEJKVlpMZy1uYVpKMDNwWjdOZ2RpWTVIYkNZYkhUb1E4eGpfQkI1anJDNEp3Z3dPeTZvOXBJa2c0bzcyT2YwSnFsTjRpaTBqenhMOXVuM0NoZURfdGsxcUJIWWVEbmlacTk1TEhLOFBqZ3M4bzB3ak9BdFFfSm81Y1huMFJIb2RxX2hzVVE0UTdzRHlsOXNsUkhvYW9WS25HZHp3UG45Zl9fQVRB?oc=5",
-      "source": "Google News:SLB",
+      "symbol": "ANET",
+      "short": "ANET — AI相關、業績／指引：Should You Add ANET Stock to Your Portfolio Post Solid Q3 Earnings?",
+      "detail": "ANET\n重點：AI相關、業績／指引\n標題：Should You Add ANET Stock to Your Portfolio Post Solid Q3 Earnings?\n摘要：ANET is poised for further upside as Q3 revenues surged 58.5% on robust AI networking demand and enterprise expansion.\n來源：Yahoo Finance:ANET\n其他：Should You Add ANET Stock to Your Portfolio Post Solid Q3 E…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/add-anet-stock-portfolio-post-131700271.html?.tsrc=rss",
+      "source": "Yahoo Finance:ANET",
       "kind": "news"
     },
     {
       "n": 8,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce (NYSE:CRM) Upgraded to \"Strong-Buy\" at Zacks Research - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Upgraded to \"Strong-Buy\" at Zacks Research - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNMmRhczFqRmhsNl9NYjJtVHUzY1UyNnVEeFUyd3UycjZQRTBhZC1BMXNXUTlqZV9FcVprN19SaG5RRTVVU2hJUEl4bkl0UGFYb1NXTVdIeU9oVEpxUzNEUWIzbWNELUktbWliaUlBMEpXTFZuM281YnJIRnZ4dVU4OXFhSTNiSnlweTF6NXhVOUQ2Y1pTRm9pcC1BM0tOcEhjb0VfWlI3cWdPS…\n來源：Google News:CRM\n其他：2,673 Shares in Salesforce Inc. $CRM Purchased by Collabora…",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMmRhczFqRmhsNl9NYjJtVHUzY1UyNnVEeFUyd3UycjZQRTBhZC1BMXNXUTlqZV9FcVprN19SaG5RRTVVU2hJUEl4bkl0UGFYb1NXTVdIeU9oVEpxUzNEUWIzbWNELUktbWliaUlBMEpXTFZuM281YnJIRnZ4dVU4OXFhSTNiSnlweTF6NXhVOUQ2Y1pTRm9pcC1BM0tOcEhjb0VfWlI3cWdPSDdkclBMaGdvcl9WbmFrMlkycmM1QQ?oc=5",
-      "source": "Google News:CRM",
+      "symbol": "BNY",
+      "short": "BNY — Bank of New York Mellon (NYSE:BNY) Share Price Breaks Above 50 Day Moving Average - Tim…",
+      "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon (NYSE:BNY) Share Price Breaks Above 50 Day Moving Average - Time to Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWngxS2FyWUE0SGxxWXI4YXFCRTZOZF9ZWWtPbjNZTktZTFJCU2lvYl9NNnhWa2xUem5fNzY5dGN4Rm1sbThLb2VVUVFLR01USTNiOGgxZVhNSkl2QzJabFZZalBrTC1lUk1aV2ZSU0VLa19OU2lTUFM4ZDJHakFnRlVZS2NqS0hWX2NfZ0NDbnFzdTBrbldqRGVTY1FNZkxOYXFHd3JCQ01xN…\n來源：Google News:BNY\n其他：Bank of New York Mellon Corporation $BNY Stock: Rakuten Inv…",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWngxS2FyWUE0SGxxWXI4YXFCRTZOZF9ZWWtPbjNZTktZTFJCU2lvYl9NNnhWa2xUem5fNzY5dGN4Rm1sbThLb2VVUVFLR01USTNiOGgxZVhNSkl2QzJabFZZalBrTC1lUk1aV2ZSU0VLa19OU2lTUFM4ZDJHakFnRlVZS2NqS0hWX2NfZ0NDbnFzdTBrbldqRGVTY1FNZkxOYXFHd3JCQ01xNExSNWFaOTh6YUUyQWJWc1VOQ2lXSDZybjNZSDZJckZWbnBzT2VUNmlFTm1ZUENLa0ZEdmVJRDNPejJkN3M?oc=5",
+      "source": "Google News:BNY",
       "kind": "news"
     },
     {
       "n": 9,
+      "symbol": "BXSL",
+      "short": "BXSL — Blackstone Secured Lending Fund (NYSE:BXSL) to Issue Quarterly Dividend of $0.60 - Mark…",
+      "detail": "BXSL\n重點：新聞\n標題：Blackstone Secured Lending Fund (NYSE:BXSL) to Issue Quarterly Dividend of $0.60 - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVTlzTVpUMTU2TDF4SG9lS1hORXRBQ1o1Q1daZDhqdkJhZHNoUXRwV0Vsbm40ajhYRzJna296U0Y1M19ZU0dHbVdkTVBqejJOX1dWb2l6LXRDV1dyWU1nYVJBRk1zLXJtTDROQVdfTnJJbmoyVHVFdlVGTFBna28yaVlWV3AyRVNEM2lUQllENWZXZzZFWlNUa0JmTUNBSTFzTWp6ZGtIUVpqa…\n來源：Google News:BXSL\n其他：Blackstone Secured Lending Fund Q3 Earnings Call Highlights",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVTlzTVpUMTU2TDF4SG9lS1hORXRBQ1o1Q1daZDhqdkJhZHNoUXRwV0Vsbm40ajhYRzJna296U0Y1M19ZU0dHbVdkTVBqejJOX1dWb2l6LXRDV1dyWU1nYVJBRk1zLXJtTDROQVdfTnJJbmoyVHVFdlVGTFBna28yaVlWV3AyRVNEM2lUQllENWZXZzZFWlNUa0JmTUNBSTFzTWp6ZGtIUVpqaXFzclYtUTl1VDFvSmIzSGd4V09oZHlRYkRKRmU4dnpUU3YzNnBSYzRIcDNB?oc=5",
+      "source": "Google News:BXSL",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "COF",
+      "short": "COF — 業績／指引：Capital One Financial Corporation (NYSE:COF) Stock Analysis — Earnings, Valuation, and …",
+      "detail": "COF\n重點：業績／指引\n標題：Capital One Financial Corporation (NYSE:COF) Stock Analysis — Earnings, Valuation, and Credit Sector Outlook - Kalkine India\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNVpIcnVrdjBmQ3VyNUNnUzRlS3NPTndlcXRjZHRUb0RaeGZpYm9PUktYVkFtQm9zd1ZFc2tnRFRfejd1a0gtVEFLMENDOFoteXBqRUM2S0ttSjgyTVZKcUxUSDdkdFZUZmNxZ0d0SkVKSzdwOW1mR2FnZUV3MDJJajFSOHZDMUxxY0JmZEdnQkJQeDNMMGJIbzA1WVIzNXB4b0k2a0pYSGhBM…\n來源：Google News:COF\n其他：Capital One Financial Corporation $COF Stock: Pzena Investm…",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNVpIcnVrdjBmQ3VyNUNnUzRlS3NPTndlcXRjZHRUb0RaeGZpYm9PUktYVkFtQm9zd1ZFc2tnRFRfejd1a0gtVEFLMENDOFoteXBqRUM2S0ttSjgyTVZKcUxUSDdkdFZUZmNxZ0d0SkVKSzdwOW1mR2FnZUV3MDJJajFSOHZDMUxxY0JmZEdnQkJQeDNMMGJIbzA1WVIzNXB4b0k2a0pYSGhBMDVJeWlrOWtyeTIyY3Q0UXJxZW9ROXJXajJab2g2ZEYyY1o5cjFmd0czYW83Q3Q5QVhUUm1sSlVaQ1gwWmpacnMwckVaV3NsWm1UNXBzSA?oc=5",
+      "source": "Google News:COF",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "FTNT",
+      "short": "FTNT — Fortinet (FTNT) Stock May Be 11% Undervalued Following Service Outlook Cut",
+      "detail": "FTNT\n重點：新聞\n標題：Fortinet (FTNT) Stock May Be 11% Undervalued Following Service Outlook Cut\n摘要：Fortinet has rewarded long term holders with a powerful run, yet the recent share pullback and shifting expectations for its service business leave a clear question about how well today’s valuation lines up with the cash the company can generate. With the stock now reacting shar…\n來源：Yahoo Finance:FTNT\n其他：Fortinet (FTNT) Stock May Be 11% Undervalued Following Serv…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fortinet-ftnt-stock-may-11-141233333.html?.tsrc=rss",
+      "source": "Yahoo Finance:FTNT",
+      "kind": "news"
+    },
+    {
+      "n": 12,
       "symbol": "GPC",
       "short": "GPC — Genuine Parts Company $GPC Stock Sold by Sumitomo Mitsui Trust Group Inc. - MarketBeat",
       "detail": "GPC\n重點：新聞\n標題：Genuine Parts Company $GPC Stock Sold by Sumitomo Mitsui Trust Group Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNRjNSbkYzUjdIa01mYjJqNTZoZXhEZGQ1NDdrRkJIRWhKNW9mbDN6YnFvaTRkUTJNSjVSaHFYTDFmTDlKbngwdTY0aEw0VEZhS0hjcTFDanBIUTFXb25MYnk1UWZVWlVZc2IxVDl6TUxrNGNoY3QxM0p3ek9QN3RDMkRIU1RQaDRjZ2RXdXNGcTJjc3FxMVl0OEE1LVlEUjBZdm00WTNoX1JnL…\n來源：Google News:GPC\n其他：Genuine Parts Company $GPC Stock Sold by International Asse…",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRjNSbkYzUjdIa01mYjJqNTZoZXhEZGQ1NDdrRkJIRWhKNW9mbDN6YnFvaTRkUTJNSjVSaHFYTDFmTDlKbngwdTY0aEw0VEZhS0hjcTFDanBIUTFXb25MYnk1UWZVWlVZc2IxVDl6TUxrNGNoY3QxM0p3ek9QN3RDMkRIU1RQaDRjZ2RXdXNGcTJjc3FxMVl0OEE1LVlEUjBZdm00WTNoX1JnLXlXYWs1bFJadU9JQVNCd0NpZzdjbkJqQzQzYjJnSzB0Ym0?oc=5",
       "source": "Google News:GPC",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "INTU",
-      "short": "INTU — Intuit Inc. $INTU Stock: Rakuten Investment Management Inc. Raises Stake - MarketBeat",
-      "detail": "INTU\n重點：新聞\n標題：Intuit Inc. $INTU Stock: Rakuten Investment Management Inc. Raises Stake - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzI5WkN5ZDJ0Qm1uVXAyWnlhaWVfZnFjNUpmQW9KWEpNbDBzMDRKQjFlcUFIN1E5R293NWNHbldOa0xXamtXczlxYUpzUTV4SkhQOEREM3h1Slp0VUozSzNaSktMYTNOZm5pWDlZRUlubW9lNzdOWEdySDd1b2p5M0tPUzVRZEtGYjYteEV6Y3dXcl9tNUlqdFc3dllPb0VmcUhLVkVTSG5Me…\n來源：Google News:INTU\n其他：17,994 Intuit Inc. $INTU Shares Bought by AIA Group Ltd - M…",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzI5WkN5ZDJ0Qm1uVXAyWnlhaWVfZnFjNUpmQW9KWEpNbDBzMDRKQjFlcUFIN1E5R293NWNHbldOa0xXamtXczlxYUpzUTV4SkhQOEREM3h1Slp0VUozSzNaSktMYTNOZm5pWDlZRUlubW9lNzdOWEdySDd1b2p5M0tPUzVRZEtGYjYteEV6Y3dXcl9tNUlqdFc3dllPb0VmcUhLVkVTSG5MeHduS0lQNDhvUU9NbWtTck8xQTlLcXh4YjZoNVh5Wg?oc=5",
-      "source": "Google News:INTU",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "IQV",
-      "short": "IQV — 業績／指引：Can IQVIA (NYSE:IQV) Lift Earnings Across the S&P 500? - Kalkine Media",
-      "detail": "IQV\n重點：業績／指引\n標題：Can IQVIA (NYSE:IQV) Lift Earnings Across the S&P 500? - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPckEtSmtYRk9FeVhBSlY2elVZVHNTYzRPMXZxTVJfVHdDTTF0ck8tM1ZYWndOcktzUzBtZFBiTkNmMG93djVKb3F2MnBISk9vNTAyZk8tS1pLU09IMDhVOHNiZnVqMmpmWkJ0VjNpWDR0bXliVU1kMXdaeUJLekFGTkdNSGFoci1RNGRSSU5hZFRoSHBMeUlMNzRSZw?oc=5\" target=\"_bla…\n來源：Google News:IQV\n其他：How Investors May Respond To IQVIA Holdings (IQV) Raised 20…",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPckEtSmtYRk9FeVhBSlY2elVZVHNTYzRPMXZxTVJfVHdDTTF0ck8tM1ZYWndOcktzUzBtZFBiTkNmMG93djVKb3F2MnBISk9vNTAyZk8tS1pLU09IMDhVOHNiZnVqMmpmWkJ0VjNpWDR0bXliVU1kMXdaeUJLekFGTkdNSGFoci1RNGRSSU5hZFRoSHBMeUlMNzRSZw?oc=5",
-      "source": "Google News:IQV",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "LNG",
-      "short": "LNG — Cheniere Energy (NYSE:LNG) Stock Rating Upgraded by Zacks Research - MarketBeat",
-      "detail": "LNG\n重點：新聞\n標題：Cheniere Energy (NYSE:LNG) Stock Rating Upgraded by Zacks Research - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOakk4Z1RxRlloYmlOX0FxUWlKN3hidlF0RHpwN0RpbHQtMUgyeldXZHZjbVM4NUdIbXVCZGhwcnlxcGZCMVFPcDJQbVdsVTh6Q2VhYWhBMXF5TE9GMUR5azF5MklvT0FpSFpSQ212RzFfaVpNY201ZGM3THRCYzMxcTJydlJsRHd4MzlvYnFFVDc4NTNSTmtHUGloemNCMEJkN3BIVlNSR0wwS…\n來源：Google News:LNG\n其他：4,102 Cheniere Energy, Inc. $LNG Shares Bought by Chicago P…",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOakk4Z1RxRlloYmlOX0FxUWlKN3hidlF0RHpwN0RpbHQtMUgyeldXZHZjbVM4NUdIbXVCZGhwcnlxcGZCMVFPcDJQbVdsVTh6Q2VhYWhBMXF5TE9GMUR5azF5MklvT0FpSFpSQ212RzFfaVpNY201ZGM3THRCYzMxcTJydlJsRHd4MzlvYnFFVDc4NTNSTmtHUGloemNCMEJkN3BIVlNSR0wwSEpRM3BzbFBsWmVUU3pVamVFd3I2Zm5SeWE3?oc=5",
-      "source": "Google News:LNG",
       "kind": "news"
     }
   ]
