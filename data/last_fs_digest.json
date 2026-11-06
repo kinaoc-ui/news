@@ -1,16 +1,16 @@
 {
-  "title": "FS新聞 11-06 12:42",
-  "list_name": "FirstScreen_2026-11-06_124220_comma.txt",
-  "created_at": "2026-11-06T12:42:27.285216+00:00",
+  "title": "FS新聞 11-06 17:16",
+  "list_name": "FirstScreen_2026-11-06_171635_comma.txt",
+  "created_at": "2026-11-06T17:16:43.243846+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "GH",
-      "short": "GH — 業績／指引：Guardant Health Shares Fall 5.5% as Higher Cash Burn Forecast Overshadows Strong Q3 Rev…",
-      "detail": "GH\n重點：業績／指引\n標題：Guardant Health Shares Fall 5.5% as Higher Cash Burn Forecast Overshadows Strong Q3 Revenue Growth\n摘要：Guardant Health (NASDAQ:GH) shares declined 5. 5% in premarket trading on Friday after the precision oncology company reported third-quarter 2026 financial results that exceeded analysts’ earnings and revenue expectations but raised its full-year cash consumption forecast.\n來源：Yahoo Finance:GH\n其他：Guardant Health (GH) Q3 2026 Earnings Call Transcript; Guardant Health Inc (GH) (Q3 2026) Earnings Call Highlights…",
-      "url": "https://investorshub.advfn.com/market-news/article/39421/guardant-health-shares-fall-5-5-as-higher-cash-burn-forecast-overshadows-strong-q3-revenue-growth?.tsrc=rss",
-      "source": "Yahoo Finance:GH",
+      "symbol": "MDT",
+      "short": "MDT — Medtronic (MDT) Wins FDA Label Expansion After Real World Symplicity Spyral Results",
+      "detail": "MDT\n重點：新聞\n標題：Medtronic (MDT) Wins FDA Label Expansion After Real World Symplicity Spyral Results\n摘要：Medtronic (NYSE:MDT) reported that its Symplicity Spyral Renal Denervation system cut blood pressure meaningfully in a large real world study. The new data supported an FDA label update that widens use of Symplicity Spyral for hypertension, chronic kidney disease, and type 2 dia…\n來源：Yahoo Finance:MDT\n其他：What Is Medtronic (MDT) Asking Of Hypertension Care With It…; Medtronic (NYSE:MDT): A Dividend Quality Play for Income In…; Medtronic PLC $MDT Stock Position Cut by Brady Family Wealt…",
+      "url": "https://finance.yahoo.com/healthcare/articles/medtronic-mdt-wins-fda-label-161356461.html?.tsrc=rss",
+      "source": "Yahoo Finance:MDT",
       "kind": "news"
     },
     {
@@ -24,42 +24,24 @@
     },
     {
       "n": 3,
-      "symbol": "MRK",
-      "short": "MRK — Merck & Co., Inc. $MRK Shares Sold by Commonwealth Equity Services LLC - MarketBeat",
-      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Shares Sold by Commonwealth Equity Services LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQS15TjR6Q2REUHQ0Uk13RE5iSjR1b3E5czlUWUo2TnhUd3Q0SW12Z0w5SDRTMDQ1eEw3THptdGJqb3h2RnhnaDhQWjhIbGRhUUNMUzAxWDZkOERDU3JrcXJQNDVlX1NYMV9iX3hhbkFQVWFrSGpjRWpIVFJuczh0bnVfMmY1Ti0tWlpWQ2pGNUlnYVZ0UVk3ZDg2YnlreWdnZ0hyU0FpOWJ4b…\n來源：Google News:MRK\n其他：Merck & Co., Inc. $MRK Stock Acquired by Compass Financial …; Merck & Co., Inc. $MRK Shares Acquired by Alta Advisers Ltd…",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQS15TjR6Q2REUHQ0Uk13RE5iSjR1b3E5czlUWUo2TnhUd3Q0SW12Z0w5SDRTMDQ1eEw3THptdGJqb3h2RnhnaDhQWjhIbGRhUUNMUzAxWDZkOERDU3JrcXJQNDVlX1NYMV9iX3hhbkFQVWFrSGpjRWpIVFJuczh0bnVfMmY1Ti0tWlpWQ2pGNUlnYVZ0UVk3ZDg2YnlreWdnZ0hyU0FpOWJ4bnNNWlhkeWpxVUl2bmNIUXBvVjdLOGJmNk0?oc=5",
-      "source": "Google News:MRK",
+      "symbol": "BILL",
+      "short": "BILL — AI相關、業績／指引：Will Earnings Beat Change BILL Holdings' (BILL) Narrative",
+      "detail": "BILL\n重點：AI相關、業績／指引\n標題：Will Earnings Beat Change BILL Holdings' (BILL) Narrative\n摘要：BILL Holdings reported fiscal Q1 2027 results for the quarter ended September 30, 2026, with revenue of US$353.77 million, net income of US$60.25 million, and diluted EPS from continuing operations of US$0.61, while non GAAP EPS of US$1.18 exceeded consensus estimates despite a …\n來源：Yahoo Finance:BILL\n其他：BILL Q1 Earnings Call Highlights",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-change-bill-holdings-151234219.html?.tsrc=rss",
+      "source": "Yahoo Finance:BILL",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "BILL",
-      "short": "BILL — 業績／指引：BILL Holdings, Inc. 2027 Q1 - Results - Earnings Call Presentation (NYSE:BILL) 2026-11-…",
-      "detail": "BILL\n重點：業績／指引\n標題：BILL Holdings, Inc. 2027 Q1 - Results - Earnings Call Presentation (NYSE:BILL) 2026-11-06 - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQN1d6b2hoX3lobVZma2tLY3JiaFZEdXNSVHc3WHVQYW9MbjU0cWJNaGpBcE1zY3hSdXdNQ0JyYkxTRk1zdDNFRENzZ2daZlZMV0w3Xy1aUFViRU52eml3cklzSklqQjdrMjRWeGFmSVp4SXpBTGhZXzlocWxLd3FkcGhpZy1LdmtnYnFhUnpXcmpVQVBGQ3VIRzY2OTB1ZkVNLU5z?oc=5\" ta…\n來源：Google News:BILL\n其他：BILL Holdings Inc (BILL) (Q1 2027) Earnings Call Highlights…",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN1d6b2hoX3lobVZma2tLY3JiaFZEdXNSVHc3WHVQYW9MbjU0cWJNaGpBcE1zY3hSdXdNQ0JyYkxTRk1zdDNFRENzZ2daZlZMV0w3Xy1aUFViRU52eml3cklzSklqQjdrMjRWeGFmSVp4SXpBTGhZXzlocWxLd3FkcGhpZy1LdmtnYnFhUnpXcmpVQVBGQ3VIRzY2OTB1ZkVNLU5z?oc=5",
-      "source": "Google News:BILL",
+      "symbol": "DNOW",
+      "short": "DNOW — 業績／指引：Earnings Beat Could Reset The Case For DNOW Stock (DNOW)",
+      "detail": "DNOW\n重點：業績／指引\n標題：Earnings Beat Could Reset The Case For DNOW Stock (DNOW)\n摘要：DNOW Inc. reported Q3 2026 sales of US$1.34b and net income of US$26 million, with adjusted EPS of US$0.18 beating analyst expectations despite a slight revenue miss. Management used the quarter to lift gross margins, grow EBITDA sequentially to US$76 million, and repurchase US$…\n來源：Yahoo Finance:DNOW\n其他：Earnings Beat Could Reset The Case For DNOW Stock (DNOW) - …",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-could-reset-case-131439422.html?.tsrc=rss",
+      "source": "Yahoo Finance:DNOW",
       "kind": "news"
     },
     {
       "n": 5,
-      "symbol": "CARG",
-      "short": "CARG — 業績／指引：CarGurus (CARG) Q3 2026 Earnings Call Transcript",
-      "detail": "CARG\n重點：業績／指引\n標題：CarGurus (CARG) Q3 2026 Earnings Call Transcript\n摘要：Dealers cut discounting ~10% per unit with new VINMAX and PriceVantage tools.\n來源：Yahoo Finance:CARG\n其他：CarGurus (CARG) Stock May Be Undervalued On Fresh Q3 Results",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/cargurus-carg-q3-2026-earnings-call-transcript/?.tsrc=rss",
-      "source": "Yahoo Finance:CARG",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "COF",
-      "short": "COF — 7,938 Capital One Financial Corporation $COF Shares Sold by Legacy Financial Independen…",
-      "detail": "COF\n重點：新聞\n標題：7,938 Capital One Financial Corporation $COF Shares Sold by Legacy Financial Independent Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZC00SWxwWExTV1NKWnRfLWQwdjIzZEtwOTYxYlljN3BlODBOUHZhVjJkMTJXcjhqUk1KSzN1aXBYaURtaTV3WU5WODBJMldROW5WTThPbDQxdXl5X0I0VjNianRoR0pfcTZlaExwTzFvSkdaMzRUZExxVWFIY19SMnRPaHZKak5YRm8zakpvWmtOb2VoSk5LVkY4TndhM1djdVp3Yld2cEU0M…\n來源：Google News:COF\n其他：Capital One Financial Corporation $COF Stock: AIA Group Ltd…",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZC00SWxwWExTV1NKWnRfLWQwdjIzZEtwOTYxYlljN3BlODBOUHZhVjJkMTJXcjhqUk1KSzN1aXBYaURtaTV3WU5WODBJMldROW5WTThPbDQxdXl5X0I0VjNianRoR0pfcTZlaExwTzFvSkdaMzRUZExxVWFIY19SMnRPaHZKak5YRm8zakpvWmtOb2VoSk5LVkY4TndhM1djdVp3Yld2cEU0MFJfejFLU0J6aXRlYzVOSHpGcHhMeUpjZm55cHVUQkZuVkV3ZGZOblM3djJsUE5QZGdLVzFOeDRTbnYxQlZ6UGRPOVRpRDRLUQ?oc=5",
-      "source": "Google News:COF",
-      "kind": "news"
-    },
-    {
-      "n": 7,
       "symbol": "JD",
       "short": "JD — JD.com, Inc. $JD Shares Acquired by Pekin Hardy Strauss Inc. - MarketBeat",
       "detail": "JD\n重點：新聞\n標題：JD.com, Inc. $JD Shares Acquired by Pekin Hardy Strauss Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNZEM5Y1poTUh4My1IbGpyTTh3OTdyQTJqT0lBZ2h4MFZiUC1IT0tqNjZOVkdtaXhrbVBXcUlIaE1yb2drdXZtZTF1YUJiejJpX1NHUlUyN1dFaFJBR3hRODlQQXpfMmNnekc1LW1OeXA3bmluMUQ0T0dzQnlDcXh1Vnd5eTROZTk3THFQMXhUODNVSXJyUGxUZjFiUmFHRFItVFhmMkFXaVZ4T…\n來源：Google News:JD\n其他：JD.com (NASDAQ:JD) Shares Break Above 200-Day Moving Averag…",
@@ -68,34 +50,16 @@
       "kind": "news"
     },
     {
-      "n": 8,
-      "symbol": "MDT",
-      "short": "MDT — Medtronic (NYSE:MDT): A Dividend Quality Play for Income Investors - ChartMill",
-      "detail": "MDT\n重點：新聞\n標題：Medtronic (NYSE:MDT): A Dividend Quality Play for Income Investors - ChartMill\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOWmY4bUgxa1pDdWstZ3dwdk40bmpLY09ZSEJWY3VXUk5rZVM4a1RJdy1aY3psb0FqVkNVczZnY1B6eFZ4N1U0djFna2VUVDJ4YTZzYVJJYWJwY2hhSllRbWlwaTNhemRsQ19uOEdKNy1OVlV2enBWZy1EcjRTeG8zNlE3aFhPMWpvX1Rmcm9ya2pyVGJOZXVGNlhwa21nYjcwU2JsRTNzVnpFM…\n來源：Google News:MDT\n其他：Medtronic PLC $MDT Stock Position Cut by Brady Family Wealt…",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWmY4bUgxa1pDdWstZ3dwdk40bmpLY09ZSEJWY3VXUk5rZVM4a1RJdy1aY3psb0FqVkNVczZnY1B6eFZ4N1U0djFna2VUVDJ4YTZzYVJJYWJwY2hhSllRbWlwaTNhemRsQ19uOEdKNy1OVlV2enBWZy1EcjRTeG8zNlE3aFhPMWpvX1Rmcm9ya2pyVGJOZXVGNlhwa21nYjcwU2JsRTNzVnpFMHdrTmpDQWlVNA?oc=5",
-      "source": "Google News:MDT",
+      "n": 6,
+      "symbol": "ROKU",
+      "short": "ROKU — 併購／交易：Fox completes its $22B acquisition of Roku",
+      "detail": "ROKU\n重點：併購／交易\n標題：Fox completes its $22B acquisition of Roku\n摘要：A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.\n來源：Yahoo Finance:ROKU\n其他：FOX CORPORATION COMPLETES ACQUISITION OF ROKU",
+      "url": "https://finance.yahoo.com/media-advertising/articles/fox-completes-22b-acquisition-roku-160536684.html?.tsrc=rss",
+      "source": "Yahoo Finance:ROKU",
       "kind": "news"
     },
     {
-      "n": 9,
-      "symbol": "ALSN",
-      "short": "ALSN — 業績／指引：How Raised 2026 Guidance At Allison Transmission Holdings (ALSN) Has Changed Its Invest…",
-      "detail": "ALSN\n重點：業績／指引\n標題：How Raised 2026 Guidance At Allison Transmission Holdings (ALSN) Has Changed Its Investment Story - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcFBmUGQzQ0RRRUdxTmZaTHQxcl9NbHJrV1B6NXdWOHI3bDlzTWQyMU5iNEZVazRFYWF0Ui13VWJsUGItT0lJdkhfYWtJVkNObTRBTGJEeS0tM3RaQ2k0eGFZdDI2ZENpVWFYOFJYcHBnVzRjWkg3TzFrNVFxV0t3OFFXbjd6bldoQUJwbnJsSDZOVUJOVHJLaDJPamZ5Rm5WMkZUdmY1dElOM…\n來源：Google News:ALSN",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcFBmUGQzQ0RRRUdxTmZaTHQxcl9NbHJrV1B6NXdWOHI3bDlzTWQyMU5iNEZVazRFYWF0Ui13VWJsUGItT0lJdkhfYWtJVkNObTRBTGJEeS0tM3RaQ2k0eGFZdDI2ZENpVWFYOFJYcHBnVzRjWkg3TzFrNVFxV0t3OFFXbjd6bldoQUJwbnJsSDZOVUJOVHJLaDJPamZ5Rm5WMkZUdmY1dElOMG4tQ3BnWHJOLVpxSEVXVmVNY21CZkNhQXVFX2ExcEd5UWEzc1g1RUZfU2R3N2RjS0VfSVdQQ3laOUl2Z9IB6wFBVV95cUxPLUVKalJVYWJRajRLVWMyWVhWUkJIVWpuR1o4QjZTSHJ4emdBZDByaWxwX2JNV2RyLTFpX3VCaGVralEyTjRHVkE2Z0lkTXNDbUdGeXVYQ2tYNXdEbmNEajFmYjJXS1BHeVN5WS02VmkxNWp1emY2MUxhZEljbXlTSEV5eXFjME5ZZnFCbnRQZjhkMlB1TE44a3p1c3Q0Y3kyRkdyNkQ5NXNvMkdEOTRYZ1RYRmpUal8zYktFbWlqYUxfbUlHTVF2Tkx0d1E4aTIyYUFGWEd5WEhyZDBRRDktNEJGaGhtTF9wNnBZ?oc=5",
-      "source": "Google News:ALSN",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "ANET",
-      "short": "ANET — Melius Research Begins Coverage on Arista Networks (NYSE:ANET) - MarketBeat",
-      "detail": "ANET\n重點：新聞\n標題：Melius Research Begins Coverage on Arista Networks (NYSE:ANET) - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOYUpEZC1iS25LQVIwWTg1VXBGQVZBTGFJdUdRanFTWVNEcEs1UXNUeG9TVk54YXA0VkVMR2o5azdyanRLdmNFT0FKb2hVX0hHckQ4bVlqdVUyM0FHUTlDeWdxd3J1ZG9OZFF5MXQ4NVNydTFkaWdrODNTVDctVzZEaTBJcDRkWlhEajFvVldSa2hYTEFFRkpxaUVQZW5PQ3dGcF9XMjhITUhFN…\n來源：Google News:ANET",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYUpEZC1iS25LQVIwWTg1VXBGQVZBTGFJdUdRanFTWVNEcEs1UXNUeG9TVk54YXA0VkVMR2o5azdyanRLdmNFT0FKb2hVX0hHckQ4bVlqdVUyM0FHUTlDeWdxd3J1ZG9OZFF5MXQ4NVNydTFkaWdrODNTVDctVzZEaTBJcDRkWlhEajFvVldSa2hYTEFFRkpxaUVQZW5PQ3dGcF9XMjhITUhFNm9OTFFzQi1SdkJsWmNGYUw3Y3pWRQ?oc=5",
-      "source": "Google News:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 11,
+      "n": 7,
       "symbol": "BDX",
       "short": "BDX — 業績／指引：Becton, Dickinson and Company Q4 Earnings Call Highlights",
       "detail": "BDX\n重點：業績／指引\n標題：Becton, Dickinson and Company Q4 Earnings Call Highlights\n摘要：Becton, Dickinson and Company (NYSE:BDX) reported higher fiscal fourth-quarter revenue and adjusted earnings as demand for patient monitoring, biologic drug delivery and other products helped offset a difficult comparison for its Alaris infusion platform. The medical technology …\n來源：Yahoo Finance:BDX",
@@ -104,12 +68,48 @@
       "kind": "news"
     },
     {
+      "n": 8,
+      "symbol": "BTG",
+      "short": "BTG — 業績／指引：B2Gold Q3 Earnings Beat Estimates on Strong Gold Prices",
+      "detail": "BTG\n重點：業績／指引\n標題：B2Gold Q3 Earnings Beat Estimates on Strong Gold Prices\n摘要：BTG beats Q3 earnings estimates as higher gold prices lift revenues, while lower AISC guidance and expansion plans support production growth.\n來源：Yahoo Finance:BTG",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/b2gold-q3-earnings-beat-estimates-142900931.html?.tsrc=rss",
+      "source": "Yahoo Finance:BTG",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "BXSL",
+      "short": "BXSL — Blackstone Secured Lending: The Dividend Has Reset - My Caution Hasn't (NYSE:BXSL) - Se…",
+      "detail": "BXSL\n重點：新聞\n標題：Blackstone Secured Lending: The Dividend Has Reset - My Caution Hasn't (NYSE:BXSL) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0RMODdnMlhhb0dRZjUyV2xQNERCcXZGVDE1bG04TjBDeUxXdmVKeXY0T0V2clhOMVh6VVotUGp5a25DbXpURzNmRzMxN3NwZ2ZVOGxoUEZ4OXNwbnhLNU5fdFdNUG1EdlZyTFlRS0lUQURaTmFKd0VNMU00RUZsamNkZXlrSENZYVFDRE85TGExNHBIYnhSZjl2Ym9jNnhfcmtZb0J1MGk0N…\n來源：Google News:BXSL",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0RMODdnMlhhb0dRZjUyV2xQNERCcXZGVDE1bG04TjBDeUxXdmVKeXY0T0V2clhOMVh6VVotUGp5a25DbXpURzNmRzMxN3NwZ2ZVOGxoUEZ4OXNwbnhLNU5fdFdNUG1EdlZyTFlRS0lUQURaTmFKd0VNMU00RUZsamNkZXlrSENZYVFDRE85TGExNHBIYnhSZjl2Ym9jNnhfcmtZb0J1MGk0NTg?oc=5",
+      "source": "Google News:BXSL",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "CARG",
+      "short": "CARG — 業績／指引：CarGurus Inc (CARG) (Q3 2026) Earnings Call Highlights: Revenue Tops $258 Million as De…",
+      "detail": "CARG\n重點：業績／指引\n標題：CarGurus Inc (CARG) (Q3 2026) Earnings Call Highlights: Revenue Tops $258 Million as Dealer ...\n摘要：CarGurus Inc (CARG) posted 12% revenue growth and its best quarter of net U.S. dealer additions this year, while guiding Q4 revenue to $258.5-$263.5 million and authorizing a new $250 million buyback.\n來源：Yahoo Finance:CARG",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cargurus-inc-carg-q3-2026-131409400.html?.tsrc=rss",
+      "source": "Yahoo Finance:CARG",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "COF",
+      "short": "COF — 7,938 Capital One Financial Corporation $COF Shares Sold by Legacy Financial Independen…",
+      "detail": "COF\n重點：新聞\n標題：7,938 Capital One Financial Corporation $COF Shares Sold by Legacy Financial Independent Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZC00SWxwWExTV1NKWnRfLWQwdjIzZEtwOTYxYlljN3BlODBOUHZhVjJkMTJXcjhqUk1KSzN1aXBYaURtaTV3WU5WODBJMldROW5WTThPbDQxdXl5X0I0VjNianRoR0pfcTZlaExwTzFvSkdaMzRUZExxVWFIY19SMnRPaHZKak5YRm8zakpvWmtOb2VoSk5LVkY4TndhM1djdVp3Yld2cEU0M…\n來源：Google News:COF",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZC00SWxwWExTV1NKWnRfLWQwdjIzZEtwOTYxYlljN3BlODBOUHZhVjJkMTJXcjhqUk1KSzN1aXBYaURtaTV3WU5WODBJMldROW5WTThPbDQxdXl5X0I0VjNianRoR0pfcTZlaExwTzFvSkdaMzRUZExxVWFIY19SMnRPaHZKak5YRm8zakpvWmtOb2VoSk5LVkY4TndhM1djdVp3Yld2cEU0MFJfejFLU0J6aXRlYzVOSHpGcHhMeUpjZm55cHVUQkZuVkV3ZGZOblM3djJsUE5QZGdLVzFOeDRTbnYxQlZ6UGRPOVRpRDRLUQ?oc=5",
+      "source": "Google News:COF",
+      "kind": "news"
+    },
+    {
       "n": 12,
-      "symbol": "BHP",
-      "short": "BHP — 業績／指引：BHP stock faces copper recovery test as FY27 guidance holds - ad-hoc-news.de",
-      "detail": "BHP\n重點：業績／指引\n標題：BHP stock faces copper recovery test as FY27 guidance holds - ad-hoc-news.de\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNdU9Vc09YRmVFbDJrTHUzQ3RpZmVfVzNJOUNDeVkwYmd1TTZKTmF6SXJGemNXaEozRGF1bjZPNno3STc1V3hwa2R5UDF3VFJITy1LSl85aTZ6SnV3d0NBMHRGQTRKdVFVTUJzMGVYeUtmcE53TmVrR1kzREhoMWJZQWhES2VZdUpuWUJSS0pTREZxMWpvanNUZENxdldoaFJnMFY4TGpjQ2VVT…\n來源：Google News:BHP",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdU9Vc09YRmVFbDJrTHUzQ3RpZmVfVzNJOUNDeVkwYmd1TTZKTmF6SXJGemNXaEozRGF1bjZPNno3STc1V3hwa2R5UDF3VFJITy1LSl85aTZ6SnV3d0NBMHRGQTRKdVFVTUJzMGVYeUtmcE53TmVrR1kzREhoMWJZQWhES2VZdUpuWUJSS0pTREZxMWpvanNUZENxdldoaFJnMFY4TGpjQ2VVTklxaUhxa3NXUjZLTGVjazBNMjFaNA?oc=5",
-      "source": "Google News:BHP",
+      "symbol": "GGB",
+      "short": "GGB — Gerdau (NYSE:GGB) Stock Price Breaks Below 200-Day Moving Average - What's Next? - Mark…",
+      "detail": "GGB\n重點：新聞\n標題：Gerdau (NYSE:GGB) Stock Price Breaks Below 200-Day Moving Average - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNcmg5aWRVeUFZcDJjTmliZUgzcGJLMHktbE82bXB4UDlIRWpKejRUWGh4Zy0tQnNwM2NVR09RaEJwaHNtLTgtcTU0eDFHcHUycUNXek1mdWxsLUlFMjgxbDI1SmhWVjdZTGk2NVR1TGZNVU5VcmN2SnAtWDc4Q3I5NEtWbVE5QnJjVUE0SnA3RUQ5bE83d19jVGRGZlFPZWpfZEduNnF4NC1kQ…\n來源：Google News:GGB",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcmg5aWRVeUFZcDJjTmliZUgzcGJLMHktbE82bXB4UDlIRWpKejRUWGh4Zy0tQnNwM2NVR09RaEJwaHNtLTgtcTU0eDFHcHUycUNXek1mdWxsLUlFMjgxbDI1SmhWVjdZTGk2NVR1TGZNVU5VcmN2SnAtWDc4Q3I5NEtWbVE5QnJjVUE0SnA3RUQ5bE83d19jVGRGZlFPZWpfZEduNnF4NC1kQS1PTGlBSThyV3psSGs5LV9KYWZoaGhMbDlzLUhxZnRZQmsxY2s?oc=5",
+      "source": "Google News:GGB",
       "kind": "news"
     }
   ]
