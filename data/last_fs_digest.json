@@ -1,34 +1,34 @@
 {
-  "title": "FS新聞 11-08 11:40",
-  "list_name": "FirstScreen_2026-11-08_114027_comma.txt",
-  "created_at": "2026-11-08T11:40:33.162347+00:00",
+  "title": "FS新聞 11-08 16:33",
+  "list_name": "FirstScreen_2026-11-08_163334_comma.txt",
+  "created_at": "2026-11-08T16:33:39.926174+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "MDT",
+      "short": "MDT — Medtronic PLC $MDT Position Lifted by Kimelman & Baird LLC - MarketBeat",
+      "detail": "MDT\n重點：新聞\n標題：Medtronic PLC $MDT Position Lifted by Kimelman & Baird LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXhsVS1RcE1BTzFtOFlIMTNCczZYZGhtWGJSUzNPa21INW5QOGRzT0Y3cmhEaHphWTZRcHZUVDYtRFhKWnozWk01ZTR4Nm1XQ29oeENDaGZLNlRSV1FzaWllc21YajRuUm14MmM4V2VYdHZCM1hWdFBGcnExX1ktQWZHdHMtc3dadENNeG5kVThDemgyOFJPZXhOcGhWalZYUVhMSDJVc0ZYV…\n來源：Google News:MDT\n其他：Medtronic PLC $MDT Stock Purchased by Ethic Inc. - MarketBe…; Medtronic PLC $MDT Stock: Commonwealth Equity Services LLC …",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXhsVS1RcE1BTzFtOFlIMTNCczZYZGhtWGJSUzNPa21INW5QOGRzT0Y3cmhEaHphWTZRcHZUVDYtRFhKWnozWk01ZTR4Nm1XQ29oeENDaGZLNlRSV1FzaWllc21YajRuUm14MmM4V2VYdHZCM1hWdFBGcnExX1ktQWZHdHMtc3dadENNeG5kVThDemgyOFJPZXhOcGhWalZYUVhMSDJVc0ZYV1NqSnJOb3lLSWlPWVE?oc=5",
+      "source": "Google News:MDT",
+      "kind": "news"
+    },
+    {
+      "n": 2,
       "symbol": "BNY",
       "short": "BNY — Bank of New York Mellon Corporation $BNY Stock Sold by Candriam S.C.A. - MarketBeat",
-      "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon Corporation $BNY Stock Sold by Candriam S.C.A. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ1lEc1d3dnRkb1BoLS1aQU8taHVmNHZMb1lveWNwRDBGNktwUk8zU09hbURSUWtRejJiRTJkdEl0S2h3ZjltYVFMYUN2MTEzd0NaN2hrMjhGdjlMczZQVUJrODN4bnlycXJsNUhINE9WdXVVakdBV1FwTmpKT0hXMFhrQWRqQ0NIWHg0QmxLalczeFgtSnRKMEZCWVRoUFhZNDhodFh3YkdJT…\n來源：Google News:BNY\n其他：Bank of New York Mellon Corporation $BNY Shares Newly Acqui…; Bank of New York Mellon Corporation (NYSE:BNY) Stock Rated …",
+      "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon Corporation $BNY Stock Sold by Candriam S.C.A. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ1lEc1d3dnRkb1BoLS1aQU8taHVmNHZMb1lveWNwRDBGNktwUk8zU09hbURSUWtRejJiRTJkdEl0S2h3ZjltYVFMYUN2MTEzd0NaN2hrMjhGdjlMczZQVUJrODN4bnlycXJsNUhINE9WdXVVakdBV1FwTmpKT0hXMFhrQWRqQ0NIWHg0QmxLalczeFgtSnRKMEZCWVRoUFhZNDhodFh3YkdJT…\n來源：Google News:BNY\n其他：Bank of New York Mellon Corporation $BNY Shares Newly Acqui…",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ1lEc1d3dnRkb1BoLS1aQU8taHVmNHZMb1lveWNwRDBGNktwUk8zU09hbURSUWtRejJiRTJkdEl0S2h3ZjltYVFMYUN2MTEzd0NaN2hrMjhGdjlMczZQVUJrODN4bnlycXJsNUhINE9WdXVVakdBV1FwTmpKT0hXMFhrQWRqQ0NIWHg0QmxLalczeFgtSnRKMEZCWVRoUFhZNDhodFh3YkdJTURpOWFVWTJBNWtaTjFJN0xJTW1NUWpuOXZ1R3c?oc=5",
       "source": "Google News:BNY",
       "kind": "news"
     },
     {
-      "n": 2,
+      "n": 3,
       "symbol": "CRM",
       "short": "CRM — Salesforce Inc. $CRM Stock Sold by Pictet Asset Management Holding SA - MarketBeat",
       "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stock Sold by Pictet Asset Management Holding SA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOSUhncTBIZ1lpbmE5UXBPNWZxb1lQeS1zNGRZbE96WXY2YXR2YWZfanN6R2NUNlY2M0l1SWJaR202TS1zczJXT2Y3QTlLaVE5QWlHc3Q1VTJkUi1rQnNNdVZUdE9fQy00cWF0cjloc0x4bzR1UUZKSC1vZmJ0dUdKMUJiTGxMVXdXa213QTYza0kwOGlLbDdxd2xEQWluUlBuVE5kc3czOTdaW…\n來源：Google News:CRM\n其他：Salesforce Inc. $CRM Stake Raised by Candriam S.C.A. - Mark…",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSUhncTBIZ1lpbmE5UXBPNWZxb1lQeS1zNGRZbE96WXY2YXR2YWZfanN6R2NUNlY2M0l1SWJaR202TS1zczJXT2Y3QTlLaVE5QWlHc3Q1VTJkUi1rQnNNdVZUdE9fQy00cWF0cjloc0x4bzR1UUZKSC1vZmJ0dUdKMUJiTGxMVXdXa213QTYza0kwOGlLbDdxd2xEQWluUlBuVE5kc3czOTdaWnd2b0lqNzVmT3FWZ2xKMXd4bTVEWkpXZ1JRNGJN?oc=5",
       "source": "Google News:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "MDT",
-      "short": "MDT — Medtronic PLC $MDT Stock Purchased by Ethic Inc. - MarketBeat",
-      "detail": "MDT\n重點：新聞\n標題：Medtronic PLC $MDT Stock Purchased by Ethic Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNREZaclpUdjlBRVJ1ellKQlFucVQ0aTVUR29RTGVHR0plNy1JWkoweXNPVFp0QjR3dFZwVnhEY0FkbTZ0a3JmWmNlT2RfY3laZ1lUYVY3Z2JtRE5kV3Y4Ml9WeXo5eFJuYmF5MzhFblU1Wm02alg5OFh1UHlTUGJ2ZzJvY2JQWjV2X0lzSGhyOV9EdFVJQlVpRUthZ3ZKY08zUlpNa1lnNExqO…\n來源：Google News:MDT\n其他：Medtronic PLC $MDT Stock: Commonwealth Equity Services LLC …",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNREZaclpUdjlBRVJ1ellKQlFucVQ0aTVUR29RTGVHR0plNy1JWkoweXNPVFp0QjR3dFZwVnhEY0FkbTZ0a3JmWmNlT2RfY3laZ1lUYVY3Z2JtRE5kV3Y4Ml9WeXo5eFJuYmF5MzhFblU1Wm02alg5OFh1UHlTUGJ2ZzJvY2JQWjV2X0lzSGhyOV9EdFVJQlVpRUthZ3ZKY08zUlpNa1lnNExqOWs?oc=5",
-      "source": "Google News:MDT",
       "kind": "news"
     },
     {
@@ -42,6 +42,24 @@
     },
     {
       "n": 5,
+      "symbol": "OKTA",
+      "short": "OKTA — Pictet Asset Management Holding SA Sells 467,586 Shares of Okta, Inc. $OKTA - MarketBeat",
+      "detail": "OKTA\n重點：新聞\n標題：Pictet Asset Management Holding SA Sells 467,586 Shares of Okta, Inc. $OKTA - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOb0VFRGw0bU52MTZGa0Nvc0pMWExheTZhMkRZdkxfMDRKVkVtRk5tSjdiLUFNcGpUX2J1Z2Z1UU9oUGVSZDFveG5PVjVzbmZ3Vi1XWks0eUwzTFYzbmg1Y2NqMXBudVR0dXZMRlQxaU1lNWg5NF8zUVI5aE55amJOc2pCNkpTZ0R1azU0akkyYlJUUTl3LURRMUpKZzF1SHRtOGlpaTN1SzB4Q…\n來源：Google News:OKTA\n其他：Okta, Inc. $OKTA Shares Newly Purchased by Rakuten Investme…",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb0VFRGw0bU52MTZGa0Nvc0pMWExheTZhMkRZdkxfMDRKVkVtRk5tSjdiLUFNcGpUX2J1Z2Z1UU9oUGVSZDFveG5PVjVzbmZ3Vi1XWks0eUwzTFYzbmg1Y2NqMXBudVR0dXZMRlQxaU1lNWg5NF8zUVI5aE55amJOc2pCNkpTZ0R1azU0akkyYlJUUTl3LURRMUpKZzF1SHRtOGlpaTN1SzB4QWc2LTJVdHlwT2x0MjEtSFg5RW1BZW1jcDFTMmY2ZTF2UUg?oc=5",
+      "source": "Google News:OKTA",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "A",
+      "short": "A — Prediction: A Stock Market Crash Is Coming. Here's What Dividend Investors Should Do Ba…",
+      "detail": "A\n重點：新聞\n標題：Prediction: A Stock Market Crash Is Coming. Here's What Dividend Investors Should Do Based on Warren Buffett's Advice - The Motley Fool\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNY0lIV2Z3enNrdG9KaGNJQVZrbkhXRE5sTWw0bDRkSzBWckNCYUd5VDZ0ZmZ3RER1TDU0NDBSaGhPWkQxNC1qTm54bll5Zm5YRTJ2NGZVS3FpX0hnMWpZZVhVeFVLcWotWGpBOFg5TGVGREw2Y0ZXZ1MxWU1rTTM1bU15VFlyZEpxVjExSVhFMGtVemIzN2ZXZS1SWDRQT2xJZi1LZG9QaHNBY…\n來源：Google News:A",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNY0lIV2Z3enNrdG9KaGNJQVZrbkhXRE5sTWw0bDRkSzBWckNCYUd5VDZ0ZmZ3RER1TDU0NDBSaGhPWkQxNC1qTm54bll5Zm5YRTJ2NGZVS3FpX0hnMWpZZVhVeFVLcWotWGpBOFg5TGVGREw2Y0ZXZ1MxWU1rTTM1bU15VFlyZEpxVjExSVhFMGtVemIzN2ZXZS1SWDRQT2xJZi1LZG9QaHNBYUFYM2JYVXh2LVBxQ3M3dWlrMmxQR01XUHI1S0M1dHZrdG1Wd3A3MlhoNFR0dFQtamVBVF9NTjRXXzJUaURGbmV0N0VXTQ?oc=5",
+      "source": "Google News:A",
+      "kind": "news"
+    },
+    {
+      "n": 7,
       "symbol": "ADT",
       "short": "ADT — ADT Inc. (NYSE:ADT) Stock Rated \"Hold\" by Sell-Side Brokerages - MarketBeat",
       "detail": "ADT\n重點：新聞\n標題：ADT Inc. (NYSE:ADT) Stock Rated \"Hold\" by Sell-Side Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQcm94WnQwSkpUVEJuUVdNV0I1STFUdVU1ZDNBczBNOUI1MmU4c1prV2R1bjdNSjNBY1hGQ3NTd2UxN0dzTHF0T3huejV2RHRrOVIxNEpKX0w3R2I4bXhzbU1xWGwzVTh2VTJNMFZuOXA5eW1oekpydmlTZTBweHg1a1I4TldseDN5eFNxelNXS1RoUFJvOGNGSHMxcHlUeURmOVlWMUJkSkJMT…\n來源：Google News:ADT",
@@ -50,7 +68,7 @@
       "kind": "news"
     },
     {
-      "n": 6,
+      "n": 8,
       "symbol": "ANET",
       "short": "ANET — Arista Networks, Inc. $ANET Shares Acquired by Kestra Advisory Services LLC - MarketBeat",
       "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Shares Acquired by Kestra Advisory Services LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUtMNmxNZTZ5T3VjRzlHdjdtMUlmZGlJMVFoQkJRNERpajlteEh3OWk3aFJZdU9ycjlWV3dHVUdVaXZPOXZZNlg3bmlFX1JPNE1FeG5WV2V3dVhmdkM2SEpEenA5d2Y2Q0tTNDljRFlHeTRRTXJzajNpVjhnYmI2aE1pLXI5YkhIVGlnaDFIV2NXejhWZGh2aHZWSTlvdE1vcklKTDdyN2Z5Y…\n來源：Google News:ANET",
@@ -59,16 +77,7 @@
       "kind": "news"
     },
     {
-      "n": 7,
-      "symbol": "BKNG",
-      "short": "BKNG — Booking Holdings Inc. (NASDAQ:BKNG) Stock Has Average Target Price of $222.35 According…",
-      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. (NASDAQ:BKNG) Stock Has Average Target Price of $222.35 According to Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMXBtMF9GLXk2MDVFbGE1aGZ0TXpyM25hZXNRUy1Vak1FVU1UZmQ3ZUhfc1phcm04cmEzZXNoWFcyYUtMY1Y1cEVocm5xM3ZzMUg0YS1sc0FHMS1pREhpNzNWbmd3UkhhUUcyRW90MEJacWl3blhXelhUYUJpd1BrdGNMMU1reTI4X0R1N2stOTh4UlREQkxGS194Q3o5MVhSUDZpR3JzazVmT…\n來源：Google News:BKNG",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMXBtMF9GLXk2MDVFbGE1aGZ0TXpyM25hZXNRUy1Vak1FVU1UZmQ3ZUhfc1phcm04cmEzZXNoWFcyYUtMY1Y1cEVocm5xM3ZzMUg0YS1sc0FHMS1pREhpNzNWbmd3UkhhUUcyRW90MEJacWl3blhXelhUYUJpd1BrdGNMMU1reTI4X0R1N2stOTh4UlREQkxGS194Q3o5MVhSUDZpR3JzazVmTWdjN1A5M3FGd0txM2ZFMDdra2RXeDVwY1pFWmtIOXNROVJRMVRWSUlLT1pYdVNYNy0wZGhzRnN3MnFyUFlnTTB4T01iX2kwZw?oc=5",
-      "source": "Google News:BKNG",
-      "kind": "news"
-    },
-    {
-      "n": 8,
+      "n": 9,
       "symbol": "CARG",
       "short": "CARG — CarGurus (CARG) Stock May Trade At A Discount As Buyback News Lands - Simply Wall St",
       "detail": "CARG\n重點：新聞\n標題：CarGurus (CARG) Stock May Trade At A Discount As Buyback News Lands - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX0xTUG94cjl0dnY3YUhHZFcwbm9YdDYzRk04ejhxOXZSQ2trU3ZBWlRPWTN3UVU2Y2VuOUR0NEFkREtaZ1lTQ3JuR1dPR0lySG44OUhQZVNzSGthdl9sSXBRYjhlaEROMkgxREl4NXhZZHdadVUybkhWRjBaMm92ZGhrd2R4WVphTnVkNHMtTDVEdXR4WUZQU1pJaFczc3lyekVCUG1NVTFrN…\n來源：Google News:CARG",
@@ -77,16 +86,16 @@
       "kind": "news"
     },
     {
-      "n": 9,
-      "symbol": "CRSP",
-      "short": "CRSP — 業績／指引：CRISPR Therapeutics (NASDAQ:CRSP) Issues Earnings Results - MarketBeat",
-      "detail": "CRSP\n重點：業績／指引\n標題：CRISPR Therapeutics (NASDAQ:CRSP) Issues Earnings Results - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPbm5zdnZNY1o2VkxydDRaWDZtTVhIUDI1b1N6amNnSnpQNDlLcnliZVBnU3FGM1dxNjJyRE5rSUhIVFJENG9GdWJhQkhIM2d2bGlzMjlWNmlrczVBeUJIQngyVkZyQjFMeVVvbEVBOU51SFJsckNqM1ZoU2liLWNFeTU5Q0l5Y21Db0FGUG00a04tMXBCS2Q5dVJRN3JPa1FBQUVyMHBMMDI4R…\n來源：Google News:CRSP",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbm5zdnZNY1o2VkxydDRaWDZtTVhIUDI1b1N6amNnSnpQNDlLcnliZVBnU3FGM1dxNjJyRE5rSUhIVFJENG9GdWJhQkhIM2d2bGlzMjlWNmlrczVBeUJIQngyVkZyQjFMeVVvbEVBOU51SFJsckNqM1ZoU2liLWNFeTU5Q0l5Y21Db0FGUG00a04tMXBCS2Q5dVJRN3JPa1FBQUVyMHBMMDI4R2dDaTc0OWQwbnF6Q3ZycUE?oc=5",
-      "source": "Google News:CRSP",
+      "n": 10,
+      "symbol": "ECL",
+      "short": "ECL — AI相關：Morgan Stanley Sees AI Making Ecolab’s (ECL) Competitive Moat Even Stronger",
+      "detail": "ECL\n重點：AI相關\n標題：Morgan Stanley Sees AI Making Ecolab’s (ECL) Competitive Moat Even Stronger\n摘要：We just published a list of the 10 Stocks to Watch from Morgan Stanley’s Ultra-Selective Tailwinds Strategy, and Ecolab Inc. (NYSE:ECL) ranked 8th on this list. Artificial intelligence is rapidly reshaping the current corporate landscape. However, the next phase of its economic …\n來源：Yahoo Finance:ECL",
+      "url": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-sees-ai-making-143634996.html?.tsrc=rss",
+      "source": "Yahoo Finance:ECL",
       "kind": "news"
     },
     {
-      "n": 10,
+      "n": 11,
       "symbol": "EL",
       "short": "EL — The Estee Lauder Companies Inc. $EL Shares Bought by CenterBook Partners LP - MarketBeat",
       "detail": "EL\n重點：新聞\n標題：The Estee Lauder Companies Inc. $EL Shares Bought by CenterBook Partners LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOemV0eWhIMUtFcjItU3lkNl9oMjktVTZxclE4OTJYd0EzeFhQUW84UE5TWWRQcEsyS2FBSUhjeHg3WEEzUDMxaDlZc3docEZJS1RvTG9nM3hXWVVvckt2U1l1ajU4aHlPWjFtVzFZaGo2clVScHpfTEduYUlSdHB0OC1ZWjhxbDZadl9XX284Q0VEZUhJRFAxMVZtUktpRmlfRzViQW9hYXcxa…\n來源：Google News:EL",
@@ -95,21 +104,12 @@
       "kind": "news"
     },
     {
-      "n": 11,
+      "n": 12,
       "symbol": "FRSH",
       "short": "FRSH — 214,256 Shares of Freshworks Inc. $FRSH Acquired by CenterBook Partners LP - MarketBeat",
       "detail": "FRSH\n重點：新聞\n標題：214,256 Shares of Freshworks Inc. $FRSH Acquired by CenterBook Partners LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0h4OE1Xdk5sWWd2MVY5Q0FhNkttVy1xRXZYdzRNeWNvX0JIWUctdmstMjZMNTlUYmU5S0FyUUw2Ym41NTF0VnJ0aThxcHJNbUlUM0FPSU9xel9GYTNlQTRRSEVxWG5DSzYxVEs2ZE1uZzBNb1IwYjY4bU9odG96UmczXzNUcGcwSV9OR0wxbmxLZnJSeUVNOFNIUDg1U09SWGRvMFZjU2k0a…\n來源：Google News:FRSH",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0h4OE1Xdk5sWWd2MVY5Q0FhNkttVy1xRXZYdzRNeWNvX0JIWUctdmstMjZMNTlUYmU5S0FyUUw2Ym41NTF0VnJ0aThxcHJNbUlUM0FPSU9xel9GYTNlQTRRSEVxWG5DSzYxVEs2ZE1uZzBNb1IwYjY4bU9odG96UmczXzNUcGcwSV9OR0wxbmxLZnJSeUVNOFNIUDg1U09SWGRvMFZjU2k0a3FTN3E3U3poNWdNQmRGREJ0XzRtNEc2RmphRTJqaFJ0XzE?oc=5",
       "source": "Google News:FRSH",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "GPC",
-      "short": "GPC — 業績／指引：Guidance Cut Could Be A Big Test For Genuine Parts Stock (GPC) - Simply Wall St",
-      "detail": "GPC\n重點：業績／指引\n標題：Guidance Cut Could Be A Big Test For Genuine Parts Stock (GPC) - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXhZZ0xfd3d6TnJHcWxmZ2VOVl93UUcyb1VvZGNUaHVPU0taSWZvZjljNDNiQWx2bEZXQ0d4TzduZHMxNTlrXzBNQkQyVllZVjA5SWpSSk52ay1EMmZFV0hyb3QzVGlpMGt2OXFocXNUZWlkcmVOSG9HZDRiZVNDWmxLLWVoQ3pvNDBDUFZqdkxDNjlOaF9Sbk9pUnRPTVBseXBpMTQwZ2dFM…\n來源：Google News:GPC",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXhZZ0xfd3d6TnJHcWxmZ2VOVl93UUcyb1VvZGNUaHVPU0taSWZvZjljNDNiQWx2bEZXQ0d4TzduZHMxNTlrXzBNQkQyVllZVjA5SWpSSk52ay1EMmZFV0hyb3QzVGlpMGt2OXFocXNUZWlkcmVOSG9HZDRiZVNDWmxLLWVoQ3pvNDBDUFZqdkxDNjlOaF9Sbk9pUnRPTVBseXBpMTQwZ2dFMTM3V1dwZ1RHQlJXakRBTDJPd3F0VlhVT19mOUHSAcsBQVVfeXFMT3VMaUJiM25zX3hSR29ReWtNaldqc19MQUVfU0pJTTRBNDZFX3lJMnNQWEdjc3JHVmduMHpoVWJSUFRBeGlDUXk4XzItTUExYjRvVnA5WFdTX0Eya1ZwS3BXa0w4RjhRZ0NaaUJmQ1ROWVNNbFE5bUlVa2NFek5qUmFoWGlWQTU2ZWpIRzVIcmVFby1MdmZSS0xWcS1xMk53ODdJTGcyT05OVkZRdkw4UlpRUkJPOWRMLTREX2lzLVR4ZVBrdmNMNngxWjQ?oc=5",
-      "source": "Google News:GPC",
       "kind": "news"
     }
   ]
