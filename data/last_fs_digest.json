@@ -1,115 +1,61 @@
 {
-  "title": "FS新聞 11-07 16:12",
-  "list_name": "FirstScreen_2026-11-07_161156_comma.txt",
-  "created_at": "2026-11-07T16:12:01.959307+00:00",
+  "title": "FS新聞 11-08 06:23",
+  "list_name": "FirstScreen_2026-11-08_062333_comma.txt",
+  "created_at": "2026-11-08T06:23:39.404691+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "LULU",
-      "short": "LULU — Lululemon (LULU) Stock Could Be 26% Above Fair Value After Lawsuit Claims",
-      "detail": "LULU\n重點：新聞\n標題：Lululemon (LULU) Stock Could Be 26% Above Fair Value After Lawsuit Claims\n摘要：lululemon athletica has seen its share price fall hard over the past few years even as investors focus more on what its cash flows can support. With the stock changing hands at about US$110.79, the question is whether that level is in line with what the company’s cash generation…\n來源：Yahoo Finance:LULU\n其他：Lululemon (LULU) Stock Could Be 26% Above Fair Value After …; lululemon athletica inc. (NASDAQ:LULU) Stock Now Rated \"Red…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lululemon-lulu-stock-could-26-111440960.html?.tsrc=rss",
-      "source": "Yahoo Finance:LULU",
+      "symbol": "ANET",
+      "short": "ANET — AI相關、業績／指引：Arista Networks (ANET) Stock Sees Modest Fair Value Lift After Analyst Revisions",
+      "detail": "ANET\n重點：AI相關、業績／指引\n標題：Arista Networks (ANET) Stock Sees Modest Fair Value Lift After Analyst Revisions\n摘要：Arista Networks is back in focus after analysts updated price targets across the stock, with moves ranging from a cut to US$236 from US$289 to new targets as high as US$261. These shifts follow Q3 results and fresh 2026 and 2027 guidance, as analysts weigh AI related networking …\n來源：Yahoo Finance:ANET",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-anet-stock-sees-011141471.html?.tsrc=rss",
+      "source": "Yahoo Finance:ANET",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "PR",
-      "short": "PR — 業績／指引：Permian Resources Corp (PR) (Q3 2026) Earnings Call Highlights: Record Free Cash Flow, …",
-      "detail": "PR\n重點：業績／指引\n標題：Permian Resources Corp (PR) (Q3 2026) Earnings Call Highlights: Record Free Cash Flow, $1. ...\n摘要：Permian Resources Corp (PR) posted record free cash flow of $0.98 per share, cut controllable cash costs to an all-time low and lifted its full-year oil production midpoint to 202,000 barrels per day.\n來源：Yahoo Finance:PR\n其他：Permian Resources (NYSE:PR) Rating Lowered to Buy at Wall S…; Permian Resources (PR) Lifted Guidance, Is It Still Below F…",
-      "url": "https://finance.yahoo.com/energy/articles/permian-resources-corp-pr-q3-151241779.html?.tsrc=rss",
-      "source": "Yahoo Finance:PR",
+      "symbol": "BILL",
+      "short": "BILL — 業績／指引：BILL Holdings (BILL) Beats On Earnings And Margins, Is It Still A Bargain? - Simply Wal…",
+      "detail": "BILL\n重點：業績／指引\n標題：BILL Holdings (BILL) Beats On Earnings And Margins, Is It Still A Bargain? - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjNCaFYzM1VMZ1lTS1l3NEFaTW1uNC03SHRZR2dFV01qY2w5Q1pIWlZIYzRLckFjUEZtZjJqZERWcFIySFdaQllacFhFNXYzRjNVbVBqZ0VlaFY3LWU0TnV0cG9mTWtCV1g3bHpPT1Jxemp2TjJleVVkWTNrbTdRMkwzc3BxeWx4WldzUDc5QVNVTUNiQUxBb3RHQURJLThHcnIzVXVhTU9Pc…\n來源：Google News:BILL",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjNCaFYzM1VMZ1lTS1l3NEFaTW1uNC03SHRZR2dFV01qY2w5Q1pIWlZIYzRLckFjUEZtZjJqZERWcFIySFdaQllacFhFNXYzRjNVbVBqZ0VlaFY3LWU0TnV0cG9mTWtCV1g3bHpPT1Jxemp2TjJleVVkWTNrbTdRMkwzc3BxeWx4WldzUDc5QVNVTUNiQUxBb3RHQURJLThHcnIzVXVhTU9PczRRRFdzdTBqTUpZcG04OExrZGVMVTIxWGoxRjVTdkR30gHPAUFVX3lxTE5jWHU2QjBhNldJMjhJSTY3bHJoVzVDSHhVeWpFQkdzcVh0Wnh5S2FGd0NjRXhyRnMtSndvWU0zWmFlNlVaWVhsR0VrR19ra3F0dnhTd3VqNFBteGFGRlFLbVhvdEVUWXhfYTZjbE9ySnVYNDhoNU9meXlEeHFKNElFRTZQVEt1SnQtbkRCLWdGdERhZUxTMGx5eXBaSkhnY0tsdEpKdk91bG0zWDMwMGhKeUVKRFp3STkyREZWZm1VM0dYSE42OE5sMThabEtIUQ?oc=5",
+      "source": "Google News:BILL",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "MDT",
-      "short": "MDT — Medtronic PLC $MDT Stock: Chicago Partners Investment Group LLC Grows Holdings - Market…",
-      "detail": "MDT\n重點：新聞\n標題：Medtronic PLC $MDT Stock: Chicago Partners Investment Group LLC Grows Holdings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc2pPRHBWdnJwTTJlT2NSaGdHaVhPRTRFQ2dwcjFCb3V3U0dvbmtUS1hjY1RyT2tnN0hhbEc2TzNIWkxXN2g5bnQ0MVFvU2FxQ3Nwd1hDOEZmUTQycUR2MjdyejJsSGhTOV9XcVFZQnhRZGpzWThkaXAzQ3ZxYk9mLURqU0p4S050elZNbVRjQ2RjaWlXVDk4TmNRaHdaUU1NVW1NY0dkcUlid…\n來源：Google News:MDT\n其他：Can Medtronic (MDT) Still Justify Its Price On Cash Flow?",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc2pPRHBWdnJwTTJlT2NSaGdHaVhPRTRFQ2dwcjFCb3V3U0dvbmtUS1hjY1RyT2tnN0hhbEc2TzNIWkxXN2g5bnQ0MVFvU2FxQ3Nwd1hDOEZmUTQycUR2MjdyejJsSGhTOV9XcVFZQnhRZGpzWThkaXAzQ3ZxYk9mLURqU0p4S050elZNbVRjQ2RjaWlXVDk4TmNRaHdaUU1NVW1NY0dkcUlidVlvemFDMjVVeTNBMlNHYm5FTHFqTExpN2xSUy1Yc0o4UTVsSGt0VEQ0?oc=5",
-      "source": "Google News:MDT",
+      "symbol": "CRSP",
+      "short": "CRSP — 業績／指引：CRISPR Therapeutics (NASDAQ:CRSP) Issues Earnings Results - MarketBeat",
+      "detail": "CRSP\n重點：業績／指引\n標題：CRISPR Therapeutics (NASDAQ:CRSP) Issues Earnings Results - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPbm5zdnZNY1o2VkxydDRaWDZtTVhIUDI1b1N6amNnSnpQNDlLcnliZVBnU3FGM1dxNjJyRE5rSUhIVFJENG9GdWJhQkhIM2d2bGlzMjlWNmlrczVBeUJIQngyVkZyQjFMeVVvbEVBOU51SFJsckNqM1ZoU2liLWNFeTU5Q0l5Y21Db0FGUG00a04tMXBCS2Q5dVJRN3JPa1FBQUVyMHBMMDI4R…\n來源：Google News:CRSP",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbm5zdnZNY1o2VkxydDRaWDZtTVhIUDI1b1N6amNnSnpQNDlLcnliZVBnU3FGM1dxNjJyRE5rSUhIVFJENG9GdWJhQkhIM2d2bGlzMjlWNmlrczVBeUJIQngyVkZyQjFMeVVvbEVBOU51SFJsckNqM1ZoU2liLWNFeTU5Q0l5Y21Db0FGUG00a04tMXBCS2Q5dVJRN3JPa1FBQUVyMHBMMDI4R2dDaTc0OWQwbnF6Q3ZycUE?oc=5",
+      "source": "Google News:CRSP",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "MRK",
-      "short": "MRK — Merck & Co., Inc. $MRK Stock: Calamos Advisors LLC Raises Holdings - MarketBeat",
-      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Stock: Calamos Advisors LLC Raises Holdings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMVhYckxIVEJQWkNWQTI0N0xGZm1fMjY0NGdmWEFScUlueHJ4c3YwczlFeU1OYmxwR0RCOGlsVlZUR09keEp6S25abHAwUE9rQm9XVmIxVzhSckxrYzZoZXRUREJiNklIRnlkRzhMdVlURFdCaW12b2c3QWNoQXh0aGZOMldpOW1wLUJWNW0xZTdjOGZfaXYyWHNLOWdvNFRhMndmblNkYjdjb…\n來源：Google News:MRK\n其他：Merck & Co., Inc. $MRK Stock Sold by Alps Advisors Inc. - M…",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMVhYckxIVEJQWkNWQTI0N0xGZm1fMjY0NGdmWEFScUlueHJ4c3YwczlFeU1OYmxwR0RCOGlsVlZUR09keEp6S25abHAwUE9rQm9XVmIxVzhSckxrYzZoZXRUREJiNklIRnlkRzhMdVlURFdCaW12b2c3QWNoQXh0aGZOMldpOW1wLUJWNW0xZTdjOGZfaXYyWHNLOWdvNFRhMndmblNkYjdjbUo0YW91dXotNHRtUFZoTUtLdA?oc=5",
-      "source": "Google News:MRK",
+      "symbol": "GH",
+      "short": "GH — Guardant Health (GH) Now Has A Harder Patent Fight After 23 Claims Survived",
+      "detail": "GH\n重點：新聞\n標題：Guardant Health (GH) Now Has A Harder Patent Fight After 23 Claims Survived\n摘要：Guardant Health (NasdaqGS:GH) faces higher legal pressure after the USPTO confirmed patentability of TwinStrand's Duplex Sequencing patent claims. The US patent office upheld all 23 claims in TwinStrand Biosciences' core Duplex Sequencing patent in a now unappealable ruling. Thi…\n來源：Yahoo Finance:GH",
+      "url": "https://finance.yahoo.com/healthcare/articles/guardant-health-gh-now-harder-231038503.html?.tsrc=rss",
+      "source": "Yahoo Finance:GH",
       "kind": "news"
     },
     {
       "n": 5,
-      "symbol": "PYPL",
-      "short": "PYPL — PayPal Holdings, Inc. $PYPL Stock: Boston Trust Walden Corp Decreases Stake - MarketBeat",
-      "detail": "PYPL\n重點：新聞\n標題：PayPal Holdings, Inc. $PYPL Stock: Boston Trust Walden Corp Decreases Stake - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUTA0RzBGclpZb0pOTTA5MTV1U3A5dlhaSDYwTDZNNE5zQllSTzRvbW1mUDhfWGJ1YXpYT1FPci1sd1pKOXBYT2w5MmNhWXFTbjZua3NsM3RZY0VSeF9GbWptOVB0UU1PcW4zUFpFM0E3MWdzcjJrcFF3UnhPQkZGd1M2SVIzOFZ3cm1DX1hvdk1TUFpDYlV3TXpSM2ZISUhyd0w2LTVnRVA1a…\n來源：Google News:PYPL\n其他：PayPal Holdings, Inc. (NASDAQ:PYPL) Stock Now Rated \"Hold\" …",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUTA0RzBGclpZb0pOTTA5MTV1U3A5dlhaSDYwTDZNNE5zQllSTzRvbW1mUDhfWGJ1YXpYT1FPci1sd1pKOXBYT2w5MmNhWXFTbjZua3NsM3RZY0VSeF9GbWptOVB0UU1PcW4zUFpFM0E3MWdzcjJrcFF3UnhPQkZGd1M2SVIzOFZ3cm1DX1hvdk1TUFpDYlV3TXpSM2ZISUhyd0w2LTVnRVA1aXp6SzNfQmVqZzBlTDNXdkRoR0FXSFB1a3ZfMENQa1NMMjY?oc=5",
-      "source": "Google News:PYPL",
+      "symbol": "PR",
+      "short": "PR — 業績／指引：Permian Resources Q3 Earnings Call Highlights",
+      "detail": "PR\n重點：業績／指引\n標題：Permian Resources Q3 Earnings Call Highlights\n摘要：Permian Resources (NYSE:PR) reported record free cash flow of $0.98 per share in the third quarter of 2026, as higher production, lower operating costs and improved natural gas prices helped offset a decline in oil prices from the prior quarter. The oil and gas producer also rai…\n來源：Yahoo Finance:PR",
+      "url": "https://www.marketbeat.com/instant-alerts/transcript-permian-resources-q3-earnings-call-highlights-2026-11-07/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance:PR",
       "kind": "news"
     },
     {
       "n": 6,
-      "symbol": "ROKU",
-      "short": "ROKU — Calamos Advisors LLC Acquires 51,627 Shares of Roku, Inc. $ROKU - MarketBeat",
-      "detail": "ROKU\n重點：新聞\n標題：Calamos Advisors LLC Acquires 51,627 Shares of Roku, Inc. $ROKU - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNcHh1c0JXbTBCRFNJRkc0R2VGZHpmYU80aVBNa3M3MzE1VzBpa2I3Qm4wN01UWE9MQWtEUGh1aEpvamZ2Y3NrZWNReXlhNmdXRHVjOGJJejVEeXd6UzVfQ1FLWWtJR0RxQmxGczRkYkJZOE1ZempXdHBZUXJZNFJIN3BqUUtoU1BJRTN4VVMxaWxMVEY1NW8tbE1ZdE9pRkVyMl8zQ3NHblhUS…\n來源：Google News:ROKU\n其他：Murdoch: Roku Deal “Advances the Long-Term Strategy of FOX.…",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcHh1c0JXbTBCRFNJRkc0R2VGZHpmYU80aVBNa3M3MzE1VzBpa2I3Qm4wN01UWE9MQWtEUGh1aEpvamZ2Y3NrZWNReXlhNmdXRHVjOGJJejVEeXd6UzVfQ1FLWWtJR0RxQmxGczRkYkJZOE1ZempXdHBZUXJZNFJIN3BqUUtoU1BJRTN4VVMxaWxMVEY1NW8tbE1ZdE9pRkVyMl8zQ3NHblhUSzlCNTItZFBmNHFpV1BscHJNag?oc=5",
-      "source": "Google News:ROKU",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "SLB",
-      "short": "SLB — SLB (SLB) Stock Still Looks Undervalued Despite Its 70% Run",
-      "detail": "SLB\n重點：新聞\n標題：SLB (SLB) Stock Still Looks Undervalued Despite Its 70% Run\n摘要：SLB has delivered a 70.2% share price gain over the past five years, helped by a mix of oilfield services strength and new technology offerings, which puts a spotlight on whether the current US$49.92 price is adequately supported by the cash the business can generate. With the s…\n來源：Yahoo Finance:SLB\n其他：SLB (SLB) Could Be 20% Below Fair Value After New Contract …",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-stock-still-looks-151819577.html?.tsrc=rss",
-      "source": "Yahoo Finance:SLB",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "AEO",
-      "short": "AEO — American Eagle Outfitters, Inc. $AEO Shares Acquired by CenterBook Partners LP - Market…",
-      "detail": "AEO\n重點：新聞\n標題：American Eagle Outfitters, Inc. $AEO Shares Acquired by CenterBook Partners LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUm4wcC1jU2tjTi1rQ0ZBWDFvcEdpSjV3cjN2SFBLNnp3cEZqbDZkeDh6WGRHdUdJblNOU0d4UWVHSUpveHltRW9tVV9wdlNlREM1S05hUU9OU0JVbjRraGNGN0FxRlVvNE1vN1gxSndOdW5mM05rRTFMOTM4MUt3WlYzWFRKZWtKQkxLVVNDZEl3WWRrbHJkdGEwSHFvc0tpYVNwdU1TTmoxU…\n來源：Google News:AEO",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUm4wcC1jU2tjTi1rQ0ZBWDFvcEdpSjV3cjN2SFBLNnp3cEZqbDZkeDh6WGRHdUdJblNOU0d4UWVHSUpveHltRW9tVV9wdlNlREM1S05hUU9OU0JVbjRraGNGN0FxRlVvNE1vN1gxSndOdW5mM05rRTFMOTM4MUt3WlYzWFRKZWtKQkxLVVNDZEl3WWRrbHJkdGEwSHFvc0tpYVNwdU1TTmoxUlY5c0tCbEJpZ1lfcHNudWN1N0hVYUVYYW9QbW5tN3pOU2N2Y1FQb1E?oc=5",
-      "source": "Google News:AEO",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "ANET",
-      "short": "ANET — Arista Networks, Inc. $ANET Stock Position Cut by Calamos Wealth Management LLC - Marke…",
-      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Stock Position Cut by Calamos Wealth Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaHhCWVZXVy1MMVduSDF3TWE3SFBvOU1sT3FoUmZXZDUyeHQ5eWwzRnZqclkzS2NkeU0xam1aWjVJeVNkUnRsRGwtb3FUVmhXODVBbEZWSHN3SHhfSURSWlVNSnRTVjJCd19SRjhla1Fjd1VxTEdZUDBIWkVVLVJhdXExVzZSNGpJNGtzLVI2ZG9UYlc2VWZlN29EN1ZCMFBkQ1R1ZTVOd0ZjX…\n來源：Google News:ANET",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaHhCWVZXVy1MMVduSDF3TWE3SFBvOU1sT3FoUmZXZDUyeHQ5eWwzRnZqclkzS2NkeU0xam1aWjVJeVNkUnRsRGwtb3FUVmhXODVBbEZWSHN3SHhfSURSWlVNSnRTVjJCd19SRjhla1Fjd1VxTEdZUDBIWkVVLVJhdXExVzZSNGpJNGtzLVI2ZG9UYlc2VWZlN29EN1ZCMFBkQ1R1ZTVOd0ZjX204ZWxRejVKYTM1cmNoQVVPcEU0Y1FoWF9ncF8yQi14TFYwOTRnRmc0?oc=5",
-      "source": "Google News:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "BILL",
-      "short": "BILL — 業績／指引：BILL Holdings (BILL) Could Be 8% Undervalued After Its Earnings Surprise",
-      "detail": "BILL\n重點：業績／指引\n標題：BILL Holdings (BILL) Could Be 8% Undervalued After Its Earnings Surprise\n摘要：BILL Holdings (BILL) kicked off fiscal 2027 with an earnings surprise, as non GAAP profit per share came in well ahead of analyst expectations despite a headline revenue shortfall. BILL Holdings shares have reacted quickly to the earnings surprise, with a 1 day share price retur…\n來源：Yahoo Finance:BILL",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-holdings-bill-could-8-101210727.html?.tsrc=rss",
-      "source": "Yahoo Finance:BILL",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "BTG",
-      "short": "BTG — B2Gold Stock: A Surprising Miss (NYSE:BTG) - Seeking Alpha",
-      "detail": "BTG\n重點：新聞\n標題：B2Gold Stock: A Surprising Miss (NYSE:BTG) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBRQ0ZZRUpmdWF6T3VwSXlucWxWeTdUTVF1NUR4MG8zXzF3dm5CcDZLbVR0aW1WSktvam80aGpMN3FlV0pBbjBfa3V6OWNZM0JRc1lnRnIxaTc3RkVNbGdNYzhpd1d4dWFHOUY2Q0YyOVg1VGM?oc=5\" target=\"_blank\">B2Gold Stock: A Surprising Miss (NYSE:BTG)</a>&nbsp…\n來源：Google News:BTG",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRQ0ZZRUpmdWF6T3VwSXlucWxWeTdUTVF1NUR4MG8zXzF3dm5CcDZLbVR0aW1WSktvam80aGpMN3FlV0pBbjBfa3V6OWNZM0JRc1lnRnIxaTc3RkVNbGdNYzhpd1d4dWFHOUY2Q0YyOVg1VGM?oc=5",
-      "source": "Google News:BTG",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce Inc. $CRM Stock Purchased by Calamos Advisors LLC - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stock Purchased by Calamos Advisors LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNejNtektMV2Y5Rmh0Q0lsSHNXRnJjSmlCa2s2clJwY1NOQ2pLcHRxS3YyYS1LZll4SS1uT2NfRm5sSUpGZHl5cldOWnhVQ2JRbkhpYWl2WFE0RHZrSVlfQ09kM0NRNUhsOEtRNWZvbkF2UVMybEo3bzV0MFUwNFk1UnQzZ1hycnJ6SGRVa0Y5Qzk1SzMxaTBEQ2Z0TFVoVlFyZmU5ODZvV0V2M…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNejNtektMV2Y5Rmh0Q0lsSHNXRnJjSmlCa2s2clJwY1NOQ2pLcHRxS3YyYS1LZll4SS1uT2NfRm5sSUpGZHl5cldOWnhVQ2JRbkhpYWl2WFE0RHZrSVlfQ09kM0NRNUhsOEtRNWZvbkF2UVMybEo3bzV0MFUwNFk1UnQzZ1hycnJ6SGRVa0Y5Qzk1SzMxaTBEQ2Z0TFVoVlFyZmU5ODZvV0V2MTlETkpFUkh0SF9rX1hJSTZ3?oc=5",
-      "source": "Google News:CRM",
+      "symbol": "TARS",
+      "short": "TARS — 業績／指引：Tarsus Pharmaceuticals, Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:TAR…",
+      "detail": "TARS\n重點：業績／指引\n標題：Tarsus Pharmaceuticals, Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:TARS) 2026-11-07 - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPNG0xN0NjN3dZLWZ4bTRUaS1NaVQtOVBtcmZPOUJBTkpsWmRrcWtHdElaRzVkUk1HemVzSUxiMkpHQ3pRUThHcDdmc2s1bDN2RVBQWHdqM18wZ2lYSmNLNVVibDB5OVJORkZoNjdkWTZ3aHhTQWMyY1h6QTlpRFNEQjhzRFhiVUhkek1JeTh4WjZnS3lwX0F4VXl6VzVsdWxtM2FGM2JBb25EQ…\n來源：Google News:TARS",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNG0xN0NjN3dZLWZ4bTRUaS1NaVQtOVBtcmZPOUJBTkpsWmRrcWtHdElaRzVkUk1HemVzSUxiMkpHQ3pRUThHcDdmc2s1bDN2RVBQWHdqM18wZ2lYSmNLNVVibDB5OVJORkZoNjdkWTZ3aHhTQWMyY1h6QTlpRFNEQjhzRFhiVUhkek1JeTh4WjZnS3lwX0F4VXl6VzVsdWxtM2FGM2JBb25EQjdxcVBj?oc=5",
+      "source": "Google News:TARS",
       "kind": "news"
     }
   ]
