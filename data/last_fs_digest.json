@@ -1,61 +1,115 @@
 {
-  "title": "FS新聞 11-10 07:33",
-  "list_name": "FirstScreen_2026-11-10_073255_comma.txt",
-  "created_at": "2026-11-10T07:33:02.889784+00:00",
+  "title": "FS新聞 11-10 13:13",
+  "list_name": "FirstScreen_2026-11-10_131347_comma.txt",
+  "created_at": "2026-11-10T13:13:55.090038+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "LQDA",
-      "short": "LQDA — 業績／指引：Liquidia (LQDA) Stock Looks Rich Relative To Its Earnings Power - Yahoo Finance",
-      "detail": "LQDA\n重點：業績／指引\n標題：Liquidia (LQDA) Stock Looks Rich Relative To Its Earnings Power - Yahoo Finance\n摘要：<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZDEwWkVSdDVZX1MzaUpmOEFNLWVrOEFZd3pJWVoxX2VFNy1hYjZaYTlPOVAtejNXZ2JVdDh5bGtqSnIzWWJCUzMwcEtUbk5OZTk2YlhGZmdmZjVnb0toLU5WYlJEcno3d1hzdnZhdUN5RDlvWWlLWHZINWlEcWdnOWM4OF9ySXlLVld4ajBXRDVySzU5UFNta2dScw?oc=5\" target=\"_bla…\n來源：Google News:LQDA\n其他：Liquidia (LQDA) Stock Looks Rich Relative To Its Earnings P…",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZDEwWkVSdDVZX1MzaUpmOEFNLWVrOEFZd3pJWVoxX2VFNy1hYjZaYTlPOVAtejNXZ2JVdDh5bGtqSnIzWWJCUzMwcEtUbk5OZTk2YlhGZmdmZjVnb0toLU5WYlJEcno3d1hzdnZhdUN5RDlvWWlLWHZINWlEcWdnOWM4OF9ySXlLVld4ajBXRDVySzU5UFNta2dScw?oc=5",
-      "source": "Google News:LQDA",
+      "symbol": "INTU",
+      "short": "INTU — 16,596 Intuit Inc. $INTU Shares Sold by M&G PLC - MarketBeat",
+      "detail": "INTU\n重點：新聞\n標題：16,596 Intuit Inc. $INTU Shares Sold by M&G PLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQeHo2REhxNFpoS25zcmtMYU1sNUlDRlhnTHpBMDJveDRpQUM0ZXZ1RDBBUDBwQVB6MDlRWmpxcS0yQXlLNWlEQmI5YWhRaWlpRm1NT19qd3RNRjhwRFRQV18ya2NSVXBFeHk3M3JDTVlYMFM4dVY0N0x5UnN6V2dRWUgwSmUxVEJFYkJPc1pXUTRjT0prcTBTcFltYlZFbzJaVDg3ZW5rRQ?oc…\n來源：Google News:INTU\n其他：6,293 Intuit Inc. $INTU Shares Bought by Running Oak Capita…; Intuit Inc. $INTU Stock Holdings Lifted by Retirement Syste…; Intuit Inc. $INTU Shares Bought by Fulcrum Asset Management…",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeHo2REhxNFpoS25zcmtMYU1sNUlDRlhnTHpBMDJveDRpQUM0ZXZ1RDBBUDBwQVB6MDlRWmpxcS0yQXlLNWlEQmI5YWhRaWlpRm1NT19qd3RNRjhwRFRQV18ya2NSVXBFeHk3M3JDTVlYMFM4dVY0N0x5UnN6V2dRWUgwSmUxVEJFYkJPc1pXUTRjT0prcTBTcFltYlZFbzJaVDg3ZW5rRQ?oc=5",
+      "source": "Google News:INTU",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "NESR",
-      "short": "NESR — 業績／指引：National Energy Services Reunited Corp (NESR) (Q3 2026) Earnings Call Highlights: Recor…",
-      "detail": "NESR\n重點：業績／指引\n標題：National Energy Services Reunited Corp (NESR) (Q3 2026) Earnings Call Highlights: Record ...\n摘要：National Energy Services Reunited Corp (NESR) posts 70.9% revenue growth to $504.7 million, declares its first-ever dividend, and advances its 3B3 strategy despite geopolitical headwinds.\n來源：Yahoo Finance:NESR\n其他：National Energy Services Reunited (NASDAQ:NESR) Shares to P…",
-      "url": "https://finance.yahoo.com/energy/articles/national-energy-services-reunited-corp-010236395.html?.tsrc=rss",
-      "source": "Yahoo Finance:NESR",
+      "symbol": "MRK",
+      "short": "MRK — Merck & Co., Inc. $MRK Stock Bought by Red Cedar Investment Management LLC - MarketBeat",
+      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Stock Bought by Red Cedar Investment Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUnRuY05QbFpJY1hOTi1IWDdJSjI0TDA3aGlnU0tIR2Z0bTZfdGJvVFhkdXhmOHNpcWFTZ1U3NUIteGVsS2p0MHkweE5HY2Q4QkdVNXUzc1Z6aTRaWVlwQ2N4Wlo0NTFwOU56NGY0TFlyd3hRUDVELXAyMGhfdkxleEJvNnFJcjhXaXhzZDVVclFSNnZmWGwzd1pGbmFQc1hTM0FLNjUzV2J3U…\n來源：Google News:MRK\n其他：27,441 Merck & Co., Inc. $MRK Shares Purchased by Vestor Ca…; 884,504 Merck & Co., Inc. $MRK Shares Sold by Beutel Goodma…; Merck & Co., Inc. $MRK Stock Purchased by Fulcrum Asset Man…",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUnRuY05QbFpJY1hOTi1IWDdJSjI0TDA3aGlnU0tIR2Z0bTZfdGJvVFhkdXhmOHNpcWFTZ1U3NUIteGVsS2p0MHkweE5HY2Q4QkdVNXUzc1Z6aTRaWVlwQ2N4Wlo0NTFwOU56NGY0TFlyd3hRUDVELXAyMGhfdkxleEJvNnFJcjhXaXhzZDVVclFSNnZmWGwzd1pGbmFQc1hTM0FLNjUzV2J3UWJ1NG9CelhBWGNBNmpidVVYN3R1d2dOUzQ1NUhmUg?oc=5",
+      "source": "Google News:MRK",
       "kind": "news"
     },
     {
       "n": 3,
       "symbol": "BNY",
-      "short": "BNY — Bank of New York Mellon CFO Sees Growth Ahead After 15 Quarters of Sales Gains",
-      "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon CFO Sees Growth Ahead After 15 Quarters of Sales Gains\n摘要：Bank of New York Mellon (NYSE:BNY) is looking to expand relationships with existing clients and attract new ones as it builds on a companywide operating overhaul, Chief Financial Officer Dermot McDonogh said at a BMO Capital Markets event. Speaking with Brennan Hawken, BMO’s hea…\n來源：Yahoo Finance:BNY",
-      "url": "https://www.marketbeat.com/instant-alerts/event-bank-of-new-york-mellon-cfo-sees-growth-ahead-after-15-quarters-of-sales-gains-2026-11-09/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "Yahoo Finance:BNY",
+      "short": "BNY — Bank of New York Mellon Corporation $BNY Stock: M&G PLC Trims Stake - MarketBeat",
+      "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon Corporation $BNY Stock: M&G PLC Trims Stake - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaGNFS3ltckJiQzdmM19lemJZT0dFZkw2bWI5cXlIRXVmUkQyaHQ1eC0yZlRvam84ZjdKVnNsdVFmaHBGSTVQZndMMjBZNHpCWG5hUlFMUnlTTU1Bbnc1a241TTlwNm1uc29aQ2g2ZVpkVzBFWWN1MDhwNGJIdnBBcjRxV3dZNjJ4UVpjZWExeXUzcmNzbU9YdVJ0aFppUDU3YWFxMXRBOExJU…\n來源：Google News:BNY\n其他：Bank of New York Mellon Corporation $BNY Stock: Private Man…; Bank of New York Mellon Corporation $BNY Stock: Commonwealt…",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaGNFS3ltckJiQzdmM19lemJZT0dFZkw2bWI5cXlIRXVmUkQyaHQ1eC0yZlRvam84ZjdKVnNsdVFmaHBGSTVQZndMMjBZNHpCWG5hUlFMUnlTTU1Bbnc1a241TTlwNm1uc29aQ2g2ZVpkVzBFWWN1MDhwNGJIdnBBcjRxV3dZNjJ4UVpjZWExeXUzcmNzbU9YdVJ0aFppUDU3YWFxMXRBOExJUi1iUWlrdUdnTE9TcUhPNC00VWVScFJsb2s?oc=5",
+      "source": "Google News:BNY",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "DNOW",
-      "short": "DNOW — 業績／指引：DNOW Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:DNOW) 2026-11-09 - Seeki…",
-      "detail": "DNOW\n重點：業績／指引\n標題：DNOW Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:DNOW) 2026-11-09 - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNM2ItTHZ3TlFEZ3I4N0JJd2hIcWJLRXhWemVkc2d5VVBTXy1nWjRjdHhpM19nTFh0MjVtWWtVeElXNHphNnM5aDRFbElZNXRJMTljT3FkT2xLdnpVNmg0MkpjZmVMYWt6UTJXMjhQN05Jaks1T05pSzlsUFV6cndIcXptbFNDOVM1dDg0LUtOSmIwaXdVVjRN?oc=5\" target=\"_blank\">DN…\n來源：Google News:DNOW",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM2ItTHZ3TlFEZ3I4N0JJd2hIcWJLRXhWemVkc2d5VVBTXy1nWjRjdHhpM19nTFh0MjVtWWtVeElXNHphNnM5aDRFbElZNXRJMTljT3FkT2xLdnpVNmg0MkpjZmVMYWt6UTJXMjhQN05Jaks1T05pSzlsUFV6cndIcXptbFNDOVM1dDg0LUtOSmIwaXdVVjRN?oc=5",
-      "source": "Google News:DNOW",
+      "symbol": "CRM",
+      "short": "CRM — Salesforce Inc. $CRM Stock: M&G PLC Raises Position - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stock: M&G PLC Raises Position - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQUnZKbUNIWG1tSUFLRTF1TUV2NExycWp0SkFVNEZKb292OUxBOG1MSW4wYzRFV2ZJY3BaUGNoRVMyb2E5RndSYVRYTDNwN2dMVDZKckRVb2d3OTJOZ2hQbFZNTlg5TFRPUnVGeDktZjlZN1JhalZ1VzhieXVLMUw0QmdOTHNLWTI4THR1TUNuMkg2OEhWT09JbXVWRzUzRHZiQzRfckxaMVVOO…\n來源：Google News:CRM\n其他：Salesforce Inc. $CRM Stock: Gen Wealth Partners Inc Increas…; Salesforce Inc. $CRM Stock Position Raised by 71 West Capit…",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUnZKbUNIWG1tSUFLRTF1TUV2NExycWp0SkFVNEZKb292OUxBOG1MSW4wYzRFV2ZJY3BaUGNoRVMyb2E5RndSYVRYTDNwN2dMVDZKckRVb2d3OTJOZ2hQbFZNTlg5TFRPUnVGeDktZjlZN1JhalZ1VzhieXVLMUw0QmdOTHNLWTI4THR1TUNuMkg2OEhWT09JbXVWRzUzRHZiQzRfckxaMVVOODdL?oc=5",
+      "source": "Google News:CRM",
       "kind": "news"
     },
     {
       "n": 5,
-      "symbol": "NOG",
-      "short": "NOG — 業績／指引：NOG Q3 2026 deep dive: production strength and portfolio optimization drive positive ou…",
-      "detail": "NOG\n重點：業績／指引\n標題：NOG Q3 2026 deep dive: production strength and portfolio optimization drive positive outlook\n摘要：Non-operated oil producer Northern Oil and Gas (NYSE:NOG) missed Wall Street’s revenue expectations in Q3 2026, with sales falling 36.1% year on year to $345.9 million. Its non-GAAP profit of $1.32 per share was 24.5% above analysts’ consensus estimates.\n來源：Yahoo Finance:NOG",
-      "url": "https://finance.yahoo.com/energy/articles/nog-q3-2026-deep-dive-011736808.html?.tsrc=rss",
-      "source": "Yahoo Finance:NOG",
+      "symbol": "MDT",
+      "short": "MDT — M&G PLC Sells 185,546 Shares of Medtronic PLC $MDT - MarketBeat",
+      "detail": "MDT\n重點：新聞\n標題：M&G PLC Sells 185,546 Shares of Medtronic PLC $MDT - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPdVZLN3lacy1kNmF0dW81YjNxWHpnOEEyNU1yeWM3WUc4UXhfS19XeEtRTU4xLVFoZlNMcGdNU1dPQ2EtOVVWZHpDV2lRNDJKdnZGUmdwazZtOFV6ZjlFSUNzWlI2RV8yRUVZRFRCWTAzbUdPbmllOENvM3BQbUVydUNqaERycW9GVnJEMnhlalpPcFJ0Qm5meUlhNTBNRW5ZV2RZLXJtTFRDd…\n來源：Google News:MDT\n其他：Medtronic PLC $MDT Stock Sold by Pictet Asset Management Ho…; 12,505 Medtronic PLC $MDT Shares Purchased by Alps Advisors…",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdVZLN3lacy1kNmF0dW81YjNxWHpnOEEyNU1yeWM3WUc4UXhfS19XeEtRTU4xLVFoZlNMcGdNU1dPQ2EtOVVWZHpDV2lRNDJKdnZGUmdwazZtOFV6ZjlFSUNzWlI2RV8yRUVZRFRCWTAzbUdPbmllOENvM3BQbUVydUNqaERycW9GVnJEMnhlalpPcFJ0Qm5meUlhNTBNRW5ZV2RZLXJtTFRDdnc3?oc=5",
+      "source": "Google News:MDT",
       "kind": "news"
     },
     {
       "n": 6,
-      "symbol": "PDD",
-      "short": "PDD — PDD Holdings Inc. Sponsored ADR (NASDAQ:PDD) Stock Rated \"Hold\" by Sell-Side Analysts -…",
-      "detail": "PDD\n重點：新聞\n標題：PDD Holdings Inc. Sponsored ADR (NASDAQ:PDD) Stock Rated \"Hold\" by Sell-Side Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRDYyV2F1dkN1RTNmVzd5WnRwNFltUlVRM0hVTHl6M0JmWEY5aktraFFyaVFaOTZoaWR2SWU2XzYyTnJLSmhrLVRpcXpTNW5nbTN1WnV6cnlrc2VjTjdocXhwYUUweUV3SU1QTUk4VFJ5NkVCRGtLOHlpczY5MmliRi1tMldPbGtCenpwMko4ZUpxalNDRm43MnJtMUxXMXE0QzROUTdiQUk0L…\n來源：Google News:PDD",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRDYyV2F1dkN1RTNmVzd5WnRwNFltUlVRM0hVTHl6M0JmWEY5aktraFFyaVFaOTZoaWR2SWU2XzYyTnJLSmhrLVRpcXpTNW5nbTN1WnV6cnlrc2VjTjdocXhwYUUweUV3SU1QTUk4VFJ5NkVCRGtLOHlpczY5MmliRi1tMldPbGtCenpwMko4ZUpxalNDRm43MnJtMUxXMXE0QzROUTdiQUk0LW1HSEg0SWNyUFU4djJXS0RMNUh6VU9uWmpvU2FXV2diWVBSWWNENVdEMFUwRERkblB3?oc=5",
-      "source": "Google News:PDD",
+      "symbol": "TGT",
+      "short": "TGT — Target Corporation $TGT Shares Newly Acquired by Red Cedar Investment Management LLC - …",
+      "detail": "TGT\n重點：新聞\n標題：Target Corporation $TGT Shares Newly Acquired by Red Cedar Investment Management LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMi01YmdpSVFwaU8wenU1WUhpS2Jlc0l5T3hNSUFheTNTTVFYVXVHaHRlTGVZZkpNem41WkxTQi1OLW4zeHd2MkVna0toN0VTcEhOT0F6a2JsM2NaOS04cWoxQzFNMUJXRmJSMWppcmxUNlVjS29kWEE2UTlOa0xxeTlGZ1JGdmU0X19aeGJVd2tzbjQ0UGp0ZnJWT3ZQT0tURndiN1kyR2g1T…\n來源：Google News:TGT\n其他：Target Corporation $TGT Stock: Fulcrum Asset Management LLP…; 165,109 Shares of Target Corporation $TGT Bought by AEGON A…",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMi01YmdpSVFwaU8wenU1WUhpS2Jlc0l5T3hNSUFheTNTTVFYVXVHaHRlTGVZZkpNem41WkxTQi1OLW4zeHd2MkVna0toN0VTcEhOT0F6a2JsM2NaOS04cWoxQzFNMUJXRmJSMWppcmxUNlVjS29kWEE2UTlOa0xxeTlGZ1JGdmU0X19aeGJVd2tzbjQ0UGp0ZnJWT3ZQT0tURndiN1kyR2g1TG0yRmR0VEdSdF9XVHhCTTctWTVwaEdwcjJtWlZGeHYtd2pxb2g0SXVEcnRFdnlwUjlL?oc=5",
+      "source": "Google News:TGT",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "BKNG",
+      "short": "BKNG — Booking Holdings Inc. $BKNG Stock Holdings Lowered by Welch & Forbes LLC - MarketBeat",
+      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Stock Holdings Lowered by Welch & Forbes LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM2w3aDBxQmNIdWpwNWdKWFZmTXVnOXNZaHhrVHRvYUo0SnNrbVlDRVZvOHpLcFpvZF9CTzF2OG9vYkJYRy1uX240RjRmQ0ZTcDgtc3B1bWdYTkgzZ2FZT0ZjQVFFVmpYX090WWhweThTQXhadE1kdWMtOTlLY2s4RGszNDZ0MVlVVHdMNGdhYWRJS0VEMHk5eFF2MXhsWUhYalhnemVKUGgtV…\n來源：Google News:BKNG\n其他：130,091 Booking Holdings Inc. $BKNG Shares Sold by Retireme…",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM2w3aDBxQmNIdWpwNWdKWFZmTXVnOXNZaHhrVHRvYUo0SnNrbVlDRVZvOHpLcFpvZF9CTzF2OG9vYkJYRy1uX240RjRmQ0ZTcDgtc3B1bWdYTkgzZ2FZT0ZjQVFFVmpYX090WWhweThTQXhadE1kdWMtOTlLY2s4RGszNDZ0MVlVVHdMNGdhYWRJS0VEMHk5eFF2MXhsWUhYalhnemVKUGgtVXd0OUxIS2x0SVpQN05CQU1LYk9lWDBCY1F5UVNfbw?oc=5",
+      "source": "Google News:BKNG",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "COF",
+      "short": "COF — 56,863 Capital One Financial Corporation $COF Shares Sold by M&G PLC - MarketBeat",
+      "detail": "COF\n重點：新聞\n標題：56,863 Capital One Financial Corporation $COF Shares Sold by M&G PLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOempxZlh1eERxMnJTYnZRU0NZUkg1ZmM3S3JPYnV2MWJqYi1nZU1iSFFHeHRocFV0dzRGekQwVW1EM3E4NnJlei1hbmJGdjJCQWc1Q2JrTTB3MFdIYWxjWWNwREl4cTRHTk5fRXY4LUxMWmw5RzNmZ1dOd216RTdmWVA3bnBsSkd2eld1V1NSZ183dHNUVGtiR01Odm96UnBpUTMtTlJDb0NGT…\n來源：Google News:COF\n其他：Capital One Financial Corporation $COF Shares Acquired by K…",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOempxZlh1eERxMnJTYnZRU0NZUkg1ZmM3S3JPYnV2MWJqYi1nZU1iSFFHeHRocFV0dzRGekQwVW1EM3E4NnJlei1hbmJGdjJCQWc1Q2JrTTB3MFdIYWxjWWNwREl4cTRHTk5fRXY4LUxMWmw5RzNmZ1dOd216RTdmWVA3bnBsSkd2eld1V1NSZ183dHNUVGtiR01Odm96UnBpUTMtTlJDb0NGTTh0WC01QUxCM0h6ZkYzVXJ3REo0bWN2Z0h5?oc=5",
+      "source": "Google News:COF",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "GEN",
+      "short": "GEN — 201,947 Shares in Gen Digital Inc. $GEN Bought by Leuthold Group LLC - MarketBeat",
+      "detail": "GEN\n重點：新聞\n標題：201,947 Shares in Gen Digital Inc. $GEN Bought by Leuthold Group LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGpWQlNiUzB5emZTSVVfR1NQa3ZydkNXUnpFX0MwTGpBSnp6aFVIdjUtajhwcnZVZTFyR2VWR1ExTlY1S0FvelFfcUtfNHZCZHBFbkNlczU1WHdrcjg5RHFOQUFORGgtMk05Tk5pNWo4cWVZUzJxYVJxWEdCSk9UM0I4T2xlcEM2V0NWNUxkb2NSYm9CR25hQUhlN0RSV1BzS2RySmhqODNVd…\n來源：Google News:GEN\n其他：Gen Digital Inc. $GEN Stock: CenterBook Partners LP Grows S…",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGpWQlNiUzB5emZTSVVfR1NQa3ZydkNXUnpFX0MwTGpBSnp6aFVIdjUtajhwcnZVZTFyR2VWR1ExTlY1S0FvelFfcUtfNHZCZHBFbkNlczU1WHdrcjg5RHFOQUFORGgtMk05Tk5pNWo4cWVZUzJxYVJxWEdCSk9UM0I4T2xlcEM2V0NWNUxkb2NSYm9CR25hQUhlN0RSV1BzS2RySmhqODNVdzB1bnhnbTQtVmlZRGF5THdaYTl0Nm54aDQ4?oc=5",
+      "source": "Google News:GEN",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "LNG",
+      "short": "LNG — Cheniere Energy, Inc. $LNG Shares Sold by M&G PLC - MarketBeat",
+      "detail": "LNG\n重點：新聞\n標題：Cheniere Energy, Inc. $LNG Shares Sold by M&G PLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc0xaYjhRQ2lha0Y1WldpVmZ1RUxWNnQxMWZHTG9aOEt1TldjNzRUbDlUdkNPSEVHYjhmWEVTd2dmN1ZvM0l6WEFSaFJvMXY4c2RPUnNFZ0JGcV94UmRJT054b2hIZFBaNVgyblFQZE9Ocmk4Tkk5RTlHc1pUa252VmtpNm1RcTgwS0hQYlFqNXJfZFRUeWhCa0ROdWRXd1c4VkhhVTYwWlZrU…\n來源：Google News:LNG\n其他：Cheniere Energy (NYSE:LNG) Stock Price Breaks Above Fifty D…",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc0xaYjhRQ2lha0Y1WldpVmZ1RUxWNnQxMWZHTG9aOEt1TldjNzRUbDlUdkNPSEVHYjhmWEVTd2dmN1ZvM0l6WEFSaFJvMXY4c2RPUnNFZ0JGcV94UmRJT054b2hIZFBaNVgyblFQZE9Ocmk4Tkk5RTlHc1pUa252VmtpNm1RcTgwS0hQYlFqNXJfZFRUeWhCa0ROdWRXd1c4VkhhVTYwWlZrUQ?oc=5",
+      "source": "Google News:LNG",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "LULU",
+      "short": "LULU — lululemon athletica (NASDAQ:LULU) Stock Picked Up by Analysts at Cantor Fitzgerald - Ma…",
+      "detail": "LULU\n重點：新聞\n標題：lululemon athletica (NASDAQ:LULU) Stock Picked Up by Analysts at Cantor Fitzgerald - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ0FQLWgwSnNUb3NJWFc5OEpYeUxNUWZEVUR5eXFPQkxSRmctVUdla2thLWpkRVN2Q2JOT0xFUGR2MmdLbnF2Rm9Dejhib05HcUVEVUk1VmpxX193ZGJyTmoxbmw2aGJLVWRWNk8yUHFJbWhvbnc4Y2NVY08tMDdpYmNlaUgwTExMLTIwZlh6OV81aTVvM0VYWVFFcGkxLU44bEN0R1R5VWtmV…\n來源：Google News:LULU\n其他：M&G PLC Acquires 21,485 Shares of lululemon athletica inc. …",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ0FQLWgwSnNUb3NJWFc5OEpYeUxNUWZEVUR5eXFPQkxSRmctVUdla2thLWpkRVN2Q2JOT0xFUGR2MmdLbnF2Rm9Dejhib05HcUVEVUk1VmpxX193ZGJyTmoxbmw2aGJLVWRWNk8yUHFJbWhvbnc4Y2NVY08tMDdpYmNlaUgwTExMLTIwZlh6OV81aTVvM0VYWVFFcGkxLU44bEN0R1R5VWtmVmNILTNkdWhGMDFxd0xxSG5XazZ0bnVtakRhUS1EZl90OElpaFRpRlRUSGc3WEVHdw?oc=5",
+      "source": "Google News:LULU",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "OBDC",
+      "short": "OBDC — Blue Owl Capital Corporation $OBDC Position Lifted by Private Management Group Inc. - M…",
+      "detail": "OBDC\n重點：新聞\n標題：Blue Owl Capital Corporation $OBDC Position Lifted by Private Management Group Inc. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYVRkTEhUQTFrUW42NVFHYUNEUG52Z2RDSExtQ0FHU1dzYjVzQm5LN0R1eTY5d3ljNWsyZUd5NFUxNFBocHJNdkM3TFZ5cTBld2tIZ2ttWGRHdUlQRXdlWm90UmFpaEx5cU5jaVhTbm12SUtRMnpCNm4zMzVSNjU4UlZwanpWcGhwRWdXYVV4UGFRTUpSOFQ1bzkwVFJxRHd1TTlIR2xXSkk5a…\n來源：Google News:OBDC\n其他：Blue Owl Capital Corporation $OBDC Position Lifted by Alpha…",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYVRkTEhUQTFrUW42NVFHYUNEUG52Z2RDSExtQ0FHU1dzYjVzQm5LN0R1eTY5d3ljNWsyZUd5NFUxNFBocHJNdkM3TFZ5cTBld2tIZ2ttWGRHdUlQRXdlWm90UmFpaEx5cU5jaVhTbm12SUtRMnpCNm4zMzVSNjU4UlZwanpWcGhwRWdXYVV4UGFRTUpSOFQ1bzkwVFJxRHd1TTlIR2xXSkk5all1TzBqTXlpRDEyZWhZWm93Ny1SUk5nMXpWbEhfZ0pSUzVOUzA0a2drNm14VTlVZw?oc=5",
+      "source": "Google News:OBDC",
       "kind": "news"
     }
   ]
