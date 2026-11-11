@@ -1,92 +1,38 @@
 {
-  "title": "FS新聞 11-11 12:25",
-  "list_name": "FirstScreen_2026-11-11_122503_comma.txt",
-  "created_at": "2026-11-11T12:25:10.794718+00:00",
+  "title": "FS新聞 11-11 17:46",
+  "list_name": "FirstScreen_2026-11-11_174641_comma.txt",
+  "created_at": "2026-11-11T17:46:48.453968+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "ANET",
-      "short": "ANET — AI相關、業績／指引：The Zacks Analyst Blog Highlights Arista Networks, Fabrinet, Analog Devices, Advanced M…",
-      "detail": "ANET\n重點：AI相關、業績／指引\n標題：The Zacks Analyst Blog Highlights Arista Networks, Fabrinet, Analog Devices, Advanced Micro Devices and NVIDIA\n摘要：ANET, FN, ADI and AMD stand out as AI stocks with strong earnings growth prospects, as market pullbacks create potential entry points.\n來源：Yahoo Finance:ANET\n其他：Zacks.com featured highlights include Arista, Western Digit…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-arista-062800269.html?.tsrc=rss",
-      "source": "Yahoo Finance:ANET",
+      "symbol": "CRM",
+      "short": "CRM — CRM's Cash Flow Strength: Can It Sustain Big Shareholder Returns?",
+      "detail": "CRM\n重點：新聞\n標題：CRM's Cash Flow Strength: Can It Sustain Big Shareholder Returns?\n摘要：Salesforce's strong free cash flow fuels massive buybacks and dividends, but slower growth projections raise questions about sustaining shareholder returns.\n來源：Yahoo Finance:CRM\n其他：10,274 Salesforce Inc. $CRM Shares Sold by Philadelphia Tru…; Salesforce Inc. $CRM Stock: Montaka Global Pty Ltd Cuts Hol…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crms-cash-flow-strength-sustain-160300776.html?.tsrc=rss",
+      "source": "Yahoo Finance:CRM",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "CRM",
-      "short": "CRM — 10,274 Salesforce Inc. $CRM Shares Sold by Philadelphia Trust Co. - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：10,274 Salesforce Inc. $CRM Shares Sold by Philadelphia Trust Co. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3dBcDFVaVRWLUFieXJsLXZrVUhaZFIwZG9lV29KU2htS0pNc1gxdndqckVEUHBlZDJLanlyT3lVbld1UlJFd0h0Rl9uUTFUeHlaZFdKdU02M1RwbGJTSmQ2M0l4bmxKcFR4WFhkMjNjZy1pUFMtaVdETkhWbFBTZGxXQWdJNEJsNGo3THE0dVZ5ejU3WUI0TncyZWx4QXlUcS1oSFJNdnJFR…\n來源：Google News:CRM\n其他：Salesforce Inc. $CRM Stock: Montaka Global Pty Ltd Cuts Hol…",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3dBcDFVaVRWLUFieXJsLXZrVUhaZFIwZG9lV29KU2htS0pNc1gxdndqckVEUHBlZDJLanlyT3lVbld1UlJFd0h0Rl9uUTFUeHlaZFdKdU02M1RwbGJTSmQ2M0l4bmxKcFR4WFhkMjNjZy1pUFMtaVdETkhWbFBTZGxXQWdJNEJsNGo3THE0dVZ5ejU3WUI0TncyZWx4QXlUcS1oSFJNdnJFRkxZWWR5SkY5RWhMOTZiQUgyajR5UQ?oc=5",
-      "source": "Google News:CRM",
+      "symbol": "LQDA",
+      "short": "LQDA — 業績／指引：LQDA Q3 Earnings Beat Estimates on Robust Yutrepia Sales",
+      "detail": "LQDA\n重點：業績／指引\n標題：LQDA Q3 Earnings Beat Estimates on Robust Yutrepia Sales\n摘要：Liquidia's Q3 earnings and revenues beat estimates as Yutrepia sales surge, while strong PAH demand and pipeline investments support growth.\n來源：Yahoo Finance:LQDA\n其他：Liquidia (NASDAQ:LQDA) Stock Lifted to \"Strong-Buy\" by Raym…; LQDA Q3 Earnings Call Highlights Growth and Post-Settlement…",
+      "url": "https://finance.yahoo.com/healthcare/articles/lqda-q3-earnings-beat-estimates-163800605.html?.tsrc=rss",
+      "source": "Yahoo Finance:LQDA",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "GEN",
-      "short": "GEN — Gen Digital Inc. $GEN Holdings Lowered by Beutel Goodman & Co Ltd. - MarketBeat",
-      "detail": "GEN\n重點：新聞\n標題：Gen Digital Inc. $GEN Holdings Lowered by Beutel Goodman & Co Ltd. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUhmcHBvcU5oQVRhLWpadFZreWZHYkhYVXRSNHkwUlMweWZwbUlLdkNjZW52dVpHMmhoTGc0X2JpazB2eG9LMW9SZTNxY2VSSEM0Wm1qNHhmRmxpT3d6cDltXzcwV0xacFN5dDRaeGlhWDJiSEhJNlVuekJOZF93Z1lvMWlVTWc5TGd3RkpsZUhBbzEybWhQVFJOZENXS2d2N2Vsc05NMFpOV…\n來源：Google News:GEN\n其他：Gen Digital: Guidance Raised Twice, At 10x Projected Earnin…",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUhmcHBvcU5oQVRhLWpadFZreWZHYkhYVXRSNHkwUlMweWZwbUlLdkNjZW52dVpHMmhoTGc0X2JpazB2eG9LMW9SZTNxY2VSSEM0Wm1qNHhmRmxpT3d6cDltXzcwV0xacFN5dDRaeGlhWDJiSEhJNlVuekJOZF93Z1lvMWlVTWc5TGd3RkpsZUhBbzEybWhQVFJOZENXS2d2N2Vsc05NMFpOVzVPRlB6UmpUc0E3NW03azBHWWxXTQ?oc=5",
-      "source": "Google News:GEN",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "LNG",
-      "short": "LNG — Is Cheniere (NYSE:LNG) Growing Its Contract Book? - Kalkine Media",
-      "detail": "LNG\n重點：新聞\n標題：Is Cheniere (NYSE:LNG) Growing Its Contract Book? - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXdPTi10VjdGdEZRWWZOeGJCZHF5MUFfdlE5YXhPc2VuRDJ2Q2hlMTNmeWd4NXlDRHBuY3o2UkZHWmRJSnZRVHRlSjZrdHcyWkFSeUE1SURya1p1SmxiX0RsWE5UNnZPRy1FcHR1VkhodVZobFA0alQwT1ZESFJxeE11c05UV3lEaXZrX2RMYnQ?oc=5\" target=\"_blank\">Is Cheniere…\n來源：Google News:LNG\n其他：Cheniere Energy (LNG) Locks In New Debt As Its LNG Growth S…",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXdPTi10VjdGdEZRWWZOeGJCZHF5MUFfdlE5YXhPc2VuRDJ2Q2hlMTNmeWd4NXlDRHBuY3o2UkZHWmRJSnZRVHRlSjZrdHcyWkFSeUE1SURya1p1SmxiX0RsWE5UNnZPRy1FcHR1VkhodVZobFA0alQwT1ZESFJxeE11c05UV3lEaXZrX2RMYnQ?oc=5",
-      "source": "Google News:LNG",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "MRK",
-      "short": "MRK — Merck & Co., Inc. $MRK Stock Sold by M&G PLC - MarketBeat",
-      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Stock Sold by M&G PLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQS3NzdDVYQVFqcUl6SzRYc1ZDQ0pOUlB4XzJ3QTlEdGFsWlZ1dEJnZ3l5cFZ6Z1Y2VTk2ZnFKVWJaQkdCSktTY1hUS01neGtpTVFhNjJXR0xLV01HTFd5OEhIMktOWlpKQ2Y2M2dKU29SWGJVQWYyclR0REdBMlB1aW9IT3hGaVMwNzFGakZ2bFhzajBwclFjLWFKSnVmY0U?oc=5\" target=…\n來源：Google News:MRK\n其他：Merck (MRK) Could Be 7% Undervalued As MASH Trial Data Lift…",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS3NzdDVYQVFqcUl6SzRYc1ZDQ0pOUlB4XzJ3QTlEdGFsWlZ1dEJnZ3l5cFZ6Z1Y2VTk2ZnFKVWJaQkdCSktTY1hUS01neGtpTVFhNjJXR0xLV01HTFd5OEhIMktOWlpKQ2Y2M2dKU29SWGJVQWYyclR0REdBMlB1aW9IT3hGaVMwNzFGakZ2bFhzajBwclFjLWFKSnVmY0U?oc=5",
-      "source": "Google News:MRK",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "OXY",
-      "short": "OXY — 業績／指引：Occidental Petroleum Corp (OXY) Q3 2026 Earnings Call Highlights: $2. ...",
-      "detail": "OXY\n重點：業績／指引\n標題：Occidental Petroleum Corp (OXY) Q3 2026 Earnings Call Highlights: $2. ...\n摘要：Occidental Petroleum Corp (OXY) beat production guidance, repaid $1.8 billion of debt in the quarter, and outlined $700-800 million of sustainable cash flow improvement for 2027.\n來源：Yahoo Finance:OXY\n其他：Occidental Petroleum (OXY) Q3 2026 Earnings Call Transcript",
-      "url": "https://finance.yahoo.com/energy/articles/occidental-petroleum-corp-oxy-q3-070618456.html?.tsrc=rss",
-      "source": "Yahoo Finance:OXY",
-      "kind": "news"
-    },
-    {
-      "n": 7,
       "symbol": "A",
-      "short": "A — History Says Dividend ETFs Can Protect Your Portfolio if a Stock Market Slump Is Coming…",
-      "detail": "A\n重點：新聞\n標題：History Says Dividend ETFs Can Protect Your Portfolio if a Stock Market Slump Is Coming - Yahoo Finance\n摘要：<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNckFRUFpxUER3a21hN0JyZnhrajNFWC1rUHNWYnNYNkM4eS04VXg5TkU2cGpXMTBiU1YxUGRUa2Q1US1yMXhUU0hEOTFpMFNXWDVoUnZvY1ZyVk1iNVh0VWthRG41Um50UFpKOGVKWmJrRmVSSVg5YnVPWVJyNTh1WGlaVDNjRTNCWUs4SDQtcm9aTkNUdzNIYkw2S2R5Tks4?oc=5\" target…\n來源：Google News:A",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNckFRUFpxUER3a21hN0JyZnhrajNFWC1rUHNWYnNYNkM4eS04VXg5TkU2cGpXMTBiU1YxUGRUa2Q1US1yMXhUU0hEOTFpMFNXWDVoUnZvY1ZyVk1iNVh0VWthRG41Um50UFpKOGVKWmJrRmVSSVg5YnVPWVJyNTh1WGlaVDNjRTNCWUs4SDQtcm9aTkNUdzNIYkw2S2R5Tks4?oc=5",
+      "short": "A — How Do You Even Price A CEO’s Personal Life Into A Stock? - Forbes",
+      "detail": "A\n重點：新聞\n標題：How Do You Even Price A CEO’s Personal Life Into A Stock? - Forbes\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY0RJT1BoTlcyTE5uVER1RlJqdFo0bjZFZnVLU09LZnlIdzBQYUpGaEU2TTRnVkZaQTg1VUFJMVROSFlCb0VYdWRPUUZnMllMRzNBVUptLXJoNXk5RW1SY2dBUWotaUMzajBpamp0T3BESXNyR3d2SDdFUDZMTzlSdUFXMlVKMmMtbkFFNWlxQ1dlT0pmMmdoNVhtWnVKcV8za1VhMU8zaUFkT…\n來源：Google News:A",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY0RJT1BoTlcyTE5uVER1RlJqdFo0bjZFZnVLU09LZnlIdzBQYUpGaEU2TTRnVkZaQTg1VUFJMVROSFlCb0VYdWRPUUZnMllMRzNBVUptLXJoNXk5RW1SY2dBUWotaUMzajBpamp0T3BESXNyR3d2SDdFUDZMTzlSdUFXMlVKMmMtbkFFNWlxQ1dlT0pmMmdoNVhtWnVKcV8za1VhMU8zaUFkTm5hLWZtU01oYklBbTlj?oc=5",
       "source": "Google News:A",
       "kind": "news"
     },
     {
-      "n": 8,
-      "symbol": "BKNG",
-      "short": "BKNG — 127,290 Booking Holdings Inc. $BKNG Shares Sold by Allspring Global Investments Holding…",
-      "detail": "BKNG\n重點：新聞\n標題：127,290 Booking Holdings Inc. $BKNG Shares Sold by Allspring Global Investments Holdings LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSzl0VGVVNENzemozcHNTLUEzUmZ1WmJHNTRrM0RYZVRkemFLTUZnNzI0SVg2d0ZzalZtdFotX2ptc2pBQ0wzaGdRLWZ4cjRHX2JPYmRLTFA2R3A1T2NaSTA4aDJfNmVkVFBvclh3RXdiU0tGUmR4cXJHS1lCLXBqblJ0T0hHNGp3RmFwYlZQR2JKcWlzNlNUMkJwU01XR2ZHck1iOGFDVm16c…\n來源：Google News:BKNG",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSzl0VGVVNENzemozcHNTLUEzUmZ1WmJHNTRrM0RYZVRkemFLTUZnNzI0SVg2d0ZzalZtdFotX2ptc2pBQ0wzaGdRLWZ4cjRHX2JPYmRLTFA2R3A1T2NaSTA4aDJfNmVkVFBvclh3RXdiU0tGUmR4cXJHS1lCLXBqblJ0T0hHNGp3RmFwYlZQR2JKcWlzNlNUMkJwU01XR2ZHck1iOGFDVm16c2s4TmFtbTlBdmpjYlRPWlpCMXdZMjFDWElpNU84bDl2LURWdGVISjNDd012bjYyRy1ab2hQbXp1TFE?oc=5",
-      "source": "Google News:BKNG",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "CARG",
-      "short": "CARG — CarGurus, Inc. (NASDAQ:CARG) Stock Rated \"Moderate Buy\" by Sell-Side Brokerages - Marke…",
-      "detail": "CARG\n重點：新聞\n標題：CarGurus, Inc. (NASDAQ:CARG) Stock Rated \"Moderate Buy\" by Sell-Side Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcmlodUpLaW5vbTN0UG5HUS02R29OZV9DZGZkYUc1aDlwSzVtUXUyMUhNVEFwYXp0Q2dmVWJtWHFmN2VaWnVnaGJiak45SlY1cF9rVEJ5Q0NncVZ0VkpJX1g4Y0tfM1hyMlRuZWNoLThueEZySVFIZG5HVkY0cFpadWZyVExEdVFwUmc1NUVwY0lHaU9tWGZzOEFIV0NlZTY5TUVnR05UWEptd…\n來源：Google News:CARG",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcmlodUpLaW5vbTN0UG5HUS02R29OZV9DZGZkYUc1aDlwSzVtUXUyMUhNVEFwYXp0Q2dmVWJtWHFmN2VaWnVnaGJiak45SlY1cF9rVEJ5Q0NncVZ0VkpJX1g4Y0tfM1hyMlRuZWNoLThueEZySVFIZG5HVkY0cFpadWZyVExEdVFwUmc1NUVwY0lHaU9tWGZzOEFIV0NlZTY5TUVnR05UWEptdzFyRFl1S1lSc2pjNmNvOWhqNkU3eGpFOFo1Uk9veFY2dVVldFdGSlB3?oc=5",
-      "source": "Google News:CARG",
-      "kind": "news"
-    },
-    {
-      "n": 10,
+      "n": 4,
       "symbol": "COF",
       "short": "COF — There's A Lot To Like About Capital One Financial's (NYSE:COF) Upcoming US$0.80 Dividen…",
       "detail": "COF\n重點：新聞\n標題：There's A Lot To Like About Capital One Financial's (NYSE:COF) Upcoming US$0.80 Dividend - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOX2I5TEdoR2RfWmtqLVl6aUNKZ2czQ2FaVXdUSTlpSGpEb29mYWJXV1NyRWpfa2M1QTJSTkJZcFg2MFBtYTNkdUN5RFlMRmJ2TFhLX2ZhS19xUWNlTC1zbFdsa1dZdGEyYnFKaFNsRWxJUnhYNWVyU0NVNWVWaVBqUjQtSGV4VnRiVFpoNDhlX0NKNS1EcEhhLU9tRllKNkhCUEkta1VsSTB5Y…\n來源：Google News:COF",
@@ -95,21 +41,75 @@
       "kind": "news"
     },
     {
+      "n": 5,
+      "symbol": "EL",
+      "short": "EL — Estee Lauder Outlook Supported by China Rebound, Travel Retail Recovery, BofA Securitie…",
+      "detail": "EL\n重點：新聞\n標題：Estee Lauder Outlook Supported by China Rebound, Travel Retail Recovery, BofA Securities Says\n摘要：Estee Lauder (EL) is expected to benefit from a rebound in China beauty products demand and a recove\n來源：Yahoo Finance:EL",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/estee-lauder-outlook-supported-china-160456759.html?.tsrc=rss",
+      "source": "Yahoo Finance:EL",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "FTNT",
+      "short": "FTNT — Fortinet Raises 2026 Outlook After Strong Q3: Time to Hold the Stock?",
+      "detail": "FTNT\n重點：新聞\n標題：Fortinet Raises 2026 Outlook After Strong Q3: Time to Hold the Stock?\n摘要：FTNT raises its 2026 outlook after strong Q3 results, but slowing product growth, margin pressure and a premium valuation make holding the stock prudent.\n來源：Yahoo Finance:FTNT",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fortinet-raises-2026-outlook-strong-162600334.html?.tsrc=rss",
+      "source": "Yahoo Finance:FTNT",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "GAP",
+      "short": "GAP — The Gap, Inc. (NYSE:GAP) Shares Will Pay Quarterly Dividend of $0.17 - MarketBeat",
+      "detail": "GAP\n重點：新聞\n標題：The Gap, Inc. (NYSE:GAP) Shares Will Pay Quarterly Dividend of $0.17 - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEtldHZJZ252Ym9LbnZRZ0pWMGYzWDdLMXBqUHNjSU52NTdTTHNmMy1iXzRpcGlCS2EzLXY3Tl80OTh0U18zVTBxcVd3SGNGcU15c2xZVTJOczRrZWU0a0MtRW9TUWpFRkpwMGFEalJEb0k0S3Z6UklBLXFuNUFucjlhd2NIdzAyUmZ3X0xzU1UtN0dMZzdxZHdpeHpEV2Q2QlU3UFRLVDNTX…\n來源：Google News:GAP",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEtldHZJZ252Ym9LbnZRZ0pWMGYzWDdLMXBqUHNjSU52NTdTTHNmMy1iXzRpcGlCS2EzLXY3Tl80OTh0U18zVTBxcVd3SGNGcU15c2xZVTJOczRrZWU0a0MtRW9TUWpFRkpwMGFEalJEb0k0S3Z6UklBLXFuNUFucjlhd2NIdzAyUmZ3X0xzU1UtN0dMZzdxZHdpeHpEV2Q2QlU3UFRLVDNTX051V2laR1EwbFU4Si1LbFhteEx1ZmYzM3M?oc=5",
+      "source": "Google News:GAP",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "HMC",
+      "short": "HMC — 業績／指引：Honda Motor (NYSE:HMC) Releases FY 2027 Earnings Guidance - MarketBeat",
+      "detail": "HMC\n重點：業績／指引\n標題：Honda Motor (NYSE:HMC) Releases FY 2027 Earnings Guidance - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNVFZtN1UwWVlTYmNITHZGMnRTc2pKanh3ZUNUT29SV1J1TC14N1pmeXF4NTBncVJrZGNJY2RXV0JlbndJOThBRG52U1ZFNVZzZDhET1JmYkFPWXNZX3F4cFlsN2hnWjJaLURsRm1xWUxEZjkxM2h0ZjBGS09FMHBYYmw2dHpqWS1TNjNNSkRSaFFiNFNKdzlmcll4WHJ4SnBCaFdnTGJNTlk5S…\n來源：Google News:HMC",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVFZtN1UwWVlTYmNITHZGMnRTc2pKanh3ZUNUT29SV1J1TC14N1pmeXF4NTBncVJrZGNJY2RXV0JlbndJOThBRG52U1ZFNVZzZDhET1JmYkFPWXNZX3F4cFlsN2hnWjJaLURsRm1xWUxEZjkxM2h0ZjBGS09FMHBYYmw2dHpqWS1TNjNNSkRSaFFiNFNKdzlmcll4WHJ4SnBCaFdnTGJNTlk5SDVMSXFQVEJoMHNQV0JqN1E?oc=5",
+      "source": "Google News:HMC",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "IRDM",
+      "short": "IRDM — IRDM Stock Gets Reduced EPS Forecast from Zacks Research - MarketBeat",
+      "detail": "IRDM\n重點：新聞\n標題：IRDM Stock Gets Reduced EPS Forecast from Zacks Research - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQSlVEc0pXNjVJaXduYTYteV9CSl9vMHlxWGQxMmxPMm1GS2o5OXpNVmtPbkF0bUNLUjJ5MkJBdUdka0JHbUI4aUlLRFVNR3pzNktwb3hvRVdDZ204QXNHNXBBLWd4U3NnOXFrQXBOdE9DMkhzQVpCbWNpVFBMWEIzdUs2enlOTE81eEJQR0RJSGNackpaYUk0OGd2dy1xUlRsTGcyZDloQkF5S…\n來源：Google News:IRDM",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSlVEc0pXNjVJaXduYTYteV9CSl9vMHlxWGQxMmxPMm1GS2o5OXpNVmtPbkF0bUNLUjJ5MkJBdUdka0JHbUI4aUlLRFVNR3pzNktwb3hvRVdDZ204QXNHNXBBLWd4U3NnOXFrQXBOdE9DMkhzQVpCbWNpVFBMWEIzdUs2enlOTE81eEJQR0RJSGNackpaYUk0OGd2dy1xUlRsTGcyZDloQkF5SjFqajhKOEZveWozOTRCRGM3dw?oc=5",
+      "source": "Google News:IRDM",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "MRK",
+      "short": "MRK — Merck & Co., Inc. $MRK Stock Sold by M&G PLC - MarketBeat",
+      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Stock Sold by M&G PLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQS3NzdDVYQVFqcUl6SzRYc1ZDQ0pOUlB4XzJ3QTlEdGFsWlZ1dEJnZ3l5cFZ6Z1Y2VTk2ZnFKVWJaQkdCSktTY1hUS01neGtpTVFhNjJXR0xLV01HTFd5OEhIMktOWlpKQ2Y2M2dKU29SWGJVQWYyclR0REdBMlB1aW9IT3hGaVMwNzFGakZ2bFhzajBwclFjLWFKSnVmY0U?oc=5\" target=…\n來源：Google News:MRK",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS3NzdDVYQVFqcUl6SzRYc1ZDQ0pOUlB4XzJ3QTlEdGFsWlZ1dEJnZ3l5cFZ6Z1Y2VTk2ZnFKVWJaQkdCSktTY1hUS01neGtpTVFhNjJXR0xLV01HTFd5OEhIMktOWlpKQ2Y2M2dKU29SWGJVQWYyclR0REdBMlB1aW9IT3hGaVMwNzFGakZ2bFhzajBwclFjLWFKSnVmY0U?oc=5",
+      "source": "Google News:MRK",
+      "kind": "news"
+    },
+    {
       "n": 11,
-      "symbol": "FDX",
-      "short": "FDX — FedEx interim CFO & CAO Russ sells $5.3 million in FDX stock - Investing.com India",
-      "detail": "FDX\n重點：新聞\n標題：FedEx interim CFO & CAO Russ sells $5.3 million in FDX stock - Investing.com India\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNN1llSThDRjNUYUxOelhtSTVYZXQ5ZEJVaVc0ZzRzOG81R25Hc3lZa1hkMTd3VGVhUDEyb2RUbHM1NGFNOUctTC0tVHBqbGVNZnI2NmdNcGZtVW1GODZmNnN0WGtMc2IwU2JQVEdQRnZNZUpaOEhEVE81Rms1M01RQjI2SGstUnEwZWkwRHVnVG9zQ3pUUXVBeU9mamYzcjJQX2tzQjZGSG9Xb…\n來源：Google News:FDX",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN1llSThDRjNUYUxOelhtSTVYZXQ5ZEJVaVc0ZzRzOG81R25Hc3lZa1hkMTd3VGVhUDEyb2RUbHM1NGFNOUctTC0tVHBqbGVNZnI2NmdNcGZtVW1GODZmNnN0WGtMc2IwU2JQVEdQRnZNZUpaOEhEVE81Rms1M01RQjI2SGstUnEwZWkwRHVnVG9zQ3pUUXVBeU9mamYzcjJQX2tzQjZGSG9XbVVtdTJoUFRmeENPVFNjemc?oc=5",
-      "source": "Google News:FDX",
+      "symbol": "NOG",
+      "short": "NOG — Northern Oil and Gas (NYSE:NOG) Upgraded at Zacks Research - MarketBeat",
+      "detail": "NOG\n重點：新聞\n標題：Northern Oil and Gas (NYSE:NOG) Upgraded at Zacks Research - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVpxTnJBSy1McUc2MVpEa2dqR1RQOXM5dTU4WjcyTS0ySzBwT2VYME9aT1l5Zng5SFh6WVFhUjFlLWRZZEJBdV96NE9lMDZWN3NyQWRRR0Q0dXBkRWthYVNxcHNqd1pIdWpzbHJ4Mk5rZjlpT194V0VXeXZwUDQwNlFTMWFPN3NRRTJqcE8wTlFzVWU5aHdhMjNSZ2s4YzRsTUNhbTBhQXljY…\n來源：Google News:NOG",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVpxTnJBSy1McUc2MVpEa2dqR1RQOXM5dTU4WjcyTS0ySzBwT2VYME9aT1l5Zng5SFh6WVFhUjFlLWRZZEJBdV96NE9lMDZWN3NyQWRRR0Q0dXBkRWthYVNxcHNqd1pIdWpzbHJ4Mk5rZjlpT194V0VXeXZwUDQwNlFTMWFPN3NRRTJqcE8wTlFzVWU5aHdhMjNSZ2s4YzRsTUNhbTBhQXljY3RYdUotRF9mT2tsMTZnVVE?oc=5",
+      "source": "Google News:NOG",
       "kind": "news"
     },
     {
       "n": 12,
-      "symbol": "HCA",
-      "short": "HCA — HCA Healthcare, Inc. (NYSE:HCA) Stock Has Consensus Target Price of $480.13 According t…",
-      "detail": "HCA\n重點：新聞\n標題：HCA Healthcare, Inc. (NYSE:HCA) Stock Has Consensus Target Price of $480.13 According to Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxONjJKZnVrWmw5a3U0VG00UVZkdjBPdHFEamJ0NjN4ZVNuNnRaWUVWcGpzOTM1VHBVY202cVFmTGhfLUQ5bHliS3YxeXRZVEo4NENDa2txQ19UeE1DdzJxaEpfVkFYamhBTkZGeDdmTVpoUTRPc214OEROZGVKVGpYODRFS2VKNlFiRmdNenZuZ3drVDgxRWVWMzFNenZmWXZtaHl6TEVWSmx6N…\n來源：Google News:HCA",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONjJKZnVrWmw5a3U0VG00UVZkdjBPdHFEamJ0NjN4ZVNuNnRaWUVWcGpzOTM1VHBVY202cVFmTGhfLUQ5bHliS3YxeXRZVEo4NENDa2txQ19UeE1DdzJxaEpfVkFYamhBTkZGeDdmTVpoUTRPc214OEROZGVKVGpYODRFS2VKNlFiRmdNenZuZ3drVDgxRWVWMzFNenZmWXZtaHl6TEVWSmx6NjFVeVBtbGt1NG5YZU9rUUlsQldSa2xIbmdsWERiTmx5UHFFTnhGNzZFSWhUdWYwbGFLVFV6NGRCM0Uwa0VHOXhr?oc=5",
-      "source": "Google News:HCA",
+      "symbol": "OXY",
+      "short": "OXY — 業績／指引：Occidental Q3 Earnings Call Centers on Debt Cuts and Cash Flow",
+      "detail": "OXY\n重點：業績／指引\n標題：Occidental Q3 Earnings Call Centers on Debt Cuts and Cash Flow\n摘要：OXY sets a $6 billion debt target after $10.4 billion in 2026 reductions, with 2027 cash flow gains, capital spending and buybacks in focus.\n來源：Yahoo Finance:OXY",
+      "url": "https://finance.yahoo.com/energy/articles/occidental-q3-earnings-call-centers-154700470.html?.tsrc=rss",
+      "source": "Yahoo Finance:OXY",
       "kind": "news"
     }
   ]
