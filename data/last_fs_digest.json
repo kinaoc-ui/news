@@ -1,43 +1,16 @@
 {
-  "title": "FS新聞 11-14 16:27",
-  "list_name": "FirstScreen_2026-11-14_162732_comma.txt",
-  "created_at": "2026-11-14T16:27:38.492521+00:00",
+  "title": "FS新聞 11-15 06:52",
+  "list_name": "FirstScreen_2026-11-15_065218_comma.txt",
+  "created_at": "2026-11-15T06:52:24.776378+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "EC",
-      "short": "EC — Ecopetrol (NYSE:EC) Stock Bumped Up to Strong-Buy by Wall Street Zen - MarketBeat",
-      "detail": "EC\n重點：新聞\n標題：Ecopetrol (NYSE:EC) Stock Bumped Up to Strong-Buy by Wall Street Zen - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOb01WYldlV2NXaVhLcWNyRXo0MXptZ1N4bklUWTV4cWlzUHhOZXB3czgzMmIxQUhvSV9JOEMwcnNWZi1MMmNCT3ZUNnZkZHZJSUNXWkJpM3FleVdZNmR3RDhpSXBvR243VjFDMUpVQ1F5U0w4TGFVclpYU3A2RmhWSmFObTZEVVhNS19UeEJwUTFDdGZNVFFaQi13SzlwWktfbklvdjVTd09KO…\n來源：Google News:EC",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb01WYldlV2NXaVhLcWNyRXo0MXptZ1N4bklUWTV4cWlzUHhOZXB3czgzMmIxQUhvSV9JOEMwcnNWZi1MMmNCT3ZUNnZkZHZJSUNXWkJpM3FleVdZNmR3RDhpSXBvR243VjFDMUpVQ1F5U0w4TGFVclpYU3A2RmhWSmFObTZEVVhNS19UeEJwUTFDdGZNVFFaQi13SzlwWktfbklvdjVTd09KODBDUXFaRmhIZ0Y4YTg4WDdiQllScnY5ZlRBV3lj?oc=5",
-      "source": "Google News:EC",
-      "kind": "news"
-    },
-    {
-      "n": 2,
-      "symbol": "GEN",
-      "short": "GEN — Gen Digital Inc. $GEN Shares Purchased by Eurizon Capital SGR S.p.A. - MarketBeat",
-      "detail": "GEN\n重點：新聞\n標題：Gen Digital Inc. $GEN Shares Purchased by Eurizon Capital SGR S.p.A. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaVRmWlRncDhob285V21pQ2pvbUZHMk1BUGJxeFRrZmFQQ2dINzNwNXFvWjF4bmo3OExiMEtRdl9PWlJQNl9MTVBRTjliZ3V3czNhR242UXFVTHhpWnRDVUt4WWl6cDA1U1JCR0tmVmFQdzEtVFVaUDZBWUh1a2NEY2JRa1FSTkdBNlNvNl9WbTRQVThtWnJhdWY4Rm9VbWdwSXk2M0YwRTdlQ…\n來源：Google News:GEN",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaVRmWlRncDhob285V21pQ2pvbUZHMk1BUGJxeFRrZmFQQ2dINzNwNXFvWjF4bmo3OExiMEtRdl9PWlJQNl9MTVBRTjliZ3V3czNhR242UXFVTHhpWnRDVUt4WWl6cDA1U1JCR0tmVmFQdzEtVFVaUDZBWUh1a2NEY2JRa1FSTkdBNlNvNl9WbTRQVThtWnJhdWY4Rm9VbWdwSXk2M0YwRTdlQWVYX1pldG1nMFB0R3lpdjBCNEZaZFM0QQ?oc=5",
-      "source": "Google News:GEN",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "LNG",
-      "short": "LNG — 業績／指引：Record Earnings Might Change The Case For Investing In Flex LNG Stock (FLNG) - Simply W…",
-      "detail": "LNG\n重點：業績／指引\n標題：Record Earnings Might Change The Case For Investing In Flex LNG Stock (FLNG) - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxONkM5enA0cGVUMW8yTnJxa09Cb1lBMTZERV9tOXZzdm1kRjc2LTcyMGVJUV9wRWdoeFdXQWN4d1A0eEgwRjRDRjlyWGJtX2xDZFJQMGEwWFBvVm4zalNZZEZfM0pNclFBMTF1dWRfeHlmTEFzOFEyTHJVaVppWU91bFZEaU9JYlpOWlNZMlVUWXFjUmhuUmtkWnViV3ZsZTZsdzhYUjlwU09tb…\n來源：Google News:LNG",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONkM5enA0cGVUMW8yTnJxa09Cb1lBMTZERV9tOXZzdm1kRjc2LTcyMGVJUV9wRWdoeFdXQWN4d1A0eEgwRjRDRjlyWGJtX2xDZFJQMGEwWFBvVm4zalNZZEZfM0pNclFBMTF1dWRfeHlmTEFzOFEyTHJVaVppWU91bFZEaU9JYlpOWlNZMlVUWXFjUmhuUmtkWnViV3ZsZTZsdzhYUjlwU09tbURKLTFxM2prSXJmb2xhYmJJTzluYw?oc=5",
-      "source": "Google News:LNG",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "YETI",
-      "short": "YETI — 業績／指引：YETI Beat on Earnings, But Its Sales Tell a Different Story - MarketBeat",
-      "detail": "YETI\n重點：業績／指引\n標題：YETI Beat on Earnings, But Its Sales Tell a Different Story - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQTFGaTY5NEx1anJmNmQ0WDFiZ3M4TGk1WHJJQzJjejJuem96R0pCM1E4eUVveW4xSjk0dXlCTnlBYTd0RHdKWldvZEZfemY4UXNPbllxVTMtNmkxQmFqVFl2bkhLMFpVNFcwN08xZmgtSXRkQ1M4WlhvUnptT3l6eWF2UVphNU1HejJyX0xTNXl4RTN1bk5SZDhfdw?oc=5\" target=\"_bla…\n來源：Google News:YETI",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQTFGaTY5NEx1anJmNmQ0WDFiZ3M4TGk1WHJJQzJjejJuem96R0pCM1E4eUVveW4xSjk0dXlCTnlBYTd0RHdKWldvZEZfemY4UXNPbllxVTMtNmkxQmFqVFl2bkhLMFpVNFcwN08xZmgtSXRkQ1M4WlhvUnptT3l6eWF2UVphNU1HejJyX0xTNXl4RTN1bk5SZDhfdw?oc=5",
-      "source": "Google News:YETI",
+      "symbol": "BILL",
+      "short": "BILL — 業績／指引：BILL Holdings (BILL) Earnings Beat And Buyback Put Fair Value Back In Focus - Simply Wa…",
+      "detail": "BILL\n重點：業績／指引\n標題：BILL Holdings (BILL) Earnings Beat And Buyback Put Fair Value Back In Focus - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMzFyY0lxcHQ1NVk0M2JiWWV4OHhMY0R2ZnVHYU9WOUktajZnZ0tHajhvemhlTzluSlVzeC1RQXA0S1pxamZOckJKc0JiREZ1ODVwTzl3LWJ2WG0xdTMzcEswS0JIVXRpOVVCUFY2Z0U0SzBVbkZydDB6bmJFZ01VS0I5UGY4TGp3RHpjRXRFemxPc0FRUGtRNE84WHlaX1k2aGdsSG9WMDVqa…\n來源：Google News:BILL",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMzFyY0lxcHQ1NVk0M2JiWWV4OHhMY0R2ZnVHYU9WOUktajZnZ0tHajhvemhlTzluSlVzeC1RQXA0S1pxamZOckJKc0JiREZ1ODVwTzl3LWJ2WG0xdTMzcEswS0JIVXRpOVVCUFY2Z0U0SzBVbkZydDB6bmJFZ01VS0I5UGY4TGp3RHpjRXRFemxPc0FRUGtRNE84WHlaX1k2aGdsSG9WMDVqa2FrR05zWmlfdnFMSWw1WlY4cmtxR3ZPYjdqNDBxWdIBzgFBVV95cUxOQzNKcmhIZXJvOUp1dzI2UUhsSkJNR2JtUkRicFlnZUwtV2cyaHFZbkVja2pBTjVPV2Q2OUwzM3J1WmlpckdpR3hZaGZnWWlrRVV6Um13ZTUtZi1zZ3Q5ZEtTcGxfS1FsRVIxOW8xSGhlUk1hbEVjRjZ2NWNzVHR4eVBDUHlhQmd0UUttWVVlX09fQWR1M2pnVWhyU1JLNTNDdnAzc3BEbmNzRkFsTmZiaHUtNWhhcGpGVkNUclRuSUM1RXFnb0lCTUUwZHBYdw?oc=5",
+      "source": "Google News:BILL",
       "kind": "news"
     }
   ]
