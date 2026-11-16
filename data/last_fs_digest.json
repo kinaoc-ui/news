@@ -1,88 +1,25 @@
 {
-  "title": "FS新聞 11-15 16:52",
-  "list_name": "FirstScreen_2026-11-15_165217_comma.txt",
-  "created_at": "2026-11-15T16:52:23.977365+00:00",
+  "title": "FS新聞 11-16 06:54",
+  "list_name": "FirstScreen_2026-11-16_065413_comma.txt",
+  "created_at": "2026-11-16T06:54:20.012539+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce Inc. $CRM Stock Sold by Danske Bank A S - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stock Sold by Danske Bank A S - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHYtNk9IRWNONzN3Z01kZUpuQmtFQ1VBbFZXaWMyMG1jQjZPT2VjX2YyMmZCUUdJb1FGMDBFS3c3Zk9mTEtqbGRXNmV2VVJTTG14TkpwbHI4a1dramF2eUw0clJ3UFd1Zmh4TnlaN3B6X1h2dll5OWZxZWI0SS1jMVQ1WmdJQ3Y4cWVNZGdydTFGUjNvZkZRS0E4T09aN3djbjBDNjNRUXZaZ…\n來源：Google News:CRM\n其他：Salesforce Inc. $CRM Stock: Danica Pension Livsforsikringsa…; Salesforce Inc. $CRM Stock: Aberdeen Group plc Lowers Holdi…",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHYtNk9IRWNONzN3Z01kZUpuQmtFQ1VBbFZXaWMyMG1jQjZPT2VjX2YyMmZCUUdJb1FGMDBFS3c3Zk9mTEtqbGRXNmV2VVJTTG14TkpwbHI4a1dramF2eUw0clJ3UFd1Zmh4TnlaN3B6X1h2dll5OWZxZWI0SS1jMVQ1WmdJQ3Y4cWVNZGdydTFGUjNvZkZRS0E4T09aN3djbjBDNjNRUXZaZV8yVlE?oc=5",
-      "source": "Google News:CRM",
+      "symbol": "INTU",
+      "short": "INTU — 業績／指引：Intuit Earnings Preview: The Stock Is Cheap, But There's A Catch (NASDAQ:INTU) - Seekin…",
+      "detail": "INTU\n重點：業績／指引\n標題：Intuit Earnings Preview: The Stock Is Cheap, But There's A Catch (NASDAQ:INTU) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmwwQVpzcGNWZkEzNGlaVXQtSjl1WTJUQWVTY3FaMHVjc2JHT3dCUEVaWG1xMVZBVmhMcjUxSXN5NGc4a3pyQjUzeGlFdWFJOGtGalIwZzItaWh2SVExdDZZU09tYUpoa1IwZC1jbnQ2Z2FvS3JCa2pvZlpfRFNHQ0JhSHVNaGJYTXI1d2ZzWHM0d2VjX0xvYWp4R2Eyb0JwaDlIeQ?oc=5\" …\n來源：Google News:INTU",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmwwQVpzcGNWZkEzNGlaVXQtSjl1WTJUQWVTY3FaMHVjc2JHT3dCUEVaWG1xMVZBVmhMcjUxSXN5NGc4a3pyQjUzeGlFdWFJOGtGalIwZzItaWh2SVExdDZZU09tYUpoa1IwZC1jbnQ2Z2FvS3JCa2pvZlpfRFNHQ0JhSHVNaGJYTXI1d2ZzWHM0d2VjX0xvYWp4R2Eyb0JwaDlIeQ?oc=5",
+      "source": "Google News:INTU",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "A",
-      "short": "A — History Says This Dividend Stock Can Protect Your Portfolio if a Stock Market Slump Is …",
-      "detail": "A\n重點：新聞\n標題：History Says This Dividend Stock Can Protect Your Portfolio if a Stock Market Slump Is Coming - Yahoo Finance\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOa1NiUXZYTzRrME1OSnl4QldRX3FTQjE1bHF3ZXpha2xBbkQtSTFxbFdOU0hwcjJrS0FjVExDZXo2Y1ZWU3RqS2RKUFNLY2tUbm1nVjlaMlZMZU43ZEZEVktUUl9wTmlnbFhLUnVIQlF2ZlYtNEpPWGhsV0h6a004SmtmZFZFb2dYelMyTm9VQlZyTkxaazJadzk4WkpxUllERHc?oc=5\" tar…\n來源：Google News:A\n其他：History Says This Dividend Stock Can Protect Your Portfolio…",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa1NiUXZYTzRrME1OSnl4QldRX3FTQjE1bHF3ZXpha2xBbkQtSTFxbFdOU0hwcjJrS0FjVExDZXo2Y1ZWU3RqS2RKUFNLY2tUbm1nVjlaMlZMZU43ZEZEVktUUl9wTmlnbFhLUnVIQlF2ZlYtNEpPWGhsV0h6a004SmtmZFZFb2dYelMyTm9VQlZyTkxaazJadzk4WkpxUllERHc?oc=5",
-      "source": "Google News:A",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "TTE",
-      "short": "TTE — TotalEnergies (NYSE:TTE) Stock Breaks Above 50-Day Moving Average - Time to Sell? - Mar…",
-      "detail": "TTE\n重點：新聞\n標題：TotalEnergies (NYSE:TTE) Stock Breaks Above 50-Day Moving Average - Time to Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTWZKelF3dFhYM3FzbXlraWgzeW1uM0Y4UTBvZ0t5T1htMWNZT1J1TlVmclR1ZXZKM24ycFVxY21zY1BHbERVaWV0RkhxTWZPWU45N1VfdHVKejVVZzVVSk1RWHhiYzNxbDZlazVpdV9CQ3E3VDFQNy1GYmx4M2F2UE5taW9KSFllQTROcHJhb1B3OFlsV3UyQ3lYam5icGJha0UyaFpoN3ZpM…\n來源：Google News:TTE\n其他：TotalEnergies (NYSE:TTE) Stock Rating Lowered by Wall Stree…",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTWZKelF3dFhYM3FzbXlraWgzeW1uM0Y4UTBvZ0t5T1htMWNZT1J1TlVmclR1ZXZKM24ycFVxY21zY1BHbERVaWV0RkhxTWZPWU45N1VfdHVKejVVZzVVSk1RWHhiYzNxbDZlazVpdV9CQ3E3VDFQNy1GYmx4M2F2UE5taW9KSFllQTROcHJhb1B3OFlsV3UyQ3lYam5icGJha0UyaFpoN3ZpMTVlVWtiZG9OQTN1dkFLWk1ydVBHREFTbk4zdmRoN0duQ0NOODFWX1E?oc=5",
-      "source": "Google News:TTE",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "BNY",
-      "short": "BNY — 642,266 Bank of New York Mellon Corporation $BNY Shares Sold by Danske Bank A S - Marke…",
-      "detail": "BNY\n重點：新聞\n標題：642,266 Bank of New York Mellon Corporation $BNY Shares Sold by Danske Bank A S - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQlpCcFFneVdjMXlIVERHLWpuZ2pyVFg2T0ZlVmtWc0l0ZzI5RUNmY3JpOFZtVk84ejVrYkk0NDZFRGZfbHpGX3A4dHdtVk1MRFdvRGpCWDdyRFRMQk93V1FDaEJodWlsTm1hQkM2c1dsek9GQ0hMSWstalJwNU5GMkktN1BhNlNrMFRUb0JQOGY3VEs2c1pLZ2NRRGgyZmVBX1A1NDFMUWw0b…\n來源：Google News:BNY",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQlpCcFFneVdjMXlIVERHLWpuZ2pyVFg2T0ZlVmtWc0l0ZzI5RUNmY3JpOFZtVk84ejVrYkk0NDZFRGZfbHpGX3A4dHdtVk1MRFdvRGpCWDdyRFRMQk93V1FDaEJodWlsTm1hQkM2c1dsek9GQ0hMSWstalJwNU5GMkktN1BhNlNrMFRUb0JQOGY3VEs2c1pLZ2NRRGgyZmVBX1A1NDFMUWw0bWUxWkNOLUoteHEtbmFRTTQtNHk4WmJySkg4amV4WHIyX1JCeGp4RDRDVA?oc=5",
-      "source": "Google News:BNY",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "LQDA",
-      "short": "LQDA — Liquidia (NASDAQ:LQDA) Upgraded to \"Hold\" at Zacks Research - MarketBeat",
-      "detail": "LQDA\n重點：新聞\n標題：Liquidia (NASDAQ:LQDA) Upgraded to \"Hold\" at Zacks Research - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUVadl8xYnN6Tk9UaDVVa0U5Um54eWlZaVNMRUVOUGY4d3lrSWlMSmsyOHdaWWJpOUtTNjZ2N050MmQtYlhMWTNtNklmYkVjeFlVVzFVNWE5YmdDeUZaQkRubmdhQjRVd010R0hSVUxCTVNnTFdhX1ZBZllYajBYYTh4aU9peDM5aGRTRlF3SEo3WDZ4TngxdUdfUVZGeGJUT1hTX1NjdXp6b…\n來源：Google News:LQDA",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUVadl8xYnN6Tk9UaDVVa0U5Um54eWlZaVNMRUVOUGY4d3lrSWlMSmsyOHdaWWJpOUtTNjZ2N050MmQtYlhMWTNtNklmYkVjeFlVVzFVNWE5YmdDeUZaQkRubmdhQjRVd010R0hSVUxCTVNnTFdhX1ZBZllYajBYYTh4aU9peDM5aGRTRlF3SEo3WDZ4TngxdUdfUVZGeGJUT1hTX1NjdXp6b3RFMmtjajJvS0hLbUk0?oc=5",
-      "source": "Google News:LQDA",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "LW",
-      "short": "LW — Lamb Weston (NYSE:LW) Stock Now Rated \"Hold\" by Wall Street Brokerages - MarketBeat",
-      "detail": "LW\n重點：新聞\n標題：Lamb Weston (NYSE:LW) Stock Now Rated \"Hold\" by Wall Street Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPM2xtOXo0OVlreFhOdnF1azctZnZYYS1VRk1ZZktaTC10X3NPZDZsNGRBNDQteURRdHRJOWpIbnV1TjZqRE9BUElFdjN4T0lza2NOUWtQXzB2ODlUT2xMUjJaZEppVDFvNHVTM05TT1NHems0blJheU1JOU95OUs5azdYMlMtek9SUUJwNnFtRzVtc29IUjAzckJVYU00VDlKUHdEUVBOVzlGb…\n來源：Google News:LW",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM2xtOXo0OVlreFhOdnF1azctZnZYYS1VRk1ZZktaTC10X3NPZDZsNGRBNDQteURRdHRJOWpIbnV1TjZqRE9BUElFdjN4T0lza2NOUWtQXzB2ODlUT2xMUjJaZEppVDFvNHVTM05TT1NHems0blJheU1JOU95OUs5azdYMlMtek9SUUJwNnFtRzVtc29IUjAzckJVYU00VDlKUHdEUVBOVzlGbmY0aS1WZi1XMUtrTEh0aHREclRmXzFsbDk4RDVocFNn?oc=5",
-      "source": "Google News:LW",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "OXY",
-      "short": "OXY — Occidental Petroleum Corporation (NYSE:OXY) Stock Has Average Target Price of $67.71 - …",
-      "detail": "OXY\n重點：新聞\n標題：Occidental Petroleum Corporation (NYSE:OXY) Stock Has Average Target Price of $67.71 - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYjk2Z3pJOFhTV0FaenBUS3hKUnhXNVJVQ3ZIdUVLWllaRlZLQi03NTU3Mmt6MGJ1TUZyczRJdHJYdzNOX2RVNWZGdHdDY3B1eTAyN0FvUWNKS3FpVHAtX0QtX2ZSSW5ad09hVnNTOXdmNzVEQkY0Ylh4d2RQTnJKb3JZWHBraGtVSkJhX1ZuOF9sZUdETWNzdkItYmRHbXF1amJiZ0stNnQyZ…\n來源：Google News:OXY",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYjk2Z3pJOFhTV0FaenBUS3hKUnhXNVJVQ3ZIdUVLWllaRlZLQi03NTU3Mmt6MGJ1TUZyczRJdHJYdzNOX2RVNWZGdHdDY3B1eTAyN0FvUWNKS3FpVHAtX0QtX2ZSSW5ad09hVnNTOXdmNzVEQkY0Ylh4d2RQTnJKb3JZWHBraGtVSkJhX1ZuOF9sZUdETWNzdkItYmRHbXF1amJiZ0stNnQyZzZOVHdxRjJzTVhac3hrdm1IMWpOOFpTMnRtemdWa3JXUjBmODQzWDZtNFdyVlphLWRG?oc=5",
-      "source": "Google News:OXY",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "TGT",
-      "short": "TGT — 業績／指引、宏觀：What To Expect In Markets This Week: NVDA, PANW, DIS, HD, TGT, WMT, GRRR Earnings, Kevi…",
-      "detail": "TGT\n重點：業績／指引、宏觀\n標題：What To Expect In Markets This Week: NVDA, PANW, DIS, HD, TGT, WMT, GRRR Earnings, Kevin Warsh Speech And More\n摘要：Remarks from central bank officials may provide clues about the Fed's thinking on its next policy moves.\n來源：Yahoo Finance:TGT",
-      "url": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-nov-15-2026/cNbEXadR9Qu?.tsrc=rss",
-      "source": "Yahoo Finance:TGT",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "YETI",
-      "short": "YETI — YETI (NYSE:YETI) Downgraded by Wall Street Zen to Hold - MarketBeat",
-      "detail": "YETI\n重點：新聞\n標題：YETI (NYSE:YETI) Downgraded by Wall Street Zen to Hold - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNbXM3NmdIZWk4dFpodVdlU2hBYVpORThKX0hudUdfMW5fZHVTalh0VTNRM1ZmRWtFaC0yVDVrSlJSOXA5Ym1icHBYN1A0UWxWLUpCeFN3d3dMOWc0NFk4ZjJJMl9WbC0wTlhzbldodkRFRk1HZFZya3J1LUZkT1V0MzRwXzJNTE5jaGxjNVMwd3h2ZS1iX1FBX1RQS0o4RkRwQkFJNV9wNWxWY…\n來源：Google News:YETI",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbXM3NmdIZWk4dFpodVdlU2hBYVpORThKX0hudUdfMW5fZHVTalh0VTNRM1ZmRWtFaC0yVDVrSlJSOXA5Ym1icHBYN1A0UWxWLUpCeFN3d3dMOWc0NFk4ZjJJMl9WbC0wTlhzbldodkRFRk1HZFZya3J1LUZkT1V0MzRwXzJNTE5jaGxjNVMwd3h2ZS1iX1FBX1RQS0o4RkRwQkFJNV9wNWxWY1RTSy1QWGVpWEo?oc=5",
-      "source": "Google News:YETI",
+      "symbol": "MDT",
+      "short": "MDT — Medtronic (NYSE:MDT) Downgraded by Wall Street Zen to Hold - MarketBeat",
+      "detail": "MDT\n重點：新聞\n標題：Medtronic (NYSE:MDT) Downgraded by Wall Street Zen to Hold - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjdyS25UY2xsTTY1eU9rWjZpYnRCcGFmZUVwemo4UHlGaGRFbEpCTDJNZS1iMUNRcmgzcU9TS1RkN2otMFE2RkdJUFNVNEpQSWJYV3lPb3JMSWZ2RkJOTzBWdlZhdHg1V0plWHc2dFl2VXgybldaSE8tR0ppN2RJN3dsZWRhZVBabUxDeUsxc21LT1NJVTkxU2Rkc2s0OFlIMEhpcGR4UjBiR…\n來源：Google News:MDT",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjdyS25UY2xsTTY1eU9rWjZpYnRCcGFmZUVwemo4UHlGaGRFbEpCTDJNZS1iMUNRcmgzcU9TS1RkN2otMFE2RkdJUFNVNEpQSWJYV3lPb3JMSWZ2RkJOTzBWdlZhdHg1V0plWHc2dFl2VXgybldaSE8tR0ppN2RJN3dsZWRhZVBabUxDeUsxc21LT1NJVTkxU2Rkc2s0OFlIMEhpcGR4UjBiRVhkbk5zZEpSMVdDcElPZUE?oc=5",
+      "source": "Google News:MDT",
       "kind": "news"
     }
   ]
