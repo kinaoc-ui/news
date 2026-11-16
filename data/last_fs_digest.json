@@ -1,25 +1,97 @@
 {
-  "title": "FS新聞 11-16 06:54",
-  "list_name": "FirstScreen_2026-11-16_065413_comma.txt",
-  "created_at": "2026-11-16T06:54:20.012539+00:00",
+  "title": "FS新聞 11-16 13:20",
+  "list_name": "FirstScreen_2026-11-16_132041_comma.txt",
+  "created_at": "2026-11-16T13:20:47.996004+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "INTU",
-      "short": "INTU — 業績／指引：Intuit Earnings Preview: The Stock Is Cheap, But There's A Catch (NASDAQ:INTU) - Seekin…",
-      "detail": "INTU\n重點：業績／指引\n標題：Intuit Earnings Preview: The Stock Is Cheap, But There's A Catch (NASDAQ:INTU) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmwwQVpzcGNWZkEzNGlaVXQtSjl1WTJUQWVTY3FaMHVjc2JHT3dCUEVaWG1xMVZBVmhMcjUxSXN5NGc4a3pyQjUzeGlFdWFJOGtGalIwZzItaWh2SVExdDZZU09tYUpoa1IwZC1jbnQ2Z2FvS3JCa2pvZlpfRFNHQ0JhSHVNaGJYTXI1d2ZzWHM0d2VjX0xvYWp4R2Eyb0JwaDlIeQ?oc=5\" …\n來源：Google News:INTU",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmwwQVpzcGNWZkEzNGlaVXQtSjl1WTJUQWVTY3FaMHVjc2JHT3dCUEVaWG1xMVZBVmhMcjUxSXN5NGc4a3pyQjUzeGlFdWFJOGtGalIwZzItaWh2SVExdDZZU09tYUpoa1IwZC1jbnQ2Z2FvS3JCa2pvZlpfRFNHQ0JhSHVNaGJYTXI1d2ZzWHM0d2VjX0xvYWp4R2Eyb0JwaDlIeQ?oc=5",
-      "source": "Google News:INTU",
+      "symbol": "CRM",
+      "short": "CRM — 7,377 Shares in Salesforce Inc. $CRM Acquired by White Pine Capital LLC - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：7,377 Shares in Salesforce Inc. $CRM Acquired by White Pine Capital LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUU43MDR2Ti1SLXV0SE5nVllwdWFaQ1FrOTFkTkk1WkN0c0JJazdxcjBRSjJYUkoxVl9xZDg1ejRXN2ZZdXp5ZWhqYXVITnY1Rk9wbGlCXzR6VENRangzVTRyUHNxcmVPUl8wby1hTEdkbWFrbndvX3FhTTFhUmJLV2ExNWNpNGdGdlFNeTVrR0Q4ay0xVVh2b0s3UDBzazRwLVFTSTNSRXBBW…\n來源：Google News:CRM\n其他：6,041 Shares of Salesforce Inc. $CRM Purchased by Migdal In…; Salesforce Inc. $CRM Holdings Trimmed by Hantz Financial Se…",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUU43MDR2Ti1SLXV0SE5nVllwdWFaQ1FrOTFkTkk1WkN0c0JJazdxcjBRSjJYUkoxVl9xZDg1ejRXN2ZZdXp5ZWhqYXVITnY1Rk9wbGlCXzR6VENRangzVTRyUHNxcmVPUl8wby1hTEdkbWFrbndvX3FhTTFhUmJLV2ExNWNpNGdGdlFNeTVrR0Q4ay0xVVh2b0s3UDBzazRwLVFTSTNSRXBBWThJeHZaRVdhRGRscUQ1VVBBWjJJZFpFaTBTSEp4Qg?oc=5",
+      "source": "Google News:CRM",
       "kind": "news"
     },
     {
       "n": 2,
       "symbol": "MDT",
-      "short": "MDT — Medtronic (NYSE:MDT) Downgraded by Wall Street Zen to Hold - MarketBeat",
-      "detail": "MDT\n重點：新聞\n標題：Medtronic (NYSE:MDT) Downgraded by Wall Street Zen to Hold - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjdyS25UY2xsTTY1eU9rWjZpYnRCcGFmZUVwemo4UHlGaGRFbEpCTDJNZS1iMUNRcmgzcU9TS1RkN2otMFE2RkdJUFNVNEpQSWJYV3lPb3JMSWZ2RkJOTzBWdlZhdHg1V0plWHc2dFl2VXgybldaSE8tR0ppN2RJN3dsZWRhZVBabUxDeUsxc21LT1NJVTkxU2Rkc2s0OFlIMEhpcGR4UjBiR…\n來源：Google News:MDT",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjdyS25UY2xsTTY1eU9rWjZpYnRCcGFmZUVwemo4UHlGaGRFbEpCTDJNZS1iMUNRcmgzcU9TS1RkN2otMFE2RkdJUFNVNEpQSWJYV3lPb3JMSWZ2RkJOTzBWdlZhdHg1V0plWHc2dFl2VXgybldaSE8tR0ppN2RJN3dsZWRhZVBabUxDeUsxc21LT1NJVTkxU2Rkc2s0OFlIMEhpcGR4UjBiRVhkbk5zZEpSMVdDcElPZUE?oc=5",
-      "source": "Google News:MDT",
+      "short": "MDT — Medtronic to acquire Contego Medical, expanding access to next-generation carotid thera…",
+      "detail": "MDT\n重點：新聞\n標題：Medtronic to acquire Contego Medical, expanding access to next-generation carotid therapies\n摘要：Medtronic (NYSE: MDT), the global leader in healthcare technology, today announced its intent to acquire Contego Medical, a privately held medical device company focused on innovative solutions for carotid artery disease and peripheral thrombectomy.\n來源：Yahoo Finance:MDT\n其他：Medtronic (NYSE:MDT) Downgraded by Wall Street Zen to Hold …",
+      "url": "https://finance.yahoo.com/healthcare/articles/medtronic-acquire-contego-medical-expanding-114500980.html?.tsrc=rss",
+      "source": "Yahoo Finance:MDT",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "WFRD",
+      "short": "WFRD — Weatherford Awarded a Deepwater Managed Pressure Drilling Contract by Constellation for…",
+      "detail": "WFRD\n重點：新聞\n標題：Weatherford Awarded a Deepwater Managed Pressure Drilling Contract by Constellation for a Drillship Operation in Brazil\n摘要：HOUSTON, Nov. 16, 2026 (GLOBE NEWSWIRE) -- Weatherford International plc (NASDAQ: WFRD) (“Weatherford” or the “Company”) today announced it has been awarded a contract by Constellation to provide deepwater managed pressure drilling (“MPD”) solutions for an exploration campaign i…\n來源：Yahoo Finance:WFRD\n其他：Weatherford International PLC (NASDAQ:WFRD) Stock Rated \"Mo…",
+      "url": "https://finance.yahoo.com/energy/articles/weatherford-awarded-deepwater-managed-pressure-130000896.html?.tsrc=rss",
+      "source": "Yahoo Finance:WFRD",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "A",
+      "short": "A — AI相關：Everyone Owned the Same AI Stocks, and Now It’s a Stock Picker’s Market - RealMoney Pro",
+      "detail": "A\n重點：AI相關\n標題：Everyone Owned the Same AI Stocks, and Now It’s a Stock Picker’s Market - RealMoney Pro\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVROZEYwVXk0NXFELXcwamluaWJDdE5SSXZ5SERsbF96ZVNHRTA2Q3pfYWpyQmFsV3ByWWZyWVZfNlhoUUVvY1lUcHZ3U0h0N2JkT1BTS1l0NHhNUlEyMHFVekhZelVqY3pDSlJDeDF1M1RHRDFaOGlYbU5hNndNaTdVZ0F5eU5LQXVnZ2R3NGFDLUFRczRudGZuNTVvOTd5bzlGUV9MOENVM…\n來源：Google News:A",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVROZEYwVXk0NXFELXcwamluaWJDdE5SSXZ5SERsbF96ZVNHRTA2Q3pfYWpyQmFsV3ByWWZyWVZfNlhoUUVvY1lUcHZ3U0h0N2JkT1BTS1l0NHhNUlEyMHFVekhZelVqY3pDSlJDeDF1M1RHRDFaOGlYbU5hNndNaTdVZ0F5eU5LQXVnZ2R3NGFDLUFRczRudGZuNTVvOTd5bzlGUV9MOENVM2d3RWVtZEVqbHp4UjVzblFfTC1IN1A?oc=5",
+      "source": "Google News:A",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "BHP",
+      "short": "BHP — 宏觀：BHP Group And 2 Other Dividend Stocks To Own",
+      "detail": "BHP\n重點：宏觀\n標題：BHP Group And 2 Other Dividend Stocks To Own\n摘要：Hotter than expected US inflation has pushed traders to price in faster Federal Reserve rate hikes, which has shaken confidence in traditional safe havens and low-yield cash. Income-focused investors now face a tougher choice. Reliable fully franked dividends from established AS…\n來源：Yahoo Finance:BHP",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bhp-group-2-other-dividend-090934748.html?.tsrc=rss",
+      "source": "Yahoo Finance:BHP",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "BILL",
+      "short": "BILL — AI相關、業績／指引：BILL Bets on Bigger Customers and AI After Deep Job Cuts, Sees Growth Rebound",
+      "detail": "BILL\n重點：AI相關、業績／指引\n標題：BILL Bets on Bigger Customers and AI After Deep Job Cuts, Sees Growth Rebound\n摘要：BILL (NYSE:BILL) is shifting its focus toward revenue growth after a restructuring that reduced headcount by roughly 35% to 40% over the past year, Chief Financial Officer Rohini Jain said at a Citi financial technology event. Jain said the company’s priorities now include attra…\n來源：Yahoo Finance:BILL",
+      "url": "https://www.marketbeat.com/instant-alerts/event-bill-bets-on-bigger-customers-and-ai-after-deep-job-cuts-sees-growth-rebound-2026-11-16/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance:BILL",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "GSAT",
+      "short": "GSAT — Globalstar VP & CFO Rebecca Clary sells $2M in GSAT stock - Investing.com India",
+      "detail": "GSAT\n重點：新聞\n標題：Globalstar VP & CFO Rebecca Clary sells $2M in GSAT stock - Investing.com India\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQaVU3T0RySENVaWFZaVBOc1MzLW94cXNrdEVDNFhsdGN0NlFSdFJKbXB0a2Vxd2o0bm55MWNkUFhBTXlQY2VPc1ZOVENMcUd4T1B6QUpoTEM0NWpyR0d3djJDeGNwTlRUZmxVNzRBbDJtekE2ODNlZEZPQjRjZUtOMHY0M2VCQ09rRmVqZlJ6NlZBd0V3OVF6Slp6QXNZbXN2aDBqVzVQTFBGS…\n來源：Google News:GSAT",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaVU3T0RySENVaWFZaVBOc1MzLW94cXNrdEVDNFhsdGN0NlFSdFJKbXB0a2Vxd2o0bm55MWNkUFhBTXlQY2VPc1ZOVENMcUd4T1B6QUpoTEM0NWpyR0d3djJDeGNwTlRUZmxVNzRBbDJtekE2ODNlZEZPQjRjZUtOMHY0M2VCQ09rRmVqZlJ6NlZBd0V3OVF6Slp6QXNZbXN2aDBqVzVQTFBGS0lyTF9iYUt0MmlHQ0k?oc=5",
+      "source": "Google News:GSAT",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "HCA",
+      "short": "HCA — AI相關：Commure Acquires Elaborate to Cure the Clinician Inbox",
+      "detail": "HCA\n重點：AI相關\n標題：Commure Acquires Elaborate to Cure the Clinician Inbox\n摘要：Brings protocol-driven inbox AI to Commure’s platform, giving clinicians back the hours the inbox takes after every visitMOUNTAIN VIEW, Calif., Nov. 16, 2026 (GLOBE NEWSWIRE) -- Commure, the agentic platform for healthcare, today announced that it has acquired Elaborate, the cli…\n來源：Yahoo Finance:HCA",
+      "url": "https://finance.yahoo.com/healthcare/articles/commure-acquires-elaborate-cure-clinician-130000152.html?.tsrc=rss",
+      "source": "Yahoo Finance:HCA",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "OXY",
+      "short": "OXY — Occidental Petroleum (NYSE:OXY) Downgraded by Seaport Research Partners to \"Neutral\" - …",
+      "detail": "OXY\n重點：新聞\n標題：Occidental Petroleum (NYSE:OXY) Downgraded by Seaport Research Partners to \"Neutral\" - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUnExWExIQzJyOVgwaDJPcWtUNTRURXRWSGRza3ZaNlF6R3ZkajFlZUVPZWlwaThHRk1vNGozeXdldUFWeXg1bzQ1MGVNb1VVb1ZxeFdRcWZHNEpVbk9MaTQyZVpmXzJaS0hucnd6Z0hBbmUycnVVaTk2NW5BQmFFbkl0N185UTA4ZW5IVkFvcU9RUWswcklmYlR6OEF1NVpQckFxbkRwdDVoS…\n來源：Google News:OXY",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUnExWExIQzJyOVgwaDJPcWtUNTRURXRWSGRza3ZaNlF6R3ZkajFlZUVPZWlwaThHRk1vNGozeXdldUFWeXg1bzQ1MGVNb1VVb1ZxeFdRcWZHNEpVbk9MaTQyZVpmXzJaS0hucnd6Z0hBbmUycnVVaTk2NW5BQmFFbkl0N185UTA4ZW5IVkFvcU9RUWswcklmYlR6OEF1NVpQckFxbkRwdDVoSFZycGw2X1o5c3F4VDZkU2FGLTFLRWlWcERGOGVETmh2akI4a3VIdGdEa09yQUVaUQ?oc=5",
+      "source": "Google News:OXY",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "SLB",
+      "short": "SLB — 業績／指引：SLB Climbed While Profit Fell - Simply Wall St",
+      "detail": "SLB\n重點：業績／指引\n標題：SLB Climbed While Profit Fell - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPT29YQUVTbUFRbktXNmJ1dUJ0MnQxNnFRMEQtbUhodzJ3VWxVaXppbUlXZElPbHR1SjFvYjZfTmVmMXdFeGdZUUIzMTVBbDhORi1vRENkVnhQMWM5MkJDa09LSmFGZUk0UXdyRHNPTXhFQ3FSNGM1QzZ2T1FpSmpUZmlYTVdvazZyN3hIc3hfTdIBlAFBVV95cUxOczF0R25TLURhdzR5UEVGc…\n來源：Google News:SLB",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT29YQUVTbUFRbktXNmJ1dUJ0MnQxNnFRMEQtbUhodzJ3VWxVaXppbUlXZElPbHR1SjFvYjZfTmVmMXdFeGdZUUIzMTVBbDhORi1vRENkVnhQMWM5MkJDa09LSmFGZUk0UXdyRHNPTXhFQ3FSNGM1QzZ2T1FpSmpUZmlYTVdvazZyN3hIc3hfTdIBlAFBVV95cUxOczF0R25TLURhdzR5UEVGc0ROMTdISVIwUjItTXkwdTQ4SU5XVVZpUS1zbWNKeDlFeHJ4TU5MczdnZEgyM2hIZS1JZlUtOHFVMkdmczJKNzFaMEROSXcwR18tbWRaTGhMdVVZYjRzQjZ3NnhNelZBVndUZW9pakdsYWVmQ19iVXdILWpGdWFqcno3VV8w?oc=5",
+      "source": "Google News:SLB",
       "kind": "news"
     }
   ]
