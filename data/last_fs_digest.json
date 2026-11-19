@@ -1,11 +1,29 @@
 {
-  "title": "FS新聞 11-19 14:06",
-  "list_name": "FirstScreen_2026-11-19_140615_comma.txt",
-  "created_at": "2026-11-19T14:06:26.144552+00:00",
+  "title": "FS新聞 11-19 18:55",
+  "list_name": "FirstScreen_2026-11-19_185514_comma.txt",
+  "created_at": "2026-11-19T18:55:22.595108+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "FUTU",
+      "short": "FUTU — Futu (NASDAQ:FUTU) Stock Jumps 8.6% - Here's What Happened - MarketBeat",
+      "detail": "FUTU\n重點：新聞\n標題：Futu (NASDAQ:FUTU) Stock Jumps 8.6% - Here's What Happened - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZGZ1ODF6dGtmY1dkUmZ5MVI3NGM2dnd3UlUzN0xaTmJWTk5mY1g3Qm01YmVkQ1dOSHJCbnBnT3gxN2JqUWlvMjZtQklVc05tUDd2Z0lMejFaNWJuNXpEdjMtV2VrSGp4QUx2NXd0c2F0a2g3emlQRDR4RXJsYW5RWXRGWHlJUld0ODJVa1ZZeVJUWFZqMmVOamdWWEJaQjZSQXA0OVowMFh6M…\n來源：Google News:FUTU\n其他：Futu Holdings Limited Q3 2026 Earnings Call Summary; What Futu (FUTU) Said on Its Q3 Earnings Call; FUTU HOLDINGS ($FUTU) Releases Q3 2026 Earnings - Quiver Qu…",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZGZ1ODF6dGtmY1dkUmZ5MVI3NGM2dnd3UlUzN0xaTmJWTk5mY1g3Qm01YmVkQ1dOSHJCbnBnT3gxN2JqUWlvMjZtQklVc05tUDd2Z0lMejFaNWJuNXpEdjMtV2VrSGp4QUx2NXd0c2F0a2g3emlQRDR4RXJsYW5RWXRGWHlJUld0ODJVa1ZZeVJUWFZqMmVOamdWWEJaQjZSQXA0OVowMFh6MzA3Qk56OA?oc=5",
+      "source": "Google News:FUTU",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "PDD",
+      "short": "PDD — 業績／指引：PDD Q3 Earnings Call Highlights",
+      "detail": "PDD\n重點：業績／指引\n標題：PDD Q3 Earnings Call Highlights\n摘要：PDD (NASDAQ:PDD) reported third-quarter revenue that was essentially flat from a year earlier, as growth in online marketing services offset a decline in transaction services revenue. Management said it would continue investing in supply chains and fulfillment while navigating i…\n來源：Yahoo Finance:PDD\n其他：PDD Holdings shares jump 8% as earnings beat estimates desp…; PDD Holdings shares jump as quarterly earnings top forecasts; PDD Holdings Inc. Sponsored ADR (PDD) Surpasses Q3 Earnings…",
+      "url": "https://www.marketbeat.com/instant-alerts/transcript-pdd-q3-earnings-call-highlights-2026-11-19/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance:PDD",
+      "kind": "news"
+    },
+    {
+      "n": 3,
       "symbol": "YMM",
       "short": "YMM — 業績／指引：Full Truck Alliance Q3 Earnings Call Highlights",
       "detail": "YMM\n重點：業績／指引\n標題：Full Truck Alliance Q3 Earnings Call Highlights\n摘要：Full Truck Alliance (NYSE:YMM) reported higher revenue and profit for the third quarter of 2026 as its freight platform handled more orders, although management said extreme weather and holiday timing slowed order growth and weighed on fulfillment. Total net revenue rose 6.8% ye…\n來源：Yahoo Finance:YMM\n其他：FULL TRUCK ALLIANCE ($YMM) Releases Q3 2026 Earnings - Quiv…; Full Truck Alliance Co. Ltd. 2026 Q3 - Results - Earnings C…; Full Truck Alliance Co. Ltd. Sponsored ADR (YMM) Q3 Earning…",
@@ -14,52 +32,70 @@
       "kind": "news"
     },
     {
-      "n": 2,
-      "symbol": "BNY",
-      "short": "BNY — Bank of New York Mellon (NYSE:BNY) Stock Price Breaks Below 50 Day Moving Average - Wha…",
-      "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon (NYSE:BNY) Stock Price Breaks Below 50 Day Moving Average - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ2J3REFwSFNURkUxWWlBMGMzeE54eWJFQkhVTlEyOHBPN1BuTW5QeC1yX3Y2SllQOFBqTWh0SmJoaTFhZWVJNWd0NjRCbWp6QXBFajk0aUthTk5PdkZMOWNyQUlvdi1IVXp3TEh4OThFVUQ1TUJWY0ljQTBDSm9tWjIxN3VLNHZaN2pncVB6VW8ycXNiUXZ1eGpZdUdDYS1PcFlFMTFQQ3R4e…\n來源：Google News:BNY\n其他：How Could BNY (BNY) Shape Human Led AI Through Its New Acad…",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ2J3REFwSFNURkUxWWlBMGMzeE54eWJFQkhVTlEyOHBPN1BuTW5QeC1yX3Y2SllQOFBqTWh0SmJoaTFhZWVJNWd0NjRCbWp6QXBFajk0aUthTk5PdkZMOWNyQUlvdi1IVXp3TEh4OThFVUQ1TUJWY0ljQTBDSm9tWjIxN3VLNHZaN2pncVB6VW8ycXNiUXZ1eGpZdUdDYS1PcFlFMTFQQ3R4eWRJMEk2Z2tDc3UyWC1wTVp3T0MzM2FJSWh4WDFkNnFOS20yaDQyZ29jbEVFV014Rm1CWUFZX1FJS0s?oc=5",
-      "source": "Google News:BNY",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "COF",
-      "short": "COF — Capital One Financial Corporation $COF Shares Acquired by Ieq Capital LLC - MarketBeat",
-      "detail": "COF\n重點：新聞\n標題：Capital One Financial Corporation $COF Shares Acquired by Ieq Capital LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSkZrdVF3NDJZTWViWXMtU0swdm9xUENFZWRiVnpRS0N3MEdEQ244TERqcTlFeUk1bVlaeWRUZExMRVhURjRMVHV4UEJTMG50dTQ1bE1JSWVzYm12SzB5OHZ4WlA3aGJ1YVEwUUh5R0RnNU9TWEs4U1JLYV84Tm1IdTFKUzFLeU1LRUZ6cWhyR291SnVGQlhqZjhjQXdwdTYzUU5nLTg1TkhsY…\n來源：Google News:COF\n其他：Atlas Wealth LLC Sells 438,102 Shares of Capital One Financ…",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSkZrdVF3NDJZTWViWXMtU0swdm9xUENFZWRiVnpRS0N3MEdEQ244TERqcTlFeUk1bVlaeWRUZExMRVhURjRMVHV4UEJTMG50dTQ1bE1JSWVzYm12SzB5OHZ4WlA3aGJ1YVEwUUh5R0RnNU9TWEs4U1JLYV84Tm1IdTFKUzFLeU1LRUZ6cWhyR291SnVGQlhqZjhjQXdwdTYzUU5nLTg1TkhsYXdxOUYwVnF4Wll2ODB0LXl0dW0wMy1sQU90YldWNHR3MTdCZw?oc=5",
-      "source": "Google News:COF",
-      "kind": "news"
-    },
-    {
       "n": 4,
-      "symbol": "OKTA",
-      "short": "OKTA — AI相關、業績／指引：Why Is Okta (OKTA) Betting On Frictionless Identity And AI Security?",
-      "detail": "OKTA\n重點：AI相關、業績／指引\n標題：Why Is Okta (OKTA) Betting On Frictionless Identity And AI Security?\n摘要：Okta (NasdaqGS:OKTA) highlighted frictionless identity as a priority for customer sign-ups in its 2026 Customer Identity Trends Report, according to the CMO. The report outlines how sign-up friction affects customer journeys and offers data-backed guidance for businesses designi…\n來源：Yahoo Finance:OKTA\n其他：Is Okta (OKTA) Fully Valued Following Its Cybersecurity Fue…",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-okta-okta-betting-frictionless-091325854.html?.tsrc=rss",
-      "source": "Yahoo Finance:OKTA",
+      "symbol": "INTU",
+      "short": "INTU — 業績／指引：Intuit earnings setup: What could push INTU stock higher today By Investing.com - Inves…",
+      "detail": "INTU\n重點：業績／指引\n標題：Intuit earnings setup: What could push INTU stock higher today By Investing.com - Investing.com Canada\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSTlYd05ONkRjSXZGSnI2ajZ3djczNHo5VmJkYklCUk5oTW96N25GN1JBdXVNS1NUaHB4aU5wX1BKakpubktZN1VkY3RiZlNkbmlPR0NPZWZMVzV2RUZfSmxSNk96ckZZcEo1emo5ZXNRLTE4MFl2Y2t5N1VhTDRWZDFNTVNuM2hvYkNnMnJGS0dZSHBzakJUR3lKUVBSSXI2d0w2a0tOdGVGT…\n來源：Google News:INTU\n其他：Intuit earnings setup: What could push INTU stock higher to…; Intuit earnings setup: What could push INTU stock higher to…",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSTlYd05ONkRjSXZGSnI2ajZ3djczNHo5VmJkYklCUk5oTW96N25GN1JBdXVNS1NUaHB4aU5wX1BKakpubktZN1VkY3RiZlNkbmlPR0NPZWZMVzV2RUZfSmxSNk96ckZZcEo1emo5ZXNRLTE4MFl2Y2t5N1VhTDRWZDFNTVNuM2hvYkNnMnJGS0dZSHBzakJUR3lKUVBSSXI2d0w2a0tOdGVGTzh5cmN5N2xZSzlnRWFJS0V1SDhkSQ?oc=5",
+      "source": "Google News:INTU",
       "kind": "news"
     },
     {
       "n": 5,
-      "symbol": "PDD",
-      "short": "PDD — 業績／指引：PDD Holdings shares jump as quarterly earnings top forecasts",
-      "detail": "PDD\n重點：業績／指引\n標題：PDD Holdings shares jump as quarterly earnings top forecasts\n摘要：Investing.com -- PDD Holdings shares surged about 8% in premarket trading Thursday after the company reported adjusted earnings and operating profit that beat analyst estimates. Revenue, however, fell short of forecasts, driven by a shortfall in transaction services.\n來源：Yahoo Finance:PDD\n其他：PDD Holdings Inc. Sponsored ADR (PDD) Surpasses Q3 Earnings…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-shares-jump-quarterly-121518212.html?.tsrc=rss",
-      "source": "Yahoo Finance:PDD",
+      "symbol": "COF",
+      "short": "COF — 業績／指引：Why Is Capital One (COF) Down 10.8% Since Last Earnings Report?",
+      "detail": "COF\n重點：業績／指引\n標題：Why Is Capital One (COF) Down 10.8% Since Last Earnings Report?\n摘要：Capital One (COF) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.\n來源：Yahoo Finance:COF\n其他：Capital One Financial Corporation $COF Shares Acquired by I…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-capital-one-cof-down-153003215.html?.tsrc=rss",
+      "source": "Yahoo Finance:COF",
       "kind": "news"
     },
     {
       "n": 6,
-      "symbol": "ALSN",
-      "short": "ALSN — Allison Transmission Holdings, Inc. $ALSN Shares Acquired by Boston Partners - MarketBe…",
-      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission Holdings, Inc. $ALSN Shares Acquired by Boston Partners - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxObXNlWEFRdXlBZC10ZExXTFRmejc1VXJLSVBJa0YxdVlLWW9HRWxoSDBYWjdLY0ZZZXN3cU1VY3o4UTVpMThacjFEcS1aTG56R2k5RTdITThqc0JuWndkOUoyQlJHd2VwV3IwWXdJNW1kMFZ2Z0k1aHhZeHlvbWRFTS1CbEZ5RjJxc1QxUzVOQTRvOEFBeFE0UHI0azM1Ql9ZYmdDU29kRnQya…\n來源：Google News:ALSN",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObXNlWEFRdXlBZC10ZExXTFRmejc1VXJLSVBJa0YxdVlLWW9HRWxoSDBYWjdLY0ZZZXN3cU1VY3o4UTVpMThacjFEcS1aTG56R2k5RTdITThqc0JuWndkOUoyQlJHd2VwV3IwWXdJNW1kMFZ2Z0k1aHhZeHlvbWRFTS1CbEZ5RjJxc1QxUzVOQTRvOEFBeFE0UHI0azM1Ql9ZYmdDU29kRnQya0FHZ2I1WnowYWUyWl94aDRpTjVMYzdQenRudWRHYlRqaklEcU0?oc=5",
-      "source": "Google News:ALSN",
+      "symbol": "HP",
+      "short": "HP — 業績／指引：What Helmerich & Payne (HP) Said on Its Q4 Earnings Call",
+      "detail": "HP\n重點：業績／指引\n標題：What Helmerich & Payne (HP) Said on Its Q4 Earnings Call\n摘要：Helmerich & Payne (NYSE:HP) reported higher revenue and adjusted earnings in its fiscal fourth quarter, but a $610 million noncash impairment, primarily tied to Middle East assets, pushed the drilling contractor to a net loss. The company generated $1.1 billion in quarterly reve…\n來源：Yahoo Finance:HP\n其他：Helmerich & Payne, Inc. 2026 Q4 - Results - Earnings Call P…",
+      "url": "https://www.marketbeat.com/instant-alerts/transcript-what-helmerich-payne-hp-said-on-its-q4-earnings-call-2026-11-19/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance:HP",
       "kind": "news"
     },
     {
       "n": 7,
+      "symbol": "KSS",
+      "short": "KSS — 業績／指引：Ahead of Kohl's (KSS) Q3 Earnings: Get Ready With Wall Street Estimates for Key Metrics",
+      "detail": "KSS\n重點：業績／指引\n標題：Ahead of Kohl's (KSS) Q3 Earnings: Get Ready With Wall Street Estimates for Key Metrics\n摘要：Evaluate the expected performance of Kohl's (KSS) for the quarter ended October 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.\n來源：Yahoo Finance:KSS\n其他：Kohl's Corporation (NYSE:KSS) Stock to Pay Quarterly Divide…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ahead-kohls-kss-q3-earnings-131505242.html?.tsrc=rss",
+      "source": "Yahoo Finance:KSS",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "TGT",
+      "short": "TGT — 業績／指引：Is Target finally catching up to Walmart?",
+      "detail": "TGT\n重點：業績／指引\n標題：Is Target finally catching up to Walmart?\n摘要：Walmart (WMT) posted third quarter earnings results that beat Wall Street's expectations. Yahoo Finance Executive Editor Brian Sozzi shares a few of his thoughts on the print, especially compared with Target's (TGT) recent results.\n來源：Yahoo Finance:TGT\n其他：Target earnings analysis: questions answered and next catal…",
+      "url": "https://finance.yahoo.com/video/is-target-finally-catching-up-to-walmart-150741787.html?.tsrc=rss",
+      "source": "Yahoo Finance:TGT",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "ARCC",
+      "short": "ARCC — 業績／指引：How a 68-Year-Old Collects $5,225 a Month From Just Three Tickers: VYM, DIVO, and ARCC",
+      "detail": "ARCC\n重點：業績／指引\n標題：How a 68-Year-Old Collects $5,225 a Month From Just Three Tickers: VYM, DIVO, and ARCC\n摘要：Three funds, one brokerage account, and a monthly check big enough to live on. But one of the three quietly writes more than half the income, and its latest earnings fell short of what it pays out. Is the simplicity worth the risk?\n來源：Yahoo Finance:ARCC",
+      "url": "https://247wallst.com/personal-finance/2026/11/19/how-a-68-year-old-collects-5225-a-month-from-just-three-tickers-vym-divo-and-arcc/?.tsrc=rss",
+      "source": "Yahoo Finance:ARCC",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "BDX",
+      "short": "BDX — BD Marks 85 Years of Essential Medical Device Manufacturing in Glen Falls, NY",
+      "detail": "BDX\n重點：新聞\n標題：BD Marks 85 Years of Essential Medical Device Manufacturing in Glen Falls, NY\n摘要：BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, today celebrates the 85th anniversary of its manufacturing site in Glens Falls, New York, highlighting its generations-long role in strengthening American healthcare resilience and partn…\n來源：Yahoo Finance:BDX",
+      "url": "https://finance.yahoo.com/healthcare/articles/bd-marks-85-years-essential-143000847.html?.tsrc=rss",
+      "source": "Yahoo Finance:BDX",
+      "kind": "news"
+    },
+    {
+      "n": 11,
       "symbol": "BKNG",
       "short": "BKNG — Booking Holdings Inc. $BKNG Stock Holdings Increased by Boston Partners - MarketBeat",
       "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Stock Holdings Increased by Boston Partners - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNX296N0lZUFQ2QUp4clFmM0xpeU9LVzdicG84R1ZtTmR0WnBEeE9BZzJsMS1NYUxzMG4tR19lR0t4VjBNazlveEZacG1wdFI2dXE1cTdla3B0NTlKRHFJcU5JOEdFVTlHalNvUGpReG5RQTJHalpOSkFPYWx1b25iU2xyaEdLRkNvMy02YmhaQzUyZFAxa0NYRmlxdVdOV2FFU0hUYVo4aU1tQ…\n來源：Google News:BKNG",
@@ -68,48 +104,12 @@
       "kind": "news"
     },
     {
-      "n": 8,
-      "symbol": "BTG",
-      "short": "BTG — B2Gold Corp (NYSEAMERICAN:BTG) Stock Has Consensus Target Price of $6.81 - MarketBeat",
-      "detail": "BTG\n重點：新聞\n標題：B2Gold Corp (NYSEAMERICAN:BTG) Stock Has Consensus Target Price of $6.81 - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOaVhhakNwTFhjZmdXSWIyUTNFSnBIQW5kQTFiQWowblB5Um9taG5jQWxNVkVua3o3cHNEdkp2anBwZGxKTVd6TFpLbTM4VkJudk5Cb1pqN0RPM205a0plR0oyLUpKZkZZZ3h1aVFMbElHNHFzVG9DZHR6MmNDSWhRX1hYNHFkd2FvY21lSlZnd3FibWlMN3o0c2swc1U5YmVXV0dYdWNXalNIR…\n來源：Google News:BTG",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaVhhakNwTFhjZmdXSWIyUTNFSnBIQW5kQTFiQWowblB5Um9taG5jQWxNVkVua3o3cHNEdkp2anBwZGxKTVd6TFpLbTM4VkJudk5Cb1pqN0RPM205a0plR0oyLUpKZkZZZ3h1aVFMbElHNHFzVG9DZHR6MmNDSWhRX1hYNHFkd2FvY21lSlZnd3FibWlMN3o0c2swc1U5YmVXV0dYdWNXalNIRHNaX042ZVhaaXpIWURMZEFVNXhXT29VaEhJYUxyOXNtYzQ?oc=5",
-      "source": "Google News:BTG",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce Inc. $CRM Stock Bought by Independent Advisor Alliance - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stock Bought by Independent Advisor Alliance - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMmhOTU9RN0lGX3dxZE9YSUZJZjlIR1llSkhfeDZYRVl1RmdIVklzTklTUE0wOXN0OUZ0QmM0eGtlREgxSDdody1GeXEtdkxVTF9vRmlhR2JiUVQ5bUotSDBCRGJQOWM1UUdWUHhJVXJsbFNhdnNwb1V2QWlqR1VIMjIyRURUVlk1bHVfSGthOW9TbXhadk5tVTd4a1V0ekZuaHlYN2VzQnp5M…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMmhOTU9RN0lGX3dxZE9YSUZJZjlIR1llSkhfeDZYRVl1RmdIVklzTklTUE0wOXN0OUZ0QmM0eGtlREgxSDdody1GeXEtdkxVTF9vRmlhR2JiUVQ5bUotSDBCRGJQOWM1UUdWUHhJVXJsbFNhdnNwb1V2QWlqR1VIMjIyRURUVlk1bHVfSGthOW9TbXhadk5tVTd4a1V0ekZuaHlYN2VzQnp5MmdYVDNCYUg1UDY1bnVlMGFGUUppMEplUQ?oc=5",
-      "source": "Google News:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "EC",
-      "short": "EC — Ecopetrol S.A. $EC Shares Sold by Banco BTG Pactual S.A. - MarketBeat",
-      "detail": "EC\n重點：新聞\n標題：Ecopetrol S.A. $EC Shares Sold by Banco BTG Pactual S.A. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNOEc1ZDdtWXZHTC1tTDVrNmlUNHFlUFo3TC1Lc0U1SHVKUUYxWnRadUdXcXgtOVJHQ2Z1U2M0VzhINkNzc25UTExUY0M5WEVVU0tvR01qemdOeVR1T1JVRjZQQndLMEJyREMtZzREWXJNUERwakktRGp6T2xKZi1JbWVfX1Q1T0dycVZlSlFzZlJ0U3huSkxCeDlBN0hrZGNIcXRaN21RQ1NXX…\n來源：Google News:EC",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOEc1ZDdtWXZHTC1tTDVrNmlUNHFlUFo3TC1Lc0U1SHVKUUYxWnRadUdXcXgtOVJHQ2Z1U2M0VzhINkNzc25UTExUY0M5WEVVU0tvR01qemdOeVR1T1JVRjZQQndLMEJyREMtZzREWXJNUERwakktRGp6T2xKZi1JbWVfX1Q1T0dycVZlSlFzZlJ0U3huSkxCeDlBN0hrZGNIcXRaN21RQ1NXX2dzR25GMkln?oc=5",
-      "source": "Google News:EC",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "FTNT",
-      "short": "FTNT — Fortinet (NASDAQ:FTNT) Shares Break Above 200-Day Moving Average - Here's Why - MarketB…",
-      "detail": "FTNT\n重點：新聞\n標題：Fortinet (NASDAQ:FTNT) Shares Break Above 200-Day Moving Average - Here's Why - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOODBJMENMdDRZYVpwdlZ4N3g1WEpUc1o3RGEtdFFzalRvZXhVZ1cweWl6b0RIQzNpSkJqU2dWZWp3SG54Zzl6V2stV25uZmFEak5ZY0sydW5kUTBZcU5hTmZ5cUl4NEpVQ3R5dHdIdnBxUTN3TVl0VWt3d2ljS1pjOENJUUc5Nmd0cndxV2NZc08yRW9jc29XNlpLdEY2RWNTcWxMSjg4ejJlX…\n來源：Google News:FTNT",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOODBJMENMdDRZYVpwdlZ4N3g1WEpUc1o3RGEtdFFzalRvZXhVZ1cweWl6b0RIQzNpSkJqU2dWZWp3SG54Zzl6V2stV25uZmFEak5ZY0sydW5kUTBZcU5hTmZ5cUl4NEpVQ3R5dHdIdnBxUTN3TVl0VWt3d2ljS1pjOENJUUc5Nmd0cndxV2NZc08yRW9jc29XNlpLdEY2RWNTcWxMSjg4ejJlX3c3NmFEZWh3M3VsUWhwMEdCZi1INTlCdzZFLUl0WFU3Y1A?oc=5",
-      "source": "Google News:FTNT",
-      "kind": "news"
-    },
-    {
       "n": 12,
-      "symbol": "FUTU",
-      "short": "FUTU — 業績／指引：FUTU HOLDINGS ($FUTU) Releases Q3 2026 Earnings - Quiver Quantitative",
-      "detail": "FUTU\n重點：業績／指引\n標題：FUTU HOLDINGS ($FUTU) Releases Q3 2026 Earnings - Quiver Quantitative\n摘要：<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPNkNIU1RYSjRwYnNxWHFwNDFaeU05N0NIRGRzZnlNVzlnU0VVRUpnUUJIMlVQTmRsTmpBOFM4UEVZOVp1QXRuT1JLb3h0dnR6VHBTUkc2Y29jSXNlUGh0SUdoUkw0dWJsbzZaWTVRUjVPVEQ3Skp6SnRrUnl1dEFOOXVidTM4UHBwRTg3Um55TQ?oc=5\" target=\"_blank\">FUTU HOLDING…\n來源：Google News:FUTU",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNkNIU1RYSjRwYnNxWHFwNDFaeU05N0NIRGRzZnlNVzlnU0VVRUpnUUJIMlVQTmRsTmpBOFM4UEVZOVp1QXRuT1JLb3h0dnR6VHBTUkc2Y29jSXNlUGh0SUdoUkw0dWJsbzZaWTVRUjVPVEQ3Skp6SnRrUnl1dEFOOXVidTM4UHBwRTg3Um55TQ?oc=5",
-      "source": "Google News:FUTU",
+      "symbol": "BNY",
+      "short": "BNY — Bank of New York Mellon (NYSE:BNY) Stock Price Breaks Below 50 Day Moving Average - Wha…",
+      "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon (NYSE:BNY) Stock Price Breaks Below 50 Day Moving Average - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ2J3REFwSFNURkUxWWlBMGMzeE54eWJFQkhVTlEyOHBPN1BuTW5QeC1yX3Y2SllQOFBqTWh0SmJoaTFhZWVJNWd0NjRCbWp6QXBFajk0aUthTk5PdkZMOWNyQUlvdi1IVXp3TEh4OThFVUQ1TUJWY0ljQTBDSm9tWjIxN3VLNHZaN2pncVB6VW8ycXNiUXZ1eGpZdUdDYS1PcFlFMTFQQ3R4e…\n來源：Google News:BNY",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ2J3REFwSFNURkUxWWlBMGMzeE54eWJFQkhVTlEyOHBPN1BuTW5QeC1yX3Y2SllQOFBqTWh0SmJoaTFhZWVJNWd0NjRCbWp6QXBFajk0aUthTk5PdkZMOWNyQUlvdi1IVXp3TEh4OThFVUQ1TUJWY0ljQTBDSm9tWjIxN3VLNHZaN2pncVB6VW8ycXNiUXZ1eGpZdUdDYS1PcFlFMTFQQ3R4eWRJMEk2Z2tDc3UyWC1wTVp3T0MzM2FJSWh4WDFkNnFOS20yaDQyZ29jbEVFV014Rm1CWUFZX1FJS0s?oc=5",
+      "source": "Google News:BNY",
       "kind": "news"
     }
   ]
