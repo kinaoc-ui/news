@@ -1,38 +1,101 @@
 {
-  "title": "FS新聞 11-20 07:34",
-  "list_name": "FirstScreen_2026-11-20_073301_comma.txt",
-  "created_at": "2026-11-20T07:34:27.065158+00:00",
+  "title": "FS新聞 11-20 13:49",
+  "list_name": "FirstScreen_2026-11-20_134906_comma.txt",
+  "created_at": "2026-11-20T13:49:12.754159+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
       "symbol": "GAP",
-      "short": "GAP — 業績／指引：What GAP (GAP) Said on Its Q3 Earnings Call",
-      "detail": "GAP\n重點：業績／指引\n標題：What GAP (GAP) Said on Its Q3 Earnings Call\n摘要：GAP (NYSE:GAP) lowered its full-year revenue and profit outlook after unusually warm weather and a slower start to November weighed on demand for fall apparel, even as third-quarter earnings exceeded its expectations. The retailer reported fiscal third-quarter net sales of $4 bi…\n來源：Yahoo Finance:GAP\n其他：Gap Inc. Q3 2026 Earnings Call: Recap of $GAP Earnings, Sto…",
-      "url": "https://www.marketbeat.com/instant-alerts/transcript-what-gap-gap-said-on-its-q3-earnings-call-2026-11-19/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "short": "GAP — Gap Inc Q3 sales flat, ex-Vuori president named Athleta CEO",
+      "detail": "GAP\n重點：新聞\n標題：Gap Inc Q3 sales flat, ex-Vuori president named Athleta CEO\n摘要：Gap Inc reports net sales growth of 2% in Q3 FY26 as it also names Ashley Kechter as the new president and CEO of its Athleta brand.\n來源：Yahoo Finance:GAP\n其他：How to Earn $500 A Month From Gap Stock Ahead of Q3 Earnings; Gap Shares Rise Nearly 4% as Third-Quarter Earnings Beat Ex…; Gap Stock Earnings Beat Meets Lower Outlook - Yahoo Finance…",
+      "url": "https://www.just-style.com/news/gap-inc-q3-sales-flat-ex-vuori-president-named-athleta-ceo/?.tsrc=rss",
       "source": "Yahoo Finance:GAP",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "INTU",
-      "short": "INTU — 併購／交易、業績／指引：What Is Intuit (INTU) Asking With Its $3.68 Billion Mailchimp Exit?",
-      "detail": "INTU\n重點：併購／交易、業績／指引\n標題：What Is Intuit (INTU) Asking With Its $3.68 Billion Mailchimp Exit?\n摘要：Intuit (NasdaqGS:INTU) agreed to sell Mailchimp to Bending Spoons for US$3.68b, far below its 2021 US$12b purchase price. The all-cash deal includes Intuit reinvesting a portion of the proceeds into equity of Bending Spoons. Intuit cited Mailchimp's impact on its revenue trends …\n來源：Yahoo Finance:INTU\n其他：What Intuit (INTU) Said on Its Q1 Earnings Call",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intuit-intu-asking-3-68-011317926.html?.tsrc=rss",
-      "source": "Yahoo Finance:INTU",
+      "symbol": "EL",
+      "short": "EL — Estee Lauder Companies (NYSE:EL) Share Price Breaks Below 50-Day Moving Average - Shoul…",
+      "detail": "EL\n重點：新聞\n標題：Estee Lauder Companies (NYSE:EL) Share Price Breaks Below 50-Day Moving Average - Should You Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMThjcG1NQWgxT3NiS2RGbmZLWFlIQTdJdm1nSGt1UWxrWVBzQlpQcXBNQmJOclJYSDZiUnQ2S1JDdEo4TzhjU1g5T1RrRDhaTmZVS2Q5dzZqaUZPR2lNVU02UHJzTTUzTWpEVkk1TFZSdVlNQ2pTdncxSVE3YlU3Y2kyQmh1S0NLZ2QyQ3lhVlgzaDRFLTlhZWd5QmJpYUdKWnhTaWU0dGhYe…\n來源：Google News:EL\n其他：What Drove Estee Lauder (NYSE:EL) to a Fiscal Q1 Earnings B…",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMThjcG1NQWgxT3NiS2RGbmZLWFlIQTdJdm1nSGt1UWxrWVBzQlpQcXBNQmJOclJYSDZiUnQ2S1JDdEo4TzhjU1g5T1RrRDhaTmZVS2Q5dzZqaUZPR2lNVU02UHJzTTUzTWpEVkk1TFZSdVlNQ2pTdncxSVE3YlU3Y2kyQmh1S0NLZ2QyQ3lhVlgzaDRFLTlhZWd5QmJpYUdKWnhTaWU0dGhYejFoNkJ0YnZWd2ZZSjVsNDAtMVVYWVhpbDVKMWxZSTRoN0Z1bl9KMzBYalFuaGpQcUFvNXd4azFoZERTNnM1?oc=5",
+      "source": "Google News:EL",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "ROST",
-      "short": "ROST — 業績／指引：Ross Stores Inc (ROST) Q3 2026 Earnings Call Highlights: 8% Comparable Sales Growth, 70…",
-      "detail": "ROST\n重點：業績／指引\n標題：Ross Stores Inc (ROST) Q3 2026 Earnings Call Highlights: 8% Comparable Sales Growth, 70 Basis ...\n摘要：Ross Stores Inc (ROST) delivered a 12% sales increase to $6.3 billion with EPS of $1.91, driven by strong customer traffic and record store openings, while guiding Q4 comps up 4-5%.\n來源：Yahoo Finance:ROST\n其他：What Ross Stores (ROST) Said on Its Q3 Earnings Call",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-inc-rost-q3-050130462.html?.tsrc=rss",
-      "source": "Yahoo Finance:ROST",
+      "symbol": "INTU",
+      "short": "INTU — Bending Spoons Agrees $3.68 Billion Deal to Acquire Mailchimp From Intuit",
+      "detail": "INTU\n重點：新聞\n標題：Bending Spoons Agrees $3.68 Billion Deal to Acquire Mailchimp From Intuit\n摘要：Italian technology company Bending Spoons (NASDAQ:BSP) has entered into an agreement to acquire email marketing platform Mailchimp from financial software group Intuit (NASDAQ:INTU) in a transaction valued at $3. 68 billion.\n來源：Yahoo Finance:INTU\n其他：Intuit Shares Fall 11% as Company Agrees $3.68 Billion Mail…",
+      "url": "https://investorshub.advfn.com/market-news/article/40448/bending-spoons-agrees-3-68-billion-deal-to-acquire-mailchimp-from-intuit?.tsrc=rss",
+      "source": "Yahoo Finance:INTU",
       "kind": "news"
     },
     {
       "n": 4,
+      "symbol": "LNG",
+      "short": "LNG — Voya Investment Management LLC Acquires 86,331 Shares of Cheniere Energy, Inc. $LNG - M…",
+      "detail": "LNG\n重點：新聞\n標題：Voya Investment Management LLC Acquires 86,331 Shares of Cheniere Energy, Inc. $LNG - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ1IxamhwNGFEX0JEUXZ5OVJRMFZiWTMzclNWUE9ZWHJXOHpHQm9kbjhyRk9Qa2h6VGJaLTdLWTBFRW1wenU3cFUwWFF3V3NzOW9MS25YYzlHZUxKWkNzTW5EQW91b2w4bmN3OFlZa1ZweU5qNGlyTVlYTV9MOFd1bWItNTFBNWpVVkF5a1Fjc3RmTEJHbjVLNmNaU2RtUlhJX3hNaWIydW5PW…\n來源：Google News:LNG\n其他：Cheniere Energy, Inc. $LNG Stock: Boston Partners Raises Po…",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ1IxamhwNGFEX0JEUXZ5OVJRMFZiWTMzclNWUE9ZWHJXOHpHQm9kbjhyRk9Qa2h6VGJaLTdLWTBFRW1wenU3cFUwWFF3V3NzOW9MS25YYzlHZUxKWkNzTW5EQW91b2w4bmN3OFlZa1ZweU5qNGlyTVlYTV9MOFd1bWItNTFBNWpVVkF5a1Fjc3RmTEJHbjVLNmNaU2RtUlhJX3hNaWIydW5PWGpmRElOQzVxdDJkbDJ0QWNWdE16R1hOQ2dvODhEamJONExidndQRm5jRFFBSQ?oc=5",
+      "source": "Google News:LNG",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "MDT",
+      "short": "MDT — Medtronic PLC $MDT Holdings Boosted by Ieq Capital LLC - MarketBeat",
+      "detail": "MDT\n重點：新聞\n標題：Medtronic PLC $MDT Holdings Boosted by Ieq Capital LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNMDQ3Y0RCbmlFZW5vZXJKeXpsaWJ3LWNNQUJtUDFFM3hXdFEzUTEzOWIxb1RHQzJYVHFNNThHOHVVNkFTNlVfZ0syaEZ4dzhDNzJlb2dVLWd3WU5lLXQ4UEJhcnN0cHF5cnBrZnAtLTRBMVRNMFFnR25PQm1EQ1h6ZTJBeVZ4bmRLU2xMQmhtR0dhUDdwZXFtdl85SktJMmtpQllzU1VpMlRxc…\n來源：Google News:MDT\n其他：Medtronic (MDT) Won FDA Clearance For Hugo In 3.5 Million U…",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMDQ3Y0RCbmlFZW5vZXJKeXpsaWJ3LWNNQUJtUDFFM3hXdFEzUTEzOWIxb1RHQzJYVHFNNThHOHVVNkFTNlVfZ0syaEZ4dzhDNzJlb2dVLWd3WU5lLXQ4UEJhcnN0cHF5cnBrZnAtLTRBMVRNMFFnR25PQm1EQ1h6ZTJBeVZ4bmRLU2xMQmhtR0dhUDdwZXFtdl85SktJMmtpQllzU1VpMlRxcE9CeEl6QVotQTQ?oc=5",
+      "source": "Google News:MDT",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "PDD",
+      "short": "PDD — PDD (NASDAQ:PDD) Stock Crosses Above Fifty Day Moving Average - Here's What Happened - …",
+      "detail": "PDD\n重點：新聞\n標題：PDD (NASDAQ:PDD) Stock Crosses Above Fifty Day Moving Average - Here's What Happened - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUVdLUjJtc3lTUXM1R2c1cnk0eGRWQkpjU09ycTc0bWRrYndLWFFOWXE3dlVoM2VNSDBOWmNFcUNoVXE4aUh5c1ZibExnRDhqaDluWVFRUzF4dUF6dmg4NXlMa0JWNGR1VDVNVlBhRC0tZ2Ziam9zeEduWm5pVGVFQ1pSTWd3a2FpQTZCLTBVZXd2OFpseWN1SDhJOFZiQnV6OXYtalZUN1Bsb…\n來源：Google News:PDD\n其他：What Does PDD Holdings (PDD) Face After EU Charges Over Ill…",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUVdLUjJtc3lTUXM1R2c1cnk0eGRWQkpjU09ycTc0bWRrYndLWFFOWXE3dlVoM2VNSDBOWmNFcUNoVXE4aUh5c1ZibExnRDhqaDluWVFRUzF4dUF6dmg4NXlMa0JWNGR1VDVNVlBhRC0tZ2Ziam9zeEduWm5pVGVFQ1pSTWd3a2FpQTZCLTBVZXd2OFpseWN1SDhJOFZiQnV6OXYtalZUN1BsbUw4UG1ONDVjZ2xraEwzR3dMRmpnZ3h2VDgtcC0xZG9aRjlqakJod0xLTWRB?oc=5",
+      "source": "Google News:PDD",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "ROST",
+      "short": "ROST — 業績／指引：Why Is Ross Stores Stock Falling Despite Strong Third-Quarter Earnings?",
+      "detail": "ROST\n重點：業績／指引\n標題：Why Is Ross Stores Stock Falling Despite Strong Third-Quarter Earnings?\n摘要：Ross Stores (NASDAQ:ROST) shares declined 3. 4% in premarket trading after the US discount retailer issued fourth-quarter earnings guidance below Wall Street expectations, overshadowing stronger-than-anticipated third-quarter results.\n來源：Yahoo Finance:ROST\n其他：150,751 Ross Stores, Inc. $ROST Shares Sold by Boston Partn…",
+      "url": "https://investorshub.advfn.com/market-news/article/40462/why-is-ross-stores-stock-falling-despite-strong-third-quarter-earnings?.tsrc=rss",
+      "source": "Yahoo Finance:ROST",
+      "kind": "news"
+    },
+    {
+      "n": 8,
+      "symbol": "ANET",
+      "short": "ANET — Arista Networks (NYSE:ANET) Stock Price Breaks Below 50 Day Moving Average - Here's Wha…",
+      "detail": "ANET\n重點：新聞\n標題：Arista Networks (NYSE:ANET) Stock Price Breaks Below 50 Day Moving Average - Here's What Happened - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxObXYxakUwdHI3NnRBdE5vM05vYWtLR25oUjQwb3JoeWs5anVWdjMya1l0WkZfM0tmNF9DUmNnUHJ0VW9NMTRPeEZKcm40NkhZYnVYVjVkSWhpb21WZXYxeWVEOENtUHVKejd1RHNaQTJuOHhFcjI3UHdHUDJMT05LTVI0dkZnbV9rWXdQMW5HM0xCYVFfRlNSNHljSDZDNG55UDdWQ1ViRFZLM…\n來源：Google News:ANET",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObXYxakUwdHI3NnRBdE5vM05vYWtLR25oUjQwb3JoeWs5anVWdjMya1l0WkZfM0tmNF9DUmNnUHJ0VW9NMTRPeEZKcm40NkhZYnVYVjVkSWhpb21WZXYxeWVEOENtUHVKejd1RHNaQTJuOHhFcjI3UHdHUDJMT05LTVI0dkZnbV9rWXdQMW5HM0xCYVFfRlNSNHljSDZDNG55UDdWQ1ViRFZLMEYwVnFLVGJqb0Q0SHAyVnp2dDhzNDhKaDJRRExidFFCQVZKalIwb0dnZHFRUjhLZmNJcGFfZm9SaXJQYjQ?oc=5",
+      "source": "Google News:ANET",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "CARG",
+      "short": "CARG — CarGurus (NASDAQ:CARG) Stock Breaks Below 200-Day Moving Average - Time to Sell? - Mark…",
+      "detail": "CARG\n重點：新聞\n標題：CarGurus (NASDAQ:CARG) Stock Breaks Below 200-Day Moving Average - Time to Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMk1YUXZiaDRsNWhHenplRUZZUGxoX2x1YVRJRTQwdzNwY1pFSGVJdFpzUnhYMEo5NVhWZXYtRzUxN1VOQ3oxaHZ6cVJrM000WHp6UzBGVERqZ0I4NGE5UE9PVnFxX3BVM05EMmRhbU9lRnQ4bWQ5SGZUWXVRVXFucGt4UWc4UEtDbURYRGg5VEVtaE4xWGtOTlZURXJ0OEtNUDNLWVRFc3RfL…\n來源：Google News:CARG",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMk1YUXZiaDRsNWhHenplRUZZUGxoX2x1YVRJRTQwdzNwY1pFSGVJdFpzUnhYMEo5NVhWZXYtRzUxN1VOQ3oxaHZ6cVJrM000WHp6UzBGVERqZ0I4NGE5UE9PVnFxX3BVM05EMmRhbU9lRnQ4bWQ5SGZUWXVRVXFucGt4UWc4UEtDbURYRGg5VEVtaE4xWGtOTlZURXJ0OEtNUDNLWVRFc3RfLTA2aGp4Zk5OUVFtMlEzUnk2NFJ5eW84S2p0U0F1RVp6T0ZIQUZW?oc=5",
+      "source": "Google News:CARG",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "CRM",
+      "short": "CRM — Salesforce Inc. $CRM Shares Sold by USS Investment Management Ltd - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Shares Sold by USS Investment Management Ltd - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2x2TTNOVjJZOFl0a2NvZ2JxWDRaaG8zbFFDWkFDODg2Slgtd0wwcUtBUm44VEdkRmplckxWMUs2ZElod2MyNFl0aUlYUTg4dDk2alBDLWZBSEFpVEF6ZzRNeFAxX1BEckNEQi1Cek1RaDZkTHpZN1hGdjFiQnBDNzhXLTRJSnFqcHNucm1EZ3Vfd0tzWERZMnNUbUViT3BGT0Q3bFJZRUZIZ…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2x2TTNOVjJZOFl0a2NvZ2JxWDRaaG8zbFFDWkFDODg2Slgtd0wwcUtBUm44VEdkRmplckxWMUs2ZElod2MyNFl0aUlYUTg4dDk2alBDLWZBSEFpVEF6ZzRNeFAxX1BEckNEQi1Cek1RaDZkTHpZN1hGdjFiQnBDNzhXLTRJSnFqcHNucm1EZ3Vfd0tzWERZMnNUbUViT3BGT0Q3bFJZRUZIZDF6bmJqV2VjejR0WmdfdkRzamwzYmtldw?oc=5",
+      "source": "Google News:CRM",
+      "kind": "news"
+    },
+    {
+      "n": 11,
       "symbol": "FTNT",
       "short": "FTNT — What Is Fortinet (FTNT) Signaling With Its Fourth OT Security Leadership Win?",
       "detail": "FTNT\n重點：新聞\n標題：What Is Fortinet (FTNT) Signaling With Its Fourth OT Security Leadership Win?\n摘要：Fortinet (NasdaqGS: FTNT) has been named a Leader in operational technology cybersecurity platforms for the fourth consecutive evaluation cycle. The company is expanding its OT security portfolio in response to recent digital infrastructure outages affecting critical services. M…\n來源：Yahoo Finance:FTNT",
@@ -41,48 +104,12 @@
       "kind": "news"
     },
     {
-      "n": 5,
-      "symbol": "GH",
-      "short": "GH — Guardant Health (GH) Stock Looks Richly Priced After Its Big Run",
-      "detail": "GH\n重點：新聞\n標題：Guardant Health (GH) Stock Looks Richly Priced After Its Big Run\n摘要：Guardant Health has seen its stock climb sharply over recent years, and a series of new product launches in cancer testing now puts fresh attention on whether that price still matches what its sales can justify. With the shares recently closing at US$145.59, the question is how …\n來源：Yahoo Finance:GH",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/guardant-health-gh-stock-looks-021536675.html?.tsrc=rss",
-      "source": "Yahoo Finance:GH",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "HP",
-      "short": "HP — 業績／指引：Helmerich & Payne (HP) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
-      "detail": "HP\n重點：業績／指引\n標題：Helmerich & Payne (HP) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates\n摘要：The headline numbers for Helmerich & Payne (HP) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.\n來源：Yahoo Finance:HP",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/helmerich-payne-hp-q4-earnings-000002660.html?.tsrc=rss",
-      "source": "Yahoo Finance:HP",
-      "kind": "news"
-    },
-    {
-      "n": 7,
+      "n": 12,
       "symbol": "NTNX",
-      "short": "NTNX — AI相關：Nutanix (NTNX) Could Be 28% Undervalued After Traefik Hub Expansion",
-      "detail": "NTNX\n重點：AI相關\n標題：Nutanix (NTNX) Could Be 28% Undervalued After Traefik Hub Expansion\n摘要：Traefik Hub’s expansion onto Service Provider Central on the Nutanix (NTNX) Cloud Platform has put fresh attention on Nutanix stock, as investors weigh how deeper AI infrastructure ties could influence sentiment. Nutanix now sits at a US$57.24 share price, with a 30 day share pr…\n來源：Yahoo Finance:NTNX",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nutanix-ntnx-could-28-undervalued-001732043.html?.tsrc=rss",
+      "short": "NTNX — AI相關：Did Traefik Hub Launch Just Shift Nutanix (NTNX) Investment Narrative?",
+      "detail": "NTNX\n重點：AI相關\n標題：Did Traefik Hub Launch Just Shift Nutanix (NTNX) Investment Narrative?\n摘要：Traefik Labs recently announced that Traefik Hub now runs on Nutanix Cloud Platform through Service Provider Central, adding Layer 7 services such as an API gateway, web application firewall and encrypted application delivery on top of Nutanix Flow’s tenant networking. This inte…\n來源：Yahoo Finance:NTNX",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/did-traefik-hub-launch-just-071136330.html?.tsrc=rss",
       "source": "Yahoo Finance:NTNX",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "PDD",
-      "short": "PDD — 業績／指引：PDD Holdings (PDD) Is Making a Big Move. Here’s What’s Happening",
-      "detail": "PDD\n重點：業績／指引\n標題：PDD Holdings (PDD) Is Making a Big Move. Here’s What’s Happening\n摘要：PDD Holdings Inc. (NASDAQ:PDD) is one of the 10 Stocks Posting Monster Gains Amid Market Downfall. PDD Holdings saw its share price jump by 11.04 percent on Thursday to end at $86 apiece, after beating earnings expectations in the third quarter of the year. In an earnings releas…\n來源：Yahoo Finance:PDD",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-pdd-making-big-024534781.html?.tsrc=rss",
-      "source": "Yahoo Finance:PDD",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "YMM",
-      "short": "YMM — 業績／指引：Full Truck Alliance (YMM) is Catching a New Wave. Here’s Why",
-      "detail": "YMM\n重點：業績／指引\n標題：Full Truck Alliance (YMM) is Catching a New Wave. Here’s Why\n摘要：Full Truck Alliance Co. Ltd. (NYSE:YMM) is one of the 10 Stocks Posting Monster Gains Amid Market Downfall. Full Truck Alliance rallied for a second day on Thursday, climbing 8.11 percent to close at $9.06 after posting a strong earnings performance in the third quarter of the y…\n來源：Yahoo Finance:YMM",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/full-truck-alliance-ymm-catching-022904341.html?.tsrc=rss",
-      "source": "Yahoo Finance:YMM",
       "kind": "news"
     }
   ]
