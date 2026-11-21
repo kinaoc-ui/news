@@ -1,115 +1,70 @@
 {
-  "title": "FS新聞 11-20 18:25",
-  "list_name": "FirstScreen_2026-11-20_182548_comma.txt",
-  "created_at": "2026-11-20T18:25:55.912111+00:00",
+  "title": "FS新聞 11-21 07:29",
+  "list_name": "FirstScreen_2026-11-21_072905_comma.txt",
+  "created_at": "2026-11-21T07:29:12.218300+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "INTU",
-      "short": "INTU — Intuit Inc. (NASDAQ:INTU) Announces Quarterly Dividend of $1.38 - MarketBeat",
-      "detail": "INTU\n重點：新聞\n標題：Intuit Inc. (NASDAQ:INTU) Announces Quarterly Dividend of $1.38 - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPOTVXalBCdDQ1ZDU3X3d0TUxjY01vaWNkRE1mb1pMcVJha1RkbkdhVFU5RDJSVF9jYjZIY004VXRpQ1MzQkYxMFVTRVF0YlpTZlhRTzBQcnczOXNQQ0hSc0V5dW5kcC1XMWhFVVdnUVNLMTBmXzJVcENjRGd2U3RzYjl6dWNWd1JPQWFrYUdNTmNMTTd4XzlaOWFCZFFLckh6WDNDTmV2ckw3Y…\n來源：Google News:INTU\n其他：Intuit Q1 Earnings Beat Estimates on Online Ecosystem Growth; Update: Intuit Faces AI Headwinds at Credit Karma; RBC Says…; Intuit beats earnings estimates but cuts revenue forecast a…",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOTVXalBCdDQ1ZDU3X3d0TUxjY01vaWNkRE1mb1pMcVJha1RkbkdhVFU5RDJSVF9jYjZIY004VXRpQ1MzQkYxMFVTRVF0YlpTZlhRTzBQcnczOXNQQ0hSc0V5dW5kcC1XMWhFVVdnUVNLMTBmXzJVcENjRGd2U3RzYjl6dWNWd1JPQWFrYUdNTmNMTTd4XzlaOWFCZFFLckh6WDNDTmV2ckw3YWFZcGR3ak9WeWFOTXhpSHFLVExR?oc=5",
-      "source": "Google News:INTU",
+      "symbol": "GEN",
+      "short": "GEN — 業績／指引：Gen Digital (GEN) Stock Looks Below Fair Value On Its 45% Run",
+      "detail": "GEN\n重點：業績／指引\n標題：Gen Digital (GEN) Stock Looks Below Fair Value On Its 45% Run\n摘要：Gen Digital has delivered a solid multi year share price gain, yet the real question for investors is whether the current valuation lines up with what its earnings can support. With fresh headlines around cybersecurity risks and the company’s own growth ambitions, the stock’s re…\n來源：Yahoo Finance:GEN\n其他：Gen Digital (NASDAQ:GEN) CFO Sells 72,341 Shares of Stock -…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gen-digital-gen-stock-looks-021443051.html?.tsrc=rss",
+      "source": "Yahoo Finance:GEN",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "ROST",
-      "short": "ROST — 業績／指引：ROST Q3 Earnings Call Highlights Traffic Gains and Holiday Outlook",
-      "detail": "ROST\n重點：業績／指引\n標題：ROST Q3 Earnings Call Highlights Traffic Gains and Holiday Outlook\n摘要：Ross Stores beats Q3 earnings and revenue estimates, fueled by stronger customer traffic and store execution, while maintaining its holiday sales outlook.\n來源：Yahoo Finance:ROST\n其他：Ross Stores' Q3 Earnings Beat Estimates on Strong Traffic &…; Ross (ROST) Q3 2026 Earnings Call Transcript; Ross Stores beats earnings forecast as customer traffic lif…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rost-q3-earnings-call-highlights-154500366.html?.tsrc=rss",
-      "source": "Yahoo Finance:ROST",
+      "symbol": "HP",
+      "short": "HP — Helmerich & Payne (NYSE:HP) Stock Rating Raised to Hold at Wall Street Zen - MarketBeat",
+      "detail": "HP\n重點：新聞\n標題：Helmerich & Payne (NYSE:HP) Stock Rating Raised to Hold at Wall Street Zen - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjY0dWxJYUF5dllJTFpyWUJ6bXk4ekRyekNxQTlQdV9Ra09nazIxc00wS0pNaUVTUFZBZHFXbW5VNXpTZFN4WjV2VFg5cDNSVkJQWWZJOEZfOEhfRVVnanNXTEdiSEptRWJETGVoQXJ0RUNPXzhlZG9OTE9pNldLRWhWOEJIOXJMVGpUblptckJackJ5SVNUTEVCbWR3LXkzX2lXMDNPcTAyS…\n來源：Google News:HP\n其他：Helmerich & Payne (HP) Posted Mixed Fourth Quarter Numbers,…",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjY0dWxJYUF5dllJTFpyWUJ6bXk4ekRyekNxQTlQdV9Ra09nazIxc00wS0pNaUVTUFZBZHFXbW5VNXpTZFN4WjV2VFg5cDNSVkJQWWZJOEZfOEhfRVVnanNXTEdiSEptRWJETGVoQXJ0RUNPXzhlZG9OTE9pNldLRWhWOEJIOXJMVGpUblptckJackJ5SVNUTEVCbWR3LXkzX2lXMDNPcTAyS3cwSWJEWmFXeGhSZXhkUXRqQmRrdDQ4NWktLTRXTkZYZ1Q?oc=5",
+      "source": "Google News:HP",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "GAP",
-      "short": "GAP — 業績／指引：Gap stock soars as retailer says Old Navy turnaround shows signs of improvement",
-      "detail": "GAP\n重點：業績／指引\n標題：Gap stock soars as retailer says Old Navy turnaround shows signs of improvement\n摘要：Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.\n來源：CNBC Markets\n其他：Gap Inc. CEO touts 'Happy Stripe' as brand gains cultural t…; Gap Stock Heads for Best Day in Over a Year After Earnings …; Gap Inc. slashed its full-year sales outlook — and it might…",
-      "url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-      "source": "CNBC Markets",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "CRM",
-      "short": "CRM — 業績／指引：Salesforce Set to Exceed Earnings Estimates Amid Low Bar, Agentforce Demand, Oppenheime…",
-      "detail": "CRM\n重點：業績／指引\n標題：Salesforce Set to Exceed Earnings Estimates Amid Low Bar, Agentforce Demand, Oppenheimer Says\n摘要：Salesforce (CRM) has room for fiscal third-quarter earnings upside amid subdued investor expectation\n來源：Yahoo Finance:CRM\n其他：Salesforce Layoff Alert: How to Play CRM Stock Amid Another…; Global Through-Channel Marketing Software Market 2026 | Cap…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-set-exceed-earnings-estimates-171139323.html?.tsrc=rss",
-      "source": "Yahoo Finance:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "ALSN",
-      "short": "ALSN — Will Allison Transmission (NYSE:ALSN) Gain From Its Latest Contract Win? - Kalkine Media",
-      "detail": "ALSN\n重點：新聞\n標題：Will Allison Transmission (NYSE:ALSN) Gain From Its Latest Contract Win? - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxObV9BMGFDSmFBS0tUQ2hfUjQzLUNsOUZSRFg2Q2c0TFVXSXNQWXhwUDZnVGVVb1J4ZTgzOHdqRXRPZVo5d3FFNVpEQXk1Y3JiODBNcmZ4bGlFcmNWM0tjUzV2dWktSFhnNHV4dUVVdUp3NlRpUERrVGRGOUF1a3JyN0szSXNFY1FHXzRKWWFiaXA5dGtCTnlpWTA1TEJ0S1V5SkE2OG5wcWlCb…\n來源：Google News:ALSN",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObV9BMGFDSmFBS0tUQ2hfUjQzLUNsOUZSRFg2Q2c0TFVXSXNQWXhwUDZnVGVVb1J4ZTgzOHdqRXRPZVo5d3FFNVpEQXk1Y3JiODBNcmZ4bGlFcmNWM0tjUzV2dWktSFhnNHV4dUVVdUp3NlRpUERrVGRGOUF1a3JyN0szSXNFY1FHXzRKWWFiaXA5dGtCTnlpWTA1TEJ0S1V5SkE2OG5wcWlCbGJQOHlxZmliaFg?oc=5",
-      "source": "Google News:ALSN",
-      "kind": "news"
-    },
-    {
-      "n": 6,
       "symbol": "ANET",
-      "short": "ANET — AI相關：Arista Networks (ANET) Stock Price Prediction: AI expansion meets a sharp pullback as b…",
-      "detail": "ANET\n重點：AI相關\n標題：Arista Networks (ANET) Stock Price Prediction: AI expansion meets a sharp pullback as buyers test support - Blockchain News\n摘要：<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNMGVOUVAya3UtOVNxR3R2SVluaWdXdG9ETXBGVlAwU0I1c1A1ZmVzd3ZRdmpGTS1aTUFDWHV2SjBpSVU0VkFienV6TW5IemJkVkt0cTBOZlc4NHRQZExMamdGWUptZm1maHJKLVk1NXRsdVNLWGs3RkI5aWJEbWxXRDYyUjdTX01FZl9OcXpiSjhmRG95cExESzRWOA?oc=5\" target=\"_bla…\n來源：Google News:ANET",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMGVOUVAya3UtOVNxR3R2SVluaWdXdG9ETXBGVlAwU0I1c1A1ZmVzd3ZRdmpGTS1aTUFDWHV2SjBpSVU0VkFienV6TW5IemJkVkt0cTBOZlc4NHRQZExMamdGWUptZm1maHJKLVk1NXRsdVNLWGs3RkI5aWJEbWxXRDYyUjdTX01FZl9OcXpiSjhmRG95cExESzRWOA?oc=5",
+      "short": "ANET — Arista Networks (NYSE:ANET) Major Shareholder Andreas Bechtolsheim Sells 300,000 Shares…",
+      "detail": "ANET\n重點：新聞\n標題：Arista Networks (NYSE:ANET) Major Shareholder Andreas Bechtolsheim Sells 300,000 Shares of Company Stock - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZGtwVmEzbkJCUGlaS3NFWE1lSDdMaS01aGtsaGhXRDFjNUNiMHVwcVhEQ20wdG5uTGpuNjR1bHNlYUswVThKWV9TTWVSMlVLZTdHUTNsdUJHdW5PMm9Pc1BJbk1FYW1KSDZGaXVEVEN3eUF5MHVNVDAzMy1LeDBvTFc2Qjgtc1BnNUppeGNPZUxwNkRWaV9jb281SEU3RlFpcmxERnhkMWxIe…\n來源：Google News:ANET",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZGtwVmEzbkJCUGlaS3NFWE1lSDdMaS01aGtsaGhXRDFjNUNiMHVwcVhEQ20wdG5uTGpuNjR1bHNlYUswVThKWV9TTWVSMlVLZTdHUTNsdUJHdW5PMm9Pc1BJbk1FYW1KSDZGaXVEVEN3eUF5MHVNVDAzMy1LeDBvTFc2Qjgtc1BnNUppeGNPZUxwNkRWaV9jb281SEU3RlFpcmxERnhkMWxIemlwSEx5Zy1QRXNUU2FvaFU5SHkyTi1XYlpCaXY4NVVjVDN1LVJYQlJJdlRKbXcyNEFtX2txN0pTbmNQbktNN1FaQTFuQUNsTUNOcVE?oc=5",
       "source": "Google News:ANET",
       "kind": "news"
     },
     {
+      "n": 4,
+      "symbol": "BKNG",
+      "short": "BKNG — AI相關：Booking Holdings (BKNG) Is Folding Its B2B Travel Push Into One New Division",
+      "detail": "BKNG\n重點：AI相關\n標題：Booking Holdings (BKNG) Is Folding Its B2B Travel Push Into One New Division\n摘要：Booking Holdings (NasdaqGS:BKNG) is creating a new global B2B unit called the Booking Partner Division. The division will combine Booking.com Strategic Partnerships with Agoda's Rocket Travel to serve banks, airlines, and online travel partners. Booking Partner Division is expec…\n來源：Yahoo Finance:BKNG",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/booking-holdings-bkng-folding-b2b-061059092.html?.tsrc=rss",
+      "source": "Yahoo Finance:BKNG",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "GAP",
+      "short": "GAP — 業績／指引：The Gap Inc. (GAP) Is Showing Wall Street It Can Weather Economic Headwinds",
+      "detail": "GAP\n重點：業績／指引\n標題：The Gap Inc. (GAP) Is Showing Wall Street It Can Weather Economic Headwinds\n摘要：The Gap Inc. (NYSE:GAP) is one of the 10 Stocks With Monster Gains Amid Market Turmoil. The Gap Inc. saw its share price jump by 11.44 percent on Friday to finish at $20.94 apiece, after reporting a strong earnings performance in the third quarter of the year, signaling that con…\n來源：Yahoo Finance:GAP",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gap-inc-gap-showing-wall-064629485.html?.tsrc=rss",
+      "source": "Yahoo Finance:GAP",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "INTU",
+      "short": "INTU — 業績／指引：Intuit (INTU) Stock Price Drops After Q1 Earnings Guidance Cut - Simply Wall St",
+      "detail": "INTU\n重點：業績／指引\n標題：Intuit (INTU) Stock Price Drops After Q1 Earnings Guidance Cut - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS2lrME9FbWM1dWtXZ3ppc0ZTT3F5YkkteEV4Q3NaaFVkc0NQVTRRSUk0WThvNzJjX0w5STJqMjFwOVpTd1pxSTFKWTltdkFTTkk2Wm9KdXdjeloxdks1VTFYaEk1NEkwR294eUZldW4tZWpWSERFaFdoRW5SeEpMSmlNaVVnY2xiQkNMLVYzc212N3RObFlxdUNrTzF0R05MSWYwSXJOYllOa…\n來源：Google News:INTU",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS2lrME9FbWM1dWtXZ3ppc0ZTT3F5YkkteEV4Q3NaaFVkc0NQVTRRSUk0WThvNzJjX0w5STJqMjFwOVpTd1pxSTFKWTltdkFTTkk2Wm9KdXdjeloxdks1VTFYaEk1NEkwR294eUZldW4tZWpWSERFaFdoRW5SeEpMSmlNaVVnY2xiQkNMLVYzc212N3RObFlxdUNrTzF0R05MSWYwSXJOYllOazFjQTIwX2x6dFptR2Y5bHZZVlJFMmIwRWvSAcgBQVVfeXFMUDFiR25OSmpzMWxwWlM0Ri1CZE10VmVUSGpQc2UwUVB6eVVZd1NQMUNGZXdFRXo3NWJpTHBpS2c2Q3NiS3ZxeC1CQ0pQZjZYRTBwRk1xWG5IeGhQQVJXaHk4OTRINmZiR3RwZTRBblBNalNyVXdZd21PdGxpREZ1M29kLXU2aFN4dmlialJHSW1sSTJpYXVIMUdxaER0S2pnc3lkNTdxV3haY2NVY3IwY3VUYWFGcUVGZWFvaDU3WTZUN3k1TVNFZ3g?oc=5",
+      "source": "Google News:INTU",
+      "kind": "news"
+    },
+    {
       "n": 7,
-      "symbol": "BILL",
-      "short": "BILL — BILL to be acquired by TPG and Corpay in $6 billion all-cash deal",
-      "detail": "BILL\n重點：新聞\n標題：BILL to be acquired by TPG and Corpay in $6 billion all-cash deal\n摘要：BILL (NYSE:BILL), the financial technology company serving nearly 500,000 businesses, has agreed to be acquired by TPG and Corpay in an all-cash transaction valuing the company at approximately $6 billion. Under the terms of the deal, BILL shareholders will receive $63.25 per sh…\n來源：Yahoo Finance:BILL",
-      "url": "https://www.proactiveinvestors.com/companies/news/1102198/bill-to-be-acquired-by-tpg-and-corpay-in-6-billion-all-cash-deal-1102198.html?.tsrc=rss",
-      "source": "Yahoo Finance:BILL",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "DGX",
-      "short": "DGX — 業績／指引：Quest Diagnostics Stock Gains 49.3% YTD: What's Behind the Rally?",
-      "detail": "DGX\n重點：業績／指引\n標題：Quest Diagnostics Stock Gains 49.3% YTD: What's Behind the Rally?\n摘要：DGX rises 49.3% YTD, fueled by strong physician and hospital revenues, expanding diagnostics services, strategic acquisitions and higher earnings guidance.\n來源：Yahoo Finance:DGX",
-      "url": "https://finance.yahoo.com/healthcare/articles/quest-diagnostics-stock-gains-49-135200578.html?.tsrc=rss",
-      "source": "Yahoo Finance:DGX",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "EC",
-      "short": "EC — 業績／指引：Ecopetrol SA (EC) Q3 2026 Earnings Call Highlights: Record Refining Margins Drive 86% N…",
-      "detail": "EC\n重點：業績／指引\n標題：Ecopetrol SA (EC) Q3 2026 Earnings Call Highlights: Record Refining Margins Drive 86% Net ...\n摘要：Ecopetrol SA (EC) posted COP4.8 trillion in quarterly net income on record refining EBITDA and a 45% margin, while its new CEO outlined priorities for reserves, gas supply, and capital discipline.\n來源：Yahoo Finance:EC",
-      "url": "https://finance.yahoo.com/energy/articles/ecopetrol-sa-ec-q3-2026-170142548.html?.tsrc=rss",
-      "source": "Yahoo Finance:EC",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "ECL",
-      "short": "ECL — AI相關：Ecolab Raises Long-Term Targets as AI Infrastructure Opens a $60 Billion Opportunity",
-      "detail": "ECL\n重點：AI相關\n標題：Ecolab Raises Long-Term Targets as AI Infrastructure Opens a $60 Billion Opportunity\n摘要：Ecolab (NYSE:ECL) set higher long-term growth and profitability targets at its 2026 Investor Day, saying investments in technology, life sciences and AI infrastructure are expanding its market opportunities. The company is targeting organic sales growth of 6% to 8% for 2027 and …\n來源：Yahoo Finance:ECL",
-      "url": "https://www.marketbeat.com/instant-alerts/event-ecolab-raises-long-term-targets-as-ai-infrastructure-opens-a-60-billion-opportunity-2026-11-20/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "Yahoo Finance:ECL",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "FTNT",
-      "short": "FTNT — AI相關：Fortinet (FTNT) Outperforms as AI Heightens Enterprise Cyber Defense Investment",
-      "detail": "FTNT\n重點：AI相關\n標題：Fortinet (FTNT) Outperforms as AI Heightens Enterprise Cyber Defense Investment\n摘要：Argent Capital Management, an equity investment firm, released its Q3 2026 investor letter for “Argent Large Cap Strategy”. The letter can be downloaded here. The portfolio returned 1.85% in the quarter, versus the S&amp;P 500’s 2.30% gain, underperforming by 46 basis points net…\n來源：Yahoo Finance:FTNT",
-      "url": "https://finance.yahoo.com/technology/ai/articles/fortinet-ftnt-outperforms-ai-heightens-143344866.html?.tsrc=rss",
-      "source": "Yahoo Finance:FTNT",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "KSS",
-      "short": "KSS — 業績／指引：Kohl's Q3 Earnings on the Horizon: Essential Insights for Investors",
-      "detail": "KSS\n重點：業績／指引\n標題：Kohl's Q3 Earnings on the Horizon: Essential Insights for Investors\n摘要：KSS heads into Q3 with expectations of lower sales and earnings as cautious consumer spending, Sephora weakness and promotional pressures weigh on results.\n來源：Yahoo Finance:KSS",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kohls-q3-earnings-horizon-essential-141100292.html?.tsrc=rss",
-      "source": "Yahoo Finance:KSS",
+      "symbol": "SLG",
+      "short": "SLG — 業績／指引：Is Higher FFO Guidance Altering The Investment Case For SL Green Realty (SLG)?",
+      "detail": "SLG\n重點：業績／指引\n標題：Is Higher FFO Guidance Altering The Investment Case For SL Green Realty (SLG)?\n摘要：SL Green Realty reported third quarter 2026 FFO per share of US$1.59, in line with estimates, raised full year FFO guidance to a range of US$6.50 to US$6.70, and detailed solid Manhattan leasing, portfolio sales, and refinancing moves. The higher FFO outlook is tied to capital r…\n來源：Yahoo Finance:SLG",
+      "url": "https://finance.yahoo.com/real-estate/articles/higher-ffo-guidance-altering-investment-021401968.html?.tsrc=rss",
+      "source": "Yahoo Finance:SLG",
       "kind": "news"
     }
   ]
