@@ -1,115 +1,25 @@
 {
-  "title": "FS新聞 11-21 17:14",
-  "list_name": "FirstScreen_2026-11-21_171400_comma.txt",
-  "created_at": "2026-11-21T17:14:06.984572+00:00",
+  "title": "FS新聞 11-22 07:09",
+  "list_name": "FirstScreen_2026-11-22_070944_comma.txt",
+  "created_at": "2026-11-22T07:09:50.577920+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "FTNT",
-      "short": "FTNT — Fortinet, Inc. $FTNT Stock Sold by State Street Corp - MarketBeat",
-      "detail": "FTNT\n重點：新聞\n標題：Fortinet, Inc. $FTNT Stock Sold by State Street Corp - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNRXRwY0k2SGJLd1BZb091Z0FtVUZDQkNfMkxDbVhxX1FvcVRTVlF1Um00YmUwQy1GbDdiQjM2eDBKMzl0Z19wbTJDeF9JcDR5RTVwVVdiSTg0dDFIYWJmYkNEOXVMclFVcXdxc1V2U3B2NThxQnhiQWNKazVZYmdINjRFdi1kNmNOLUp4RXhzRmM5dDlNb0kyRnp6VWphTmJ4UHRQZGtxZHdDb…\n來源：Google News:FTNT\n其他：582,258 Fortinet, Inc. $FTNT Shares Sold by Public Sector P…",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRXRwY0k2SGJLd1BZb091Z0FtVUZDQkNfMkxDbVhxX1FvcVRTVlF1Um00YmUwQy1GbDdiQjM2eDBKMzl0Z19wbTJDeF9JcDR5RTVwVVdiSTg0dDFIYWJmYkNEOXVMclFVcXdxc1V2U3B2NThxQnhiQWNKazVZYmdINjRFdi1kNmNOLUp4RXhzRmM5dDlNb0kyRnp6VWphTmJ4UHRQZGtxZHdDb1N5WmhR?oc=5",
-      "source": "Google News:FTNT",
+      "symbol": "DGX",
+      "short": "DGX — 業績／指引：Quest Diagnostics Sees Hospital Deal Growth as 2027 Medicare Cuts Loom",
+      "detail": "DGX\n重點：業績／指引\n標題：Quest Diagnostics Sees Hospital Deal Growth as 2027 Medicare Cuts Loom\n摘要：Quest Diagnostics (NYSE:DGX) expects continued strength in testing demand and its hospital partnerships, while preparing for a potential revenue hit in 2027 if Medicare laboratory payment cuts take effect, a company representative said during a discussion of the business. The re…\n來源：Yahoo Finance:DGX",
+      "url": "https://www.marketbeat.com/instant-alerts/event-quest-diagnostics-sees-hospital-deal-growth-as-2027-medicare-cuts-loom-2026-11-21/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance:DGX",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "ALSN",
-      "short": "ALSN — Allison Transmission (NYSE:ALSN) Stock Rating Upgraded by Wall Street Zen - MarketBeat",
-      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission (NYSE:ALSN) Stock Rating Upgraded by Wall Street Zen - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNYU4yNzhwQ3dHczJ3N3dzdktoS213ZDZ6WmZlbXh6YnR2YWJfX1ZJN0JVbUtRZldEd19aQm5ON21ZMVN4VThfZHRpZVdmT01GeGhxNnNpLUxwV0JmV25GTjJqcWgzZnVlRUdWT1VkV1VSMlNLNGozYlJtTGRMNi02YldxQUpDSDMzNUhrVi1NRjYzWDUzNjJzcHc5RENmbWxlXzNCS25IOXZ6b…\n來源：Google News:ALSN",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYU4yNzhwQ3dHczJ3N3dzdktoS213ZDZ6WmZlbXh6YnR2YWJfX1ZJN0JVbUtRZldEd19aQm5ON21ZMVN4VThfZHRpZVdmT01GeGhxNnNpLUxwV0JmV25GTjJqcWgzZnVlRUdWT1VkV1VSMlNLNGozYlJtTGRMNi02YldxQUpDSDMzNUhrVi1NRjYzWDUzNjJzcHc5RENmbWxlXzNCS25IOXZ6bXpxUVJfSjF5em9rYk5LSjFHMWdVZFJZNk5ldDRzYU95LTR4QQ?oc=5",
-      "source": "Google News:ALSN",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "ANET",
-      "short": "ANET — Arista Networks, Inc. $ANET Shares Acquired by Rathbones Group PLC - MarketBeat",
-      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Shares Acquired by Rathbones Group PLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxONklqcURGT0RjaVFxdFlRSy1EckJva1hnWlhKVkNFRmJsbGFWYnJSVVlzRUh4X2paaThFV1A0VWZIME82ZlFva1k1bnpBbGdQNGR0dTA4bXhwYnBsRWhSTXpYVW5JQVFPQkdGeGtEQmowc0U4UFlpSWVoTUpwYXZuYVFWR0NGWFY0M203MDRYUXFKc2RCdUotVGh2eHJpcDhEcjBWVlZpMXVHb…\n來源：Google News:ANET",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONklqcURGT0RjaVFxdFlRSy1EckJva1hnWlhKVkNFRmJsbGFWYnJSVVlzRUh4X2paaThFV1A0VWZIME82ZlFva1k1bnpBbGdQNGR0dTA4bXhwYnBsRWhSTXpYVW5JQVFPQkdGeGtEQmowc0U4UFlpSWVoTUpwYXZuYVFWR0NGWFY0M203MDRYUXFKc2RCdUotVGh2eHJpcDhEcjBWVlZpMXVHb0RaR1ZsSzlqejRUMEVmVWlWdEIyLXNoZw?oc=5",
-      "source": "Google News:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "BILL",
-      "short": "BILL — 併購／交易：Is BILL Holdings (BILL) Fully Valued After Its $6b Go Private Deal?",
-      "detail": "BILL\n重點：併購／交易\n標題：Is BILL Holdings (BILL) Fully Valued After Its $6b Go Private Deal?\n摘要：BILL Holdings (BILL) is at the center of a go private deal after agreeing to a cash acquisition by TPG and Corpay that values the fintech platform at about $6 billion. Traders have reacted quickly to the go private headlines, with BILL Holdings’ share price sliding 4.1% over the…\n來源：Yahoo Finance:BILL",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-holdings-bill-fully-valued-110952400.html?.tsrc=rss",
-      "source": "Yahoo Finance:BILL",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "BKNG",
-      "short": "BKNG — Booking Holdings Inc. $BKNG Stock Sold by State Street Corp - MarketBeat",
-      "detail": "BKNG\n重點：新聞\n標題：Booking Holdings Inc. $BKNG Stock Sold by State Street Corp - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOUThUM2ZqVDM5Vm1DSXE4VU92SnNuVXZsZEliWXltb1c4SzQ1ZmIxNmVTdFpjRzRKSjZXdHRrTTFxdzlwQ0Q5Rk5lU1I3b19TaHhpU291T3BiZEotNFF3ZF9tR0RGeGs2UGNzMm4xc05yYkk3a1p3T3paYkUtVnB2S0ljak5nb0MtNFBaaEZObGVFamdtcXZ1ZFEzUGlfazFkdEQ3cDBIcnQ1N…\n來源：Google News:BKNG",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUThUM2ZqVDM5Vm1DSXE4VU92SnNuVXZsZEliWXltb1c4SzQ1ZmIxNmVTdFpjRzRKSjZXdHRrTTFxdzlwQ0Q5Rk5lU1I3b19TaHhpU291T3BiZEotNFF3ZF9tR0RGeGs2UGNzMm4xc05yYkk3a1p3T3paYkUtVnB2S0ljak5nb0MtNFBaaEZObGVFamdtcXZ1ZFEzUGlfazFkdEQ3cDBIcnQ1N0RlYXBIZXFiNDBpemVZUEE?oc=5",
-      "source": "Google News:BKNG",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "BNY",
-      "short": "BNY — 231,231 Bank of New York Mellon Corporation $BNY Shares Purchased by Resona Asset Manag…",
-      "detail": "BNY\n重點：新聞\n標題：231,231 Bank of New York Mellon Corporation $BNY Shares Purchased by Resona Asset Management Co. Ltd. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQjZadWFpQWRNeUM4WllPQmE4dmlZUS0zYTRzdDJYMnlLNTJUSExycjl5S0QtWlhhNVptckVhQk9BNEwybDdnRl84azkzdnRFYXJGU0VPN01tc2drZGVjYnRSYldkaTFaOER0aUVCbXdhYnY4cXRLdFM2VDB4V1YxdVlvTGJBNFdpVnFfN2ZPZDNIcU5SWDlhSG16a1d5V2pDdTB6bk9VcjM5W…\n來源：Google News:BNY",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQjZadWFpQWRNeUM4WllPQmE4dmlZUS0zYTRzdDJYMnlLNTJUSExycjl5S0QtWlhhNVptckVhQk9BNEwybDdnRl84azkzdnRFYXJGU0VPN01tc2drZGVjYnRSYldkaTFaOER0aUVCbXdhYnY4cXRLdFM2VDB4V1YxdVlvTGJBNFdpVnFfN2ZPZDNIcU5SWDlhSG16a1d5V2pDdTB6bk9VcjM5WW1aX0RhZVBQOFdheHd2bzk1NjBhLXNlUHJ3T3VYbm52Z2MtZkhHbWZnaGpGM1ctbE4xLVBDOGU4cTUtNWpIUm1VNFFMRQ?oc=5",
-      "source": "Google News:BNY",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "COF",
-      "short": "COF — Capital One Financial Corporation $COF Stock Sold by State Street Corp - MarketBeat",
-      "detail": "COF\n重點：新聞\n標題：Capital One Financial Corporation $COF Stock Sold by State Street Corp - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQaEVKbUIwUmZtTFd0VU1vQldwaWVGMTNvdmlQYW1CN2NuVEpsWE5DWldPbHA0dk1RbG4wRGhna3BsR0p3U3g3Z3NnZXBSSTNEV1NnbEVhRDg4aXJGVG1WZ3JTSVF1NDg1YU45d3dtODFzc05FaDlBUTBQTjZSSXVQeHRfdlp6d3FIVnNqNGh4YnZ1NkRCQXJOUnZENE40TEVlc3g3TFJTX0NPS…\n來源：Google News:COF",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaEVKbUIwUmZtTFd0VU1vQldwaWVGMTNvdmlQYW1CN2NuVEpsWE5DWldPbHA0dk1RbG4wRGhna3BsR0p3U3g3Z3NnZXBSSTNEV1NnbEVhRDg4aXJGVG1WZ3JTSVF1NDg1YU45d3dtODFzc05FaDlBUTBQTjZSSXVQeHRfdlp6d3FIVnNqNGh4YnZ1NkRCQXJOUnZENE40TEVlc3g3TFJTX0NPSlJBWUpwTWZvUUlhaWhvOWpWVzJvRmdIektRbmNab09B?oc=5",
-      "source": "Google News:COF",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "CRM",
-      "short": "CRM — Salesforce Inc. $CRM Stock: State Street Corp Trims Stake - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stock: State Street Corp Trims Stake - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdDRMcnNEOTJFd3lXUW5nc1ZRd1VSUV9IMHRDTXVfblF3WFZGNDl4aUdxS3o3YXo2NUVoUkhoeDVWekVGSU9xOXFNb2VXQkUxaEJReFRnMmJTUG4wUUdZaFRhVEd6b1VTQTd2MmdQdGNOM3ZvWTVzVXVsSXdzQzE0Ty1XODcxYmNtc3ZnQThmdVZoa3hCa1hVTFliUnROZDAydXdYaXl2NjBua…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdDRMcnNEOTJFd3lXUW5nc1ZRd1VSUV9IMHRDTXVfblF3WFZGNDl4aUdxS3o3YXo2NUVoUkhoeDVWekVGSU9xOXFNb2VXQkUxaEJReFRnMmJTUG4wUUdZaFRhVEd6b1VTQTd2MmdQdGNOM3ZvWTVzVXVsSXdzQzE0Ty1XODcxYmNtc3ZnQThmdVZoa3hCa1hVTFliUnROZDAydXdYaXl2NjBuaUtLZnRLc2RudmMwdw?oc=5",
-      "source": "Google News:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "GEN",
-      "short": "GEN — AI相關：Should Rising Cyberattack Risks Require Action From Gen Digital (GEN) Investors?",
-      "detail": "GEN\n重點：AI相關\n標題：Should Rising Cyberattack Risks Require Action From Gen Digital (GEN) Investors?\n摘要：Gen Digital recently spotlighted rising vulnerabilities in the global digital grid, warning that AI driven cyberattacks are making outages and scams more disruptive while promoting its suite of protective tools across Norton, Avast and Avira to help consumers and small businesse…\n來源：Yahoo Finance:GEN",
-      "url": "https://finance.yahoo.com/technology/ai/articles/rising-cyberattack-risks-require-action-121001490.html?.tsrc=rss",
-      "source": "Yahoo Finance:GEN",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "MDT",
-      "short": "MDT — Medtronic PLC $MDT Stock Bought by State Street Corp - MarketBeat",
-      "detail": "MDT\n重點：新聞\n標題：Medtronic PLC $MDT Stock Bought by State Street Corp - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOa1ZnbUVZdEJiMVRTZmdxSlZ4N1ZMX1NwOXU0dkxsOUNSVXpEVjZ2Wk05Z3NXblNyY28xcHlRdGJnQkphakNBYmtXYmExcjRDWnYtUjBZYUpWNU11ZEx4OTZSN3lwSWpoazVHc1RFR21NOTR1czJVaHh1U2MxNjlnLUN4Mm03cndpbjRubU1fMFg0d3FxcS0tSElnWjZ6MnZUaW93aDlxMUJHW…\n來源：Google News:MDT",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa1ZnbUVZdEJiMVRTZmdxSlZ4N1ZMX1NwOXU0dkxsOUNSVXpEVjZ2Wk05Z3NXblNyY28xcHlRdGJnQkphakNBYmtXYmExcjRDWnYtUjBZYUpWNU11ZEx4OTZSN3lwSWpoazVHc1RFR21NOTR1czJVaHh1U2MxNjlnLUN4Mm03cndpbjRubU1fMFg0d3FxcS0tSElnWjZ6MnZUaW93aDlxMUJHWXVDeXFseXhR?oc=5",
-      "source": "Google News:MDT",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "MRK",
-      "short": "MRK — Merck & Co., Inc. $MRK Position Lifted by State Street Corp - MarketBeat",
-      "detail": "MRK\n重點：新聞\n標題：Merck & Co., Inc. $MRK Position Lifted by State Street Corp - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNNHlITnlhWWJiTlJHYjJET2hib25lVHZzb3ZWWmxpdWRUOW9LTFA0bGdmbXF4M3pMYXZPUnVmeVlSZmlnOVRpcENKQ2VEdXFXMzZBTEVYekpucmpNQXJxYVpGVzE0bmduT0g1V3JwSTlQZzA2dzRyZ2gtQXNvdWVSQnYyMDFTRXpsN0FGeFdVeFpSYzJHczVEQTBCTG9DRFdqUlBfdHlTMGRzT…\n來源：Google News:MRK",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNHlITnlhWWJiTlJHYjJET2hib25lVHZzb3ZWWmxpdWRUOW9LTFA0bGdmbXF4M3pMYXZPUnVmeVlSZmlnOVRpcENKQ2VEdXFXMzZBTEVYekpucmpNQXJxYVpGVzE0bmduT0g1V3JwSTlQZzA2dzRyZ2gtQXNvdWVSQnYyMDFTRXpsN0FGeFdVeFpSYzJHczVEQTBCTG9DRFdqUlBfdHlTMGRzTy1NdURGd0Q2aWw?oc=5",
-      "source": "Google News:MRK",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "PDD",
-      "short": "PDD — 262,903 PDD Holdings Inc. Sponsored ADR $PDD Shares Sold by Perseverance Asset Manageme…",
-      "detail": "PDD\n重點：新聞\n標題：262,903 PDD Holdings Inc. Sponsored ADR $PDD Shares Sold by Perseverance Asset Management International - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbGM4NXZZcGd3V1AzNGY3Nk10cURIdEdWYWhNM05zdGRQaE1tNUpNYnhHSjNzbnFDX1BWTmRPTDJEN1ZaUFV3TWlWSXV3NzhIb3hIVUNqVlYybFMwTTZPT0NOUmo5ME1iNE9MampIcWRMZVFsVXdCT09YU2NSdE02alNJNjMtbXRna294d25oem9mNy03eE81QkJUMS1LQ1lETkY3YlJvYUNlT…\n來源：Google News:PDD",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbGM4NXZZcGd3V1AzNGY3Nk10cURIdEdWYWhNM05zdGRQaE1tNUpNYnhHSjNzbnFDX1BWTmRPTDJEN1ZaUFV3TWlWSXV3NzhIb3hIVUNqVlYybFMwTTZPT0NOUmo5ME1iNE9MampIcWRMZVFsVXdCT09YU2NSdE02alNJNjMtbXRna294d25oem9mNy03eE81QkJUMS1LQ1lETkY3YlJvYUNlTjZybmp2dmpOQTlJV28tbHZvUWtOWmtWVk9BWnNUdjJFUUZCOVRxY1REVzdNNFZnRmFWOEEtejRfOWFHbkh0anZ5cHZaTXdhbzg?oc=5",
-      "source": "Google News:PDD",
+      "symbol": "EC",
+      "short": "EC — Ecopetrol (NYSE:EC) Stock Gets Downgrade from Wall Street Zen - MarketBeat",
+      "detail": "EC\n重點：新聞\n標題：Ecopetrol (NYSE:EC) Stock Gets Downgrade from Wall Street Zen - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPTW5Db3JicXRlQnJKcFpxMXdaLV9sUXRYUkRjN0ZNRTdGc2YwVDdTNUx5NE85aHhMZU45VEZVSTFyQy1sb2YtT2ctOGItUjc3cWdvTkxHbFBCNnBWNUZXYVhvUTZYZDZHZVhNeFByZWxFUm10VjlfbHktc016VUZOVk5TYTNMaUVKOVNUb1ZEaFVxWlAwUXhMZTVRazRiQ0U2Q3pQcFdhYV9Pa…\n來源：Google News:EC",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTW5Db3JicXRlQnJKcFpxMXdaLV9sUXRYUkRjN0ZNRTdGc2YwVDdTNUx5NE85aHhMZU45VEZVSTFyQy1sb2YtT2ctOGItUjc3cWdvTkxHbFBCNnBWNUZXYVhvUTZYZDZHZVhNeFByZWxFUm10VjlfbHktc016VUZOVk5TYTNMaUVKOVNUb1ZEaFVxWlAwUXhMZTVRazRiQ0U2Q3pQcFdhYV9PaWw2WENDMk1ncVZCUktPMUhnSEtB?oc=5",
+      "source": "Google News:EC",
       "kind": "news"
     }
   ]
