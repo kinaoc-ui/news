@@ -1,70 +1,43 @@
 {
-  "title": "FS新聞 11-22 17:41",
-  "list_name": "FirstScreen_2026-11-22_174139_comma.txt",
-  "created_at": "2026-11-22T17:41:46.537143+00:00",
+  "title": "FS新聞 11-23 07:56",
+  "list_name": "FirstScreen_2026-11-23_075604_comma.txt",
+  "created_at": "2026-11-23T07:56:11.305748+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "BNY",
-      "short": "BNY — Bank of New York Mellon Corporation $BNY Shares Sold by State Street Corp - MarketBeat",
-      "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon Corporation $BNY Shares Sold by State Street Corp - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPQVJNUGFfbnlndktZR1hyN3lTNF9SVnF5YUQzVTk2dGw1VDNkc0I1M2psNXlDQUp3UUVOWWR1aGZrN2ZaTlN2VzgzSjl5c3Z3cGp5cndzN2N6cjduV094RnowZ0JtSFJkaTJwcGJlWjV6TkdiWVpkTEE2WFNWSy11dHlKam5JYnhtRmM2cW9VbG5DbExaM0VqdnI5b2NaUWpTQ3ZHVldfenE1R…\n來源：Google News:BNY",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQVJNUGFfbnlndktZR1hyN3lTNF9SVnF5YUQzVTk2dGw1VDNkc0I1M2psNXlDQUp3UUVOWWR1aGZrN2ZaTlN2VzgzSjl5c3Z3cGp5cndzN2N6cjduV094RnowZ0JtSFJkaTJwcGJlWjV6TkdiWVpkTEE2WFNWSy11dHlKam5JYnhtRmM2cW9VbG5DbExaM0VqdnI5b2NaUWpTQ3ZHVldfenE1RXYzcWFmUEhSY19kVF9KOWtWMUVBNVdZXzNHck5JZWRJeXRCUQ?oc=5",
-      "source": "Google News:BNY",
+      "symbol": "BILL",
+      "short": "BILL — BILL Holdings (BILL) Just Gave Investors a Billion-Dollar Reason to Cheer",
+      "detail": "BILL\n重點：新聞\n標題：BILL Holdings (BILL) Just Gave Investors a Billion-Dollar Reason to Cheer\n摘要：BILL Holdings Inc. (NYSE:BILL) is one of the 10 Stocks Showing Remarkable Resilience in a Volatile Market. BILL Holdings rallied by 12.8 percent week-on-week, as investors gobbled up shares following news that it is set to be acquired by TPG and Corpay for around $6 billion. On …\n來源：Yahoo Finance:BILL",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-holdings-bill-just-gave-043940220.html?.tsrc=rss",
+      "source": "Yahoo Finance:BILL",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "CRM",
-      "short": "CRM — 18,990 Shares in Salesforce Inc. $CRM Bought by N.F.U. MUTUAL UNIT MANAGERS Ltd - Marke…",
-      "detail": "CRM\n重點：新聞\n標題：18,990 Shares in Salesforce Inc. $CRM Bought by N.F.U. MUTUAL UNIT MANAGERS Ltd - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOM0V5d1BDSHMzb0ZzSUgxRGdManpzTVlxZmtwWURPbUowUTJuNXpFUzhoRS0xeUJGV1RuQk9hN1ZGNjFzUkFPbEctNW5telEwQ3hCdVhCOXpmS2tyWjVMOTFQbGR3TkVpa3JxQV8ybVQ0X1o0TTRKRFRlUUJueVFXNVFyZWdFNUJlWno2d042WnVZdXR1NGJETWp1dmVzS0VkdndabGRaeWxBM…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM0V5d1BDSHMzb0ZzSUgxRGdManpzTVlxZmtwWURPbUowUTJuNXpFUzhoRS0xeUJGV1RuQk9hN1ZGNjFzUkFPbEctNW5telEwQ3hCdVhCOXpmS2tyWjVMOTFQbGR3TkVpa3JxQV8ybVQ0X1o0TTRKRFRlUUJueVFXNVFyZWdFNUJlWno2d042WnVZdXR1NGJETWp1dmVzS0VkdndabGRaeWxBMk92S1MyWXZ4TmhHdHdRSHVQdHhOT2dEeTFmQy11aHZZUjlfN1k?oc=5",
-      "source": "Google News:CRM",
+      "symbol": "FRSH",
+      "short": "FRSH — Freshworks Inc. (NASDAQ:FRSH) Stock Rated \"Moderate Buy\" by Wall Street Brokerages - Ma…",
+      "detail": "FRSH\n重點：新聞\n標題：Freshworks Inc. (NASDAQ:FRSH) Stock Rated \"Moderate Buy\" by Wall Street Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNG9Zc1pVZy1meGlMVUxNZmdUb1dhREZUZVdBeTBXTUtEYmpGS0NSdkZrRUdobHRuNWtuQ01tcUsxS0dESGtKV3NidkFDaUY2VjRreEFPekc4V0U5SEE0c2hvb085Q3YtYjJ1VlVRdU5aSVRabUpYV0NOSDF6TC0zM0x5SkNMLUpOWXBQZElOTWVNd0dvVk9xdjlaUHJpTm91T0NUYmdHaTNuR…\n來源：Google News:FRSH",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNG9Zc1pVZy1meGlMVUxNZmdUb1dhREZUZVdBeTBXTUtEYmpGS0NSdkZrRUdobHRuNWtuQ01tcUsxS0dESGtKV3NidkFDaUY2VjRreEFPekc4V0U5SEE0c2hvb085Q3YtYjJ1VlVRdU5aSVRabUpYV0NOSDF6TC0zM0x5SkNMLUpOWXBQZElOTWVNd0dvVk9xdjlaUHJpTm91T0NUYmdHaTNuRG5nQ3RCZUJtak10RndIN195bjhpOFJ1MVBidG5JVlJDQlhiS2UtaG1TOE43UEk?oc=5",
+      "source": "Google News:FRSH",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "FUTU",
-      "short": "FUTU — 業績／指引：Did Third Quarter Earnings Just Shift Futu Holdings' (FUTU) Investment Narrative?",
-      "detail": "FUTU\n重點：業績／指引\n標題：Did Third Quarter Earnings Just Shift Futu Holdings' (FUTU) Investment Narrative?\n摘要：Futu Holdings reported third quarter 2026 revenue of HK$6,690.57 million and net income of HK$3,193.59 million, with earnings per share from continuing operations broadly similar to a year earlier on both a basic and diluted basis. Across the first nine months of 2026, the busin…\n來源：Yahoo Finance:FUTU",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/did-third-quarter-earnings-just-110628548.html?.tsrc=rss",
-      "source": "Yahoo Finance:FUTU",
+      "symbol": "MDT",
+      "short": "MDT — What Does FDA Clearance Mean for Medtronic (NYSE:MDT) in Robotics? - Kalkine Media",
+      "detail": "MDT\n重點：新聞\n標題：What Does FDA Clearance Mean for Medtronic (NYSE:MDT) in Robotics? - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOVDNzdmNxSWpJSjN5bkNya1VoN3c3bk5pbVZVYUFoN0tSYWpPbzJFS09sM3NocGV6aFlhTUhpTUVPaE9NOUxNUDJYUG5mS1hRdXEwMmIwU1NzNFh3MUJvel9lRjZwci0ybUlzaFg5aG4wdjBSNUdmZTRkSkxHeWxSWEFrcXJyVjZUU24zWDlCSjVSbnF1Rmh1QnpSMjNpd1Q4VHFyMjROMlFaQ…\n來源：Google News:MDT",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVDNzdmNxSWpJSjN5bkNya1VoN3c3bk5pbVZVYUFoN0tSYWpPbzJFS09sM3NocGV6aFlhTUhpTUVPaE9NOUxNUDJYUG5mS1hRdXEwMmIwU1NzNFh3MUJvel9lRjZwci0ybUlzaFg5aG4wdjBSNUdmZTRkSkxHeWxSWEFrcXJyVjZUU24zWDlCSjVSbnF1Rmh1QnpSMjNpd1Q4VHFyMjROMlFaQUtp?oc=5",
+      "source": "Google News:MDT",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "HCA",
-      "short": "HCA — HCA Healthcare, Inc. $HCA Stock Position Trimmed by State Street Corp - MarketBeat",
-      "detail": "HCA\n重點：新聞\n標題：HCA Healthcare, Inc. $HCA Stock Position Trimmed by State Street Corp - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQQnJpMV84T1hSdUt3MllRdzU0dUY5MGozeF9jYWJqQ1JaTkoxZ28wNHppRlExRS1BWkhzU0J5VUFqOVJQNmxDb0g5aElCX2ZWN2FUUERsSF94NHFQMTRKU2d5eE9mU1VRTWRCVDduUmFyY2gxNktta1FKRlU3dmE3cHRiTjY3WWlpS0FSU3VtVENreXZSb1hmSkhkamI5bHFSSlREbHpTb3ZPR…\n來源：Google News:HCA",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQnJpMV84T1hSdUt3MllRdzU0dUY5MGozeF9jYWJqQ1JaTkoxZ28wNHppRlExRS1BWkhzU0J5VUFqOVJQNmxDb0g5aElCX2ZWN2FUUERsSF94NHFQMTRKU2d5eE9mU1VRTWRCVDduUmFyY2gxNktta1FKRlU3dmE3cHRiTjY3WWlpS0FSU3VtVENreXZSb1hmSkhkamI5bHFSSlREbHpTb3ZPRjVjUVcyUU9kYzdIbzlDNGhZdzd5bVFfOVRnT1E?oc=5",
-      "source": "Google News:HCA",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "IRDM",
-      "short": "IRDM — Iridium Communications Inc $IRDM Shares Sold by Silver Heights Capital Management Inc -…",
-      "detail": "IRDM\n重點：新聞\n標題：Iridium Communications Inc $IRDM Shares Sold by Silver Heights Capital Management Inc - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ0x3S0ZkaUpmZDBCSnMweHRaYTNEbjZjMnB1SWFjbThwa0ZNSkFJdVZySkZSenk3dnBnU21WNEpkblhGeHRKWmswMDZFZGhDRDNRMVF0M1lWdUlST2tlb1hHenJRRnhqeDdUbDRJWHRZRnZIYnc3OGVFRThnNWJpZkpNVXNGS3RtcFk5TkUxM1E1cTV0ekdOaFlSbkRSbDYzdGVqSlpQX09hQ…\n來源：Google News:IRDM",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ0x3S0ZkaUpmZDBCSnMweHRaYTNEbjZjMnB1SWFjbThwa0ZNSkFJdVZySkZSenk3dnBnU21WNEpkblhGeHRKWmswMDZFZGhDRDNRMVF0M1lWdUlST2tlb1hHenJRRnhqeDdUbDRJWHRZRnZIYnc3OGVFRThnNWJpZkpNVXNGS3RtcFk5TkUxM1E1cTV0ekdOaFlSbkRSbDYzdGVqSlpQX09hQlZwa1NNcE9xQ0sxZlI3V2RYXzhtR0M4SmhlNjRBb1BFczNPeml4TG41eHdBaXpKV21qRHc?oc=5",
-      "source": "Google News:IRDM",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "OXY",
-      "short": "OXY — Occidental Petroleum Corporation $OXY Stock: State Street Corp Reduces Holdings - Marke…",
-      "detail": "OXY\n重點：新聞\n標題：Occidental Petroleum Corporation $OXY Stock: State Street Corp Reduces Holdings - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQemxWVmE1YS1RRDhsOUxIY28wM2l0UnVwcUFjQlJBQ091cXFTRGl1MWpfcUxMTElDNHFpVWl3SnNnN0NJOXpPYkRGY0dJYjViNjk5dl90YWx0VmFMNFlrWlQ3N2FBMTMtU3p2OXp6QVVjbmctX3JCb2NnLVdhRmxpelhpbVJPZE1QcTJPNHg2a0Q3eFVFV0JaTk9CNTRkQ3pZV0NPMW9XMWNVS…\n來源：Google News:OXY",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQemxWVmE1YS1RRDhsOUxIY28wM2l0UnVwcUFjQlJBQ091cXFTRGl1MWpfcUxMTElDNHFpVWl3SnNnN0NJOXpPYkRGY0dJYjViNjk5dl90YWx0VmFMNFlrWlQ3N2FBMTMtU3p2OXp6QVVjbmctX3JCb2NnLVdhRmxpelhpbVJPZE1QcTJPNHg2a0Q3eFVFV0JaTk9CNTRkQ3pZV0NPMW9XMWNVSlg1b3ZLdzdrZ3NZWGRGaUpjV3BUUTYxQTZkdVNNZDVVOHZHSlFkU1lseg?oc=5",
-      "source": "Google News:OXY",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "PDD",
-      "short": "PDD — 567,484 PDD Holdings Inc. Sponsored ADR $PDD Shares Sold by USS Investment Management L…",
-      "detail": "PDD\n重點：新聞\n標題：567,484 PDD Holdings Inc. Sponsored ADR $PDD Shares Sold by USS Investment Management Ltd - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZU83SFMtMTNkSjR2VTVMQXdOX0hNc0ltX09VM2ZxTG15XzhXNmVWbjNodEhFMWZtVWlTb3F2VVFTV2dpa3Q0UUtIYWlZTjRjd0hnU3VJUWtpakhwdWMxamJmYXI2d0FaeGFvSUdBenk3MmtfaXBBQTVxOWJTR3hFM29ITlp6NnpHT1duSUExVjBKSDhraEc1REZkSDVWam5Ia05MUUhEc2g3Q…\n來源：Google News:PDD",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZU83SFMtMTNkSjR2VTVMQXdOX0hNc0ltX09VM2ZxTG15XzhXNmVWbjNodEhFMWZtVWlTb3F2VVFTV2dpa3Q0UUtIYWlZTjRjd0hnU3VJUWtpakhwdWMxamJmYXI2d0FaeGFvSUdBenk3MmtfaXBBQTVxOWJTR3hFM29ITlp6NnpHT1duSUExVjBKSDhraEc1REZkSDVWam5Ia05MUUhEc2g3Q2d2QUdoakN3NVpSX01IcGVHMm9uNS1lVzlOSEl5SHktTmZJcF9ZeEFHbkV4dkNZUkEwNjNTZg?oc=5",
-      "source": "Google News:PDD",
+      "symbol": "TTE",
+      "short": "TTE — United States: TotalEnergies Strengthens its Partnership with Continental Resources to …",
+      "detail": "TTE\n重點：新聞\n標題：United States: TotalEnergies Strengthens its Partnership with Continental Resources to Develop its Gas Production\n摘要：PARIS, November 23, 2026--TotalEnergies (Paris:TTE) (LSE:TTE) (NYSE:TTE) has signed a new agreement with Continental Resources, under which TotalEnergies acquires interests in natural gas upstream assets. The transaction is expected to add approximately 150 MMscf/d1 (equivalent …\n來源：Yahoo Finance:TTE",
+      "url": "https://finance.yahoo.com/energy/articles/united-states-totalenergies-strengthens-partnership-071400104.html?.tsrc=rss",
+      "source": "Yahoo Finance:TTE",
       "kind": "news"
     }
   ]
