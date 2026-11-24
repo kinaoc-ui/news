@@ -1,97 +1,52 @@
 {
-  "title": "FS新聞 11-23 21:57",
-  "list_name": "FirstScreen_2026-11-23_215712_comma.txt",
-  "created_at": "2026-11-23T21:57:21.723995+00:00",
+  "title": "FS新聞 11-24 10:09",
+  "list_name": "FirstScreen_2026-11-24_100943_comma.txt",
+  "created_at": "2026-11-24T10:09:51.252248+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "BHP",
-      "short": "BHP — AI相關：Top Stock Reports for NVIDIA, Cisco & BHP",
-      "detail": "BHP\n重點：AI相關\n標題：Top Stock Reports for NVIDIA, Cisco & BHP\n摘要：NVIDIA, Cisco and BHP headline today's top stock research reports, with AI-driven demand, networking upgrades and commodity growth shaping their outlooks.\n來源：Yahoo Finance:BHP\n其他：3 ETFs That Hold BHP Very Differently As Copper Approval St…; How Does ConocoPhillips (NYSE:COP) Signed USD 4.425 Billion…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-nvidia-cisco-203500498.html?.tsrc=rss",
-      "source": "Yahoo Finance:BHP",
+      "symbol": "A",
+      "short": "A — 2027 Will Be a Stock-Picker’s Year. These 3 Dividends Are Here for It - Contrarian Outl…",
+      "detail": "A\n重點：新聞\n標題：2027 Will Be a Stock-Picker’s Year. These 3 Dividends Are Here for It - Contrarian Outlook\n摘要：<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9GMjhHcUw4R1dGN2VyaHhNOTUwWmV3WE00VEFsV3V5NFlBaTR3T1pZMG5YY05GMkpkMmEtVUFtZElmbGlqNmRZaktiVGdPcE1VSjJzUjBRVlJhalFzakdReUJGZHJQSGF3M0dpMTF6YTJuUQ?oc=5\" target=\"_blank\">2027 Will Be a Stock-Picker’s Year. These 3 Dividend…\n來源：Google News:A",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GMjhHcUw4R1dGN2VyaHhNOTUwWmV3WE00VEFsV3V5NFlBaTR3T1pZMG5YY05GMkpkMmEtVUFtZElmbGlqNmRZaktiVGdPcE1VSjJzUjBRVlJhalFzakdReUJGZHJQSGF3M0dpMTF6YTJuUQ?oc=5",
+      "source": "Google News:A",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "BILI",
-      "short": "BILI — 業績／指引：What Could Bilibili (NASDAQ:BILI) Ad Momentum Mean for a China Earnings Week Involving …",
-      "detail": "BILI\n重點：業績／指引\n標題：What Could Bilibili (NASDAQ:BILI) Ad Momentum Mean for a China Earnings Week Involving Chagee (NASDAQ:CHA), VNET Group (NASDAQ:VNET) and Li Auto (NASDAQ:LI)? - kalkine.ca\n摘要：<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQaEhEc1pNRFBucW9aYXRBcW5MNlRqcndqTVFBa0xESEZNTzQydUc0QjVmZ1pZUUg0dTRzSnQ0akMxZ0hVMnFUNWUzWUdZUGxZMEpYdG16MU1JRVpZcmFHakJycmVDZ1pOWWVtY3hnMmR1UGt1TmdncWsxdnBfeURjdWZLYUx4NkRNc3l2OG1hOV9uNDhDV2FKUUZrem1SQTdXYmZzZkRSSjhJM…\n來源：Google News:BILI\n其他：Can Advertising Growth of 28% at Bilibili (NASDAQ:BILI) Ste…",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQaEhEc1pNRFBucW9aYXRBcW5MNlRqcndqTVFBa0xESEZNTzQydUc0QjVmZ1pZUUg0dTRzSnQ0akMxZ0hVMnFUNWUzWUdZUGxZMEpYdG16MU1JRVpZcmFHakJycmVDZ1pOWWVtY3hnMmR1UGt1TmdncWsxdnBfeURjdWZLYUx4NkRNc3l2OG1hOV9uNDhDV2FKUUZrem1SQTdXYmZzZkRSSjhJMFpzX2hhTTBKem5pSUVlWmF0WDN1RHVybEFvODlDR19kaHlwRjFtUjFMazJ4VWZickhsdnVWaDVBa1FpVnc0eVpaVHd4aW9vOU9HUHc3UkFyR3k5bDhpS3Yyb1hDeEJvWTNJ?oc=5",
-      "source": "Google News:BILI",
+      "symbol": "ALSN",
+      "short": "ALSN — Allison Transmission Holdings, Inc. $ALSN Shares Sold by First Trust Advisors LP - Mark…",
+      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission Holdings, Inc. $ALSN Shares Sold by First Trust Advisors LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbHN4aFEwQl9KQWFSNUk2WUgycHRNN0VMNHI0Y2RCUXIzUHVJN054NE1IdEFDcV9sdTdmUnRIZ1dIckxvckh1VUo5VWhpSmc0NXdza2daVEZXcy1MME5hOTd6MExGQVljZUNOUVMyQ1pOT19PM2dTWjBxd2pLOS1uaXdOMVVRaWRnX2xMVnpBUEx2QjdFWklNQVFEWWJqbTRnSTcyeS1ONmRUb…\n來源：Google News:ALSN",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbHN4aFEwQl9KQWFSNUk2WUgycHRNN0VMNHI0Y2RCUXIzUHVJN054NE1IdEFDcV9sdTdmUnRIZ1dIckxvckh1VUo5VWhpSmc0NXdza2daVEZXcy1MME5hOTd6MExGQVljZUNOUVMyQ1pOT19PM2dTWjBxd2pLOS1uaXdOMVVRaWRnX2xMVnpBUEx2QjdFWklNQVFEWWJqbTRnSTcyeS1ONmRUbml2V1VjcF81YWpuNEFacTNhNnBwWVoyVzQzR2xnZHYxaVF4LUNEbXFzcw?oc=5",
+      "source": "Google News:ALSN",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "NTNX",
-      "short": "NTNX — 業績／指引：How Do Analog Devices (NASDAQ:ADI), Workday (NASDAQ:WDAY), HP Inc. (NYSE:HPQ) Plus Nuta…",
-      "detail": "NTNX\n重點：業績／指引\n標題：How Do Analog Devices (NASDAQ:ADI), Workday (NASDAQ:WDAY), HP Inc. (NYSE:HPQ) Plus Nutanix (NASDAQ:NTNX) Compare on Tuesday's Earnings Calendar? - kalkine.ca\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUDdEdkpqRXlQVnVPWV8zdFpQeWZVZk1vVllKNFBWM0xOeHFrNFFTMUY0MmV5UFJRNUZqWDRMdHdQQXlSVUU0V2N5SGI0VGR4ZC02M0dVV3dGeFVmZ1g5X2VTc0JlNjNNSGN3SDVxbDRhMWxuU3pMcGVVN3lRTWhHSHNBSk5hbU1RckprZkMxSnU0Vk04eXVyZFFWdTYyRU9zcnJ5QmZGZkdGa…\n來源：Google News:NTNX\n其他：Can Nutanix (NASDAQ:NTNX) Beat Its USD 755 Million to USD 7…",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUDdEdkpqRXlQVnVPWV8zdFpQeWZVZk1vVllKNFBWM0xOeHFrNFFTMUY0MmV5UFJRNUZqWDRMdHdQQXlSVUU0V2N5SGI0VGR4ZC02M0dVV3dGeFVmZ1g5X2VTc0JlNjNNSGN3SDVxbDRhMWxuU3pMcGVVN3lRTWhHSHNBSk5hbU1RckprZkMxSnU0Vk04eXVyZFFWdTYyRU9zcnJ5QmZGZkdGanBTZjI4T2c4cFBqRE9CeTRwS1EzNmpxemxFQUFBTTlVbWJId0wtV0lwa081UFFxZzFHLTNOejRGa0t0RmhHejJ1ajd4MmxlSWtT?oc=5",
-      "source": "Google News:NTNX",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "A",
-      "short": "A — AI相關：Jensen Huang's return to Nvidia: Long or short accountability?",
-      "detail": "A\n重點：AI相關\n標題：Jensen Huang's return to Nvidia: Long or short accountability?\n摘要：Market Hang tackles the top stories of the day. Including Nvidia's board unanimously reinstating Jensen Huang as CEO and what the White House's involvement says about accountability in corporate America, whether the government has effectively put a floor under the AI trade, and …\n來源：Yahoo Finance:FDX",
-      "url": "https://finance.yahoo.com/video/jensen-huangs-return-to-nvidia-long-or-short-accountability-185949254.html?.tsrc=rss",
-      "source": "Yahoo Finance:FDX",
-      "kind": "news"
-    },
-    {
-      "n": 5,
       "symbol": "CRM",
-      "short": "CRM — TD Cowen Has Lowered Expectations for Salesforce (NYSE:CRM) Stock Price - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：TD Cowen Has Lowered Expectations for Salesforce (NYSE:CRM) Stock Price - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXZKR1c2TmhKOFhVcTdqZmtMekxDUElHQlcwVklwZ0VhS0tGcE1mSUVJbEEtdTV5cENWdG1jZmNzaG9GaHBXSjdpbDRrdGpHREx4SnUtcEpsRTNUNVRiMkZHVXp3aWZBdXNqd1lxQmZialM3Xy14NGtEUC1IbFc1YUo5eXhxUlJlZHJPY0t3OUtySHpVMVZSVzd3MU8xdHU3WEM2MlFjWFdBM…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXZKR1c2TmhKOFhVcTdqZmtMekxDUElHQlcwVklwZ0VhS0tGcE1mSUVJbEEtdTV5cENWdG1jZmNzaG9GaHBXSjdpbDRrdGpHREx4SnUtcEpsRTNUNVRiMkZHVXp3aWZBdXNqd1lxQmZialM3Xy14NGtEUC1IbFc1YUo5eXhxUlJlZHJPY0t3OUtySHpVMVZSVzd3MU8xdHU3WEM2MlFjWFdBMFhZWVptOVQtTVhLcDdlWGJSZ3pLVmM3ZnRnZk1OeUdLRQ?oc=5",
+      "short": "CRM — Salesforce Inc. $CRM Shares Sold by Bleakley Financial Group LLC - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Shares Sold by Bleakley Financial Group LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR1VQOG9OOUxuYVU3MFdqUERhcVd4MEFEYTFsX0VCcXpubGRENDZScDBfeEV1U2FDRTRKZ3MwcUZNVDJwbUo2dndOM3hYUS1rdG4zX1hxZ2pxOVBMQ3Q4cU1fMHRtZk9oV2ROTHBnQWMwdklEeGdYc3RKLXNyelZfd1l2X1ZGZHRJZmg4Wll1cDNUN284YTlVMlF4QjZ2NkYxTklUYkg2ZTc3Z…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR1VQOG9OOUxuYVU3MFdqUERhcVd4MEFEYTFsX0VCcXpubGRENDZScDBfeEV1U2FDRTRKZ3MwcUZNVDJwbUo2dndOM3hYUS1rdG4zX1hxZ2pxOVBMQ3Q4cU1fMHRtZk9oV2ROTHBnQWMwdklEeGdYc3RKLXNyelZfd1l2X1ZGZHRJZmg4Wll1cDNUN284YTlVMlF4QjZ2NkYxTklUYkg2ZTc3Z0hMdkJOM0JOcHZYMGdoRXFGMmxyMFI?oc=5",
       "source": "Google News:CRM",
       "kind": "news"
     },
     {
-      "n": 6,
-      "symbol": "HP",
-      "short": "HP — 業績／指引：How Do Analog Devices (NASDAQ:ADI), Workday (NASDAQ:WDAY), HP Inc. (NYSE:HPQ) Plus Nuta…",
-      "detail": "HP\n重點：業績／指引\n標題：How Do Analog Devices (NASDAQ:ADI), Workday (NASDAQ:WDAY), HP Inc. (NYSE:HPQ) Plus Nutanix (NASDAQ:NTNX) Compare on Tuesday's Earnings Calendar? - kalkine.ca\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUDdEdkpqRXlQVnVPWV8zdFpQeWZVZk1vVllKNFBWM0xOeHFrNFFTMUY0MmV5UFJRNUZqWDRMdHdQQXlSVUU0V2N5SGI0VGR4ZC02M0dVV3dGeFVmZ1g5X2VTc0JlNjNNSGN3SDVxbDRhMWxuU3pMcGVVN3lRTWhHSHNBSk5hbU1RckprZkMxSnU0Vk04eXVyZFFWdTYyRU9zcnJ5QmZGZkdGa…\n來源：Google News:NTNX",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUDdEdkpqRXlQVnVPWV8zdFpQeWZVZk1vVllKNFBWM0xOeHFrNFFTMUY0MmV5UFJRNUZqWDRMdHdQQXlSVUU0V2N5SGI0VGR4ZC02M0dVV3dGeFVmZ1g5X2VTc0JlNjNNSGN3SDVxbDRhMWxuU3pMcGVVN3lRTWhHSHNBSk5hbU1RckprZkMxSnU0Vk04eXVyZFFWdTYyRU9zcnJ5QmZGZkdGanBTZjI4T2c4cFBqRE9CeTRwS1EzNmpxemxFQUFBTTlVbWJId0wtV0lwa081UFFxZzFHLTNOejRGa0t0RmhHejJ1ajd4MmxlSWtT?oc=5",
-      "source": "Google News:NTNX",
+      "n": 4,
+      "symbol": "MDT",
+      "short": "MDT — Medtronic (NYSE:MDT) Stock Lifted to Buy by Wall Street Zen - MarketBeat",
+      "detail": "MDT\n重點：新聞\n標題：Medtronic (NYSE:MDT) Stock Lifted to Buy by Wall Street Zen - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMzRsQ256Skt4ZFpqUVNTaE9oUWJXNXZYS1o3NGhhdDFjSU03dVV5dFZoMERTNTBzVmEwd2l6YXlMWkZScEo5UVBWQnR2aW0yVGtTdGRlbFVvTXFlWkU1RmJ0Q0xhVUpxRTR0NVNSaUtCLThhZEYwd3Zua0NMb2VNNlNES2NvdDRFR3d4WG9YQWwzTmhOY09CZC14T1FxeUNzT1UxTDVTUzEyY…\n來源：Google News:MDT",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMzRsQ256Skt4ZFpqUVNTaE9oUWJXNXZYS1o3NGhhdDFjSU03dVV5dFZoMERTNTBzVmEwd2l6YXlMWkZScEo5UVBWQnR2aW0yVGtTdGRlbFVvTXFlWkU1RmJ0Q0xhVUpxRTR0NVNSaUtCLThhZEYwd3Zua0NMb2VNNlNES2NvdDRFR3d4WG9YQWwzTmhOY09CZC14T1FxeUNzT1UxTDVTUzEyYmY1Nl8xT1lUeFpVWFZ5SE5z?oc=5",
+      "source": "Google News:MDT",
       "kind": "news"
     },
     {
-      "n": 7,
-      "symbol": "KSS",
-      "short": "KSS — Kohl's (NYSE:KSS) Stock Price Down 4.6% - What's Next? - MarketBeat",
-      "detail": "KSS\n重點：新聞\n標題：Kohl's (NYSE:KSS) Stock Price Down 4.6% - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSmtWSEJVazJFdU84U1d4eGhzc2pNVWI2eTdTQ2tDTzYxa2NQOUk5NGpXdl9meVAyd091VlFPUkVDUlRiRkVBTGNNeFFpUTY2WnBoNjJqd0MxRDJpMXlicmw5eXI3VmNxeTdHVjl3NmhMYWhsalRONmc2LVV5Vi13ZFluWUdwYS1mVWhNRV9OandCa1h4RWhmWkRyaUZtaVJydnlKTmc5WUY?o…\n來源：Google News:KSS",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSmtWSEJVazJFdU84U1d4eGhzc2pNVWI2eTdTQ2tDTzYxa2NQOUk5NGpXdl9meVAyd091VlFPUkVDUlRiRkVBTGNNeFFpUTY2WnBoNjJqd0MxRDJpMXlicmw5eXI3VmNxeTdHVjl3NmhMYWhsalRONmc2LVV5Vi13ZFluWUdwYS1mVWhNRV9OandCa1h4RWhmWkRyaUZtaVJydnlKTmc5WUY?oc=5",
-      "source": "Google News:KSS",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "LULU",
-      "short": "LULU — McDonald's (NYSE: MCD) Offers Dividend Strength Over Lululemon's (NASDAQ: LULU) Cheap V…",
-      "detail": "LULU\n重點：新聞\n標題：McDonald's (NYSE: MCD) Offers Dividend Strength Over Lululemon's (NASDAQ: LULU) Cheap Valuation Heading Into 2027 - Foreign Policy Journal\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQW9jLXU4MWJHSGdHSmwza0s5Y3hEMnE2MEhqcFZvcW1XMy1nYlNoZ1dnUmx1NVlYQWNzNVJ2a3cwcllFcHZnNUYwMUM3WVVEek1rbnlzbkNvbFY4cGdPNEkwZEctYm1aTm9XYjdXVmhDb0w2Q3E0S2tBb0NJdkRCc0lFdXhRR3JmdENYYVNQcnVmdjRqWjJQU284b1NRQTRHME82SVBJU1dsV…\n來源：Google News:LULU",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQW9jLXU4MWJHSGdHSmwza0s5Y3hEMnE2MEhqcFZvcW1XMy1nYlNoZ1dnUmx1NVlYQWNzNVJ2a3cwcllFcHZnNUYwMUM3WVVEek1rbnlzbkNvbFY4cGdPNEkwZEctYm1aTm9XYjdXVmhDb0w2Q3E0S2tBb0NJdkRCc0lFdXhRR3JmdENYYVNQcnVmdjRqWjJQU284b1NRQTRHME82SVBJU1dsV0xqQ19XN1E2VUdoMzJ4WDBxWWM3U044TDhMOGRnSG1KTVpFbEszRVAtaVFtb3hRaFI4WFQzUkhjMC1TaUV5aGc?oc=5",
-      "source": "Google News:LULU",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "MRK",
-      "short": "MRK — AI相關：Merck (MRK) Ties New AI Oncology Discovery Deal To Future Pipeline Growth",
-      "detail": "MRK\n重點：AI相關\n標題：Merck (MRK) Ties New AI Oncology Discovery Deal To Future Pipeline Growth\n摘要：Merck (NYSE:MRK) agreed a new oncology drug discovery collaboration with Isomorphic Labs that centers on advanced AI driven molecule design. The partnership combines Merck's internal oncology data with Isomorphic Labs' computational models to identify and optimize new cancer dru…\n來源：Yahoo Finance:MRK",
-      "url": "https://finance.yahoo.com/healthcare/articles/merck-mrk-ties-ai-oncology-161156740.html?.tsrc=rss",
-      "source": "Yahoo Finance:MRK",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "TTE",
-      "short": "TTE — TotalEnergies (ENXTPA:TTE) Expands Its U.S. Natural Gas Footprint",
-      "detail": "TTE\n重點：新聞\n標題：TotalEnergies (ENXTPA:TTE) Expands Its U.S. Natural Gas Footprint\n摘要：TotalEnergies (ENXTPA:TTE) agreed a new U.S. natural gas deal with Continental Resources, expanding its onshore gas footprint. The partnership targets low-cost, low-emission gas output connected to TotalEnergies’ liquefied natural gas supply chain. The arrangement consolidates e…\n來源：Yahoo Finance:TTE",
-      "url": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-expands-u-181154956.html?.tsrc=rss",
-      "source": "Yahoo Finance:TTE",
+      "n": 5,
+      "symbol": "TGT",
+      "short": "TGT — Target Corporation $TGT Shares Purchased by Healthcare of Ontario Pension Plan Trust Fu…",
+      "detail": "TGT\n重點：新聞\n標題：Target Corporation $TGT Shares Purchased by Healthcare of Ontario Pension Plan Trust Fund - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcW9aUnlFb3JSaFNmbkVfQkFqRTNPQm9YTzZIYmlzQl9wZWt1NFNtX1A5MVM5STRkQ0QyY3Znd2Z6bTh3aFVjTEIxMTdsVl91bHZ2XzJQTENiZGFjTU1nOVdhcUlwWHhuXzVJcnlTR1lPR3REV2o4YVQ2UGhRRHA0NGtmcFYwU3BXLVE2ek50NFMyVnk0OGNkekxEN3hYTU9qQ1ByeHJiWVplV…\n來源：Google News:TGT",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcW9aUnlFb3JSaFNmbkVfQkFqRTNPQm9YTzZIYmlzQl9wZWt1NFNtX1A5MVM5STRkQ0QyY3Znd2Z6bTh3aFVjTEIxMTdsVl91bHZ2XzJQTENiZGFjTU1nOVdhcUlwWHhuXzVJcnlTR1lPR3REV2o4YVQ2UGhRRHA0NGtmcFYwU3BXLVE2ek50NFMyVnk0OGNkekxEN3hYTU9qQ1ByeHJiWVplVk1ydFp5NEpHa09zUjREalFBSUpuMXFTWktlMHV4d2lfZjRNdG1rTGNfSkEwYlZmdFdLaXEtdlJXSQ?oc=5",
+      "source": "Google News:TGT",
       "kind": "news"
     }
   ]
