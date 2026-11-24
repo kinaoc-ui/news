@@ -1,20 +1,65 @@
 {
-  "title": "FS新聞 11-24 10:09",
-  "list_name": "FirstScreen_2026-11-24_100943_comma.txt",
-  "created_at": "2026-11-24T10:09:51.252248+00:00",
+  "title": "FS新聞 11-24 15:29",
+  "list_name": "FirstScreen_2026-11-24_152948_comma.txt",
+  "created_at": "2026-11-24T15:29:56.506724+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "A",
-      "short": "A — 2027 Will Be a Stock-Picker’s Year. These 3 Dividends Are Here for It - Contrarian Outl…",
-      "detail": "A\n重點：新聞\n標題：2027 Will Be a Stock-Picker’s Year. These 3 Dividends Are Here for It - Contrarian Outlook\n摘要：<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9GMjhHcUw4R1dGN2VyaHhNOTUwWmV3WE00VEFsV3V5NFlBaTR3T1pZMG5YY05GMkpkMmEtVUFtZElmbGlqNmRZaktiVGdPcE1VSjJzUjBRVlJhalFzakdReUJGZHJQSGF3M0dpMTF6YTJuUQ?oc=5\" target=\"_blank\">2027 Will Be a Stock-Picker’s Year. These 3 Dividend…\n來源：Google News:A",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GMjhHcUw4R1dGN2VyaHhNOTUwWmV3WE00VEFsV3V5NFlBaTR3T1pZMG5YY05GMkpkMmEtVUFtZElmbGlqNmRZaktiVGdPcE1VSjJzUjBRVlJhalFzakdReUJGZHJQSGF3M0dpMTF6YTJuUQ?oc=5",
-      "source": "Google News:A",
+      "symbol": "MDT",
+      "short": "MDT — 業績／指引：Medtronic Reports Mixed Second-Quarter Results and Maintains Fiscal 2027 Guidance",
+      "detail": "MDT\n重點：業績／指引\n標題：Medtronic Reports Mixed Second-Quarter Results and Maintains Fiscal 2027 Guidance\n摘要：Medtronic (NYSE:MDT) reported second-quarter adjusted earnings slightly above analyst expectations on Tuesday, supported by continued growth in its cardiovascular business, although overall revenue fell short of consensus estimates. Shares in the Ireland-based medical technology…\n來源：Yahoo Finance:MDT\n其他：MDT Q2 Earnings Meet Estimates, Revenues Miss, Stock Down; Medtronic (MDT) Q2 Earnings: Taking a Look at Key Metrics V…; Medtronic (MDT) Nears Q2 Results After Hugo Clearance, Is I…",
+      "url": "https://investorshub.advfn.com/market-news/article/40639/medtronic-reports-mixed-second-quarter-results-and-maintains-fiscal-2027-guidance?.tsrc=rss",
+      "source": "Yahoo Finance:MDT",
       "kind": "news"
     },
     {
       "n": 2,
+      "symbol": "KSS",
+      "short": "KSS — 業績／指引：Why Is Kohl’s Stock Rising 7.7% Today?",
+      "detail": "KSS\n重點：業績／指引\n標題：Why Is Kohl’s Stock Rising 7.7% Today?\n摘要：Kohl’s (NYSE:KSS) shares rose 7. 7% in premarket trading on Tuesday after the department store chain reported third-quarter fiscal 2026 earnings and revenue above analyst expectations and raised its full-year financial outlook.\n來源：Yahoo Finance:KSS\n其他：Kohl's (NYSE:KSS) Releases Q4 2026 Earnings Guidance - Mark…; Kohl's (KSS) Tops Q3 Earnings and Revenue Estimates",
+      "url": "https://investorshub.advfn.com/market-news/article/40629/why-is-kohls-stock-rising-7-7-today?.tsrc=rss",
+      "source": "Yahoo Finance:KSS",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "TGT",
+      "short": "TGT — Why Is Target (TGT) Adding Sally Grimes To Its Board Now?",
+      "detail": "TGT\n重點：新聞\n標題：Why Is Target (TGT) Adding Sally Grimes To Its Board Now?\n摘要：Target (NYSE:TGT) appointed Sally Grimes as a new independent director to its Board. Grimes previously served as CEO of Diageo North America and has held senior roles at Clif Bar and Tyson Foods. The retailer highlighted her consumer brand and business transformation background …\n來源：Yahoo Finance:TGT\n其他：Target (TGT) Earnings Beat Puts Its Valuation Back In Focus; Target's Comeback Is On Track (Rating Upgrade) (NYSE:TGT) -…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-target-tgt-adding-sally-141053092.html?.tsrc=rss",
+      "source": "Yahoo Finance:TGT",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "A",
+      "short": "A — 業績／指引：Agilent (A) Q4 2026 Earnings Call Transcript",
+      "detail": "A\n重點：業績／指引\n標題：Agilent (A) Q4 2026 Earnings Call Transcript\n摘要：Quarterly revenue topped $2 billion for the first time, with pharma and China leading the gains.\n來源：Yahoo Finance:A\n其他：2027 Will Be a Stock-Picker’s Year. These 3 Dividends Are H…",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/24/agilent-a-q4-2026-earnings-call-transcript/?.tsrc=rss",
+      "source": "Yahoo Finance:A",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "BILI",
+      "short": "BILI — 業績／指引：Why Is Bilibili Stock Rising 2.9% Today?",
+      "detail": "BILI\n重點：業績／指引\n標題：Why Is Bilibili Stock Rising 2.9% Today?\n摘要：Bilibili (NASDAQ:BILI) shares rose 2. 9% in premarket trading on Tuesday after the Chinese video-sharing platform reported third-quarter earnings and revenue above Wall Street expectations, alongside continued growth in its active user base and advertising business.\n來源：Yahoo Finance:BILI\n其他：Bilibili (BILI) Q3 Earnings and Revenues Surpass Estimates",
+      "url": "https://investorshub.advfn.com/market-news/article/40595/why-is-bilibili-stock-rising-2-9-today?.tsrc=rss",
+      "source": "Yahoo Finance:BILI",
+      "kind": "news"
+    },
+    {
+      "n": 6,
+      "symbol": "HP",
+      "short": "HP — 業績／指引：How to Earn $500 a Month From HP Stock Ahead of Q4 Earnings - Benzinga",
+      "detail": "HP\n重點：業績／指引\n標題：How to Earn $500 a Month From HP Stock Ahead of Q4 Earnings - Benzinga\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTXRidk1HNEhpS1dRaTZLSWZjbklxTFZBMFdjNXI2cUFFOFNLMlloTmlrMUFoY1F6cVBHWmtZd2lkek04dWpZZTQ0T2ZTRXBZbjQyeG4xMkdSOGMyY0ZReTJPUGwyVUUzVFJ4aUZGRU9RLXJRd19KUHpRajBpSFRVU2xoUEtoR25lUHFzcFNwSVZIM3lTMFJEdC12eVFvd1A0ZHpCUHVHQ3kxd…\n來源：Google News:HP\n其他：Helmerich & Payne (NYSE:HP) Stock Price Expected to Rise, M…",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTXRidk1HNEhpS1dRaTZLSWZjbklxTFZBMFdjNXI2cUFFOFNLMlloTmlrMUFoY1F6cVBHWmtZd2lkek04dWpZZTQ0T2ZTRXBZbjQyeG4xMkdSOGMyY0ZReTJPUGwyVUUzVFJ4aUZGRU9RLXJRd19KUHpRajBpSFRVU2xoUEtoR25lUHFzcFNwSVZIM3lTMFJEdC12eVFvd1A0ZHpCUHVHQ3kxdEFmZ3ZNTUpVNmV3bjhiVlJuYjgzZEJOZw?oc=5",
+      "source": "Google News:HP",
+      "kind": "news"
+    },
+    {
+      "n": 7,
       "symbol": "ALSN",
       "short": "ALSN — Allison Transmission Holdings, Inc. $ALSN Shares Sold by First Trust Advisors LP - Mark…",
       "detail": "ALSN\n重點：新聞\n標題：Allison Transmission Holdings, Inc. $ALSN Shares Sold by First Trust Advisors LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbHN4aFEwQl9KQWFSNUk2WUgycHRNN0VMNHI0Y2RCUXIzUHVJN054NE1IdEFDcV9sdTdmUnRIZ1dIckxvckh1VUo5VWhpSmc0NXdza2daVEZXcy1MME5hOTd6MExGQVljZUNOUVMyQ1pOT19PM2dTWjBxd2pLOS1uaXdOMVVRaWRnX2xMVnpBUEx2QjdFWklNQVFEWWJqbTRnSTcyeS1ONmRUb…\n來源：Google News:ALSN",
@@ -23,30 +68,48 @@
       "kind": "news"
     },
     {
-      "n": 3,
+      "n": 8,
+      "symbol": "ANET",
+      "short": "ANET — AI相關：Is Arista Networks (NYSE:ANET) Well Placed For AI Demand? - Kalkine Media",
+      "detail": "ANET\n重點：AI相關\n標題：Is Arista Networks (NYSE:ANET) Well Placed For AI Demand? - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzJ2VzRpS05GWVJpNWxENmh3eUtxbkFrX2JJVmJKS0EwVFpiYzlPVENvQXR6Y3BiS0pudjhsZ0RYR1J6blFERGdMdlltdElwYlhEM0o3UExVMGt0ODFabERmU2NiemdQX3hJU3F2ZmpOaDJBUFVQYUpGeWdzenN1RXBscE9SQzBESnVCSXRWMS0wT2tqOUo1VmVnTVZnbXNNVnBQTzhKdnJzZ…\n來源：Google News:ANET",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzJ2VzRpS05GWVJpNWxENmh3eUtxbkFrX2JJVmJKS0EwVFpiYzlPVENvQXR6Y3BiS0pudjhsZ0RYR1J6blFERGdMdlltdElwYlhEM0o3UExVMGt0ODFabERmU2NiemdQX3hJU3F2ZmpOaDJBUFVQYUpGeWdzenN1RXBscE9SQzBESnVCSXRWMS0wT2tqOUo1VmVnTVZnbXNNVnBQTzhKdnJzZko4R3BTQ1ln?oc=5",
+      "source": "Google News:ANET",
+      "kind": "news"
+    },
+    {
+      "n": 9,
+      "symbol": "BKNG",
+      "short": "BKNG — Booking (NASDAQ:BKNG) Stock Keeps \"Buy\" Rating at BTIG Research - MarketBeat",
+      "detail": "BKNG\n重點：新聞\n標題：Booking (NASDAQ:BKNG) Stock Keeps \"Buy\" Rating at BTIG Research - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQczE3UG94ZGUtcjdGOEVqemQ0RDVZLUF0R29HV3NnNGt5Zmk5UW5YbWZ6WmtfLVZuTHk1eE05V0FwNmYxR2hhMVFXVXdvelFicHZTdVVCc09YMHFYWXFxZm4tQ1NWSTA3bGtPZmQyYkZ2NGhwWkJzMUFIekdmNDZlTnJ5NzJ5NXpxSDBKZmJzTDE2U2NjVklNU3E1a1E0OWxEeVI5LW83UEp6d…\n來源：Google News:BKNG",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQczE3UG94ZGUtcjdGOEVqemQ0RDVZLUF0R29HV3NnNGt5Zmk5UW5YbWZ6WmtfLVZuTHk1eE05V0FwNmYxR2hhMVFXVXdvelFicHZTdVVCc09YMHFYWXFxZm4tQ1NWSTA3bGtPZmQyYkZ2NGhwWkJzMUFIekdmNDZlTnJ5NzJ5NXpxSDBKZmJzTDE2U2NjVklNU3E1a1E0OWxEeVI5LW83UEp6dTUxWnJ0NWdYWmtnRXpjMHlUY053?oc=5",
+      "source": "Google News:BKNG",
+      "kind": "news"
+    },
+    {
+      "n": 10,
       "symbol": "CRM",
-      "short": "CRM — Salesforce Inc. $CRM Shares Sold by Bleakley Financial Group LLC - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Shares Sold by Bleakley Financial Group LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR1VQOG9OOUxuYVU3MFdqUERhcVd4MEFEYTFsX0VCcXpubGRENDZScDBfeEV1U2FDRTRKZ3MwcUZNVDJwbUo2dndOM3hYUS1rdG4zX1hxZ2pxOVBMQ3Q4cU1fMHRtZk9oV2ROTHBnQWMwdklEeGdYc3RKLXNyelZfd1l2X1ZGZHRJZmg4Wll1cDNUN284YTlVMlF4QjZ2NkYxTklUYkg2ZTc3Z…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR1VQOG9OOUxuYVU3MFdqUERhcVd4MEFEYTFsX0VCcXpubGRENDZScDBfeEV1U2FDRTRKZ3MwcUZNVDJwbUo2dndOM3hYUS1rdG4zX1hxZ2pxOVBMQ3Q4cU1fMHRtZk9oV2ROTHBnQWMwdklEeGdYc3RKLXNyelZfd1l2X1ZGZHRJZmg4Wll1cDNUN284YTlVMlF4QjZ2NkYxTklUYkg2ZTc3Z0hMdkJOM0JOcHZYMGdoRXFGMmxyMFI?oc=5",
+      "short": "CRM — Salesforce Inc. $CRM Stock: State Board of Administration of Florida Retirement System …",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce Inc. $CRM Stock: State Board of Administration of Florida Retirement System Grows Position - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNnVwTkpVSnRvYWJfSXVGQXNfV2xoMUZPaUNoRjljZ3d2dzJxUnBsS0ZUcUR2TVNLSFhJMHByNmluOE5RYzYxVHpZVWtyb1dGbFFEYnNUVXNxd2dibWJuMHRFdXZBVlliZlBsRXB1MFNVSDUxaGd3akpkbUZ5dGZoWkQwMW83ZkFYeE1IeW95dW1MTjZvRU0tNG1jVFhlbThnNDdnaUMyQUFKZ…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNnVwTkpVSnRvYWJfSXVGQXNfV2xoMUZPaUNoRjljZ3d2dzJxUnBsS0ZUcUR2TVNLSFhJMHByNmluOE5RYzYxVHpZVWtyb1dGbFFEYnNUVXNxd2dibWJuMHRFdXZBVlliZlBsRXB1MFNVSDUxaGd3akpkbUZ5dGZoWkQwMW83ZkFYeE1IeW95dW1MTjZvRU0tNG1jVFhlbThnNDdnaUMyQUFKZUdTRS1pY1N2VzRYc3VlNEFfbjNZdW9fd21zZks4dVhmclRWVHZ3NGdIaGM2U3lNSE1GU1JLRTZXdW16WnJJYmxveFhidTg?oc=5",
       "source": "Google News:CRM",
       "kind": "news"
     },
     {
-      "n": 4,
-      "symbol": "MDT",
-      "short": "MDT — Medtronic (NYSE:MDT) Stock Lifted to Buy by Wall Street Zen - MarketBeat",
-      "detail": "MDT\n重點：新聞\n標題：Medtronic (NYSE:MDT) Stock Lifted to Buy by Wall Street Zen - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMzRsQ256Skt4ZFpqUVNTaE9oUWJXNXZYS1o3NGhhdDFjSU03dVV5dFZoMERTNTBzVmEwd2l6YXlMWkZScEo5UVBWQnR2aW0yVGtTdGRlbFVvTXFlWkU1RmJ0Q0xhVUpxRTR0NVNSaUtCLThhZEYwd3Zua0NMb2VNNlNES2NvdDRFR3d4WG9YQWwzTmhOY09CZC14T1FxeUNzT1UxTDVTUzEyY…\n來源：Google News:MDT",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMzRsQ256Skt4ZFpqUVNTaE9oUWJXNXZYS1o3NGhhdDFjSU03dVV5dFZoMERTNTBzVmEwd2l6YXlMWkZScEo5UVBWQnR2aW0yVGtTdGRlbFVvTXFlWkU1RmJ0Q0xhVUpxRTR0NVNSaUtCLThhZEYwd3Zua0NMb2VNNlNES2NvdDRFR3d4WG9YQWwzTmhOY09CZC14T1FxeUNzT1UxTDVTUzEyYmY1Nl8xT1lUeFpVWFZ5SE5z?oc=5",
-      "source": "Google News:MDT",
+      "n": 11,
+      "symbol": "EL",
+      "short": "EL — The Estee Lauder Companies Inc. $EL Shares Sold by State Street Corp - MarketBeat",
+      "detail": "EL\n重點：新聞\n標題：The Estee Lauder Companies Inc. $EL Shares Sold by State Street Corp - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQeGNjYW1GeFFsMHVQT25qMFhDd0o3UFlfT2d1UjliSUJ1a0ZwTm9fSktJZU9qRlpUVG00d3VlQmhqNGYyWlRVTTJIYlkyYV9QMDVWam9zdHB4ckJqdmhmMlhDekNoNzNYaDJwNTF2MXhTN0hGbGphU0dDUlMwOHRjVm90Tlc5TEJOd1J1MGMwbnRhdlVrLVUwQUFOLUkzNm9qdlpoQ1ZwVVZad…\n來源：Google News:EL",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeGNjYW1GeFFsMHVQT25qMFhDd0o3UFlfT2d1UjliSUJ1a0ZwTm9fSktJZU9qRlpUVG00d3VlQmhqNGYyWlRVTTJIYlkyYV9QMDVWam9zdHB4ckJqdmhmMlhDekNoNzNYaDJwNTF2MXhTN0hGbGphU0dDUlMwOHRjVm90Tlc5TEJOd1J1MGMwbnRhdlVrLVUwQUFOLUkzNm9qdlpoQ1ZwVVZad0ZkaEtwanlrSlJQOC0tazhRSVM3MXdKUVdSelE?oc=5",
+      "source": "Google News:EL",
       "kind": "news"
     },
     {
-      "n": 5,
-      "symbol": "TGT",
-      "short": "TGT — Target Corporation $TGT Shares Purchased by Healthcare of Ontario Pension Plan Trust Fu…",
-      "detail": "TGT\n重點：新聞\n標題：Target Corporation $TGT Shares Purchased by Healthcare of Ontario Pension Plan Trust Fund - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcW9aUnlFb3JSaFNmbkVfQkFqRTNPQm9YTzZIYmlzQl9wZWt1NFNtX1A5MVM5STRkQ0QyY3Znd2Z6bTh3aFVjTEIxMTdsVl91bHZ2XzJQTENiZGFjTU1nOVdhcUlwWHhuXzVJcnlTR1lPR3REV2o4YVQ2UGhRRHA0NGtmcFYwU3BXLVE2ek50NFMyVnk0OGNkekxEN3hYTU9qQ1ByeHJiWVplV…\n來源：Google News:TGT",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcW9aUnlFb3JSaFNmbkVfQkFqRTNPQm9YTzZIYmlzQl9wZWt1NFNtX1A5MVM5STRkQ0QyY3Znd2Z6bTh3aFVjTEIxMTdsVl91bHZ2XzJQTENiZGFjTU1nOVdhcUlwWHhuXzVJcnlTR1lPR3REV2o4YVQ2UGhRRHA0NGtmcFYwU3BXLVE2ek50NFMyVnk0OGNkekxEN3hYTU9qQ1ByeHJiWVplVk1ydFp5NEpHa09zUjREalFBSUpuMXFTWktlMHV4d2lfZjRNdG1rTGNfSkEwYlZmdFdLaXEtdlJXSQ?oc=5",
-      "source": "Google News:TGT",
+      "n": 12,
+      "symbol": "GPC",
+      "short": "GPC — Genuine Parts Company $GPC Stock Position Reduced by State Street Corp - MarketBeat",
+      "detail": "GPC\n重點：新聞\n標題：Genuine Parts Company $GPC Stock Position Reduced by State Street Corp - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzU0SjROTFhYbk85cUNaRm1lc21lRmlvYW5CQjRzalIydzVDazk1cHAxY09lWkwzemJqUHliXy1OeTFQQ0k4dmhwRktvdnRtVlhtSE4tMWV6S3FUUUxHNktuYkJjNU5WV3N2dHllbDdLQjM1cGpSS2RfREhMMnNTNU5vUVlPYkV5ZVlxdzRiM2FkaTlhaXNGVlppT2xNZHVRUHRfN2RnLTZhN…\n來源：Google News:GPC",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzU0SjROTFhYbk85cUNaRm1lc21lRmlvYW5CQjRzalIydzVDazk1cHAxY09lWkwzemJqUHliXy1OeTFQQ0k4dmhwRktvdnRtVlhtSE4tMWV6S3FUUUxHNktuYkJjNU5WV3N2dHllbDdLQjM1cGpSS2RfREhMMnNTNU5vUVlPYkV5ZVlxdzRiM2FkaTlhaXNGVlppT2xNZHVRUHRfN2RnLTZhNVRaSC1ZZWxNelNnR1lQazk0Q3ZBTXZWMFJnRG5ndG1n?oc=5",
+      "source": "Google News:GPC",
       "kind": "news"
     }
   ]
