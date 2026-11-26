@@ -1,20 +1,47 @@
 {
-  "title": "FS新聞 11-26 14:42",
-  "list_name": "FirstScreen_2026-11-26_144230_comma.txt",
-  "created_at": "2026-11-26T14:42:36.608337+00:00",
+  "title": "FS新聞 11-26 19:27",
+  "list_name": "FirstScreen_2026-11-26_192730_comma.txt",
+  "created_at": "2026-11-26T19:27:38.173104+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "BNY",
-      "short": "BNY — Bank of New York Mellon Corporation $BNY Stock: Jump Financial LLC Grows Position - Mar…",
-      "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon Corporation $BNY Stock: Jump Financial LLC Grows Position - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdHhmOG1SdnUwQWJQc2pfOEpRWGx4Tno0WE5KdUVZUlplUUNqVzdpcV9qZ0dGSGc1Q1VDVm83SjN3S05HSzg1cjBSMlVuT3JreGtWTGZsTGszdkJDM3AyOS1CMjZCaFl5Q21UT0NnQjlYOEREdmR3T0YtMGYxUG1CN2FSbjdCRWhxYjR5dnpjYzd2Y3hfcXgxQlE2U2tJbUt0akwyVmwzaWJYT…\n來源：Google News:BNY\n其他：How Investors May Respond To BNY Stock After Digital Paymen…; How Investors May Respond To BNY Stock After Digital Paymen…; Bank of New York Mellon Corporation $BNY Stock Sold by Dodg…",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdHhmOG1SdnUwQWJQc2pfOEpRWGx4Tno0WE5KdUVZUlplUUNqVzdpcV9qZ0dGSGc1Q1VDVm83SjN3S05HSzg1cjBSMlVuT3JreGtWTGZsTGszdkJDM3AyOS1CMjZCaFl5Q21UT0NnQjlYOEREdmR3T0YtMGYxUG1CN2FSbjdCRWhxYjR5dnpjYzd2Y3hfcXgxQlE2U2tJbUt0akwyVmwzaWJYTzNLTjlZTnhhbDk1VVdPZzRoRUlDcTNmbERVMTdVVGhWUzZDaGNLRjVLTVBGUQ?oc=5",
-      "source": "Google News:BNY",
+      "symbol": "HCA",
+      "short": "HCA — 業績／指引：Learn Why The Bull Case For HCA Healthcare Stock Could Change Following Broker Downgrade",
+      "detail": "HCA\n重點：業績／指引\n標題：Learn Why The Bull Case For HCA Healthcare Stock Could Change Following Broker Downgrade\n摘要：HCA Healthcare recently topped third quarter 2026 earnings expectations, supported by higher patient admissions, steadier insured revenue per equivalent admission, and disciplined cost control across its hospital and ambulatory footprint. Despite that operational performance, Ar…\n來源：Yahoo Finance:HCA\n其他：Why Is HCA (HCA) Up 6% Since Last Earnings Report?; HCA Healthcare (HCA) Stock Looks Stretched Despite A 45% Fa…; Is HCA Healthcare (HCA) Fairly Valued After The Argus Downg…",
+      "url": "https://finance.yahoo.com/healthcare/articles/learn-why-bull-case-hca-161736704.html?.tsrc=rss",
+      "source": "Yahoo Finance:HCA",
       "kind": "news"
     },
     {
       "n": 2,
+      "symbol": "A",
+      "short": "A — FS KKR Capital (FSK)'s Technical Outlook is Bright After Key Golden Cross",
+      "detail": "A\n重點：新聞\n標題：FS KKR Capital (FSK)'s Technical Outlook is Bright After Key Golden Cross\n摘要：Good things could be on the horizon when a stock experiences a golden cross event. How should investors react?\n來源：Yahoo Finance:FSK\n其他：Allison Transmission (ALSN) Recently Broke Out Above the 20…; Allison Transmission (ALSN) Recently Broke Out Above the 20…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fs-kkr-capital-fsk-technical-135501120.html?.tsrc=rss",
+      "source": "Yahoo Finance:FSK",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "ALSN",
+      "short": "ALSN — Allison Transmission Holdings, Inc. (ALSN) Stock Price, News, Quote & History - Yahoo! …",
+      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission Holdings, Inc. (ALSN) Stock Price, News, Quote & History - Yahoo! Finance Canada\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fNjhFUjk2dU1SWno1OHg4Ny1vTXo5b1ZoVEtrS2VZWGhDZUt1MkRvcVRhMU1vV1o2QXk0Z014TnFzOTZwQXZ5bFJDS0xpeTQzZFE?oc=5\" target=\"_blank\">Allison Transmission Holdings, Inc. (ALSN) Stock Price, News, Quote & History</a>&nbsp;&nbsp;<f…\n來源：Google News:ALSN\n其他：Allison Transmission (ALSN) Recently Broke Out Above the 20…; Allison Transmission (ALSN) Recently Broke Out Above the 20…",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fNjhFUjk2dU1SWno1OHg4Ny1vTXo5b1ZoVEtrS2VZWGhDZUt1MkRvcVRhMU1vV1o2QXk0Z014TnFzOTZwQXZ5bFJDS0xpeTQzZFE?oc=5",
+      "source": "Google News:ALSN",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "HP",
+      "short": "HP — Helmerich & Payne: Standout Land Driller On Sale (Rating Upgrade) (NYSE:HP) - Seeking A…",
+      "detail": "HP\n重點：新聞\n標題：Helmerich & Payne: Standout Land Driller On Sale (Rating Upgrade) (NYSE:HP) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPdVBXaWVJMUlhR2xOWDBjM0ExajVRclIxUUY1TklZQXBSSEF0Ull0ZXRUZTVNb2k0RkV4U2hWcElPOUstR19XYTFQMmhLQ2xwNTZ4M0pVMXllWkFmSUNyNEdHT1JKcnBOR3Fjamhvbk1zQ2J6TGJVV205VnJGOTBfb2RJR2V3bmdwbFU3b2czT2xCY3RB?oc=5\" target=\"_blank\">Helmer…\n來源：Google News:HP\n其他：HP Stock Jumps 11.5% After a Cautious Outlook, With $32.58 …; HP Stock Earnings Beat Has The Bull Case Changed? - Yahoo F…",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdVBXaWVJMUlhR2xOWDBjM0ExajVRclIxUUY1TklZQXBSSEF0Ull0ZXRUZTVNb2k0RkV4U2hWcElPOUstR19XYTFQMmhLQ2xwNTZ4M0pVMXllWkFmSUNyNEdHT1JKcnBOR3Fjamhvbk1zQ2J6TGJVV205VnJGOTBfb2RJR2V3bmdwbFU3b2czT2xCY3RB?oc=5",
+      "source": "Google News:HP",
+      "kind": "news"
+    },
+    {
+      "n": 5,
       "symbol": "CRM",
       "short": "CRM — 業績／指引：Wall Street's Insights Into Key Metrics Ahead of Salesforce (CRM) Q3 Earnings",
       "detail": "CRM\n重點：業績／指引\n標題：Wall Street's Insights Into Key Metrics Ahead of Salesforce (CRM) Q3 Earnings\n摘要：Get a deeper insight into the potential performance of Salesforce (CRM) for the quarter ended October 2026 by going beyond Wall Street's top-and-bottom-line estimates and examining the estimates for some of its key metrics.\n來源：Yahoo Finance:CRM\n其他：Salesforce Inc. $CRM Stock Sold by Tocqueville Asset Manage…",
@@ -23,61 +50,25 @@
       "kind": "news"
     },
     {
-      "n": 3,
-      "symbol": "HCA",
-      "short": "HCA — HCA Healthcare (HCA) Stock Looks Stretched Despite A 45% Fair Value Gap",
-      "detail": "HCA\n重點：新聞\n標題：HCA Healthcare (HCA) Stock Looks Stretched Despite A 45% Fair Value Gap\n摘要：HCA Healthcare has delivered a 5 year share price gain that puts a lot of investor capital on the line at today's US$491.01 level. This raises a simple question for anyone looking at the stock now: do the cash flows that the hospital operator is expected to produce really line u…\n來源：Yahoo Finance:HCA\n其他：Is HCA Healthcare (HCA) Fairly Valued After The Argus Downg…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hca-healthcare-hca-stock-looks-141306974.html?.tsrc=rss",
-      "source": "Yahoo Finance:HCA",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "HP",
-      "short": "HP — Helmerich & Payne: Standout Land Driller On Sale (Rating Upgrade) (NYSE:HP) - Seeking A…",
-      "detail": "HP\n重點：新聞\n標題：Helmerich & Payne: Standout Land Driller On Sale (Rating Upgrade) (NYSE:HP) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPdVBXaWVJMUlhR2xOWDBjM0ExajVRclIxUUY1TklZQXBSSEF0Ull0ZXRUZTVNb2k0RkV4U2hWcElPOUstR19XYTFQMmhLQ2xwNTZ4M0pVMXllWkFmSUNyNEdHT1JKcnBOR3Fjamhvbk1zQ2J6TGJVV205VnJGOTBfb2RJR2V3bmdwbFU3b2czT2xCY3RB?oc=5\" target=\"_blank\">Helmer…\n來源：Google News:HP\n其他：HP Stock Jumps 11.5% After a Cautious Outlook, With $32.58 …",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdVBXaWVJMUlhR2xOWDBjM0ExajVRclIxUUY1TklZQXBSSEF0Ull0ZXRUZTVNb2k0RkV4U2hWcElPOUstR19XYTFQMmhLQ2xwNTZ4M0pVMXllWkFmSUNyNEdHT1JKcnBOR3Fjamhvbk1zQ2J6TGJVV205VnJGOTBfb2RJR2V3bmdwbFU3b2czT2xCY3RB?oc=5",
-      "source": "Google News:HP",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "LNG",
-      "short": "LNG — Cheniere Energy (LNG) Wins FERC Approval For Sabine Pass Stage 5 - Simply Wall St",
-      "detail": "LNG\n重點：新聞\n標題：Cheniere Energy (LNG) Wins FERC Approval For Sabine Pass Stage 5 - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUZzMmtUeE8zN25hTkRGb29JVTI0VHI3ZUM0N3pHbmNWZkZWd0VOYW91RkZfdzhuTlV5VzR6QWc3OVRYNE80emN3UUhxS19yYkFxdzVNUFktM19pZElrVzcwaHVOazF1ZllaZnRGV25xb0R3QnVQS21NTFFqNmZVTnhvVFpWV0lwUUNWcExWR3JDWnUzUnZDeWUyTlk0dUFJV0FibGhlRGZIR…\n來源：Google News:LNG\n其他：Douglass Winthrop Advisors LLC Buys 277,767 Shares of Cheni…",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUZzMmtUeE8zN25hTkRGb29JVTI0VHI3ZUM0N3pHbmNWZkZWd0VOYW91RkZfdzhuTlV5VzR6QWc3OVRYNE80emN3UUhxS19yYkFxdzVNUFktM19pZElrVzcwaHVOazF1ZllaZnRGV25xb0R3QnVQS21NTFFqNmZVTnhvVFpWV0lwUUNWcExWR3JDWnUzUnZDeWUyTlk0dUFJV0FibGhlRGZIRlQxR2xTOE9SMVRQbWw0MGV6UjE0enNpYmJNOFlnNNIBzgFBVV95cUxOejlCUzVTVFBZZnM0aFZuamozaHUxbnpsa1NSNzZOSnEyTzNpMTJOdGdFVDR6YjRUTEZPeEtfTXNveGpEWkIyRnlyUDRGNGFrOV9lQUZndHZyb095OVF3M0prMmJGM0RkaHlQMUhpS0l2SnQtcFkxLV9WcEx0V2NMVk9qdkFqQXhFamlpcDA4c09BaWgzc0l2d0REcFdRLV9Ba3FtdTBrLUlFc3kxVUZzenZFUEdHS3JEcWlCclhkbXJUdW5XaDFfOF9VSlZTZw?oc=5",
-      "source": "Google News:LNG",
-      "kind": "news"
-    },
-    {
       "n": 6,
-      "symbol": "OXY",
-      "short": "OXY — Dbs Bank Begins Coverage on Occidental Petroleum (NYSE:OXY) - MarketBeat",
-      "detail": "OXY\n重點：新聞\n標題：Dbs Bank Begins Coverage on Occidental Petroleum (NYSE:OXY) - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVnlWSGl3NDE4blQtTE9XZWVNclFMRWhUSG5BRTVYRXMyakFPSEtiSHBfVGZod1FjQm00TFZEV0hUWENQSE9ZckktZFNpR01tajllMXlQcUM1RTVpMzJhbU8wSW1YanJtaDlreTJrMjlMNVdpUC1PZktZSk16a1hya2U2WHRyVFRsR2huSjdtWTNna0Z1dEVydkszYW9LdThaY19VRklNeFUwT…\n來源：Google News:OXY\n其他：Occidental Petroleum Corporation $OXY Stock: Dodge & Cox Tr…",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVnlWSGl3NDE4blQtTE9XZWVNclFMRWhUSG5BRTVYRXMyakFPSEtiSHBfVGZod1FjQm00TFZEV0hUWENQSE9ZckktZFNpR01tajllMXlQcUM1RTVpMzJhbU8wSW1YanJtaDlreTJrMjlMNVdpUC1PZktZSk16a1hya2U2WHRyVFRsR2huSjdtWTNna0Z1dEVydkszYW9LdThaY19VRklNeFUwTEoyZFhhZkxrY2VEc1poNmpZ?oc=5",
-      "source": "Google News:OXY",
+      "symbol": "OKTA",
+      "short": "OKTA — 業績／指引：Okta’s guidance faces a higher bar than consensus suggests: Jefferies",
+      "detail": "OKTA\n重點：業績／指引\n標題：Okta’s guidance faces a higher bar than consensus suggests: Jefferies\n摘要：Okta Inc (NASDAQ:OKTA) is likely to beat its fiscal third-quarter growth guidance, Jefferies said, with the bigger test coming when the company issues its fourth-quarter outlook. The firm forecasts about 15% growth in current remaining performance obligations, or cRPO, which mea…\n來源：Yahoo Finance:OKTA\n其他：Okta’s guidance faces a higher bar than consensus suggests:…",
+      "url": "https://www.proactiveinvestors.com/companies/news/1102542/okta-s-guidance-faces-a-higher-bar-than-consensus-suggests-jefferies-1102542.html?.tsrc=rss",
+      "source": "Yahoo Finance:OKTA",
       "kind": "news"
     },
     {
       "n": 7,
-      "symbol": "STT",
-      "short": "STT — 403,315 State Street Corporation $STT Shares Acquired by Marshall Wace LLP - MarketBeat",
-      "detail": "STT\n重點：新聞\n標題：403,315 State Street Corporation $STT Shares Acquired by Marshall Wace LLP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUFZWmtGSWlXLUdNeTA3RU1nN1NwT0h3SkEtMUhKYUlTeVZEQXBmZjVpLXJJUlRzN3Vxam1TV1lPNFJOb3MxU001aXFNV2tVblI5VHZRbk9EQTBtNGd4OGgycUcyNFRWa25KRS1laU92R0VtVnk2d3FvWjRPQjZTaEJrWXNrbXRNVWs3eDkzSTZjN2NJSzhrNVNULXNrWDg1c2prbl91aTgxd…\n來源：Google News:STT\n其他：State Street Corporation (NYSE:STT) Stock Has Average Targe…",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUFZWmtGSWlXLUdNeTA3RU1nN1NwT0h3SkEtMUhKYUlTeVZEQXBmZjVpLXJJUlRzN3Vxam1TV1lPNFJOb3MxU001aXFNV2tVblI5VHZRbk9EQTBtNGd4OGgycUcyNFRWa25KRS1laU92R0VtVnk2d3FvWjRPQjZTaEJrWXNrbXRNVWs3eDkzSTZjN2NJSzhrNVNULXNrWDg1c2prbl91aTgxdWRkNFppc1lSbVNvTXZsR3FMZlBFU0RkOS1oeGVOaS1IUGdmQQ?oc=5",
-      "source": "Google News:STT",
+      "symbol": "ROST",
+      "short": "ROST — 業績／指引：Ross Stores (ROST) Could Be 199% Above Fair Value As Guidance Rises",
+      "detail": "ROST\n重點：業績／指引\n標題：Ross Stores (ROST) Could Be 199% Above Fair Value As Guidance Rises\n摘要：Ross Stores (ROST) is back in focus after reporting third quarter results that showed higher sales, stronger net income, and firmer earnings per share, paired with raised full year and fourth quarter guidance. Despite the upbeat third quarter and higher guidance, Ross Stores sha…\n來源：Yahoo Finance:ROST\n其他：Ross Stores, Inc. $ROST Stock Acquired by Marshall Wace LLP…",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-rost-could-199-160938909.html?.tsrc=rss",
+      "source": "Yahoo Finance:ROST",
       "kind": "news"
     },
     {
       "n": 8,
-      "symbol": "A",
-      "short": "A — Allison Transmission (ALSN) Recently Broke Out Above the 200-Day Moving Average",
-      "detail": "A\n重點：新聞\n標題：Allison Transmission (ALSN) Recently Broke Out Above the 200-Day Moving Average\n摘要：Good things could be on the horizon when a stock surpasses the 200-day simple moving average. How should investors react?\n來源：Yahoo Finance:ALSN",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/allison-transmission-alsn-recently-broke-133002187.html?.tsrc=rss",
-      "source": "Yahoo Finance:ALSN",
-      "kind": "news"
-    },
-    {
-      "n": 9,
       "symbol": "AEO",
       "short": "AEO — 業績／指引：American Eagle (AEO) Q3 Earnings on the Horizon: Analysts' Insights on Key Performance …",
       "detail": "AEO\n重點：業績／指引\n標題：American Eagle (AEO) Q3 Earnings on the Horizon: Analysts' Insights on Key Performance Measures\n摘要：Besides Wall Street's top-and-bottom-line estimates for American Eagle (AEO), review projections for some of its key metrics to gain a deeper understanding of how the company might have fared during the quarter ended October 2026.\n來源：Yahoo Finance:AEO",
@@ -86,30 +77,39 @@
       "kind": "news"
     },
     {
-      "n": 10,
-      "symbol": "ALSN",
-      "short": "ALSN — Allison Transmission (ALSN) Recently Broke Out Above the 200-Day Moving Average",
-      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission (ALSN) Recently Broke Out Above the 200-Day Moving Average\n摘要：Good things could be on the horizon when a stock surpasses the 200-day simple moving average. How should investors react?\n來源：Yahoo Finance:ALSN",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/allison-transmission-alsn-recently-broke-133002187.html?.tsrc=rss",
-      "source": "Yahoo Finance:ALSN",
-      "kind": "news"
-    },
-    {
-      "n": 11,
+      "n": 9,
       "symbol": "ANET",
-      "short": "ANET — Arista Networks, Inc. $ANET Shares Purchased by Flputnam Investment Management Co. - Ma…",
-      "detail": "ANET\n重點：新聞\n標題：Arista Networks, Inc. $ANET Shares Purchased by Flputnam Investment Management Co. - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxObGNGVTB3VzhjWjFnUmRlcXBQNU1hVnJmREtjQlZGdG43X2RLMmo4eEYtR3dsSEE4azFZdjMyZi1GVUN6bnlLSndaRTJIV3ZGVlJIZFlLWHd2Yzc4b1ExSXpiNS1ZRWt3b0dkSTdIYURERmdRdUdCNlI2VW4xTmk3ajVGREpKQzBkYkEwWHhCTlFSUTV4RVczbTZQTV9ldmhWeWdpMnFncmVsd…\n來源：Google News:ANET",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObGNGVTB3VzhjWjFnUmRlcXBQNU1hVnJmREtjQlZGdG43X2RLMmo4eEYtR3dsSEE4azFZdjMyZi1GVUN6bnlLSndaRTJIV3ZGVlJIZFlLWHd2Yzc4b1ExSXpiNS1ZRWt3b0dkSTdIYURERmdRdUdCNlI2VW4xTmk3ajVGREpKQzBkYkEwWHhCTlFSUTV4RVczbTZQTV9ldmhWeWdpMnFncmVsdUdzUGQzSlN0TkF4UlNLblE4dGgwRFpoM3hsUnZYbDgtbGNTelZGQ2pmMWZn?oc=5",
+      "short": "ANET — AI相關：How Did Arista Networks (NYSE:ANET) Turn AI Demand Into Record Sales? - Kalkine Media",
+      "detail": "ANET\n重點：AI相關\n標題：How Did Arista Networks (NYSE:ANET) Turn AI Demand Into Record Sales? - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ004cEhScGVVTl82YTVsN29jRkRjSk94MzdfeWJTZmV3aVNkQnpsNFpsQUNMNGJ2UmkzYVpNNE40S1FXblg3cXpSZHhRNHc4S3pmSE5zNklIdV8yNEpsZExheGIxWXVuUGlNckgyUHJiVnhyN3hkcXJYOFJvRlpHNGZJVy1MbmlGM0QwU2htT1ludjZ3TGlYeVp5UDhMeUNwMWtLSmxXNmJIU…\n來源：Google News:ANET",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ004cEhScGVVTl82YTVsN29jRkRjSk94MzdfeWJTZmV3aVNkQnpsNFpsQUNMNGJ2UmkzYVpNNE40S1FXblg3cXpSZHhRNHc4S3pmSE5zNklIdV8yNEpsZExheGIxWXVuUGlNckgyUHJiVnhyN3hkcXJYOFJvRlpHNGZJVy1MbmlGM0QwU2htT1ludjZ3TGlYeVp5UDhMeUNwMWtLSmxXNmJIU3U5RUpsVzBvRy1RcXpMNm85TGdWY3c1QQ?oc=5",
       "source": "Google News:ANET",
       "kind": "news"
     },
     {
+      "n": 10,
+      "symbol": "ARCC",
+      "short": "ARCC — 業績／指引：Why Is Ares Capital (ARCC) Up 2.3% Since Last Earnings Report?",
+      "detail": "ARCC\n重點：業績／指引\n標題：Why Is Ares Capital (ARCC) Up 2.3% Since Last Earnings Report?\n摘要：Ares Capital (ARCC) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.\n來源：Yahoo Finance:ARCC",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-ares-capital-arcc-2-153006407.html?.tsrc=rss",
+      "source": "Yahoo Finance:ARCC",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "BKNG",
+      "short": "BKNG — Jump Financial LLC Buys 170,599 Shares of Booking Holdings Inc. $BKNG - MarketBeat",
+      "detail": "BKNG\n重點：新聞\n標題：Jump Financial LLC Buys 170,599 Shares of Booking Holdings Inc. $BKNG - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQdFZINERXYVVIS2UyRm5Kd1pYSDExbDBzS2VrWjJJTDZQNGdaYnJMejBJeEZTYVNRazRyZFpqR2ZNeFQ3c1JtVlhBeHg1ekd6eEswblJpclRBVHJ4NjFiUk9uUjY1S1AyNHZtcG9WNGwxT0hnM2p1d051d3RkcnFpNWNGTGxoM09pbFU3eW5mNWFqQmVtWDBUOElMaHdkVllSbllPWDdmLVRfd…\n來源：Google News:BKNG",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdFZINERXYVVIS2UyRm5Kd1pYSDExbDBzS2VrWjJJTDZQNGdaYnJMejBJeEZTYVNRazRyZFpqR2ZNeFQ3c1JtVlhBeHg1ekd6eEswblJpclRBVHJ4NjFiUk9uUjY1S1AyNHZtcG9WNGwxT0hnM2p1d051d3RkcnFpNWNGTGxoM09pbFU3eW5mNWFqQmVtWDBUOElMaHdkVllSbllPWDdmLVRfdy1qa1BlZnhqNXdUSWV0OU1QWV85allIV1FYZlE?oc=5",
+      "source": "Google News:BKNG",
+      "kind": "news"
+    },
+    {
       "n": 12,
-      "symbol": "BILI",
-      "short": "BILI — 業績／指引：Bilibili Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:BILI) 2026-11-26 -…",
-      "detail": "BILI\n重點：業績／指引\n標題：Bilibili Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:BILI) 2026-11-26 - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQcjlBcXA0TnRTd2V3Q19ybVVSeVp3WVV1ZDAzTjVFaFozRlFOTVFzTlFaNFE1d29JT2ZYcWNHRmVBaDlkaHRxaWFGQXNVNmkzZHVzNXZkSVJNVkxndkphQ2hURzFuQTRla2hUYkRBa3pEMFplVlRoZGdOTXJCUlY3N25jOGRvNkNab3lWV0NhdFhJZDdTdTkzb2dYMVZNZzlNc0N6bDBfcEdiZ…\n來源：Google News:BILI",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcjlBcXA0TnRTd2V3Q19ybVVSeVp3WVV1ZDAzTjVFaFozRlFOTVFzTlFaNFE1d29JT2ZYcWNHRmVBaDlkaHRxaWFGQXNVNmkzZHVzNXZkSVJNVkxndkphQ2hURzFuQTRla2hUYkRBa3pEMFplVlRoZGdOTXJCUlY3N25jOGRvNkNab3lWV0NhdFhJZDdTdTkzb2dYMVZNZzlNc0N6bDBfcEdiZkEtNWxFNmp4S0FpUlRqZlJkdVdn?oc=5",
-      "source": "Google News:BILI",
+      "symbol": "BNY",
+      "short": "BNY — Bank of New York Mellon Corporation $BNY Stock: Jump Financial LLC Grows Position - Mar…",
+      "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon Corporation $BNY Stock: Jump Financial LLC Grows Position - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdHhmOG1SdnUwQWJQc2pfOEpRWGx4Tno0WE5KdUVZUlplUUNqVzdpcV9qZ0dGSGc1Q1VDVm83SjN3S05HSzg1cjBSMlVuT3JreGtWTGZsTGszdkJDM3AyOS1CMjZCaFl5Q21UT0NnQjlYOEREdmR3T0YtMGYxUG1CN2FSbjdCRWhxYjR5dnpjYzd2Y3hfcXgxQlE2U2tJbUt0akwyVmwzaWJYT…\n來源：Google News:BNY",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdHhmOG1SdnUwQWJQc2pfOEpRWGx4Tno0WE5KdUVZUlplUUNqVzdpcV9qZ0dGSGc1Q1VDVm83SjN3S05HSzg1cjBSMlVuT3JreGtWTGZsTGszdkJDM3AyOS1CMjZCaFl5Q21UT0NnQjlYOEREdmR3T0YtMGYxUG1CN2FSbjdCRWhxYjR5dnpjYzd2Y3hfcXgxQlE2U2tJbUt0akwyVmwzaWJYTzNLTjlZTnhhbDk1VVdPZzRoRUlDcTNmbERVMTdVVGhWUzZDaGNLRjVLTVBGUQ?oc=5",
+      "source": "Google News:BNY",
       "kind": "news"
     }
   ]
