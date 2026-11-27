@@ -1,11 +1,38 @@
 {
-  "title": "FS新聞 11-27 08:51",
-  "list_name": "FirstScreen_2026-11-27_085121_comma.txt",
-  "created_at": "2026-11-27T08:51:28.806013+00:00",
+  "title": "FS新聞 11-27 14:41",
+  "list_name": "FirstScreen_2026-11-27_144104_comma.txt",
+  "created_at": "2026-11-27T14:41:10.685496+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
+      "symbol": "CRM",
+      "short": "CRM — Salesforce (NYSE:CRM) Rating Lowered to \"Hold\" at Erste Group Bank - MarketBeat",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Rating Lowered to \"Hold\" at Erste Group Bank - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSF9KOXI3ZlJfc2Z0cG9KemduMkpBTTJhcWh6SGIxeFVVMUlJdEJZbDlJLTc1dkJKaVMwMklpZmRNRmxlS0g3UlNVSkR5ZWlhb2JIQ2pPWWlwRExHN0ROMURzX0gwOWh4SjI5ejlLN1FtSkJZdzdqd2NmVVltOEM0UGdlRVBubXlDT2U1N1cyY1FjM3E0WHlBa3NiN0U1Y3RNdTJJbGxxV1R0c…\n來源：Google News:CRM\n其他：Stance Capital LLC Sells 3,017 Shares of Salesforce Inc. $C…",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSF9KOXI3ZlJfc2Z0cG9KemduMkpBTTJhcWh6SGIxeFVVMUlJdEJZbDlJLTc1dkJKaVMwMklpZmRNRmxlS0g3UlNVSkR5ZWlhb2JIQ2pPWWlwRExHN0ROMURzX0gwOWh4SjI5ejlLN1FtSkJZdzdqd2NmVVltOEM0UGdlRVBubXlDT2U1N1cyY1FjM3E0WHlBa3NiN0U1Y3RNdTJJbGxxV1R0clBWNzJnbW9fTVBic0FEb0FZVGlZSnk3Zw?oc=5",
+      "source": "Google News:CRM",
+      "kind": "news"
+    },
+    {
+      "n": 2,
+      "symbol": "ALSN",
+      "short": "ALSN — Allison Transmission Holdings, Inc. $ALSN Stock Sold by State Street Corp - MarketBeat",
+      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission Holdings, Inc. $ALSN Stock Sold by State Street Corp - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNQy1MbTFDWWE0WE1MZXEyd296TGRnN1k5YUFsdU5raDZPd2d2VmlIX1hMczFJODhrbUF1QXlVdThYMDdwNU1VQ3ZPMW9Pc0E0MG5SN0pzTlliREdEYUh1X0tCMGxHSHRscU1jdTVNZ2lyUGdQSTJGUFNkRV9SaDdmOEtMdWs3eHVvekxfd1dmWGtzTXg1NFdFUlZnWHNnbGtfUGdSOTF2Qnpoa…\n來源：Google News:ALSN",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQy1MbTFDWWE0WE1MZXEyd296TGRnN1k5YUFsdU5raDZPd2d2VmlIX1hMczFJODhrbUF1QXlVdThYMDdwNU1VQ3ZPMW9Pc0E0MG5SN0pzTlliREdEYUh1X0tCMGxHSHRscU1jdTVNZ2lyUGdQSTJGUFNkRV9SaDdmOEtMdWs3eHVvekxfd1dmWGtzTXg1NFdFUlZnWHNnbGtfUGdSOTF2QnpoaTB5RkZwalBvVHVhTHRMalQ5RTAwdml4MHAxMmxUQUliOA?oc=5",
+      "source": "Google News:ALSN",
+      "kind": "news"
+    },
+    {
+      "n": 3,
+      "symbol": "ANET",
+      "short": "ANET — AI相關：How Did AI Networking Demand Drive Record Growth at Arista Networks (NYSE:ANET)? - Kalk…",
+      "detail": "ANET\n重點：AI相關\n標題：How Did AI Networking Demand Drive Record Growth at Arista Networks (NYSE:ANET)? - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZTU2U1lhSWcyYU1xNG01cU50QTBsb1ViSDVReGFsdWgtcnBNMUwyalhjbDhMeWNWdzZrSnJrSGpKeU1lcElENUFYc0thZDJJVHNiUGY4ajBVZG1rQXk4V1pSWnF2RHZXLXJKbFdvVlZfU1ZzOUZkelpuM1ltbVZtT2dvMzh4ZVkyWnJybTZ3YURNaGo3Rm16Ykg5SnJIaFdzaDc4SGpBUFFBR…\n來源：Google News:ANET",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZTU2U1lhSWcyYU1xNG01cU50QTBsb1ViSDVReGFsdWgtcnBNMUwyalhjbDhMeWNWdzZrSnJrSGpKeU1lcElENUFYc0thZDJJVHNiUGY4ajBVZG1rQXk4V1pSWnF2RHZXLXJKbFdvVlZfU1ZzOUZkelpuM1ltbVZtT2dvMzh4ZVkyWnJybTZ3YURNaGo3Rm16Ykg5SnJIaFdzaDc4SGpBUFFBRFQ2Mnp2VlI5UHIwelpoc2tGVkNadEhHc05RS3FpN09PTmN3blUx?oc=5",
+      "source": "Google News:ANET",
+      "kind": "news"
+    },
+    {
+      "n": 4,
       "symbol": "COO",
       "short": "COO — 業績／指引：Is Cooper Companies (COO) A Bargain After Its Q3 Revenue Miss And Guidance Cut?",
       "detail": "COO\n重點：業績／指引\n標題：Is Cooper Companies (COO) A Bargain After Its Q3 Revenue Miss And Guidance Cut?\n摘要：Q3 revenue miss puts Cooper Companies under closer investor scrutiny Cooper Companies (COO) recently reported Q3 FY2026 revenue below analyst expectations after weaker U.S. demand in its CooperVision contact lens unit led distributors to cut channel inventory levels. Management …\n來源：Yahoo Finance:COO",
@@ -14,16 +41,34 @@
       "kind": "news"
     },
     {
-      "n": 2,
-      "symbol": "FTNT",
-      "short": "FTNT — Fortinet, Inc. $FTNT Holdings Lifted by Ardmore Road Asset Management LP - MarketBeat",
-      "detail": "FTNT\n重點：新聞\n標題：Fortinet, Inc. $FTNT Holdings Lifted by Ardmore Road Asset Management LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPN3VqSUhORUtjc2JjeUlqdkdrWWtLdEkyTlZKR2NYcTFoeVhkS05nMTdmZWh4R2VZaGd0Z2Y0a0RDOHhzUEtGUG02a0J4UXdFX0RPWFM3dERWa0pqUWpONHhTR3dpSGFxUXFITHBON0Rwc3R0bGluSzVkMFZlazFwallqZFVmeTFONGpQazc5cnczcnVDNkNzZUowcjNUZnl6RThaazJHVkNZR…\n來源：Google News:FTNT",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN3VqSUhORUtjc2JjeUlqdkdrWWtLdEkyTlZKR2NYcTFoeVhkS05nMTdmZWh4R2VZaGd0Z2Y0a0RDOHhzUEtGUG02a0J4UXdFX0RPWFM3dERWa0pqUWpONHhTR3dpSGFxUXFITHBON0Rwc3R0bGluSzVkMFZlazFwallqZFVmeTFONGpQazc5cnczcnVDNkNzZUowcjNUZnl6RThaazJHVkNZRmtLY1BmcGRLeXFXMWFLTVdYVE5kdTJDNTVjNl9IbFVB?oc=5",
-      "source": "Google News:FTNT",
+      "n": 5,
+      "symbol": "EL",
+      "short": "EL — The Estee Lauder Companies Inc. $EL Holdings Increased by Healthcare of Ontario Pension…",
+      "detail": "EL\n重點：新聞\n標題：The Estee Lauder Companies Inc. $EL Holdings Increased by Healthcare of Ontario Pension Plan Trust Fund - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZXNsOEtJakItYlZiNlYweDkySndpbzg1YWxxRWlMLXVFODlwNGhvSWpNMUJ1b3BJeTNrMi1uTTR2RzlMOG5HMVRXTjVVSW1zbWRnVWVaRjZFaFFRbUdYa0NSMXJqUXBEek16ZVVFWXYxbFdLRFh5MnlWZUhxZF9SakxpZnE5VFl5R2dwWU1qQ2gwdmdjd2xQcjdVMzBrQVg2MjJEakdEUG9Zd…\n來源：Google News:EL",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZXNsOEtJakItYlZiNlYweDkySndpbzg1YWxxRWlMLXVFODlwNGhvSWpNMUJ1b3BJeTNrMi1uTTR2RzlMOG5HMVRXTjVVSW1zbWRnVWVaRjZFaFFRbUdYa0NSMXJqUXBEek16ZVVFWXYxbFdLRFh5MnlWZUhxZF9SakxpZnE5VFl5R2dwWU1qQ2gwdmdjd2xQcjdVMzBrQVg2MjJEakdEUG9ZdUVobEJPVmZvWk12VmR4a1JQaFprQW9tdXVQNXZtZHNZdXI0V28teldvaTE1R3pwcnl0dkdNbDl0V3ZsMXpIYk95ZnllZVNldGNo?oc=5",
+      "source": "Google News:EL",
       "kind": "news"
     },
     {
-      "n": 3,
+      "n": 6,
+      "symbol": "GEN",
+      "short": "GEN — 719,093 Shares of Gen Digital Inc. $GEN Bought by Empowered Funds LLC - MarketBeat",
+      "detail": "GEN\n重點：新聞\n標題：719,093 Shares of Gen Digital Inc. $GEN Bought by Empowered Funds LLC - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPS211SEg4cXhsYkJRUk5nU01vUXNhc0o2X3ZMbGJ3TWhTaGRYSlcwN3dvY3FiM0NYQmZDSTNia3RmZ2ktTWtuYWZyYVA2aTlQWXRfN0Zody1vczU2Y2Jla1kzY1ZHMGhybW1pMWEwMG9vb2ZJN3dqaFhQU3dHUFJvY0ZNTFA2UWpiaGlCU0tyV2lFRlhQd2RkV2ZqVXhjbk12M1YtVlBxLTZHV…\n來源：Google News:GEN",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS211SEg4cXhsYkJRUk5nU01vUXNhc0o2X3ZMbGJ3TWhTaGRYSlcwN3dvY3FiM0NYQmZDSTNia3RmZ2ktTWtuYWZyYVA2aTlQWXRfN0Zody1vczU2Y2Jla1kzY1ZHMGhybW1pMWEwMG9vb2ZJN3dqaFhQU3dHUFJvY0ZNTFA2UWpiaGlCU0tyV2lFRlhQd2RkV2ZqVXhjbk12M1YtVlBxLTZHVF8xbm5hNjkwM3VEZkRWeWlsaTBUeGU0NGF5MkE?oc=5",
+      "source": "Google News:GEN",
+      "kind": "news"
+    },
+    {
+      "n": 7,
+      "symbol": "LNG",
+      "short": "LNG — 84,653 Shares in Cheniere Energy, Inc. $LNG Bought by Clean Energy Transition LLP - Mar…",
+      "detail": "LNG\n重點：新聞\n標題：84,653 Shares in Cheniere Energy, Inc. $LNG Bought by Clean Energy Transition LLP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNTMtb25mUzc1Q1FqYjhCRUVna3dfZFlPcFNMT3JERXBVdk9TOXczX2U0YnE4RHZIYnFyZ2RGaVRicXRJelZHSTVCb0FGSFotcW9yNG5KQktmYlVTQVdLQTFONVdyeFJkSkU2SWZvWHpCZXRrS3pWVG5RMWNWM1Q2V2FqcDNSaE1hdUdDZWZ3dGMtNm5UdTNZVFptTlRPQmtWWnNhU0JQUFZKX…\n來源：Google News:LNG",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNTMtb25mUzc1Q1FqYjhCRUVna3dfZFlPcFNMT3JERXBVdk9TOXczX2U0YnE4RHZIYnFyZ2RGaVRicXRJelZHSTVCb0FGSFotcW9yNG5KQktmYlVTQVdLQTFONVdyeFJkSkU2SWZvWHpCZXRrS3pWVG5RMWNWM1Q2V2FqcDNSaE1hdUdDZWZ3dGMtNm5UdTNZVFptTlRPQmtWWnNhU0JQUFZKX2gxVmtkVDJtbEhpcTdGZ1R5NXcydDJLNUdvenlOajVUOGJPcXhFdVVmYw?oc=5",
+      "source": "Google News:LNG",
+      "kind": "news"
+    },
+    {
+      "n": 8,
       "symbol": "NESR",
       "short": "NESR — National Energy Services Reunited (NASDAQ:NESR) Stock Rated \"Moderate Buy\" by Wall Stre…",
       "detail": "NESR\n重點：新聞\n標題：National Energy Services Reunited (NASDAQ:NESR) Stock Rated \"Moderate Buy\" by Wall Street Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZFJlek81RzA1QzlRck9FT25jbDdtTnlmU0F0dVV4SEl4SmYzUVBXWUE4anJhNVNIdmdKNVFiQlVMWm4tT1lGeTVWLXRSNWRjRl82Y1ktakRud0g1VlJGYlBObkNzZFY1U0FLbkhqbnJyR01WQ21wY1hibVlzcTJweUZNYWNZbjVXWmpjZkxkWUdoYmZuaU0tTXFmRWZRUURtSDBNZTdVbnlKb…\n來源：Google News:NESR",
@@ -32,12 +77,39 @@
       "kind": "news"
     },
     {
-      "n": 4,
-      "symbol": "NTNX",
-      "short": "NTNX — Nutanix (NTNX) Stock May Be 48% Undervalued Following CEO Succession Plan - Simply Wall…",
-      "detail": "NTNX\n重點：新聞\n標題：Nutanix (NTNX) Stock May Be 48% Undervalued Following CEO Succession Plan - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQUldWcnh1Tkc1dnNNZFFhQmpaOUlPZWt0Y3pGZThxVjhiMHpfbFV3RzB2V2VZdmkwdXBEZlhZTkU3RTM1TF9hN0JVbEFsNklQbkFCUEJHMHRqUXljS0xaQUM0ZEJTMlBnNDdvUnc1Q1pKcmtqN19MRlFJZ1VuWWl1N1JKUlVJUEJkbXd3bEZOUzh0TkNaZjBXYWQ0WDRrTm1TM05YT3pLSkt5N…\n來源：Google News:NTNX",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUldWcnh1Tkc1dnNNZFFhQmpaOUlPZWt0Y3pGZThxVjhiMHpfbFV3RzB2V2VZdmkwdXBEZlhZTkU3RTM1TF9hN0JVbEFsNklQbkFCUEJHMHRqUXljS0xaQUM0ZEJTMlBnNDdvUnc1Q1pKcmtqN19MRlFJZ1VuWWl1N1JKUlVJUEJkbXd3bEZOUzh0TkNaZjBXYWQ0WDRrTm1TM05YT3pLSkt5NHF0MFZpZUg0ZUtrVzhrS0JFeHVMVFpHYjJw0gHKAUFVX3lxTE04UVlHdGVnSXZMd2prOURWdDBSUzNkUE43alZuakpTaVMtYUdyaGJUb3VUaWtaUDBrejZOOV9FQll6R2t0Q0lKMmZKWHZrMHRteFBUbkhxTkd4X0cwTjFVdV9DbmJTcF9DNV95NkRZV1NRQVY4Qy01ZWxLNzV4R1Z3MTFSN1NVc3FKb1NITGU5NFNucC1lT0tRR1RXcGdPNkZ6elJtUnVqRkM5QW8zVjAyU2JsX0dtaDh5Z0UzM09TSFRlcnZ1Z2ZKc0E?oc=5",
-      "source": "Google News:NTNX",
+      "n": 9,
+      "symbol": "OKTA",
+      "short": "OKTA — AI相關：Okta Drops 10% in a Month: Should Investors Buy the Stock on the Dip?",
+      "detail": "OKTA\n重點：AI相關\n標題：Okta Drops 10% in a Month: Should Investors Buy the Stock on the Dip?\n摘要：OKTA's 10.4% stock decline offers a buying opportunity as rising AI agent security demand, product adoption and enterprise expansion fuel long-term growth.\n來源：Yahoo Finance:OKTA",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/okta-drops-10-month-investors-130000294.html?.tsrc=rss",
+      "source": "Yahoo Finance:OKTA",
+      "kind": "news"
+    },
+    {
+      "n": 10,
+      "symbol": "ROST",
+      "short": "ROST — Toronto Dominion Bank Buys 157,486 Shares of Ross Stores, Inc. $ROST - MarketBeat",
+      "detail": "ROST\n重點：新聞\n標題：Toronto Dominion Bank Buys 157,486 Shares of Ross Stores, Inc. $ROST - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb1AyUjh4VmJIYTczY2tjdU5aUldwSF9kSXlhNmNFYnNUUl95YWFtT1RvME9aWkg2MzY5TkpZWGV2RkkyMGoydWo5ZndPOHRZYmY3a1RZNDdSdml4V1IxNmFHXzV1N2FEV2l6bDBkTi1pSlN4Vi1YVXRJMkl0SERlSFh2SjBlYWZjMWtVYzlNR19rOHFaTDZUU2xES0wtUXdOV0E0TDhfWHM1V…\n來源：Google News:ROST",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb1AyUjh4VmJIYTczY2tjdU5aUldwSF9kSXlhNmNFYnNUUl95YWFtT1RvME9aWkg2MzY5TkpZWGV2RkkyMGoydWo5ZndPOHRZYmY3a1RZNDdSdml4V1IxNmFHXzV1N2FEV2l6bDBkTi1pSlN4Vi1YVXRJMkl0SERlSFh2SjBlYWZjMWtVYzlNR19rOHFaTDZUU2xES0wtUXdOV0E0TDhfWHM1VE5xaTZ1ZXhFT3RMTmg4bnIwanpXZDhkQnc?oc=5",
+      "source": "Google News:ROST",
+      "kind": "news"
+    },
+    {
+      "n": 11,
+      "symbol": "SLB",
+      "short": "SLB — Just Four Days Till SLB N.V. (NYSE:SLB) Will Be Trading Ex-Dividend - Simply Wall St",
+      "detail": "SLB\n重點：新聞\n標題：Just Four Days Till SLB N.V. (NYSE:SLB) Will Be Trading Ex-Dividend - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbVd0a3ZPOFBzbGZ1VkEyTEhoQW0wVERod0IyYXROR2FZVmtXeWx6UTBwaTU5TFp6Yzh6cXRKTTJSUlBsc0RuQkpDWXFHdmRzay1mQjdzUnZiRjJQcnNCeHZTZ09mblo1ekpGS3FKdHJXc01GMXd2QTQxSGRzOTRQam5EU3BGdDItalp3RHQzZjR6VzBKNmdvNS1oTFRxR3UtSzBnR0VFNGxZR…\n來源：Google News:SLB",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbVd0a3ZPOFBzbGZ1VkEyTEhoQW0wVERod0IyYXROR2FZVmtXeWx6UTBwaTU5TFp6Yzh6cXRKTTJSUlBsc0RuQkpDWXFHdmRzay1mQjdzUnZiRjJQcnNCeHZTZ09mblo1ekpGS3FKdHJXc01GMXd2QTQxSGRzOTRQam5EU3BGdDItalp3RHQzZjR6VzBKNmdvNS1oTFRxR3UtSzBnR0VFNGxZRWc2bUdGT3N4Ui1YN2ZJ?oc=5",
+      "source": "Google News:SLB",
+      "kind": "news"
+    },
+    {
+      "n": 12,
+      "symbol": "STT",
+      "short": "STT — State Street Corporation $STT Position Increased by Toronto Dominion Bank - MarketBeat",
+      "detail": "STT\n重點：新聞\n標題：State Street Corporation $STT Position Increased by Toronto Dominion Bank - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPN2xuUFFQTXZuMGxHVkNOTXpVVDItc2VZeDh1dWNfRllxRW1OUHh6QjlUTVZubjRrWjlZcXA4RVZHdFdlc3FQdnNZSXhadEgwdkhYckFUTVc2TmlWbWtDZ3NFX3M3dWdiSWNNWlRmald1TzB3d2Zwbmd0aDE1LXgyUkdLbzdQOTBvM0x4cy00dGdkTzlIeHRoQ0VLOVR2RjhRcnp2Zlg3UmRnU…\n來源：Google News:STT",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN2xuUFFQTXZuMGxHVkNOTXpVVDItc2VZeDh1dWNfRllxRW1OUHh6QjlUTVZubjRrWjlZcXA4RVZHdFdlc3FQdnNZSXhadEgwdkhYckFUTVc2TmlWbWtDZ3NFX3M3dWdiSWNNWlRmald1TzB3d2Zwbmd0aDE1LXgyUkdLbzdQOTBvM0x4cy00dGdkTzlIeHRoQ0VLOVR2RjhRcnp2Zlg3UmRnUS1VUk9EdVh1UFBYbGEzeTFVOTdUTmROSXg2aFdnSldET0lPdw?oc=5",
+      "source": "Google News:STT",
       "kind": "news"
     }
   ]
