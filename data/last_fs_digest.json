@@ -1,115 +1,43 @@
 {
-  "title": "FS新聞 11-26 19:27",
-  "list_name": "FirstScreen_2026-11-26_192730_comma.txt",
-  "created_at": "2026-11-26T19:27:38.173104+00:00",
+  "title": "FS新聞 11-27 08:51",
+  "list_name": "FirstScreen_2026-11-27_085121_comma.txt",
+  "created_at": "2026-11-27T08:51:28.806013+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "HCA",
-      "short": "HCA — 業績／指引：Learn Why The Bull Case For HCA Healthcare Stock Could Change Following Broker Downgrade",
-      "detail": "HCA\n重點：業績／指引\n標題：Learn Why The Bull Case For HCA Healthcare Stock Could Change Following Broker Downgrade\n摘要：HCA Healthcare recently topped third quarter 2026 earnings expectations, supported by higher patient admissions, steadier insured revenue per equivalent admission, and disciplined cost control across its hospital and ambulatory footprint. Despite that operational performance, Ar…\n來源：Yahoo Finance:HCA\n其他：Why Is HCA (HCA) Up 6% Since Last Earnings Report?; HCA Healthcare (HCA) Stock Looks Stretched Despite A 45% Fa…; Is HCA Healthcare (HCA) Fairly Valued After The Argus Downg…",
-      "url": "https://finance.yahoo.com/healthcare/articles/learn-why-bull-case-hca-161736704.html?.tsrc=rss",
-      "source": "Yahoo Finance:HCA",
+      "symbol": "COO",
+      "short": "COO — 業績／指引：Is Cooper Companies (COO) A Bargain After Its Q3 Revenue Miss And Guidance Cut?",
+      "detail": "COO\n重點：業績／指引\n標題：Is Cooper Companies (COO) A Bargain After Its Q3 Revenue Miss And Guidance Cut?\n摘要：Q3 revenue miss puts Cooper Companies under closer investor scrutiny Cooper Companies (COO) recently reported Q3 FY2026 revenue below analyst expectations after weaker U.S. demand in its CooperVision contact lens unit led distributors to cut channel inventory levels. Management …\n來源：Yahoo Finance:COO",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cooper-companies-coo-bargain-q3-070738664.html?.tsrc=rss",
+      "source": "Yahoo Finance:COO",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "A",
-      "short": "A — FS KKR Capital (FSK)'s Technical Outlook is Bright After Key Golden Cross",
-      "detail": "A\n重點：新聞\n標題：FS KKR Capital (FSK)'s Technical Outlook is Bright After Key Golden Cross\n摘要：Good things could be on the horizon when a stock experiences a golden cross event. How should investors react?\n來源：Yahoo Finance:FSK\n其他：Allison Transmission (ALSN) Recently Broke Out Above the 20…; Allison Transmission (ALSN) Recently Broke Out Above the 20…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fs-kkr-capital-fsk-technical-135501120.html?.tsrc=rss",
-      "source": "Yahoo Finance:FSK",
+      "symbol": "FTNT",
+      "short": "FTNT — Fortinet, Inc. $FTNT Holdings Lifted by Ardmore Road Asset Management LP - MarketBeat",
+      "detail": "FTNT\n重點：新聞\n標題：Fortinet, Inc. $FTNT Holdings Lifted by Ardmore Road Asset Management LP - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPN3VqSUhORUtjc2JjeUlqdkdrWWtLdEkyTlZKR2NYcTFoeVhkS05nMTdmZWh4R2VZaGd0Z2Y0a0RDOHhzUEtGUG02a0J4UXdFX0RPWFM3dERWa0pqUWpONHhTR3dpSGFxUXFITHBON0Rwc3R0bGluSzVkMFZlazFwallqZFVmeTFONGpQazc5cnczcnVDNkNzZUowcjNUZnl6RThaazJHVkNZR…\n來源：Google News:FTNT",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN3VqSUhORUtjc2JjeUlqdkdrWWtLdEkyTlZKR2NYcTFoeVhkS05nMTdmZWh4R2VZaGd0Z2Y0a0RDOHhzUEtGUG02a0J4UXdFX0RPWFM3dERWa0pqUWpONHhTR3dpSGFxUXFITHBON0Rwc3R0bGluSzVkMFZlazFwallqZFVmeTFONGpQazc5cnczcnVDNkNzZUowcjNUZnl6RThaazJHVkNZRmtLY1BmcGRLeXFXMWFLTVdYVE5kdTJDNTVjNl9IbFVB?oc=5",
+      "source": "Google News:FTNT",
       "kind": "news"
     },
     {
       "n": 3,
-      "symbol": "ALSN",
-      "short": "ALSN — Allison Transmission Holdings, Inc. (ALSN) Stock Price, News, Quote & History - Yahoo! …",
-      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission Holdings, Inc. (ALSN) Stock Price, News, Quote & History - Yahoo! Finance Canada\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fNjhFUjk2dU1SWno1OHg4Ny1vTXo5b1ZoVEtrS2VZWGhDZUt1MkRvcVRhMU1vV1o2QXk0Z014TnFzOTZwQXZ5bFJDS0xpeTQzZFE?oc=5\" target=\"_blank\">Allison Transmission Holdings, Inc. (ALSN) Stock Price, News, Quote & History</a>&nbsp;&nbsp;<f…\n來源：Google News:ALSN\n其他：Allison Transmission (ALSN) Recently Broke Out Above the 20…; Allison Transmission (ALSN) Recently Broke Out Above the 20…",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fNjhFUjk2dU1SWno1OHg4Ny1vTXo5b1ZoVEtrS2VZWGhDZUt1MkRvcVRhMU1vV1o2QXk0Z014TnFzOTZwQXZ5bFJDS0xpeTQzZFE?oc=5",
-      "source": "Google News:ALSN",
+      "symbol": "NESR",
+      "short": "NESR — National Energy Services Reunited (NASDAQ:NESR) Stock Rated \"Moderate Buy\" by Wall Stre…",
+      "detail": "NESR\n重點：新聞\n標題：National Energy Services Reunited (NASDAQ:NESR) Stock Rated \"Moderate Buy\" by Wall Street Brokerages - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZFJlek81RzA1QzlRck9FT25jbDdtTnlmU0F0dVV4SEl4SmYzUVBXWUE4anJhNVNIdmdKNVFiQlVMWm4tT1lGeTVWLXRSNWRjRl82Y1ktakRud0g1VlJGYlBObkNzZFY1U0FLbkhqbnJyR01WQ21wY1hibVlzcTJweUZNYWNZbjVXWmpjZkxkWUdoYmZuaU0tTXFmRWZRUURtSDBNZTdVbnlKb…\n來源：Google News:NESR",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZFJlek81RzA1QzlRck9FT25jbDdtTnlmU0F0dVV4SEl4SmYzUVBXWUE4anJhNVNIdmdKNVFiQlVMWm4tT1lGeTVWLXRSNWRjRl82Y1ktakRud0g1VlJGYlBObkNzZFY1U0FLbkhqbnJyR01WQ21wY1hibVlzcTJweUZNYWNZbjVXWmpjZkxkWUdoYmZuaU0tTXFmRWZRUURtSDBNZTdVbnlKb1B2UUxZa3BEZ0xIMmRBLWVXeU1PNTh6NldoaTkwVC1feG1ZNlZOQllCQXkwWmlueUdSYkNya2FrZ1ZWTDNhMGM1SjJwTXNHdw?oc=5",
+      "source": "Google News:NESR",
       "kind": "news"
     },
     {
       "n": 4,
-      "symbol": "HP",
-      "short": "HP — Helmerich & Payne: Standout Land Driller On Sale (Rating Upgrade) (NYSE:HP) - Seeking A…",
-      "detail": "HP\n重點：新聞\n標題：Helmerich & Payne: Standout Land Driller On Sale (Rating Upgrade) (NYSE:HP) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPdVBXaWVJMUlhR2xOWDBjM0ExajVRclIxUUY1TklZQXBSSEF0Ull0ZXRUZTVNb2k0RkV4U2hWcElPOUstR19XYTFQMmhLQ2xwNTZ4M0pVMXllWkFmSUNyNEdHT1JKcnBOR3Fjamhvbk1zQ2J6TGJVV205VnJGOTBfb2RJR2V3bmdwbFU3b2czT2xCY3RB?oc=5\" target=\"_blank\">Helmer…\n來源：Google News:HP\n其他：HP Stock Jumps 11.5% After a Cautious Outlook, With $32.58 …; HP Stock Earnings Beat Has The Bull Case Changed? - Yahoo F…",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdVBXaWVJMUlhR2xOWDBjM0ExajVRclIxUUY1TklZQXBSSEF0Ull0ZXRUZTVNb2k0RkV4U2hWcElPOUstR19XYTFQMmhLQ2xwNTZ4M0pVMXllWkFmSUNyNEdHT1JKcnBOR3Fjamhvbk1zQ2J6TGJVV205VnJGOTBfb2RJR2V3bmdwbFU3b2czT2xCY3RB?oc=5",
-      "source": "Google News:HP",
-      "kind": "news"
-    },
-    {
-      "n": 5,
-      "symbol": "CRM",
-      "short": "CRM — 業績／指引：Wall Street's Insights Into Key Metrics Ahead of Salesforce (CRM) Q3 Earnings",
-      "detail": "CRM\n重點：業績／指引\n標題：Wall Street's Insights Into Key Metrics Ahead of Salesforce (CRM) Q3 Earnings\n摘要：Get a deeper insight into the potential performance of Salesforce (CRM) for the quarter ended October 2026 by going beyond Wall Street's top-and-bottom-line estimates and examining the estimates for some of its key metrics.\n來源：Yahoo Finance:CRM\n其他：Salesforce Inc. $CRM Stock Sold by Tocqueville Asset Manage…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-streets-insights-key-metrics-131502693.html?.tsrc=rss",
-      "source": "Yahoo Finance:CRM",
-      "kind": "news"
-    },
-    {
-      "n": 6,
-      "symbol": "OKTA",
-      "short": "OKTA — 業績／指引：Okta’s guidance faces a higher bar than consensus suggests: Jefferies",
-      "detail": "OKTA\n重點：業績／指引\n標題：Okta’s guidance faces a higher bar than consensus suggests: Jefferies\n摘要：Okta Inc (NASDAQ:OKTA) is likely to beat its fiscal third-quarter growth guidance, Jefferies said, with the bigger test coming when the company issues its fourth-quarter outlook. The firm forecasts about 15% growth in current remaining performance obligations, or cRPO, which mea…\n來源：Yahoo Finance:OKTA\n其他：Okta’s guidance faces a higher bar than consensus suggests:…",
-      "url": "https://www.proactiveinvestors.com/companies/news/1102542/okta-s-guidance-faces-a-higher-bar-than-consensus-suggests-jefferies-1102542.html?.tsrc=rss",
-      "source": "Yahoo Finance:OKTA",
-      "kind": "news"
-    },
-    {
-      "n": 7,
-      "symbol": "ROST",
-      "short": "ROST — 業績／指引：Ross Stores (ROST) Could Be 199% Above Fair Value As Guidance Rises",
-      "detail": "ROST\n重點：業績／指引\n標題：Ross Stores (ROST) Could Be 199% Above Fair Value As Guidance Rises\n摘要：Ross Stores (ROST) is back in focus after reporting third quarter results that showed higher sales, stronger net income, and firmer earnings per share, paired with raised full year and fourth quarter guidance. Despite the upbeat third quarter and higher guidance, Ross Stores sha…\n來源：Yahoo Finance:ROST\n其他：Ross Stores, Inc. $ROST Stock Acquired by Marshall Wace LLP…",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-rost-could-199-160938909.html?.tsrc=rss",
-      "source": "Yahoo Finance:ROST",
-      "kind": "news"
-    },
-    {
-      "n": 8,
-      "symbol": "AEO",
-      "short": "AEO — 業績／指引：American Eagle (AEO) Q3 Earnings on the Horizon: Analysts' Insights on Key Performance …",
-      "detail": "AEO\n重點：業績／指引\n標題：American Eagle (AEO) Q3 Earnings on the Horizon: Analysts' Insights on Key Performance Measures\n摘要：Besides Wall Street's top-and-bottom-line estimates for American Eagle (AEO), review projections for some of its key metrics to gain a deeper understanding of how the company might have fared during the quarter ended October 2026.\n來源：Yahoo Finance:AEO",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/american-eagle-aeo-q3-earnings-131503649.html?.tsrc=rss",
-      "source": "Yahoo Finance:AEO",
-      "kind": "news"
-    },
-    {
-      "n": 9,
-      "symbol": "ANET",
-      "short": "ANET — AI相關：How Did Arista Networks (NYSE:ANET) Turn AI Demand Into Record Sales? - Kalkine Media",
-      "detail": "ANET\n重點：AI相關\n標題：How Did Arista Networks (NYSE:ANET) Turn AI Demand Into Record Sales? - Kalkine Media\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ004cEhScGVVTl82YTVsN29jRkRjSk94MzdfeWJTZmV3aVNkQnpsNFpsQUNMNGJ2UmkzYVpNNE40S1FXblg3cXpSZHhRNHc4S3pmSE5zNklIdV8yNEpsZExheGIxWXVuUGlNckgyUHJiVnhyN3hkcXJYOFJvRlpHNGZJVy1MbmlGM0QwU2htT1ludjZ3TGlYeVp5UDhMeUNwMWtLSmxXNmJIU…\n來源：Google News:ANET",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ004cEhScGVVTl82YTVsN29jRkRjSk94MzdfeWJTZmV3aVNkQnpsNFpsQUNMNGJ2UmkzYVpNNE40S1FXblg3cXpSZHhRNHc4S3pmSE5zNklIdV8yNEpsZExheGIxWXVuUGlNckgyUHJiVnhyN3hkcXJYOFJvRlpHNGZJVy1MbmlGM0QwU2htT1ludjZ3TGlYeVp5UDhMeUNwMWtLSmxXNmJIU3U5RUpsVzBvRy1RcXpMNm85TGdWY3c1QQ?oc=5",
-      "source": "Google News:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "ARCC",
-      "short": "ARCC — 業績／指引：Why Is Ares Capital (ARCC) Up 2.3% Since Last Earnings Report?",
-      "detail": "ARCC\n重點：業績／指引\n標題：Why Is Ares Capital (ARCC) Up 2.3% Since Last Earnings Report?\n摘要：Ares Capital (ARCC) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.\n來源：Yahoo Finance:ARCC",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-ares-capital-arcc-2-153006407.html?.tsrc=rss",
-      "source": "Yahoo Finance:ARCC",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "BKNG",
-      "short": "BKNG — Jump Financial LLC Buys 170,599 Shares of Booking Holdings Inc. $BKNG - MarketBeat",
-      "detail": "BKNG\n重點：新聞\n標題：Jump Financial LLC Buys 170,599 Shares of Booking Holdings Inc. $BKNG - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQdFZINERXYVVIS2UyRm5Kd1pYSDExbDBzS2VrWjJJTDZQNGdaYnJMejBJeEZTYVNRazRyZFpqR2ZNeFQ3c1JtVlhBeHg1ekd6eEswblJpclRBVHJ4NjFiUk9uUjY1S1AyNHZtcG9WNGwxT0hnM2p1d051d3RkcnFpNWNGTGxoM09pbFU3eW5mNWFqQmVtWDBUOElMaHdkVllSbllPWDdmLVRfd…\n來源：Google News:BKNG",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdFZINERXYVVIS2UyRm5Kd1pYSDExbDBzS2VrWjJJTDZQNGdaYnJMejBJeEZTYVNRazRyZFpqR2ZNeFQ3c1JtVlhBeHg1ekd6eEswblJpclRBVHJ4NjFiUk9uUjY1S1AyNHZtcG9WNGwxT0hnM2p1d051d3RkcnFpNWNGTGxoM09pbFU3eW5mNWFqQmVtWDBUOElMaHdkVllSbllPWDdmLVRfdy1qa1BlZnhqNXdUSWV0OU1QWV85allIV1FYZlE?oc=5",
-      "source": "Google News:BKNG",
-      "kind": "news"
-    },
-    {
-      "n": 12,
-      "symbol": "BNY",
-      "short": "BNY — Bank of New York Mellon Corporation $BNY Stock: Jump Financial LLC Grows Position - Mar…",
-      "detail": "BNY\n重點：新聞\n標題：Bank of New York Mellon Corporation $BNY Stock: Jump Financial LLC Grows Position - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdHhmOG1SdnUwQWJQc2pfOEpRWGx4Tno0WE5KdUVZUlplUUNqVzdpcV9qZ0dGSGc1Q1VDVm83SjN3S05HSzg1cjBSMlVuT3JreGtWTGZsTGszdkJDM3AyOS1CMjZCaFl5Q21UT0NnQjlYOEREdmR3T0YtMGYxUG1CN2FSbjdCRWhxYjR5dnpjYzd2Y3hfcXgxQlE2U2tJbUt0akwyVmwzaWJYT…\n來源：Google News:BNY",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdHhmOG1SdnUwQWJQc2pfOEpRWGx4Tno0WE5KdUVZUlplUUNqVzdpcV9qZ0dGSGc1Q1VDVm83SjN3S05HSzg1cjBSMlVuT3JreGtWTGZsTGszdkJDM3AyOS1CMjZCaFl5Q21UT0NnQjlYOEREdmR3T0YtMGYxUG1CN2FSbjdCRWhxYjR5dnpjYzd2Y3hfcXgxQlE2U2tJbUt0akwyVmwzaWJYTzNLTjlZTnhhbDk1VVdPZzRoRUlDcTNmbERVMTdVVGhWUzZDaGNLRjVLTVBGUQ?oc=5",
-      "source": "Google News:BNY",
+      "symbol": "NTNX",
+      "short": "NTNX — Nutanix (NTNX) Stock May Be 48% Undervalued Following CEO Succession Plan - Simply Wall…",
+      "detail": "NTNX\n重點：新聞\n標題：Nutanix (NTNX) Stock May Be 48% Undervalued Following CEO Succession Plan - Simply Wall St\n摘要：<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQUldWcnh1Tkc1dnNNZFFhQmpaOUlPZWt0Y3pGZThxVjhiMHpfbFV3RzB2V2VZdmkwdXBEZlhZTkU3RTM1TF9hN0JVbEFsNklQbkFCUEJHMHRqUXljS0xaQUM0ZEJTMlBnNDdvUnc1Q1pKcmtqN19MRlFJZ1VuWWl1N1JKUlVJUEJkbXd3bEZOUzh0TkNaZjBXYWQ0WDRrTm1TM05YT3pLSkt5N…\n來源：Google News:NTNX",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUldWcnh1Tkc1dnNNZFFhQmpaOUlPZWt0Y3pGZThxVjhiMHpfbFV3RzB2V2VZdmkwdXBEZlhZTkU3RTM1TF9hN0JVbEFsNklQbkFCUEJHMHRqUXljS0xaQUM0ZEJTMlBnNDdvUnc1Q1pKcmtqN19MRlFJZ1VuWWl1N1JKUlVJUEJkbXd3bEZOUzh0TkNaZjBXYWQ0WDRrTm1TM05YT3pLSkt5NHF0MFZpZUg0ZUtrVzhrS0JFeHVMVFpHYjJw0gHKAUFVX3lxTE04UVlHdGVnSXZMd2prOURWdDBSUzNkUE43alZuakpTaVMtYUdyaGJUb3VUaWtaUDBrejZOOV9FQll6R2t0Q0lKMmZKWHZrMHRteFBUbkhxTkd4X0cwTjFVdV9DbmJTcF9DNV95NkRZV1NRQVY4Qy01ZWxLNzV4R1Z3MTFSN1NVc3FKb1NITGU5NFNucC1lT0tRR1RXcGdPNkZ6elJtUnVqRkM5QW8zVjAyU2JsX0dtaDh5Z0UzM09TSFRlcnZ1Z2ZKc0E?oc=5",
+      "source": "Google News:NTNX",
       "kind": "news"
     }
   ]
