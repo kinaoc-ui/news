@@ -1,114 +1,87 @@
 {
-  "title": "FS新聞 11-27 19:23",
-  "list_name": "FirstScreen_2026-11-27_192347_comma.txt",
-  "created_at": "2026-11-27T19:23:54.171811+00:00",
+  "title": "FS新聞 11-28 08:11",
+  "list_name": "FirstScreen_2026-11-28_081133_comma.txt",
+  "created_at": "2026-11-28T08:11:40.906450+00:00",
   "x_note": "",
   "items": [
     {
       "n": 1,
-      "symbol": "TTE",
-      "short": "TTE — TTE Expands US Gas Output Through Continental Resources Partnership",
-      "detail": "TTE\n重點：新聞\n標題：TTE Expands US Gas Output Through Continental Resources Partnership\n摘要：TotalEnergies expands its partnership with Continental Resources to boost U.S. natural gas output by 2032, strengthen LNG supply integration and support long-term growth.\n來源：Yahoo Finance:TTE\n其他：TotalEnergies SE Sponsored ADR $TTE Stock Acquired by State…",
-      "url": "https://finance.yahoo.com/energy/articles/tte-expands-us-gas-output-161400083.html?.tsrc=rss",
-      "source": "Yahoo Finance:TTE",
+      "symbol": "JD",
+      "short": "JD — JD.com (NASDAQ:JD) Stock: Insider Louis Hsieh Sells 15,000 Shares - MarketBeat",
+      "detail": "JD\n重點：新聞\n標題：JD.com (NASDAQ:JD) Stock: Insider Louis Hsieh Sells 15,000 Shares - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQNFFjcUZXWGF2ckF6T0VkN000RzhLM2E3M3c4LTFkR1FKWkRvcE13Q1ZBSHYzNXk4elVfMm1Ydlp1bWx5ZFEtNTJsYTJtN2dMZTNGSmRPTWNHSzNnZHZhNE8xZjBrdVU2YVNoNXExVS02WlhYNXZWOEQ1cVNucExDSV9Oc20xdDRJcFB6RjZYSlRzVi02UmdlNGJhVFFDQzZBSXV3V0VNNmhkV…\n來源：Google News:JD\n其他：JD.com (NASDAQ:JD) Director Sells 15,000 Shares of Company …",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNFFjcUZXWGF2ckF6T0VkN000RzhLM2E3M3c4LTFkR1FKWkRvcE13Q1ZBSHYzNXk4elVfMm1Ydlp1bWx5ZFEtNTJsYTJtN2dMZTNGSmRPTWNHSzNnZHZhNE8xZjBrdVU2YVNoNXExVS02WlhYNXZWOEQ1cVNucExDSV9Oc20xdDRJcFB6RjZYSlRzVi02UmdlNGJhVFFDQzZBSXV3V0VNNmhkVGYwT21rQ2lSSGJDdW5zV0g5VjBjZw?oc=5",
+      "source": "Google News:JD",
       "kind": "news"
     },
     {
       "n": 2,
-      "symbol": "AEO",
-      "short": "AEO — 業績／指引：American Eagle Gears Up for Q3 Earnings: What Should Investors Expect?",
-      "detail": "AEO\n重點：業績／指引\n標題：American Eagle Gears Up for Q3 Earnings: What Should Investors Expect?\n摘要：AEO's fiscal Q3 earnings are likely to reflect strong Aerie momentum, brand revitalization and digital marketing gains, while tariffs and rising costs weigh on profits.\n來源：Yahoo Finance:AEO",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/american-eagle-gears-q3-earnings-140800372.html?.tsrc=rss",
-      "source": "Yahoo Finance:AEO",
-      "kind": "news"
-    },
-    {
-      "n": 3,
-      "symbol": "ALSN",
-      "short": "ALSN — Allison Transmission Holdings Inc (NYSE:ALSN) Share Price, Forecast & Analysis - Stocks…",
-      "detail": "ALSN\n重點：新聞\n標題：Allison Transmission Holdings Inc (NYSE:ALSN) Share Price, Forecast & Analysis - Stocks Down Under\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOYkJGWnEyZkxnb0kwbjdBWG9oRm5DMzBrWUZUVmtudXBQS0hMT092YkJPS1ZYVmNqbnRkQTVXbDU4am0waVliYW90QTBiNDJPS1M0?oc=5\" target=\"_blank\">Allison Transmission Holdings Inc (NYSE:ALSN) Share Price, Forecast & Analysis</a>&nbsp;&nbsp;…\n來源：Google News:ALSN",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOYkJGWnEyZkxnb0kwbjdBWG9oRm5DMzBrWUZUVmtudXBQS0hMT092YkJPS1ZYVmNqbnRkQTVXbDU4am0waVliYW90QTBiNDJPS1M0?oc=5",
-      "source": "Google News:ALSN",
-      "kind": "news"
-    },
-    {
-      "n": 4,
-      "symbol": "ANET",
-      "short": "ANET — 業績／指引：Arista Networks (ANET) Upgraded to Strong Buy: Here's What You Should Know",
-      "detail": "ANET\n重點：業績／指引\n標題：Arista Networks (ANET) Upgraded to Strong Buy: Here's What You Should Know\n摘要：Arista Networks (ANET) has been upgraded to a Zacks Rank #1 (Strong Buy), reflecting growing optimism about the company's earnings prospects. This might drive the stock higher in the near term.\n來源：Yahoo Finance:ANET",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-anet-upgraded-strong-160003154.html?.tsrc=rss",
-      "source": "Yahoo Finance:ANET",
-      "kind": "news"
-    },
-    {
-      "n": 5,
       "symbol": "CRM",
-      "short": "CRM — Salesforce (NYSE:CRM) Rating Lowered to \"Hold\" at Erste Group Bank - MarketBeat",
-      "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Rating Lowered to \"Hold\" at Erste Group Bank - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSF9KOXI3ZlJfc2Z0cG9KemduMkpBTTJhcWh6SGIxeFVVMUlJdEJZbDlJLTc1dkJKaVMwMklpZmRNRmxlS0g3UlNVSkR5ZWlhb2JIQ2pPWWlwRExHN0ROMURzX0gwOWh4SjI5ejlLN1FtSkJZdzdqd2NmVVltOEM0UGdlRVBubXlDT2U1N1cyY1FjM3E0WHlBa3NiN0U1Y3RNdTJJbGxxV1R0c…\n來源：Google News:CRM",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSF9KOXI3ZlJfc2Z0cG9KemduMkpBTTJhcWh6SGIxeFVVMUlJdEJZbDlJLTc1dkJKaVMwMklpZmRNRmxlS0g3UlNVSkR5ZWlhb2JIQ2pPWWlwRExHN0ROMURzX0gwOWh4SjI5ejlLN1FtSkJZdzdqd2NmVVltOEM0UGdlRVBubXlDT2U1N1cyY1FjM3E0WHlBa3NiN0U1Y3RNdTJJbGxxV1R0clBWNzJnbW9fTVBic0FEb0FZVGlZSnk3Zw?oc=5",
+      "short": "CRM — Salesforce (NYSE:CRM) Share Price Breaks Above 200-Day Moving Average on Analyst Downgr…",
+      "detail": "CRM\n重點：新聞\n標題：Salesforce (NYSE:CRM) Share Price Breaks Above 200-Day Moving Average on Analyst Downgrade - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV0VuSy1ldnpIeVpqbWhyLUFlUE03TG5sUmYxc2lBbmRGbWcyVmFTOXFacE9GODBIVEQ1OVZoM1FGY1pMS1lyN2tSdUJRQm91aHIwUVliNmpyZXI1dEMtMWJoUGx1Y1hRZ0N1SkU3MFNoS0pESEFRVnJic2cwd2owcFk1bHZ4bTVreEtOalRvWVRaNWduc0VLQ3gzQWl0THpfYTFhb0pFVXBJa…\n來源：Google News:CRM",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV0VuSy1ldnpIeVpqbWhyLUFlUE03TG5sUmYxc2lBbmRGbWcyVmFTOXFacE9GODBIVEQ1OVZoM1FGY1pMS1lyN2tSdUJRQm91aHIwUVliNmpyZXI1dEMtMWJoUGx1Y1hRZ0N1SkU3MFNoS0pESEFRVnJic2cwd2owcFk1bHZ4bTVreEtOalRvWVRaNWduc0VLQ3gzQWl0THpfYTFhb0pFVXBJaEZ4VDJPS2xSTkU2Y3Ixd1QtUzFnRlhrajltaEliLTU0YlpRZHVCZEk0elpzeWdkbzQzRVFvSFZB?oc=5",
       "source": "Google News:CRM",
       "kind": "news"
     },
     {
+      "n": 3,
+      "symbol": "CRSP",
+      "short": "CRSP — CRISPR Therapeutics AG (NASDAQ:CRSP) Stock Rated \"Moderate Buy\" by Sell-Side Analysts -…",
+      "detail": "CRSP\n重點：新聞\n標題：CRISPR Therapeutics AG (NASDAQ:CRSP) Stock Rated \"Moderate Buy\" by Sell-Side Analysts - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMkJocWVvZnd3U0RlUjMzMk5wNDJpR3J3X09xS0N4Um12ejIxOUo3TmptdHVwQjV1NlM1RnFONjk0aWZNejU4RmpXVGZ3bFhZSm9JYVNybmduVWJhNEtSLU9BbFV0Zm9KTEhZUEdaLXF6NGdlYlItRmJSRVlST24zTnEyVUQ0NEhxeEZHRTc5UVlrcGZyaElyTTB1c2dNZThMTU9SZWk5azJ0c…\n來源：Google News:CRSP",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMkJocWVvZnd3U0RlUjMzMk5wNDJpR3J3X09xS0N4Um12ejIxOUo3TmptdHVwQjV1NlM1RnFONjk0aWZNejU4RmpXVGZ3bFhZSm9JYVNybmduVWJhNEtSLU9BbFV0Zm9KTEhZUEdaLXF6NGdlYlItRmJSRVlST24zTnEyVUQ0NEhxeEZHRTc5UVlrcGZyaElyTTB1c2dNZThMTU9SZWk5azJ0c0I5MGpDZ3NsR1NfT0dwcmFrWFBTcGpQQ1NCN2RhenY0d2hEaHFIZWtVdTdDbkxLZm9PM3c?oc=5",
+      "source": "Google News:CRSP",
+      "kind": "news"
+    },
+    {
+      "n": 4,
+      "symbol": "FUTU",
+      "short": "FUTU — Futu (NASDAQ:FUTU) Stock Rating Lowered by Wall Street Zen - MarketBeat",
+      "detail": "FUTU\n重點：新聞\n標題：Futu (NASDAQ:FUTU) Stock Rating Lowered by Wall Street Zen - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQcEFoNlNtLVE5RFpwLXN5VG1vYnN4eUQzbUtKZWZwOUFxcjc5TkFwMEFfa0hQT25kYlBfbGFmYjcxenRpNWZ2VDhyajR5bUlZWkFWb0U4ODRnWUZFaWdxSlN4ZGpfOFFPb0s5WXRHTW9rUFdLYTA3M2pzX2tKMjdkd3d2dG1PVUZPVHNNZzdXM1hXcnd3ZXVTRVpmNEtmUEJ3b2JQaE1IQkRwd…\n來源：Google News:FUTU",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcEFoNlNtLVE5RFpwLXN5VG1vYnN4eUQzbUtKZWZwOUFxcjc5TkFwMEFfa0hQT25kYlBfbGFmYjcxenRpNWZ2VDhyajR5bUlZWkFWb0U4ODRnWUZFaWdxSlN4ZGpfOFFPb0s5WXRHTW9rUFdLYTA3M2pzX2tKMjdkd3d2dG1PVUZPVHNNZzdXM1hXcnd3ZXVTRVpmNEtmUEJ3b2JQaE1IQkRwdXVwVFRBWjQ1OC1rWnZvc1E?oc=5",
+      "source": "Google News:FUTU",
+      "kind": "news"
+    },
+    {
+      "n": 5,
+      "symbol": "GGB",
+      "short": "GGB — Gerdau (NYSE:GGB) Stock Crosses Above Two Hundred Day Moving Average - Here's What Happ…",
+      "detail": "GGB\n重點：新聞\n標題：Gerdau (NYSE:GGB) Stock Crosses Above Two Hundred Day Moving Average - Here's What Happened - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ1JjTkhGZU1ES2FDQzBMNkRoUkxPQnZqQkgyZExYbkJjZTN2RjdxUjZLckdtQXpyZmRXbHhGMjRVeE5ZV25OMXlpNXBkb3E2SzMybUFLb0VXNDVRSHEweWRSOEhJLVo0aGFiNlIzeDRnN0NsVmhsN0QyZEx3VDVDQmRKelJzeXN2WGwyTXh0NElXX3dXdnZVVEFfb0FjZEVNRGhMVE13aXJ3Y…\n來源：Google News:GGB",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ1JjTkhGZU1ES2FDQzBMNkRoUkxPQnZqQkgyZExYbkJjZTN2RjdxUjZLckdtQXpyZmRXbHhGMjRVeE5ZV25OMXlpNXBkb3E2SzMybUFLb0VXNDVRSHEweWRSOEhJLVo0aGFiNlIzeDRnN0NsVmhsN0QyZEx3VDVDQmRKelJzeXN2WGwyTXh0NElXX3dXdnZVVEFfb0FjZEVNRGhMVE13aXJ3YmxqdTgzLXBwa2dvR3MwVHoyaTNOQ1JTRmdhOVZuQ0daSTZWME9JcVFGdGVvZ3FaMFB2SDdn?oc=5",
+      "source": "Google News:GGB",
+      "kind": "news"
+    },
+    {
       "n": 6,
-      "symbol": "FDX",
-      "short": "FDX — 業績／指引：FedEx (FDX) Up 0.3% Since Last Earnings Report: Can It Continue?",
-      "detail": "FDX\n重點：業績／指引\n標題：FedEx (FDX) Up 0.3% Since Last Earnings Report: Can It Continue?\n摘要：FedEx (FDX) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.\n來源：Yahoo Finance:FDX",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fedex-fdx-0-3-since-153014225.html?.tsrc=rss",
-      "source": "Yahoo Finance:FDX",
+      "symbol": "KSS",
+      "short": "KSS — Kohl's (NYSE:KSS) Stock Moved Up to \"Buy\" by Wall Street Zen - MarketBeat",
+      "detail": "KSS\n重點：新聞\n標題：Kohl's (NYSE:KSS) Stock Moved Up to \"Buy\" by Wall Street Zen - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSE9zbk4wdVRpZ0VUdWJObGRRVTJkYUdiNGpRZ1FoWWhISXJ2SmQ0WWlXbHhRZkpoNVBPZHdNR0NmVmpKWHVqelJzRjh4ZTc5cW9oWnBtRDJrWlpBc0hzWVBaaEdEY2o3UmZBVjBtWUhCeThWNS1iZk5RTHAyV2kzMjNSWURyMWRuWnpkRGd6XzdmSmZLNHZzZmU0S05BYzdsOXV2aWtvbjl3N…\n來源：Google News:KSS",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSE9zbk4wdVRpZ0VUdWJObGRRVTJkYUdiNGpRZ1FoWWhISXJ2SmQ0WWlXbHhRZkpoNVBPZHdNR0NmVmpKWHVqelJzRjh4ZTc5cW9oWnBtRDJrWlpBc0hzWVBaaEdEY2o3UmZBVjBtWUhCeThWNS1iZk5RTHAyV2kzMjNSWURyMWRuWnpkRGd6XzdmSmZLNHZzZmU0S05BYzdsOXV2aWtvbjl3N3o4WmlaTnZld0l6Wnht?oc=5",
+      "source": "Google News:KSS",
       "kind": "news"
     },
     {
       "n": 7,
-      "symbol": "FTNT",
-      "short": "FTNT — 業績／指引：Why Is Fortinet (FTNT) Down 3% Since Last Earnings Report?",
-      "detail": "FTNT\n重點：業績／指引\n標題：Why Is Fortinet (FTNT) Down 3% Since Last Earnings Report?\n摘要：Fortinet (FTNT) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.\n來源：Yahoo Finance:FTNT",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-fortinet-ftnt-down-3-153025204.html?.tsrc=rss",
-      "source": "Yahoo Finance:FTNT",
+      "symbol": "LNG",
+      "short": "LNG — Cheniere Energy (NYSE:LNG) Raised to Buy at Wall Street Zen - MarketBeat",
+      "detail": "LNG\n重點：新聞\n標題：Cheniere Energy (NYSE:LNG) Raised to Buy at Wall Street Zen - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMks4dWdxWldKdmRXSGNfUFJJVlJkWGdPaVFUSy0tSk1nZ244UmRCcjFLQjNCVWhWVndadjNUMmtPTDhDQ1l6WjQxell0Ty1FVk5TcEZ6QXBZT0hhSEx1SnB6SjFLUl9CZTZIR2pUMjFZRjZKNFdtT2JiYlBSQmFZTDIzWWFFYWFVY0pYUjJNQUY4Tm4yRW54Q1FDNHJyMTRnUXcxUVQ1aHhpd…\n來源：Google News:LNG",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMks4dWdxWldKdmRXSGNfUFJJVlJkWGdPaVFUSy0tSk1nZ244UmRCcjFLQjNCVWhWVndadjNUMmtPTDhDQ1l6WjQxell0Ty1FVk5TcEZ6QXBZT0hhSEx1SnB6SjFLUl9CZTZIR2pUMjFZRjZKNFdtT2JiYlBSQmFZTDIzWWFFYWFVY0pYUjJNQUY4Tm4yRW54Q1FDNHJyMTRnUXcxUVQ1aHhpdk4wc0VfREpoMURyVjZmbzVV?oc=5",
+      "source": "Google News:LNG",
       "kind": "news"
     },
     {
       "n": 8,
-      "symbol": "GEN",
-      "short": "GEN — 業績／指引：Gen Digital (GEN) Up 7% Since Last Earnings Report: Can It Continue?",
-      "detail": "GEN\n重點：業績／指引\n標題：Gen Digital (GEN) Up 7% Since Last Earnings Report: Can It Continue?\n摘要：Gen Digital (GEN) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.\n來源：Yahoo Finance:GEN",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gen-digital-gen-7-since-153014896.html?.tsrc=rss",
-      "source": "Yahoo Finance:GEN",
+      "symbol": "OBDC",
+      "short": "OBDC — Blue Owl Capital (NYSE:OBDC) Stock Breaks Above 200 Day Moving Average - Should You Sel…",
+      "detail": "OBDC\n重點：新聞\n標題：Blue Owl Capital (NYSE:OBDC) Stock Breaks Above 200 Day Moving Average - Should You Sell? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYzRZNXhNdGprNFVCNkdxc3R1VGVsbHpOalZremVZemZZRHowWkJGWkNOanZOX0tFUGw1Y3BFczFVQTZkU0hvOUprS1o3QVlPRmFaYlNSZzcwSGhRLWRXU1hzZDNqaHdVQmctZDhoc3dGNmtXUDlTaDBXanVpa3BUcTl1TEM5U0dKUUdRQzA3djRaLWdCT2hfUTMtT19KSnZyWk52Mjdra2w4Z…\n來源：Google News:OBDC",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYzRZNXhNdGprNFVCNkdxc3R1VGVsbHpOalZremVZemZZRHowWkJGWkNOanZOX0tFUGw1Y3BFczFVQTZkU0hvOUprS1o3QVlPRmFaYlNSZzcwSGhRLWRXU1hzZDNqaHdVQmctZDhoc3dGNmtXUDlTaDBXanVpa3BUcTl1TEM5U0dKUUdRQzA3djRaLWdCT2hfUTMtT19KSnZyWk52Mjdra2w4Z2VMd2dVNTFsNDR2R2RmV2FWUUhLZ3RUT0dkUXEwSTA0OE5DY0lXWXZCbHBxSDlXdGUy?oc=5",
+      "source": "Google News:OBDC",
       "kind": "news"
     },
     {
       "n": 9,
-      "symbol": "MDT",
-      "short": "MDT — Medtronic: Pick Up This Dividend Aristocrat On Sale Now (NYSE:MDT) - Seeking Alpha",
-      "detail": "MDT\n重點：新聞\n標題：Medtronic: Pick Up This Dividend Aristocrat On Sale Now (NYSE:MDT) - Seeking Alpha\n摘要：<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNZHZSM09iRktwNUo1R0hoZXRwc0J2by1DMnVRNUZkdnZDUGJwMUdQa3BhZF80ak1DaERSMjh2bmwwekFCV3loSkdWV29VZjhGQnpacnlON3g0OGhrWVcxSHFGVEpOMVBUU2U2M1ZiRnJXdk5aYXpPbEx5dlJDRzhqLXJVYkF0NWF0Qnpld1dhRTBpbERCeFIweGJmZw?oc=5\" target=\"_bla…\n來源：Google News:MDT",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZHZSM09iRktwNUo1R0hoZXRwc0J2by1DMnVRNUZkdnZDUGJwMUdQa3BhZF80ak1DaERSMjh2bmwwekFCV3loSkdWV29VZjhGQnpacnlON3g0OGhrWVcxSHFGVEpOMVBUU2U2M1ZiRnJXdk5aYXpPbEx5dlJDRzhqLXJVYkF0NWF0Qnpld1dhRTBpbERCeFIweGJmZw?oc=5",
-      "source": "Google News:MDT",
-      "kind": "news"
-    },
-    {
-      "n": 10,
-      "symbol": "OKTA",
-      "short": "OKTA — AI相關：Okta Drops 10% in a Month: Should Investors Buy the Stock on the Dip?",
-      "detail": "OKTA\n重點：AI相關\n標題：Okta Drops 10% in a Month: Should Investors Buy the Stock on the Dip?\n摘要：OKTA's 10.4% stock decline offers a buying opportunity as rising AI agent security demand, product adoption and enterprise expansion fuel long-term growth.\n來源：Yahoo Finance:OKTA",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/okta-drops-10-month-investors-130000294.html?.tsrc=rss",
-      "source": "Yahoo Finance:OKTA",
-      "kind": "news"
-    },
-    {
-      "n": 11,
-      "symbol": "ROST",
-      "short": "ROST — Toronto Dominion Bank Buys 157,486 Shares of Ross Stores, Inc. $ROST - MarketBeat",
-      "detail": "ROST\n重點：新聞\n標題：Toronto Dominion Bank Buys 157,486 Shares of Ross Stores, Inc. $ROST - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb1AyUjh4VmJIYTczY2tjdU5aUldwSF9kSXlhNmNFYnNUUl95YWFtT1RvME9aWkg2MzY5TkpZWGV2RkkyMGoydWo5ZndPOHRZYmY3a1RZNDdSdml4V1IxNmFHXzV1N2FEV2l6bDBkTi1pSlN4Vi1YVXRJMkl0SERlSFh2SjBlYWZjMWtVYzlNR19rOHFaTDZUU2xES0wtUXdOV0E0TDhfWHM1V…\n來源：Google News:ROST",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb1AyUjh4VmJIYTczY2tjdU5aUldwSF9kSXlhNmNFYnNUUl95YWFtT1RvME9aWkg2MzY5TkpZWGV2RkkyMGoydWo5ZndPOHRZYmY3a1RZNDdSdml4V1IxNmFHXzV1N2FEV2l6bDBkTi1pSlN4Vi1YVXRJMkl0SERlSFh2SjBlYWZjMWtVYzlNR19rOHFaTDZUU2xES0wtUXdOV0E0TDhfWHM1VE5xaTZ1ZXhFT3RMTmg4bnIwanpXZDhkQnc?oc=5",
-      "source": "Google News:ROST",
-      "kind": "news"
-    },
-    {
-      "n": 12,
       "symbol": "STT",
-      "short": "STT — State Street Corporation $STT Position Increased by Toronto Dominion Bank - MarketBeat",
-      "detail": "STT\n重點：新聞\n標題：State Street Corporation $STT Position Increased by Toronto Dominion Bank - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPN2xuUFFQTXZuMGxHVkNOTXpVVDItc2VZeDh1dWNfRllxRW1OUHh6QjlUTVZubjRrWjlZcXA4RVZHdFdlc3FQdnNZSXhadEgwdkhYckFUTVc2TmlWbWtDZ3NFX3M3dWdiSWNNWlRmald1TzB3d2Zwbmd0aDE1LXgyUkdLbzdQOTBvM0x4cy00dGdkTzlIeHRoQ0VLOVR2RjhRcnp2Zlg3UmRnU…\n來源：Google News:STT",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN2xuUFFQTXZuMGxHVkNOTXpVVDItc2VZeDh1dWNfRllxRW1OUHh6QjlUTVZubjRrWjlZcXA4RVZHdFdlc3FQdnNZSXhadEgwdkhYckFUTVc2TmlWbWtDZ3NFX3M3dWdiSWNNWlRmald1TzB3d2Zwbmd0aDE1LXgyUkdLbzdQOTBvM0x4cy00dGdkTzlIeHRoQ0VLOVR2RjhRcnp2Zlg3UmRnUS1VUk9EdVh1UFBYbGEzeTFVOTdUTmROSXg2aFdnSldET0lPdw?oc=5",
+      "short": "STT — State Street (NYSE:STT) Share Price Breaks Above Two Hundred Day Moving Average - What'…",
+      "detail": "STT\n重點：新聞\n標題：State Street (NYSE:STT) Share Price Breaks Above Two Hundred Day Moving Average - What's Next? - MarketBeat\n摘要：<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX1M3M250V29zZVI1N3FCV1BGYW95UU1wcUMxTXVzSGtRRHU0bmluaUhtZVhUeTVWWWtLNFo4eEVIWG9mRGpjLVBQZWNGQ2JuRVhBMzJzSktDOFM4ZTJtSGZNaGtHNnpSRnBhdGk5cDYtRzc3LTlmWk9YbFVBSDFybnlwTklQN2FmaDQwNXhYbDFYS0EzeUhISXBiaU1PSjU3VTFGQWc5Rkw4U…\n來源：Google News:STT",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX1M3M250V29zZVI1N3FCV1BGYW95UU1wcUMxTXVzSGtRRHU0bmluaUhtZVhUeTVWWWtLNFo4eEVIWG9mRGpjLVBQZWNGQ2JuRVhBMzJzSktDOFM4ZTJtSGZNaGtHNnpSRnBhdGk5cDYtRzc3LTlmWk9YbFVBSDFybnlwTklQN2FmaDQwNXhYbDFYS0EzeUhISXBiaU1PSjU3VTFGQWc5Rkw4UHJEZTBjWDg5M0xMVmpieUo3SUlVYUdYeVVSUk42S1RrdG9YeTJZdndUaDBRRlkyTUJoRXFIbnB3?oc=5",
       "source": "Google News:STT",
       "kind": "news"
     }
